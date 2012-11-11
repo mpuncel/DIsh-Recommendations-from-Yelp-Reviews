@@ -86,6 +86,7 @@ restaurants = [
 
 training_restaurants = [
 '411_West',                                    
+'800_Degrees_Neapolitan_Pizzeria',
 'Babbos_Original_Mediterranean_Bistro',
 'Bacaro_LA',
 'Al_Forno_Restaurant',
