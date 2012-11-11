@@ -16,15 +16,15 @@ Salmone Al Forno
 Braciola Di Pollo
 Zuppetta Di Pesce
 Pollo Picchi Pacchi
-Margherita Pizze;Margherita Pizza
-Salute Pizze;Salute Pizza
-Al Funghi Pizze;Al Funghi Pizza
-Affumicata Pizze;Affumicata Pizza
-Insalata Pizze;Insalata Pizza
-Norcina Pizze;Norcina Pizza
-Prosciutto Pizze;Prosciutto Pizza
-Bianca Pizze;Bianca Pizza
-Quattro Stagioni Pizze;Quattro Stagioni Pizza
+Margherita Pizza
+Salute Pizza
+Al Funghi Pizza
+Affumicata Pizza
+Insalata Pizza
+Norcina Pizza
+Prosciutto Pizza
+Bianca Pizza
+Quattro Stagioni Pizza
 Fettucine
 Integrale
 Gnocchi
