@@ -1,0 +1,38 @@
+Asparagi Al Forno
+Zuppa Di Campagna
+Insalata Romana
+Caprese
+Insalata Di Campo
+Carciofi
+Calamari
+Polpette
+Mixed Green Salad
+Chop Mix Greens And Vegetable Salad
+Arugula, Fennel And Pecorino Salad
+Grilled Chicken Salad
+Zuppa Di Campagna
+Zuppa Del Giorno
+Salmone Al Forno
+Braciola Di Pollo
+Zuppetta Di Pesce
+Pollo Picchi Pacchi
+Margherita Pizze;Margherita Pizza
+Salute Pizze;Salute Pizza
+Al Funghi Pizze;Al Funghi Pizza
+Affumicata Pizze;Affumicata Pizza
+Insalata Pizze;Insalata Pizza
+Norcina Pizze;Norcina Pizza
+Prosciutto Pizze;Prosciutto Pizza
+Bianca Pizze;Bianca Pizza
+Quattro Stagioni Pizze;Quattro Stagioni Pizza
+Fettucine
+Integrale
+Gnocchi
+Spaghetti Alla Tarantina
+Penne Siciliana
+Bolognese
+Lasagne Verdi
+Tiramisu
+Crespelle
+Torta Al Chocolato
+Panna Cotta

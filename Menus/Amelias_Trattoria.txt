@@ -1,0 +1,21 @@
+Calamari
+Antipasto
+Mussels
+Caponatina
+Polenta
+Caesar Salad
+Arugula Salad
+Greens Salad
+Spinach Salad
+Pesce di Notte
+Fish
+Salmon
+Chicken Milanese;Chicken
+Off the Bone Beef;Beef;Short Rib
+Spaghetti
+Ravioli
+Short Rib Bolognese
+Linguine
+Gnocchi
+Spaghetti alla Carbonara;Carbonara
+Mushroom Risotto;Risotto

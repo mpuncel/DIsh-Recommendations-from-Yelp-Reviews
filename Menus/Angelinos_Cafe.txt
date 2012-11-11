@@ -1,0 +1,35 @@
+ham and cheese
+siciliano
+Chicken Pesto
+Pastrami
+Meatball
+Philly Cheese Steak
+Turkey
+Tuna
+Hamburger
+Caprese
+Mushroom
+Veggie
+Soup
+Green Salad
+Caesar Salad
+Chopped Salad
+Caprese Salad
+Spinach Salad
+Spaghetti Marinara
+Rigatoni
+Gnocchi
+Penne
+Linguine
+Ravioli
+Spaghetti alla Carbonara
+Spaghetti Meatball
+Spaghetti alla Bolognese
+Spaghetti Sausage
+Fettuccine Alfredo
+Pizza
+New York Steak
+Chicken Marcella
+Chicken Milanese
+Chicken Parmesan
+Chicken Breast
