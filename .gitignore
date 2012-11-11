@@ -1,1 +1,14 @@
 *.swp
+30_review_restaurants.tar.gz
+30_review_italian_restaurants.json
+30_review_restaurants
+50_review_italian_restaurants.json
+50_review_restaurants.tar.gz
+50_review_restaurants
+blah.txt
+categories.txt
+italian_restaurants.json
+jsontest.py
+venv/
+yelp_academic_dataset.json
+.gitignore
