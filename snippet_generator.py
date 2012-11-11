@@ -81,7 +81,18 @@ restaurants = [
 	'Voza',
 ]
 
-training_restaurants = restaurants[0:10]
+training_restaurants = [
+'411_West',                                    
+'Babbos_Original_Mediterranean_Bistro',
+'800_Degrees_Neapolitan_Pizzeria',
+'Bacaro_LA',
+'Al_Forno_Restaurant',
+'Bettolona',
+'Allegro_Pizza',
+'Buca_Di_Beppo',
+'Amelias_Trattoria',
+'Buona_Tavola',
+]
 
 NUM_TRAILING_WORDS = 12
 def rightclip(amt, length):
