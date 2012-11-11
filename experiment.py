@@ -1,9 +1,12 @@
 import json
 words = []
-menu = file('Amelias_Trattoria.txt', 'r')
+menu = file('Menus/Amelias_Trattoria.txt', 'r')
 
-def clip(amt, length):
+def rightclip(amt, length):
 	return min(amt, length)
+
+def leftclip(amt):
+	return max(amt, 0)
 
 line = menu.readline()
 for line in menu:
@@ -16,11 +19,10 @@ print words
 for line in reviews:
 	obj = json.loads(line)
 	if obj['type'] == 'review':
-		print obj['text']
+		#print obj['text']
 		text = [x.lower() for x in obj['text'].split(' ')]
 		for i in xrange(0, len(text)):
 			for j in xrange(0, max_length):
-				excerpt = text[i : clip(i + j + 1, len(text))]
+				excerpt = text[i : rightclip(i + j + 1, len(text))]
 				if ' '.join(excerpt) in words:
-					print "got a fuckin match for %s" % excerpt
-	print '\n\n'
+					print ' '.join(text[leftclip(i - 5): rightclip(i + j + 6, len(text))])
