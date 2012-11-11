@@ -81,6 +81,8 @@ restaurants = [
 	'Voza',
 ]
 
+training_restaurants = restaurants[0:10]
+
 NUM_TRAILING_WORDS = 12
 def rightclip(amt, length):
 	return min(amt, length)
@@ -92,7 +94,10 @@ for restaurant_name in restaurants:
 	try:
 		words = []
 		menu = file(menu_base + restaurant_name + '.txt', 'r')
-		snippets = file(training_output_base + restaurant_name + '.txt', 'w')
+		test_snippets = file(test_output_base + restaurant_name + '.txt', 'w')
+		if restaurant_name in training_restaurants:
+			training_snippets = file(training_output_base + restaurant_name + '.txt', 'w')
+
 		line = menu.readline()
 		for line in menu:
 			words.append(line.strip().split(';')[0].lower())
@@ -109,14 +114,22 @@ for restaurant_name in restaurants:
 							excerpt = text[i : rightclip(i + j + 1, len(text))]
 							if ' '.join(excerpt) in words:
 								string = ' '.join(text[leftclip(i): rightclip(i + j + 1 + NUM_TRAILING_WORDS, len(text))])
-								snippets.write(string if string.find('\n') < 0 else string[0: string.find('\n')])
-								snippets.write('\n')
+								if restaurant_name in training_restaurants:
+									training_snippets.write(string if string.find('\n') < 0 else string[0: string.find('\n')])
+									training_snippets.write('\n')
+								test_snippets.write(string if string.find('\n') < 0 else string[0: string.find('\n')])
+								test_snippets.write('\n')
+
 								break
 			except:
+				print "except 1"
 				break
-		snippets.close()
+		if restaurant_name in training_restaurants:
+			training_snippets.close()
+		test_snippets.close()
 		menu.close()
 		reviews.close()
 	except:
+		print 'except 2'
 		continue
 
