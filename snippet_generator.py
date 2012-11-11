@@ -1,4 +1,7 @@
+import traceback
 import json
+import sys
+
 menu_base = 'Menus/'
 training_output_base = 'training/Snippets/'
 test_output_base = 'test/Snippets/'
@@ -84,7 +87,6 @@ restaurants = [
 training_restaurants = [
 '411_West',                                    
 'Babbos_Original_Mediterranean_Bistro',
-'800_Degrees_Neapolitan_Pizzeria',
 'Bacaro_LA',
 'Al_Forno_Restaurant',
 'Bettolona',
@@ -92,6 +94,7 @@ training_restaurants = [
 'Buca_Di_Beppo',
 'Amelias_Trattoria',
 'Buona_Tavola',
+'DAmicos_Italian_Market_Cafe',
 ]
 
 NUM_TRAILING_WORDS = 12
@@ -133,14 +136,12 @@ for restaurant_name in restaurants:
 
 								break
 			except:
-				print "except 1"
-				break
+				continue
 		if restaurant_name in training_restaurants:
 			training_snippets.close()
 		test_snippets.close()
 		menu.close()
 		reviews.close()
 	except:
-		print 'except 2'
 		continue
 
