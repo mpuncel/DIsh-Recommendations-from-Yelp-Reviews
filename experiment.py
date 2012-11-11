@@ -24,5 +24,5 @@ for line in reviews:
 			for j in reversed(xrange(0, max_length)):
 				excerpt = text[i : rightclip(i + j + 1, len(text))]
 				if ' '.join(excerpt) in words:
-					print ' '.join(text[leftclip(i - 5): rightclip(i + j + 6, len(text))])
+					print ' '.join(text[leftclip(i): rightclip(i + j + 9, len(text))])
 					break
