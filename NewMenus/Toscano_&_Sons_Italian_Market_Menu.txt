@@ -1,0 +1,55 @@
+Bresaola
+Hot Coppa
+Finocchiona
+Genoa Salami (hot)
+Genoa Salami (mild)
+Mortadella
+Pancetta
+Peperoni
+Porchetta
+Prosciutto Di Parma
+Salami (dry)
+Salami (hot)
+Salami (toscano Picante)
+Speck Alto Adige
+Sopressata
+Asiago Pressato
+Auricchio Provoloneauricchio Provolone
+Bra Tenero
+Caciocavallo
+Fontina
+Grana Padano
+Gorgonzola
+Mascarpone
+Mozzarella
+Parmigiano Reggiano
+Pecorino Romano
+Pecorino Toscano
+Piave
+Provolone
+Ricotta Salata
+Taleggio
+
+Petite
+
+Small
+
+Medium
+
+Large
+Cheese Lasagna (vegetarian)
+Meat Lasagna
+Chicken Parmigiano
+Penne With Marinara Sauce
+Bucatini A&#39;matriciana
+Penne With Wild Mushroom Cream Sauce
+Dolcis
+Pignola
+Chocolate Nut
+Sicilian Fig
+Venetians
+Anisette
+Lemon Sesame
+Mouzette
+
+Dessert Platters

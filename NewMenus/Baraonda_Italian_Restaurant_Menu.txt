@@ -1,0 +1,50 @@
+Focaccia
+Zuppa
+Calamari
+Bruschetta
+Carpaccio
+Cozze
+Guanciale
+Salumi Affettati
+Casa
+Caprese
+Cesare
+Gorgonzola
+Arugula
+Olive
+Mozzarella Di Bufala
+Margherita
+Capricciosa
+Romana
+Fra Diavolo
+Anatra
+Prosciutto Di Parma
+Americana
+Ciociare
+Pastore
+Rustica
+Mare
+Bianca
+
+Topping 1
+
+Topping 2
+
+Topping 3
+
+Topping 4
+Linguini Pescatore
+Paglia E Fieno
+Paccheri Genovese
+Garganelli Pugliese
+Lasagna Casalingha
+Ravioli
+Pappardelle
+Penne Checca
+Costelette Dagnello
+Contrafiletto
+Lombata
+Pollo Alla Piccata
+Scaloppine
+Pesce Del Giorno
+Cotoletta

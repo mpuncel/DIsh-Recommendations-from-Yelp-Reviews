@@ -1,0 +1,53 @@
+Calamari
+Cozze
+Gamberetti
+Polipo
+Tonno
+Carciofo
+Bruschetta
+Polpette
+Salsiccia
+Bietole / Caprino
+Cesare
+Caprese
+Funghi
+Insalata Verde
+Prosciutto
+Affettata Di Bresaola
+Affettati E Formaggi
+Rigatoni
+Linguine
+Mezzalune
+Penne Alla Carbonara
+Pappardelle
+Spaghetti Casalinga
+Lasagna Matta
+Farfalle
+Quattro Formaggi
+Agnolotti
+Tortelli
+Gnocchi Malfatti
+Risotto Di Salsiccia
+Risotto Frutti Di Mare
+Maialino
+Pollo
+Anatra
+Agnello
+Pesce
+Salmone
+Capesante
+Pesce Spada
+Zuppa Di Mare
+Scallopine Ai Funghi
+Vitello Alla Parmigiana
+Ossobuco
+Bistecca Alla Pizzaiola
+Brasato Di Manzo
+Costata Di Vitello
+Asparagi
+Fagiolini
+Spinacci
+Melanzane
+Patate Al Forno
+Patate Puree
+Patate Fritte
