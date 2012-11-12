@@ -1,0 +1,16 @@
+white pizza
+allegro white
+upside down pizza
+hawaiian pizza
+bbq chicken pizza
+plain steak sandwich
+cheese steak sandwich
+green pepper steak sandwich
+green pepper cheese steak sandwich
+mushroom steak sandwich
+mushroom cheese steak sandwich
+hamburger
+hamburger deluxe
+cheeseburger
+cheeseburger deluxe
+bacon hamburger
