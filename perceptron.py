@@ -1,3 +1,5 @@
+import traceback
+import sys
 import re
 
 alpha = 1
@@ -5,19 +7,19 @@ T = 10
 test_snippets_base = 'test/Snippets/'
 predictions_base = 'test/predictions/'
 training_snippets_base = 'training/Snippets/'
-training_labels_base = 'training/Snippets/training/'
 training_suffix = '_training.txt'
 exclusion_regex = r'[)(\n.?!:,]'
 training_restaurants = [
+	'411_West',
+	'800_Degrees_Neapolitan_Pizzeria',
 	'Al_Forno_Restaurant',
 	'Amelias_Trattoria',
-	'Angelinos_Cafe',
-	'Bacaro_LA',
-	'Buca_Di_Beppo',
-	'DAmicos_Italian_Market_Cafe',
 	'Babbos_Original_Mediterranean_Bistro',
+	'Bacaro_LA',
 	'Bettolona',
-	'Buona_Tavola',
+	#'Buca_Di_Beppo',
+	#'Buona_Tavola',
+	#'DAmicos_Italian_Market_Cafe',
 ]
 restaurants = [
 	'411_West',
@@ -113,7 +115,7 @@ weight = [0]*len(vocab)
 for i in range(0, T):
 	for training_restaurant_name in training_restaurants:
 		snips = file(training_snippets_base + training_restaurant_name + '.txt', 'r')
-		training = file(training_labels_base + training_restaurant_name + training_suffix, 'r')
+		training = file(training_snippets_base + training_restaurant_name + training_suffix, 'r')
 		for line in snips:
 			label = int(training.readline())
 			tokenset = set(re.sub(exclusion_regex, '', line).split(' '))
@@ -150,6 +152,8 @@ for restaurant_name in restaurants:
 
 			product = [w * x for w, x in zip(weight, vector)]
 			out.write(str(sum(product)) + '\n')
+
 	except:
+		#traceback.print_exc(file=sys.stdout)
 		continue
 
