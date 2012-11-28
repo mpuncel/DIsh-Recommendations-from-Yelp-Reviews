@@ -1,0 +1,44 @@
+﻿Arancini
+Bruschetta
+Tonno
+Caprese
+Panini Formaggio
+Carpaccio
+Fritto Misto
+Gamberi
+Lenticchia
+Mista
+Caesar
+Pesca
+Spinaci Con Pollo
+Verdure
+Polenta
+Spinaci
+Pure Di Patate
+Piatti Dipping Oil
+Salsiccia Pizza
+Margherita Pizza
+Melanzana Pizza
+Rapini Pizza
+Ravioli Melanzana
+Garganelli
+Risotto
+Gnocchi
+Pasta Primavera
+Capellini 
+Ravioli Al Limone
+Bolognese
+Pesce Del Giorno
+Pollo Arrosto
+Brodetto
+Maiale
+Brasato
+Salmone
+Filetto
+White Chocolate Bread Pudding
+Tiramisu
+Torta Di Mela
+Limone
+Cioccolate
+Gelato Balsamico
+Gelato E Sorbetto
