@@ -3,8 +3,8 @@ import json
 import sys
 
 menu_base = 'Menus/Nov27/'
-training_output_base = 'training/Snippets/'
-test_output_base = 'test/Snippets/'
+training_output_base = 'training/longSnippets/'
+test_output_base = 'test/longSnippets/'
 reviews_base = '50_review_restaurants/'
 restaurants = [
 	'411_West',
@@ -100,7 +100,8 @@ training_restaurants = restaurants
 ]
 '''
 
-NUM_TRAILING_WORDS = 12
+NUM_TRAILING_WORDS = 20
+NUM_LEADING_WORDS = 5
 def rightclip(amt, length):
 	return min(amt, length)
 
@@ -130,7 +131,7 @@ for restaurant_name in restaurants:
 						for j in reversed(xrange(0, max_length)):
 							excerpt = text[i : rightclip(i + j + 1, len(text))]
 							if ' '.join(excerpt) in words:
-								string = ' '.join(text[leftclip(i): rightclip(i + j + 1 + NUM_TRAILING_WORDS, len(text))])
+								string = ' '.join(text[leftclip(i - NUM_LEADING_WORDS): rightclip(i + j + 1 + NUM_TRAILING_WORDS, len(text))])
 								if restaurant_name in training_restaurants:
 									training_snippets.write(string if string.find('\n') < 0 else string[0: string.find('\n')])
 									training_snippets.write('\n')
