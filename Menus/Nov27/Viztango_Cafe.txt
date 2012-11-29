@@ -1,0 +1,84 @@
+﻿Bruschetta
+Calamari
+Cheese Sticks
+Bufallo Wings
+Baby Mushrooms
+Fried Raviolis
+Cobb Salad
+Fresh Salmon Salad
+Mixed Garden Salad
+Caesar Salad
+Greek Salad
+Chinese Chicken Salad
+Caprese Salad
+Chopped Salad
+Antipasto
+Nicoise Salad
+Mediterranean Salad
+Tilapia
+Chicken Parmigiana
+Chicken Picatta
+Chicken Marsala
+Chicken Saltimbocca
+Chicken Dijon
+Rosemary Chicken
+Chicken Cacciatore
+Grilled Mahi-mahi
+Grilled Fresh Ahi Tuna
+Grilled Salmon
+Rib Eye Steak
+Tenderloin Fillet
+Pastrami Sandwich
+Fresh Ahi Tuna Steak Sandwich
+Turkey Sandwich
+Tuna Salad Sandwich
+Steak Sandwich
+Meatball Sandwich
+Italian Sausage Sandwich
+Eggplant Parmigiana Sandwich
+Chicken Parmigiana Sandwich
+Chicken Club Sandwich
+Vegetarian Sandwich
+Fettuccini Alfredo
+Smoked Salmon Pasta
+Cajun Chicken Pasta
+Penne Vodka With Chicken
+Spaghettie Marinara
+Spaghetti Aglio And Olio
+Spaghetti Viztango
+Capellini Pomodoro
+Tortellini
+Chicken Ravioli
+Penne Puttanesca
+Linguini Primavera
+Eggplant Ravioli Parmigiana
+Eggplant Parmigiana
+Penne Pollo
+Meat Lasagna
+Chicken Cannelloni
+Farfalle Pesto
+Angel Hair Sebastian
+Linguini Artichini
+Linguini Clams
+Shrimp Scampi
+Farfalle Tequila
+Linguini Seafood
+Peperoni Pizza
+Carne Asada Pizza
+Meat Lovers
+Salad Pizza
+Barbecued Chicken Pizza
+Santa Fe Pizza
+Margarita Pizza
+Vegetarian Pizza
+Hawaiian Pizza
+Thai Chicken Pizza
+Napoletana Pizza
+Garlic Clove Pizza
+Capretta Pizza
+Combo Pizza
+Three Three Three Pizza
+Penne Pomodoro
+Spaghetti With Meat Sauce
+Spaghetti Viztango
+Penne Vodka
