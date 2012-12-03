@@ -2,7 +2,7 @@ import traceback
 import json
 import sys
 
-menu_base = 'Menus/Nov27/'
+menu_base = 'Menus/'
 training_output_base = 'training/longSnippets/'
 test_output_base = 'test/longSnippets/'
 reviews_base = '50_review_restaurants/'
