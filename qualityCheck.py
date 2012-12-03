@@ -14,6 +14,7 @@ def sign(x):
 for dirpath, dirnames, filenames in os.walk(predictions_base):
     for filename in filenames:
         if filename == "Angelinos_Cafe.txt":
+            print filename
             continue
         predictions = file(dirpath + filename).read().split('\n')
         del predictions[-1]
