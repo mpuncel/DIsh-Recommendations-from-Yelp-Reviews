@@ -3,8 +3,8 @@ import json
 import sys
 
 menu_base = 'Menus/'
-training_output_base = 'training/longSnippets/'
-test_output_base = 'test/longSnippets/'
+training_output_base = 'training/shortSnippets/'
+test_output_base = 'test/shortSnippets/'
 reviews_base = '50_review_restaurants/'
 restaurants = [
 	'411_West',
@@ -100,8 +100,8 @@ training_restaurants = restaurants
 ]
 '''
 
-NUM_TRAILING_WORDS = 20
-NUM_LEADING_WORDS = 5
+NUM_TRAILING_WORDS = 8
+#NUM_LEADING_WORDS = 5
 def rightclip(amt, length):
 	return min(amt, length)
 
