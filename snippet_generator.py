@@ -131,7 +131,9 @@ for restaurant_name in restaurants:
 						for j in reversed(xrange(0, max_length)):
 							excerpt = text[i : rightclip(i + j + 1, len(text))]
 							if ' '.join(excerpt) in words:
-								string = ' '.join(text[leftclip(i - NUM_LEADING_WORDS): rightclip(i + j + 1 + NUM_TRAILING_WORDS, len(text))])
+								if restaurant_name == 'Bacaro_LA':
+									print ' '.join(excerpt)
+								string = ' '.join(text[i: rightclip(i + j + 1 + NUM_TRAILING_WORDS, len(text))])
 								if restaurant_name in training_restaurants:
 									training_snippets.write(string if string.find('\n') < 0 else string[0: string.find('\n')])
 									training_snippets.write('\n')

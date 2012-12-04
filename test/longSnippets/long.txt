@@ -5,7 +5,7 @@
       67 Amelias_Trattoria.txt
       96 Angelinos_Cafe.txt
       57 Babbos_Original_Mediterranean_Bistro.txt
-     401 Bacaro_LA.txt
+     409 Bacaro_LA.txt
       31 Bettolona.txt
       42 Buca_di_Beppo.txt
       22 Buona_Tavola.txt
@@ -32,4 +32,4 @@
       56 Viztango_Cafe.txt
        8 Voza.txt
        0 long.txt
-    1865 total
+    1873 total
