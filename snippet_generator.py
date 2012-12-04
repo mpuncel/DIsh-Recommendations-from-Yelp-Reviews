@@ -100,7 +100,7 @@ training_restaurants = restaurants
 ]
 '''
 
-NUM_TRAILING_WORDS = 8
+NUM_TRAILING_WORDS = 10
 #NUM_LEADING_WORDS = 5
 def rightclip(amt, length):
 	return min(amt, length)
