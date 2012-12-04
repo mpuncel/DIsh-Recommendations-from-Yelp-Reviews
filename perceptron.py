@@ -4,9 +4,9 @@ import re
 
 alpha = 1
 T = 10
-test_snippets_base = 'test/Snippets/'
-predictions_base = 'test/predictions/'
-training_snippets_base = 'training/Snippets/'
+test_snippets_base = 'test/longSnippets/'
+predictions_base = 'test/longpredictions/'
+training_snippets_base = 'training/longSnippets/'
 training_suffix = '_training.txt'
 exclusion_regex = r'[)(\n.?!:,]'
 training_restaurants = [
