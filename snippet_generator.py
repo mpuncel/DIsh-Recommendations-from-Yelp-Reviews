@@ -4,7 +4,7 @@ import sys
 
 logging.basicConfig(filename='snippet_generator.log', level=logging.DEBUG)
 
-length = 'LONG'
+length = 'NORMAL'
 menu_base = 'Menus/'
 test_output_base = None
 if length == "NORMAL":
@@ -134,7 +134,7 @@ for restaurant_name in restaurants:
 			training_snippets = file(training_output_base + restaurant_name + '.txt', 'w')
 
 		for line in menu:
-			words.append(line.decode('utf-8').strip().split(';')[0].lower())
+			words.append(line.strip().split(';')[0].lower())
 
 		max_length = max([len(x.split(' ')) for x in words])
 		reviews = file(reviews_base + restaurant_name + '.json', 'r')
