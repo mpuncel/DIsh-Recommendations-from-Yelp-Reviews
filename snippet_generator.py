@@ -1,10 +1,28 @@
-import traceback
+import logging
 import json
 import sys
 
+logging.basicConfig(filename='snippet_generator.log', level=logging.DEBUG)
+
+length = 'LONG'
 menu_base = 'Menus/'
-training_output_base = 'training/shortSnippets/'
-test_output_base = 'test/shortSnippets/'
+test_output_base = None
+if length == "NORMAL":
+	print "normal"
+	training_output_base = "training/Snippets2/"
+	test_output_base = "test/Snippets2/"
+	NUM_TRAILING_WORDS = 12
+elif length == "SHORT":
+	print "short"
+	training_output_base = "training/shortSnippets2/"
+	test_output_base = "test/shortSnippets2/"
+	NUM_TRAILING_WORDS = 8
+elif length == "LONG":
+	print "long"
+	training_output_base = "training/longSnippets2/"
+	test_output_base = "test/longSnippets2/"
+	NUM_TRAILING_WORDS = 20
+
 reviews_base = '50_review_restaurants/'
 restaurants = [
 	'411_West',
@@ -100,7 +118,6 @@ training_restaurants = restaurants
 ]
 '''
 
-NUM_TRAILING_WORDS = 10
 #NUM_LEADING_WORDS = 5
 def rightclip(amt, length):
 	return min(amt, length)
@@ -116,9 +133,8 @@ for restaurant_name in restaurants:
 		if restaurant_name in training_restaurants:
 			training_snippets = file(training_output_base + restaurant_name + '.txt', 'w')
 
-		line = menu.readline()
 		for line in menu:
-			words.append(line.strip().split(';')[0].lower())
+			words.append(line.decode('utf-8').strip().split(';')[0].lower())
 
 		max_length = max([len(x.split(' ')) for x in words])
 		reviews = file(reviews_base + restaurant_name + '.json', 'r')
@@ -131,9 +147,8 @@ for restaurant_name in restaurants:
 						for j in reversed(xrange(0, max_length)):
 							excerpt = text[i : rightclip(i + j + 1, len(text))]
 							if ' '.join(excerpt) in words:
-								if restaurant_name == 'Bacaro_LA':
-									print ' '.join(excerpt)
 								string = ' '.join(text[i: rightclip(i + j + 1 + NUM_TRAILING_WORDS, len(text))])
+								string = string.encode('ascii', 'ignore')
 								if restaurant_name in training_restaurants:
 									training_snippets.write(string if string.find('\n') < 0 else string[0: string.find('\n')])
 									training_snippets.write('\n')
@@ -142,6 +157,7 @@ for restaurant_name in restaurants:
 
 								break
 			except:
+				logging.exception("inner")
 				continue
 		if restaurant_name in training_restaurants:
 			training_snippets.close()
@@ -149,5 +165,6 @@ for restaurant_name in restaurants:
 		menu.close()
 		reviews.close()
 	except:
+		logging.exception("outer")
 		continue
 
