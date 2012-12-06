@@ -1,6 +1,7 @@
 import os
 
 predictions_base = 'test/predictions/'
+baseline_base = 'test/baselinepredictions/'
 training_snippets_base = 'training/Snippets/'
 training_suffix = '_training.txt'
 
@@ -19,9 +20,10 @@ for dirpath, dirnames, filenames in os.walk(predictions_base):
         predictions = file(dirpath + filename).read().split('\n')
         del predictions[-1]
         pred = [sign(a) for a in predictions]
-        actuals = file(training_snippets_base + filename[:-4] + training_suffix).read().split('\n')
+        #actuals = file(training_snippets_base + filename[:-4] + training_suffix).read().split('\n')
+        actuals = file(baseline_base + filename).read().split('\n')
         del actuals[-1]
-        actual = [int(b) for b in actuals]
+        actual = [sign(b) for b in actuals]
         wrongCount = 0
         for i in range(len(pred)):
             if pred[i] != actual[i]:
