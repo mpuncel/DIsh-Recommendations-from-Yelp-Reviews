@@ -114,7 +114,6 @@ for restaurant_name in restaurants:
 		if restaurant_name in training_restaurants:
 			baseline_preds = file(baseline_base + restaurant_name + '.txt', 'w')
 
-		line = menu.readline()
 		for line in menu:
 			words.append(line.strip().split(';')[0].lower())
 
@@ -130,6 +129,8 @@ for restaurant_name in restaurants:
 						for j in reversed(xrange(0, max_length)):
 							excerpt = text[i : rightclip(i + j + 1, len(text))]
 							if ' '.join(excerpt) in words:
+								string = ' '.join(text[i: rightclip(i + j + 1 + NUM_TRAILING_WORDS, len(text))])
+								string = string.encode('ascii', 'ignore')
 								if restaurant_name in training_restaurants:
 									baseline_preds.write("1" if stars >= 3 else "-1")
 									baseline_preds.write('\n')
