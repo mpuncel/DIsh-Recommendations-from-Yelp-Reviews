@@ -1,11 +1,11 @@
--6 ravioli
-3 gnocchi
 -5 ravioli
--2 celina
-1 celina
-6 cajun shrimp
+0 gnocchi
+-7 ravioli
+5 celina
+8 celina
+3 cajun shrimp
 -4 gnocchi
-5 ravioli
-4 cajun shrimp
-2 herbed sausage and artichoke hearts
-10 veal sausage and brie
+4 ravioli
+1 cajun shrimp
+0 herbed sausage and artichoke hearts
+4 veal sausage and brie

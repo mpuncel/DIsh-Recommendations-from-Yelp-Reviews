@@ -1,38 +1,38 @@
-4 calamari
-0 calamari
--8 paella
--4 crab cake
-8 calamari
-11 salmon
+3 calamari
+-1 calamari
+-9 paella
+-1 crab cake
+6 calamari
+7 salmon
 4 octopus
-3 octopus
+5 octopus
 5 paella
--2 paella
--6 risotto
--8 salmon
-4 calamari
-1 calamari
--6 paella
--3 calamari
 1 paella
+-4 risotto
+-4 salmon
+2 calamari
+4 calamari
 -8 paella
--3 paella
+-4 calamari
+9 paella
+-5 paella
+-4 paella
+7 paella
 2 paella
-4 paella
-10 greek chicken
--1 octopus
--2 risotto
-3 octopus
-1 calamari
-11 salmon
-0 salmon
-4 risotto
+13 greek chicken
+-3 octopus
+-7 risotto
+5 octopus
+2 calamari
+8 salmon
+3 salmon
+6 risotto
 -2 pork saltimbocca
-0 calamari
--13 calamari
-0 paella
+4 calamari
+-4 calamari
+3 paella
 -2 greek salad
 -2 mezze sampler
-10 ricotta gnocchi
-1 orecchiette
-10 octopus
+17 ricotta gnocchi
+2 orecchiette
+11 octopus

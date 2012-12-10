@@ -1,70 +1,70 @@
 0 caprese
-14 cheese
+10 cheese
 -2 gnocchi
--1 cheese
-6 tiramisu
-8 cheese
-1 mushroom risotto
-10 scallops
-11 mushroom risotto
-5 mussels
-0 cheese
-0 cheese
-6 carpaccio
--3 calamari
-12 mussels
-7 scallops
-6 cheese
-4 caprese
-8 carpaccio
-3 filet
-5 scallops
-0 gnocchi
-5 scallops
-5 duck confit
-13 scallops
-2 mushroom risotto
-10 flat bread
 4 cheese
-2 flat bread
+3 tiramisu
+1 cheese
+8 mushroom risotto
+13 scallops
+7 mushroom risotto
+0 mussels
+3 cheese
+3 cheese
+16 carpaccio
+3 calamari
+12 mussels
+6 scallops
+4 cheese
+6 caprese
+4 carpaccio
+3 filet
+1 scallops
+0 gnocchi
+4 scallops
+-3 duck confit
+6 scallops
+9 mushroom risotto
+8 flat bread
+5 cheese
+4 flat bread
 6 tiramisu
 3 caprese
-4 scallops
+-1 scallops
 2 tiramisu
-3 carpaccio
-8 mushroom risotto
-5 mushroom risotto
-1 gnocchi
-3 mussels
--14 mussels
-13 mushroom risotto
--5 mussels
+-3 carpaccio
+1 mushroom risotto
+3 mushroom risotto
+4 gnocchi
+0 mussels
+-2 mussels
+6 mushroom risotto
 -3 mussels
+-6 mussels
 0 mushroom risotto
 0 scallops
-11 scallops
-11 mushroom risotto
-3 halibut
+9 scallops
+12 mushroom risotto
+1 halibut
+4 carpaccio
 3 carpaccio
-10 carpaccio
--3 mussels
--5 mussels
 -4 mussels
-5 polenta
-0 carpaccio
-6 caprese
-6 mussels
-8 mussels
-5 mushroom risotto
-1 caprese
+0 mussels
+-2 mussels
+4 polenta
+-2 carpaccio
+5 caprese
+13 mussels
+9 mussels
+3 mushroom risotto
+5 caprese
 4 halibut
-14 carpaccio
-2 cheese
-0 carpaccio
-0 carpaccio
--1 duck confit
-7 carpaccio
-5 mushroom risotto
-0 gnocchi
-9 sauces
-7 pacci pup
+13 carpaccio
+4 cheese
+4 carpaccio
+5 carpaccio
+2 duck confit
+2 carpaccio
+2 mushroom risotto
+1 gnocchi
+16 sauces
+5 pacci pup

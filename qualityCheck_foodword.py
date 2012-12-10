@@ -1,6 +1,6 @@
 import os
 
-predictions_base = 'test/longpredictions2_foodword/'
+predictions_base = 'test/predictions2_foodword/'
 baseline_base = 'test/baselinepredictions/'
 training_snippets_base = 'training/longSnippets2/'
 training_suffix = '_training.txt'
@@ -30,10 +30,8 @@ for dirpath, dirnames, filenames in os.walk(predictions_base):
     sumBRecall = 0
     sumBNPrecision = 0
     sumBNRecall = 0
+    
     for filename in filenames:
-        #if filename == "Angelinos_Cafe.txt":
-        #    print filename
-        #    continue
         predictions = file(dirpath + filename).read().split('\n')
         del predictions[-1]
         pred = [extract(a) for a in predictions]
@@ -45,6 +43,10 @@ for dirpath, dirnames, filenames in os.walk(predictions_base):
         falsePos = 0
         trueNeg = 0
         falseNeg = 0
+        precision = 0
+        recall = 0
+        negprec = 0
+        negrec = 0
         for i in range(len(pred)):
             if sign(pred[i][0]) != actual[i]:
                 wrongCount+=1
@@ -73,7 +75,7 @@ for dirpath, dirnames, filenames in os.walk(predictions_base):
                 foodReviews[foodword] = [1.0, float(label)]
 
         print "----------------------------------------------------------"
-        percentage = ((len(predictions)-wrongCount)*1.0)/(len(predictions)*1.0)
+        percentage = ((len(actual)-wrongCount)*1.0)/(len(actual)*1.0)
         print filename + ": " + str(percentage)
 
         sortedByFreq = sorted(foodReviews.iterkeys(), key=foodReviews.get, reverse = True)
@@ -108,6 +110,14 @@ for dirpath, dirnames, filenames in os.walk(predictions_base):
         
         # Calculate metrics for baseline
         wrongCount = 0
+        truePos = 0
+        falsePos = 0
+        trueNeg = 0
+        falseNeg = 0
+        precision = 0
+        recall = 0
+        negprec = 0
+        negrec = 0
         baselines = file(baseline_base + filename).read().split('\n')
         del baselines[-1]
         baseline = [sign(b) for b in baselines]
@@ -130,7 +140,7 @@ for dirpath, dirnames, filenames in os.walk(predictions_base):
             negrec = (trueNeg)/float(trueNeg + falsePos)
         except:
             pass
-        percentage = ((len(baseline)-wrongCount)*1.0)/(len(baseline)*1.0)
+        percentage = ((len(actual)-wrongCount)*1.0)/(len(actual)*1.0)
         print "Baseline Percentage: " + str(percentage)
         print "Baseline Precision: " + str(precision)
         print "Baseline Recall: " + str(recall)

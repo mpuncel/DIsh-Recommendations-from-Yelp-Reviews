@@ -1,13 +1,13 @@
 6 rigatoni alla norcina
 6 norcina
-2 tagliatelle trilussa
-1 margherita
-7 gnocchi al gorgonzola
-8 barese
-9 margherita
-8 positano
--7 focaccia completa
-7 tortellini pinturicchio
-6 tagliatelle trilussa
-8 napoletana
+3 tagliatelle trilussa
+2 margherita
+0 gnocchi al gorgonzola
+9 barese
+12 margherita
+12 positano
+-5 focaccia completa
+6 tortellini pinturicchio
+0 tagliatelle trilussa
+5 napoletana
 2 margherita

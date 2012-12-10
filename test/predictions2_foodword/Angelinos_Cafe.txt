@@ -1,96 +1,96 @@
-2 turkey
-7 chicken parmesan
-17 penne
--4 gnocchi
--3 gnocchi
-8 ravioli
-13 tuna
--7 tuna
--2 tuna
-12 turkey
+1 turkey
+14 chicken parmesan
+7 penne
+-5 gnocchi
+-8 gnocchi
+7 ravioli
+4 tuna
+-12 tuna
 3 tuna
-16 ravioli
-12 spaghetti marinara
-2 pizza
-4 caprese
-6 chicken parmesan
-6 ravioli
-10 meatball
+6 turkey
+5 tuna
+11 ravioli
+7 spaghetti marinara
+9 pizza
 2 caprese
-1 gnocchi
+7 chicken parmesan
+7 ravioli
+7 meatball
+2 caprese
+4 gnocchi
 8 gnocchi
 0 gnocchi
-3 gnocchi
-7 spaghetti meatball
-7 meatball
-2 soup
-11 soup
--1 ravioli
-5 caesar salad
--1 ravioli
--8 ravioli
-6 ravioli
--8 ravioli
-13 ravioli
 6 gnocchi
-13 gnocchi
-0 pizza
-6 penne
-8 mushroom
-14 chopped salad
+9 spaghetti meatball
+9 meatball
+1 soup
 8 soup
--8 mushroom
+-1 ravioli
+1 caesar salad
 8 ravioli
-29 ravioli
--1 rigatoni
+-7 ravioli
+3 ravioli
+7 ravioli
+8 ravioli
+4 gnocchi
+3 gnocchi
+2 pizza
+5 penne
+9 mushroom
+12 chopped salad
+3 soup
+-7 mushroom
+12 ravioli
+18 ravioli
+-5 rigatoni
 4 hamburger
 1 philly cheese steak
--12 gnocchi
+-4 gnocchi
+6 gnocchi
 4 gnocchi
-1 gnocchi
 0 linguine
-2 rigatoni
-3 ravioli
-5 meatball
-7 chicken marcella
-19 chicken pesto
-6 chicken parmesan
-6 ravioli
-5 rigatoni
-1 penne
-16 gnocchi
-18 gnocchi
-2 gnocchi
--10 ravioli
-1 ravioli
+6 rigatoni
 5 ravioli
-7 ravioli
-14 ravioli
-7 chopped salad
-18 pizza
-4 pizza
-10 penne
+6 meatball
+2 chicken marcella
+4 chicken pesto
+5 chicken parmesan
+5 ravioli
+2 rigatoni
+1 penne
+11 gnocchi
+8 gnocchi
+2 gnocchi
+-6 ravioli
+4 ravioli
+5 ravioli
+6 ravioli
+4 ravioli
+6 chopped salad
 7 pizza
-6 gnocchi
-3 mushroom
-10 pizza
+9 pizza
+10 penne
 6 pizza
+7 gnocchi
+4 mushroom
+8 pizza
+7 pizza
 0 spaghetti marinara
-5 gnocchi
-12 gnocchi
-18 gnocchi
+8 gnocchi
+7 gnocchi
+13 gnocchi
 0 ravioli
-20 chicken parmesan
--2 chicken pesto
-11 chicken milanese
-5 gnocchi
-6 gnocchi
-17 ravioli
-11 chicken pesto
-1 turkey
--8 ravioli
-17 linguine
-25 ravioli
-10 gnocchi
+10 chicken parmesan
+-7 chicken pesto
+10 chicken milanese
+7 gnocchi
+1 gnocchi
+14 ravioli
+1 chicken pesto
+0 turkey
+-6 ravioli
+9 linguine
+21 ravioli
+1 gnocchi
 4 pizza
-2 ravioli
+3 ravioli

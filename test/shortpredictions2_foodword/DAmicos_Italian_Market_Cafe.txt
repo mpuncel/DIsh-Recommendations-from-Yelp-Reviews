@@ -1,26 +1,26 @@
-4 lasagna
-1 house salad
+10 lasagna
+-6 house salad
 4 linguine diavolo
-4 spaghetti
+3 spaghetti
 -2 mussels
-5 gnocchi
--8 parmesan
-5 crawfish ravioli
-15 cheese ravioli
-0 calamari
-4 lasagna
-1 crawfish ravioli
-5 spaghetti
-15 chicken braciolentini
-4 wild mushroom and walnut tortellini
+4 gnocchi
+0 parmesan
 -1 crawfish ravioli
-0 house salad
--9 lasagna
+8 cheese ravioli
+2 calamari
+3 lasagna
+8 crawfish ravioli
+5 spaghetti
+10 chicken braciolentini
+1 wild mushroom and walnut tortellini
+3 crawfish ravioli
+-1 house salad
+-3 lasagna
+5 parmesan
 -1 parmesan
-3 parmesan
 8 mussels
-4 mussels
-2 crawfish ravioli
-1 tortellini genovese
--7 spaghetti
-3 chicken braciolentini
+7 mussels
+-2 crawfish ravioli
+8 tortellini genovese
+-5 spaghetti
+5 chicken braciolentini

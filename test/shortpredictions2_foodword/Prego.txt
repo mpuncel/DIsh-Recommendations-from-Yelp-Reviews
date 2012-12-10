@@ -1,25 +1,25 @@
-5 minestrone soup
-1 caesar salad
-9 lasagna
-2 caprese salad
-5 lasagna
--1 carpaccio
-2 carpaccio
-3 strawberry shortcake
-8 chocolate souffle
--6 caprese salad
--3 spaghetti con polpette
-9 margherita pizza
-3 lasagna
-6 lasagna
--1 lasagna
-4 spaghetti carbonara
-7 strawberry shortcake
-4 strawberry shortcake
-19 gnocchi
-12 gnocchi
-10 salmone
-5 branzino
--2 carpaccio
-10 gnocchi
+7 minestrone soup
+-2 caesar salad
+12 lasagna
+3 caprese salad
 4 lasagna
+4 carpaccio
+1 carpaccio
+4 strawberry shortcake
+2 chocolate souffle
+-3 caprese salad
+3 spaghetti con polpette
+7 margherita pizza
+8 lasagna
+8 lasagna
+0 lasagna
+4 spaghetti carbonara
+4 strawberry shortcake
+6 strawberry shortcake
+8 gnocchi
+10 gnocchi
+4 salmone
+2 branzino
+-7 carpaccio
+3 gnocchi
+6 lasagna

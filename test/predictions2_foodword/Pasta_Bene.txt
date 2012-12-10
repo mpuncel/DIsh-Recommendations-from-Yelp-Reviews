@@ -1,195 +1,195 @@
-5 bruschetta
-5 rustica
-1 salmon
-10 tortellini primavera
--6 salmon
-18 calamari
-2 crab cakes
-10 beef lasagna
-1 crab cakes
-3 beef lasagna
-1 beef lasagna
-19 chicken marsala
--5 chicken breast
-6 gnocchi sausage
-14 cheesecake
-14 tiramisu
-13 gamberetto
-17 beef lasagna
-15 tiramisu
-0 melanzane
-10 marco pollo
-10 calamari
-11 garlic bread
-5 chicken marsala
-6 chicken marsala
-7 tiramisu
-8 bruschetta
-20 gorgonzola salad
-10 bruschetta
-8 calamari
--8 salmon
-0 salmon
-6 salmon
-10 salmon
-0 salmon
-7 tiramisu
-4 salmon
--2 tiramisu
-2 tiramisu
-9 tiramisu
-4 beef lasagna
-0 eggplant parmigiana
-16 tiramisu
-8 bruschetta
-6 carciofi e pollo
-10 tiramisu
-2 garlic fries
-8 chicken breast
-1 garlic bread
--1 garlic bread
--3 bruschetta
-0 chicken parmigiana
-11 chicken picatta
-15 salmon
-2 calamari
+3 bruschetta
+3 rustica
+7 salmon
+12 tortellini primavera
+-7 salmon
+20 calamari
 3 crab cakes
-8 gnocchi sausage
-5 tiramisu
-12 bruschetta
-7 calamari
-9 crab cakes
-1 gnocchi sausage
-15 chicken marsala
+4 beef lasagna
+1 crab cakes
+2 beef lasagna
+-5 beef lasagna
+10 chicken marsala
+-5 chicken breast
+-1 gnocchi sausage
+12 cheesecake
+12 tiramisu
+7 gamberetto
+9 beef lasagna
+13 tiramisu
 1 melanzane
-3 calamari
-2 tiramisu
+4 marco pollo
+4 calamari
+4 garlic bread
+6 chicken marsala
+14 chicken marsala
+7 tiramisu
+4 bruschetta
+11 gorgonzola salad
+16 bruschetta
+8 calamari
+-10 salmon
+-4 salmon
+2 salmon
+4 salmon
+0 salmon
+5 tiramisu
+4 salmon
+-1 tiramisu
+4 tiramisu
+7 tiramisu
+5 beef lasagna
+0 eggplant parmigiana
+9 tiramisu
+9 bruschetta
+2 carciofi e pollo
+5 tiramisu
+1 garlic fries
+-1 chicken breast
+-1 garlic bread
+5 garlic bread
+-8 bruschetta
+0 chicken parmigiana
+9 chicken picatta
+4 salmon
+1 calamari
+3 crab cakes
+4 gnocchi sausage
+3 tiramisu
+6 bruschetta
+2 calamari
+7 crab cakes
+4 gnocchi sausage
+12 chicken marsala
+6 melanzane
+5 calamari
+3 tiramisu
 -3 carciofi e pollo
 7 cheese ravioli
-9 tiramisu
-12 tiramisu
+4 tiramisu
+3 tiramisu
 -3 chicken marsala
-20 carciofi e pollo
-14 calamari
-10 tiramisu
-6 beef lasagna
-12 cheese ravioli
-10 cheesecake
-6 penne bolognese
-12 chicken breast
--2 bruschetta
--7 cheese ravioli
-12 beef lasagna
-6 cheese ravioli
-9 rustica
-2 bruschetta
-2 tiramisu
-13 tiramisu
-2 gnocchi sausage
-10 tiramisu
-12 tiramisu
-7 penne bolognese
-6 calamari
-10 cheesecake
-9 calamari
-15 rustica
-8 rustica
-5 garlic bread
-1 salmon
-3 calamari
-19 marco pollo
-12 tiramisu
+12 carciofi e pollo
+13 calamari
+11 tiramisu
 5 beef lasagna
-6 beef lasagna
-15 chicken marsala
-5 carciofi e pollo
-11 melanzane
-2 chicken marsala
-2 di casa
--3 calamari
-16 tiramisu
-4 crab cakes
--5 cheesecake
-8 chicken marsala
-7 tiramisu
-14 calamari
-3 beef lasagna
--8 garlic bread
-3 crab cakes
-8 bruschetta
-14 melanzane
-8 tiramisu
-12 melanzane
-13 tiramisu
-0 salmon
--1 garlic bread
-8 rustica
+9 cheese ravioli
+6 cheesecake
+3 penne bolognese
+11 chicken breast
+3 bruschetta
+-1 cheese ravioli
+4 beef lasagna
+0 cheese ravioli
+6 rustica
+0 bruschetta
+0 tiramisu
+5 tiramisu
+1 gnocchi sausage
 1 tiramisu
-10 salmon
-1 garlic fries
--4 salmon
-3 salmon
+7 tiramisu
+5 penne bolognese
+1 calamari
+5 cheesecake
+12 calamari
+5 rustica
+5 rustica
 0 garlic bread
-3 melanzane
+-2 salmon
+4 calamari
+9 marco pollo
+3 tiramisu
+3 beef lasagna
+4 beef lasagna
+9 chicken marsala
+2 carciofi e pollo
+6 melanzane
+3 chicken marsala
+4 di casa
+-6 calamari
+5 tiramisu
+-1 crab cakes
+6 cheesecake
+2 chicken marsala
+5 tiramisu
+5 calamari
+5 beef lasagna
+-7 garlic bread
+2 crab cakes
+4 bruschetta
+14 melanzane
+11 tiramisu
+10 melanzane
+12 tiramisu
+2 salmon
+2 garlic bread
+4 rustica
+-5 tiramisu
+3 salmon
+-1 garlic fries
+1 salmon
+1 salmon
+-1 garlic bread
+1 melanzane
 8 garlic bread
 6 tiramisu
--1 bruschetta
-8 tiramisu
-9 garlic bread
+-2 bruschetta
+5 tiramisu
+5 garlic bread
 6 garlic bread
-13 penne bolognese
--6 gnocchi sausage
-6 tiramisu
+9 penne bolognese
+-2 gnocchi sausage
+-1 tiramisu
 6 bruschetta
-3 bruschetta
--2 tiramisu
+8 bruschetta
+1 tiramisu
+2 salmon
 5 salmon
-8 salmon
-6 gamberetto
+2 gamberetto
 2 tiramisu
 2 cheesecake
-6 chicken breast
--5 carciofi e pollo
-3 cheese ravioli
+4 chicken breast
+-3 carciofi e pollo
+2 cheese ravioli
 0 gnocchi sausage
-4 gnocchi sausage
-4 chicken parmigiana
-6 tiramisu
-6 gnocchi sausage
-8 tiramisu
-18 ice cream
-3 melanzane
-4 tiramisu
+12 gnocchi sausage
+6 chicken parmigiana
 14 tiramisu
-0 garlic bread
-14 garlic bread
-7 cheese ravioli
-2 melanzane
-13 tiramisu
-4 bruschetta
-13 cheesecake
-11 garlic fries
-2 garlic fries
+1 gnocchi sausage
+7 tiramisu
+9 ice cream
+5 melanzane
+3 tiramisu
+8 tiramisu
+-1 garlic bread
+8 garlic bread
+2 cheese ravioli
+-1 melanzane
+9 tiramisu
+2 bruschetta
+5 cheesecake
+12 garlic fries
+1 garlic fries
 6 tiramisu
-9 crab cakes
+11 crab cakes
+-5 salmon
+7 bruschetta
+4 bruschetta
+-3 garlic bread
+0 chicken parmigiana
+0 bruschetta
+9 marco pollo
 -4 salmon
-10 bruschetta
-9 bruschetta
-4 garlic bread
-1 chicken parmigiana
--3 bruschetta
-2 marco pollo
--1 salmon
-14 chicken breast
-2 gnocchi sausage
-5 bruschetta
-15 garlic bread
-10 calamari
--3 chicken marsala
-6 bruschetta
-10 penne bolognese
-1 chicken picatta
-10 salmon
-10 bruschetta
+10 chicken breast
+-4 gnocchi sausage
+7 bruschetta
+5 garlic bread
+1 calamari
+1 chicken marsala
+8 bruschetta
+7 penne bolognese
+3 chicken picatta
+8 salmon
+3 bruschetta
 7 calamari
-14 gnocchi sausage
+6 gnocchi sausage

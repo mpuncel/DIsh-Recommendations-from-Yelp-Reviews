@@ -20,10 +20,10 @@ NEG PRECISION: 1.0
 NEG RECALL: 1.0
 __________________________
 Baseline Percentage: 0.842105263158
-Baseline Precision: 0.942857142857
-Baseline Recall: 0.970588235294
-Baseline Negative Precision: 0.666666666667
-Baseline Negative Recall: 0.5
+Baseline Precision: 0.888888888889
+Baseline Recall: 0.941176470588
+Baseline Negative Precision: 0.0
+Baseline Negative Recall: 0.0
 ----------------------------------------------------------
 ----------------------------------------------------------
 800_Degrees_Neapolitan_Pizzeria.txt: 1.0
@@ -47,10 +47,10 @@ NEG PRECISION: 1.0
 NEG RECALL: 1.0
 __________________________
 Baseline Percentage: 0.885245901639
-Baseline Precision: 0.964601769912
-Baseline Recall: 0.973214285714
-Baseline Negative Precision: 0.666666666667
-Baseline Negative Recall: 0.6
+Baseline Precision: 0.929824561404
+Baseline Recall: 0.946428571429
+Baseline Negative Precision: 0.25
+Baseline Negative Recall: 0.2
 ----------------------------------------------------------
 ----------------------------------------------------------
 Allegro_Pizza.txt: 1.0
@@ -59,14 +59,14 @@ bbq chicken pizza[1.0, 16.0] : 16.0
 white pizza[2.0, 15.0] : 7.5
 PRECISION: 1.0
 RECALL: 1.0
-NEG PRECISION: 0.666666666667
-NEG RECALL: 0.6
+NEG PRECISION: 0
+NEG RECALL: 0
 __________________________
 Baseline Percentage: 0.8
 Baseline Precision: 1.0
-Baseline Recall: 0.9
+Baseline Recall: 0.8
 Baseline Negative Precision: 0.0
-Baseline Negative Recall: 0.6
+Baseline Negative Recall: 0
 ----------------------------------------------------------
 ----------------------------------------------------------
 Al_Forno_Restaurant.txt: 1.0
@@ -93,10 +93,10 @@ NEG PRECISION: 1.0
 NEG RECALL: 1.0
 __________________________
 Baseline Percentage: 0.851851851852
-Baseline Precision: 0.916666666667
+Baseline Precision: 0.846153846154
 Baseline Recall: 1.0
 Baseline Negative Precision: 1.0
-Baseline Negative Recall: 0.6
+Baseline Negative Recall: 0.2
 ----------------------------------------------------------
 ----------------------------------------------------------
 Amelias_Trattoria.txt: 1.0
@@ -124,10 +124,10 @@ NEG PRECISION: 1.0
 NEG RECALL: 1.0
 __________________________
 Baseline Percentage: 0.802816901408
-Baseline Precision: 0.939655172414
-Baseline Recall: 0.939655172414
-Baseline Negative Precision: 0.730769230769
-Baseline Negative Recall: 0.730769230769
+Baseline Precision: 0.879310344828
+Baseline Recall: 0.879310344828
+Baseline Negative Precision: 0.461538461538
+Baseline Negative Recall: 0.461538461538
 ----------------------------------------------------------
 ----------------------------------------------------------
 Angelinos_Cafe.txt: 1.0
@@ -162,10 +162,10 @@ NEG PRECISION: 1.0
 NEG RECALL: 1.0
 __________________________
 Baseline Percentage: 0.84375
-Baseline Precision: 0.958579881657
-Baseline Recall: 0.952941176471
-Baseline Negative Precision: 0.652173913043
-Baseline Negative Recall: 0.681818181818
+Baseline Precision: 0.916666666667
+Baseline Recall: 0.905882352941
+Baseline Negative Precision: 0.333333333333
+Baseline Negative Recall: 0.363636363636
 ----------------------------------------------------------
 ----------------------------------------------------------
 Babbos_Original_Mediterranean_Bistro.txt: 1.0
@@ -197,10 +197,10 @@ NEG PRECISION: 1.0
 NEG RECALL: 1.0
 __________________________
 Baseline Percentage: 0.701754385965
-Baseline Precision: 0.956043956044
-Baseline Recall: 0.87
-Baseline Negative Precision: 0.434782608696
-Baseline Negative Recall: 0.714285714286
+Baseline Precision: 0.90243902439
+Baseline Recall: 0.74
+Baseline Negative Precision: 0.1875
+Baseline Negative Recall: 0.428571428571
 ----------------------------------------------------------
 ----------------------------------------------------------
 Bacaro_LA.txt: 1.0
@@ -237,10 +237,10 @@ NEG PRECISION: 1.0
 NEG RECALL: 1.0
 __________________________
 Baseline Percentage: 0.872037914692
-Baseline Precision: 0.94315245478
-Baseline Recall: 0.986486486486
-Baseline Negative Precision: 0.857142857143
-Baseline Negative Recall: 0.576923076923
+Baseline Precision: 0.891089108911
+Baseline Recall: 0.972972972973
+Baseline Negative Precision: 0.444444444444
+Baseline Negative Recall: 0.153846153846
 ----------------------------------------------------------
 ----------------------------------------------------------
 Bettolona.txt: 1.0
@@ -266,10 +266,10 @@ NEG PRECISION: 1.0
 NEG RECALL: 1.0
 __________________________
 Baseline Percentage: 0.741935483871
-Baseline Precision: 0.98
-Baseline Recall: 0.875
-Baseline Negative Precision: 0.416666666667
-Baseline Negative Recall: 0.833333333333
+Baseline Precision: 0.954545454545
+Baseline Recall: 0.75
+Baseline Negative Precision: 0.222222222222
+Baseline Negative Recall: 0.666666666667
 ----------------------------------------------------------
 ----------------------------------------------------------
 Buca_di_Beppo.txt: 1.0
@@ -306,10 +306,10 @@ NEG PRECISION: 1.0
 NEG RECALL: 1.0
 __________________________
 Baseline Percentage: 0.733333333333
-Baseline Precision: 0.928571428571
-Baseline Recall: 0.902777777778
-Baseline Negative Precision: 0.65
-Baseline Negative Recall: 0.722222222222
+Baseline Precision: 0.852941176471
+Baseline Recall: 0.805555555556
+Baseline Negative Precision: 0.363636363636
+Baseline Negative Recall: 0.444444444444
 ----------------------------------------------------------
 ----------------------------------------------------------
 Buona_Tavola.txt: 0.875
@@ -332,10 +332,10 @@ NEG PRECISION: 0.5
 NEG RECALL: 0.666666666667
 __________________________
 Baseline Percentage: 0.875
-Baseline Precision: 0.909090909091
-Baseline Recall: 0.952380952381
-Baseline Negative Precision: 0.5
-Baseline Negative Recall: 0.333333333333
+Baseline Precision: 0.875
+Baseline Recall: 1.0
+Baseline Negative Precision: 0
+Baseline Negative Recall: 0
 ----------------------------------------------------------
 ----------------------------------------------------------
 DAmicos_Italian_Market_Cafe.txt: 0.846153846154
@@ -360,10 +360,10 @@ NEG PRECISION: 0.5
 NEG RECALL: 0.25
 __________________________
 Baseline Percentage: 0.807692307692
-Baseline Precision: 0.857142857143
+Baseline Precision: 0.84
 Baseline Recall: 0.954545454545
-Baseline Negative Precision: 0.333333333333
-Baseline Negative Recall: 0.125
+Baseline Negative Precision: 0.0
+Baseline Negative Recall: 0.0
 ----------------------------------------------------------
 ----------------------------------------------------------
 Dolce_Cafe_&_Bakery.txt: 1.0
@@ -387,8 +387,8 @@ NEG RECALL: 1.0
 __________________________
 Baseline Percentage: 0.888888888889
 Baseline Precision: 1.0
-Baseline Recall: 0.934782608696
-Baseline Negative Precision: 0.727272727273
+Baseline Recall: 0.869565217391
+Baseline Negative Precision: 0.571428571429
 Baseline Negative Recall: 1.0
 ----------------------------------------------------------
 ----------------------------------------------------------
@@ -410,10 +410,10 @@ NEG PRECISION: 1.0
 NEG RECALL: 1.0
 __________________________
 Baseline Percentage: 0.875
-Baseline Precision: 0.928571428571
+Baseline Precision: 0.866666666667
 Baseline Recall: 1.0
 Baseline Negative Precision: 1.0
-Baseline Negative Recall: 0.666666666667
+Baseline Negative Recall: 0.333333333333
 ----------------------------------------------------------
 ----------------------------------------------------------
 Gratzi.txt: 0.756756756757
@@ -439,10 +439,10 @@ NEG PRECISION: 0.2
 NEG RECALL: 0.166666666667
 __________________________
 Baseline Percentage: 0.72972972973
-Baseline Precision: 0.864406779661
-Baseline Recall: 0.822580645161
-Baseline Negative Precision: 0.266666666667
-Baseline Negative Recall: 0.333333333333
+Baseline Precision: 0.888888888889
+Baseline Recall: 0.774193548387
+Baseline Negative Precision: 0.3
+Baseline Negative Recall: 0.5
 ----------------------------------------------------------
 ----------------------------------------------------------
 La_Parolaccia_Osteria_Italiana.txt: 1.0
@@ -464,8 +464,8 @@ NEG RECALL: 1.0
 __________________________
 Baseline Percentage: 0.923076923077
 Baseline Precision: 1.0
-Baseline Recall: 0.958333333333
-Baseline Negative Precision: 0.666666666667
+Baseline Recall: 0.916666666667
+Baseline Negative Precision: 0.5
 Baseline Negative Recall: 1.0
 ----------------------------------------------------------
 ----------------------------------------------------------
@@ -482,8 +482,8 @@ NEG RECALL: 1.0
 __________________________
 Baseline Percentage: 0.888888888889
 Baseline Precision: 1.0
-Baseline Recall: 0.928571428571
-Baseline Negative Precision: 0.8
+Baseline Recall: 0.857142857143
+Baseline Negative Precision: 0.666666666667
 Baseline Negative Recall: 1.0
 ----------------------------------------------------------
 ----------------------------------------------------------
@@ -516,9 +516,9 @@ NEG PRECISION: 1.0
 NEG RECALL: 0.6
 __________________________
 Baseline Percentage: 0.9
-Baseline Precision: 0.956043956044
-Baseline Recall: 0.966666666667
-Baseline Negative Precision: 0.666666666667
+Baseline Precision: 0.954545454545
+Baseline Recall: 0.933333333333
+Baseline Negative Precision: 0.5
 Baseline Negative Recall: 0.6
 ----------------------------------------------------------
 ----------------------------------------------------------
@@ -537,8 +537,8 @@ NEG RECALL: 1.0
 __________________________
 Baseline Percentage: 0.818181818182
 Baseline Precision: 1.0
-Baseline Recall: 0.875
-Baseline Negative Precision: 0.75
+Baseline Recall: 0.75
+Baseline Negative Precision: 0.6
 Baseline Negative Recall: 1.0
 ----------------------------------------------------------
 ----------------------------------------------------------
@@ -564,10 +564,10 @@ NEG PRECISION: 1.0
 NEG RECALL: 1.0
 __________________________
 Baseline Percentage: 0.763157894737
-Baseline Precision: 0.836363636364
+Baseline Precision: 0.71875
 Baseline Recall: 1.0
 Baseline Negative Precision: 1.0
-Baseline Negative Recall: 0.7
+Baseline Negative Recall: 0.4
 ----------------------------------------------------------
 ----------------------------------------------------------
 Pacci_Ristorante.txt: 1.0
@@ -595,10 +595,10 @@ NEG PRECISION: 1.0
 NEG RECALL: 1.0
 __________________________
 Baseline Percentage: 0.871428571429
-Baseline Precision: 0.93023255814
+Baseline Precision: 0.869565217391
 Baseline Recall: 1.0
 Baseline Negative Precision: 1.0
-Baseline Negative Recall: 0.55
+Baseline Negative Recall: 0.1
 ----------------------------------------------------------
 ----------------------------------------------------------
 Pasta_Bene.txt: 0.835897435897
@@ -636,10 +636,10 @@ NEG PRECISION: 0.310344827586
 NEG RECALL: 0.428571428571
 __________________________
 Baseline Percentage: 0.897435897436
-Baseline Precision: 0.913407821229
-Baseline Recall: 0.939655172414
-Baseline Negative Precision: 0.34375
-Baseline Negative Recall: 0.261904761905
+Baseline Precision: 0.901041666667
+Baseline Recall: 0.994252873563
+Baseline Negative Precision: 0.666666666667
+Baseline Negative Recall: 0.0952380952381
 ----------------------------------------------------------
 ----------------------------------------------------------
 Piatti_Ristorante_&_Bar.txt: 1.0
@@ -658,10 +658,10 @@ NEG PRECISION: 1.0
 NEG RECALL: 1.0
 __________________________
 Baseline Percentage: 0.75
-Baseline Precision: 0.892857142857
-Baseline Recall: 0.961538461538
-Baseline Negative Precision: 0.75
-Baseline Negative Recall: 0.5
+Baseline Precision: 0.8
+Baseline Recall: 0.923076923077
+Baseline Negative Precision: 0.0
+Baseline Negative Recall: 0.0
 ----------------------------------------------------------
 ----------------------------------------------------------
 Pisticci.txt: 0.993006993007
@@ -697,10 +697,10 @@ NEG PRECISION: 0.95652173913
 NEG RECALL: 1.0
 __________________________
 Baseline Percentage: 0.832167832168
-Baseline Precision: 0.925490196078
-Baseline Recall: 0.97520661157
-Baseline Negative Precision: 0.806451612903
-Baseline Negative Recall: 0.568181818182
+Baseline Precision: 0.859259259259
+Baseline Recall: 0.95867768595
+Baseline Negative Precision: 0.375
+Baseline Negative Recall: 0.136363636364
 ----------------------------------------------------------
 ----------------------------------------------------------
 Prego.txt: 1.0
@@ -725,10 +725,10 @@ NEG PRECISION: 1.0
 NEG RECALL: 1.0
 __________________________
 Baseline Percentage: 0.68
-Baseline Precision: 0.947368421053
-Baseline Recall: 0.857142857143
-Baseline Negative Precision: 0.5
-Baseline Negative Recall: 0.75
+Baseline Precision: 0.882352941176
+Baseline Recall: 0.714285714286
+Baseline Negative Precision: 0.25
+Baseline Negative Recall: 0.5
 ----------------------------------------------------------
 ----------------------------------------------------------
 Sagra.txt: 1.0
@@ -752,10 +752,10 @@ NEG PRECISION: 1.0
 NEG RECALL: 1.0
 __________________________
 Baseline Percentage: 0.730158730159
-Baseline Precision: 0.905263157895
-Baseline Recall: 0.914893617021
-Baseline Negative Precision: 0.741935483871
-Baseline Negative Recall: 0.71875
+Baseline Precision: 0.8125
+Baseline Recall: 0.829787234043
+Baseline Negative Precision: 0.466666666667
+Baseline Negative Recall: 0.4375
 ----------------------------------------------------------
 ----------------------------------------------------------
 Salento.txt: 1.0
@@ -777,10 +777,10 @@ NEG PRECISION: 1.0
 NEG RECALL: 1.0
 __________________________
 Baseline Percentage: 0.934782608696
-Baseline Precision: 0.975308641975
-Baseline Recall: 0.9875
-Baseline Negative Precision: 0.909090909091
-Baseline Negative Recall: 0.833333333333
+Baseline Precision: 0.951219512195
+Baseline Recall: 0.975
+Baseline Negative Precision: 0.8
+Baseline Negative Recall: 0.666666666667
 ----------------------------------------------------------
 ----------------------------------------------------------
 Sezz_Medi.txt: 0.809523809524
@@ -803,10 +803,10 @@ NEG PRECISION: 0.5
 NEG RECALL: 0.5
 __________________________
 Baseline Percentage: 0.904761904762
-Baseline Precision: 0.911764705882
-Baseline Recall: 0.911764705882
-Baseline Negative Precision: 0.625
-Baseline Negative Recall: 0.625
+Baseline Precision: 0.941176470588
+Baseline Recall: 0.941176470588
+Baseline Negative Precision: 0.75
+Baseline Negative Recall: 0.75
 ----------------------------------------------------------
 ----------------------------------------------------------
 Tanino_Restaurant.txt: 1.0
@@ -826,10 +826,10 @@ NEG PRECISION: 1.0
 NEG RECALL: 1.0
 __________________________
 Baseline Percentage: 0.888888888889
-Baseline Precision: 0.950617283951
-Baseline Recall: 0.987179487179
-Baseline Negative Precision: 0.888888888889
-Baseline Negative Recall: 0.666666666667
+Baseline Precision: 0.904761904762
+Baseline Recall: 0.974358974359
+Baseline Negative Precision: 0.666666666667
+Baseline Negative Recall: 0.333333333333
 ----------------------------------------------------------
 ----------------------------------------------------------
 Tutti_Mangia_Italian_Grill.txt: 1.0
@@ -859,10 +859,10 @@ NEG PRECISION: 1.0
 NEG RECALL: 1.0
 __________________________
 Baseline Percentage: 0.8125
-Baseline Precision: 0.915662650602
-Baseline Recall: 0.974358974359
-Baseline Negative Precision: 0.846153846154
-Baseline Negative Recall: 0.611111111111
+Baseline Precision: 0.840909090909
+Baseline Recall: 0.948717948718
+Baseline Negative Precision: 0.5
+Baseline Negative Recall: 0.222222222222
 ----------------------------------------------------------
 ----------------------------------------------------------
 Veni_Vidi_Vici.txt: 1.0
@@ -903,10 +903,10 @@ NEG PRECISION: 1.0
 NEG RECALL: 1.0
 __________________________
 Baseline Percentage: 0.855263157895
-Baseline Precision: 0.936170212766
-Baseline Recall: 0.985074626866
-Baseline Negative Precision: 0.818181818182
-Baseline Negative Recall: 0.5
+Baseline Precision: 0.878378378378
+Baseline Recall: 0.970149253731
+Baseline Negative Precision: 0.0
+Baseline Negative Recall: 0.0
 ----------------------------------------------------------
 ----------------------------------------------------------
 Viztango_Cafe.txt: 1.0
@@ -946,10 +946,10 @@ NEG PRECISION: 1.0
 NEG RECALL: 1.0
 __________________________
 Baseline Percentage: 0.928571428571
-Baseline Precision: 0.98
-Baseline Recall: 0.98
-Baseline Negative Precision: 0.833333333333
-Baseline Negative Recall: 0.833333333333
+Baseline Precision: 0.96
+Baseline Recall: 0.96
+Baseline Negative Precision: 0.666666666667
+Baseline Negative Recall: 0.666666666667
 ----------------------------------------------------------
 ----------------------------------------------------------
 Voza.txt: 1.0
@@ -967,8 +967,8 @@ NEG RECALL: 1.0
 __________________________
 Baseline Percentage: 0.875
 Baseline Precision: 1.0
-Baseline Recall: 0.928571428571
-Baseline Negative Precision: 0.666666666667
+Baseline Recall: 0.857142857143
+Baseline Negative Precision: 0.5
 Baseline Negative Recall: 1.0
 ----------------------------------------------------------
 Average Percentage: 0.847221974722
@@ -977,7 +977,7 @@ Average Recall: 0.916280918947
 Average Neg Precision: 0.501724137931
 Average Neg Recall: 0.435317460317
 Average Baseline Percentage: 0.852436639937
-Average Baseline Pecision: 0.901976171508
-Average Baseline Recall: 0.924598932842
-Average Baseline Neg Precision: 0.455902777778
-Average Baseline Neg Recall: 0.379761904762
+Average Baseline Pecision: 0.900108746782
+Average Baseline Recall: 0.932916946736
+Average Baseline Neg Precision: 0.369444444444
+Average Baseline Neg Recall: 0.324206349206

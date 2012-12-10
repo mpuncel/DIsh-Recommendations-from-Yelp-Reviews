@@ -1,63 +1,63 @@
-13 casarecci alla arrabiata
-8 polenta
-6 arugula
--9 arugula
-4 risotto
-1 arugula
-8 arugula
+3 casarecci alla arrabiata
+7 polenta
+12 arugula
+-6 arugula
+1 risotto
+5 arugula
+5 arugula
 7 arugula
 3 risotto
-3 arugula
-8 arugula
--5 risotto
--7 sagra pizza
-8 arugula
-18 arugula
-4 arugula
--6 arugula
-3 rigatoni
--7 rigatoni
-12 risotto
--15 risotto
--8 sagra pizza
--14 risotto
--11 risotto
-7 risotto
--10 cheeses
-14 polenta
--6 caprese
--2 caprese
-0 arugula
-11 polenta
-4 margherita pizza
 2 arugula
-6 garlic spinach
-10 arugula
-11 risotto
-10 polenta
--4 garlic spinach
-3 cheeses
-3 casarecci alla arrabiata
-7 sagra pizza
--5 risotto
-21 funghi pizza
-11 arugula
-5 arugula
-10 margherita pizza
-14 arugula
 8 arugula
-4 caprese
-9 sagra pizza
-10 cheeses
-4 margherita pizza
-21 funghi pizza
-4 risotto
-4 polenta
-3 casarecci alla arrabiata
-13 arugula
+-4 risotto
+-7 sagra pizza
+6 arugula
+8 arugula
+4 arugula
+-8 arugula
+2 rigatoni
+-10 rigatoni
+5 risotto
+-6 risotto
+-3 sagra pizza
+-4 risotto
+-5 risotto
+10 risotto
+-7 cheeses
+6 polenta
+-5 caprese
+-2 caprese
+-6 arugula
+3 polenta
+5 margherita pizza
+4 arugula
+5 garlic spinach
+6 arugula
+14 risotto
+5 polenta
+-5 garlic spinach
+7 cheeses
+1 casarecci alla arrabiata
+2 sagra pizza
+-1 risotto
+19 funghi pizza
+11 arugula
+2 arugula
+11 margherita pizza
+10 arugula
+5 arugula
+2 caprese
+1 sagra pizza
+0 cheeses
+6 margherita pizza
+14 funghi pizza
 7 risotto
-7 polenta
-7 polenta
+5 polenta
+1 casarecci alla arrabiata
+13 arugula
 2 risotto
--3 panna cotta
-8 margherita pizza
+4 polenta
+3 polenta
+3 risotto
+-8 panna cotta
+4 margherita pizza

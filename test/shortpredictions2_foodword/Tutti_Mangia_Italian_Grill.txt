@@ -1,48 +1,48 @@
-2 orecchiette
-12 calamari
-12 minestrone
-8 linguine
--3 cappellini
-3 new york strip
-5 orecchiette
-9 calamari
--1 cappellini
-3 ravioli
-3 salmone alla griglia
-6 ravioli
-4 bruschetta
+-1 orecchiette
 4 calamari
--3 prosciutto e burrata
-8 filet mignon
-13 osso buco
-5 pesce bianco
-5 ravioli
--10 calamari
+16 minestrone
+5 linguine
+-7 cappellini
+2 new york strip
 2 orecchiette
--1 risotto
--2 bruschetta
--16 pappardelle
-0 pappardelle
-1 pesce bianco
-8 linguine
-8 calamari
-0 orecchiette
-1 carpaccio
-0 linguine
-0 filet mignon
-2 ravioli
-5 calamari
-7 risotto
--4 risotto
-2 calamari
-0 osso buco
-7 linguine
-3 cappellini
-3 bruschetta
-7 minestrone
-11 risotto
-13 risotto
-12 insalata casa cuneo
+4 calamari
+-2 cappellini
+5 ravioli
+5 salmone alla griglia
+5 ravioli
+9 bruschetta
+9 calamari
+-2 prosciutto e burrata
+12 filet mignon
+4 osso buco
+3 pesce bianco
+4 ravioli
+-3 calamari
 3 orecchiette
+4 risotto
+-1 bruschetta
+-9 pappardelle
+0 pappardelle
+3 pesce bianco
+2 linguine
+9 calamari
+2 orecchiette
+2 carpaccio
+0 linguine
+4 filet mignon
+8 ravioli
+11 calamari
+7 risotto
+-2 risotto
+7 calamari
+-4 osso buco
+5 linguine
+8 cappellini
+6 bruschetta
+6 minestrone
 3 risotto
-13 ravioli
+5 risotto
+6 insalata casa cuneo
+1 orecchiette
+1 risotto
+4 ravioli

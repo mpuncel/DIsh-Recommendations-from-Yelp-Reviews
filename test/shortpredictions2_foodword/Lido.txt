@@ -1,50 +1,50 @@
-8 spaghetti
+12 spaghetti
 7 broccoli rabe
--10 spaghetti
-7 spaghetti
-3 gnocchi
-14 salmon
-8 spaghetti
-7 fusilli
-0 salt cod & potato
-8 tiramisu
-12 burrata
-3 farmstead cheeses
-1 salmon
-7 tilapia
-6 burrata
-3 gnocchi
-3 beet salad
--1 broccoli rabe
-9 mussels
-9 spaghetti
+-13 spaghetti
+1 spaghetti
 -1 gnocchi
-2 orecchiette
-1 mussels
-10 broccoli rabe
-2 mussels
+7 salmon
+10 spaghetti
+14 fusilli
+5 salt cod & potato
+9 tiramisu
+12 burrata
+0 farmstead cheeses
+3 salmon
+-2 tilapia
+5 burrata
+0 gnocchi
+6 beet salad
+0 broccoli rabe
+6 mussels
+14 spaghetti
+-1 gnocchi
+-7 orecchiette
+5 mussels
+3 broccoli rabe
+5 mussels
 2 gnocchi
 4 tilapia
 -2 braised short ribs
-6 ricotta ravioli
-1 gnocchi
-7 spaghetti
-8 crab cake
--1 roasted veal meatballs
--1 potato puree
-9 gnocchi
-4 apple tart
-6 braised short ribs
-13 broccoli rabe
-0 burrata
-14 ricotta ravioli
-9 salmon
-6 apple tart
-6 tiramisu
-15 salmon
-1 tilapia
-1 beet salad
-6 fusilli
+1 ricotta ravioli
+0 gnocchi
+5 spaghetti
+6 crab cake
+0 roasted veal meatballs
+0 potato puree
+3 gnocchi
+2 apple tart
+-1 braised short ribs
+5 broccoli rabe
+1 burrata
+8 ricotta ravioli
+19 salmon
+2 apple tart
+2 tiramisu
+8 salmon
+-2 tilapia
+7 beet salad
+8 fusilli
 0 spaghetti
-8 mussels
-2 octopus
+5 mussels
+10 octopus

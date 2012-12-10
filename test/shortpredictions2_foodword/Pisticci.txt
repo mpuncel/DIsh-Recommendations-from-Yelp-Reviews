@@ -1,142 +1,142 @@
-3 mussels
-8 mussels
--2 mussels
-0 artichoke
-9 meatballs
--9 artichoke
--11 grilled eggplant
-4 orecchiette broccoli rabe
-4 broccoli rabe
-0 mussels
-10 mussels
-4 michael's pasta
--2 insalata caprese
--1 artichoke
-3 broccoli rabe
--4 orecchiette broccoli rabe
--4 broccoli rabe
--5 whole wheat penne
-0 salmon
-2 meatballs
-4 polenta
-0 michael's pasta
-5 polenta
-13 garlic bread
-0 artichoke
--5 maltagliati with ricotta
--6 artichoke
--6 salmon
-1 artichoke
-9 garlic bread
-1 garlic bread
-9 garlic bread
-17 meatballs
-12 penne pisticci
-0 ravioli
-5 ravioli
 6 mussels
-2 meatballs
-5 polenta
-0 meatballs
-2 ravioli
--3 prosciutto e spinaci
-2 prosciutto e spinaci
--8 broccoli rabe
--2 broccoli rabe
--8 broccoli rabe
--5 orecchiette broccoli rabe
--5 broccoli rabe
--1 prosciutto e spinaci
-3 meatballs
-11 polenta
-8 garlic bread
-0 artichoke
-9 broccoli rabe
-2 garlic bread
-10 ravioli
-7 polenta
-10 meatballs
-18 meatballs
-2 ravioli
-1 ravioli
-4 mussels
--7 broccoli rabe
-4 salmon
-1 polenta
-4 polenta
-0 penne pisticci
-2 artichoke
-5 penne pisticci
--3 meatballs
-0 minestrone
-4 orecchiette broccoli rabe
-4 broccoli rabe
-9 minestrone
-4 penne pisticci
-4 vegetable ceci
-2 insalata pisticci
-8 mussels
-12 salmon
-4 meatballs
-13 michael's pasta
-13 garlic bread
-6 meatballs
--3 artichoke
--5 meatballs
--4 meatballs
-2 michael's pasta
-3 ravioli
-5 maltagliati with ricotta
-4 garlic bread
-15 artichoke
-3 penne pisticci
-5 garlic bread
-0 penne pisticci
-3 artichoke
--5 garlic bread
-7 garlic bread
-13 ravioli
+7 mussels
+0 mussels
+1 artichoke
+5 meatballs
+-8 artichoke
+-12 grilled eggplant
+6 orecchiette broccoli rabe
+6 broccoli rabe
 3 mussels
+10 mussels
+3 michael's pasta
+6 insalata caprese
+6 artichoke
+5 broccoli rabe
+1 orecchiette broccoli rabe
+1 broccoli rabe
+-2 whole wheat penne
+0 salmon
+5 meatballs
+3 polenta
+1 michael's pasta
+4 polenta
 11 garlic bread
 2 artichoke
-8 polenta
-1 michael's pasta
-3 grilled eggplant
-9 rosemary potatoes
-14 salmon
--3 portobello mushroom
-6 skirt steak
-4 penne pisticci
-8 ravioli
-4 ravioli
-10 mussels
--3 garlic bread
-3 garlic bread
-1 penne pisticci
--1 meatballs
-9 portobello mushroom
-0 whole wheat penne
-6 salmon
-11 fettucine ai funghi
--8 garlic bread
--9 broccoli rabe
--2 salmon
+-4 maltagliati with ricotta
+-8 artichoke
+-6 salmon
+4 artichoke
 5 garlic bread
-11 mussels
-3 garlic bread
-2 penne pisticci
+6 garlic bread
+1 garlic bread
 12 meatballs
-8 ravioli
-3 mussels
-0 mussels
+10 penne pisticci
+5 ravioli
+6 ravioli
+6 mussels
+3 meatballs
+7 polenta
+0 meatballs
+-2 ravioli
 3 prosciutto e spinaci
-13 polenta
+9 prosciutto e spinaci
+-1 broccoli rabe
+-1 broccoli rabe
+-3 broccoli rabe
+-3 orecchiette broccoli rabe
+-3 broccoli rabe
+10 prosciutto e spinaci
+2 meatballs
+2 polenta
+9 garlic bread
+-3 artichoke
+5 broccoli rabe
+4 garlic bread
+12 ravioli
+3 polenta
+3 meatballs
+10 meatballs
+1 ravioli
 3 ravioli
-0 mussels
--7 garlic bread
-0 salmon
+5 mussels
+-3 broccoli rabe
+5 salmon
+3 polenta
+4 polenta
+1 penne pisticci
+2 artichoke
+2 penne pisticci
+-5 meatballs
+0 minestrone
+5 orecchiette broccoli rabe
+5 broccoli rabe
+7 minestrone
+4 penne pisticci
+7 vegetable ceci
+2 insalata pisticci
+12 mussels
+8 salmon
+5 meatballs
+14 michael's pasta
+2 garlic bread
+4 meatballs
+2 artichoke
+-2 meatballs
+-15 meatballs
+3 michael's pasta
+1 ravioli
+3 maltagliati with ricotta
+2 garlic bread
+3 artichoke
+4 penne pisticci
+8 garlic bread
+0 penne pisticci
+6 artichoke
+-2 garlic bread
+13 garlic bread
+9 ravioli
+5 mussels
+5 garlic bread
+2 artichoke
+7 polenta
+3 michael's pasta
+4 grilled eggplant
+14 rosemary potatoes
 6 salmon
-10 ravioli
+2 portobello mushroom
+3 skirt steak
+7 penne pisticci
+11 ravioli
+3 ravioli
+3 mussels
+2 garlic bread
+6 garlic bread
+2 penne pisticci
+6 meatballs
+7 portobello mushroom
+2 whole wheat penne
+6 salmon
+16 fettucine ai funghi
+-3 garlic bread
+-2 broccoli rabe
+0 salmon
+7 garlic bread
+13 mussels
+2 garlic bread
+6 penne pisticci
+12 meatballs
+4 ravioli
+3 mussels
+3 mussels
+3 prosciutto e spinaci
+8 polenta
+1 ravioli
+0 mussels
+-4 garlic bread
+0 salmon
+1 salmon
+3 ravioli
 0 orecchiette broccoli rabe
 0 broccoli rabe
 3 mussels

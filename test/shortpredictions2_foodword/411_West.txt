@@ -1,19 +1,19 @@
-7 chicken marsala
-10 crab
--3 grilled shrimp
-8 crab
-6 hazelnut pesto
-1 shrimp carbonara
-4 carpaccio
-8 flank steak
-4 crab
-7 fettuccine
-0 pasta salad
-11 artichoke dip
-10 chicken marsala
+6 chicken marsala
+5 crab
+-1 grilled shrimp
+9 crab
+7 hazelnut pesto
+-5 shrimp carbonara
+14 carpaccio
+2 flank steak
+5 crab
+8 fettuccine
+1 pasta salad
+9 artichoke dip
+2 chicken marsala
 0 grilled shrimp
 11 chicken marsala
-6 stella's insalate
--2 crab
-6 fettuccine
-1 spaghetti marinara
+7 stella's insalate
+1 crab
+5 fettuccine
+2 spaghetti marinara

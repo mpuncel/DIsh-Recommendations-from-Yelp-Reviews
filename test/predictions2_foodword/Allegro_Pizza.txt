@@ -1,5 +1,5 @@
 0 allegro white
-11 bbq chicken pizza
-6 white pizza
-0 allegro white
-7 white pizza
+10 bbq chicken pizza
+5 white pizza
+2 allegro white
+10 white pizza

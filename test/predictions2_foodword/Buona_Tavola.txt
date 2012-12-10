@@ -1,24 +1,24 @@
--1 tartufo italiano al cioccolato
--3 gelato
-2 tiramisu
--7 tortelloni bufalina
-9 gelato
-10 gelato
+1 tartufo italiano al cioccolato
+1 gelato
+10 tiramisu
+4 tortelloni bufalina
 5 gelato
+3 gelato
+3 gelato
 4 gelato
-0 tiramisu
-0 polpettine di anatra e tacchino
--1 tagliata di bue salutare
-9 gelato
-2 gelato
-9 insalata bufala
+2 tiramisu
+4 polpettine di anatra e tacchino
+0 tagliata di bue salutare
+3 gelato
+1 gelato
+5 insalata bufala
 2 tiramisu
 1 tiramisu
--4 insalata bufala
-3 tiramisu
-2 tiramisu
-2 affettati misti
-1 fettuccine al sugo di carni miste
+-2 insalata bufala
+-1 tiramisu
+1 tiramisu
+-2 affettati misti
+3 fettuccine al sugo di carni miste
 0 tortiglioni del buon gustaio
-12 affettati misti
--6 minestrone
+6 affettati misti
+-5 minestrone

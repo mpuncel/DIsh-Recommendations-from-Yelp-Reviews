@@ -4,9 +4,10 @@ import re
 
 alpha = 1
 T = 60
-test_snippets_base = 'test/longSnippets2foodword/'
-predictions_base = 'test/longpredictions2_foodword/'
-training_snippets_base = 'training/longSnippets2/'
+test_snippets_base = 'test/shortSnippets2foodword/'
+predictions_base = 'test/shortpredictions2_foodword/'
+training_snippets_base = 'training/shortSnippets2foodword/'
+training_base = 'training/longSnippets2/'
 training_suffix = '_training.txt'
 menu_base = 'Menus/'
 foodtag = 'FOODWORD'
@@ -211,7 +212,7 @@ for i in range(0, T):
 	for training_restaurant_name in training_restaurants:
 		try:
 			snips = file(training_snippets_base + training_restaurant_name + '.txt', 'r')
-			training = file(training_snippets_base + training_restaurant_name + training_suffix, 'r')
+			training = file(training_base + training_restaurant_name + training_suffix, 'r')
 			for line in snips:
 				label = int(training.readline())
 				foodword = line.split(' FOODWORD ')[0]
