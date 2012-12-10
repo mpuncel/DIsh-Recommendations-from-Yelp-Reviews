@@ -1,9 +1,9 @@
-6 tiramisu
--7 filet mignon
-17 tiramisu
+7 tiramisu
+-6 filet mignon
+16 tiramisu
 -5 filet mignon
-8 white sauce with peas
-8 aromi
+6 white sauce with peas
+6 aromi
 4 tiramisu
-2 tiramisu
+0 tiramisu
 3 aromi

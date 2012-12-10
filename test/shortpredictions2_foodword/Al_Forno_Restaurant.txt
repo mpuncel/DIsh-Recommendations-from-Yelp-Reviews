@@ -1,27 +1,27 @@
-13 caesar salad
+12 caesar salad
 0 wood-grilled lamb rib chops
-2 native caramelized pumpkin tart
-2 beets and frites
-0 pizza margarita
--7 cinnamon ice cream sandwich
+3 native caramelized pumpkin tart
+1 beets and frites
+-2 pizza margarita
+-6 cinnamon ice cream sandwich
 -6 fried calamari
-7 clams al forno
--1 oysters
--1 oysters
-7 oysters
+10 clams al forno
+0 oysters
+-3 oysters
+5 oysters
 0 oysters
 4 pizza margarita
-1 sliced assorted salamis with spiced olives
+2 sliced assorted salamis with spiced olives
 0 spicy clam roast with al forno mashed potatoes
 1 cinnamon ice cream sandwich
 -1 caesar salad
 2 bruschetta
-2 beets and frites
-2 grand cookie finale
-7 spicy pizza
+3 beets and frites
+0 grand cookie finale
+8 spicy pizza
 2 rigatoni with veal bolognese
 3 grand cookie finale
-8 caesar salad
+10 caesar salad
 12 spicy pizza
-10 grand cookie finale
+9 grand cookie finale
 -1 bruschetta
