@@ -1,6 +1,6 @@
 import os
 
-predictions_base = 'test/shortpredictions2_foodword/'
+predictions_base = 'test/predictions2_foodword/'
 baseline_base = 'test/baselinepredictions/'
 training_snippets_base = 'training/longSnippets2/'
 training_suffix = '_training.txt'
@@ -53,8 +53,13 @@ for dirpath, dirnames, filenames in os.walk(predictions_base):
             elif sign(pred[i][0]) < 0 and actual[i] >= 0:
                 falseNeg+=1
 
-        precision = (truePos)/float(truePos + falsePos)
-        recall = (truePos)/float(truePos + falseNeg)
+        try:
+            precision = (truePos)/float(truePos + falsePos)
+            recall = (truePos)/float(truePos + falseNeg)
+            negprec = (trueNeg)/float(trueNeg + falseNeg)
+            negrec = (trueNeg)/float(trueNeg + falsePos)
+        except:
+            pass
         
         foodReviews = {}
         for label,foodword in pred:
@@ -86,6 +91,8 @@ for dirpath, dirnames, filenames in os.walk(predictions_base):
 
         print "PRECISION: " + str(precision)
         print "RECALL: " + str(recall)
+        print "NEG PRECISION: " + str(negprec)
+        print "NEG RECALL: " + str(negrec)
         if filename[:-4] in test_restaurants:
             sumPercentage += percentage
             sumPrecision += precision
@@ -110,13 +117,20 @@ for dirpath, dirnames, filenames in os.walk(predictions_base):
             elif baseline[i] < 0 and actual[i] >= 0:
                 falseNeg+=1
 
-        precision = (truePos)/float(truePos + falsePos)
-        recall = (truePos)/float(truePos + falseNeg)
+        try:
+            precision = (truePos)/float(truePos + falsePos)
+            recall = (truePos)/float(truePos + falseNeg)
+            negprec = (trueNeg)/float(trueNeg + falseNeg)
+            negrec = (trueNeg)/float(trueNeg + falsePos)
+        except:
+            pass
         percentage = ((len(baseline)-wrongCount)*1.0)/(len(baseline)*1.0)
         print "Baseline Percentage: " + str(percentage)
         print "Baseline Precision: " + str(precision)
         print "Baseline Recall: " + str(recall)
-
+        print "Baseline Negative Precision: " + str(negprec)
+        print "Baseline Negative Recall: " + str(negrec)
+        
         if filename[:-4] in test_restaurants:
             sumBPercentage += percentage
             sumBPrecision += precision
