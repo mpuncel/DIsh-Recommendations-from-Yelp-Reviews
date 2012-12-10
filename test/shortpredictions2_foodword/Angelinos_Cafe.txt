@@ -1,0 +1,96 @@
+2 turkey
+3 chicken parmesan
+11 penne
+3 gnocchi
+-6 gnocchi
+8 ravioli
+15 tuna
+-8 tuna
+-2 tuna
+14 turkey
+1 tuna
+5 ravioli
+3 spaghetti marinara
+4 pizza
+0 caprese
+2 chicken parmesan
+3 ravioli
+11 meatball
+0 caprese
+1 gnocchi
+10 gnocchi
+0 gnocchi
+-2 gnocchi
+1 spaghetti meatball
+1 meatball
+0 soup
+7 soup
+-1 ravioli
+5 caesar salad
+-1 ravioli
+-1 ravioli
+5 ravioli
+-9 ravioli
+8 ravioli
+2 gnocchi
+9 gnocchi
+0 pizza
+0 penne
+6 mushroom
+13 chopped salad
+8 soup
+-6 mushroom
+5 ravioli
+22 ravioli
+7 rigatoni
+3 hamburger
+1 philly cheese steak
+-2 gnocchi
+4 gnocchi
+1 gnocchi
+0 linguine
+1 rigatoni
+3 ravioli
+-2 meatball
+5 chicken marcella
+9 chicken pesto
+3 chicken parmesan
+6 ravioli
+1 rigatoni
+0 penne
+4 gnocchi
+17 gnocchi
+2 gnocchi
+-3 ravioli
+-1 ravioli
+3 ravioli
+0 ravioli
+16 ravioli
+6 chopped salad
+13 pizza
+0 pizza
+12 penne
+5 pizza
+-1 gnocchi
+3 mushroom
+10 pizza
+6 pizza
+0 spaghetti marinara
+5 gnocchi
+12 gnocchi
+1 gnocchi
+0 ravioli
+15 chicken parmesan
+1 chicken pesto
+9 chicken milanese
+2 gnocchi
+6 gnocchi
+8 ravioli
+8 chicken pesto
+1 turkey
+-2 ravioli
+12 linguine
+14 ravioli
+6 gnocchi
+4 pizza
+3 ravioli

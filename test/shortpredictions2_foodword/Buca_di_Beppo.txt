@@ -1,0 +1,45 @@
+2 pepperoni
+5 saltimbocca
+8 lasagna
+-8 saltimbocca
+2 lasagna
+-16 fettuccine alfredo
+-7 bruschetta
+11 penne san remo
+-3 baked ziti
+2 baked rigatoni
+-1 tiramisu
+10 spicy chicken rigatoni
+-1 chicken marsala
+8 bruschetta
+-3 penne basilica
+5 bruschetta
+3 spaghetti with meatballs
+1 pepperoni
+5 veggie
+10 apple gorgonzola salad
+0 cheesecake
+4 pepperoni
+7 apple gorgonzola salad
+7 chicken limone
+0 linguine frutti di mare
+13 tiramisu
+3 tiramisu
+-2 tiramisu
+-2 veggie
+3 garlic bread
+5 spaghetti with meat sauce
+11 margherita
+8 chopped antipasto salad
+2 garlic bread
+6 garlic bread
+7 penne arrabbiata
+14 baked rigatoni
+9 lasagna
+-15 lasagna
+13 apple gorgonzola salad
+3 prosciutto stuffed chicken
+2 tiramisu
+-2 caesar salad
+9 tiramisu
+6 saltimbocca

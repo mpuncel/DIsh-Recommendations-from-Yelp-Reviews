@@ -4,23 +4,23 @@ import sys
 
 logging.basicConfig(filename='snippet_generator.log', level=logging.DEBUG)
 
-length = 'NORMAL'
+length = 'SHORT'
 menu_base = 'Menus/'
 test_output_base = None
 if length == "NORMAL":
 	print "normal"
-	training_output_base = "training/Snippets2/"
-	test_output_base = "test/Snippets2/"
+	training_output_base = "training/Snippets2foodword/"
+	test_output_base = "test/Snippets2foodword/"
 	NUM_TRAILING_WORDS = 12
 elif length == "SHORT":
 	print "short"
-	training_output_base = "training/shortSnippets2/"
-	test_output_base = "test/shortSnippets2/"
+	training_output_base = "training/shortSnippets2foodword/"
+	test_output_base = "test/shortSnippets2foodword/"
 	NUM_TRAILING_WORDS = 8
 elif length == "LONG":
 	print "long"
-	training_output_base = "training/longSnippets2/"
-	test_output_base = "test/longSnippets2/"
+	training_output_base = "training/longSnippets2foodword/"
+	test_output_base = "test/longSnippets2foodword/"
 	NUM_TRAILING_WORDS = 20
 
 reviews_base = '50_review_restaurants/'
@@ -147,17 +147,21 @@ for restaurant_name in restaurants:
 						for j in reversed(xrange(0, max_length)):
 							excerpt = text[i : rightclip(i + j + 1, len(text))]
 							if ' '.join(excerpt) in words:
-								string = ' '.join(text[i: rightclip(i + j + 1 + NUM_TRAILING_WORDS, len(text))])
+								#string = ' '.join(text[i: rightclip(i + j + 1 + NUM_TRAILING_WORDS, len(text))])
+								string1 = ' '.join(text[i: rightclip(i + j + 1, len(text))]) + " FOODWORD "
+								string2 = ' '.join(text[i+j+1:rightclip(i+j+1+NUM_TRAILING_WORDS, len(text))])
+								string = string1+string2
 								string = string.encode('ascii', 'ignore')
 								if restaurant_name in training_restaurants:
 									training_snippets.write(string if string.find('\n') < 0 else string[0: string.find('\n')])
 									training_snippets.write('\n')
 								test_snippets.write(string if string.find('\n') < 0 else string[0: string.find('\n')])
 								test_snippets.write('\n')
-
+                                                        
 								break
-			except:
-				logging.exception("inner")
+			except Exception, e:
+				#logging.exception("inner")
+				print(e)
 				continue
 		if restaurant_name in training_restaurants:
 			training_snippets.close()

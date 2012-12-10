@@ -1,0 +1,45 @@
+2 ravioli
+3 linguini
+1 linguini
+12 linguini
+4 linguini
+-1 calamari
+1 burrata caprese
+0 linguini
+4 ravioli
+2 ravioli
+0 gnocchi
+0 gnocchi
+0 zuppa di funghi
+0 linguini
+6 linguini
+0 ravioli
+1 tortelloni
+12 burrata caprese
+-1 gnocchi
+7 ravioli
+0 ravioli
+5 gnocchi
+6 calamari
+1 ravioli
+3 ravioli
+0 ravioli
+1 tortelloni
+3 tortelloni
+10 linguini
+15 ravioli
+3 calamari
+-2 calamari
+4 tortelloni
+1 ravioli
+0 gnocchi
+2 ravioli
+8 ravioli
+5 gnocchi
+-8 gnocchi
+7 capellini
+0 ravioli
+3 ravioli
+7 ravioli
+9 ravioli
+3 gnocchi

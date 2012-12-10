@@ -1,0 +1,46 @@
+-2 linguini
+0 mozzarella
+3 pork chop milanese
+-6 gnocchi
+6 gnocchi
+3 arugula salad
+-2 orecchiette
+8 mozzarella
+6 mozzarella
+9 mozzarella
+0 linguini
+-2 mozzarella
+0 mozzarella
+14 penne melanzane
+-4 caesar salad
+3 gnocchi
+0 gnocchi
+-15 gnocchi
+9 gnocchi
+11 mozzarella
+5 linguini
+6 mozzarella
+1 gnocchi
+0 mozzarella
+0 gnocchi
+6 gnocchi
+1 mozzarella
+0 mozzarella
+6 arugula salad
+13 mozzarella
+12 linguini
+5 linguini
+2 linguini
+11 pork chop milanese
+0 caesar salad
+8 arugula salad
+1 mozzarella
+-2 gnocchi
+-1 caesar salad
+0 mozzarella
+0 orecchiette
+2 mozzarella
+8 mozzarella
+1 pollo agrodolce
+0 mozzarella
+11 tilapia

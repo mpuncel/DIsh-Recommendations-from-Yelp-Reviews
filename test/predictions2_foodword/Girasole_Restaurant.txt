@@ -1,0 +1,32 @@
+2 risotto
+14 risotto
+2 bucatini
+10 spinach and ricotta ravioli
+13 pumpkin ravioli
+11 pumpkin ravioli
+-1 pumpkin ravioli
+7 spinach and ricotta ravioli
+-4 risotto
+3 polenta
+0 polenta
+0 polenta
+4 polenta
+10 antipasto
+12 bruschetta
+0 pumpkin ravioli
+10 polenta
+-2 polenta
+4 polenta
+5 penne
+-14 risotto
+-8 polenta
+-1 potato gnocchi
+8 penne
+14 risotto
+10 spinach and ricotta ravioli
+-2 risotto
+8 polenta
+4 pumpkin ravioli
+10 risotto
+0 pumpkin ravioli
+14 pumpkin ravioli

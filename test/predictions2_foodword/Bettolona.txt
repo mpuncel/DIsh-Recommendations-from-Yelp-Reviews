@@ -1,0 +1,31 @@
+13 calamari
+5 margherita pizza
+11 prosciutto pizza
+2 insalata romana
+2 insalata romana
+0 caprese
+7 tiramisu
+2 insalata romana
+5 fettucine
+9 calamari
+-1 calamari
+8 polpette
+-12 calamari
+1 bolognese
+21 tiramisu
+12 panna cotta
+4 calamari
+1 bolognese
+16 gnocchi
+7 affumicata pizza
+5 gnocchi
+11 integrale
+6 gnocchi
+9 prosciutto pizza
+17 gnocchi
+4 tiramisu
+2 calamari
+10 calamari
+-4 bolognese
+-12 bolognese
+11 calamari

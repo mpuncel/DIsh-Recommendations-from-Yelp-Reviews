@@ -1,0 +1,122 @@
+0 tartufo
+4 pollo
+3 tartufo
+6 pizza margherita
+1 pizza margherita
+9 pizza bianca
+6 tartufo
+12 pizza marinara
+8 tartufo
+1 tartufo
+6 tartufo
+5 tartufo
+-1 pizza margherita
+10 tartufo
+9 pizza marinara
+4 pizza marinara
+11 sausage and peppers
+3 quatro formaggi
+5 filetti
+4 pizza margherita
+-7 pizza margherita
+5 pizza bianca
+0 pizza bianca
+1 pizza bianca
+-1 tartufo
+-2 pizza margherita
+-8 pizza margherita
+-1 pizza marinara
+3 pizza marinara
+1 carni
+-1 carni
+4 carni
+16 tartufo
+7 pizza bianca
+2 pizza bianca
+2 pollo
+11 sausage and peppers
+1 pizza bianca
+15 carni
+4 pollo
+4 tartufo
+0 carni
+1 pizza margherita
+10 napoletana
+12 tartufo
+1 piccante
+-4 sausage and peppers
+8 pizza margherita
+4 sausage and peppers
+2 tartufo
+9 pizza margherita
+2 tartufo
+3 pizza margherita
+1 pizza bianca
+1 pizza marinara
+2 pizza margherita
+0 pizza margherita
+7 pizza bianca
+7 pizza bianca
+9 tartufo
+-1 pizza marinara
+5 tartufo
+9 pizza margherita
+2 capricciosa
+2 tartufo
+1 pizza margherita
+2 tartufo
+2 pizza bianca
+3 pizza bianca
+3 pizza bianca
+5 pizza bianca
+0 pizza bianca
+2 tartufo
+6 pizza marinara
+10 napoletana
+2 sausage and peppers
+3 pizza margherita
+14 tartufo
+-9 capricciosa
+2 tartufo
+-2 tartufo
+3 tartufo
+8 tartufo
+6 pizza margherita
+7 tartufo
+11 tartufo
+2 tartufo
+1 pizza bianca
+4 pizza margherita
+-2 capricciosa
+12 tartufo
+8 piccante
+2 pizza bianca
+10 piccante
+1 pizza bianca
+1 tartufo
+3 pizza margherita
+2 pizza bianca
+0 tartufo
+0 tartufo
+-3 tartufo
+2 carni
+3 carni
+8 tartufo
+6 tartufo
+6 tartufo
+7 pizza margherita
+9 sausage and peppers
+4 tartufo
+7 carni
+2 tartufo
+-7 pizza margherita
+5 carni
+4 piccante
+10 piccante
+8 pizza margherita
+1 filetti
+6 piccante
+9 carni
+6 pizza bianca
+0 piccante
+2 pizza bianca
