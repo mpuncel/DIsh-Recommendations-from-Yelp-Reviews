@@ -1,0 +1,991 @@
+----------------------------------------------------------
+411_West.txt: 0.894736842105
+We recommend: crab
+We recommend: chicken marsala
+artichoke dip[1.0, 11.0] : 11.0
+carpaccio[1.0, 4.0] : 4.0
+chicken marsala[3.0, 28.0] : 9.33333333333
+crab[4.0, 20.0] : 5.0
+fettuccine[2.0, 13.0] : 6.5
+flank steak[1.0, 8.0] : 8.0
+grilled shrimp[2.0, -3.0] : -1.5
+hazelnut pesto[1.0, 6.0] : 6.0
+pasta salad[1.0, 0.0] : 0.0
+shrimp carbonara[1.0, 1.0] : 1.0
+spaghetti marinara[1.0, 1.0] : 1.0
+stella's insalate[1.0, 6.0] : 6.0
+PRECISION: 0.941176470588
+RECALL: 0.941176470588
+NEG PRECISION: 0.5
+NEG RECALL: 0.5
+__________________________
+Baseline Percentage: 0.842105263158
+Baseline Precision: 0.914285714286
+Baseline Recall: 0.941176470588
+Baseline Negative Precision: 0.333333333333
+Baseline Negative Recall: 0.25
+----------------------------------------------------------
+----------------------------------------------------------
+800_Degrees_Neapolitan_Pizzeria.txt: 0.885245901639
+We recommend: tartufo
+We recommend: pizza margherita
+Stay away from: capricciosa
+capricciosa[3.0, -10.0] : -3.33333333333
+carni[10.0, 46.0] : 4.6
+filetti[2.0, 9.0] : 4.5
+napoletana[2.0, 16.0] : 8.0
+piccante[7.0, 38.0] : 5.42857142857
+pizza bianca[21.0, 66.0] : 3.14285714286
+pizza margherita[22.0, 48.0] : 2.18181818182
+pizza marinara[8.0, 32.0] : 4.0
+pollo[3.0, 13.0] : 4.33333333333
+quatro formaggi[1.0, 4.0] : 4.0
+sausage and peppers[6.0, 31.0] : 5.16666666667
+tartufo[37.0, 164.0] : 4.43243243243
+PRECISION: 0.953703703704
+RECALL: 0.919642857143
+NEG PRECISION: 0.357142857143
+NEG RECALL: 0.5
+__________________________
+Baseline Percentage: 0.885245901639
+Baseline Precision: 0.941441441441
+Baseline Recall: 0.933035714286
+Baseline Negative Precision: 0.318181818182
+Baseline Negative Recall: 0.35
+----------------------------------------------------------
+----------------------------------------------------------
+Allegro_Pizza.txt: 1.0
+allegro white[2.0, 0.0] : 0.0
+bbq chicken pizza[1.0, 7.0] : 7.0
+white pizza[2.0, 17.0] : 8.5
+PRECISION: 1.0
+RECALL: 1.0
+NEG PRECISION: 0.318181818182
+NEG RECALL: 0.35
+__________________________
+Baseline Percentage: 0.8
+Baseline Precision: 1.0
+Baseline Recall: 0.9
+Baseline Negative Precision: 0.0
+Baseline Negative Recall: 0.35
+----------------------------------------------------------
+----------------------------------------------------------
+Al_Forno_Restaurant.txt: 0.888888888889
+We recommend: oysters
+We recommend: caesar salad
+beets and frites[2.0, 4.0] : 2.0
+bruschetta[2.0, 1.0] : 0.5
+caesar salad[3.0, 21.0] : 7.0
+cinnamon ice cream sandwich[2.0, -5.0] : -2.5
+clams al forno[1.0, 10.0] : 10.0
+fried calamari[1.0, -6.0] : -6.0
+grand cookie finale[3.0, 12.0] : 4.0
+native caramelized pumpkin tart[1.0, 3.0] : 3.0
+oysters[4.0, 2.0] : 0.5
+pizza margarita[2.0, 2.0] : 1.0
+rigatoni with veal bolognese[1.0, 2.0] : 2.0
+sliced assorted salamis with spiced olives[1.0, 2.0] : 2.0
+spicy clam roast with al forno mashed potatoes[1.0, 0.0] : 0.0
+spicy pizza[2.0, 20.0] : 10.0
+wood-grilled lamb rib chops[1.0, 0.0] : 0.0
+PRECISION: 0.952380952381
+RECALL: 0.909090909091
+NEG PRECISION: 0.666666666667
+NEG RECALL: 0.8
+__________________________
+Baseline Percentage: 0.851851851852
+Baseline Precision: 0.893617021277
+Baseline Recall: 0.954545454545
+Baseline Negative Precision: 0.714285714286
+Baseline Negative Recall: 0.5
+----------------------------------------------------------
+----------------------------------------------------------
+Amelias_Trattoria.txt: 0.816901408451
+We recommend: ravioli
+We recommend: gnocchi
+Stay away from: mussels
+antipasto[3.0, 6.0] : 2.0
+arugula salad[1.0, 7.0] : 7.0
+caesar salad[2.0, 23.0] : 11.5
+calamari[4.0, 8.0] : 2.0
+fish[5.0, 36.0] : 7.2
+gnocchi[10.0, 40.0] : 4.0
+greens salad[1.0, -3.0] : -3.0
+linguine[1.0, 0.0] : 0.0
+mussels[6.0, -2.0] : -0.333333333333
+polenta[5.0, 9.0] : 1.8
+ravioli[11.0, 42.0] : 3.81818181818
+salmon[9.0, 41.0] : 4.55555555556
+short rib bolognese[7.0, 2.0] : 0.285714285714
+spaghetti[3.0, 3.0] : 1.0
+spinach salad[3.0, 16.0] : 5.33333333333
+PRECISION: 0.909090909091
+RECALL: 0.862068965517
+NEG PRECISION: 0.5
+NEG RECALL: 0.615384615385
+__________________________
+Baseline Percentage: 0.802816901408
+Baseline Precision: 0.893805309735
+Baseline Recall: 0.870689655172
+Baseline Negative Precision: 0.48275862069
+Baseline Negative Recall: 0.538461538462
+----------------------------------------------------------
+----------------------------------------------------------
+Angelinos_Cafe.txt: 0.885416666667
+We recommend: ravioli
+We recommend: gnocchi
+Stay away from: mushroom
+caesar salad[1.0, 4.0] : 4.0
+caprese[2.0, 1.0] : 0.5
+chicken marcella[1.0, 5.0] : 5.0
+chicken milanese[1.0, 7.0] : 7.0
+chicken parmesan[4.0, 18.0] : 4.5
+chicken pesto[3.0, 16.0] : 5.33333333333
+chopped salad[2.0, 17.0] : 8.5
+gnocchi[21.0, 62.0] : 2.95238095238
+hamburger[1.0, 3.0] : 3.0
+linguine[2.0, 12.0] : 6.0
+meatball[3.0, 9.0] : 3.0
+mushroom[3.0, -1.0] : -0.333333333333
+penne[4.0, 24.0] : 6.0
+philly cheese steak[1.0, 1.0] : 1.0
+pizza[8.0, 45.0] : 5.625
+ravioli[23.0, 83.0] : 3.60869565217
+rigatoni[3.0, 7.0] : 2.33333333333
+soup[3.0, 14.0] : 4.66666666667
+spaghetti marinara[2.0, 3.0] : 1.5
+spaghetti meatball[1.0, 2.0] : 2.0
+tuna[4.0, 2.0] : 0.5
+turkey[3.0, 15.0] : 5.0
+PRECISION: 0.951219512195
+RECALL: 0.917647058824
+NEG PRECISION: 0.5
+NEG RECALL: 0.636363636364
+__________________________
+Baseline Percentage: 0.84375
+Baseline Precision: 0.933734939759
+Baseline Recall: 0.911764705882
+Baseline Negative Precision: 0.423076923077
+Baseline Negative Recall: 0.5
+----------------------------------------------------------
+----------------------------------------------------------
+Babbos_Original_Mediterranean_Bistro.txt: 0.859649122807
+We recommend: salmon
+Stay away from: caesar salad
+ahi tuna salad[1.0, 1.0] : 1.0
+caesar salad[7.0, -9.0] : -1.28571428571
+crab cakes[6.0, 42.0] : 7.0
+cucumber salad[1.0, 6.0] : 6.0
+focaccia babbo[1.0, 8.0] : 8.0
+goat cheese salad[2.0, 4.0] : 2.0
+gorgonzola pear salad[1.0, 3.0] : 3.0
+lamb chops[2.0, 3.0] : 1.5
+margherita[1.0, 12.0] : 12.0
+mushroom ragout[1.0, 12.0] : 12.0
+new york steak[1.0, 4.0] : 4.0
+peperonata[1.0, 0.0] : 0.0
+pizza babbo[2.0, 6.0] : 3.0
+polenta[2.0, 19.0] : 9.5
+prawn salad[5.0, 28.0] : 5.6
+red snapper[1.0, -3.0] : -3.0
+salmon[15.0, 39.0] : 2.6
+sea bass[3.0, 23.0] : 7.66666666667
+seafood in puff pastry[2.0, 13.0] : 6.5
+vegetable soup[2.0, 4.0] : 2.0
+PRECISION: 0.95652173913
+RECALL: 0.88
+NEG PRECISION: 0.454545454545
+NEG RECALL: 0.714285714286
+__________________________
+Baseline Percentage: 0.701754385965
+Baseline Precision: 0.931034482759
+Baseline Recall: 0.81
+Baseline Negative Precision: 0.296296296296
+Baseline Negative Recall: 0.571428571429
+----------------------------------------------------------
+----------------------------------------------------------
+Bacaro_LA.txt: 0.909952606635
+We recommend: scallops
+We recommend: bacaro burger
+Stay away from: chicken breast
+"noa's" cauliflower[2.0, 15.0] : 7.5
+artichoke hearts[9.0, 23.0] : 2.55555555556
+bacaro burger[67.0, 361.0] : 5.38805970149
+bacaro ice cream[1.0, -4.0] : -4.0
+bacon and brie[9.0, 48.0] : 5.33333333333
+bone marrow[15.0, 29.0] : 1.93333333333
+brown butter cookie dough[3.0, 8.0] : 2.66666666667
+bruschette[21.0, 96.0] : 4.57142857143
+burrata di stefano[2.0, 15.0] : 7.5
+caprese salad[6.0, 23.0] : 3.83333333333
+chicken breast[13.0, -18.0] : -1.38461538462
+lamb burger[5.0, 9.0] : 1.8
+lamb stuffed eggplant[4.0, 25.0] : 6.25
+mac and cheese[16.0, 41.0] : 2.5625
+margherita[14.0, 8.0] : 0.571428571429
+nutella panino[6.0, 21.0] : 3.5
+panini[45.0, 166.0] : 3.68888888889
+petite fillet[2.0, -10.0] : -5.0
+pig ears[6.0, 18.0] : 3.0
+poached shrimp[10.0, 46.0] : 4.6
+polenta[22.0, 43.0] : 1.95454545455
+rainbow beets[4.0, 31.0] : 7.75
+roasted garlic[32.0, 118.0] : 3.6875
+scallops[95.0, 515.0] : 5.42105263158
+white pizza[13.0, 41.0] : 3.15384615385
+PRECISION: 0.961111111111
+RECALL: 0.935135135135
+NEG PRECISION: 0.612903225806
+NEG RECALL: 0.730769230769
+__________________________
+Baseline Percentage: 0.872037914692
+Baseline Precision: 0.924083769634
+Baseline Recall: 0.954054054054
+Baseline Negative Precision: 0.575
+Baseline Negative Recall: 0.442307692308
+----------------------------------------------------------
+----------------------------------------------------------
+Bettolona.txt: 0.935483870968
+We recommend: calamari
+We recommend: gnocchi
+Stay away from: bolognese
+affumicata pizza[1.0, 9.0] : 9.0
+bolognese[4.0, -8.0] : -2.0
+calamari[8.0, 31.0] : 3.875
+caprese[1.0, 0.0] : 0.0
+fettucine[1.0, 3.0] : 3.0
+gnocchi[4.0, 28.0] : 7.0
+insalata romana[3.0, 2.0] : 0.666666666667
+integrale[1.0, 8.0] : 8.0
+margherita pizza[1.0, 4.0] : 4.0
+panna cotta[1.0, 8.0] : 8.0
+polpette[1.0, 5.0] : 5.0
+prosciutto pizza[2.0, 24.0] : 12.0
+tiramisu[3.0, 26.0] : 8.66666666667
+PRECISION: 1.0
+RECALL: 0.928571428571
+NEG PRECISION: 0.6
+NEG RECALL: 1.0
+__________________________
+Baseline Percentage: 0.741935483871
+Baseline Precision: 0.979166666667
+Baseline Recall: 0.839285714286
+Baseline Negative Precision: 0.357142857143
+Baseline Negative Recall: 0.833333333333
+----------------------------------------------------------
+----------------------------------------------------------
+Buca_di_Beppo.txt: 0.911111111111
+We recommend: tiramisu
+apple gorgonzola salad[3.0, 27.0] : 9.0
+baked rigatoni[2.0, 13.0] : 6.5
+baked ziti[1.0, -3.0] : -3.0
+bruschetta[3.0, 4.0] : 1.33333333333
+caesar salad[1.0, -2.0] : -2.0
+cheesecake[1.0, -3.0] : -3.0
+chicken limone[1.0, 6.0] : 6.0
+chicken marsala[1.0, 0.0] : 0.0
+chopped antipasto salad[1.0, 6.0] : 6.0
+fettuccine alfredo[1.0, -16.0] : -16.0
+garlic bread[3.0, 6.0] : 2.0
+lasagna[4.0, 0.0] : 0.0
+linguine frutti di mare[1.0, 0.0] : 0.0
+margherita[1.0, 12.0] : 12.0
+penne arrabbiata[1.0, 7.0] : 7.0
+penne basilica[1.0, -2.0] : -2.0
+penne san remo[1.0, 11.0] : 11.0
+pepperoni[3.0, 6.0] : 2.0
+prosciutto stuffed chicken[1.0, 3.0] : 3.0
+saltimbocca[3.0, 3.0] : 1.0
+spaghetti with meat sauce[1.0, 3.0] : 3.0
+spaghetti with meatballs[1.0, 4.0] : 4.0
+spicy chicken rigatoni[1.0, 10.0] : 10.0
+tiramisu[6.0, 17.0] : 2.83333333333
+veggie[2.0, 0.0] : 0.0
+PRECISION: 0.970588235294
+RECALL: 0.916666666667
+NEG PRECISION: 0.727272727273
+NEG RECALL: 0.888888888889
+__________________________
+Baseline Percentage: 0.733333333333
+Baseline Precision: 0.911764705882
+Baseline Recall: 0.861111111111
+Baseline Negative Precision: 0.545454545455
+Baseline Negative Recall: 0.666666666667
+----------------------------------------------------------
+----------------------------------------------------------
+Buona_Tavola.txt: 0.75
+We recommend: gelato
+We recommend: tiramisu
+affettati misti[2.0, 9.0] : 4.5
+fettuccine al sugo di carni miste[1.0, 2.0] : 2.0
+gelato[7.0, 29.0] : 4.14285714286
+insalata bufala[2.0, 2.0] : 1.0
+minestrone[1.0, -6.0] : -6.0
+polpettine di anatra e tacchino[1.0, -2.0] : -2.0
+tagliata di bue salutare[1.0, -1.0] : -1.0
+tartufo italiano al cioccolato[1.0, -1.0] : -1.0
+tiramisu[6.0, 8.0] : 1.33333333333
+tortelloni bufalina[1.0, -3.0] : -3.0
+tortiglioni del buon gustaio[1.0, 0.0] : 0.0
+PRECISION: 0.941176470588
+RECALL: 0.761904761905
+NEG PRECISION: 0.285714285714
+NEG RECALL: 0.666666666667
+__________________________
+Baseline Percentage: 0.875
+Baseline Precision: 0.90243902439
+Baseline Recall: 0.880952380952
+Baseline Negative Precision: 0.285714285714
+Baseline Negative Recall: 0.333333333333
+----------------------------------------------------------
+----------------------------------------------------------
+DAmicos_Italian_Market_Cafe.txt: 0.769230769231
+We recommend: crawfish ravioli
+We recommend: mussels
+Stay away from: lasagna
+Stay away from: parmesan
+calamari[1.0, 0.0] : 0.0
+cheese ravioli[1.0, 15.0] : 15.0
+chicken braciolentini[2.0, 18.0] : 9.0
+crawfish ravioli[4.0, 7.0] : 1.75
+gnocchi[1.0, 5.0] : 5.0
+house salad[2.0, 1.0] : 0.5
+lasagna[3.0, -1.0] : -0.333333333333
+linguine diavolo[1.0, 4.0] : 4.0
+mussels[3.0, 10.0] : 3.33333333333
+parmesan[3.0, -6.0] : -2.0
+spaghetti[3.0, 2.0] : 0.666666666667
+tortellini genovese[1.0, 1.0] : 1.0
+wild mushroom and walnut tortellini[1.0, 4.0] : 4.0
+PRECISION: 0.9
+RECALL: 0.818181818182
+NEG PRECISION: 0.333333333333
+NEG RECALL: 0.5
+__________________________
+Baseline Percentage: 0.807692307692
+Baseline Precision: 0.866666666667
+Baseline Recall: 0.886363636364
+Baseline Negative Precision: 0.285714285714
+Baseline Negative Recall: 0.25
+----------------------------------------------------------
+----------------------------------------------------------
+Dolce_Cafe_&_Bakery.txt: 0.888888888889
+We recommend: tiramisu
+We recommend: fruit tart
+Stay away from: coq au vin
+bruschetta[1.0, 17.0] : 17.0
+cappuccino[1.0, 14.0] : 14.0
+carrot cake[4.0, 13.0] : 3.25
+coq au vin[4.0, -10.0] : -2.5
+dolce limon[1.0, 11.0] : 11.0
+fruit tart[4.0, 24.0] : 6.0
+mango mousse[1.0, 3.0] : 3.0
+marble melody[1.0, 3.0] : 3.0
+strawberry fresca[2.0, 9.0] : 4.5
+tiramisu[8.0, 40.0] : 5.0
+PRECISION: 1.0
+RECALL: 0.869565217391
+NEG PRECISION: 0.571428571429
+NEG RECALL: 1.0
+__________________________
+Baseline Percentage: 0.888888888889
+Baseline Precision: 1.0
+Baseline Recall: 0.869565217391
+Baseline Negative Precision: 0.571428571429
+Baseline Negative Recall: 1.0
+----------------------------------------------------------
+----------------------------------------------------------
+Girasole_Restaurant.txt: 0.9375
+We recommend: polenta
+We recommend: pumpkin ravioli
+antipasto[1.0, 11.0] : 11.0
+bruschetta[1.0, 14.0] : 14.0
+bucatini[1.0, 0.0] : 0.0
+penne[2.0, 8.0] : 4.0
+polenta[9.0, 7.0] : 0.777777777778
+potato gnocchi[1.0, 1.0] : 1.0
+pumpkin ravioli[7.0, 38.0] : 5.42857142857
+risotto[7.0, 5.0] : 0.714285714286
+spinach and ricotta ravioli[3.0, 18.0] : 6.0
+PRECISION: 1.0
+RECALL: 0.923076923077
+NEG PRECISION: 0.75
+NEG RECALL: 1.0
+__________________________
+Baseline Percentage: 0.875
+Baseline Precision: 0.925925925926
+Baseline Recall: 0.961538461538
+Baseline Negative Precision: 0.8
+Baseline Negative Recall: 0.666666666667
+----------------------------------------------------------
+----------------------------------------------------------
+Gratzi.txt: 0.72972972973
+We recommend: calamari
+We recommend: gnocchi
+calamari[8.0, 46.0] : 5.75
+fettuccine[1.0, -1.0] : -1.0
+gnocchi[8.0, 36.0] : 4.5
+linguine[3.0, 6.0] : 2.0
+margherita pizza[1.0, 4.0] : 4.0
+minestrone[1.0, 5.0] : 5.0
+orecchiette[3.0, 6.0] : 2.0
+pappardelle[2.0, 13.0] : 6.5
+penne[1.0, 0.0] : 0.0
+pollo[1.0, 0.0] : 0.0
+ravioli con caprino[1.0, 4.0] : 4.0
+ravioli con salsa di noci[1.0, 10.0] : 10.0
+risotto[6.0, 21.0] : 3.5
+PRECISION: 0.818181818182
+RECALL: 0.870967741935
+NEG PRECISION: 0.0
+NEG RECALL: 0.0
+__________________________
+Baseline Percentage: 0.72972972973
+Baseline Precision: 0.85
+Baseline Recall: 0.822580645161
+Baseline Negative Precision: 0.214285714286
+Baseline Negative Recall: 0.25
+----------------------------------------------------------
+----------------------------------------------------------
+La_Parolaccia_Osteria_Italiana.txt: 1.0
+We recommend: margherita
+barese[1.0, 7.0] : 7.0
+focaccia completa[1.0, -5.0] : -5.0
+gnocchi al gorgonzola[1.0, 17.0] : 17.0
+margherita[3.0, 2.0] : 0.666666666667
+napoletana[1.0, 6.0] : 6.0
+norcina[1.0, 2.0] : 2.0
+positano[1.0, 2.0] : 2.0
+rigatoni alla norcina[1.0, 2.0] : 2.0
+tagliatelle trilussa[2.0, 4.0] : 2.0
+tortellini pinturicchio[1.0, 2.0] : 2.0
+PRECISION: 1.0
+RECALL: 1.0
+NEG PRECISION: 1.0
+NEG RECALL: 1.0
+__________________________
+Baseline Percentage: 0.923076923077
+Baseline Precision: 1.0
+Baseline Recall: 0.958333333333
+Baseline Negative Precision: 0.666666666667
+Baseline Negative Recall: 1.0
+----------------------------------------------------------
+----------------------------------------------------------
+La_Piccoletta.txt: 1.0
+We recommend: tiramisu
+aromi[2.0, 9.0] : 4.5
+filet mignon[2.0, -11.0] : -5.5
+tiramisu[4.0, 27.0] : 6.75
+white sauce with peas[1.0, 6.0] : 6.0
+PRECISION: 1.0
+RECALL: 1.0
+NEG PRECISION: 1.0
+NEG RECALL: 1.0
+__________________________
+Baseline Percentage: 0.888888888889
+Baseline Precision: 1.0
+Baseline Recall: 0.928571428571
+Baseline Negative Precision: 0.8
+Baseline Negative Recall: 1.0
+----------------------------------------------------------
+----------------------------------------------------------
+Lido.txt: 0.86
+We recommend: spaghetti
+We recommend: gnocchi
+apple tart[2.0, 10.0] : 5.0
+beet salad[2.0, 4.0] : 2.0
+braised short ribs[2.0, 4.0] : 2.0
+broccoli rabe[4.0, 29.0] : 7.25
+burrata[3.0, 18.0] : 6.0
+crab cake[1.0, 8.0] : 8.0
+farmstead cheeses[1.0, 3.0] : 3.0
+fusilli[2.0, 13.0] : 6.5
+gnocchi[6.0, 17.0] : 2.83333333333
+mussels[4.0, 20.0] : 5.0
+octopus[1.0, 2.0] : 2.0
+orecchiette[1.0, 2.0] : 2.0
+potato puree[1.0, -1.0] : -1.0
+ricotta ravioli[2.0, 20.0] : 10.0
+roasted veal meatballs[1.0, -1.0] : -1.0
+salmon[4.0, 39.0] : 9.75
+salt cod & potato[1.0, 0.0] : 0.0
+spaghetti[7.0, 29.0] : 4.14285714286
+tilapia[3.0, 12.0] : 4.0
+tiramisu[2.0, 14.0] : 7.0
+PRECISION: 0.931818181818
+RECALL: 0.911111111111
+NEG PRECISION: 0.333333333333
+NEG RECALL: 0.4
+__________________________
+Baseline Percentage: 0.9
+Baseline Precision: 0.943181818182
+Baseline Recall: 0.922222222222
+Baseline Negative Precision: 0.416666666667
+Baseline Negative Recall: 0.5
+----------------------------------------------------------
+----------------------------------------------------------
+Mama_Palmas_Gourmet_Pizza.txt: 0.909090909091
+Stay away from: ravioli
+cajun shrimp[2.0, 10.0] : 5.0
+celina[2.0, -1.0] : -0.5
+gnocchi[2.0, -1.0] : -0.5
+herbed sausage and artichoke hearts[1.0, 2.0] : 2.0
+ravioli[3.0, -6.0] : -2.0
+veal sausage and brie[1.0, 10.0] : 10.0
+PRECISION: 1.0
+RECALL: 0.875
+NEG PRECISION: 0.75
+NEG RECALL: 1.0
+__________________________
+Baseline Percentage: 0.818181818182
+Baseline Precision: 1.0
+Baseline Recall: 0.8125
+Baseline Negative Precision: 0.666666666667
+Baseline Negative Recall: 1.0
+----------------------------------------------------------
+----------------------------------------------------------
+Mediterra_Restaurant.txt: 0.947368421053
+We recommend: calamari
+Stay away from: paella
+Stay away from: risotto
+calamari[9.0, 2.0] : 0.222222222222
+crab cake[1.0, -4.0] : -4.0
+greek chicken[1.0, 10.0] : 10.0
+greek salad[1.0, -2.0] : -2.0
+mezze sampler[1.0, -2.0] : -2.0
+octopus[5.0, 19.0] : 3.8
+orecchiette[1.0, 1.0] : 1.0
+paella[10.0, -15.0] : -1.5
+pork saltimbocca[1.0, -2.0] : -2.0
+ricotta gnocchi[1.0, 10.0] : 10.0
+risotto[3.0, -4.0] : -1.33333333333
+salmon[4.0, 14.0] : 3.5
+PRECISION: 0.95652173913
+RECALL: 0.95652173913
+NEG PRECISION: 0.933333333333
+NEG RECALL: 0.933333333333
+__________________________
+Baseline Percentage: 0.763157894737
+Baseline Precision: 0.818181818182
+Baseline Recall: 0.978260869565
+Baseline Negative Precision: 0.952380952381
+Baseline Negative Recall: 0.666666666667
+----------------------------------------------------------
+----------------------------------------------------------
+Pacci_Ristorante.txt: 0.914285714286
+We recommend: mushroom risotto
+Stay away from: gnocchi
+calamari[1.0, -3.0] : -3.0
+caprese[5.0, 14.0] : 2.8
+carpaccio[10.0, 51.0] : 5.1
+cheese[8.0, 33.0] : 4.125
+duck confit[2.0, 4.0] : 2.0
+filet[1.0, 3.0] : 3.0
+flat bread[2.0, 12.0] : 6.0
+gnocchi[4.0, -1.0] : -0.25
+halibut[2.0, 7.0] : 3.5
+mushroom risotto[10.0, 61.0] : 6.1
+mussels[11.0, 0.0] : 0.0
+pacci pup[1.0, 7.0] : 7.0
+polenta[1.0, 5.0] : 5.0
+sauces[1.0, 9.0] : 9.0
+scallops[8.0, 55.0] : 6.875
+tiramisu[3.0, 14.0] : 4.66666666667
+PRECISION: 0.95
+RECALL: 0.95
+NEG PRECISION: 0.7
+NEG RECALL: 0.7
+__________________________
+Baseline Percentage: 0.871428571429
+Baseline Precision: 0.906976744186
+Baseline Recall: 0.975
+Baseline Negative Precision: 0.727272727273
+Baseline Negative Recall: 0.4
+----------------------------------------------------------
+----------------------------------------------------------
+Pasta_Bene.txt: 0.8
+We recommend: tiramisu
+We recommend: bruschetta
+beef lasagna[10.0, 64.0] : 6.4
+bruschetta[19.0, 84.0] : 4.42105263158
+calamari[14.0, 72.0] : 5.14285714286
+carciofi e pollo[5.0, 10.0] : 2.0
+cheese ravioli[6.0, 34.0] : 5.66666666667
+cheesecake[6.0, 30.0] : 5.0
+chicken breast[5.0, 12.0] : 2.4
+chicken marsala[9.0, 44.0] : 4.88888888889
+chicken parmigiana[3.0, 0.0] : 0.0
+chicken picatta[2.0, 9.0] : 4.5
+crab cakes[7.0, 31.0] : 4.42857142857
+di casa[1.0, 0.0] : 0.0
+eggplant parmigiana[1.0, 0.0] : 0.0
+gamberetto[2.0, 8.0] : 4.0
+garlic bread[14.0, 59.0] : 4.21428571429
+garlic fries[4.0, 16.0] : 4.0
+gnocchi sausage[10.0, 26.0] : 2.6
+gorgonzola salad[1.0, 4.0] : 4.0
+ice cream[1.0, 16.0] : 16.0
+marco pollo[3.0, 15.0] : 5.0
+melanzane[8.0, 34.0] : 4.25
+penne bolognese[4.0, 36.0] : 9.0
+rustica[5.0, 33.0] : 6.6
+salmon[19.0, 44.0] : 2.31578947368
+tiramisu[35.0, 218.0] : 6.22857142857
+tortellini primavera[1.0, 11.0] : 11.0
+PRECISION: 0.914110429448
+RECALL: 0.85632183908
+NEG PRECISION: 0.21875
+NEG RECALL: 0.333333333333
+__________________________
+Baseline Percentage: 0.897435897436
+Baseline Precision: 0.907042253521
+Baseline Recall: 0.925287356322
+Baseline Negative Precision: 0.257142857143
+Baseline Negative Recall: 0.214285714286
+----------------------------------------------------------
+----------------------------------------------------------
+Piatti_Ristorante_&_Bar.txt: 1.0
+We recommend: gnocchi
+We recommend: polenta
+Stay away from: caesar
+bruschetta[2.0, 0.0] : 0.0
+caesar[6.0, -11.0] : -1.83333333333
+gnocchi[11.0, 35.0] : 3.18181818182
+margherita pizza[1.0, 8.0] : 8.0
+polenta[6.0, 26.0] : 4.33333333333
+risotto[5.0, 25.0] : 5.0
+tiramisu[1.0, 7.0] : 7.0
+PRECISION: 1.0
+RECALL: 1.0
+NEG PRECISION: 1.0
+NEG RECALL: 1.0
+__________________________
+Baseline Percentage: 0.75
+Baseline Precision: 0.892857142857
+Baseline Recall: 0.961538461538
+Baseline Negative Precision: 0.75
+Baseline Negative Recall: 0.5
+----------------------------------------------------------
+----------------------------------------------------------
+Pisticci.txt: 0.909090909091
+We recommend: garlic bread
+We recommend: meatballs
+Stay away from: broccoli rabe
+Stay away from: orecchiette broccoli rabe
+artichoke[12.0, 4.0] : 0.333333333333
+broccoli rabe[12.0, -23.0] : -1.91666666667
+fettucine ai funghi[1.0, 11.0] : 11.0
+garlic bread[18.0, 70.0] : 3.88888888889
+grilled eggplant[2.0, -8.0] : -4.0
+insalata caprese[1.0, -2.0] : -2.0
+insalata pisticci[1.0, 2.0] : 2.0
+maltagliati with ricotta[2.0, 0.0] : 0.0
+meatballs[15.0, 70.0] : 4.66666666667
+michael's pasta[5.0, 20.0] : 4.0
+minestrone[2.0, 9.0] : 4.5
+mussels[15.0, 67.0] : 4.46666666667
+orecchiette broccoli rabe[5.0, -1.0] : -0.2
+penne pisticci[9.0, 31.0] : 3.44444444444
+polenta[10.0, 71.0] : 7.1
+portobello mushroom[2.0, 6.0] : 3.0
+prosciutto e spinaci[4.0, 1.0] : 0.25
+ravioli[13.0, 69.0] : 5.30769230769
+rosemary potatoes[1.0, 9.0] : 9.0
+salmon[9.0, 34.0] : 3.77777777778
+skirt steak[1.0, 6.0] : 6.0
+vegetable ceci[1.0, 4.0] : 4.0
+whole wheat penne[2.0, -5.0] : -2.5
+PRECISION: 0.982142857143
+RECALL: 0.909090909091
+NEG PRECISION: 0.645161290323
+NEG RECALL: 0.909090909091
+__________________________
+Baseline Percentage: 0.832167832168
+Baseline Precision: 0.914979757085
+Baseline Recall: 0.933884297521
+Baseline Negative Precision: 0.589743589744
+Baseline Negative Recall: 0.522727272727
+----------------------------------------------------------
+----------------------------------------------------------
+Prego.txt: 0.88
+We recommend: lasagna
+We recommend: gnocchi
+Stay away from: carpaccio
+branzino[1.0, 5.0] : 5.0
+caesar salad[1.0, 1.0] : 1.0
+caprese salad[2.0, -4.0] : -2.0
+carpaccio[3.0, -1.0] : -0.333333333333
+chocolate souffle[1.0, 8.0] : 8.0
+gnocchi[3.0, 41.0] : 13.6666666667
+lasagna[6.0, 26.0] : 4.33333333333
+margherita pizza[1.0, 9.0] : 9.0
+minestrone soup[1.0, 5.0] : 5.0
+salmone[1.0, 10.0] : 10.0
+spaghetti carbonara[1.0, 4.0] : 4.0
+spaghetti con polpette[1.0, -3.0] : -3.0
+strawberry shortcake[3.0, 14.0] : 4.66666666667
+PRECISION: 0.95
+RECALL: 0.904761904762
+NEG PRECISION: 0.6
+NEG RECALL: 0.75
+__________________________
+Baseline Percentage: 0.68
+Baseline Precision: 0.918918918919
+Baseline Recall: 0.809523809524
+Baseline Negative Precision: 0.384615384615
+Baseline Negative Recall: 0.625
+----------------------------------------------------------
+----------------------------------------------------------
+Sagra.txt: 0.968253968254
+We recommend: arugula
+We recommend: risotto
+Stay away from: caprese
+arugula[19.0, 88.0] : 4.63157894737
+caprese[3.0, -6.0] : -2.0
+casarecci alla arrabiata[3.0, 12.0] : 4.0
+cheeses[3.0, 8.0] : 2.66666666667
+funghi pizza[2.0, 26.0] : 13.0
+garlic spinach[2.0, 1.0] : 0.5
+margherita pizza[4.0, 12.0] : 3.0
+panna cotta[1.0, -3.0] : -3.0
+polenta[7.0, 51.0] : 7.28571428571
+rigatoni[2.0, -3.0] : -1.5
+risotto[13.0, 16.0] : 1.23076923077
+sagra pizza[4.0, 0.0] : 0.0
+PRECISION: 0.978723404255
+RECALL: 0.978723404255
+NEG PRECISION: 0.9375
+NEG RECALL: 0.9375
+__________________________
+Baseline Percentage: 0.730158730159
+Baseline Precision: 0.894736842105
+Baseline Recall: 0.904255319149
+Baseline Negative Precision: 0.709677419355
+Baseline Negative Recall: 0.6875
+----------------------------------------------------------
+----------------------------------------------------------
+Salento.txt: 0.913043478261
+We recommend: mozzarella
+Stay away from: gnocchi
+Stay away from: caesar salad
+arugula salad[3.0, 17.0] : 5.66666666667
+caesar salad[3.0, -3.0] : -1.0
+gnocchi[10.0, -1.0] : -0.1
+linguini[6.0, 21.0] : 3.5
+mozzarella[17.0, 63.0] : 3.70588235294
+orecchiette[2.0, -7.0] : -3.5
+penne melanzane[1.0, 14.0] : 14.0
+pollo agrodolce[1.0, 1.0] : 1.0
+pork chop milanese[2.0, 14.0] : 7.0
+tilapia[1.0, 10.0] : 10.0
+PRECISION: 1.0
+RECALL: 0.9
+NEG PRECISION: 0.6
+NEG RECALL: 1.0
+__________________________
+Baseline Percentage: 0.934782608696
+Baseline Precision: 0.974025974026
+Baseline Recall: 0.9375
+Baseline Negative Precision: 0.666666666667
+Baseline Negative Recall: 0.833333333333
+----------------------------------------------------------
+----------------------------------------------------------
+Sezz_Medi.txt: 0.857142857143
+We recommend: risotto
+We recommend: margherita
+Stay away from: polenta
+calamari[2.0, 6.0] : 3.0
+campione[2.0, 8.0] : 4.0
+filetto[1.0, -7.0] : -7.0
+margherita[3.0, 6.0] : 2.0
+napoli[1.0, 0.0] : 0.0
+octopus[1.0, 2.0] : 2.0
+ortolana[2.0, -1.0] : -0.5
+polenta[3.0, -3.0] : -1.0
+risotto[4.0, 14.0] : 3.5
+salmon[2.0, 9.0] : 4.5
+PRECISION: 0.9375
+RECALL: 0.882352941176
+NEG PRECISION: 0.6
+NEG RECALL: 0.75
+__________________________
+Baseline Percentage: 0.904761904762
+Baseline Precision: 0.939393939394
+Baseline Recall: 0.911764705882
+Baseline Negative Precision: 0.666666666667
+Baseline Negative Recall: 0.75
+----------------------------------------------------------
+----------------------------------------------------------
+Tanino_Restaurant.txt: 0.911111111111
+We recommend: ravioli
+We recommend: linguini
+Stay away from: gnocchi
+burrata caprese[2.0, 17.0] : 8.5
+calamari[4.0, 8.0] : 2.0
+capellini[1.0, 7.0] : 7.0
+gnocchi[8.0, -8.0] : -1.0
+linguini[8.0, 37.0] : 4.625
+ravioli[17.0, 59.0] : 3.47058823529
+tortelloni[4.0, 10.0] : 2.5
+zuppa di funghi[1.0, 0.0] : 0.0
+PRECISION: 0.926829268293
+RECALL: 0.974358974359
+NEG PRECISION: 0.75
+NEG RECALL: 0.5
+__________________________
+Baseline Percentage: 0.888888888889
+Baseline Precision: 0.915662650602
+Baseline Recall: 0.974358974359
+Baseline Negative Precision: 0.714285714286
+Baseline Negative Recall: 0.416666666667
+----------------------------------------------------------
+----------------------------------------------------------
+Tutti_Mangia_Italian_Grill.txt: 0.9375
+We recommend: calamari
+We recommend: risotto
+Stay away from: cappellini
+bruschetta[3.0, 5.0] : 1.66666666667
+calamari[7.0, 30.0] : 4.28571428571
+cappellini[3.0, -1.0] : -0.333333333333
+carpaccio[1.0, 1.0] : 1.0
+filet mignon[2.0, 8.0] : 4.0
+insalata casa cuneo[1.0, 12.0] : 12.0
+linguine[4.0, 23.0] : 5.75
+minestrone[2.0, 19.0] : 9.5
+new york strip[1.0, 3.0] : 3.0
+orecchiette[5.0, 12.0] : 2.4
+osso buco[2.0, 13.0] : 6.5
+pappardelle[2.0, -16.0] : -8.0
+pesce bianco[2.0, 6.0] : 3.0
+prosciutto e burrata[1.0, -3.0] : -3.0
+ravioli[5.0, 29.0] : 5.8
+risotto[6.0, 29.0] : 4.83333333333
+salmone alla griglia[1.0, 3.0] : 3.0
+PRECISION: 0.95
+RECALL: 0.974358974359
+NEG PRECISION: 0.875
+NEG RECALL: 0.777777777778
+__________________________
+Baseline Percentage: 0.8125
+Baseline Precision: 0.892857142857
+Baseline Recall: 0.961538461538
+Baseline Negative Precision: 0.75
+Baseline Negative Recall: 0.5
+----------------------------------------------------------
+----------------------------------------------------------
+Veni_Vidi_Vici.txt: 0.894736842105
+We recommend: calamari
+We recommend: caprese
+affettati e formaggi[1.0, 6.0] : 6.0
+agnello[1.0, 4.0] : 4.0
+agnolotti[5.0, 18.0] : 3.6
+anatra[1.0, -11.0] : -11.0
+bietole[1.0, 5.0] : 5.0
+bistecca alla pizzaiola[1.0, 2.0] : 2.0
+bruschetta[5.0, 20.0] : 4.0
+calamari[17.0, 49.0] : 2.88235294118
+caprese[8.0, 22.0] : 2.75
+cesare[1.0, 9.0] : 9.0
+cozze[1.0, -1.0] : -1.0
+farfalle[2.0, 5.0] : 2.5
+funghi[1.0, 5.0] : 5.0
+gnocchi[5.0, 16.0] : 3.2
+insalata verde[1.0, 7.0] : 7.0
+lasagna matta[1.0, 3.0] : 3.0
+linguine[2.0, 22.0] : 11.0
+mezzalune[1.0, -1.0] : -1.0
+ossobuco[1.0, 21.0] : 21.0
+pappardelle[3.0, 17.0] : 5.66666666667
+penne[2.0, 16.0] : 8.0
+pesce[1.0, -3.0] : -3.0
+polipo[1.0, 3.0] : 3.0
+prosciutto[4.0, 18.0] : 4.5
+quattro formaggi[1.0, -3.0] : -3.0
+risotto frutti di mare[3.0, 10.0] : 3.33333333333
+salsiccia[1.0, 0.0] : 0.0
+spaghetti casalinga[2.0, 10.0] : 5.0
+zuppa di mare[2.0, 12.0] : 6.0
+PRECISION: 0.968253968254
+RECALL: 0.910447761194
+NEG PRECISION: 0.538461538462
+NEG RECALL: 0.777777777778
+__________________________
+Baseline Percentage: 0.855263157895
+Baseline Precision: 0.919708029197
+Baseline Recall: 0.940298507463
+Baseline Negative Precision: 0.466666666667
+Baseline Negative Recall: 0.388888888889
+----------------------------------------------------------
+----------------------------------------------------------
+Viztango_Cafe.txt: 0.946428571429
+We recommend: farfalle pesto
+We recommend: penne vodka
+angel hair sebastian[3.0, 5.0] : 1.66666666667
+caesar salad[3.0, 2.0] : 0.666666666667
+calamari[3.0, 6.0] : 2.0
+capretta pizza[1.0, 1.0] : 1.0
+chicken cannelloni[1.0, 5.0] : 5.0
+chicken marsala[1.0, 4.0] : 4.0
+chicken parmigiana[2.0, 0.0] : 0.0
+chicken parmigiana sandwich[1.0, 4.0] : 4.0
+chinese chicken salad[3.0, 27.0] : 9.0
+chopped salad[2.0, 1.0] : 0.5
+cobb salad[1.0, -11.0] : -11.0
+combo pizza[1.0, -1.0] : -1.0
+eggplant parmigiana[1.0, 11.0] : 11.0
+eggplant ravioli parmigiana[3.0, 16.0] : 5.33333333333
+farfalle pesto[7.0, 34.0] : 4.85714285714
+greek salad[1.0, 0.0] : 0.0
+linguini artichini[4.0, 13.0] : 3.25
+linguini seafood[1.0, 0.0] : 0.0
+meat lasagna[1.0, 8.0] : 8.0
+penne puttanesca[1.0, 1.0] : 1.0
+penne vodka[5.0, 34.0] : 6.8
+penne vodka with chicken[1.0, 14.0] : 14.0
+salad pizza[3.0, 22.0] : 7.33333333333
+shrimp scampi[1.0, 5.0] : 5.0
+steak sandwich[1.0, 3.0] : 3.0
+turkey sandwich[2.0, 4.0] : 2.0
+vegetarian pizza[1.0, 7.0] : 7.0
+vegetarian sandwich[1.0, 7.0] : 7.0
+PRECISION: 0.979591836735
+RECALL: 0.96
+NEG PRECISION: 0.714285714286
+NEG RECALL: 0.833333333333
+__________________________
+Baseline Percentage: 0.928571428571
+Baseline Precision: 0.969696969697
+Baseline Recall: 0.96
+Baseline Negative Precision: 0.692307692308
+Baseline Negative Recall: 0.75
+----------------------------------------------------------
+----------------------------------------------------------
+Voza.txt: 0.75
+baked red snapper with mango salsa[1.0, 0.0] : 0.0
+ceviche[1.0, 6.0] : 6.0
+pecan crusted salmon[1.0, 18.0] : 18.0
+rack of lamb[1.0, 6.0] : 6.0
+skirt steak[1.0, -8.0] : -8.0
+spinach and artichoke dip[1.0, -1.0] : -1.0
+stuffed shrimp[2.0, 2.0] : 1.0
+PRECISION: 1.0
+RECALL: 0.714285714286
+NEG PRECISION: 0.333333333333
+NEG RECALL: 1.0
+__________________________
+Baseline Percentage: 0.875
+Baseline Precision: 1.0
+Baseline Recall: 0.785714285714
+Baseline Negative Precision: 0.4
+Baseline Negative Recall: 1.0
+----------------------------------------------------------
+Average Percentage: 0.794350559351
+Average Pecision: 0.907131150006
+Average Recall: 0.850140035565
+Average Neg Precision: 0.295188492063
+Average Neg Recall: 0.441666666667
+Average Baseline Percentage: 0.852436639937
+Average Baseline Pecision: 0.901453950359
+Average Baseline Recall: 0.891528491151
+Average Baseline Neg Precision: 0.354365079365
+Average Baseline Neg Recall: 0.382936507937

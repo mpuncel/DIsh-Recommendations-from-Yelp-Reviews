@@ -1,0 +1,422 @@
+11 bruschette
+13 bruschette
+7 bruschette
+12 bruschette
+10 bruschette
+18 caprese salad
+10 scallops
+12 scallops
+20 bruschette
+22 bacaro burger
+7 scallops
+15 roasted garlic
+12 bacaro burger
+8 margherita
+6 chicken breast
+-10 chicken breast
+8 bacon and brie
+8 panini
+14 white pizza
+22 scallops
+12 scallops
+12 white pizza
+21 scallops
+4 bacaro burger
+17 bacaro burger
+4 polenta
+4 panini
+5 scallops
+12 scallops
+12 bacaro burger
+6 polenta
+13 roasted garlic
+-4 poached shrimp
+-4 panini
+14 scallops
+21 scallops
+13 white pizza
+21 scallops
+13 bacaro burger
+1 scallops
+-5 petite fillet
+11 caprese salad
+16 bacaro burger
+13 scallops
+4 scallops
+9 panini
+19 panini
+25 scallops
+22 scallops
+18 panini
+7 panini
+-5 pig ears
+6 bacaro burger
+2 panini
+14 scallops
+6 bacaro burger
+0 chicken breast
+-5 caprese salad
+10 scallops
+5 poached shrimp
+5 bruschette
+12 scallops
+10 panini
+5 bacaro burger
+17 bacaro burger
+19 scallops
+5 roasted garlic
+10 roasted garlic
+27 scallops
+4 scallops
+14 scallops
+1 scallops
+26 scallops
+21 scallops
+13 scallops
+17 scallops
+19 white pizza
+16 panini
+7 scallops
+2 bacaro burger
+7 polenta
+7 panini
+-7 polenta
+-8 panini
+-5 panini
+6 polenta
+6 rainbow beets
+16 scallops
+14 nutella panino
+17 roasted garlic
+9 bone marrow
+4 rainbow beets
+10 bacaro burger
+4 scallops
+13 polenta
+5 scallops
+8 scallops
+21 bone marrow
+10 pig ears
+11 panini
+12 mac and cheese
+15 roasted garlic
+21 scallops
+-7 scallops
+3 panini
+18 scallops
+17 bone marrow
+-5 chicken breast
+-10 bone marrow
+-4 artichoke hearts
+5 artichoke hearts
+-3 artichoke hearts
+-2 scallops
+-5 burrata di stefano
+-3 margherita
+14 scallops
+20 scallops
+2 bone marrow
+20 roasted garlic
+6 polenta
+17 rainbow beets
+13 scallops
+4 white pizza
+11 chicken breast
+7 scallops
+6 roasted garlic
+12 artichoke hearts
+6 white pizza
+9 panini
+8 bruschette
+16 panini
+20 bacaro burger
+19 mac and cheese
+6 poached shrimp
+3 scallops
+6 scallops
+5 artichoke hearts
+17 scallops
+8 bacaro burger
+20 roasted garlic
+5 pig ears
+5 pig ears
+-5 bone marrow
+-7 bone marrow
+13 scallops
+12 scallops
+14 scallops
+4 mac and cheese
+15 polenta
+16 panini
+4 scallops
+4 artichoke hearts
+11 roasted garlic
+2 polenta
+4 bacaro burger
+22 scallops
+3 bacaro burger
+0 bacaro burger
+12 polenta
+7 chicken breast
+31 scallops
+9 white pizza
+9 bacaro burger
+3 bacaro burger
+11 bacaro burger
+5 polenta
+9 brown butter cookie dough
+-4 bone marrow
+4 bacon and brie
+6 panini
+10 bacaro burger
+16 panini
+5 mac and cheese
+12 panini
+9 bacaro burger
+6 scallops
+10 polenta
+4 scallops
+16 bacaro burger
+23 bacon and brie
+16 scallops
+13 lamb stuffed eggplant
+25 scallops
+-10 scallops
+6 nutella panino
+4 bacaro burger
+6 bruschette
+3 mac and cheese
+8 roasted garlic
+2 roasted garlic
+6 bacaro burger
+5 panini
+11 margherita
+11 roasted garlic
+14 lamb burger
+-7 margherita
+6 roasted garlic
+19 scallops
+15 mac and cheese
+5 scallops
+4 scallops
+9 bacaro burger
+7 white pizza
+12 panini
+6 nutella panino
+5 bacaro burger
+11 scallops
+-6 margherita
+6 bacaro burger
+12 scallops
+8 roasted garlic
+12 roasted garlic
+8 bacaro burger
+4 chicken breast
+10 panini
+17 bone marrow
+5 brown butter cookie dough
+5 mac and cheese
+6 bacaro burger
+9 bruschette
+4 bruschette
+4 roasted garlic
+7 bacaro burger
+11 poached shrimp
+1 panini
+1 panini
+7 panini
+-3 scallops
+12 roasted garlic
+14 scallops
+-4 chicken breast
+0 polenta
+5 caprese salad
+-12 polenta
+14 bacaro burger
+7 bruschette
+8 polenta
+16 bacaro burger
+8 bruschette
+8 polenta
+10 scallops
+12 panini
+18 panini
+-9 panini
+10 scallops
+21 bacaro burger
+5 bruschette
+27 bacaro burger
+12 scallops
+-3 mac and cheese
+-3 scallops
+8 polenta
+8 mac and cheese
+7 lamb stuffed eggplant
+7 bacaro burger
+2 mac and cheese
+-3 scallops
+5 bacaro burger
+8 scallops
+10 bacon and brie
+4 poached shrimp
+5 poached shrimp
+-9 white pizza
+-10 scallops
+-3 scallops
+6 nutella panino
+11 rainbow beets
+6 bacaro burger
+6 scallops
+22 bacaro burger
+4 mac and cheese
+11 polenta
+3 polenta
+10 bacaro burger
+21 panini
+15 panini
+6 bacon and brie
+9 scallops
+16 panini
+4 bruschette
+-4 roasted garlic
+12 bruschette
+7 bacaro burger
+6 scallops
+6 white pizza
+6 lamb stuffed eggplant
+9 chicken breast
+14 white pizza
+23 bacaro burger
+2 polenta
+0 bacaro burger
+-3 white pizza
+6 bacaro burger
+11 bacon and brie
+14 panini
+18 "noa's" cauliflower
+2 bacaro burger
+21 burrata di stefano
+2 bruschette
+15 bacaro burger
+12 scallops
+10 scallops
+10 bacaro burger
+4 scallops
+16 scallops
+4 scallops
+8 scallops
+14 panini
+7 bacaro burger
+12 scallops
+17 bacon and brie
+23 caprese salad
+3 bacon and brie
+3 artichoke hearts
+16 bruschette
+21 margherita
+21 roasted garlic
+24 scallops
+9 margherita
+6 polenta
+2 roasted garlic
+1 roasted garlic
+0 bruschette
+2 scallops
+-7 margherita
+12 poached shrimp
+16 artichoke hearts
+22 scallops
+16 margherita
+16 caprese salad
+18 panini
+-12 bacaro ice cream
+-4 chicken breast
+5 poached shrimp
+2 bruschette
+5 "noa's" cauliflower
+12 bacaro burger
+11 scallops
+1 nutella panino
+4 scallops
+1 bruschette
+7 margherita
+11 bacaro burger
+19 pig ears
+13 bone marrow
+8 lamb burger
+18 bacaro burger
+5 bone marrow
+2 bacaro burger
+8 bacaro burger
+-9 chicken breast
+-5 petite fillet
+18 roasted garlic
+14 roasted garlic
+6 bacaro burger
+1 panini
+13 bacaro burger
+11 artichoke hearts
+15 poached shrimp
+14 panini
+-5 scallops
+19 bacaro burger
+13 panini
+-6 brown butter cookie dough
+4 scallops
+11 roasted garlic
+5 panini
+-8 roasted garlic
+14 roasted garlic
+8 chicken breast
+25 scallops
+16 panini
+11 mac and cheese
+23 roasted garlic
+16 scallops
+10 lamb burger
+15 bacaro burger
+7 roasted garlic
+17 panini
+24 scallops
+27 bacon and brie
+15 margherita
+21 poached shrimp
+20 margherita
+22 scallops
+13 bacaro burger
+34 bacaro burger
+15 bacaro burger
+8 mac and cheese
+3 bone marrow
+-9 margherita
+-4 margherita
+12 bacaro burger
+18 scallops
+-11 white pizza
+5 scallops
+18 panini
+7 polenta
+10 nutella panino
+-2 scallops
+16 roasted garlic
+0 bacaro burger
+0 roasted garlic
+0 mac and cheese
+10 roasted garlic
+6 bacaro burger
+-8 bone marrow
+-5 mac and cheese
+-6 bone marrow
+-13 mac and cheese
+3 panini
+-4 pig ears
+4 bacaro burger
+3 chicken breast
+5 panini
+6 scallops
+10 bacaro burger
+14 lamb stuffed eggplant
+11 bacaro burger
+0 lamb burger
+3 lamb burger
+11 bone marrow

@@ -1,0 +1,37 @@
+3 risotto
+7 calamari
+7 orecchiette
+7 gnocchi
+16 calamari
+14 linguine
+2 linguine
+-1 risotto
+12 ravioli con caprino
+0 gnocchi
+-5 orecchiette
+-2 gnocchi
+-6 orecchiette
+13 risotto
+16 pappardelle
+-1 margherita pizza
+8 minestrone
+4 risotto
+12 linguine
+14 calamari
+10 calamari
+26 gnocchi
+22 calamari
+0 calamari
+10 ravioli con salsa di noci
+0 penne
+0 pollo
+2 gnocchi
+13 gnocchi
+17 risotto
+19 pappardelle
+1 calamari
+0 fettuccine
+8 calamari
+14 gnocchi
+27 gnocchi
+15 risotto
