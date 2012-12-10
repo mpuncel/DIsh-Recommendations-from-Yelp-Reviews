@@ -15174,3 +15174,213 @@ Traceback (most recent call last):
   File "C:\Users\Anjali\Documents\6.864\DIsh-Recommendations-from-Yelp-Reviews\snippet_generator.py", line 131, in <module>
     menu = file(menu_base + restaurant_name + '.txt', 'r')
 IOError: [Errno 2] No such file or directory: 'Menus/V_&_T_Pizzeria_&_Restaurant.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Antica_Osteria_Restaurant.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Antico_Pizza.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Aruffos_Italian_Cuisine.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Bacaro.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Bad_Horse_Pizza.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Baraonda_Italian_Restaurant.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Bertuccis.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Bertuccis_Italian_Restaurant_-_Kendall_Square.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Cafe_47.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Campo.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Celestino.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Che_Bella_Pizza.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Cinderellas_Restaurant.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/DAmores_Pizza.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/DeFazios_Pizzeria.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Dominicks.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Eno_Terra.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Euro_Cafe.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Gypsys_Trattoria_Italiano.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Italian_Express.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Ledo_Restaurant.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Little_Azio.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Mani_Osteria_&_Bar.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Margarita_Pizza_Bar.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Max_Cafe.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Max_Soha.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Milanese_Caffe.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Pagliacci_Pizza.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Palazzo_Giuseppes.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Pallino_Pastaria.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Panini_Cafe.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Pasta_Roma.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Pizza_House.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Pizza_N_Such.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Rialto.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Silvios_Organic_Pizza.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Skylight_Gardens.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Teresa_Caffe.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Tootsies_At_The_Stanford_Barn.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Toscano_&_Sons_Italian_Market.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/Trattoria_Neapolis.txt'
+ERROR:root:outer
+Traceback (most recent call last):
+  File "snippet_generator.py", line 131, in <module>
+    menu = file(menu_base + restaurant_name + '.txt', 'r')
+IOError: [Errno 2] No such file or directory: 'Menus/V_&_T_Pizzeria_&_Restaurant.txt'

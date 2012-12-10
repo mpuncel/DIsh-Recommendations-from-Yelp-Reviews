@@ -4,8 +4,8 @@ import re
 
 alpha = 1
 T = 60
-test_snippets_base = 'test/shortSnippets2foodword/'
-predictions_base = 'test/shortpredictions2_foodword/'
+test_snippets_base = 'test/longSnippets2foodword/'
+predictions_base = 'test/longpredictions2_foodword/'
 training_snippets_base = 'training/longSnippets2/'
 training_suffix = '_training.txt'
 menu_base = 'Menus/'

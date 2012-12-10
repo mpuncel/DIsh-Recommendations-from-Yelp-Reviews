@@ -1,6 +1,6 @@
 import os
 
-predictions_base = 'test/predictions2_foodword/'
+predictions_base = 'test/longpredictions2_foodword/'
 baseline_base = 'test/baselinepredictions/'
 training_snippets_base = 'training/longSnippets2/'
 training_suffix = '_training.txt'
@@ -23,9 +23,13 @@ for dirpath, dirnames, filenames in os.walk(predictions_base):
     sumPercentage = 0
     sumPrecision = 0
     sumRecall = 0
+    sumNPrecision = 0
+    sumNRecall = 0
     sumBPercentage = 0
     sumBPrecision = 0
     sumBRecall = 0
+    sumBNPrecision = 0
+    sumBNRecall = 0
     for filename in filenames:
         #if filename == "Angelinos_Cafe.txt":
         #    print filename
@@ -97,6 +101,8 @@ for dirpath, dirnames, filenames in os.walk(predictions_base):
             sumPercentage += percentage
             sumPrecision += precision
             sumRecall += recall
+            sumNPrecision += negprec
+            sumNRecall += negrec
 
         print "__________________________"
         
@@ -135,15 +141,21 @@ for dirpath, dirnames, filenames in os.walk(predictions_base):
             sumBPercentage += percentage
             sumBPrecision += precision
             sumBRecall += recall
+            sumBNPrecision += negprec
+            sumBNRecall += negrec
 
         print "----------------------------------------------------------"
     N = float(len(test_restaurants))
     print "Average Percentage: " + str((sumPercentage/N))
     print "Average Pecision: " + str((sumPrecision/N))
     print "Average Recall: " + str((sumRecall/N))
+    print "Average Neg Precision: " + str((sumNPrecision/N))
+    print "Average Neg Recall: " + str((sumNRecall/N))
     print "Average Baseline Percentage: " + str((sumBPercentage/N))
     print "Average Baseline Pecision: " + str((sumBPrecision/N))
     print "Average Baseline Recall: " + str((sumBRecall/N))
+    print "Average Baseline Neg Precision: " + str((sumBNPrecision/N))
+    print "Average Baseline Neg Recall: " + str((sumBNRecall/N))
 
                 
         

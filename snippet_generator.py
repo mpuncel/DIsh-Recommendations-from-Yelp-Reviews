@@ -4,7 +4,7 @@ import sys
 
 logging.basicConfig(filename='snippet_generator.log', level=logging.DEBUG)
 
-length = 'SHORT'
+length = 'LONG'
 menu_base = 'Menus/'
 test_output_base = None
 if length == "NORMAL":
