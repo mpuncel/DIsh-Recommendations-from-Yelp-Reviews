@@ -1,0 +1,3 @@
+The_DT thin_JJ crust_NN pizzas_NNS are_VBP terrific_JJ ._.
+The_DT salads_NNS are_VBP great_JJ ..._: but_CC the_DT pastas_NNS leave_VBP me_PRP very_RB dissapointed_VBD ._.
+Little_NNP Azio_NNP with_IN its_PRP$ faults_NNS is_VBZ still_RB leaps_NNS and_CC bounds_NNS above_IN fast_JJ food_NN or_CC chain_NN sandwich_NN shops_NNS for_IN lunch_NN ._.

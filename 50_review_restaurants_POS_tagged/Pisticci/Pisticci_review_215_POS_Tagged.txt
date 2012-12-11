@@ -1,0 +1,6 @@
+The_DT food_NN and_CC drinks_NNS were_VBD great_JJ and_CC the_DT staff_NN was_VBD very_RB friendly_JJ ._.
+The_DT place_NN was_VBD packed_VBN on_IN a_DT weeknight_NN ,_, so_RB be_VB ready_JJ to_TO wait_VB ._.
+But_CC they_PRP have_VBP a_DT bar_NN ,_, so_RB that_IN helps_VBZ ._.
+Ordered_VBD a_DT blueberry_JJ something_NN or_CC other_JJ drink_NN which_WDT was_VBD pretty_RB light_JJ and_CC refreshing_JJ ._.
+Their_PRP$ maltagliati_NNS with_IN lamb_JJ ragu_NN and_CC ricotta_NN was_VBD excellent_JJ ._.
+My_PRP$ gf_NN ordered_VBD a_DT steak_NN ,_, which_WDT was_VBD cooked_VBN perfectly_RB ,_, but_CC it_PRP came_VBD with_IN a_DT green_JJ minty_NN sauce_NN that_WDT took_VBD away_RB from_IN it_PRP ._.

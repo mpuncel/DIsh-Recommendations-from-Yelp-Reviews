@@ -1,0 +1,10 @@
+Smoked_VBN salmon_NN $_$ 10_CD -_: two_CD thin_JJ slices_NNS of_IN smoke_NN salmon_NN that_WDT tastes_VBZ nothing_NN better_JJR than_IN what_WP i_FW can_MD get_VB at_IN krogers_NNS ._.
+I_PRP would_MD recommend_VB Tiny_NNP boxwood_NN 's_POS home_NN smoked_VBD salmon_NN instead_RB ._.
+Cappacio_NNP $_$ 10_CD -_: taste_NN was_VBD blend_VB and_CC the_DT meat_NN fell_VBD apart_RB ._.
+Ossco_NNP Bucco_NNP $_$ 27_CD -_: veal_NN shank_NN was_VBD quite_RB tender_NN and_CC the_DT tomatoe_NN sauce_NN tastes_VBZ good_JJ ._.
+Lamb_NNP Chops_VBZ $_$ 32_CD -_: ordered_VBN medium_NN rare_JJ but_CC turned_VBD out_RP rare_JJ ._.
+The_DT texture_NN was_VBD rubbery_NN which_WDT meant_VBD it_PRP was_VBD processed_VBN with_IN tenderizer_NN ._.
+It_PRP 's_VBZ like_IN the_DT meat_NN you_PRP find_VBP in_IN a_DT cheap_JJ chinese_JJ restaurant_NN ._.
+I_PRP did_VBD n't_RB not_RB expect_VB such_JJ low_JJ quality_NN of_IN meat_NN ._.
+Such_JJ a_DT disappointment_NN ._.
+In_IN conclusion_NN ,_, entrees_NNS are_VBP overpriced_VBN but_CC service_NN was_VBD good_JJ ._.

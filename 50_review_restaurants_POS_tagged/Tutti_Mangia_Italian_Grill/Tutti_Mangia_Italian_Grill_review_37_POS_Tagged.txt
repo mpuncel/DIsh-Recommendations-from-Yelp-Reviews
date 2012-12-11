@@ -1,0 +1,3 @@
+Fabulous_NNP service_NN !_.
+Our_PRP$ waiter_NN was_VBD perfect_JJ ._.
+The_DT food_NN was_VBD to_TO die_VB for_IN and_CC the_DT atmosphere_NN was_VBD incredibly_RB hospitable_JJ and_CC clean_JJ ._.

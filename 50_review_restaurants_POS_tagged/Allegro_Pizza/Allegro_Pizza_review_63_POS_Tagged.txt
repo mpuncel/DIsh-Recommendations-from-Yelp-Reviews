@@ -1,0 +1,4 @@
+2.5_CD normally_RB ..._: 3.5_CD late_JJ night_NN ._.
+It_PRP is_VBZ wat_NN it_PRP is_VBZ ._.
+Plus_CC it_PRP had_VBD beer_NN close_NN to_TO housing_NN ,_, so_RB yay_RB ._.
+Plus_CC they_PRP got_VBD all_DT kindsa_NN crazy_JJ choices_NNS to_TO hit_VB the_DT spot_NN when_WRB u_NN got_VBD the_DT munchies_NNS ._.

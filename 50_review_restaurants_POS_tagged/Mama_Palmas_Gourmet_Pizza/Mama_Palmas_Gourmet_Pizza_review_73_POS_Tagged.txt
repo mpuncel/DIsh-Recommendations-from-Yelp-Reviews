@@ -1,0 +1,6 @@
+i_FW first_RB tried_VBD mama_NN palma_NN 's_POS in_IN 2007_CD ._.
+as_IN a_DT student_NN ,_, it_PRP was_VBD great_JJ to_TO save_VB a_DT lot_NN on_IN drinks_NNS since_IN it_PRP was_VBD a_DT BYO_NNP and_CC the_DT pizza_NN toppings_NNS were_VBD interesting_JJ and_CC fresh_JJ ._.
+the_DT service_NN was_VBD a_DT bit_NN brusque_JJ and_CC it_PRP was_VBD cash-only_JJ ,_, though_IN there_EX 's_VBZ an_DT ATM_NNP in_IN the_DT back_NN ._.
+the_DT last_JJ time_NN i_FW was_VBD there_EX was_VBD about_IN a_DT month_NN ago_RB ._.
+the_DT pizza_NN was_VBD still_RB great_JJ but_CC the_DT real_JJ standout_NN was_VBD the_DT polenta_NN bread_NN appetizer_NN ._.
+also_RB ,_, our_PRP$ server_NN was_VBD much_JJ nicer_JJR and_CC more_RBR attentive_JJ than_IN the_DT one_CD we_PRP had_VBD before_RB ._.

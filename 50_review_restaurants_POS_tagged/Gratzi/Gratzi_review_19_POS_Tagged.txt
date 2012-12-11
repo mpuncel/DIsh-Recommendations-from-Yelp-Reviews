@@ -1,0 +1,5 @@
+The_DT restaurant_NN is_VBZ very_RB old_JJ and_CC tired_JJ and_CC so_RB is_VBZ the_DT food_NN ._.
+The_DT pizza_NN tasted_VBD like_IN it_PRP was_VBD frozen_VBN ,_, and_CC had_VBD way_NN too_RB much_JJ bad_JJ cheese_NN on_IN it_PRP ._.
+The_DT northern_JJ Italian_JJ tomato_NN basil_NN sauce_NN on_IN the_DT past_NN was_VBD nothing_NN more_JJR than_IN a_DT can_NN of_IN tomato_NN paste_NN and_CC over_IN boiled_VBN boxed_VBN pasta_NN ._.
+The_DT foccaia_NN was_VBD mushy_JJ and_CC bland_JJ The_DT callamari_NN had_VBD an_DT ammonia_NN taste_NN ,_, which_WDT usually_RB means_VBZ it_PRP is_VBZ bad_JJ The_DT cloth_NN chairs_NNS were_VBD very_RB greasy_JJ and_CC dirty_JJ and_CC the_DT booths_NNS had_VBD dust_NN and_CC grease_NN on_IN the_DT top_NN of_IN them_PRP ._.
+I_PRP would_MD not_RB reccomend_VB this_DT restaruant_NN or_CC go_VB back_RB ._.

@@ -1,0 +1,4 @@
+I_PRP love_VBP this_DT place_NN !_.
+It_PRP has_VBZ great_JJ food_NN ,_, service_NN and_CC the_DT prices_NNS are_VBP really_RB reasonable_JJ ._.
+I_PRP have_VBP not_RB been_VBN to_TO the_DT one_CD downtown_NN yet_RB but_CC I_PRP surely_RB will_MD ._.
+I_PRP will_MD definitely_RB come_VB back_RB here_RB ._.

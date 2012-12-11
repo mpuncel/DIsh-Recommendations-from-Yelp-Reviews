@@ -1,0 +1,12 @@
+Came_NNP here_RB while_IN shopping_NN at_IN the_DT Stanford_NNP mall_NN ._.
+I_PRP checked_VBD yelp_NN and_CC this_DT place_NN was_VBD rated_VBN at_IN 3_CD stars_NNS ._.
+And_CC all_PDT the_DT users_NNS were_VBD right_RB ._.
+This_DT place_NN is_VBZ a_DT very_RB solid_JJ 3_CD stars_NNS ._.
+The_DT food_NN is_VBZ n't_RB amazing_JJ ._.
+The_DT service_NN is_VBZ great_JJ ._.
+I_PRP tired_VBD the_DT fire_NN roast_NN muscles_NNS ,_, the_DT pizza_NN and_CC the_DT spaghetti_NNS ._.
+The_DT muscle_NN had_VBD lots_NNS of_IN flavor_NN and_CC were_VBD cooked_VBN perfectly_RB ._.
+Out_IN of_IN all_DT of_IN those_DT dishes_NNS ,_, the_DT muscles_NNS and_CC the_DT spaghetti_NNS were_VBD the_DT best_JJS ._.
+The_DT pizza_NN was_VBD the_DT disaappoint_NN of_IN the_DT bunch_NN ._.
+A_DT little_JJ bland_NN ._.
+The_DT crust_NN was_VBD so_RB so_RB and_CC I_PRP felt_VBD like_IN they_PRP could_MD have_VB used_VBN better_JJR quality_NN cheese_NN ._.

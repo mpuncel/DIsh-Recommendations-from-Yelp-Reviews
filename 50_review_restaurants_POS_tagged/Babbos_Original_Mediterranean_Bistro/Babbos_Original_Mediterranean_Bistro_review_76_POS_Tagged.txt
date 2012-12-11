@@ -1,0 +1,3 @@
+I_PRP got_VBD their_PRP$ babbo_NN pizza_NN and_CC sandwich_NN ._.
+I_PRP loved_VBD the_DT lamb_NN in_IN the_DT sandwich_NN and_CC the_DT tomatoes_NNS on_IN the_DT pizza_NN ._.
+Pricey_JJ though_IN

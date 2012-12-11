@@ -1,0 +1,6 @@
+Great_NNP Benedict_NNP 's_POS for_IN brunch_NN on_IN Sundays_NNPS ._.
+It_PRP starts_VBZ at_IN 10:30_CD am_VBP and_CC gets_VBZ packed_VBN around_IN 1:00_CD pm_NN so_RB go_VB early_RB ._.
+I_PRP recommend_VBP the_DT Santiago_NNP ._.
+The_DT OJ_NNP here_RB is_VBZ the_DT real_JJ deal_NN too_RB :_: fresh_JJ squeezed_VBN ._.
+The_DT bartenders_NNS are_VBP great_JJ ._.
+I_PRP actually_RB prefer_VBP to_TO sit_VB at_IN the_DT bar_NN for_IN every_DT meal_NN ,_, even_RB dinner_NN ._.

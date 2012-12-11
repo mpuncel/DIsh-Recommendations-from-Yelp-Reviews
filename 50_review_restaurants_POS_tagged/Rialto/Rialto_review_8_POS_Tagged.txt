@@ -1,0 +1,5 @@
+Ate_VBD at_IN Restaurant_NNP Week_NNP here_RB ,_, highly_RB recommend_VB it_PRP !_.
+We_PRP had_VBD the_DT risotto_NN and_CC beet_NN salad_NN as_IN starters_NNS and_CC the_DT flank_NN steak_NN and_CC bluefish_JJ as_IN our_PRP$ main_JJ courses_NNS ._.
+Everything_NN was_VBD really_RB delicious_JJ ,_, cooked_VBN exactly_RB as_IN promised_VBN ,_, and_CC very_RB pretty_RB ._.
+The_DT dessert_NN was_VBD also_RB phenomenal_JJ ._.
+One_CD of_IN the_DT best_JJS dining_NN experiences_NNS I_PRP 've_VBP had_VBN in_IN Boston_NNP !_.

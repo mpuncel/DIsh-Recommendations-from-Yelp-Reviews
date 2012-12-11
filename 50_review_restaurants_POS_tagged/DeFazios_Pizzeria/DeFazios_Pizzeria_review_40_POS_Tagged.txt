@@ -1,0 +1,8 @@
+I_PRP love_VBP pizza_NN ._.
+I_PRP love_VBP family_NN run_NN restaurants_NNS ._.
+This_DT place_NN has_VBZ a_DT unique_JJ atmosphere_NN ._.
+The_DT food_NN shines_NNS and_CC the_DT pastas_NNS are_VBP fabulous_JJ for_IN non_NN pizza_NN eaters_NNS ._.
+Started_VBN with_IN antipasto_JJ ,_, chicken_NN pesto_NN pizza_NN ,_, white_JJ clam_NN pizza_NN and_CC a_DT cheese_NN ._.
+All_DT were_VBD yummy_JJ ._.
+Chicken_NNP parm_NN with_IN pasta_NN lasted_VBD three_CD meals_NNS ._.
+Bring_VBG a_DT bottle_NN of_IN wine_NN and_CC it_PRP will_MD be_VB a_DT perfect_JJ night_NN ._.

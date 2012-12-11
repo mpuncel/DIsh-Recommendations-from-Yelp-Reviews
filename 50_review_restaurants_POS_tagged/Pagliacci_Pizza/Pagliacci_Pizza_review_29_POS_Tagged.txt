@@ -1,0 +1,2 @@
+Very_NNP New_NNP York_NNP and_CC very_RB good_JJ ._.
+Pepperoni_NNP is_VBZ super_JJ greasy_NN ,_, but_CC amazing_JJ ._.

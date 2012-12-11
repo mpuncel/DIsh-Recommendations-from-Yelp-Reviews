@@ -1,0 +1,13 @@
+The_DT food_NN at_IN this_DT comfortable_JJ ,_, friendly_JJ little_JJ place_NN was_VBD basically_RB good_JJ ,_, but_CC with_IN a_DT few_JJ mis-steps_NNS ._.
+The_DT polenta_NN with_IN wild_JJ mushrooms_NNS appetizer_NN was_VBD very_RB tasty_JJ ,_, but_CC the_DT mushrooms_NNS were_VBD dry_JJ ._.
+The_DT description_NN says_VBZ ``_`` wild_JJ mushroom_NN braise_NN ''_'' but_CC they_PRP were_VBD devoid_JJ of_IN moisture_NN ._.
+The_DT flavor_NN was_VBD great_JJ ,_, but_CC the_DT texture_NN was_VBD somewhat_RB unpleasant_JJ ._.
+The_DT polenta_NN ,_, itself_PRP ,_, was_VBD wonderful_JJ ,_, so_IN it_PRP was_VBD disappointing_JJ that_IN the_DT mushrooms_NNS did_VBD n't_RB measure_VB up_RP ._.
+Likewise_RB ,_, the_DT calimari_NN in_IN the_DT ``_`` crispy_JJ calimari_NN ''_'' appetizer_NN was_VBD delicious_JJ ,_, but_CC the_DT so-called_JJ risotto_NN was_VBD absolutely_RB awful_JJ !_.
+It_PRP had_VBD the_DT taste_NN and_CC texture_NN of_IN undercooked_JJ ``_`` converted_VBN ''_'' -LRB-_-LRB- i.e._FW precooked_FW and_CC dried_VBN -RRB-_-RRB- rice_NN ._.
+This_DT light_NN and_CC tasty_JJ calimari_NN would_MD have_VB been_VBN better_RB served_VBN with_IN a_DT little_JJ salad_NN ._.
+And_CC the_DT rice_NN would_MD be_VB better_RBR served_VBN by_IN a_DT trip_NN to_TO the_DT garbage_NN ..._: Other_JJ dishes_NNS around_IN the_DT table_NN were_VBD excellent_JJ ._.
+An_DT eggplant_NN appetizer_NN was_VBD wonderful_JJ and_CC their_PRP$ plain_JJ spaghetti_NNS with_IN a_DT light_JJ marinara_NN sauce_NN was_VBD very_RB good_JJ ,_, as_RB well_RB ._.
+I_PRP really_RB enjoyed_VBD the_DT atmosphere_NN and_CC parts_NNS of_IN this_DT dinner_NN ._.
+We_PRP 'd_MD be_VB willing_JJ to_TO try_VB it_PRP again_RB ,_, but_CC hope_VBP they_PRP read_VB diner_NN reviews_NNS ._.
+I_PRP 've_VBP seen_VBN that_IN risotto_JJ panned_VBN in_IN a_DT number_NN of_IN reviews_NNS and_CC am_VBP surprised_VBN they_PRP do_VBP n't_RB take_VB these_DT things_NNS to_TO heart_NN ._.

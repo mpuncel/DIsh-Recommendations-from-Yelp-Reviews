@@ -1,0 +1,4 @@
+Italian_JJ food_NN on_IN campus_NN !_.
+Tastes_NNS so_RB good_JJ !_.
+And_CC great_JJ prices_NNS !_.
+;_: -RRB-_-RRB- -RRB-_-RRB- the_DT only_RB bad_JJ thing_NN :_: sometimes_RB the_DT guy_NN who_WP rings_VBZ me_PRP up_RP has_VBZ an_DT attitude_NN ._.

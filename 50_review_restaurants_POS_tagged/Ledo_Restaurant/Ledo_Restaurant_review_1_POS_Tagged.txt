@@ -1,0 +1,1 @@
+Ledo_NNP Haiku_NNP Not_RB what_WP 's_VBZ expected_VBN Liked_VBN toasted_VBD ravioli_NNS Yum_NNP sauce_NN ,_, not_RB much_JJ else_RB

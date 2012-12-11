@@ -1,0 +1,3 @@
+The_DT pancetta_NN wrapped_VBD shrimp_JJ appetizer_NN is_VBZ awesome_JJ !_.
+Get_VB a_DT seafood_NN pasta_NN entree_FW for_IN the_DT main_JJ course_NN -LRB-_-LRB- the_DT scallops_NNS and_CC shrimp_NN are_VBP perfection_NN !_. -RRB-_-RRB- ._.
+The_DT service_NN is_VBZ great_JJ ,_, and_CC the_DT bar_NN is_VBZ a_DT nice_JJ place_NN to_TO catch_VB happy_JJ hour_NN !_.

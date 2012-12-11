@@ -1,0 +1,6 @@
+Teresa_NNP 's_POS Cafe_NNP has_VBZ pretty_RB good_JJ Italian_JJ food_NN at_IN reasonable_JJ prices_NNS ._.
+However_RB ,_, I_PRP find_VBP it_PRP inconvenient_JJ to_TO eat_VB here_RB often_RB because_IN of_IN the_DT crowds_NNS and_CC policy_NN to_TO not_RB take_VB reservations_NNS ._.
+If_IN I_PRP lived_VBD very_RB close_RB ,_, that_WDT would_MD n't_RB be_VB a_DT big_JJ deal_NN ,_, but_CC since_IN I_PRP drive_VBP into_IN Princeton_NNP for_IN dinner_NN ,_, it_PRP 's_VBZ not_RB worth_JJ gambling_VBG on_IN a_DT long_JJ wait_NN unless_IN I_PRP 'm_VBP REALLY_RB hungry_JJ for_IN lasagna_NN ._.
+-LRB-_-LRB- The_DT lasagna_NN with_IN Simply_RB Grazin_NNP '_POS beef_NN is_VBZ quite_RB good_JJ --_: very_RB meaty_JJ ,_, not_RB too_RB cheesy_JJ ._. -RRB-_-RRB-
+Drop_NN the_DT rating_NN to_TO two_CD stars_NNS in_IN the_DT wintertime_NN --_: there_EX is_VBZ nowhere_RB in_IN the_DT restaurant_NN to_TO wait_VB if_IN tables_NNS are_VBP n't_RB open_JJ ,_, which_WDT means_VBZ you_PRP will_MD be_VB stomping_VBG your_PRP$ feet_NNS to_TO stay_VB warm_JJ on_IN the_DT sidewalk_NN ._.
+-LRB-_-LRB- Or_CC ,_, more_RBR likely_JJ ,_, going_VBG someplace_NN else_RB to_TO eat_VB instead_RB ._. -RRB-_-RRB-

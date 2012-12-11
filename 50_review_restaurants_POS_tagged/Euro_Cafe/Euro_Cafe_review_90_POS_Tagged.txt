@@ -1,0 +1,5 @@
+Came_NNP here_RB a_DT while_NN back_RB after_IN hiking_VBG with_IN some_DT friends_NNS ._.
+It_PRP is_VBZ a_DT cute_JJ little_JJ cafe_NN with_IN great_JJ food_NN and_CC really_RB friendly_JJ service_NN ._.
+The_DT chicken_NN panini_NN was_VBD really_RB good_JJ and_CC filling_VBG ._.
+While_IN we_PRP were_VBD eating_VBG the_DT owner_NN came_VBD out_RP with_IN a_DT few_JJ samples_NNS of_IN different_JJ things_NNS for_IN us_PRP to_TO try_VB ._.
+Overall_JJ it_PRP was_VBD a_DT good_JJ experience_NN and_CC I_PRP 'll_MD be_VB back_RB when_WRB I_PRP 'm_VBP in_IN the_DT area_NN ._.

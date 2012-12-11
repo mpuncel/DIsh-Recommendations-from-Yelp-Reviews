@@ -1,0 +1,4 @@
+We_PRP love_VBP the_DT BH_NNP location_NN ._.
+This_DT location_NN falls_VBZ short_JJ for_IN some_DT reason_NN ._.
+We_PRP have_VBP been_VBN to_TO both_DT a_DT number_NN of_IN times_NNS ._.
+BH_NNP location_NN def_NN gets_VBZ 4-4_CD .5_CD stars_NNS while_IN this_DT one_CD gets_VBZ 2.5-3_CD stars_NNS ._.

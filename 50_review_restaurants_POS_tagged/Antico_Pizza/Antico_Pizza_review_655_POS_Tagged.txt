@@ -1,0 +1,10 @@
+Ok_NNP ,_, where_WRB do_VBP I_PRP start_VB ?_.
+The_DT menu_NN is_VBZ in_IN Italian_JJ ._.
+You_PRP order_VBP up_RP front_NN ,_, sit_VBP in_IN its_PRP$ cantine_JJ right_NN by_IN the_DT kitchen_NN ._.
+This_DT is_VBZ not_RB the_DT wimpy_JJ cooked_VBN in_IN electric_JJ oven_JJ pizza_NN ._.
+This_DT is_VBZ no_DT BS_NN ,_, straight_RB up_IN wood_NN oven_CD pizza_NN ._.
+The_DT flavors_NNS are_VBP incredible_JJ as_IN the_DT ingredients_NNS they_PRP use_VBP are_VBP authentic_JJ Italian_JJ ,_, not_RB water_NN down_RP stuff_NN you_PRP 'd_MD find_VB from_IN a_DT pizza_NN chain_NN or_CC such_JJ ._.
+For_IN about_RB $_$ 20_CD ,_, I_PRP ordered_VBD the_DT Diavola_NNP ,_, which_WDT basically_RB a_DT meat_NN lover_NN ._.
+It_PRP is_VBZ just_RB enough_RB to_TO stuff_VB two_CD of_IN us_PRP well_RB ._.
+I_PRP think_VBP three_CD people_NNS sharing_VBG one_CD may_MD be_VB a_DT bit_NN tight_JJ ._.
+So_RB yea_NN ,_, the_DT price_NN is_VBZ a_DT bit_NN steep_JJ ,_, but_CC it_PRP is_VBZ well_RB worth_JJ it_PRP ._.

@@ -1,0 +1,10 @@
+Great_NNP dining_VBG experience_NN !_.
+Went_VBD here_RB with_IN a_DT pretty_RB large_JJ group_NN of_IN people_NNS -LRB-_-LRB- Wharton_NNP HCMG_NNP -RRB-_-RRB- and_CC were_VBD sat_VBN in_IN the_DT middle_NN of_IN the_DT restaurant_NN in_IN a_DT long_JJ table_NN ._.
+The_DT decor_NN here_RB is_VBZ really_RB homey_JJ ,_, and_CC service_NN is_VBZ great_JJ ,_, too_RB !_.
+I_PRP had_VBD a_DT pasta_NN dish_NN with_IN shredded_JJ braised_VBN duck_NN ._.
+YUMMINESS_NNS ._.
+As_RB soon_RB as_IN I_PRP ordered_VBD ,_, the_DT waiter_NN informed_VBD me_PRP that_IN it_PRP is_VBZ their_PRP$ signature_NN dish_NN ._.
+There_EX is_VBZ some_DT sort_NN of_IN broth\/sauce_NN that_WDT is_VBZ really_RB flavorful_JJ ._.
+Almost_RB tasted_VBN like_IN chicken_NN noodle_NN soup_NN but_CC I_PRP guess_VBP close_RB enough_RB with_IN duck_NN ._.
+The_DT meal_NN ended_VBN with_IN a_DT slice_NN of_IN tiramisu_NN -LRB-_-LRB- shared_VBN with_IN a_DT neighbor_NN -RRB-_-RRB- ._.
+Divine_NNP ._.

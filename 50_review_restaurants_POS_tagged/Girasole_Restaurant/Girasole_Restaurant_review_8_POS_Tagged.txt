@@ -1,0 +1,7 @@
+Love_NNP the_DT atmosphere_NN of_IN the_DT Girasole_NNP dining_NN room_NN ._.
+Its_PRP$ a_DT loud_JJ ,_, cramped_JJ ,_, Shadyside_NNP basement_NN with_IN Italian_JJ wine_NN ,_, great_JJ Italian_JJ food_NN ._.
+Sunflower_NNP salad_NN is_VBZ always_RB a_DT great_JJ start_NN ._.
+And_CC the_DT oso_NN bucco_NN is_VBZ to_TO die_VB for_IN ._.
+As_RB well_RB as_IN anything_NN with_IN fresh_JJ ricotta_NN ._.
+Also_RB THE_DT BEST_NNP catering_NN I_PRP 've_VBP found_VBN in_IN Pittsburgh_NNP ._.
+The_DT chef_NN will_MD work_VB with_IN your_PRP$ budget_NN and_CC event_NN and_CC everything_NN will_MD fit_VB together_RB perfectly_RB ._.

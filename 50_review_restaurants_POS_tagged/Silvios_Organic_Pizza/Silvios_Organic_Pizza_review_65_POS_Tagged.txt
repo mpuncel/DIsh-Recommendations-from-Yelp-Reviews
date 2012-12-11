@@ -1,0 +1,4 @@
+I_PRP want_VBP to_TO like_VB Silvio_NNP 's_POS ._.
+I_PRP love_VBP the_DT concept_NN ,_, and_CC the_DT menu_NN looks_VBZ great_JJ ._.
+However_RB ,_, the_DT three_CD time_NN I_PRP have_VBP ordered_VBN delivery_NN there_RB ,_, they_PRP have_VBP messed_VBN up_RP my_PRP$ order_NN all_DT three_CD times_NNS :_: leaving_VBG items_NNS out_RB ,_, wrong_JJ ingredients_NNS ,_, cold_JJ pizza_NN ,_, and_CC arriving_VBG an_DT hour_NN later_RB than_IN the_DT expected_VBN delivery_NN time_NN without_IN explanation_NN ._.
+Silvio_NNP 's_POS ,_, if_IN you_PRP are_VBP reading_VBG this_DT :_: I_PRP want_VBP to_TO like_VB you_PRP and_CC I_PRP would_MD love_VB to_TO order_VB from_IN you_PRP more_RBR --_: but_CC you_PRP have_VBP to_TO get_VB your_PRP$ orders_NNS right_RB and_CC deliver_VB them_PRP on_IN time_NN ._.

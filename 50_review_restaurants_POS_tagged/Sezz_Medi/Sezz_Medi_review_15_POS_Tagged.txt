@@ -1,0 +1,6 @@
+Unexpectedly_RB good_JJ ._.
+Crowded_VBN ,_, noisy_JJ ,_, but_CC friendly_JJ ,_, well-intentioned_JJ ._.
+Nice_JJ staff_NN ,_, cramped_JJ space_NN ._.
+Pizzas_NNP were_VBD great_JJ ,_, blistered_JJ and_CC charred_VBD in_IN parts_NNS ,_, good_JJ flavors_NNS ._.
+The_DT cod_NN was_VBD delicious_JJ with_IN satisfying_VBG polenta_NN and_CC escarole_NN ._.
+Not_RB cheap_JJ ,_, but_CC not_RB too_RB much_JJ either_CC ._.

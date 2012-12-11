@@ -1,0 +1,4 @@
+Gypsy_NNP 's_POS is_VBZ Famous_NNP for_IN it_PRP 's_VBZ Cheap_JJ Good_JJ Quality_NNP Italian_NNP Food_NNP ,_, I_PRP brought_VBD an_DT Italian_JJ friend_NN that_WDT says_VBZ it_PRP 's_VBZ Just_RB like_IN the_DT Real_JJ thing_NN in_IN Italy_NNP !_.
+It_PRP 's_VBZ the_DT almost_RB the_DT same_JJ as_IN Trattoria_NNP La_NNP Sicilian_NNP ,_, But_CC Cheaper_NNP !_.
+When_WRB I_PRP walk_VBP by_IN ,_, it_PRP 's_VBZ always_RB crowded_VBN ,_, no_DT matter_NN what_WP the_DT time_NN ._.
+-LRB-_-LRB- what_WP does_VBZ that_IN tell_VBP you_PRP ?_. -RRB-_-RRB-

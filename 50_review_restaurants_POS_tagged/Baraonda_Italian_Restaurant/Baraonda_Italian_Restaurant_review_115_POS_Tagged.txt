@@ -1,0 +1,3 @@
+We_PRP went_VBD here_RB for_IN a_DT business_NN lunch_NN and_CC it_PRP was_VBD great_JJ ._.
+The_DT space_NN is_VBZ very_RB pleasant_JJ and_CC charming_JJ ,_, the_DT waiter_NN was_VBD attentative_JJ and_CC gave_VBD frequent_JJ refills_NNS ,_, and_CC my_PRP$ prosciutto_NN panini_NN was_VBD delicious_JJ ._.
+It_PRP might_MD have_VB been_VBN better_RB on_IN foccaccia_NN rather_RB than_IN sourdough_JJ ,_, but_CC it_PRP was_VBD still_RB great_JJ --_: especially_RB the_DT addictive_JJ homemade_NN chips_NNS ._.

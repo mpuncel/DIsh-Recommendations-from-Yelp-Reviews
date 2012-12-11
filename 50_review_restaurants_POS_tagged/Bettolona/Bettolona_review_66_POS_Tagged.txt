@@ -1,0 +1,2 @@
+The_DT chicken_NN parm_NN panini_NNS for_IN a_DT lunch_NN special_JJ out_IN of_IN this_DT world_NN !_.
+delivery_NN off_IN the_DT hook_NN !_.

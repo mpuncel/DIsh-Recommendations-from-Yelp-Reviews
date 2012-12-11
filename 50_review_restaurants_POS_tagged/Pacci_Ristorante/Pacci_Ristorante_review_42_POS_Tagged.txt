@@ -1,0 +1,4 @@
+this_DT restaurant_NN is_VBZ located_VBN right_RB off_IN of_IN w_NN peachtree_NN ..._: its_PRP$ a_DT nice_JJ and_CC intimate_JJ venue_NN ._.
+we_PRP were_VBD able_JJ to_TO get_VB in_IN without_IN a_DT reservation_NN and_CC a_DT minimal_JJ wait_NN ._.
+our_PRP$ waiter_NN was_VBD very_RB friendly_JJ and_CC attentive_JJ ._.
+i_FW had_VBD the_DT risotto_NN ,_, which_WDT was_VBD very_RB good_JJ ._.

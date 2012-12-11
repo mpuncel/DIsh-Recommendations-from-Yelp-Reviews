@@ -1,0 +1,3 @@
+food_NN was_VBD good_JJ ,_, service_NN was_VBD good_JJ ._.
+one_CD of_IN the_DT better_JJR restaurants_NNS i_FW 've_VBP been_VBN to_TO in_IN boston_NN ._.
+we_PRP had_VBD the_DT tasting_NN menu_NN ._.

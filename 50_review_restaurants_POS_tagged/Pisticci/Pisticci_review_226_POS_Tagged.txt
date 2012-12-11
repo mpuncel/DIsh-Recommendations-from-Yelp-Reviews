@@ -1,0 +1,6 @@
+Pisticci_NNP is_VBZ a_DT hidden_JJ gem_NN in_IN Morningside_NNP Heights_NNP ._.
+As_IN Joshua_NNP B._NNP states_NNS ,_, the_DT restaurant_NN has_VBZ food_NN as_IN great_JJ as_IN Max_NNP SoHa_NNP but_CC is_VBZ less_RBR cramped_JJ ._.
+Great_NNP atmosphere_NN ,_, too_RB ._.
+Try_VB the_DT polenta_JJ side_NN dish_NN -_: it_PRP 's_VBZ nice_JJ and_CC creamy_JJ with_IN provolone_JJ cheese_NN ._.
+Things_NNS as_IN simple_JJ as_IN a_DT bowl_NN of_IN spaghetti_NNS are_VBP cooked_VBN perfectly_RB ._.
+My_PRP$ only_JJ regret_NN is_VBZ that_IN I_PRP did_VBD n't_RB know_VB about_IN this_DT place_NN until_IN a_DT year_NN before_IN I_PRP left_VBD ._.

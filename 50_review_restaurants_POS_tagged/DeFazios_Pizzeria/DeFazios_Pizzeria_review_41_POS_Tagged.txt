@@ -1,0 +1,7 @@
+I_PRP have_VBP no_DT clue_NN how_WRB they_PRP make_VBP their_PRP$ pizza_NN -LRB-_-LRB- charcoal_JJ ,_, wood_NN fired_VBN ?_. -RRB-_-RRB-
+,_, but_CC the_DT crust_NN comes_VBZ out_RP wonderfully_RB !_.
+It_PRP 's_VBZ kind_NN of_IN charred_VBN ,_, but_CC still_RB chewy_JJ ,_, and_CC just_RB plain_JJ ol'_JJ good_JJ !_.
+Order_NNP in_IN -LRB-_-LRB- it_PRP 's_VBZ BYOB_NNP too_RB -RRB-_-RRB- ,_, grab_VB a_DT Snapple_NNP out_IN of_IN the_DT cooler_NN and_CC wait_VB for_IN your_PRP$ pizza_NN ._.
+It_PRP looses_VBZ tons_NNS of_IN it_PRP 's_VBZ oomph_NN in_IN take_VB out_RP ._.
+Just_RB trust_NN me_PRP ._.
+Go_VB order_NN one_CD ._.

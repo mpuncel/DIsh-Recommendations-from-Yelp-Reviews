@@ -1,0 +1,5 @@
+Drinks_NNS -_: great_JJ ._.
+Food_NNP -_: pretty_RB wonderful_JJ ._.
+Service_NNP -_: also_RB good_JJ ._.
+The_DT only_JJ thing_NN that_WDT would_MD make_VB this_DT place_NN perfect_JJ would_MD be_VB less_RBR crowds_NNS ._.
+But_CC something_NN this_DT good_JJ would_MD be_VB hard_JJ to_TO keep_VB quiet_JJ ._.

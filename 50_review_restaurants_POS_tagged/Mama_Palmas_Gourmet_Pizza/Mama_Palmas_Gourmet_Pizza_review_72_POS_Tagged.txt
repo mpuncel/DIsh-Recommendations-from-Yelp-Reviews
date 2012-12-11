@@ -1,0 +1,5 @@
+While_IN Mama_NNP Palma_NNP 's_POS is_VBZ n't_RB the_DT best_JJS pizza_NN I_PRP 've_VBP ever_RB had_VBN ,_, the_DT pizza_NN is_VBZ a_DT great_JJ and_CC not-too-expensive_JJ option_NN for_IN those_DT going_VBG out_RP in_IN Rittenhouse_NNP and_CC Fitler_NNP Square_NNP ._.
+The_DT staff_NN are_VBP courteous_JJ ,_, professional_JJ ,_, and_CC very_RB prompt_JJ ._.
+The_DT salads_NNS are_VBP very_RB big_JJ and_CC delicious_JJ ._.
+My_PRP$ only_JJ gripe_NN is_VBZ that_IN they_PRP do_VBP n't_RB take_VB debit_NN or_CC credit_NN ._.
+To_TO their_PRP$ credit_NN ,_, they_PRP have_VBP an_DT ATM_NNP machine_NN that_WDT charges_VBZ you_PRP $_$ 2_CD or_CC $_$ 3_CD upon_IN withdrawal_NN ._.

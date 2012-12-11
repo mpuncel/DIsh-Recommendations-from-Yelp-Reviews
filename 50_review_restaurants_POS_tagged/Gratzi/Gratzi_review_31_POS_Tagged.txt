@@ -1,0 +1,10 @@
+Gratzi_NNP 's_POS was_VBD the_DT place_NN that_IN I_PRP always_RB wanted_VBD to_TO go_VB when_WRB there_EX was_VBD a_DT special_JJ occasion_NN ,_, or_CC someone_NN else_RB was_VBD going_VBG to_TO foot_VB the_DT bill_NN ._.
+I_PRP went_VBD for_IN several_JJ birthdays_NNS ._.
+I_PRP went_VBD before_IN a_DT concerts_NNS ._.
+I_PRP bring_VBP coworkers_NNS when_WRB they_PRP come_VBP into_IN town_NN ._.
+Every_DT single_JJ time_NN it_PRP is_VBZ pleasing_VBG and_CC every_DT time_NN the_DT food_NN is_VBZ just_RB perfect_JJ and_CC the_DT service_NN quite_RB exceptional_JJ -LRB-_-LRB- maybe_RB one_CD or_CC two_CD times_NNS the_DT wait_NN staff_NN was_VBD n't_RB up_RB to_TO par_NN -_: but_CC pretty_RB good_JJ statistics_NNS ,_, regardless_RB -RRB-_-RRB- ._.
+The_DT atmosphere_NN is_VBZ so_RB inviting_VBG and_CC comfortable_JJ ._.
+The_DT service_NN is_VBZ almost_RB always_RB great_JJ ._.
+The_DT food_NN is_VBZ delicious_JJ ._.
+The_DT beer_NN and_CC wine_NN lists_NNS are_VBP nice_JJ -_: you_PRP can_MD always_RB find_VB something_NN new_JJ to_TO try_VB ,_, or_CC have_VBP the_DT old_JJ standby_NN ._.
+Overall_JJ great_JJ place_NN to_TO go_VB for_IN a_DT special_JJ dinner_NN -_: but_CC not_RB a_DT place_NN that_IN you_PRP should_MD go_VB regularly_RB unless_IN you_PRP want_VBP to_TO end_VB up_RP broke_VBD and_CC chubby_NN ._.

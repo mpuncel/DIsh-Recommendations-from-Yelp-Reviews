@@ -1,0 +1,1 @@
+Food_NNP is_VBZ so-so_JJ ,_, staff_NN is_VBZ rude_JJ ,_, drinks_NNS are_VBP pricey_JJ ,_, but_CC man_NN ,_, it_PRP 's_VBZ a_DT fun_NN place_NN to_TO hang_VB out_RP in_IN the_DT summer_NN ._.

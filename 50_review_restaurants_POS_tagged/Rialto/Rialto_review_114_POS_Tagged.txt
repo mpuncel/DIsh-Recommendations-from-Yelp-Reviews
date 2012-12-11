@@ -1,0 +1,12 @@
+Rialto_NNP is_VBZ a_DT Northern_JJ Italian_JJ restaurant_NN in_IN the_DT Charles_NNP Hotel_NNP ._.
+We_PRP were_VBD four_CD for_IN dinner_NN on_IN a_DT Saturday_NNP night_NN ._.
+The_DT place_NN was_VBD full_JJ and_CC noisy_JJ ._.
+The_DT menu_NN is_VBZ large_JJ and_CC the_DT wine_NN list_NN long_RB ._.
+The_DT pumpkin_NN soup_NN was_VBD pleasing_VBG to_TO the_DT eye_NN and_CC very_RB good_JJ ._.
+The_DT sword_NN fish_NN was_VBD nice_JJ visually_RB and_CC a_DT little_JJ dry_JJ ._.
+The_DT grilled_JJ pork_NN and_CC branzino_NN were_VBD good_JJ ._.
+The_DT fruit_NN tart_JJ and_CC semifreddo_NN were_VBD very_RB good_JJ ._.
+The_DT service_NN was_VBD very_RB good_JJ and_CC the_DT servers_NNS were_VBD very_RB knowledgeable_JJ ._.
+Our_PRP$ table_NN had_VBD a_DT smaller_JJR neighboring_VBG table_NN in_IN a_DT nook_NN that_WDT could_MD only_RB be_VB accessed_VBN by_IN going_VBG around_IN our_PRP$ table_NN ,_, this_DT led_VBD to_TO several_JJ brushes_NNS with_IN servers_NNS trying_VBG to_TO come_VB and_CC go_VB in_IN a_DT narrow_JJ space_NN -_: not_RB very_RB conducive_JJ to_TO peaceful_JJ dining_NN ._.
+To_TO sum_NN :_: The_DT food_NN was_VBD good_JJ and_CC the_DT service_NN very_RB good_JJ ._.
+Prices_NNS were_VBD reasonable_JJ ._.

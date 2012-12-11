@@ -1,0 +1,4 @@
+I_PRP have_VBP frequented_VBN Gypsy_NNP 's_POS many_JJ times_NNS over_IN the_DT past_JJ 5_CD years_NNS ._.
+Unfortunately_RB ,_, I_PRP have_VBP only_RB ordered_VBN the_DT Crazy_NNP Alfredo_NNP ..._: every_DT single_JJ time_NN ._.
+I_PRP need_VBP to_TO get_VB out_IN of_IN my_PRP$ comfort_NN zone_NN and_CC try_VB the_DT Calzone_NNP and_CC other_JJ pasta_NN dishes_NNS ._.
+Still_RB ,_, Crazy_NNP Alfredo_NNP is_VBZ consistently_RB delicious_JJ and_CC decently_RB priced_VBN !_.

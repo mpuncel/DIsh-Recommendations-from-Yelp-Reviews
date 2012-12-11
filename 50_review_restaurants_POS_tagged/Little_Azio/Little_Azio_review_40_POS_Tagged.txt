@@ -1,0 +1,3 @@
+Great_NNP place_NN for_IN an_DT Italian_JJ fix_NN ._.
+Entrees_NNS are_VBP definitely_RB affordable_JJ ,_, quick_JJ and_CC good_JJ ._.
+Nice_JJ ambiance_NN ,_, very_RB casual_JJ ._.

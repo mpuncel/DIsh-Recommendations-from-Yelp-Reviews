@@ -1,0 +1,8 @@
+This_DT review_NN is_VBZ for_IN happy_JJ hour_NN !_.
+Mon_SYM -_: Fri_NNP ,_, 5_LS -_: 7_CD PM_NNP ,_, $_$ 5_CD for_IN all_DT food_NN ._.
+Very_RB very_RB good_JJ deal_NN ._.
+My_PRP$ friend_NN and_CC I_PRP got_VBD the_DT bacon_NN &_CC brie_NN pizza_NN ,_, bacaro_NN burger_NN ,_, and_CC the_DT bacon_NN mac_NN &_CC cheese_NN ._.
+Everything_NN was_VBD so_RB tasty_JJ and_CC went_VBD well_RB with_IN our_PRP$ drinks_NNS ._.
+However_RB ,_, we_PRP were_VBD so_RB sad_JJ to_TO find_VB out_RP that_IN the_DT roasted_JJ eggplant_NN pizza_NN was_VBD not_RB available_JJ because_IN eggplants_NNS are_VBP not_RB in_IN season_NN ._.
+See_VB you_PRP in_IN the_DT winter_NN ,_, Bacaro_NNP LA._NNP ._.
+I_PRP 'm_VBP coming_VBG back_RB for_IN that_DT pizza_NN !_.

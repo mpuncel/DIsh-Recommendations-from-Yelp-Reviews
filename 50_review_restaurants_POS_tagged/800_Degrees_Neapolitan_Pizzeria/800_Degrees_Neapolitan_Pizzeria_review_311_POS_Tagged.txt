@@ -1,0 +1,7 @@
+SO_RB MANY_NNP OPTIONS_NNPS !_.
+Is_VBZ this_DT the_DT best_JJS pizza_NN I_PRP 've_VBP ever_RB had_VBN ?_.
+That_DT 's_VBZ tough_JJ to_TO say_VB ._.
+There_EX are_VBP some_DT places_NNS out_IN there_RB that_DT are_VBP phenomenal_JJ pizza_NN joints_NNS ._.
+But_CC this_DT place_NN sticks_VBZ out_RP in_IN one_CD special_JJ way_NN ..._: they_PRP have_VBP enough_RB ingredients_NNS for_IN their_PRP$ build-a-pizza-workshop_JJ setup_NN ,_, that_IN you_PRP will_MD be_VB able_JJ to_TO craft_VB a_DT pizza_NN to_TO almost_RB any_DT oddball_NN craving_NN ._.
+So_RB if_IN you_PRP 're_VBP itching_VBG for_IN a_DT prosciutto_NN pizza_NN with_IN minced_JJ garlic_NN ,_, topped_VBN with_IN a_DT sunny_JJ side_NN up_IN egg_NN ,_, then_RB here_RB 's_POS your_PRP$ place_NN ,_, because_IN they_PRP got_VBD it_PRP ._.
+perfect_JJ for_IN cravings_NNS

@@ -1,0 +1,6 @@
+The_DT prices_NNS were_VBD low_JJ and_CC the_DT portions_NNS were_VBD big_JJ ._.
+This_DT is_VBZ a_DT good_JJ place_NN to_TO go_VB for_IN lunch_NN or_CC dinner_NN when_WRB you_PRP are_VBP visiting_VBG Berkeley_NNP ._.
+Good_JJ if_IN you_PRP like_IN roasted_JJ garlc_NN ..._: they_PRP spread_VBD it_PRP right_RB on_IN to_TO the_DT garlic_JJ bread_NN ._.
+The_DT pizza_NN and_CC calzone_NN were_VBD fair_JJ to_TO good_JJ ._.
+The_DT dough_NN was_VBD a_DT little_JJ bland_NN ._.
+It_PRP 's_VBZ not_RB as_RB good_JJ as_IN Zachary_NNP 's_POS but_CC for_IN the_DT price_NN ,_, it_PRP 's_VBZ a_DT good_JJ value_NN ._.

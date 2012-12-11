@@ -1,0 +1,4 @@
+I_PRP do_VBP n't_RB know_VB why_WRB people_NNS are_VBP so_RB enamored_VBN with_IN Silvio_NNP 's_POS pizza_NN ._.
+I_PRP love_VBP organic_JJ food_NN as_RB much_RB as_IN the_DT next_JJ Ann_NNP Arborite_NNP ,_, but_CC I_PRP find_VBP they_PRP 're_VBP pizzas_NNS to_TO be_VB tasteless_JJ and_CC somewhat_RB stale_JJ ._.
+The_DT pizza_NN crust_NN is_VBZ rubbery_NN and_CC tastes_NNS kind_NN of_IN like_IN Styrofoam_NNP ,_, and_CC I_PRP 've_VBP generally_RB been_VBN disappointed_VBN every_DT time_NN I_PRP 've_VBP tried_VBN it_PRP ._.
+I_PRP 'd_MD rather_RB walk_VB the_DT extra_JJ two_CD blocks_NNS over_IN to_TO NYPD_NNP ._.

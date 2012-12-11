@@ -1,0 +1,2 @@
+Price_NN is_VBZ a_DT spice_NN ._.
+Decent_JJ quality_NN at_IN a_DT great_JJ price_NN ._.

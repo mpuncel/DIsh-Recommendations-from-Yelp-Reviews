@@ -1,0 +1,4 @@
+MY_NNP FAVORITE_NNP RESTAURANT_NN !_.
+The_DT service_NN is_VBZ always_RB excellent_JJ ._.
+I_PRP get_VBP the_DT insalata_NN de_IN pizza_NN -LRB-_-LRB- grilled_JJ chicken_NN and_CC greens_NNS over_IN white_JJ pizza_NN -RRB-_-RRB- every_DT single_JJ time_NN I_PRP go_VBP ,_, and_CC I_PRP never_RB get_VBP tired_VBN of_IN it_PRP ._.
+The_DT fresh_JJ bread_NN with_IN spiced_JJ olive_JJ oil_NN that_IN they_PRP give_VBP you_PRP after_IN you_PRP order_NN is_VBZ always_RB delicious_JJ too_RB ._.

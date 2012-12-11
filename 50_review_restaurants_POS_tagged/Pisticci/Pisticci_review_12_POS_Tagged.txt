@@ -1,0 +1,4 @@
+This_DT is_VBZ one_CD of_IN my_PRP$ favorite_JJ restaurants_NNS in_IN NY_NNP ._.
+The_DT food_NN is_VBZ EXCELLENT_NNP ,_, and_CC very_RB reasonably_RB priced_VBN !_.
+The_DT weekend_NN brunch_NN is_VBZ also_RB delicious_JJ ,_, I_PRP 've_VBP never_RB been_VBN disappoint_VBP here_RB !_.
+it_PRP 's_VBZ awesome_JJ !_.

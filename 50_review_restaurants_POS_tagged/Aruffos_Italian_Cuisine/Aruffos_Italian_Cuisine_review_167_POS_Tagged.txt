@@ -1,0 +1,21 @@
+Aruffo_NNP 's_POS is_VBZ a_DT beautiful_JJ restaurant_NN with_IN great_JJ service_NN ._.
+The_DT prices_NNS are_VBP n't_RB that_IN steep_JJ considering_VBG the_DT decor_NN and_CC location_NN ._.
+Waiters_NNS are_VBP also_RB very_RB pleasant_JJ and_CC customers_NNS are_VBP seated_VBN right_RB away_RB ._.
+I_PRP 've_VBP been_VBN coming_VBG to_TO Aruffo_NNP 's_POS for_IN a_DT couple_NN years_NNS and_CC my_PRP$ friends_NNS and_CC I_PRP enjoy_VBP ourselves_PRP every_DT time_NN ._.
+Aruffo_NNP 's_POS is_VBZ the_DT main_JJ place_NN my_PRP$ old_JJ college_NN buddies_NNS and_CC I_PRP go_VBP to_TO catch_VB up_RP ._.
+Though_IN we_PRP sometimes_RB find_VBP it_PRP funny_JJ that_IN the_DT place_NN feels_VBZ a_DT bit_NN date-like_JJ ,_, we_PRP still_RB love_VBP how_WRB gorgeous_JJ it_PRP looks_VBZ inside_RB ._.
+The_DT lighting_NN is_VBZ dim_NN ,_, place_NN settings_NNS are_VBP fancy_JJ ,_, old_JJ Italian_JJ posters_NNS and_CC wine_NN bottles_NNS cover_VBP the_DT walls_NNS ._.
+There_EX 's_VBZ also_RB Italian_JJ music_NN playing_NN ,_, but_CC it_PRP 's_VBZ not_RB loud_JJ which_WDT makes_VBZ it_PRP a_DT great_JJ atmosphere_NN for_IN conversations_NNS ._.
+The_DT servers_NNS are_VBP also_RB attentive_JJ and_CC professional_JJ ._.
+I_PRP 've_VBP never_RB dealt_VBN with_IN any_DT rude_JJ server_NN or_CC poor_JJ service_NN ._.
+It_PRP 's_VBZ really_RB quite_RB nice_JJ ._.
+As_IN for_IN the_DT food_NN ,_, it_PRP 's_VBZ great_JJ ._.
+The_DT bread_NN that_WDT comes_VBZ before_IN the_DT meal_NN is_VBZ really_RB good_JJ and_CC the_DT meal_NN itself_PRP is_VBZ always_RB really_RB great_JJ ._.
+My_PRP$ friends_NNS have_VBP enjoyed_VBN every_DT item_NN they_PRP 've_VBP ordered_VBN from_IN the_DT menu_NN ._.
+Personally_RB ,_, I_PRP always_RB order_VBP the_DT Aglio_NNP E_NNP Olio_NNP ,_, which_WDT is_VBZ a_DT good_JJ helping_VBG of_IN spaghetti_NNS noodles_NNS ,_, sun_NN dried_VBD tomatoes_NNS ,_, sauteed_NN garlic_NN ,_, and_CC olive_JJ oil_NN ._.
+The_DT food_NN is_VBZ also_RB decently_RB priced_VBN ,_, starting_VBG at_IN $_$ 10_CD ._.
+There_EX are_VBP even_RB less_RBR expensive_JJ dishes_NNS on_IN the_DT lunch_NN special_JJ menu_NN ._.
+My_PRP$ friends_NNS and_CC I_PRP really_RB enjoy_VBP Aruffo_NNP 's_POS ._.
+It_PRP 's_VBZ a_DT gorgeous_JJ restaurant_NN with_IN great_JJ food_NN and_CC service_NN ._.
+There_EX are_VBP no_DT bad_JJ choices_NNS on_IN the_DT menu_NN and_CC the_DT lunch_NN specials_NNS are_VBP pretty_RB inexpensive_JJ ._.
+I_PRP 'm_VBP sure_JJ my_PRP$ friends_NNS and_CC I_PRP will_MD be_VB coming_VBG here_RB as_RB long_JJ as_IN we_PRP live_VBP in_IN the_DT area_NN ._.

@@ -1,0 +1,1 @@
+Great_NNP italian_JJ food_NN on_IN the_DT cheap_JJ +_NN on_IN the_DT go_NN ._.

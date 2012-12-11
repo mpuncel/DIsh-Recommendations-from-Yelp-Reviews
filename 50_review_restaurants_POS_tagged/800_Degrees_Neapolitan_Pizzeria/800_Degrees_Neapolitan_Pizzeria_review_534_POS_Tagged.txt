@@ -1,0 +1,10 @@
+Fresh_JJ dough_NN ,_, fresh_JJ sauce_NN ,_, fresh_JJ cheese_NN ,_, and_CC fresh_JJ toppings_NNS ._.
+Perfect_NNP ingredients_NNS for_IN a_DT perfect_JJ pizza_NN ,_, and_CC yet_RB ,_, I_PRP was_VBD n't_RB too_RB impressed_JJ with_IN the_DT pizza_NN ._.
+I_PRP got_VBD the_DT Pizza_NNP Margherita_NNP ,_, and_CC added_VBD garlic_JJ ,_, basil_NN ,_, and_CC Italian_JJ Sausage_NN to_TO it_PRP ._.
+The_DT ingredients_NNS were_VBD hands-down_JJ ,_, the_DT best_JJS I_PRP 've_VBP ever_RB had_VBN ._.
+The_DT mozzarella_NN was_VBD just_RB so_RB fresh_JJ and_CC delicious_JJ ._.
+My_PRP$ main_JJ and_CC only_JJ problem_NN with_IN the_DT pizza_NN was_VBD the_DT dough_NN ._.
+I_PRP understand_VBP that_IN the_DT crust_NN is_VBZ n't_RB supposed_VBN to_TO be_VB crunchy_JJ ,_, because_IN ``_`` the_DT original_JJ ''_'' pizza_NN from_IN Naples_NNP is_VBZ n't_RB crunchy_JJ ,_, but_CC that_DT does_VBZ n't_RB mean_VB the_DT dough_NN has_VBZ to_TO be_VB under_IN cooked_VBN ._.
+I_PRP personally_RB found_VBD the_DT dough_JJ to_TO be_VB a_DT little_JJ too_RB chewy_JJ ,_, and_CC soggy_JJ for_IN my_PRP$ taste_NN ._.
+Great_NNP ingredients_NNS ,_, but_CC terrible_JJ dough_NN ._.
+I_PRP prefer_VBP Pieology_NNP to_TO 800_CD Degrees_NNS ._.

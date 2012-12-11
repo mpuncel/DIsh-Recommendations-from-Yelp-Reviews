@@ -1,0 +1,4 @@
+Pizza_NNP gets_VBZ six_CD stars_NNS ._.
+Simply_RB the_DT best_JJS and_CC most_RBS Italian_JJ pizza_NN in_IN Atlanta_NNP ._.
+Would_MD love_VB larger_JJR seating_NN area_NN ,_, only_RB reason_NN for_IN four_CD stars_NNS ._.
+Been_VBN there_EX a_DT few_JJ times_NNS ,_, have_VBP yet_RB to_TO try_VB the_DT tasty_JJ looking_VBG desserts_NNS ._.

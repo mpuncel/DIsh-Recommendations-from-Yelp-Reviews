@@ -1,0 +1,5 @@
+Also_RB known_VBN as_IN Drunk_NNP Pizza_NNP ,_, Allegro_NNP is_VBZ open_JJ late_RB ,_, serves_VBZ pizza_NN by_IN the_DT slice_NN ,_, and_CC has_VBZ beer_NN ._.
+What_WP else_RB is_VBZ there_RB to_TO say_VB ?_.
+Did_VBD I_PRP ever_RB darken_VBP its_PRP$ door_NN during_IN daylight_NN hours_NNS ?_.
+No_DT ,_, of_IN course_NN not_RB ._.
+It_PRP 's_VBZ got_VBD its_PRP$ niche_NN ,_, and_CC it_PRP performs_VBZ well_RB ._.

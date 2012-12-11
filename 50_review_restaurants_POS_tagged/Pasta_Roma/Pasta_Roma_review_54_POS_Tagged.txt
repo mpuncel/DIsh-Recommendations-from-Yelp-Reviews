@@ -1,0 +1,3 @@
+I_PRP 've_VBP tried_VBD their_PRP$ pasta_NN three_CD times_NNS and_CC only_RB when_WRB I_PRP ordered_VBD pasta_NN primavera_NN was_VBD it_PRP cooked_VBD al_JJ dente_NN -LRB-_-LRB- ie_FW :_: not_RB the_DT typical_JJ mushy_JJ and_CC overcooked_JJ paste_NN of_IN Pasta_NNP Roma_NNP 's_POS past_NN -RRB-_-RRB- ._.
+The_DT sauces_NNS -LRB-_-LRB- puttanesca_NN ,_, primavera_NN -RRB-_-RRB- have_VBP been_VBN tasty_JJ but_CC the_DT pasta_NN seems_VBZ like_IN it_PRP 's_VBZ been_VBN sitting_VBG a_DT while_NN -LRB-_-LRB- hence_RB the_DT pasta_NN fast-food_NN model_NN of_IN this_DT restaurant_NN -RRB-_-RRB- ._.
+Might_JJ appeal_NN to_TO USC_NNP students_NNS ,_, but_CC not_RB to_TO adults_NNS who_WP know_VBP better_JJR :_: -RRB-_-RRB-

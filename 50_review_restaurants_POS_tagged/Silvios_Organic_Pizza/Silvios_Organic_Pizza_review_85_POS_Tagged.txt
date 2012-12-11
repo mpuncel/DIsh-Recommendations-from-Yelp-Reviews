@@ -1,0 +1,5 @@
+I_PRP stopped_VBD in_RP at_IN Silvio_NNP 's_POS today_NN to_TO meet_VB a_DT friend_NN for_IN a_DT quick_JJ lunch_NN ._.
+I_PRP had_VBD a_DT slice_NN of_IN the_DT Nepalese_NNP Pizza_NNP ,_, and_CC the_DT Eggplant_NNP Soup_NNP ._.
+While_IN I_PRP could_MD n't_RB claim_VB either_RB to_TO be_VB completely_RB outstanding_JJ ,_, it_PRP was_VBD pretty_RB tasty_JJ ._.
+I_PRP really_RB liked_VBD the_DT tomato_NN 's_POS on_IN the_DT pizza_NN -LRB-_-LRB- could_MD 've_VB used_VBN more_RBR mozerella_JJ and_CC basil_NN -RRB-_-RRB- ,_, and_CC the_DT soup_NN was_VBD definitely_RB enjoyable_JJ ,_, even_RB though_IN I_PRP 'm_VBP not_RB usually_RB a_DT cream_NN based_VBN soup_NN person_NN ._.
+I_PRP would_MD n't_RB necessarily_RB go_VB out_IN of_IN my_PRP$ way_NN to_TO go_VB ,_, but_CC if_IN you_PRP happen_VB to_TO be_VB around_RB ,_, not_RB a_DT bad_JJ choice_NN ._.

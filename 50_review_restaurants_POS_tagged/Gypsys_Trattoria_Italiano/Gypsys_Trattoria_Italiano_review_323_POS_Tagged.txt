@@ -1,0 +1,5 @@
+Pretty_NNP good_JJ selection_NN of_IN Italian_JJ food_NN -_: pastas_NNS ,_, calzones_NNS ,_, salads_NNS ,_, etc_FW ,_, for_IN about_IN $_$ 6_CD to_TO 7_CD ._.
+They_PRP give_VBP really_RB big_JJ portions_NNS ,_, and_CC if_IN you_PRP order_VBP pasta_NN ,_, it_PRP always_RB comes_VBZ with_IN a_DT slab_NN of_IN bread_NN with_IN -LRB-_-LRB- literal_JJ -RRB-_-RRB- garlic_NN on_IN it_PRP ._.
+The_DT store_NN people_NNS are_VBP n't_RB openly_RB friendly_JJ -LRB-_-LRB- lots_NNS of_IN smiling\/small_NN talk_NN -RRB-_-RRB- ,_, but_CC they_PRP 're_VBP polite_JJ ._.
+Good_JJ amount_NN of_IN seating_VBG !_.
+You_PRP pretty_RB much_RB order_NN at_IN the_DT counter_NN and_CC seat_NN yourself_PRP ._.

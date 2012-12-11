@@ -1,0 +1,2 @@
+Great_NNP eggplant_NN parmigiana_NN !_.
+Not_RB fried_JJ and_CC greasy_JJ ,_, oven_JJ baked_JJ and_CC delicious_JJ ._.

@@ -1,0 +1,4 @@
+Their_PRP$ prosciutto_NN pizza_NN is_VBZ very_RB good_JJ ._.
+Their_PRP$ white_JJ pizza_NN is_VBZ missing_VBG something_NN though_RB ,_, it_PRP was_VBD very_RB bland_JJ ._.
+Did_VBD n't_RB have_VB pasta_NN ,_, but_CC other_JJ people_NNS had_VBD ordered_VBN it_PRP ,_, and_CC it_PRP looked_VBD good_JJ ._.
+The_DT prices_NNS are_VBP very_RB reasonable_JJ and_CC the_DT staff_NN is_VBZ really_RB nice_JJ ._.

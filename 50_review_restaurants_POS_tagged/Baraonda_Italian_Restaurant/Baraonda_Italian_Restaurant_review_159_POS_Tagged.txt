@@ -1,0 +1,3 @@
+Lady_NNP at_IN the_DT table_NN next_IN to_TO me_PRP accidentally_RB spilled_VBD wine_NN all_DT over_IN me_PRP ._.
+The_DT restaurant_NN bought_VBD me_PRP dessert_NN -_: how_WRB nice_JJ was_VBD that_DT ._.
+Overall_JJ great_JJ eats_VBZ for_IN a_DT good_JJ price_NN ._.

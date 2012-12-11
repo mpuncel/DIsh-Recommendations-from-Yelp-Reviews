@@ -1,0 +1,2 @@
+Chicken_NNP salad_NN is_VBZ yummy_JJ !_.
+Friendly_RB service_NN ._.

@@ -1,0 +1,1 @@
+This_DT is_VBZ a_DT wonderful_JJ ,_, cozy_JJ Italian_JJ food_NN restaurant_NN with_IN a_DT superb_NN wine_NN list_NN !_.

@@ -1,0 +1,5 @@
+This_DT place_NN is_VBZ alright_JJ ._.
+From_IN the_DT selection_NN in_IN Berkeley_NNP ,_, this_DT definitely_RB is_VBZ up_RB there_RB as_IN far_RB as_IN the_DT Italian_JJ food_NN goes_VBZ ._.
+But_CC then_RB again_RB ,_, ``_`` as_RB far_RB as_IN the_DT Italian_JJ food_NN goes_VBZ ''_'' in_IN around_IN campus_NN ,_, well_RB that_DT 's_VBZ not_RB very_RB far_RB ._.
+Essentially_RB this_DT place_NN sells_VBZ decent_JJ Italian_JJ food_NN that_WDT will_MD satisfy_VB your_PRP$ palate_NN if_IN this_DT is_VBZ indeed_RB what_WP you_PRP 're_VBP craving_NN ._.
+But_CC in_IN my_PRP$ opinion_NN ,_, some_DT of_IN the_DT dishes_NNS from_IN this_DT place_NN are_VBP a_DT bit_NN too_RB salty_JJ without_IN much_JJ taste_NN ..._:

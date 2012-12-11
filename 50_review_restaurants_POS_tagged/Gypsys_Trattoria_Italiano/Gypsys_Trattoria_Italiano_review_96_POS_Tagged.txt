@@ -1,0 +1,4 @@
+The_DT food_NN here_RB is_VBZ really_RB cheap_JJ and_CC huge_JJ ,_, but_CC other_JJ than_IN that_DT ..._: I_PRP 'd_MD tried_VBD it_PRP three_CD times_NNS -LRB-_-LRB- fair_JJ enough_RB right_JJ ?_. -RRB-_-RRB-
+,_, the_DT pasta_NN is_VBZ oily_RB ,_, really_RB creamy_JJ ,_, but_CC not_RB much_JJ flavor_NN at_IN all_DT ._.
+The_DT side_NN garlic_JJ bread_NN is_VBZ ok_RB ._.
+Their_PRP$ calzone_NN is_VBZ much_RB better_JJR ,_, yet_CC it_PRP 's_VBZ SUPER_NNP oily_RB !!!_RB once_IN I_PRP cut_VBD it_PRP open_JJ I_PRP can_MD see_VB all_PDT the_DT oil_NN flowing_VBG out_RP ..._: I_PRP guess_VBP for_IN a_DT hungry_JJ student_NN with_IN a_DT tight_JJ budget_NN ,_, this_DT is_VBZ the_DT place_NN ,_, but_CC I_PRP would_MD not_RB go_VB there_RB anymore_RB ..._:

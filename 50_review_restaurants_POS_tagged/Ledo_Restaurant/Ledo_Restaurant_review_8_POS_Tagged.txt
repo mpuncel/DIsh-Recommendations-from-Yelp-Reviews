@@ -1,0 +1,9 @@
+Five_CD stars_NNS for_IN the_DT pizza_NN ,_, 1_CD star_NN for_IN the_DT location_NN and_CC atmosphere_NN ._.
+The_DT old_JJ Ledos_NNP had_VBD character_NN -LRB-_-LRB- and_CC characters_NNS -RRB-_-RRB- and_CC a_DT great_JJ bar_NN ._.
+The_DT new_JJ Ledos_NNP lacks_VBZ both_DT ._.
+I_PRP drove_VBD by_IN twice_RB without_IN seeing_VBG it_PRP ._.
+It_PRP it_PRP part_NN of_IN a_DT parking_NN garage_NN and_CC the_DT only_JJ indication_NN of_IN a_DT restaurant_NN is_VBZ the_DT name_NN etched_VBN on_IN the_DT sheets_NNS of_IN glass_NN that_WDT enclose_VBP the_DT place_NN ._.
+Inside_IN it_PRP 's_VBZ like_IN sitting_VBG in_IN a_DT fish_NN bowl_NN ._.
+Small_JJ non-descript_JJ bar_NN with_IN overpriced_JJ beer_NN ._.
+At_IN least_JJS carry_VB some_DT Flying_NNP Dog_NNP or_CC Clipper_NNP City_NNP ._.
+Anyway_RB ,_, pizza_NN was_VBD great_JJ ,_, as_IN usual_JJ ,_, but_CC it_PRP will_MD be_VB a_DT carry-out_NN only_RB place_NN for_IN me_PRP ._.

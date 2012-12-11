@@ -1,0 +1,11 @@
+First_NNP off_RB ,_, you_PRP MUST_VBP eat_VB in_IN the_DT back_JJ patio_NN ._.
+In_IN the_DT evening_NN it_PRP is_VBZ very_RB romantic_JJ with_IN the_DT lights_NNS in_IN the_DT trees_NNS ._.
+The_DT service_NN is_VBZ very_RB good_JJ ._.
+They_PRP are_VBP just_RB waiting_VBG to_TO serve_VB you_PRP ._.
+The_DT food_NN is_VBZ amazing_JJ ._.
+The_DT best_JJS Italian_JJ food_NN in_IN SLO_NNP ._.
+I_PRP 've_VBP tried_VBN most_JJS of_IN them_PRP ,_, but_CC none_NN compare_VBP to_TO this_DT eatery_NN ._.
+Please_VB try_VB it_PRP ._.
+I_PRP 've_VBP tried_VBN several_JJ dishes_NNS and_CC all_DT meet_VBP my_PRP$ high_JJ expectations_NNS for_IN Italian_JJ food_NN ._.
+They_PRP have_VBP a_DT very_RB nice_JJ wine_NN list_NN ._.
+I_PRP love_VBP the_DT wines_NNS from_IN the_DT Central_NNP Coast_NNP and_CC they_PRP have_VBP several_JJ on_IN their_PRP$ menu_NN ._.

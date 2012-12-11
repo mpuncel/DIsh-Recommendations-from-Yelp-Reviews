@@ -1,0 +1,4 @@
+Very_RB nice_JJ Italian_JJ local_JJ spot_NN ..._: the_DT one_CD in_IN Long_NNP Beach_NNP is_VBZ good_JJ as_RB well_RB ._.
+I_PRP highly_RB recommend_VBP the_DT risotto_JJ dish_NN !_.
+Also_RB the_DT tapenade_NN spread_NN for_IN the_DT bread_NN is_VBZ really_RB good_JJ as_RB well_RB ._.
+Nice_NNP Place_NNP !_.

@@ -1,0 +1,4 @@
+i_FW give_VB this_DT place_NN 5_CD stars_NNS because_IN i_FW think_VB its_PRP$ one_CD of_IN the_DT best_JJS italian_JJ restaurant_NN here_RB in_IN the_DT 805_CD ._.
+the_DT location_NN ,_, menu_NN ,_, service_NN was_VBD great_JJ ._.
+i_FW like_IN there_EX calamaris_VBZ and_CC there_EX italian_JJ potroast_NN ._.
+a_DT bit_NN pricey_JJ but_CC worth_JJ it_PRP ._.

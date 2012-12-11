@@ -1,0 +1,17 @@
+Great_NNP place_NN ._.
+Long_JJ lines_NNS ._.
+Hot_JJ pizza_NN ._.
+The_DT place_NN is_VBZ pretty_RB streamlined_JJ ._.
+It_PRP does_VBZ n't_RB necessarily_RB remind_VB me_PRP of_IN Subway_NNP like_IN everyone_NN else_JJ says_VBZ ._.
+It_PRP 's_VBZ more_JJR like_IN Pinkberry_NNP ._.
+You_PRP choose_VB your_PRP$ flavor_NN -LRB-_-LRB- margherita_FW ,_, bianca_NN ,_, and_CC marinara_NN -RRB-_-RRB- and_CC add_VB toppings_NNS !_.
+I_PRP 've_VBP gotten_VBN the_DT margherita_NN with_IN bacon_NN and_CC ricotta_NN ,_, and_CC it_PRP was_VBD DELICIOUS_NNP ._.
+The_DT ricotta_NN is_VBZ actually_RB stuffed_VBN into_IN the_DT crust_NN halfway_NN around_IN the_DT pie_NN ,_, and_CC it_PRP was_VBD the_DT greatest_JJS thing_NN ever_RB ._.
+The_DT pizzas_NNS are_VBP baked_JJ so_RB quickly_RB that_IN by_IN the_DT time_NN you_PRP get_VBP around_IN to_TO paying_VBG for_IN your_PRP$ food_NN ,_, it_PRP 's_VBZ already_RB done_VBN ._.
+I_PRP also_RB tried_VBD the_DT gorgonzola_NN salad_NN ,_, but_CC I_PRP would_MD avoid_VB it_PRP ._.
+It_PRP 's_VBZ overdressed_JJ ,_, and_CC much_RB too_RB vinegary_JJ for_IN the_DT delicate_JJ butter_NN lettuce_NN ._.
+Prices_NNS are_VBP really_RB cheap_JJ ._.
+Pizzas_NNP start_VB at_IN $_$ 5_CD and_CC salads_NNS start_VBP at_IN $_$ 4_CD ,_, but_CC if_IN you_PRP get_VBP carried_VBN away_RP with_IN the_DT toppings_NNS ,_, it_PRP 'll_MD add_VB up_RP quick_JJ ._.
+P.S._NNP Coolest_NNP soda_NN machine_NN ever_RB ._.
+Peach_NNP Sprite_NNP ?_.
+Just_RB too_RB good_JJ ._.

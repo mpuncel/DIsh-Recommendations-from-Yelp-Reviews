@@ -1,0 +1,5 @@
+I_PRP visited_VBD this_DT place_NN in_IN November_NNP of_IN 2009_CD ._.
+I_PRP loved_VBD the_DT atmosphere_NN and_CC the_DT food_NN was_VBD great_JJ ._.
+Small_JJ plates_NNS and_CC fairly_RB expensive_JJ for_IN what_WP you_PRP get_VBP ,_, but_CC I_PRP felt_VBD it_PRP was_VBD worth_JJ it_PRP ._.
+I_PRP recommend_VBP the_DT olive_JJ plate_NN ._.
+I_PRP would_MD definitely_RB go_VB back_RB ._.

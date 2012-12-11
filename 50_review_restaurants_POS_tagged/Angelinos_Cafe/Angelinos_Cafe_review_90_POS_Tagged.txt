@@ -1,0 +1,2 @@
+Excellent_JJ little_JJ italian_JJ place_NN ._.
+Authentic_NNP ,_, tasty_JJ food_NN in_IN a_DT tiny_JJ ,_, family-owned_JJ place_NN ._.

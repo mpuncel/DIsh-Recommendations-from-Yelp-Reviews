@@ -1,0 +1,6 @@
+GREAT_JJ thin_JJ crust_NN pizza_NN !_.
+Lots_NNS of_IN options_NNS ._.
+You_PRP get_VBP to_TO choose_VB your_PRP$ own_JJ fresh_JJ toppings_NNS and_CC they_PRP make_VBP the_DT pizza_NN in_IN front_NN of_IN you_PRP !_.
+A_DT lot_NN of_IN variety_NN of_IN toppings_NNS are_VBP available_JJ ._.
+There_EX always_RB seems_VBZ to_TO be_VB a_DT pretty_RB crazy_JJ rush_NN but_CC the_DT line_NN moves_VBZ quickly_RB ._.
+They_PRP also_RB have_VBP ice_NN cream_NN ,_, but_CC did_VBD not_RB try_VB it_PRP ._.

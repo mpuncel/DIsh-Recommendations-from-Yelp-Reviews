@@ -1,0 +1,6 @@
+Drinks_NNS not_RB good_JJ ._.
+Food_NNP even_RB worse_JJR ._.
+Tuna_NN carpaccio_NN horrible_JJ ._.
+Take_VB a_DT lot_NN of_IN time_NN on_IN presentation_NN but_CC the_DT not_RB on_IN taste_NN ._.
+Go_VB up_RP the_DT street_NN to_TO Ecco_NNP !_.
+Trust_NNP me_PRP it_PRP 's_VBZ so_RB much_RB better_JJR they_PRP make_VBP their_PRP$ own_JJ meats_NNS and_CC cheeses_NNS !_.

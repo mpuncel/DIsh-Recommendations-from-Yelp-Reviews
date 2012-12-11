@@ -1,0 +1,7 @@
+I_PRP am_VBP Italian_JJ ,_, so_RB eating_JJ Italian_JJ food_NN out_RP is_VBZ never_RB easy_JJ ._.
+La_NNP Piccoletta_NNP is_VBZ the_DT exception_NN !_.
+The_DT food_NN is_VBZ great_JJ ,_, pasta_NN is_VBZ always_RB al_JJ dente_NN and_CC the_DT sauce_NN is_VBZ very_RB mush_JJ traditional_JJ ._.
+Americanized_VBN sauce_NN has_VBZ lots_NNS of_IN sugar_NN -LRB-_-LRB- yuk_NN !!!_NN -RRB-_-RRB- ._.
+The_DT pizza_NN is_VBZ also_RB a_DT good_JJ lunch_NN ._.
+Our_PRP$ company_NN is_VBZ having_VBG our_PRP$ 2010_CD Christmas_NNP party_NN here_RB !_.
+Need_VBN I_PRP say_VBP more_JJR ?_.

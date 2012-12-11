@@ -1,0 +1,5 @@
+Great_NNP restaurant_NN !_.
+I_PRP have_VBP lived_VBN in_IN Atlanta_NNP for_IN over_IN 20_CD years_NNS and_CC I_PRP must_MD say_VB this_DT pizza_NN is_VBZ bar_NN none_NN I_PRP have_VBP had_VBN in_IN Atlanta_NNP so_RB far_RB ._.
+The_DT atmosphere_NN is_VBZ relaxed_VBN and_CC you_PRP can_MD bring_VB your_PRP$ own_JJ bottle_NN of_IN wine_NN ._.
+Great_NNP place_NN to_TO gather_VB with_IN friends_NNS and_CC enjoy_VB a_DT really_RB great_JJ meal_NN ._.
+Be_VB prepared_JJ to_TO lick_VB your_PRP$ fingers_NNS !_.

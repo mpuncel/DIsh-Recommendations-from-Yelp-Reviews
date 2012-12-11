@@ -1,0 +1,7 @@
+I_PRP just_RB ordered_VBD an_DT Italian_JJ Sub_SYM -_: never_RB again_RB ._.
+A_DT soggy_JJ mess_NN ._.
+And_CC their_PRP$ ``_`` salami_FW ''_'' is_VBZ clearly_RB just_RB bologne_NN ._.
+I_PRP 'm_VBP amazed_VBN that_IN a_DT place_NN like_IN this_DT can_MD stay_VB open_JJ in_IN a_DT city_NN that_WDT can_MD serve_VB up_RB good_JJ food_NN for_IN a_DT lot_NN less_JJR ._.
+I_PRP guess_VBP they_PRP are_VBP relying_VBG on_IN college_NN students_NNS who_WP do_VBP n't_RB know_VB any_DT better_JJR ._.
+For_IN a_DT better_JJR sandwich_NN go_VBP to_TO Zingerman_NNP 's_POS -LRB-_-LRB- if_IN you_PRP 've_VBP got_VBD some_DT cash_NN -RRB-_-RRB- ,_, Jimmy_NNP John_NNP 's_POS or_CC Subway_NNP -LRB-_-LRB- if_IN you_PRP do_VBP n't_RB -RRB-_-RRB- ,_, or_CC your_PRP$ mom_NN 's_POS house_NN ._.
+Pizza_NNP House_NNP should_MD stick_VB to_TO pizza_NN ._.

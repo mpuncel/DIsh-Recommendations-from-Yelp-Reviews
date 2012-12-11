@@ -1,0 +1,3 @@
+Good_JJ food_NN ,_, and_CC drinks_NNS ._.
+Great_NNP ambiance_NN and_CC service_NN ._.
+Dropped_VBN $_$ 200.00_CD for_IN dinner_NN and_CC 5_CD drinks_NNS for_IN two_CD ._.

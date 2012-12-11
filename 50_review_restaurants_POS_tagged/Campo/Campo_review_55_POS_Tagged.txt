@@ -1,0 +1,3 @@
+If_IN you_PRP like_IN your_PRP$ pizza_NN made_VBN on_IN matzoh_NN ,_, then_RB this_DT is_VBZ the_DT place_NN for_IN you_PRP ._.
+If_IN you_PRP do_VBP n't_RB like_VB your_PRP$ pizza_NN on_IN a_DT dry_JJ ,_, dusty_JJ ,_, yeastless_JJ cracker_NN ..._: then_RB I_PRP suggest_VBP you_PRP go_VB somewhere_RB else_RB ._.
+We_PRP tried_VBD one_CD of_IN each_DT of_IN their_PRP$ 5_CD pizzas_NNS and_CC among_IN the_DT six_CD of_IN us_PRP ,_, this_DT was_VBD a_DT unanimous_JJ conclusion_NN ._.

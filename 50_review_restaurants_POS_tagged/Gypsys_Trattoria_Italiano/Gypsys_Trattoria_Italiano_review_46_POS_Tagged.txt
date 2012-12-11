@@ -1,0 +1,2 @@
+I_PRP like_VBP the_DT mediterranean_JJ pasta_NN ._.
+The_DT calzones_NNS have_VBP way_NN too_RB much_JJ cheese_NN though_IN ._.

@@ -1,0 +1,10 @@
+Mmmm_NNP Calzone_NNP ._.
+I_PRP miss_VBP you_PRP so_RB ._.
+I_PRP started_VBD salivating_VBG the_DT other_JJ day_NN when_WRB my_PRP$ friend_NN talked_VBD about_IN getting_VBG a_DT calzone_NN at_IN Gypsy_NNP 's_POS since_IN we_PRP were_VBD in_IN Berkeley_NNP the_DT other_JJ day_NN ._.
+I_PRP was_VBD bummed_VBN that_IN I_PRP had_VBD to_TO go_VB to_TO Zachary_NNP 's_POS that_DT night_NN ._.
+Do_VBP n't_RB get_VB me_PRP wrong_JJ ._.
+Zachary_NNP 's_POS is_VBZ awesome_JJ ,_, but_CC the_DT pizza_NN 's_POS so_RB expensive_JJ ._.
+I_PRP just_RB remember_VBP the_DT days_NNS when_WRB I_PRP would_MD order_VB a_DT calzone_NN and_CC it_PRP came_VBD out_IN it_PRP the_DT pink_JJ donut_NN boxes_NNS that_IN a_DT dozen_NN usually_RB come_VBN in_IN and_CC realized_VBD that_IN the_DT calzone_NN was_VBD taking_VBG up_RP that_DT space_NN ._.
+\*_SYM drool_NN \*_SYM ._.
+I_PRP will_MD eat_VB you_PRP again_RB one_CD day_NN ._.
+I_PRP promise_VBP !_.

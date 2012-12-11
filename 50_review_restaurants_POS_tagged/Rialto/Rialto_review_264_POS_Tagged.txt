@@ -1,0 +1,4 @@
+This_DT has_VBZ become_VBN my_PRP$ family_NN 's_POS favorite_JJ spot_NN for_IN special_JJ occasions_NNS ._.
+The_DT food_NN is_VBZ excellent_JJ ._.
+Everything_NN is_VBZ prepared_JJ perfectly_RB and_CC I_PRP always_RB leave_VBP a_DT little_JJ too_RB full_JJ because_IN I_PRP just_RB ca_MD n't_RB put_VB my_PRP$ fork_NN down_RB ._.
+The_DT only_JJ downside_NN is_VBZ the_DT service_NN is_VBZ a_DT bit_NN slow_JJ -_: it_PRP took_VBD a_DT 3_CD hours_NNS for_IN dinner_NN for_IN the_DT 6_CD of_IN us_PRP ._.

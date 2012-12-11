@@ -1,0 +1,6 @@
+WAY_NN over_IN rated_VBN ._.
+We_PRP just_RB got_VBD 2_CD pizzas_NNS ,_, 1_CD with_IN pep_NN ,_, mushroom_NN ,_, and_CC onions_NNS ,_, and_CC the_DT other_JJ with_IN jalapenos_NNS ,_, smoked_VBD bacon_NN and_CC red_JJ onion_NN ._.
+Both_DT flavorless_JJ ,_, soggy_JJ in_IN the_DT middle_NN ,_, and_CC unappetizing_JJ ._.
+We_PRP threw_VBD both_DT away_RB after_IN a_DT few_JJ bites_VBZ ._.
+Ill_NNP stick_NN with_IN slice_NN truck_NN ._.
+I_PRP really_RB think_VBP all_PDT the_DT peeps_NNS that_WDT posted_VBD so_RB positively_RB are_VBP being_VBG paid_VBN ._.

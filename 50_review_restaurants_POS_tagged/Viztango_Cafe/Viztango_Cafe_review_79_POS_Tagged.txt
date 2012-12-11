@@ -1,0 +1,6 @@
+This_DT place_NN is_VBZ great_JJ !_.
+Just_RB about_IN everything_NN is_VBZ under_IN $_$ 10_CD ,_, portions_NNS are_VBP large_JJ ,_, meals_NNS come_VBP with_IN bread_NN ,_, and_CC instead_RB of_IN a_DT number_NN or_CC taking_VBG your_PRP$ name_NN they_PRP give_VBP you_PRP a_DT stuffed_VBN animal_NN to_TO take_VB to_TO your_PRP$ table_NN ._.
+I_PRP can_MD just_RB imagine_VB the_DT people_NNS behind_IN the_DT counter_NN saying_VBG ,_, ``_`` take_VB this_DT seafood_NN pasta_NN to_TO Spiderman_NNP ._. ''_''
+The_DT Chinese_JJ chicken_NN salad_NN is_VBZ amazing_JJ ._.
+I_PRP know_VBP ,_, why_WRB would_MD you_PRP go_VB to_TO an_DT Italian_JJ place_NN and_CC have_VB a_DT Chinese_JJ salad_NN ?_.
+But_CC it_PRP 's_VBZ better_JJR than_IN any_DT salad_NN I_PRP 've_VBP had_VBN at_IN any_DT Asian_JJ joint_JJ !_.

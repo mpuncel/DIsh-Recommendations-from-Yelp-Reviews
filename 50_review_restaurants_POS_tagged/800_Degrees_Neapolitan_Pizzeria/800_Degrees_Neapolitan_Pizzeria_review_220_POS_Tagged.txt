@@ -1,0 +1,9 @@
+PRO_FW :_: Good_JJ Neapolitan_JJ style_NN pizza_NN ,_, great_JJ toppings_NNS ,_, fun_NN people_NNS watching_VBG ._.
+CON_NNP :_: Seriously_RB price_NN gouge_NN you_PRP on_IN wine_NN and_CC beer_NN price_NN !!!_NN We_PRP ordered_VBD 2_CD pizzas_NNS ,_, 1_CD glass_NN of_IN wine_NN and_CC 1_CD beer_NN ._.
+The_DT two_CD pizzas_NNS with_IN toppings_NNS were_VBD $_$ 16_CD total_NN ._.
+Not_RB bad_JJ ._.
+But_CC the_DT wine_NN and_CC beer_NN together_RB were_VBD another_DT $_$ 17_CD ._.
+Ridiculous_JJ ._.
+The_DT drink_NN prices_NNS are_VBP like_IN a_DT Hollywood_NNP night_NN club_NN ._.
+And_CC yes_UH ,_, the_DT crust_NN is_VBZ soggy_JJ and_CC it_PRP 's_VBZ loud_JJ and_CC the_DT parking_NN stinks_VBZ ._.
+But_CC LA_NNP is_VBZ hurting_VBG for_IN good_JJ pizza_NN ,_, so_IN I_PRP 'll_MD allow_VB it_PRP ._.

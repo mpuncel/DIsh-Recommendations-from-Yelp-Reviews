@@ -1,0 +1,4 @@
+Came_NNP here_RB on_IN SUPER_NNP busy_JJ Friday_NNP night_NN ..._: had_VBD to_TO stand_VB in_IN line_NN for_IN 25_CD minutes_NNS ._.
+Thefood_NNP was_VBD great_JJ though_IN !_.
+Fab_NNP pizzas_NNS ,_, salads_NNS and_CC a_DT cool_JJ dunk_NN machine_NN ._.
+Will_MD be_VB back_RB ..._: maybe_RB there_EX wo_MD n't_RB be_VB line_NN next_JJ time_NN ??_NN

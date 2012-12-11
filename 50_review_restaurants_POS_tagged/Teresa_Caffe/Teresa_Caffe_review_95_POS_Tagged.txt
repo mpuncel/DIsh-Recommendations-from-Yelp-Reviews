@@ -1,0 +1,2 @@
+I_PRP have_VBP fond_JJ memories_NNS of_IN Teresa_NNP 's_POS -_: from_IN meeting_VBG up_RP with_IN old_JJ friends_NNS to_TO going_VBG on_IN semi-awkward_JJ first_JJ dates_NNS ,_, this_DT was_VBD def_NN the_DT restaurant_NN I_PRP frequented_VBD most_RBS when_WRB I_PRP lived_VBD in_IN Princeton_NNP ._.
+Their_PRP$ pizza_NN ,_, pasta_NN ,_, and_CC sandwiches_NNS are_VBP pretty_RB good_JJ ,_, and_CC the_DT prices_NNS are_VBP decent_JJ for_IN the_DT area_NN

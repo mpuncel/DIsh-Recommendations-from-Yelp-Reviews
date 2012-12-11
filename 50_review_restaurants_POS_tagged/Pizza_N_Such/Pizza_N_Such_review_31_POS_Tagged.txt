@@ -1,0 +1,4 @@
+Sunday_NNP lunch_NN -_: awesome_JJ !_.
+First_JJ time_NN here_RB ,_, I_PRP was_VBD surprised_VBN to_TO find_VB out_RP the_DT offer_NN lunch_NN specials_NNS on_IN Sunday_NNP ._.
+The_DT waitress_NN was_VBD friendly_JJ and_CC the_DT food_NN was_VBD fresh_JJ ._.
+We_PRP will_MD definately_RB be_VB back_RB ._.

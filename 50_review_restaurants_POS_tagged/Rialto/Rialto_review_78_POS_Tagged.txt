@@ -1,0 +1,4 @@
+Rialto_NNP did_VBD the_DT famous_JJ bate_NN and_CC switch_NN ._.
+Advertises_VBZ one_CD dollar_NN oysters_NNS on_IN Monday_NNP nights_NNS ,_, but_CC you_PRP arrive_VBP at_IN 6:30_CD pm_NN and_CC ``_`` I_PRP am_VBP sorry_JJ we_PRP ran_VBD out_IN of_IN oysters_NNS ''_'' ._.
+For_IN an_DT establishment_NN that_WDT flaunts_VBZ this_DT as_IN a_DT regular_JJ fare_NN on_IN Monday_NNP nights_NNS one_CD believes_VBZ that_IN they_PRP would_MD be_VB more_RBR prepared_JJ ._.
+O_NNP f_SYM course_NN they_PRP were_VBD ready_JJ to_TO offer_VB us_PRP anything_NN else_RB off_IN their_PRP$ menu_NN ..._: not_RB very_RB impressive_JJ

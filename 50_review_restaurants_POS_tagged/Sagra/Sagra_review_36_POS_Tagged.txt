@@ -1,0 +1,12 @@
+It_PRP 's_VBZ an_DT Italian_JJ restaurant_NN ._.
+We_PRP went_VBD there_RB on_IN Monday_NNP and_CC we_PRP have_VBP been_VBN in_IN old_JJ Mars_NNP indoor_JJ for_IN dinner_NN several_JJ times_NNS ._.
+So_IN we_PRP decided_VBD to_TO sit_VB at_IN back_RB patio_NN ._.
+We_PRP ordered_VBD seafood_NN pasta_NN and_CC dinner_NN special_JJ Wild_NNP Boar_NNP Gnocchi_NNP ._.
+I_PRP like_IN both_DT ._.
+Wild_NNP boar_NN just_RB tastes_VBZ like_IN beef_NN to_TO me_PRP ._.
+Seafood_NN pasta_NN is_VBZ small_JJ portion_NN ._.
+Gnocchi_NNP tastes_VBZ pretty_RB good_JJ ._.
+Since_IN it_PRP 's_VBZ potato_NN based_VBN ,_, it_PRP 's_VBZ very_RB filling_VBG ._.
+Only_RB one_CD problem_NN about_IN outdoor_JJ patio_NN is_VBZ mosquitoes_NNS are_VBP very_RB annoying_JJ ._.
+We_PRP were_VBD bitten_VBN by_IN several_JJ of_IN them_PRP ._.
+In_IN the_DT end_NN ,_, we_PRP had_VBD to_TO pay_VB in_IN a_DT rush_NN ._.

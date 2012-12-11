@@ -1,0 +1,6 @@
+Overall_JJ experience_NN was_VBD a_DT 3.5_CD \/_NN 4_CD stars_NNS ._.
+Food_NNP and_CC service_NN was_VBD fine_JJ and_CC price_NN was_VBD decent_JJ for_IN the_DT village_NN ._.
+The_DT bread_NN and_CC dipping_VBG sauce_NN is_VBZ tasty_JJ ._.
+We_PRP ordered_VBD the_DT gnocchi_NNS and_CC pesto_JJ chicken_NN pasta_NN ._.
+Both_DT were_VBD flavorful_JJ ,_, so_IN I_PRP left_VBD satisfied_JJ ._.
+If_IN you_PRP want_VBP decent_JJ Italian_JJ food_NN in_IN the_DT village_NN with_IN acceptable_JJ prices_NNS ,_, I_PRP suggest_VBP coming_VBG here_RB ._.

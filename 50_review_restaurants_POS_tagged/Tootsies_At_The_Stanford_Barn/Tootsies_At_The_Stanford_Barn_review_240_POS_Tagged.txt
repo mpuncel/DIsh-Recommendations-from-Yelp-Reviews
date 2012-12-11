@@ -1,0 +1,23 @@
+PROS_NNS :_: +_VB Great_JJ Breakfast\/Brunch_NNP place_NN +_NN They_PRP care_VBP about_IN food_NN -LRB-_-LRB- can_MD taste_VB it_PRP -RRB-_-RRB- +_SYM Hot_NNP Chocolate_NNP +_NNP Sausage_NNP and_CC peppers_NNS CONS_NNS :_: -_: Closed_JJ on_IN Sunday_NNP Came_NNP here_RB for_IN brunch_NN on_IN a_DT beautiful_JJ morning_NN Saturday_NNP ._.
+We_PRP decided_VBD to_TO sit_VB inside_RB because_IN we_PRP did_VBD n't_RB want_VB to_TO look_VB at_IN the_DT ugly_JJ construction_NN site_NN that_WDT is_VBZ across_IN the_DT street_NN at_IN the_DT Stanford_NNP hospital_NN ._.
+Here_RB is_VBZ what_WP we_PRP got_VBD and_CC what_WP I_PRP thought_VBD :_: Ricotta_NNP pancakes_VBZ w_VB \/_RB fruit_NN and_CC syrup_NN -_: solid_JJ pancakes_NNS ,_, but_CC was_VBD left_VBN wanting_VBG something_NN savory_NN ._.
+Sausage_NNP and_CC peppers_NNS w_VBP \/_RB onions_NNS and_CC scrambled_VBD -_: Scramble_NNP was_VBD perfectly_RB down_RB ,_, moist_NN in_IN the_DT center_NN ._.
+Sausage_NNP looks_VBZ homemade_NN and_CC the_DT flavor_NN is_VBZ wonderful_JJ ._.
+I_PRP could_MD eat_VB a_DT plate_NN full_JJ of_IN just_RB that_DT ._.
+This_DT one_CD I_PRP will_MD order_VB again_RB ._.
+Hot_JJ chocolate_NN dark_JJ chocolate_NN -_: WOW_NNP !_.
+Dark_JJ and_CC rich_JJ hot_JJ chocolate_NN ,_, how_WRB a_DT hot_JJ chocolate_NN should_MD taste_VB ._.
+This_DT ones_NNS was_VBD awesome_JJ !_.
+Latte_NNP -_: Nice_NNP and_CC strong_JJ ,_, the_DT place_NN is_VBZ Italian_JJ ,_, they_PRP like_VBP their_PRP$ coffee_NN ._.
+No_DT surprise_NN here_RB ._.
+Bomboloni_NNP -_: essential_JJ an_DT Italian_JJ cream_NN filled_VBN donut_NN ._.
+The_DT dough_NN is_VBZ nice_JJ and_CC dense_JJ ,_, but_CC soft_JJ and_CC the_DT cream_NN is_VBZ very_RB nice_JJ ._.
+I_PRP like_VBP this_DT one_CD and_CC would_MD order_VB it_PRP again_RB ._.
+Zeppole_NNP -_: Italy_NNP 's_POS version_NN of_IN the_DT donut_NN hole_NN ,_, but_CC slightly_RB moist_NN in_IN the_DT center_NN ._.
+Great_NNP with_IN coffee_NN ._.
+This_DT place_NN knocked_VBD out_IN of_IN the_DT park_NN ._.
+Every_DT dish_NN and_CC item_NN we_PRP got_VBD was_VBD prepared_VBN with_IN care_NN ._.
+It_PRP clear_RB the_DT owner_NN and_CC the_DT chefs_NNS here_RB take_VBP pride_NN in_IN the_DT food_NN ,_, and_CC it_PRP shows_VBZ in_IN how_WRB everything_NN tastes_VBZ ._.
+Tootsie_NNP 's_POS is_VBZ now_RB my_PRP$ go_VB to_TO place_VB for_IN breakfast\/brunch_NN ._.
+Come_VBN check_NN it_PRP out_RP for_IN yourself_PRP ._.
+Salud_JJ !_.

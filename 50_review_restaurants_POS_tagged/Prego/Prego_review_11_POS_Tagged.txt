@@ -1,0 +1,5 @@
+When_WRB it_PRP comes_VBZ to_TO Fusion_VB food_NN Prego_NNP is_VBZ in_IN the_DT top_JJ list_NN ._.
+This_DT a_DT exquisite_JJ Italian_JJ -_: Fusion_NN Restaurant_NNP located_VBN in_IN the_DT Heart_NNP of_IN Rice_NNP Village_NNP ._.
+A_DT blend_VB of_IN flavors_NNS spark_VBP in_IN your_PRP$ mouth_NN as_IN you_PRP enjoy_VBP the_DT peaceful_JJ atmosphere_NN of_IN the_DT restaurant_NN ._.
+A_DT selection_NN of_IN Wines_NNS that_WDT is_VBZ incredible_JJ ._.
+Fuse_NN your_PRP$ palate_NN and_CC enjoy_VB the_DT meals_NNS ._.

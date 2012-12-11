@@ -1,0 +1,3 @@
+Had_VBD a_DT pretty_RB good_JJ meal_NN ,_, with_IN some_DT really_RB good_JJ service_NN ._.
+This_DT place_NN is_VBZ awesome_JJ for_IN dinner_NN but_CC going_VBG for_IN lunch_NN was_VBD only_RB okay_JJ for_IN me_PRP ._.
+But_CC Kelly_NNP our_PRP$ waitress_NN was_VBD really_RB good_JJ ._.

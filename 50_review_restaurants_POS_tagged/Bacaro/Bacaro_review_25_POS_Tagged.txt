@@ -1,0 +1,11 @@
+I_PRP only_RB gave_VBD it_PRP five_CD stars_NNS because_IN I_PRP can_MD only_RB give_VB five_CD stars_NNS ._.
+I_PRP was_VBD in_IN town_NN for_IN 24_CD hours_NNS ,_, it_PRP probably_RB will_MD not_RB return_VB to_TO Champaign_NNP again_RB ._.
+I_PRP wish_VBP I_PRP could_MD take_VB this_DT restaurant_NN with_IN me_PRP on_IN the_DT road_NN ._.
+It_PRP was_VBD a_DT pleasure_NN to_TO have_VB this_DT restaurant_NN available_JJ in_IN the_DT middle_NN of_IN Illinois_NNP ._.
+The_DT scallops_NNS and_CC pork_NN were_VBD delicious_JJ ._.
+The_DT grilled_JJ octopus_NN salad_NN is_VBZ a_DT must_MD ._.
+Portions_NNS are_VBP not_RB huge_JJ ,_, but_CC adequate_JJ ._.
+In_IN my_PRP$ party_NN ,_, one_CD person_NN have_VBP the_DT ribeye_NN ._.
+It_PRP was_VBD fantastic_JJ ._.
+The_DT other_JJ person_NN had_VBD the_DT grilled_JJ salmon_NN and_CC it_PRP was_VBD equally_RB good_JJ ._.
+All_DT in_IN all_DT this_DT restaurant_NN must_MD not_RB be_VB missed_VBN ._.

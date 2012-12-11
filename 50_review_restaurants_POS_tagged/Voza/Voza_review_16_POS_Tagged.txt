@@ -1,0 +1,5 @@
+Food_NNP -_: Good_JJ Sevice_NNP -_: Good_JJ Atmosphere_NNP -_: Good_JJ Went_JJ on_IN a_DT Tuesday_NNP night_NN and_CC we_PRP were_VBD the_DT only_JJ ones_NNS there_RB cuz_NN of_IN the_DT cold_JJ ,_, so_IN they_PRP were_VBD not_RB very_RB pumped_VBN I_PRP would_MD guess_VB ._.
+Had_VBD pasta_NN with_IN Diabolo_NNP sauce_NN ,_, nice_JJ and_CC spicy_NN ._.
+My_PRP$ date_NN had_VBD the_DT crab_NN cake_NN and_CC spinach_NN artichoke_NN and_CC they_PRP were_VBD good_JJ too_RB ._.
+I_PRP was_VBD not_RB in_IN awe_NN for_IN the_DT food_NN to_TO make_VB me_PRP go_VB gaga_NN ,_, but_CC I_PRP would_MD go_VB back_RB to_TO try_VB one_CD of_IN the_DT steaks_NNS ,_, they_PRP looked_VBD good_JJ ._.
+It_PRP is_VBZ a_DT very_RB ,_, very_RB tiny_JJ place_NN but_CC very_RB nice_JJ too_RB ,_,

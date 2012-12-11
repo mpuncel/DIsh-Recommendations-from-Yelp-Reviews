@@ -1,0 +1,3 @@
+Maybe_RB I_PRP 'm_VBP finally_RB growing_VBG up_RP ,_, but_CC there_EX 's_VBZ just_RB something_NN about_IN Silvio_NNP 's_POS pizza_NN that_WDT makes_VBZ you_PRP feel_VBP good_JJ ._.
+Good_JJ food_NN ,_, good_JJ people_NNS ,_, good_JJ vibe_NN ._.
+If_IN only_RB they_PRP added_VBD some_DT italian_JJ spices_NNS and_CC more_JJR cheese_NN to_TO their_PRP$ pizzas_NNS ,_, this_DT place_NN would_MD be_VB perfect_JJ ._.

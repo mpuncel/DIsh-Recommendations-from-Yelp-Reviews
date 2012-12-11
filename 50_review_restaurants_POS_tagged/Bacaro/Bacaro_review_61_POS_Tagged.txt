@@ -1,0 +1,3 @@
+Great_NNP place_NN for_IN a_DT special_JJ occasion_NN ._.
+Love_NNP the_DT menu_NN especially_RB the_DT salumeria_NN and_CC incredible_JJ wine_NN list_NN ._.
+Pricey_JJ but_CC worth_JJ it_PRP for_IN the_DT experience_NN ._.

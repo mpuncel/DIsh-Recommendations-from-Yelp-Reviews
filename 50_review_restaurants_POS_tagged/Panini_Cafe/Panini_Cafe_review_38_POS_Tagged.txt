@@ -1,0 +1,3 @@
+Great_JJ food_NN and_CC service_NN !_.
+I_PRP go_VBP to_TO Panini_NNP Cafe_NNP once_RB a_DT week_NN for_IN lunch_NN and_CC they_PRP have_VBP great_JJ food_NN and_CC service_NN ._.
+The_DT lunch_NN specials_NNS are_VBP well_RB priced_VBN and_CC delicious_JJ ._.

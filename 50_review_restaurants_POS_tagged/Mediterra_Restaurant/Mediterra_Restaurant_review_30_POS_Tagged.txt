@@ -1,0 +1,3 @@
+It_PRP has_VBZ the_DT best_JJS outdoor_JJ seating_VBG area_NN in_IN all_DT of_IN Princeton_NNP ._.
+But_CC the_DT menu_NN is_VBZ extremely_RB limited_JJ ,_, and_CC the_DT food_NN is_VBZ overpriced_VBN ._.
+It_PRP 's_VBZ better_JJR for_IN happy_JJ hour_NN as_IN they_PRP have_VBP great_JJ drinks_NNS and_CC awesome_JJ marinated_VBN olives_NNS ,_, but_CC have_VBP not_RB been_VBN happy_JJ the_DT last_JJ couple_JJ times_NNS we_PRP 've_VBP been_VBN here_RB ._.

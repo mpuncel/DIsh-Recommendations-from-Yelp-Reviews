@@ -1,0 +1,5 @@
+My_PRP$ main_JJ complaint_NN is_VBZ the_DT line_NN ._.
+It_PRP 's_VBZ on_IN par_NN with_IN a_DT ride_NN at_IN Disneyland_NNP ._.
+Otherwise_RB ,_, the_DT ingredients_NNS are_VBP high_JJ quality_NN and_CC fresh_JJ ._.
+The_DT baking_NN time_NN is_VBZ fairly_RB quick_JJ and_CC the_DT crust_NN is_VBZ very_RB good_JJ ._.
+Oh_UH yeah_NN ,_, it_PRP 's_VBZ Westwood_NNP so_IN there_EX 's_VBZ zero_CD parking_NN ._.

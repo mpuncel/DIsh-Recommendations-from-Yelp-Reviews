@@ -1,0 +1,2 @@
+Pretty_NNP good_JJ for_IN the_DT price_NN ,_, very_RB cheap_JJ !!_NN Ordered_VBD 1_CD pizza_NN ,_, 1_CD pasta_NN shared_VBN between_IN the_DT two_CD ,_, 2_CD sodas_NNS ,_, it_PRP came_VBD out_RP $_$ 18.75_CD ._.
+Very_RB hard_JJ to_TO beat_VB this_DT price_NN ._.

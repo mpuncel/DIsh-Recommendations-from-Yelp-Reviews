@@ -1,0 +1,4 @@
+Great_NNP Pizza_NNP !_.
+Great_NNP customer_NN services_NNS !!_VBP You_PRP also_RB receive_VB your_PRP$ food_NN very_RB quickly_RB ._. ._.
+There_EX many_JJ toppings_NNS to_TO choose_VB from_IN and_CC the_DT prices_NNS are_VBP very_RB friendly_JJ ._.
+Wish_NNP there_RB was_VBD a_DT South_NNP Bay_NNP location_NN !_.

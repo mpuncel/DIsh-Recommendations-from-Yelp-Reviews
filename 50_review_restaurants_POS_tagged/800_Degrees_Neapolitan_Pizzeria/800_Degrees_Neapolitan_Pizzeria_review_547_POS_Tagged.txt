@@ -1,0 +1,7 @@
+I_PRP think_VBP the_DT concept_NN of_IN this_DT restaurant_NN is_VBZ really_RB unique_JJ ._.
+Build_VB your_PRP$ own_JJ pizza_NN ._.
+It_PRP 's_VBZ perfect_JJ because_IN I_PRP do_VBP n't_RB eat_VB cheese_NN ._.
+I_PRP ordered_VBD a_DT cheese-less_JJ pizza_NN !!_NN However_RB ,_, the_DT pizza_NN was_VBD not_RB that_IN great_JJ ._.
+The_DT dough_NN was_VBD undercooked_VBN in_IN the_DT middle_NN because_IN they_PRP have_VBP to_TO make_VB everyone_NN 's_POS individualized_JJ pizzas_NNS in_IN a_DT timely_JJ manner_NN ._.
+The_DT service_NN ,_, however_RB ,_, was_VBD nice_JJ and_CC quick_JJ ._.
+They_PRP also_RB have_VBP that_DT fancy_JJ soda_NN machine_NN with_IN hundreds_NNS of_IN flavors_NNS that_WDT 's_VBZ pretty_RB fun_NN to_TO play_VB with_IN ._.

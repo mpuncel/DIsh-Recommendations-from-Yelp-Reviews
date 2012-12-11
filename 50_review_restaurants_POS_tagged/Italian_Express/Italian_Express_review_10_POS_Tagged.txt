@@ -1,0 +1,1 @@
+garlic_JJ cheese_NN bread_NN &_CC margherita_NN pizza_NN with_IN garlic_NN :_: OMG_NNP ravioli_NNS in_IN a_DT pink_JJ sauce_NN &_CC spicy_NN jalapeno_JJ penne_NN :_: not_RB al_JJ dente_NN ,_, but_CC good_JJ late-nite_JJ food_NN that_IN rocks_NNS !_.

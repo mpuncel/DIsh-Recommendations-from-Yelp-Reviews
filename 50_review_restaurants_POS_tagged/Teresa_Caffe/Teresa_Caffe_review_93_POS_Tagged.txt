@@ -1,0 +1,4 @@
+Good_JJ food_NN ,_, cute_JJ place_NN right_NN in_IN the_DT middle_NN of_IN Princeton_NNP ._.
+I_PRP would_MD come_VB back_RB again_RB ._.
+We_PRP had_VBD the_DT balsalmic_JJ shell_NN pasta_NN and_CC it_PRP was_VBD good_JJ ._.
+The_DT lasagna_NN at_IN the_DT table_NN next_IN to_TO us_PRP looked_VBD pretty_RB good_JJ ,_, too_RB ._.

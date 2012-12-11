@@ -1,0 +1,5 @@
+I_PRP love_VBP 800_CD Degrees_NNPS Pizza_NNP !_.
+I_PRP 've_VBP been_VBN here_RB maybe_RB 6-8_CD times_NNS for_IN lunch_NN during_IN the_DT week_NN and_CC so_RB far_RB my_PRP$ favorite_JJ toppings_NNS are_VBP the_DT ham_NN ,_, tomatoes_NNS and_CC mushrooms_NNS ._.
+Prices_NNS are_VBP ridiculous_JJ for_IN the_DT high_JJ quality_NN food_NN you_PRP receive_VBP ._.
+Lines_NNS are_VBP very_RB long_RB for_IN lunch_NN so_RB make_VB sure_JJ to_TO come_VB early_RB -LRB-_-LRB- 11:30_CD or_CC earlier_JJR -RRB-_-RRB- ._.
+Highly_NNP recommended_VBD ._.

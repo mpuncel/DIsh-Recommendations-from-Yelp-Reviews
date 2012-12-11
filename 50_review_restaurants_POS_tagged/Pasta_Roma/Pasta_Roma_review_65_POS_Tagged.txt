@@ -1,0 +1,5 @@
+One_CD of_IN the_DT Worst_RBS Italian_JJ Restaurants_NNS I_PRP 've_VBP Ever_RB Eaten_VBN At_IN No_DT Joking_NN --_: This_DT Place_NNP is_VBZ Depressing_VBG ._.
+It_PRP starts_VBZ with_IN the_DT fact_NN that_IN eating_NN is_VBZ cafeteria_NN style_NN ,_, you_PRP grab_VBP a_DT plastic_NN tray_NN and_CC shove_VB it_PRP down_IN to_TO the_DT ordering_VBG station_NN ._.
+The_DT food_NN is_VBZ inedible_JJ ,_, bland_NN ,_, but_CC cheap_JJ ._.
+If_IN you_PRP 're_VBP that_IN desparate_JJ to_TO eat_VB here_RB ,_, then_RB you_PRP must_MD be_VB on_IN a_DT super_JJ budget_NN ._.
+A_DT microwave_NN dinner_NN would_MD have_VB been_VBN better_RB ._.

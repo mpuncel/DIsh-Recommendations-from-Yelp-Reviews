@@ -1,0 +1,5 @@
+The_DT coffee_NN was_VBD amazing_JJ ._.
+The_DT meatball_NN panini_NN was_VBD amazing_JJ ._.
+The_DT pasta_NN was_VBD amazing_JJ ._.
+Very_RB good_JJ food_NN ._.
+I_PRP ate_VBD it_PRP all_RB ,_, My_PRP$ wife_NN was_VBD proud_JJ of_IN me_PRP ._.

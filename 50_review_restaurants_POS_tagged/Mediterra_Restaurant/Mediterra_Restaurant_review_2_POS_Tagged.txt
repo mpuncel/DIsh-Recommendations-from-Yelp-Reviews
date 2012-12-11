@@ -1,0 +1,2 @@
+Calamari_NNP -_: fabulous_JJ Mussels_NNP -_: average_JJ Paella_NNP -_: horrible_JJ ._.
+I_PRP 've_VBP been_VBN here_RB a_DT few_JJ times_NNS and_CC they_PRP 're_VBP consistently_RB average_JJ ._.

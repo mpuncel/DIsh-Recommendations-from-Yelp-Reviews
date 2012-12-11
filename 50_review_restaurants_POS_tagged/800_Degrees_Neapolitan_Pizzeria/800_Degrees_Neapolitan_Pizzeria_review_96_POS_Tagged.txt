@@ -1,0 +1,4 @@
+Pizza_NNP came_VBD out_RP SUPER_NNP fast_RB ,_, the_DT line_NN went_VBD fast_RB even_RB though_IN it_PRP was_VBD long_RB ,_, and_CC it_PRP was_VBD DELICIOUS_NNP !_.
+I_PRP liked_VBD that_IN I_PRP could_MD choose_VB everything_NN in_IN my_PRP$ pizza_NN and_CC in_IN 10_CD minutes_NNS it_PRP was_VBD out_RB and_CC ready_JJ to_TO eat_VB ._.
+I_PRP am_VBP eager_JJ to_TO return_VB whenever_WRB I_PRP go_VBP back_RB to_TO Westwood_NNP ._.
+I_PRP wish_VBP it_PRP was_VBD there_RB when_WRB I_PRP was_VBD at_IN school_NN there_RB ._.

@@ -1,0 +1,3 @@
+BIGGGG_NNP ,_, delicious_JJ portions_NNS at_IN VERY_RB affordable_JJ prices_NNS !_.
+Plus_CC ,_, service_NN is_VBZ fast_RB and_CC friendly_JJ ._.
+What_WP more_RBR can_MD you_PRP ask_VB for_IN ???_CD It_PRP 's_VBZ definitely_RB a_DT tasty_JJ carbo-loading_NN stop_NN !_.

@@ -1,0 +1,5 @@
+We_PRP ordered_VBD in_IN today_NN from_IN here_RB ._.
+First_NNP off_IN there_EX is_VBZ not_RB a_DT lunch_NN menu_NN ,_, same_JJ price_NN all_DT day_NN ._.
+Lame_JJ !!_NN Also_RB ,_, I_PRP ordered_VBD the_DT fettuccine_NN with_IN mushrooms_NNS ,_, came_VBD to_TO $_$ 14.95_CD ,_, really_RB ?_.
+for_IN a_DT pasta_NN dish_NN with_IN no_DT meat_NN ,_, that_IN we_PRP picked_VBD up_RP our_PRP$ self_NN ?_.
+At_IN LUNCH_NNP TIME_NNP ?_.

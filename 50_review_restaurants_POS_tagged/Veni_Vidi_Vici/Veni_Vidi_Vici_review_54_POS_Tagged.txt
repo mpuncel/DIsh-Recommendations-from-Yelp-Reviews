@@ -1,0 +1,9 @@
+Great_NNP italian_JJ food_NN in_IN midtown_NN ._.
+Went_VBN during_IN restaurant_NN week_NN and_CC the_DT chopped_VBN salad_NN was_VBD really_RB good_JJ ._.
+Tasty_JJ bread_NN to_TO begin_VB with_IN as_RB well_RB ._.
+However_RB ,_, the_DT best_JJS was_VBD the_DT fish_NN entree_FW that_IN I_PRP was_VBD given_VBN ._.
+Amazing_JJ ._.
+Simply_RB amazing_JJ ._.
+For_IN dessert_NN ,_, a_DT bit_NN of_IN chocolate_NN cake_NN was_VBD very_RB tasty_JJ ._.
+Decor_NN was_VBD nice_JJ and_CC the_DT service_NN was_VBD great_JJ ._.
+The_DT waiter_NN knew_VBD what_WP he_PRP was_VBD serving_VBG and_CC that_DT is_VBZ always_RB a_DT plus_NN ._.

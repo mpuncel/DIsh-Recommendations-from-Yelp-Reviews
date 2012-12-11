@@ -1,0 +1,4 @@
+Well_RB I_PRP 've_VBP not_RB tried_VBN it_PRP yet_RB ,_, but_CC this_DT review_NN is_VBZ based_VBN on_IN one_CD phone_NN call_NN ._.
+Friday_NNP 12\/11_CD I_PRP called_VBD to_TO order_VB a_DT pizza_NN and_CC was_VBD informed_VBN they_PRP do_VBP not_RB do_VB call_VB ahead_RB orders_NNS ._.
+I_PRP 'm_VBP sure_JJ you_PRP have_VBP a_DT reason_NN behind_IN it_PRP ,_, but_CC why_WRB would_MD I_PRP drive_VBP 10\/15_CD minutes_NNS only_RB to_TO order_VB a_DT pie_NN and_CC wait_VB another_DT 15\/20_CD minutes_NNS ._.
+Max_NNP 's_POS got_VBD my_PRP$ money_NN on_IN Friday_NNP ._.

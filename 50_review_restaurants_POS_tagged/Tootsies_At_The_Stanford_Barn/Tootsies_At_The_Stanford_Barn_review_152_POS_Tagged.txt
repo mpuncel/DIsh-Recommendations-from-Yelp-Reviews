@@ -1,0 +1,7 @@
+Tootsie_NNP 's_POS is_VBZ located_VBN in_IN a_DT historic_JJ barn_NN right_NN next_IN to_TO the_DT Stanford_NNP Shopping_NNP Mall_NNP and_CC Adronico_NNP 's_POS Market_NN ._.
+The_DT barn_NN itself_PRP is_VBZ gorgeous_JJ and_CC is_VBZ a_DT museum_NN ,_, you_PRP walk_VBP through_IN and_CC Tootsie_NNP 's_POS is_VBZ in_IN the_DT tiny_JJ barn_NN behind_IN the_DT big_JJ one_NN ._.
+We_PRP both_DT got_VBD the_DT burger_NN -LRB-_-LRB- 9.50_CD -RRB-_-RRB- with_IN fries_NNS and_CC it_PRP was_VBD amazing_JJ ._.
+The_DT burger_NN itself_PRP was_VBD very_RB juicy_JJ and_CC flavorful_JJ ,_, and_CC the_DT fries_NNS were_VBD rustic_JJ -LRB-_-LRB- skin_NN on_IN the_DT potatoes_NNS -RRB-_-RRB- and_CC shoestring_NN cut_NN ._.
+Their_PRP$ coffee_NN is_VBZ very_RB good_JJ too_RB !_.
+The_DT best_JJS part_NN is_VBZ that_IN if_IN you_PRP sit_VBP outside_RB ,_, their_PRP$ are_VBP fields_NNS of_IN lavender_NN all_DT around_IN ._.
+:_: -RRB-_-RRB-

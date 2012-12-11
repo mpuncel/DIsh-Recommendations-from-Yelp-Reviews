@@ -1,0 +1,8 @@
+I_PRP guess_VBP you_PRP could_MD call_VB this_DT Italian_JJ food_NN ._.
+Greasy_NNP pasta_NN piled_VBD on_IN greasy_NN sauce_NN with_IN greasy_JJ bread_NN and_CC chunk_NN of_IN greasy_NN garlic_NN with_IN butter_NN ._.
+That_DT about_IN describes_VBZ every_DT non-salad_JJ dish_NN I_PRP 've_VBP ever_RB had_VBN at_IN Gypsy_NNP 's_POS ._.
+Then_RB you_PRP leave_VBP feeling_VBG like_IN you_PRP 've_VBP got_VBD a_DT brick_NN in_IN your_PRP$ stomach_NN ._.
+Buuuuutttt_NNP ,_, the_DT flavors_NNS of_IN some_DT of_IN these_DT dishes_NNS are_VBP pretty_RB good_JJ ._.
+The_DT Crazy_NNP Alfredo_NNP is_VBZ tasty_JJ and_CC so_RB are_VBP the_DT calzones_NNS ._.
+It_PRP 's_VBZ gotten_VBN pricier_JJR over_IN the_DT years_NNS and_CC it_PRP does_VBZ n't_RB seem_VB as_RB much_JJ of_IN a_DT value_NN as_IN when_WRB I_PRP was_VBD an_DT undergrad_NN in_IN 05_CD ._.
+But_CC it_PRP 's_VBZ good_JJ drunk_JJ late_JJ night_NN food_NN ._.

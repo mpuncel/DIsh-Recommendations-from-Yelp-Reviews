@@ -1,0 +1,11 @@
+Great_NNP spot_NN !_.
+Was_VBD here_RB for_IN dinner_NN on_IN a_DT Saturday_NNP night_NN and_CC will_MD definitely_RB be_VB returning_VBG -LRB-_-LRB- it_PRP sounds_VBZ like_IN their_PRP$ brunch_NN is_VBZ good_JJ too_RB -RRB-_-RRB- ._.
+Service_NNP :_: Excellent_JJ !_.
+Waitstaff_NNP were_VBD courteous_JJ ,_, attentive_JJ and_CC knowledgable_JJ ._.
+FOOD_NN :_: Delicious_NNP !_.
+Thoughtful_JJ menu_NN with_IN something_NN for_IN every_DT palate_NN ;_: just_RB enough_RB choice_NN ._.
+Wonderful_JJ cheese_NN platter_NN w\/delicious_JJ peach_NN chutney_NN ;_: salmon_NN cooked_VBD to_TO perfection_NN ;_: and_CC the_DT most_RBS AMAZING_JJ tirimisu_NN for_IN dessert_NN -LRB-_-LRB- yes_UH ,_, you_PRP MUST_VBP get_VB the_DT espresso_NN shot_NN infusion_NN ,_, as_IN suggested_VBN by_IN our_PRP$ waiter_NN !_.
+..._: must_MD -RRB-_-RRB- ._.
+DRINKS_NNS :_: Delicious_NNP cocktails_NNS ;_: very_RB reasonable_JJ prices_NNS ._.
+DECOR_NN :_: Beautiful_JJ light_JJ &_CC airy_NN surrounds_NNS ;_: we_PRP sat_VBD at_IN a_DT table_NN -LRB-_-LRB- plenty_NN of_IN space_NN between_IN patrons_NNS -RRB-_-RRB- ,_, but_CC the_DT bar_NN looked_VBD very_RB comfortable_JJ too_RB ._.
+Thank_VB you_PRP Lido_NNP !_.

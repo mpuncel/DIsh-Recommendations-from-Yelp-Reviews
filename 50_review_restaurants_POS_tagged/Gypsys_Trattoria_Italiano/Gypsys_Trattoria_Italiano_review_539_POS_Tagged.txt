@@ -1,0 +1,4 @@
+The_DT pasta_NN here_RB is_VBZ soooooooo_JJ good_JJ !_.
+I_PRP love_VBP the_DT pesto_NN ,_, yum_NN !_.
+The_DT pizza_NN is_VBZ good_JJ too_RB ,_, although_IN the_DT pizza_NN takes_VBZ quite_RB a_DT bit_RB longer_JJR to_TO be_VB served_VBN than_IN the_DT pasta_NN dishes_NNS ._.
+You_PRP get_VBP a_DT good_JJ amount_NN of_IN great_JJ tasting_NN food_NN for_IN a_DT reasonable_JJ price_NN ._.

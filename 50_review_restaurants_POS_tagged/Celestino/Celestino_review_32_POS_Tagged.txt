@@ -1,0 +1,13 @@
+Great_NNP little_RB find_VBP in_IN Pasadena_NNP ._.
+The_DT restaurant_NN has_VBZ its_PRP$ own_JJ parking_NN free_JJ lot_NN ,_, which_WDT is_VBZ pretty_RB convenient_JJ for_IN the_DT area_NN ._.
+It_PRP was_VBD a_DT Saturday_NNP night_NN and_CC the_DT restaurant_NN was_VBD completely_RB packed_VBN lots_NNS of_IN folks_NNS waiting_VBG for_IN a_DT table_NN ._.
+Luckily_RB ,_, I_PRP made_VBD reservations_NNS via_IN OpenTable.com_NNP ._.
+We_PRP were_VBD seated_VBN immediately_RB ._.
+The_DT restaurant_NN was_VBD large_JJ and_CC clean_JJ with_IN a_DT few_JJ siderooms_NNS -LRB-_-LRB- which_WDT was_VBD where_WRB we_PRP sat_VBD -RRB-_-RRB- ._.
+Started_VBD the_DT meal_NN with_IN calimari_NNS -LRB-_-LRB- 3\/5_CD -RRB-_-RRB- ._.
+I_PRP had_VBD the_DT day_NN 's_POS special_JJ as_IN the_DT main_JJ coarse_JJ ,_, which_WDT was_VBD ravioli_JJ stuffed_VBN with_IN filet_NN mignon_NN ._.
+The_DT dish_NN was_VBD simply_RB delicious_JJ ._.
+I_PRP also_RB tried_VBD the_DT ravioli_NNS stuffed_VBD with_IN duck_NN and_CC topped_VBN with_IN blueberries_NNS which_WDT was_VBD unique_JJ and_CC tastey_JJ ._.
+The_DT meal_NN was_VBD with_IN appropriately_RB complete_JJ with_IN Tiramisu_NNP ._.
+The_DT prices_NNS were_VBD good_JJ ranging_VBG from_IN 12-25_CD per_IN plate_NN ._.
+Overall_JJ I_PRP 'd_MD had_VBD a_DT great_JJ experience_NN and_CC highly_RB recommend_VB it_PRP ._.

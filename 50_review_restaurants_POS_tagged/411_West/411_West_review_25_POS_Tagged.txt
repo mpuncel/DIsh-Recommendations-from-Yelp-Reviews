@@ -1,0 +1,5 @@
+Generally_RB this_DT is_VBZ a_DT fine_JJ restaurant_NN ,_, but_CC ..._: The_DT service_NN is_VBZ quite_RB good_JJ ,_, the_DT food_NN is_VBZ decent_JJ and_CC 3_CD out_IN of_IN 4_CD times_NNS the_DT ambiance_NN was_VBD ok_RB ,_, but_CC just_RB ok_VB ._.
+The_DT fourth_JJ visit_NN was_VBD a_DT disaster_NN ._.
+We_PRP were_VBD seated_VBN in_IN a_DT room_NN with_IN two_CD large_JJ groups_NNS ,_, both_DT were_VBD quite_RB loud_JJ ,_, making_VBG it_PRP difficult_JJ for_IN a_DT table_NN of_IN 4_CD to_TO carry_VB on_IN a_DT conversation_NN without_IN yelling_VBG at_IN each_DT other_JJ ._.
+So_RB at_IN 411_CD expect_VBP to_TO get_VB good_JJ service_NN ,_, decent_JJ food_NN and_CC terrible_JJ ambiance_NN ._.
+It_PRP felt_VBD like_IN we_PRP were_VBD trying_VBG to_TO have_VB a_DT nice_JJ dinner_NN in_IN an_DT irish_JJ pub_NN full_JJ of_IN drunks_NNS -_: not_RB my_PRP$ cup_NN of_IN tea_NN ._.

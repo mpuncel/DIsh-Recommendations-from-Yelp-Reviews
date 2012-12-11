@@ -1,0 +1,2 @@
+pizza_NN crust_NN 5_CD stars_NNS ,_, service_NN 3_CD stars_NNS ,_, prosciutto_NN on_IN pizza_NN was_VBD negative_JJ stars_NNS ,_, more_JJR like_IN big_JJ tough_JJ chunks_NNS of_IN salty_NN ham_NN ._.
+Dont_NNP get_VB the_DT goat_NN cheese_NN and_CC prosciutto_NN toping_NN ._.

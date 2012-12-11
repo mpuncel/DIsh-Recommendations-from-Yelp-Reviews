@@ -1,0 +1,5 @@
+A_DT solid_JJ 4_CD maybe_RB higher_JJR ._.
+All_DT of_IN our_PRP$ dishes_NNS were_VBD made_VBN w_RB fresh_JJ ingredients_NNS and_CC the_DT flavor_NN was_VBD good_JJ ._.
+Ambience_NNP is_VBZ warm_JJ but_CC the_DT tables_NNS are_VBP very_RB close_RB ._.
+Staff_NNP were_VBD ok_RB but_CC as_RB non_JJ native_NN to_TO the_DT city_NN the_DT neighborhood_NN felt_VBD sketchy_JJ ._.
+Stuffed_VBN fig_NN salad_NN w_NN goat_NN cheese_NN is_VBZ a_DT must_MD ._.

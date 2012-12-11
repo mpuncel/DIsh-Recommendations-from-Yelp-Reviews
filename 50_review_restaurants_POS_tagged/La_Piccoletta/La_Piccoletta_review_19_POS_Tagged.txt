@@ -1,0 +1,4 @@
+Suprise_NNP ,_, suprise_NN ._.
+We_PRP were_VBD walking_VBG the_DT dogs_NNS a_DT couple_NN weeks_NNS ago_RB and_CC it_PRP looks_VBZ like_IN its_PRP$ under_IN new_JJ ownership_NN AGAIN_RB ._.
+Where_WRB 's_POS that_WDT dude_VBP from_IN the_DT food_NN network_NN that_WDT does_VBZ those_DT restaurant_NN makeovers_NNS ?_.
+Poor_NNP Piccoletta_NNP needs_VBZ this_DT STAT_NNP ._.

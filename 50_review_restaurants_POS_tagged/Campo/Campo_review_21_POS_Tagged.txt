@@ -1,0 +1,6 @@
+Checking_VBG out_RP the_DT neighborhood_NN &_CC stopped_VBD in_RP for_IN a_DT quick_JJ bite_NN ._.
+Caesar_NNP salad_NN had_VBD real_JJ anchovies_NNS in_IN it_PRP ._.
+Salad_NN portion_NN was_VBD tiny_JJ ._.
+Luckily_RB ,_, burger_NN served_VBD medium_JJ rare_JJ -LRB-_-LRB- perfect_JJ -RRB-_-RRB- and_CC handcut_NN fries_NNS with_IN parmesean_JJ cheese_NN &_CC herbs_NNS were_VBD good_JJ eats_VBZ &_CC decently_RB priced_VBN ._.
+Overall_RB ,_, it_PRP was_VBD ok_RB ._.
+The_DT meal_NN does_VBZ n't_RB shine_VB ,_, but_CC it_PRP does_VBZ n't_RB stink_VB either_RB ._.

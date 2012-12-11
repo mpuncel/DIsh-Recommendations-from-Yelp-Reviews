@@ -1,0 +1,9 @@
+Happy_JJ hour_NN 5-7pm_JJ Monday_NNP through_IN Thursday_NNP !_.
+Relatively_RB affordable_JJ wine_NN and_CC tapas_NNS ._.
+Low_NNP lighting_NN ._.
+USC_NNP crowd_NN ._.
+The_DT crostinis_NNS are_VBP delicious_JJ ,_, as_IN is_VBZ the_DT burger_NN with_IN egg_NN ._.
+Street_NNP parking_NN ._.
+Friendly_RB waitstaff_NN ._.
+This_DT place_NN is_VBZ cozy_JJ ,_, good_JJ for_IN dates_NNS or_CC just_RB to_TO talk_VB with_IN friends_NNS ._.
+=_SYM -RRB-_-RRB-

@@ -1,0 +1,5 @@
+Jody_NNP Adams_NNP is_VBZ the_DT best_JJS chef_NN Boston_NNP has_VBZ to_TO offer_VB and_CC we_PRP are_VBP all_DT proud_JJ she_PRP is_VBZ a_DT girl_NN !_.
+Rialto_NNP serves_VBZ creative_JJ intellectual_JJ Italian_JJ food_NN ._.
+The_DT chef_NN is_VBZ an_DT expert_NN in_IN Mediterranean_NNP \/_NNP north_RB Africa_NNP gastronomy_NN ._.
+For_IN appetizers_NNS I_PRP had_VBD amazing_JJ grilled_JJ shrimps_NNS with_IN sesame_JJ seeds_NNS ,_, and_CC as_IN main_JJ course_NN the_DT blue_JJ fish_NN ._.
+It_PRP is_VBZ expensive_JJ ,_, too_RB bad_JJ ._.

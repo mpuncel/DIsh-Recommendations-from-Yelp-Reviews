@@ -1,0 +1,4 @@
+GREAT_JJ Pizza_NNP ._.
+Wood_NNP fired_VBD right_RB in_IN front_NN of_IN you_PRP ._.
+They_PRP also_RB have_VBP an_DT awesome_JJ happy_JJ hour_NN with_IN $_$ 5_CD wine_NN and_CC $_$ 5_CD pizza_NN ._.
+The_DT owner_NN is_VBZ fantastic_JJ ,_, and_CC the_DT wait_NN staff_NN and_CC bartenders_NNS are_VBP great_JJ ._.

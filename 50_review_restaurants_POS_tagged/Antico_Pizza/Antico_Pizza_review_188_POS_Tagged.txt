@@ -1,0 +1,7 @@
+I_PRP have_VBP to_TO give_VB this_DT restaurant_NN 5_CD stars_NNS on_IN 2_CD fronts_NNS ._.
+1st_CD ,_, the_DT food_NN is_VBZ amazing_JJ ._.
+Hands_NNS down_IN the_DT best_JJS pizza_NN i_FW have_VBP ever_RB had_VBN ._.
+The_DT capricciosa_NN and_CC the_DT lasagne_NN are_VBP delicious_JJ ._.
+2nd_JJ ,_, I_PRP left_VBD my_PRP$ phone_NN at_IN the_DT restaurant_NN by_IN accident_NN ._.
+The_DT staff_NN actually_RB prevented_VBD a_DT dishonest_NN customer_NN from_IN taking_VBG the_DT phone_NN because_IN she_PRP could_MD not_RB call_VB it_PRP ._.
+Thank_VB you_PRP Antico_NNP for_IN delicious_JJ food_NN and_CC preventing_VBG an_DT out-of-towner_NN from_IN returning_VBG home_NN with_IN no_DT phone_NN !!_NN

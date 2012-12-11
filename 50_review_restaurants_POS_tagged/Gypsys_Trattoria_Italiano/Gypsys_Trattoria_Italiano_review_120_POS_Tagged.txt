@@ -1,0 +1,6 @@
+I_PRP ordered_VBD the_DT godfather_NN 's_POS favorite_JJ ,_, the_DT crazy_JJ alfredo_NN and_CC chicken_NN gnocchi_NNS ._.
+I_PRP liked_VBD the_DT first_JJ two_CD -_: the_DT gnocchi_NNS ,_, not_RB so_RB much_JJ ._.
+The_DT food_NN was_VBD really_RB cheesy_JJ ._.
+I_PRP was_VBD n't_RB a_DT huge_JJ fan_NN of_IN the_DT salads_NNS but_CC that_DT 's_VBZ probably_RB just_RB because_IN I_PRP do_VBP n't_RB consider_VB vegetables_NNS real_JJ food_NN ._.
+Cheap_JJ and_CC decent_JJ ._.
+I_PRP recommend_VBP Gypsy_NNP 's_POS ._.

@@ -1,0 +1,5 @@
+Meh_NNP ._.
+It_PRP 's_VBZ cheap_JJ and_CC it_PRP 's_VBZ fast_RB ,_, but_CC those_DT are_VBP the_DT only_JJ 2_CD reasons_NNS why_WRB I_PRP would_MD come_VB here_RB ._.
+I_PRP like_VBP my_PRP$ noodles_NNS a_DT little_RB more_RBR al_JJ dente_NN ,_, and_CC all_DT of_IN the_DT pasta_NN dishes_NNS I_PRP 've_VBP tried_VBN here_RB are_VBP on_IN the_DT bland_JJ side_NN ._.
+The_DT first_JJ time_NN I_PRP ate_VBD here_RB ,_, I_PRP was_VBD sitting_VBG at_IN a_DT table_NN that_WDT was_VBD near_IN the_DT bathroom_NN ,_, and_CC I_PRP kept_VBD smelling_VBG ``_`` bathroom_NN ''_'' throughout_IN my_PRP$ meal_NN ._.
+I_PRP 'm_VBP not_RB sure_JJ if_IN it_PRP was_VBD that_IN particular_JJ day_NN or_CC this_DT could_MD have_VB been_VBN completely_RB psychological_JJ --_: but_CC to_TO be_VB on_IN the_DT safe_JJ side_NN ,_, I_PRP make_VBP sure_JJ to_TO sit_VB as_RB far_RB away_RB from_IN the_DT bathroom_NN as_IN I_PRP can_MD on_IN subsequent_JJ visits_NNS ._.

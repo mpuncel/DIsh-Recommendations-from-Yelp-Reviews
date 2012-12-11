@@ -1,0 +1,8 @@
+POLENTA_NNP BREAD_NNP !!!_CD Our_PRP$ Famous_NNP Warm_JJ Polenta_NNP Bread_NNP Plate_NNP served_VBD with_IN roasted_JJ corn_NN fresh_JJ rosemary_NN and_CC our_PRP$ roasted_JJ sweet_JJ peppers_NNS -_: `_`` -_: I_PRP can_MD eat_VB this_DT and_CC be_VB happy_JJ for_IN the_DT rest_NN of_IN my_PRP$ life_NN ._.
+It_PRP 's_VBZ THAT_WDT GOOD_NNP Homemade_NNP Gnocchi_NNP with_IN a_DT red_JJ filleto_NN di_FW pomodoro_NN ,_, a_DT touch_NN of_IN garlic_JJ and_CC fresh_JJ basil_NN -_: `_`` -_: This_DT was_VBD pretty_RB tasty_JJ as_RB well_RB ,_, one_CD of_IN the_DT better_JJR one_NN 's_POS I_PRP 've_VBP had_VBD The_DT Pizza_NNP ,_, just_RB average_NN ._.
+Why_WRB go_VBP here_RB ~_CD POLENTA_NNP BREAD_NNP ._.
+Just_RB do_VB it_PRP ._.
+It_PRP 's_VBZ only_RB $_$ 7_CD ._.
+Stop_NN by_IN ,_, have_VB a_DT beer_NN ,_, EAT_NNP POLENTA_NNP BREAD_NN !_.
+And_CC the_DT Outdoor_NNP seating_NN is_VBZ perfect_JJ for_IN a_DT nice_JJ day_NN out_IN !_.
+\*_SYM Check_VB out_RP Pics_NNPS !_.

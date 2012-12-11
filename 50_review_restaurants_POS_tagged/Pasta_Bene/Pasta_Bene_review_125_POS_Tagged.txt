@@ -1,0 +1,3 @@
+Yummy_NNP pasta_NN ,_, and_CC the_DT restaurant_NN is_VBZ actually_RB NICE_NNP ._. ._.
+I_PRP like_VBP that_IN you_PRP just_RB pay_VBP at_IN the_DT cashier_NN -LRB-_-LRB- easy_JJ to_TO split_VB checks_NNS -RRB-_-RRB- ._.
+I_PRP occasionally_RB order_VBP their_PRP$ lunch_NN specials_NNS

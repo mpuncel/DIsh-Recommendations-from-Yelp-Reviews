@@ -1,0 +1,2 @@
+Great_NNP pizza_NN -_: amazing_JJ topping_VBG selections_NNS and_CC good_JJ prices_NNS ._.
+Love_NNP the_DT soda_NN machine_NN and_CC would_MD definitely_RB recommend_VB it_PRP for_IN a_DT late_JJ night_NN place_NN ._.

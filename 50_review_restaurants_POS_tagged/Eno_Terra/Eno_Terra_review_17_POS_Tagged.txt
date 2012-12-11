@@ -1,0 +1,5 @@
+I_PRP really_RB enjoyed_VBD our_PRP$ lunch_NN here_RB ._.
+It_PRP was_VBD a_DT reasonably_RB priced_VBN for_IN fine_JJ cuisine_NN ,_, and_CC you_PRP wo_MD n't_RB leave_VB hungry_JJ ._.
+We_PRP had_VBD the_DT tuna_NN tartar_NN which_WDT was_VBD excellent_JJ ,_, Elbow_NNP Macaroni_NNP Bolognese_NNP ,_, and_CC Marinated_NNP Lamb_NNP Sandwich_NNP ._.
+All_DT were_VBD tasty_JJ dishes_NNS ,_, and_CC the_DT atmosphere_NN was_VBD very_RB nice_JJ ._.
+The_DT other_JJ favorable_JJ reviews_NNS are_VBP spot_NN on_IN ._.

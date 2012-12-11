@@ -1,0 +1,4 @@
+Great_NNP atmosphere_NN ,_, staff_NN are_VBP helpful_JJ yet_RB chilled_VBN out_RP ,_, and_CC food_NN is_VBZ decent_JJ too_RB ._.
+It_PRP 's_VBZ a_DT rather_RB small_JJ place_NN ,_, so_RB you_PRP 'll_MD be_VB fairly_RB close_JJ to_TO your_PRP$ neighbors_NNS ,_, but_CC I_PRP do_VBP n't_RB mind_VB that_DT ._.
+I_PRP thought_VBD the_DT lamb_NN chop_VBP was_VBD juicy_NN and_CC good_JJ ._.
+Smoked_VBN salmon_NN dish_NN comes_VBZ with_IN a_DT pizza_NN bread_NN ,_, and_CC I_PRP liked_VBD the_DT combination_NN very_RB much_RB ._.

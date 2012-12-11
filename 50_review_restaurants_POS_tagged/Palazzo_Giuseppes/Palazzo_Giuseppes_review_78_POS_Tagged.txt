@@ -1,0 +1,4 @@
+Giuseppe_NNP 's_POS is_VBZ such_JJ a_DT wonderful_JJ restaurant_NN ._.
+Their_PRP$ food_NN is_VBZ delicious_JJ and_CC the_DT atmosphere_NN is_VBZ exactly_RB what_WP I_PRP was_VBD looking_VBG for_IN :_: classy_JJ and_CC romantic_JJ ._.
+It_PRP 's_VBZ not_RB too_RB expensive_JJ either_RB ,_, which_WDT is_VBZ always_RB a_DT plus_NN ._.
+All_DT in_IN all_DT ,_, I_PRP 'd_MD recommend_VB it_PRP for_IN a_DT date_NN night_NN !_.

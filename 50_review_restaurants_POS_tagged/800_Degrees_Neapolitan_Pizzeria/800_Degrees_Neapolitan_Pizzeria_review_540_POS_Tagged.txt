@@ -1,0 +1,2 @@
+really_RB surprised_VBN at_IN all_PDT the_DT good_JJ reviews_NNS -_: our_PRP$ pizza_NN was_VBD really_RB soggy_JJ and_CC it_PRP made_VBD the_DT whole_JJ pizza_NN really_RB unenjoyable_JJ -LRB-_-LRB- is_VBZ that_IN a_DT word_NN ?_. -RRB-_-RRB- ._.
+Line_NN was_VBD long_JJ -LRB-_-LRB- which_WDT i_FW would_MD be_VB willing_JJ to_TO wait_VB in_IN if_IN it_PRP was_VBD good_JJ food_NN -RRB-_-RRB- -_: not_RB running_VBG to_TO go_VB back_RB ._.

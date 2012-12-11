@@ -1,0 +1,8 @@
+Old_NNP town_NN Claremont_NNP -LRB-_-LRB- the_DT village_NN -RRB-_-RRB- was_VBD a_DT nice_JJ surprise_NN ._.
+It_PRP has_VBZ old_JJ small_JJ college_NN town_NN feel_VBP with_IN fantastic_JJ places_NNS to_TO eat_VB ,_, among_IN them_PRP Pizza_NNP N_NNP Such_JJ !_.
+Nestled_VBN in_IN a_DT restored_VBN turn_NN of_IN the_DT last_JJ century_NN building_NN ,_, it_PRP really_RB makes_VBZ you_PRP feel_VBP like_IN you_PRP 're_VBP back_RB east_JJ ._.
+The_DT service_NN and_CC food_NN was_VBD great_JJ ._.
+Not_RB over_IN the_DT top_NN ,_, but_CC just_RB right_RB for_IN a_DT Norman_NNP Rockwell_NNP pizza_NN joint_NN ._.
+The_DT Yelp_NNP recommended_VBD ``_`` Try_VB to_TO goat_VB cheese_NN pizza_NN ,_, with_IN extra_JJ goat_NN cheese_NN ''_'' is_VBZ a_DT green_JJ light_JJ go_NN ._.
+Nice_JJ place_NN to_TO hang_VB out_RP with_IN friends_NNS ,_, bring_VB a_DT date_NN ,_, eat_VBP with_IN the_DT family_NN ,_, etc._FW ._.
+Thumbs_NNS up_RB ,_, but_CC as_IN always_RB like_IN me_PRP know_VBP what_WP you_PRP think_VBP ._.

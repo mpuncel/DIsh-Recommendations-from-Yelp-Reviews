@@ -1,0 +1,7 @@
+1_LS ._.
+Layout_NN =_SYM Horrible_JJ 2_CD ._.
+Dining_VBG Area_NNP =_SYM Cluster_NNP $_$ %_NN &_CC \*_SYM 3_LS ._.
+Meatballs_NNP =_SYM Cold_NNP Center_NNP 4_CD ._.
+2_CD Pies_NNS each_DT with_IN 2_CD toppings_NNS =_SYM good_JJ flavor_NN but_CC horribly_RB soggy_JJ ._.
+If_IN you_PRP like_IN standing_VBG in_IN lines_NNS and_CC repeating_VBG yourself_PRP 6_CD times_NNS as_IN you_PRP stare_VBP at_IN your_PRP$ smart_JJ phone_NN avoiding_VBG the_DT contemplation_NN of_IN your_PRP$ pathetic_JJ existence_NN ,_, you_PRP 'll_MD love_VB this_DT place_NN ._.
+Better_RBR Half_DT review_NN -_: ``_`` Sucked_NNP Balls_NNP ._. ''_''

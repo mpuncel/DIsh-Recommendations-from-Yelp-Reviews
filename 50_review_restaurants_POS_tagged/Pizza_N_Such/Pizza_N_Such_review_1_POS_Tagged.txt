@@ -1,0 +1,3 @@
+Definitely_RB NOT_RB that_IN great_JJ ._.
+It_PRP 's_VBZ good_JJ compared_VBN to_TO Domino_NNP 's_POS but_CC not_RB compared_VBN to_TO any_DT REAL_NNP NY_NNP style_NN pizza_NN place_NN ._.
+Head_NNP a_DT little_JJ further_JJ east_JJ to_TO San_NNP Biagio_NNP 's_POS if_IN you_PRP want_VBP GOOD_NNP pizza_NN ._.

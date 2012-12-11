@@ -1,0 +1,5 @@
+I_PRP love_VBP this_DT place_NN ._.
+I_PRP 've_VBP lived_VBN in_IN the_DT neighborhood_NN for_IN ten_CD years_NNS and_CC have_VBP yet_RB to_TO find_VB anyplace_NN with_IN comparable_JJ pizza_NN ._.
+The_DT polenta_NN bread_NN with_IN the_DT grilled_JJ peppers_NNS and_CC corn_NN is_VBZ amazing_JJ ._.
+My_PRP$ favorite_JJ pizza_NN is_VBZ the_DT Juliano_NNP -_: fantastic_JJ !_.
+Get_VB a_DT few_JJ smalls_NNS and_CC share_NN as_IN I_PRP think_VBP the_DT small_JJ size_NN is_VBZ a_DT bargain_NN but_CC the_DT large_JJ and_CC mediums_NNS are_VBP overpriced_VBN ._.

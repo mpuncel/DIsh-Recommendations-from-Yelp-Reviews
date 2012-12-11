@@ -1,0 +1,9 @@
+Nom_NNP nom_NN nom_NN ..._: ``_`` Happy_JJ Hour_NN ''_'' during_IN lunch_NN time_NN is_VBZ awesome_JJ !_.
+Six_CD different_JJ dishes_NNS for_IN only_RB $_$ 5_CD each_DT !_.
+I_PRP ordered_VBD the_DT Beef_NN Lasagna_NNP and_CC it_PRP was_VBD really_RB good_JJ ._.
+Filled_VBN with_IN beef_NN ,_, cheese_NN and_CC spinach_NN ,_, the_DT order_NN was_VBD quite_RB filling_VBG ._.
+The_DT pieces_NNS of_IN bread_NN that_WDT came_VBD with_IN the_DT order_NN was_VBD really_RB good_JJ with_IN all_DT that_DT marinara_NN sauce_NN beside_IN the_DT piece_NN of_IN lasagna_NN ._.
+I_PRP finished_VBD lunch_NN with_IN a_DT piece_NN of_IN tiramisu_NN ._.
+Light_NN ,_, yet_RB filling_VBG ._.
+The_DT berry_JJ reduction_NN goes_VBZ well_RB with_IN the_DT subtle_JJ coffee_NN flavor_NN in_IN the_DT cake_NN ._.
+Awesome_JJ way_NN to_TO end_VB a_DT lunch_NN !_.

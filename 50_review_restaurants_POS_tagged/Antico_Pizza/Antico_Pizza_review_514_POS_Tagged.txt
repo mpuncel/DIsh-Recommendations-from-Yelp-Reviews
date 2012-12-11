@@ -1,0 +1,5 @@
+New_NNP to_TO Yelp_NNP and_CC this_DT restaurant_NN was_VBD on_IN the_DT Hot_NNP Topics_NNPS ._.
+I_PRP happened_VBD to_TO eat_VB here_RB about_IN a_DT week_NN ago_IN for_IN the_DT first_JJ time_NN ._.
+It_PRP was_VBD wonderful_JJ pizza_NN and_CC I_PRP loved_VBD watching_VBG it_PRP be_VB cooked_VBN right_RB in_IN front_NN of_IN you_PRP in_IN the_DT kitchen_NN ._.
+It_PRP was_VBD hard_JJ to_TO get_VB a_DT seat_NN but_CC the_DT atmosphere_NN was_VBD fun_NN ._.
+Definitely_RB would_MD like_VB to_TO come_VB back_RB ._.

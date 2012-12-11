@@ -1,0 +1,3 @@
+$_$ 5_CD lunch_NN specials_NNS !_.
+$_$ 10_CD pitchers_NNS this_DT week_NN !_.
+spread_VBN the_DT word_NN !_.

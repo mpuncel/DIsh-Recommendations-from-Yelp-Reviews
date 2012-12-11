@@ -1,0 +1,4 @@
+LOVE_NN bacaro_NN ._.
+The_DT place_NN itself_PRP is_VBZ pretty_RB small_JJ ,_, but_CC that_DT 's_VBZ part_NN of_IN what_WP makes_VBZ it_PRP great_JJ ._.
+The_DT selection_NN is_VBZ pretty_RB fantastic_JJ ,_, and_CC the_DT owner_NN 's_POS definitely_RB know_VB their_PRP$ stuff_NN so_IN ask_VB them_PRP what_WP they_PRP recommend_VBP !_.
+It_PRP 's_VBZ a_DT great_JJ place_NN to_TO relax_VB with_IN a_DT friend_NN over_IN a_DT bottle_NN of_IN wine_NN ._.

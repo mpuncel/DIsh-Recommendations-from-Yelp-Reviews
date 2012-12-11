@@ -1,0 +1,4 @@
+I_PRP think_VBP that_IN Allegro_NNP makes_VBZ a_DT solid_JJ pie_NN for_IN your_PRP$ college-oriented_JJ pizza_NN joint_NN -_: the_DT tomato_NN pie_NN is_VBZ very_RB tasty_JJ ,_, indeed_RB ._.
+There_EX 's_VBZ a_DT good_JJ selection_NN of_IN slices_NNS to_TO grab_VB and_CC go_VB ._.
+The_DT beer_NN selection_NN is_VBZ definitely_RB great_JJ ,_, and_CC I_PRP love_VBP how_WRB insanely_RB late_JJ it_PRP stays_VBZ open_JJ on_IN the_DT weekends_NNS ,_, though_IN I_PRP 'm_VBP not_RB too_RB fond_JJ of_IN the_DT crowd_NN ._.
+I_PRP guess_VBP that_DT 's_VBZ why_WRB I_PRP 'm_VBP always_RB drunk_JJ in_IN there_EX on_IN the_DT weekends_NNS when_WRB grabbing_VBG some_DT nightcap_JJ beers_NNS -_: it_PRP 's_VBZ the_DT only_JJ way_NN I_PRP can_MD put_VB up_RP with_IN the_DT Penn_NNP kids_NNS ._.

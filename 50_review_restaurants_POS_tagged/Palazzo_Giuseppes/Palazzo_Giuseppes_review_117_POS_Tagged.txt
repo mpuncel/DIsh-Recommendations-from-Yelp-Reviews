@@ -1,0 +1,5 @@
+Plain_JJ and_CC simple_JJ ,_, Giuseppe_NNP 's_POS serves_VBZ okay_JJ food_NN ._.
+Good_JJ wine_NN ,_, okay_JJ food_NN ._.
+If_IN you_PRP are_VBP going_VBG with_IN pasta_NN ,_, skip_VB the_DT lasagne_NN and_CC get_VB something_NN else_RB ._.
+The_DT Torches_NNP pasta_NN with_IN tiger_NN shrimp_NN is_VBZ pretty_RB good_JJ ._.
+The_DT lasagne_NN was_VBD pretty_RB mediocre_JJ ._.

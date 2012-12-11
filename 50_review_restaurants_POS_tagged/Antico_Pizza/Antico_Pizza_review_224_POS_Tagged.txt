@@ -1,0 +1,13 @@
+This_DT ._.
+is_VBZ ._.
+the_DT ._.
+best_RB ._.
+pizza_NN ._.
+ever_RB ._.
+San_NNP Gennaro_NNP ,_, with_IN its_PRP$ chewy_NN ,_, doughy_NN ,_, charred_VBD crust_NN and_CC sweet_JJ spicy_NN peppers_NNS ,_, melty_NN bufala_NN mozzarella_NN and_CC succulent_JJ sausage_NN ,_, is_VBZ incredible_JJ ._.
+The_DT lasagna_NN pizza_NN is_VBZ also_RB delicious_JJ ._.
+We_PRP 've_VBP been_VBN several_JJ times_NNS ,_, and_CC it_PRP seems_VBZ each_DT time_NN there_EX is_VBZ a_DT little_RB more_JJR seating_NN ._.
+The_DT process_NN seems_VBZ to_TO be_VB getting_VBG more_RBR efficient_JJ ._.
+The_DT pizza_NN is_VBZ expensive_JJ ,_, but_CC it_PRP is_VBZ worth_JJ it_PRP ._.
+This_DT restaurant_NN is_VBZ also_RB BYOB_NNP ,_, so_RB you_PRP can_MD save_VB money_NN there_RB ..._: Even_RB though_IN every_DT time_NN I_PRP eat_VBP my_PRP$ fill_NN of_IN pizza_NN ,_, I_PRP seem_VBP to_TO be_VB able_JJ to_TO find_VB room_NN to_TO try_VB one_CD of_IN their_PRP$ many_JJ varieties_NNS of_IN cannoli_NNS ._.
+My_PRP$ favorite_JJ is_VBZ the_DT bianca_NN ,_, with_IN white_JJ chocolate_NN chips_NNS ..._: Delicious_NNP !_.

@@ -1,0 +1,6 @@
+Sangria_NNP number_NN 1_CD ._.
+great_JJ ambiance_NN ,_, and_CC food_NN ._.
+outdoor_JJ dining\/drinking_NN at_IN it_PRP 's_VBZ best_JJS in_IN AA_NNP ._.
+never_RB a_DT quiet_JJ night_NN here_RB ._.
+only_RB complaints_NNS are_VBP that_IN the_DT sangria_NN is_VBZ a_DT little_JJ expensive_JJ ,_, and_CC it_PRP 's_VBZ only_RB open_JJ til_NN 10pm_NNS ._.
+argh_NN !_.

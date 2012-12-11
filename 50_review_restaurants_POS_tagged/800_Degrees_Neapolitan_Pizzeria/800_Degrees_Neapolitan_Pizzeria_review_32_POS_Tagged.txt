@@ -1,0 +1,3 @@
+Oh_UH My_PRP$ Gosh_NNP ,_, I_PRP 'm_VBP so_RB in_IN love_NN with_IN this_DT place_NN ._.
+DIY_NNP pizza_NN with_IN real_JJ Neapolitan_JJ style_NN ._.
+My_PRP$ recommendation_NN is_VBZ to_TO go_VB for_IN the_DT Pizza_NNP Marinara_NNP -LRB-_-LRB- $_$ 5.15_CD -RRB-_-RRB- and_CC then_RB you_PRP have_VBP a_DT great_JJ variety_NN of_IN add-ons_NNS :_: proteins_NNS ,_, vegetables_NNS and_CC cheeses_NNS for_IN 1_CD dollar_NN each_DT ._.

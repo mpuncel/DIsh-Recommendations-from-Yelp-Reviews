@@ -1,0 +1,3 @@
+mosdef_NN 5_CD stars_NNS for_IN the_DT price_NN ._.
+it_PRP 's_VBZ cheap_JJ ,_, they_PRP take_VBP credit_NN cards_NNS ,_, it_PRP 's_VBZ quick_JJ ,_, it_PRP 's_VBZ pretty_RB good_JJ ,_, and_CC the_DT portions_NNS are_VBP generous_JJ ._.
+what_WP more_RBR do_VB you_PRP want_VB ?_.

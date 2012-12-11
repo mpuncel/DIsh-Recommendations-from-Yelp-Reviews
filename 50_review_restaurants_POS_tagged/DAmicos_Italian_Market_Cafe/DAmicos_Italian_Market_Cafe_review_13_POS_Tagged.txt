@@ -1,0 +1,5 @@
+Our_PRP$ neighborhood_NN casual_JJ italian_JJ restaurant_NN ._.
+My_PRP$ wife_NN loves_VBZ the_DT spaghetti_NNS &_CC meatballs_NNS and_CC I_PRP love_VBP the_DT penne_NN pasta_NN with_IN asparagus_NN ._.
+We_PRP also_RB really_RB like_VB their_PRP$ pizzas_NNS --_: not_RB the_DT absolute_JJ best_JJS in_IN town_NN -LRB-_-LRB- i_FW 've_VBP reviewed_VBN that_IN one_CD -RRB-_-RRB- but_CC it_PRP 's_VBZ in_IN walking_VBG distance_NN ._.
+Good_JJ wine_NN selection_NN too_RB ._.
+Staff_NNP is_VBZ great_JJ ._.

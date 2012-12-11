@@ -1,0 +1,6 @@
+Pasta_NN Bene_NNP is_VBZ definitely_RB better_JJR than_IN Gypsy_NNP 's_POS ._.
+I_PRP love_VBP their_PRP$ atmosphere_NN ,_, service_NN ,_, and_CC food_NN ._.
+I_PRP 've_VBP tried_VBD their_PRP$ Marco_NNP Pollo_NNP ,_, Gnocchi_NNP Sausage_NNP ,_, and_CC Beef_NN Lasagna_NNP -_: all_PDT were_VBD satisfactory_JJ ._.
+One_CD thing_NN is_VBZ ,_, their_PRP$ price_NN seems_VBZ a_DT bit_NN too_RB pricey_JJ ._.
+Yes_UH ,_, their_PRP$ food_NN is_VBZ great_JJ especially_RB compared_VBN to_TO other_JJ places_NNS near_IN campus_NN ,_, but_CC honestly_RB it_PRP 's_VBZ a_DT bit_NN overpriced_VBN for_IN the_DT objective_JJ quality_NN ._.
+Nevertheless_RB ,_, their_PRP$ Lunch_NNP Specials_NNPS make_VBP up_RP for_IN that_DT ,_, and_CC I_PRP 'd_MD be_VB glad_JJ to_TO go_VB back_RP any_DT day_NN to_TO grab_VB lunch_NN with_IN a_DT friend_NN ._.

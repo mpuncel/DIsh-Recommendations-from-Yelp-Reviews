@@ -1,0 +1,5 @@
+Yum_NNP and_CC yay_NN ,_, real_JJ Italian_JJ tratorria_NN fare_NN in_IN Midtown_NN !_.
+And_CC golly_RB gosh_JJ ,_, the_DT owner_NN is_VBZ Italian_JJ ,_, and_CC from_IN Italy_NNP no_RB less_RBR ._.
+Watch_NNP the_DT crowds_NNS on_IN Fox_NNP event_NN nights_NNS as_IN the_DT restaurant_NN gets_VBZ way_NN over_IN crowded_VBN ._.
+I_PRP like_VBP to_TO sit_VB at_IN the_DT bar_NN here_RB and_CC order_VB the_DT Caesar_NNP salad_NN and_CC a_DT pizza_NN ._.
+No_DT you_PRP can_MD not_RB share_VB !_.

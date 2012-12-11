@@ -1,0 +1,9 @@
+Subway_NN of_IN pizzas_NNS ._.
+You_PRP wait_VBP in_IN a_DT long_JJ long_JJ line_NN ,_, then_RB you_PRP get_VBP to_TO the_DT front_NN ,_, you_PRP order_VBP your_PRP$ base_NN pizza_NN -LRB-_-LRB- I_PRP got_VBD margarita_NN -RRB-_-RRB- then_RB add_VB on_IN top_NN of_IN that_DT ._.
+In_IN terms_NNS of_IN price_NN :_: food_NN ratio_NN ,_, it_PRP 's_VBZ not_RB that_IN great_JJ ._.
+Each_DT additional_JJ topping_VBG costs_NNS 1_CD dollar_NN and_CC I_PRP can_MD see_VB how_WRB someone_NN could_MD easily_RB make_VB a_DT $_$ 15_CD pizza_NN and_CC still_RB be_VB left_VBN hungry_JJ ._.
+Do_VBP n't_RB get_VB me_PRP wrong_JJ ,_, the_DT pizza_NN is_VBZ still_RB fantastic_JJ with_IN the_DT neapolitan_JJ style_NN soft_JJ dough_NN ,_, but_CC I_PRP would_MD come_VB here_RB only_RB on_IN occasion_NN and_CC with_IN someone_NN that_WDT has_VBZ experienced_VBN this_DT place_NN multiple_JJ times_NNS and_CC can_MD give_VB me_PRP the_DT exact_JJ toppings_NNS I_PRP want_VBP to_TO order_VB ._.
+As_IN you_PRP move_VBP further_RBR down_IN the_DT line_NN ,_, they_PRP throw_VBP your_PRP$ pizza_NN in_IN the_DT oven_NN while_IN you_PRP pay_VBP and_CC with_IN in_IN 5_CD minutes_NNS you_PRP are_VBP ready_JJ to_TO go_VB sit_VB with_IN your_PRP$ pizza_NN and_CC eat_VB ._.
+The_DT decor_NN of_IN the_DT place_NN is_VBZ nice_JJ ;_: high_JJ ceiling_NN with_IN a_DT consistent_JJ theme_NN of_IN pizza_NN ._.
+Def_JJ check_NN this_DT place_NN out_RB once_RB to_TO see_VB if_IN it_PRP 's_VBZ a_DT good_JJ fit_NN for_IN you_PRP ._.
+After_IN that_DT you_PRP can_MD decide_VB for_IN yourself_PRP if_IN it_PRP 's_VBZ worth_JJ the_DT money_NN and_CC time_NN to_TO come_VB back_RB for_IN a_DT second_JJ round_NN ._.

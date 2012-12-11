@@ -1,0 +1,6 @@
+Tasty_JJ thin-crust_NN ,_, fire_NN oven_CD pizzas_NNS ._.
+It_PRP 's_VBZ only_RB a_DT block_NN or_CC too_RB from_IN the_DT T-stop_NN ._.
+We_PRP went_VBD there_RB for_IN lunch_NN ._.
+The_DT prices_NNS seemed_VBD a_DT little_JJ high_JJ -LRB-_-LRB- about_IN $_$ 10_CD for_IN a_DT personal_JJ pizza_NN and_CC $_$ 20_CD for_IN a_DT large_JJ pizza_NN -RRB-_-RRB- ,_, but_CC our_PRP$ waitress_NN mentioned_VBD they_PRP were_VBD doing_VBG $_$ 10_CD for_IN a_DT 1-topping_JJ large_JJ so_IN that_IN made_VBD the_DT total_JJ price_NN more_RBR reasonable_JJ ._.
+We_PRP ordered_VBD a_DT large_JJ pepperoni_NNS for_IN the_DT kids_NNS and_CC an_DT individual_JJ specialty_NN pizza_NN for_IN us_PRP parents_NNS ._.
+That_DT was_VBD just_RB enough_RB to_TO fill_VB up_RP everyone_NN -LRB-_-LRB- with_IN an_DT extra_JJ slice_NN or_CC two_CD remaining_VBG -RRB-_-RRB- for_IN an_DT afternoon_NN of_IN exploring_VBG and_CC fun_NN ._.

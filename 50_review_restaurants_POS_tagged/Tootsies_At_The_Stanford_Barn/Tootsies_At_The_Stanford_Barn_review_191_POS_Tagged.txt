@@ -1,0 +1,2 @@
+Love_NNP this_DT place_NN !_.
+Most_JJS delicious_JJ cappuccinos_NNS in_IN Palo_NNP Alto\/Menlo_NNP Park_NNP area_NN ._.

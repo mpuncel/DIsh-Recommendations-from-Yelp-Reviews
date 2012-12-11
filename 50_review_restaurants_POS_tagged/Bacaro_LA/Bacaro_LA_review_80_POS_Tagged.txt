@@ -1,0 +1,2 @@
+Happy_JJ hour_NN is_VBZ awesome-food_JJ and_CC wine_NN for_IN $_$ 5_CD ._.
+It_PRP is_VBZ a_DT great_JJ place_NN to_TO pass_VB time_NN if_IN you_PRP want_VBP to_TO wait_VB out_RP LA_NNP traffic_NN ._.

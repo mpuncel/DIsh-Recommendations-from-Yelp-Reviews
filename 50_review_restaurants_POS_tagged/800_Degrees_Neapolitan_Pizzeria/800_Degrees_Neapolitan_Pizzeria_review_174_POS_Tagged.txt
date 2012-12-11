@@ -1,0 +1,6 @@
+There_EX is_VBZ finally_RB a_DT new_JJ pizza_NN place_NN with_IN a_DT unique_JJ concept_NN ._.
+They_PRP make_VBP custom_NN pizzas_NNS in_IN about_IN 45_CD sec_NN ._.
+I_PRP ordered_VBD my_PRP$ vegtable_JJ pizza_NN and_CC it_PRP was_VBD ready_JJ by_IN the_DT time_NN I_PRP went_VBD to_TO pay_VB ._.
+Usually_RB ,_, the_DT pizza_NN 's_POS are_VBP always_RB pre-made_JJ ._.
+I_PRP like_VBP that_IN they_PRP use_VBP organic_JJ ingredients_NNS ._.
+I_PRP 'll_MD call_VB them_PRP for_IN my_PRP$ next_JJ party_NN ._.

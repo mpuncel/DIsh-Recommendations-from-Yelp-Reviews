@@ -1,0 +1,8 @@
+Want_VBD a_DT romantic\/big_NN event_NN date_NN ?_.
+Make_NNP reservations_NNS to_TO sit_VB in_IN the_DT window_NN on_IN the_DT second_JJ floor_NN for_IN dinner_NN ._.
+Food_NNP is_VBZ great_JJ ,_, but_CC can_MD be_VB expensive_JJ ._.
+Authentic_NNP Italian_NNP !_.
+We_PRP got_VBD a_DT gift_NN certificate_NN for_IN a_DT Christmas_NNP present_NN ._.
+GREAT_JJ IDEA_NN ._.
+Will_MD NOT_RB disappoint_VB ._.
+But_CC do_VBP n't_RB go_VB if_IN pinching_VBG the_DT pennies_NNS ._.

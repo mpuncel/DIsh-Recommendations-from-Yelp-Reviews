@@ -1,0 +1,5 @@
+Vegetarian_JJ pasta_NN dishes_NNS --_: Funghi_NNP and_CC Fettuccine_NNP Alfredo_NNP --_: are_VBP pretty_RB good_JJ ._.
+Although_IN I_PRP 'm_VBP a_DT huge_JJ meat_NN fan_NN ,_, I_PRP really_RB enjoyed_VBD their_PRP$ vegetarian_JJ pasta_NN dishes_NNS ._.
+These_DT dishes_NNS -LRB-_-LRB- in_IN my_PRP$ opinion_NN -RRB-_-RRB- trumped_VBD their_PRP$ meat_NN plates_VBZ ._.
+3_CD stars_NNS because_IN only_RB a_DT few_JJ dishes_NNS are_VBP good\/decent_JJ and_CC not_RB majority_NN ._.
+Still_RB ,_, if_IN you_PRP 're_VBP craving_NN italian_NN and_CC pasta_NN ,_, this_DT might_MD be_VB a_DT good_JJ go_NN to_TO spot_NN ._.

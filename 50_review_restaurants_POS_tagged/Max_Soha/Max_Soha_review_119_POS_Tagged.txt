@@ -1,0 +1,3 @@
+Solid_JJ place_NN ._.
+Nice_JJ atmosphere_NN ,_, good_JJ food_NN ,_, good_JJ date_NN spot_NN ._.
+Prices_NNS are_VBP reasonable_JJ ,_, service_NN is_VBZ fine_JJ ._.

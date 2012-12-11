@@ -1,0 +1,4 @@
+I_PRP had_VBD the_DT California_NNP pizza_NN and_CC my_PRP$ wife_NN had_VBD the_DT salmon_NN BLT_NNP ._.
+We_PRP topped_VBD them_PRP off_RP with_IN a_DT ricotta_NN cheesecake_NN for_IN dessert_NN ,_, all_DT of_IN which_WDT were_VBD delicious_JJ ._.
+In_IN fact_NN ,_, the_DT pizza_NN is_VBZ perhaps_RB the_DT best_JJS I_PRP ever_RB had_VBD !_.
+Chicken_NNP ,_, corn_NN and_CC avocado_NN ,_, yum_NN !_.

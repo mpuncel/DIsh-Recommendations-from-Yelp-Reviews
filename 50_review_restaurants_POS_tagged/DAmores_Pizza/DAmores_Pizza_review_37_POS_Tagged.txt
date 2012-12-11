@@ -1,0 +1,4 @@
+I_PRP know_VBP flour_NN prices_NNS are_VBP EXTREMELY_RB high_JJ right_RB now_RB ,_, but_CC $_$ 7_CD for_IN two_CD slices_NNS of_IN cheese_NN ?_.
+and_CC mediocre_JJ cheese_NN pizza_NN at_IN that_DT ._.
+They_PRP 're_VBP trying_VBG TOO_RB hard_JJ to_TO be_VB a_DT NYC_NNP style_NN pie_NN ._.
+If_IN you_PRP 're_VBP in_IN westwood_NN try_VBP one_CD of_IN the_DT other_JJ pizza_NN joints_NNS ._.

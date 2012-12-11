@@ -1,0 +1,7 @@
+Attending_VBG USC_NNP ,_, it_PRP 's_VBZ hard_JJ to_TO find_VB food_NN that_WDT 's_VBZ not_RB junk_NN or_CC classy_JJ enough_JJ to_TO take_VB my_PRP$ parents_NNS to_TO ._.
+And_CC then_RB this_DT sweet_JJ spot_NN opened_VBD up_RP ._.
+Great_NNP ,_, clean_JJ environment_NN ._.
+Attractive_JJ ,_, timely_JJ ,_, and_CC humorous_JJ service_NN ._.
+Gourmet_NN and_CC yet_RB very_RB affordable_JJ grub_NN ._.
+And_CC they_PRP offer_VBP a_DT lot_NN of_IN tasty_JJ options_NNS besides_IN pizza_NN too_RB ._.
+Margarita_NNP Pizza_NNP Bar_NNP ..._: I_PRP am_VBP yours_NNS !_.

@@ -1,0 +1,5 @@
+Mama_NNP Palma_NNP is_VBZ wonderful_JJ ._.
+I_PRP stopped_VBD in_RP tonight_NN to_TO order_VB a_DT pizza_NN to_TO go_VB ,_, and_CC the_DT staff_NN was_VBD incredibly_RB courteous_JJ ._.
+They_PRP offered_VBD me_PRP a_DT seat_NN and_CC something_NN to_TO drink_VB while_IN I_PRP waited_VBD ._.
+I_PRP ditzily_RB forgot_VBD to_TO pay_VB at_IN first_RB ,_, but_CC as_IN I_PRP went_VBD out_IN the_DT door_NN ,_, they_PRP politely_RB brought_VBD me_PRP back_RB ,_, accepted_VBD my_PRP$ apologies_NNS ,_, and_CC even_RB threw_VBD in_IN a_DT free_JJ bottle_NN of_IN water_NN ._.
+And_CC as_IN usual_JJ ,_, the_DT pizza_NN was_VBD delicious_JJ !_.

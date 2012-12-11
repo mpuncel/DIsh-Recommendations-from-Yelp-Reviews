@@ -1,0 +1,4 @@
+Not_RB a_DT bad_JJ place_NN for_IN lunch_NN ._.
+Came_NNP here_RB and_CC got_VBD the_DT chicken_NN option_NN ._.
+They_PRP give_VBP you_PRP plenty_NN of_IN food_NN for_IN the_DT price_NN ,_, and_CC its_PRP$ pretty_JJ fast_RB ._.
+If_IN you_PRP want_VBP to_TO sit_VB inside_RB ,_, the_DT seating_NN will_MD be_VB limited_VBN ,_, as_IN many_JJ individuals_NNS take_VBP up_RP 4_CD seats_NNS by_IN themselves_PRP ._.

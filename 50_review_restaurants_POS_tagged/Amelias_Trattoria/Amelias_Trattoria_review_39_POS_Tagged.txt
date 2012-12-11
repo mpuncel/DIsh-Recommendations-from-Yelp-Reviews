@@ -1,0 +1,16 @@
+Came_NNP here_RB with_IN a_DT group_NN of_IN friends_NNS ,_, during_IN Boston_NNP Restaurant_NNP Week_NNP ._.
+It_PRP 's_VBZ a_DT small_JJ place_NN with_IN view_NN of_IN the_DT kitchen_NN ,_, and_CC a_DT nice_JJ atmosphere_NN ._.
+Food_NNP wise_JJ ,_, I_PRP was_VBD underwhelmed_VBN ._.
+Pork_NN sausage_NN with_IN polenta_NN and_CC asparagus_NN -_: did_VBD not_RB particularly_RB like_IN any_DT component_NN by_IN itself_PRP ,_, but_CC when_WRB combined_VBN together_RB at_IN every_DT bite_NN was_VBD pretty_RB good_JJ ._.
+Sausage_NNP was_VBD a_DT bit_NN spicy_NN ,_, which_WDT I_PRP appreciated_VBD ._.
+Steak_NN with_IN wedge_NN fries_NNS -_: steak_NN was_VBD a_DT bit_NN burnt_JJ on_IN the_DT outside_NN ._.
+The_DT sauce_NN ,_, which_WDT was_VBD very_RB tasty_JJ ,_, covered_VBD this_DT up_RP for_IN the_DT most_JJS part_NN ,_, and_CC also_RB added_VBD moisture_NN to_TO the_DT beef_NN ,_, which_WDT was_VBD otherwise_RB lacking_VBG ._.
+I_PRP really_RB wanted_VBD to_TO like_VB the_DT fries_NNS ,_, but_CC they_PRP were_VBD completely_RB tasteless_JJ and_CC there_RB wad_VB no_DT salt_NN on_IN the_DT table_NN ._.
+Pear_NNP turnover_NN with_IN hazelnut_NN icecream_NN and_CC blackberry_NN coulis_NNS -_: turnover_NN was_VBD very_RB good_JJ and_CC flavorful_JJ ._.
+The_DT icecream_NN was_VBD good_JJ by_IN itself_PRP ,_, but_CC I_PRP could_MD not_RB taste_VB it_PRP when_WRB mixed_VBN with_IN turnover_NN --_: strange_JJ pairing_NN ._.
+Could_MD not_RB taste_VB the_DT tiny_JJ pool_NN of_IN coulis_NNS at_IN all_DT ,_, which_WDT I_PRP found_VBD very_RB odd_JJ ._.
+After_IN dinner_NN ,_, I_PRP asked_VBD for_IN a_DT cappuccino_NN ,_, which_WDT came_VBD flavored_VBN with_IN cinnamon_NN ._.
+Not_RB my_PRP$ cup_NN of_IN tea_NN ,_, and_CC would_MD have_VB been_VBN nice_JJ if_IN the_DT server_NN mentioned_VBD it_PRP beforehand_RB ._.
+Other_JJ than_IN that_DT ,_, service_NN was_VBD good_JJ and_CC friendly_JJ ,_, and_CC our_PRP$ water_NN glasses_NNS were_VBD never_RB empty_JJ ._.
+Overall_RB the_DT experience_NN was_VBD alright_JJ ,_, but_CC nothing_NN special_JJ -_: next_JJ time_NN I_PRP will_MD probably_RB try_VB another_DT place_NN instead_RB ._.
+Glad_JJ I_PRP had_VBD a_DT chance_NN to_TO test_VB it_PRP during_IN restaurant_NN week_NN rather_RB than_IN at_IN full_JJ price_NN ._.

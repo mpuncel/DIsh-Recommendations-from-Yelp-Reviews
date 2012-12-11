@@ -1,0 +1,5 @@
+maybe_RB a_DT 5th_JJ star_NN if_IN the_DT seating_VBG situation_NN was_VBD better_RB ._.
+the_DT pasta_NN i_FW got_VBD was_VBD pretty_RB delicious_JJ ._.
+i_FW ca_MD n't_RB recall_VB the_DT name_NN of_IN it_PRP but_CC it_PRP was_VBD penne_JJ marinara_NN with_IN a_DT hint_NN of_IN creme_NN ,_, with_IN mushrooms_NNS ,_, spinach_NN ,_, garlic_JJ ,_, and_CC olives_NNS ,_, i_FW believe_VBP ._.
+fairly_RB generous_JJ portions_NNS ._.
+i_FW tried_VBD a_DT few_JJ bites_VBZ of_IN a_DT friends_NNS '_POS veggie_NN pizza_NN -LRB-_-LRB- with_IN BROCCOLI_NNP !!!_CD -RRB-_-RRB- and_CC it_PRP was_VBD awesome_JJ ._.

@@ -1,0 +1,6 @@
+The_DT restaurant_NN is_VBZ located_VBN in_IN central_JJ campus_NN ,_, making_VBG it_PRP a_DT popular_JJ choice_NN for_IN group_NN events_NNS ,_, employer_NN receptions_NNS ,_, casual_JJ dates_NNS and_CC family_NN get-togethers_NNS when_WRB parents_NNS are_VBP in_IN town_NN ._.
+The_DT vibe_NN is_VBZ casual_JJ ,_, fun_NN and_CC a_DT notch_NN nicer_JJR than_IN the_DT usual_JJ student_NN hot_JJ spots_NNS ._.
+A_DT few_JJ of_IN my_PRP$ favorite_JJ items_NNS from_IN the_DT menu_NN :_: bruschetta_NN ,_, fried_VBD calamari_NN ,_, ribs_NNS &_CC wings_NNS ,_, chicken_NN parmigiana_NN ,_, the_DT italian_JJ meats_NNS lasagana_NN ,_, the_DT New_NNP York_NNP cheesecake_NN ,_, tiramisu_NN and_CC strawberry_NN milkshake_NN -LRB-_-LRB- made_VBN with_IN real_JJ strawberries_NNS !_. -RRB-_-RRB- ._.
+The_DT restaurant_NN is_VBZ open_JJ and_CC delivers_VBZ until_IN 4am_JJ daily_JJ ._.
+Credit_NNP cards_NNS are_VBP accepted_VBN ,_, and_CC delivery_NN orders_NNS are_VBP processed_VBN efficiently_RB and_CC effectively_RB ._.
+This_DT is_VBZ definitely_RB one_CD of_IN the_DT top_JJ choices_NNS for_IN quality_NN late_JJ night_NN delivery_NN in_IN Ann_NNP Arbor_NNP ._.

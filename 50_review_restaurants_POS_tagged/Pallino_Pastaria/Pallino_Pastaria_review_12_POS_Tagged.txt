@@ -1,0 +1,3 @@
+If_IN you_PRP do_VBP n't_RB go_VB for_IN the_DT meat_NN options_NNS this_DT is_VBZ a_DT decent_JJ meal_NN at_IN a_DT decent_JJ price_NN ._.
+The_DT tomato_NN pesto_NN penne_NN has_VBZ a_DT very_RB nice_JJ aroma_NN to_TO it_PRP ._.
+Ordering_VBG process_NN is_VBZ a_DT bit_NN oddball_NN ._.

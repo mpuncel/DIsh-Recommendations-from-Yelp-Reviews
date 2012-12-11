@@ -1,0 +1,7 @@
+Garlic_JJ bread_NN ,_, check_NN ._.
+Scary_JJ creepy_JJ stairs_NNS leading_VBG to_TO bathroom_NN ,_, check_NN ._.
+Came_NNP here_RB with_IN Davel_NNP after_IN a_DT poetry_NN reading_NN and_CC got_VBD the_DT combo_NN pasta_NN and_CC Piazza_NNP something_NN something_NN pasta_NN ._.
+Davel_NNP 's_POS combo_NN pasta_NN consisted_VBD of_IN chicken_NN ,_, sausage_NN ,_, linguini_NN and_CC pink_JJ sauce_NN ._.
+It_PRP was_VBD actually_RB really_RB good_JJ compared_VBN to_TO my_PRP$ angel_NN hair_NN and_CC bacon_NN pasta_NN which_WDT lacked_VBD flavor_NN so_IN I_PRP just_RB downpoured_VBD the_DT pepper_NN and_CC when_WRB Davel_NNP got_VBD to_TO it_PRP ,_, downpoured_VBD all_PDT the_DT condiments_NNS that_WDT were_VBD offered_VBN on_IN the_DT table_NN ._.
+Service_NNP was_VBD friendly_JJ ,_, but_CC it_PRP seemed_VBD to_TO be_VB that_IN it_PRP was_VBD just_RB a_DT fancy_JJ pizza_NN shop_NN with_IN drawing_VBG paper_NN on_IN top_NN of_IN the_DT tablecloth_NN to_TO prevent_VB it_PRP from_IN getting_VBG dirty_JJ ._.
+Will_MD come_VB back_RB ,_, eventually_RB ,_, maybe_RB ,_, perhaps_RB ._.

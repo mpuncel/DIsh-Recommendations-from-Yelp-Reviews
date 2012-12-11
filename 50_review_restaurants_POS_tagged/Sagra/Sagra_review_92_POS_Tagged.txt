@@ -1,0 +1,16 @@
+A_DT new_JJ ,_, pleasant_JJ Italian_JJ place_NN in_IN downtown_NN Austin_NNP ,_, where_WRB Mars_NNP used_VBD to_TO be_VB located_VBN ._.
+They_PRP serve_VBP pasta_NN dishes_NNS ,_, some_DT meat_NN dishes_NNS ,_, italian_JJ sodas_NNS ,_, sandwiches_NNS and_CC pizzas_NNS ._.
+Many_JJ of_IN their_PRP$ dishes_NNS are_VBP cooked_VBN in_IN a_DT brick_NN oven_NN that_WDT 's_VBZ viewable_JJ from_IN the_DT main_JJ dining_NN room_NN ._.
+Having_VBG just_RB recently_RB opened_VBD their_PRP$ menu_NN is_VBZ still_RB in_IN flux_NN ,_, but_CC for_IN two_CD people_NNS with_IN tip_NN we_PRP spent_VBD $_$ 52_CD and_CC we_PRP did_VBD n't_RB have_VB wine_NN ._.
+The_DT calamari_NN was_VBD good_JJ ,_, nicely_RB crunchy_JJ without_IN feeling_VBG too_RB breaded_VBN ._.
+The_DT brick-pressed_JJ half_NN a_DT chicken_NN was_VBD moist_JJ and_CC tender_NN ,_, but_CC a_DT little_JJ too_RB salty_JJ ._.
+The_DT new_JJ potatoes_NNS that_WDT came_VBD with_IN it_PRP were_VBD crunchy_JJ on_IN the_DT outside_JJ and_CC tender_NN on_IN the_DT inside_NN ._.
+My_PRP$ wife_NN had_VBD a_DT pasta_NN dish_NN that_WDT was_VBD good_JJ ,_, and_CC a_DT good_JJ size_NN ._.
+Some_DT people_NNS at_IN other_JJ tables_NNS had_VBD pizzas_NNS and_CC they_PRP looked_VBD good_JJ ._.
+Responses_NNS were_VBD favorable_JJ ._.
+They_PRP brought_VBD us_PRP some_DT feta_NN and_CC homemade_NN grape_NN jam_NN on_IN a_DT crustini_NN that_WDT was_VBD fabulous_JJ ._.
+We_PRP wanted_VBD to_TO try_VB the_DT tirimisu_NN ,_, but_CC they_PRP recommended_VBD against_IN it_PRP ,_, apparently_RB it_PRP had_VBD n't_RB set_VBN out_RP long_RB enough_RB ,_, so_IN we_PRP got_VBD the_DT chocolate_NN cake_NN instead_RB ._.
+I_PRP loved_VBD it_PRP ,_, but_CC I_PRP like_VBP really_RB powerful_JJ chocolate_NN flavors_NNS ._.
+It_PRP was_VBD about_RB as_RB subtle_JJ as_IN a_DT brick_NN to_TO the_DT head_NN ._.
+I_PRP think_VBP they_PRP 'll_MD get_VB on_IN their_PRP$ game_NN soon_RB ,_, they_PRP 're_VBP supposedly_RB opening_VBG for_IN lunch_NN at_IN some_DT point_NN ,_, and_CC I_PRP 'm_VBP sure_JJ the_DT early_JJ glitches_NNS have_VBP been_VBN ironed_VBN out_RP ._.
+Expect_VB the_DT menu_NN to_TO change_VB somewhat_RB ,_, but_CC they_PRP 've_VBP certainly_RB proved_VBN their_PRP$ competency_NN ._.

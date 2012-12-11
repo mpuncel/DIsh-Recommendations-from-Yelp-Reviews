@@ -1,0 +1,4 @@
+great_JJ place_NN =_SYM Cool_NNP interior_NN ,_, great_JJ beer_NN ,_, delicous_JJ tapas_NNS ._.
+Even_RB their_PRP$ olive_JJ oil_NN was_VBD amazing_JJ ._.
+Very_RB low_JJ prices_NNS too_RB ._.
+A_DT must_MD hit_VB ._.

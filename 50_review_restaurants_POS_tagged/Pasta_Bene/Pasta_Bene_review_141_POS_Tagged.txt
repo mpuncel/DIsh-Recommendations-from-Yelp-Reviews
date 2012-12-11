@@ -1,0 +1,8 @@
+Fresh_JJ food_NN ._.
+Awesome_JJ value_NN ._.
+The_DT chicken_NN parm_NN was_VBD great_JJ ._.
+The_DT food_NN is_VBZ on_IN par_NN with_IN almost_RB any_DT overpriced_JJ place_NN in_IN north_JJ beach_NN ._.
+I_PRP actually_RB preferred_VBD ordering_VBG at_IN the_DT counter_NN over_IN having_VBG a_DT server_NN ._.
+They_PRP still_RB have_VBP people_NNS circulating_VBG refilling_VBG drinks_NNS and_CC bussing_VBG tables_NNS ._.
+I_PRP 'll_MD be_VB back_RB ._.
+Also_RB ,_, I_PRP challenge_VBP you_PRP to_TO find_VB a_DT better_JJR piece_NN of_IN homemade_NN tiramisu_NN ,_, and_CC for_IN only_RB $_$ 4_CD !?_NN

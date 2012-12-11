@@ -1,0 +1,6 @@
+5_CD stars_NNS for_IN the_DT pizza_NN ;_: 4_CD stars_NNS including_VBG the_DT restaurant_NN ._.
+The_DT seating_NN is_VBZ difficult_JJ at_IN best_JJS which_WDT does_VBZ n't_RB make_VB it_PRP easy_JJ to_TO have_VB a_DT conversation_NN without_IN everyone_NN else_RB listening_VBG in_IN ._.
+But_CC the_DT pizza_NN itself_PRP is_VBZ excellent_JJ ._.
+Had_VBD the_DT Margherita_NNP ._.
+You_PRP can_MD really_RB taste_VB the_DT fresh_JJ ingredients_NNS ._.
+We_PRP also_RB tried_VBD the_DT cannoli_NN 's_POS which_WDT are_VBP made_VBN fresh_JJ for_IN you_PRP -_: very_RB good_JJ ._.

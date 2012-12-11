@@ -1,0 +1,4 @@
+Can_MD be_VB a_DT little_JJ loud_JJ but_CC a_DT great_JJ date_NN spot_NN ._.
+The_DT grouper_NN is_VBZ amazing_JJ ,_, but_CC I_PRP was_VBD not_RB impressed_VBN by_IN the_DT lamb_NN ._.
+Also_RB our_PRP$ waitress_NN was_VBD inattentive_JJ at_IN best_JJS ._.
+The_DT martinis_NNS were_VBD good_JJ as_RB well_RB ._.

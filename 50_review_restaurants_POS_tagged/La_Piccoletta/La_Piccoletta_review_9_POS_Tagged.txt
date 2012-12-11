@@ -1,0 +1,3 @@
+A_DT better_JJR than_IN your_PRP$ average_JJ Italian_JJ restaurant_NN located_VBN within_IN a_DT really_RB nice_JJ college_NN town_NN near_IN Claremont_NNP Colleges_NNP ._.
+Service_NNP was_VBD attentive_JJ and_CC quick_JJ ,_, the_DT prices_NNS were_VBD decent_JJ -LRB-_-LRB- the_DT same_JJ as_IN dining_VBG as_IN a_DT Macaroni_NNP Grill_NNP -RRB-_-RRB- ,_, the_DT restaurant_NN was_VBD cozy_JJ ,_, and_CC the_DT rigitoni_NNS mimi_VBP rocks_NNS socks_NNS ._.
+Go_VB get_VB it_PRP ._.

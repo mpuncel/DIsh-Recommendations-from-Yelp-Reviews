@@ -1,0 +1,7 @@
+Pisticci_NNP is_VBZ a_DT cozy_JJ little_JJ Italian_JJ restaurant_NN tucked_VBD away_RB on_IN LaSalle_NNP Street_NNP ._.
+The_DT food_NN is_VBZ far_RB from_IN titillating_VBG or_CC rave-worthy_JJ ,_, but_CC is_VBZ pleasant_JJ and_CC reasonably_RB priced_VBN ._.
+For_IN this_DT neighborhood_NN ,_, that_DT 's_VBZ all_DT it_PRP takes_VBZ to_TO stand_VB out_RP ._.
+Make_NNP of_IN that_DT what_WP you_PRP will_MD ._.
+The_DT service_NN can_MD best_RB be_VB described_VBN as_IN adequate_JJ and_CC odd_JJ ,_, which_WDT in_IN my_PRP$ book_NN is_VBZ much_RB better_JJR than_IN adequate_JJ and_CC pretentious_JJ ._.
+A_DT small_JJ ,_, yet_RB sleek_JJ looking_VBG bar_NN ,_, funky_JJ wall_NN paper_NN and_CC painted_VBN bookshelf_NN mural_NN add_VB character_NN and_CC warmth_NN ._.
+Overall_RB ,_, Pisticci_NNP is_VBZ a_DT great_JJ neighborhood_NN spot_NN for_IN couples_NNS or_CC small_JJ groups_NNS -LRB-_-LRB- 4_CD is_VBZ fine_JJ ,_, 6_CD might_MD be_VB pushing_VBG it_PRP -RRB-_-RRB- where_WRB good_JJ food_NN ,_, warm_JJ atmosphere_NN are_VBP desired_VBN ,_, but_CC company_NN and_CC conversation_NN will_MD be_VB the_DT highlight_NN -LRB-_-LRB- ..._: hopefully_RB ,_, they_PRP always_RB are_VBP -RRB-_-RRB- ._.

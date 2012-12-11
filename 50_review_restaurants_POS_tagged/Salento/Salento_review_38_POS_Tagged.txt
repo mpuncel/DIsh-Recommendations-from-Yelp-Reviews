@@ -1,0 +1,4 @@
+What_WP a_DT great_JJ restaurant_NN !_.
+Wonderful_JJ food-grilled_JJ arugala_NN salad_NN and_CC mixed_JJ seafood_NN as_IN appetizer_NN and_CC entree_FW ,_, and_CC mixed_JJ sorbet_NN for_IN desert_NN ._.
+Felt_VBN like_IN I_PRP was_VBD in_IN Italy_NNP ._.
+Relaxed_JJ service_NN for_IN the_DT big_JJ city_NN ,_, gratsi_NN ._.

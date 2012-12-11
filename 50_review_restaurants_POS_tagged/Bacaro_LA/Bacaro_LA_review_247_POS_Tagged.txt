@@ -1,0 +1,18 @@
+Classy_JJ place_NN for_IN being_VBG in_IN the_DT USC_NNP `_`` hood_NN ._.
+4.5_CD stars_NNS !_.
+FOOD_NN :_: Small_JJ plates_NNS ._.
+Order_NNP 2-3_CD plates_NNS per_IN person_NN ._.
+Love_NNP the_DT Bacaro_NNP burger_NN !_.
+This_DT is_VBZ a_DT must_MD get_VB !_.
+Nutella_NNP panino_NN for_IN dessert_NN is_VBZ lovely_JJ too_RB ._.
+Nice_JJ selection_NN of_IN wines_NNS by_IN the_DT glass_NN including_VBG Italian_JJ ,_, French_JJ ._.
+For_IN the_DT non-winos_NNS ,_, they_PRP have_VBP good_JJ beer_NN too_RB ._.
+ATMOSPHERE_NN :_: Dimly_NNP lit_VBD ,_, cozy_JJ atmosphere_NN ._.
+Small_JJ place_NN ,_, small_JJ tables_NNS ._.
+Can_MD get_VB noisy_JJ ._.
+Seating_NN has_VBZ always_RB been_VBN an_DT issue_NN here_RB since_IN this_DT is_VBZ a_DT popular_JJ place_NN ,_, but_CC they_PRP added_VBD a_DT side_NN room_NN for_IN seating_VBG !_.
+I_PRP have_VBP been_VBN here_RB 4_CD times_NNS and_CC the_DT last_JJ time_NN was_VBD on_IN a_DT Tuesday_NNP summer_NN night_NN ._.
+There_EX were_VBD a_DT few_JJ tables_NNS available_JJ ,_, but_CC still_RB was_VBD pretty_RB busy_JJ ._.
+SERVICE_NN :_: Not_RB quite_RB 5_CD stars_NNS since_IN the_DT service_NN can_MD be_VB hit_VBN or_CC miss_VBP ._.
+I_PRP feel_VBP that_IN the_DT servers_NNS are_VBP given_VBN too_RB many_JJ tables_NNS so_IN they_PRP are_VBP always_RB rushing_VBG around_RB ._.
+Other_JJ than_IN that_DT ,_, this_DT place_NN is_VBZ amazing_JJ !_.

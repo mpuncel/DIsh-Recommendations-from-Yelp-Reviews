@@ -1,0 +1,1 @@
+Had_VBD catered_VBN food_NN and_CC it_PRP was_VBD good_JJ -LRB-_-LRB- as_IN far_RB as_IN catered_VBN Italian_JJ goes_VBZ -RRB-_-RRB- ._.

@@ -1,0 +1,10 @@
+Food_NNP poisoning_NN !!!_CD Called_VBN in_IN at_IN 8:45_CD pm_NN to_TO make_VB sure_JJ they_PRP were_VBD opened_VBN ._.
+They_PRP said_VBD 10pm_CD ,_, arrived_VBD at_IN 9:10_CD pm_NN and_CC the_DT waiter_NN said_VBD he_PRP has_VBZ to_TO go_VB to_TO the_DT back_NN and_CC asked_VBD if_IN the_DT kitchen_NN is_VBZ still_RB open_JJ ._.
+Sat_VB down_RB and_CC saw_VBD the_DT dirty_JJ plate_NN and_CC the_DT utensils_NNS ._.
+Cleaned_VBN them_PRP and_CC waited_VBD for_IN the_DT food_NN ._.
+Bread_NN was_VBD good_JJ ._.
+Pasta_NN was_VBD not_RB bad_JJ until_IN i_FW had_VBD a_DT few_JJ bites_VBZ and_CC my_PRP$ stomach_NN started_VBD to_TO feel_VB weird_JJ ._.
+It_PRP was_VBD hurting_VBG all_DT night_NN ._.
+Service_NNP is_VBZ slow_JJ ._.
+Food_NNP is_VBZ so_RB so_RB ._.
+Price_NN is_VBZ ok_RB ._. ._.

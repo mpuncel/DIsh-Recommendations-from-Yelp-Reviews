@@ -1,0 +1,5 @@
+The_DT penultimate_JJ college_NN eatery_NN ._.
+It_PRP delivers_VBZ AND_CC is_VBZ open_JJ until_IN 4am_CD ._.
+With_IN quick_JJ greasy_NN food_NN -LRB-_-LRB- burgers_NNS and_CC fries_NNS -RRB-_-RRB- ,_, or_CC something_NN sorta_JJ kinda_NN healthy_JJ -LRB-_-LRB- the_DT chipatis_NN -RRB-_-RRB- ,_, plus_CC dessert_NN -LRB-_-LRB- made_VBN to_TO order_VB shakes_VBZ ..._: the_DT best_JJS in_IN town_NN -RRB-_-RRB- ._.
+I_PRP love_VBP the_DT chicken_NN ranch_NN chipati_NNS ,_, with_IN a_DT side_NN order_NN of_IN steak_NN fries_NNS ._.
+Everything_NN is_VBZ big_JJ enough_RB to_TO share_NN ,_, making_VBG it_PRP very_RB economical_JJ for_IN poor_JJ college_NN students_NNS ._.

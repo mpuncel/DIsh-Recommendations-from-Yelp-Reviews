@@ -1,0 +1,5 @@
+cheapest_JJS good_JJ italian_JJ food_NN !_.
+went_VBD here_RB a_DT lot_NN wit_NN friends_NNS ._. ._.
+portion_NN is_VBZ big_JJ and_CC pasta_NN dish_NN comes_VBZ wit_NN garlic_JJ bread_NN ._.
+service_NN is_VBZ great_JJ and_CC food_NN comes_VBZ right_RB away_RB ._. ._.
+da_NN best_JJS thing_NN is_VBZ dat_JJ everything_NN is_VBZ under_IN $_$ 7_CD ._.

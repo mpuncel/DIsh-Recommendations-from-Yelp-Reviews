@@ -1,0 +1,24 @@
+My_PRP$ first_JJ reaction_NN upon_IN walking_VBG in_IN here_RB for_IN the_DT first_JJ time_NN was_VBD ``_`` Chipotle_NNP ''_'' ._.
+That_DT 's_VBZ right_NN ._.
+Here_RB was_VBD the_DT assembly_NN line_NN of_IN workers_NNS ,_, assembling_VBG a_DT pizza_NN ,_, just_RB as_IN they_PRP put_VBP together_RB burritos_NNS and_CC salads_NNS at_IN the_DT Chipotle_NNP ._.
+Only_RB here_RB ,_, one_CD enters_VBZ a_DT tall_JJ ceilinged_VBN ,_, big_JJ bucks_NNS ,_, fancy_JJ space_NN operation_NN with_IN sophisticated_JJ graphic_JJ art_NN -LRB-_-LRB- pizza_NN boxes_NNS -RRB-_-RRB- ,_, columns_NNS ,_, arches_NNS and_CC a_DT very_RB elegant_JJ ,_, old_JJ world_NN type_NN of_IN grandeur_NN ._.
+And_CC the_DT cooks_NNS pull_VBP apart_RB fresh_JJ dough_NN and_CC lather_VB it_PRP up_RP with_IN three_CD basic_JJ types_NNS of_IN pizza_NN :_: with_IN tomato_NN ,_, without_IN and_CC white_JJ ._.
+These_DT basics_NNS are_VBP cheap_JJ ,_, but_CC then_RB each_DT ingredient_NN you_PRP add_VBP ,_, adds_VBZ $_$ 1_CD ._.
+So_RB tomatoes_NNS ,_, garlic_JJ ,_, onions_NNS ,_, anchovies_NNS ,_, sausage_NN would_MD be_VB $_$ 5_CD +_CD $_$ 6_CD =_SYM $_$ 11_CD ._.
+You_PRP walk_VBP to_TO the_DT end_NN of_IN the_DT counter_NN ,_, cafeteria_NN style_NN ,_, and_CC pay_NN and_CC wait_VB for_IN your_PRP$ pizza_NN to_TO quickly_RB emerge_VB from_IN the_DT oven_NN ._.
+There_EX are_VBP beers_NNS ,_, wine_NN and_CC soft_JJ drinks_NNS to_TO drink_VB ._.
+When_WRB you_PRP get_VB your_PRP$ pizza_NN you_PRP pray_VBP that_IN there_EX is_VBZ an_DT open_JJ table_NN ._.
+Seating_NN is_VBZ tough_JJ because_IN so_RB many_JJ wait_NN in_IN line_NN here_RB ._.
+There_EX is_VBZ no_DT ``_`` saving_NN ''_'' tables_NNS ,_, that_IN sneaky_JJ way_NN of_IN sitting_VBG down_RP with_IN your_PRP$ laptop_NN and_CC iced_JJ tea_NN before_IN your_PRP$ pizza_NN is_VBZ ready_JJ ._.
+You_PRP need_VBP your_PRP$ food_NN in_IN your_PRP$ hands_NNS before_IN you_PRP can_MD sit_VB down_RB ,_, though_IN I_PRP am_VBP sure_RB some_DT violate_VBP this_DT rule_NN ._.
+And_CC this_DT is_VBZ Westwood_NNP and_CC many_JJ who_WP reside_VBP in_IN this_DT neighborhood_NN do_VBP not_RB wait_VB in_IN line_NN behind_IN others_NNS ._.
+Just_RB as_IN every_DT Mercedes_NNP in_IN West_NNP LA_NNP seems_VBZ to_TO possess_VB a_DT handicap_NN placard_NN no_DT matter_NN the_DT age_NN or_CC athletic_JJ condition_NN of_IN the_DT driver_NN ._.
+So_RB how_WRB exactly_RB did_VBD the_DT pizza_NN taste_NN ?_.
+Well_RB ,_, we_PRP are_VBP told_VBN it_PRP is_VBZ ``_`` authentic_JJ ''_'' and_CC therefore_RB quite_RB thin_JJ and_CC mushy_JJ ._.
+You_PRP do_VBP n't_RB pick_VB it_PRP up_RP ,_, you_PRP cut_VBD it_PRP up_RP with_IN fork_NN and_CC knife_NN and_CC the_DT cheese_NN slips_VBZ off_RP your_PRP$ fork_NN and_CC back_RB down_RB on_IN the_DT plate_NN ._.
+There_EX is_VBZ a_DT sign_NN advising_VBG the_DT complaining_VBG public_NN that_IN they_PRP can_MD request_VB crispy_JJ for_IN their_PRP$ pizza_NN ._.
+And_CC it_PRP 's_VBZ advisable_JJ if_IN that_DT is_VBZ what_WP you_PRP prefer_VBP ._.
+I_PRP do_VBP n't_RB think_VB I_PRP will_MD come_VB back_RB here_RB ._.
+There_EX is_VBZ something_NN strange_JJ about_IN pizza_NN in_IN Los_NNP Angeles_NNP that_WDT just_RB never_RB will_MD appeal_VB to_TO anyone_NN from_IN Chicago_NNP ,_, Philadelphia_NNP ,_, Boston_NNP or_CC NY_NNP ._.
+Like_IN brick_NN houses_NNS ,_, people_NNS who_WP show_VBP up_RP on_IN time_NN ,_, and_CC good_JJ tasting_NN tap_VBP water_NN ,_, we_PRP can_MD not_RB expect_VB pizza_NN to_TO be_VB pizza_NN in_IN the_DT City_NNP of_IN Angels_NNPS ._.
+And_CC 800_CD Degrees_NNS is_VBZ more_JJR of_IN the_DT same_JJ ersatz_JJ pizza_NN ._.

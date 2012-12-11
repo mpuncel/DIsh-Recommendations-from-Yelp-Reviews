@@ -1,0 +1,2 @@
+Not_RB bad_JJ ,_, beer_NN was_VBD good_JJ and_CC the_DT thin_JJ pepperoni_NN was_VBD a_DT bit_NN greasy_NN ._.
+The_DT salad_NN was_VBD very_RB good_JJ

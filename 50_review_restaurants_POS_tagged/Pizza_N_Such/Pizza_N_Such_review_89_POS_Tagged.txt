@@ -1,0 +1,3 @@
+Tasty_JJ pizza_NN with_IN a_DT great_JJ crunchy_JJ crust_NN ._.
+A_DT small_JJ is_VBZ plenty_RB for_IN two_CD people_NNS ._.
+They_PRP also_RB have_VBP a_DT solid_JJ selection_NN of_IN beers_NNS on_IN tap_VBP ,_, including_VBG local_JJ favorite_JJ Pomona_NNP Queen_NNP ._.

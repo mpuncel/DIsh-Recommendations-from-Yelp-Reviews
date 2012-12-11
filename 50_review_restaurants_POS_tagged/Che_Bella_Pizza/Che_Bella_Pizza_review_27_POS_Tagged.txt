@@ -1,0 +1,3 @@
+Che_NNP '_POS Bella_NNP pizza_NN is_VBZ a_DT very_RB good_JJ slice_NN place_NN ,_, with_IN a_DT thick_JJ sauce_NN and_CC excellent_JJ crust_NN on_IN its_PRP$ pizza_NN ._.
+It_PRP 's_POS real_JJ New_NNP York_NNP pizza_NN ,_, with_IN a_DT friendly_JJ staff_NN ;_: delivery_NN usually_RB takes_VBZ 30_CD minutes_NNS or_CC less_JJR in_IN their_PRP$ delivery_NN area_NN ._.
+I_PRP 've_VBP been_VBN eating_VBG here_RB for_IN eight_CD years_NNS ,_, and_CC I_PRP do_VBP n't_RB feel_VB the_DT need_NN to_TO go_VB anywhere_RB else_RB in_IN the_DT neighborhood_NN to_TO get_VB a_DT slice_NN ._.

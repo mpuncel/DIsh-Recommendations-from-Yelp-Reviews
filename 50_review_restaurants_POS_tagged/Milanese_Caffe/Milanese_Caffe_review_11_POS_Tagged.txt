@@ -1,0 +1,8 @@
+Free_NNP garlic_JJ and_CC pizza_NN bread_NN ._.
+Noms_NNS ._.
+I_PRP ordered_VBD the_DT carbonara_NN ._.
+The_DT portion_NN wasnt_JJ average_NN ._.
+Not_RB that_IN big_JJ ._.
+I_PRP was_VBD bale_NN to_TO finish_VB everything_NN and_CC feel_VB satisfied_JJ but_CC not_RB super_JJ full_JJ ._.
+I_PRP liked_VBD it_PRP better_JJR than_IN gypsies_NNS because_IN it_PRP wasnt_VBD as_IN oily_RB and_CC dirty_JJ feeling_NN ._.
+I_PRP 'll_MD probably_RB come_VB back_RB and_CC try_VB the_DT pizza_NN ._.

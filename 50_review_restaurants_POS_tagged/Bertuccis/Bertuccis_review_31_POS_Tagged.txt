@@ -1,0 +1,3 @@
+I_PRP 've_VBP ordered_VBN take_VBP out_RP a_DT few_JJ times_NNS at_IN this_DT Bertuccis_NNPS and_CC have_VBP not_RB had_VBN a_DT problem_NN ._.
+Pizza_NNP was_VBD great_JJ and_CC there_EX is_VBZ never_RB a_DT lack_NN of_IN rolls_NNS ._.
+Service_NNP was_VBD cool_JJ when_WRB I_PRP got_VBD there_RB and_CC everything_NN was_VBD ready_JJ and_CC waiting_VBG ._.

@@ -1,0 +1,8 @@
+Bucca_NNP Di_NNP Bepo_NNP has_VBZ changed_VBN recently_RB ._.
+We_PRP usually_RB order_VBP to_TO go_VB a_DT pizza_NN ,_, pasta_NN ,_, and_CC a_DT salad_NN ._.
+The_DT usual_JJ pizza_NN we_PRP get_VBP is_VBZ a_DT thin_JJ crust_NN pizza_NN with_IN gorgonzola_NN cheese_NN ,_, sices_NNS of_IN peperoni_NNS ,_, and_CC carmalized_VBD onions_NNS ._.
+in_IN my_PRP$ opinion_NN their_PRP$ best_JJS pizza_NN by_IN far_RB ._.
+They_PRP no_RB longer_RBR make_VB this_DT pizza_NN ._.
+so_RB instead_RB we_PRP got_VBD a_DT thin_JJ crust_NN peperoni_NNS pizza_NN ._.
+The_DT pizza_NN was_VBD not_RB very_RB good_JJ they_PRP switched_VBD their_PRP$ tomato_NN sauce_NN for_IN a_DT sweet_JJ tomato_NN sauce_NN ,_, and_CC they_PRP also_RB did_VBD the_DT same_JJ for_IN the_DT spagetti_NNS ._.
+Their_PRP$ food_NN now_RB tastes_VBZ like_IN generic_JJ italian_JJ food_NN you_PRP buy_VBP from_IN a_DT super_JJ market_NN it_PRP no_RB longer_RB has_VBZ the_DT taste_NN that_WDT made_VBD it_PRP stand_VB apart_RB from_IN everything_NN else_RB ._.

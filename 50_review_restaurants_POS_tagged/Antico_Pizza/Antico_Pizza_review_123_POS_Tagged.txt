@@ -1,0 +1,3 @@
+I_PRP 've_VBP been_VBN here_RB many_JJ times_NNS now_RB and_CC must_MD say_VB this_DT place_NN is_VBZ better_JJR than_IN most_JJS of_IN the_DT pizza_NN places_VBZ I_PRP 've_VBP been_VBN to_TO in_IN NY_NNP ._.
+The_DT Margherita_NNP and_CC San_NNP Gennaro_NNP are_VBP my_PRP$ favorites_NNS on_IN the_DT menu_NN ._.
+BYOB_NNP adds_VBZ to_TO the_DT Nostalgia_NNP ._.

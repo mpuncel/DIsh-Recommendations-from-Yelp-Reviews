@@ -1,0 +1,3 @@
+Open_NNP Late_NNP ._.
+large_JJ pizza_NN size_NN slices_NNS ._.
+great_JJ alcohol_NN absorber_NN

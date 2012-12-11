@@ -1,0 +1,6 @@
+I_PRP sat_VBD at_IN the_DT bar_NN ,_, ordered_VBD the_DT Clam_NNP appetizer_NN ,_, they_PRP where_WRB ok_NN ._.
+The_DT bartender_NN was_VBD friendly_JJ ._.
+I_PRP ordered_VBD the_DT Pollo_NNP alla_NN Picata_NNP -_: chicken_NN breast_NN ,_, capers_NNS ,_, lemon_NN ,_, white_JJ wine_NN topped_VBN with_IN poached_JJ cherry_NN tomatoes_NNS ,_, potatoes_NNS ._.
+I_PRP have_VBP had_VBD a_DT similar_JJ dish_NN several_JJ times_NNS &_CC this_DT was_VBD the_DT worse_JJR ._.
+It_PRP was_VBD awful_JJ !_.
+The_DT pizza_NN 's_POS coming_VBG by_IN me_PRP looked_VBD good_JJ ,_, but_CC I_PRP would_MD stay_VB away_RB from_IN the_DT plates_NNS ._.

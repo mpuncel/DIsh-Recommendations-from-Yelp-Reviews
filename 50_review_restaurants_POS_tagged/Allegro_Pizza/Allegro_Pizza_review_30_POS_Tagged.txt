@@ -1,0 +1,4 @@
+Finally_RB ,_, a_DT pizza_NN in_IN University_NNP City_NNP that_IN I_PRP will_MD eat_VB ._.
+Devour_NNP ,_, in_IN fact_NN ._.
+Great_JJ service_NN ,_, decent_JJ prices_NNS ,_, and_CC delivery_NN !_.
+As_IN an_DT added_VBN bonus_NN ,_, their_PRP$ chicken_NN alfredo_NN pasta_NN is_VBZ amazing_JJ ._.

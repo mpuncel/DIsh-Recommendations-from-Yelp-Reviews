@@ -1,0 +1,4 @@
+This_DT place_NN is_VBZ a_DT bit_NN pricey_JJ and_CC food_NN takes_VBZ a_DT while_NN to_TO come_VB out_RP ,_, especially_RB the_DT calzones_NNS ._.
+I_PRP 've_VBP tried_VBD the_DT pesto_JJ calzone_NN and_CC most_JJS of_IN their_PRP$ chicken_NN pastas_NNS ._.
+I_PRP do_VBP not_RB recommend_VB the_DT gnocchi_NNS because_IN it_PRP was_VBD kind_NN of_IN dry_JJ ,_, but_CC I_PRP recommend_VBP the_DT Crazy_NNP Alfredo_NNP ,_, Gypsy_NNP 's_POS Chicken_NNP ,_, and_CC Pollo_NNP con_VBP Pesto_NNP dishes_NNS ._.
+The_DT food_NN is_VBZ amazing_JJ but_CC it_PRP 's_VBZ just_RB expensive_JJ for_IN a_DT college_NN student_NN 's_POS budget_NN ._.

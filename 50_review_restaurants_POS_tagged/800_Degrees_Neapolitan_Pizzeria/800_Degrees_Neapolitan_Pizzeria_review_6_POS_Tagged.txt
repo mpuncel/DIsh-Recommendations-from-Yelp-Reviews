@@ -1,0 +1,2 @@
+Great_NNP pizza_NN ,_, great_JJ price_NN ,_, great_JJ environment_NN ._.
+I_PRP am_VBP not_RB rating_NN on_IN wether_NN this_DT is_VBZ the_DT BEST_NNP pizza_NN in_IN LA_NNP but_CC it_PRP deserves_VBZ 5_CD stars_NNS for_IN Taste_NN ,_, ambiance_NN ,_, stafff_NN ,_, price_NN and_CC overall_JJ goodness_NN ._.

@@ -1,0 +1,8 @@
+Delicious_NNP pizza_NN in_IN an_DT interesting_JJ venue_NN ._.
+I_PRP was_VBD told_VBN that_IN all_PDT the_DT ingredients_NNS are_VBP from_IN Italy_NNP ._.
+We_PRP ordered_VBD the_DT cherry_NN tomatoes_NNS option_NN ._.
+It_PRP was_VBD great_JJ ._.
+We_PRP were_VBD surprised_VBN that_IN the_DT pizza_NN did_VBD n't_RB have_VB any_DT tomato_NN sauce_NN ._.
+They_PRP do_VBP n't_RB provide_VB plates_NNS or_CC napkins_NNS ._.
+Instead_RB ,_, find_VB yourself_PRP in_IN the_DT kitchen_NN on_IN cafeteria_NN tables_NNS with_IN big_JJ rolls_NNS of_IN brown_JJ paper_NN towels_NNS ._.
+Dig_NN in_IN !_.

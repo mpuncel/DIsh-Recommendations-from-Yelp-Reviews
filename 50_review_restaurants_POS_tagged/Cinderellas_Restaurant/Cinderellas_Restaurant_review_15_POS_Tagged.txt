@@ -1,0 +1,5 @@
+Had_VBD the_DT ``_`` Home_NNP Town_NNP ''_'' pizza_NN ._.
+It_PRP was_VBD a_DT good_JJ standard_NN pizza_NN ,_, nothing_NN too_RB amazing_JJ ,_, not_RB a_DT bad_JJ place_NN to_TO get_VB pizza_NN ._.
+Service_NNP was_VBD friendly_JJ ._.
+A_DT little_JJ warm_JJ in_IN restaurant_NN on_IN a_DT hot_JJ day_NN ._.
+Check_VB out_RP my_PRP$ other_JJ pizza_NN ratings_NNS ._.

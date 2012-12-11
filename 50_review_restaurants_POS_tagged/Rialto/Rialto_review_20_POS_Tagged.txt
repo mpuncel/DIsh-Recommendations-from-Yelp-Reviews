@@ -1,0 +1,9 @@
+The_DT setting_NN is_VBZ very_RB clean_JJ and_CC elegant_JJ ,_, and_CC it_PRP feels_VBZ very_RB sophisticated_JJ ._.
+I_PRP felt_VBD a_DT bit_NN out_IN of_IN place_NN ,_, since_IN the_DT crowd_NN was_VBD a_DT bit_NN older_JJR ,_, even_RB on_IN a_DT Friday_NNP night_NN ._.
+Parking_NN in_IN Harvard_NNP Square_NNP is_VBZ always_RB a_DT challenge_NN ,_, and_CC the_DT Charles_NNP Hotel_NNP charges_VBZ around_RB $_$ 8_CD to_TO park_VB in_IN their_PRP$ garage_NN ._.
+Prices_NNS are_VBP high_JJ here_RB ,_, but_CC the_DT service_NN is_VBZ very_RB attentive_JJ ._.
+We_PRP were_VBD very_RB hungry_JJ and_CC had_VBD quite_RB a_DT bit_NN from_IN the_DT bread_NN selection_NN ._.
+Menu_NN options_NNS were_VBD n't_RB super_JJ unique_JJ ,_, but_CC the_DT ingredients_NNS sounded_VBD fresh_JJ ._.
+The_DT food_NN portions_NNS were_VBD smaller_JJR than_IN I_PRP expected_VBD but_CC actually_RB just_RB right_JJ for_IN my_PRP$ appetite_NN ._.
+However_RB ,_, none_NN of_IN the_DT dishes_NNS were_VBD extraordinary_JJ in_IN taste_NN nor_CC presentation_NN ._.
+It_PRP was_VBD a_DT nice_JJ dining_NN experience_NN and_CC a_DT very_RB elegant_JJ place_NN to_TO celebrate_VB my_PRP$ birthday_NN ,_, but_CC it_PRP was_VBD n't_RB as_IN satisfying_VBG as_IN I_PRP had_VBD hoped_VBN ._.

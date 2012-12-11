@@ -1,0 +1,5 @@
+This_DT was_VBD our_PRP$ first_JJ try_NN at_IN delivery_NN pizza_NN since_IN moving_VBG to_TO Seattle_NNP ._.
+It_PRP 's_VBZ pretty_RB good_JJ but_CC overpriced_VBN in_IN my_PRP$ opinion_NN for_IN just_RB not_RB bad_JJ pizza_NN ._.
+I_PRP did_VBD find_VB it_PRP fresh_JJ and_CC not_RB greasy_JJ or_CC oily_RB at_IN all_DT which_WDT was_VBD a_DT nice_JJ relief_NN from_IN the_DT usual_JJ delivery_NN pizza_NN which_WDT I_PRP blot_VBP with_IN a_DT stack_VB of_IN napkins_NNS to_TO get_VB the_DT grease_NN off_RP ._.
+It_PRP was_VBD fresh_JJ but_CC I_PRP did_VBD not_RB find_VB it_PRP all_PDT that_DT flavorful_JJ ._.
+I_PRP thought_VBD it_PRP was_VBD on_IN the_DT bland_JJ side_NN ._.

@@ -1,0 +1,3 @@
+AGOG_NNP pizza_NN is_VBZ fabulous_JJ ,_, and_CC so_RB is_VBZ the_DT chicken_NN ,_, Gorgonzola_NNP ,_, grape_NN ,_, and_CC walnut_NN pasta_NN salad_NN ._.
+Been_VBN coming_VBG here_RB since_IN I_PRP was_VBD a_DT student_NN -LRB-_-LRB- decades_NNS !_.
+I_PRP still_RB remember_VBP when_WRB the_DT space_NN was_VBD just_RB a_DT cut-through_JJ to_TO the_DT laundromat_NN next_IN to_TO Pay_VB 'n'_CC Save_NNP -RRB-_-RRB- They_PRP never_RB let_VBP me_PRP down_RP ._.

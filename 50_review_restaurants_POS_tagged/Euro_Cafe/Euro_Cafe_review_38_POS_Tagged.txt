@@ -1,0 +1,10 @@
+The_DT good_JJ :_: 1_LS ._.
+Close_JJ to_TO home_NN 2_CD ._.
+Good_JJ food_NN -LRB-_-LRB- everything_NN I_PRP 've_VBP tried_VBN has_VBZ been_VBN good_JJ -RRB-_-RRB- 3_LS ._.
+Good_JJ value_NN 4_CD ._.
+Excellent_JJ Pastry_NN The_DT bad_JJ :_: 1_LS ._.
+The_DT other_JJ customers_NNS -LRB-_-LRB- namely_RB the_DT ones_NNS holding_VBG an_DT impromptu_JJ sales_NNS pitch_NN in_IN the_DT small_JJ dinning_NN room_NN ,_, being_VBG loud_JJ and_CC disturbing_JJ the_DT people_NNS actually_RB there_RB to_TO enjoy_VB the_DT food_NN -RRB-_-RRB- ._.
+2_LS ._.
+Staff_NNP for_IN not_RB at_IN least_JJS moving_VBG them_PRP out_IN of_IN the_DT walkway_NN and_CC instead_RB everyone_NN trying_VBG to_TO navigate_VB the_DT dinning_JJ room_NN bumping_VBG me_PRP -LRB-_-LRB- seated_VBN at_IN a_DT table_NN prior_RB to_TO their_PRP$ arrival_NN -RRB-_-RRB- trying_VBG to_TO pass_VB them_PRP ._.
+It_PRP 's_VBZ a_DT business_NN and_CC in_IN this_DT day_NN and_CC age_NN ,_, I_PRP rarely_RB knock_VBP a_DT business_NN for_IN trying_VBG to_TO keep_VB customers_NNS happy_JJ ,_, but_CC this_DT situation_NN completely_RB ruined_VBD what_WP would_MD have_VB been_VBN a_DT very_RB pleasant_JJ dinning_JJ experience_NN ._.
+E._NNP Cafe_NNP is_VBZ a_DT small_JJ restaurant_NN -LRB-_-LRB- maybe_RB 10_CD tables_NNS -RRB-_-RRB- ,_, food_NN is_VBZ prepared_JJ fresh_JJ to_TO order_NN and_CC the_DT food_NN is_VBZ great_JJ ,_, this_DT particular_JJ night_NN the_DT situation_NN was_VBD bad_JJ ._.

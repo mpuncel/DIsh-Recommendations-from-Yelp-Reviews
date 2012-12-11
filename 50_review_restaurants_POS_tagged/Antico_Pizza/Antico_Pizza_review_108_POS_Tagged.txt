@@ -1,0 +1,5 @@
+Context_NN :_: I_PRP 've_VBP had_VBD pizza_NN all_DT over_IN the_DT world_NN and_CC never_RB had_VBD one_CD I_PRP did_VBD n't_RB like_VB ._.
+That_DT said_VBD ,_, I_PRP 've_VBP give_VB Pizza_NNP Hut_NNP a_DT 2.5-3_JJ and_CC a_DT Domino_NNP 's_POS a_DT 2_CD ._.
+Ha_NN !_.
+Antico_NNP ,_, however_RB ,_, is_VBZ up_RB there_RB with_IN the_DT best_JJS in_IN Naples_NNP and_CC New_NNP York_NNP City_NNP ._.
+Food_NNP :_: Best_JJS pizza_NN in_IN Atlanta_NNP ,_, hands_NNS down_IN Atmosphere_NNP :_: Unique_JJ ,_, communal_JJ ,_, loud_JJ ,_, casual_JJ Service_NN :_: Below_IN average_NN

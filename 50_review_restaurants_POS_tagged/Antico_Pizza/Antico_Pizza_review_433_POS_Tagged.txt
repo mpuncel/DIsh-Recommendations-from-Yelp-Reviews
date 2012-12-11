@@ -1,0 +1,2 @@
+Great_NNP pizza_NN and_CC even_RB better_JJR atmosphere_NN -_: communal_JJ style_NN seating_VBG with_IN a_DT open_JJ kitchen_NN ._.
+and_CC its_PRP$ byob_NN -_: even_RB better_RBR

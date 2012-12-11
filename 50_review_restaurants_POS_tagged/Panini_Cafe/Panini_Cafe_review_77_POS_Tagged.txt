@@ -1,0 +1,1 @@
+Chicken_NNP kebab_NN is_VBZ great_JJ value_NN

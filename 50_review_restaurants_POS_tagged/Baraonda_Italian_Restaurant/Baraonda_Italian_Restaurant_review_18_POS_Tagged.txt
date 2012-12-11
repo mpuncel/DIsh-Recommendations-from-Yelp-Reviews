@@ -1,0 +1,3 @@
+Ordered_VBD the_DT antipasto_NN and_CC mussels_NNS appetizers_NNS which_WDT were_VBD very_RB good_JJ ._.
+The_DT entrees_NNS we_PRP ordered_VBD however_RB ,_, lasagna_NN and_CC veal_NN masala_NN were_VBD definitely_RB not_RB worth_IN the_DT price_NN ._.
+Very_RB very_RB salty_JJ ,_, not_RB tasty_JJ at_IN all_DT ._.

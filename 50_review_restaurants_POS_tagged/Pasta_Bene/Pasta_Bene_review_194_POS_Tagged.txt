@@ -1,0 +1,10 @@
+I_PRP bought_VBD lagsana_NN ,_, Chicken_NNP Mushroom_NNP fetuccine_NN -LRB-_-LRB- alfredo_NN -RRB-_-RRB- and_CC Salmon_VB pesta_JJ pasta_NN ._.
+I_PRP got_VBD all_DT 3_CD dishes_NNS to_TO go_VB ._.
+Very_RB fast_RB 15_CD minutes_NNS ._.
+People_NNS answer_VBP the_DT phone_NN is_VBZ very_RB polite_JJ ._.
+I_PRP could_MD say_VB this_DT restaurant_NN only_RB get_VB 4_CD star_NN ,_, not_RB 5_CD stars_NNS ,_, since_IN the_DT food_NN is_VBZ OK_JJ -LRB-_-LRB- on_IN the_DT good_JJ side_NN -RRB-_-RRB- ,_, but_CC not_RB excellent_JJ ._.
+I_PRP guess_VBP I_PRP got_VBD what_WP I_PRP paid_VBD for_IN ._.
+The_DT price_NN is_VBZ really_RB good_JJ for_IN berkeley_NN area_NN ._.
+I_PRP do_VBP n't_RB think_VB other_JJ pasta_NN place_NN could_MD beat_VB this_DT price_NN ._.
+Restaurant_NNP 's_POS sitting_VBG is_VBZ clean_JJ and_CC look_VB nice_JJ -LRB-_-LRB- I_PRP know_VBP I_PRP did_VBD not_RB sit_VB down_RB there_RB -RRB-_-RRB- ._.
+Definitely_RB will_MD go_VB back_RB again_RB ._.

@@ -1,0 +1,5 @@
+I_PRP travel_VBP to_TO Italy_NNP frequently_RB ._.
+I_PRP have_VBP never_RB tasted_VBN pizza_NN this_DT good_JJ ._.
+The_DT pizza_NN at_IN Antico_NNP has_VBZ put_VBN me_PRP off_RP all_DT other_JJ Atlanta_NNP pizzarias_NNS ._.
+Since_IN my_PRP$ first_JJ visit_NN to_TO Antico_NNP Pizza_NNP -LRB-_-LRB- a_DT year_NN ago_IN -RRB-_-RRB- I_PRP have_VBP refused_VBN to_TO eat_VB pizza_NN elsewhere_RB ._.
+It_PRP is_VBZ hands_NNS down_IN The_DT Best_JJS ._.

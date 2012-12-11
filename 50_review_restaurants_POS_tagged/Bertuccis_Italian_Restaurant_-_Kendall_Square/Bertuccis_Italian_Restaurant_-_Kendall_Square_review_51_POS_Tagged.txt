@@ -1,0 +1,4 @@
+A_DT pretty_JJ reliable_JJ lunch_NN stop_NN near_IN Tech_NNP Square_NNP ._.
+Lunch_NN is_VBZ a_DT little_JJ bit_NN pricey_JJ considering_VBG it_PRP 's_VBZ just_RB lunch_NN ,_, but_CC I_PRP find_VBP that_IN the_DT minestrone_NN soup_NN is_VBZ always_RB a_DT good_JJ deal_NN --_: especially_RB with_IN the_DT endless_JJ salad_NN bowl_NN and_CC rolls_NNS that_WDT come_VBP during_IN lunch_NN ._.
+Be_VB sure_JJ to_TO ask_VB for_IN your_PRP$ free_JJ dozen_NN to_TO go_VB on_IN the_DT way_NN out_RP ._.
+Oh_UH ,_, and_CC they_PRP have_VBP surprisingly_RB decent_JJ wine_NN --_: if_IN you_PRP need_VBP a_DT little_JJ happy_JJ with_IN your_PRP$ meal_NN ..._:

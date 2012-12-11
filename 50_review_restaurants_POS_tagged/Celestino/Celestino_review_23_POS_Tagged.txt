@@ -1,0 +1,8 @@
+Best_JJS Italian_JJ food_NN in_IN Pasadena_NNP -_: really_RB !_.
+From_IN the_DT moment_NN we_PRP walked_VBD in_IN the_DT great_JJ service_NN began_VBD ._.
+We_PRP were_VBD greeted_VBN by_IN every_DT member_NN of_IN the_DT staff_NN as_IN we_PRP walked_VBD by_IN ._.
+The_DT waiter_NN was_VBD wonderful_JJ -_: we_PRP loved_VBD the_DT authentic_JJ Italian_JJ accent_NN ._.
+The_DT mixed_JJ green_JJ salad_NN was_VBD chilled_VBN and_CC fresh_JJ ._.
+But_CC the_DT black_JJ &_CC white_JJ ravioli_NNS ,_, stuffed_VBN with_IN shrimp_NN and_CC lightly_RB touched_VBN with_IN lobster_NN sauce_NN ,_, was_VBD incredible_JJ ._.
+The_DT spaghetti_NNS with_IN seafood_NN was_VBD also_RB great_JJ !_.
+The_DT ambiance_NN was_VBD pure_JJ Italian_JJ ,_, and_CC the_DT service_NN unsurpassed_JJ ._.

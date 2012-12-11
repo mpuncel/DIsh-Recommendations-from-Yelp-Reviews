@@ -1,0 +1,5 @@
+Amazing_JJ little_JJ restaurant_NN ,_, great_JJ atmosphere_NN !_.
+Must_MD order_VB the_DT pink_JJ sauce_NN or_CC the_DT balsamic_JJ reduced_JJ filet_NN migon_NN !_.
+Great_NNP place_NN to_TO take_VB a_DT date_NN or_CC a_DT fantastic_JJ family_NN dinner_NN ._.
+You_PRP can_MD even_RB watch_VB the_DT chef_NN in_IN the_DT restaurant_NN as_IN he_PRP cooks_NNS and_CC prepares_VBZ the_DT food_NN in_IN the_DT same_JJ room_NN !_.
+Hidden_VBN away_RB little_JJ spot_NN and_CC only_RB open_JJ on_IN certain_JJ days_NNS ..._: a_DT little_JJ Jem_NN !_.

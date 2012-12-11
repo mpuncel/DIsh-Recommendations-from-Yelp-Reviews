@@ -1,0 +1,4 @@
+My_PRP$ tortellini_NNS with_IN veal_NN and_CC chicken_NN covered_VBN in_IN cream_NN sauce_NN was_VBD DELICIOUS_NNP ._.
+The_DT wait_NN staff_NN and_CC line_NN cook_NN were_VBD very_RB friendly_JJ ._.
+The_DT place_NN was_VBD pretty_RB empty_JJ ,_, but_CC there_EX were_VBD a_DT few_JJ tables_NNS seated_VBN ,_, and_CC they_PRP all_DT seemed_VBD happy_JJ with_IN their_PRP$ food_NN and_CC server_NN ._.
+I_PRP felt_VBD like_IN some_DT pasta_NN ,_, so_RB this_DT place_NN hit_VBD the_DT spot_NN ._.

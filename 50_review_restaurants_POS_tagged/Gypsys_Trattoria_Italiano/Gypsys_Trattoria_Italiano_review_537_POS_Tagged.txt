@@ -1,0 +1,6 @@
+Taste_NN of_IN food_NN =_SYM 4_CD stars_NNS -_: 1_CD star_NN for_IN absolutely_RB cold_JJ food_NN =_SYM 3_CD stars_NNS I_PRP 'm_VBP a_DT fan_NN because_IN it_PRP 's_VBZ relatively_RB cheap_JJ for_IN lots_NNS of_IN food_NN ,_, and_CC good_JJ food_NN at_IN that_DT ._.
+I_PRP did_VBD n't_RB end_VB up_RP eating_VBG my_PRP$ food_NN there_RB ,_, I_PRP took_VBD it_PRP home_NN because_IN it_PRP was_VBD ridiculously_RB cold_JJ though_IN ._.
+Hence_RB the_DT 3_CD stars_NNS instead_RB of_IN 4_CD ._.
+I_PRP got_VBD the_DT lasagna_NN ,_, and_CC it_PRP was_VBD cold_JJ all_PDT the_DT way_NN through_IN ._.
+I_PRP ended_VBD taking_VBG it_PRP home_NN and_CC reheating_VBG it_PRP ._.
+It_PRP tasted_VBD delicious_JJ ,_, wish_VB my_PRP$ lasagna_NN could_MD come_VB out_RP as_RB good_JJ ._.

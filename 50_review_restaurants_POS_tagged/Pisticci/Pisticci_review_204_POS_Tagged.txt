@@ -1,0 +1,3 @@
+Pisticci_NNP is_VBZ O.K._NNP ._.
+The_DT atmosphere_NN is_VBZ nice_JJ and_CC the_DT service_NN is_VBZ generally_RB good_JJ ,_, but_CC the_DT food_NN is_VBZ just_RB average_JJ ._.
+I_PRP 've_VBP eaten_VBN here_RB several_JJ times_NNS because_IN I_PRP live_VBP right_JJ next_JJ door_NN ,_, but_CC I_PRP would_MD definitely_RB not_RB travel_VB for_IN it_PRP ._.

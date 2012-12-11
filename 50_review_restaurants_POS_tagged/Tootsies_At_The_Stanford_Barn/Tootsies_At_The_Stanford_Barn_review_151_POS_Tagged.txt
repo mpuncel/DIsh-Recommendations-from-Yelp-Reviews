@@ -1,0 +1,6 @@
+Stopped_VBN in_IN at_IN Tootsie_NNP 's_POS today_NN after_IN early_JJ morning_NN doctor_NN appts_NNS ._.
+I_PRP had_VBD the_DT Ricotta_NNP Pancakes_NNPS and_CC a_DT latte_NN -_: delicious_JJ pancakes_NNS ,_, hot_JJ steamy_NN strong_JJ latte_JJ !!_NN My_PRP$ husband_NN had_VBD the_DT Tootsie_NNP 's_POS Burger_NNP -_: fabulous_JJ ,_, tasty_JJ beef\/pork_NN patty_NN ,_, lots_NNS of_IN cheese_NN and_CC flavorful_JJ fresh-baked_JJ bun_NN and_CC yummy_JJ shoe-string_JJ potatoes_NNS !!_VBP The_DT place_NN is_VBZ very_RB small_JJ inside_IN but_CC there_EX 's_VBZ plenty_NN of_IN outdoor_JJ seating_NN ._.
+We_PRP sat_VBD outside_IN in_IN the_DT sunshine_NN and_CC enjoyed_VBD our_PRP$ brunch_NN ._.
+The_DT servers_NNS were_VBD quick_JJ and_CC very_RB pleasant_JJ ._.
+We_PRP 'll_MD definitely_RB be_VB back_RB !_.
+I_PRP want_VBP to_TO try_VB the_DT little_JJ creme_NN filled_VBN donuts_NNS and_CC other_JJ sandwiches_NNS ._.

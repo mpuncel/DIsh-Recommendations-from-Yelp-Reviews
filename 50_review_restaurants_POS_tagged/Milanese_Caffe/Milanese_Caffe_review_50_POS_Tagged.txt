@@ -1,0 +1,11 @@
+I_PRP 'm_VBP rating_NN this_DT place_NN for_IN bfast_NN b\/c_NN i_FW have_VBP n't_RB eaten_VBN lunch_NN although_IN they_PRP serve_VBP it_PRP up_RP ._.
+I_PRP had_VBD the_DT frittata_NN and_CC it_PRP was_VBD excellent_JJ ._.
+Came_NN with_IN hashbrowns_NNS that_WDT could_MD have_VB been_VBN a_DT little_JJ crispier_NN on_IN the_DT inside_JJ but_CC were_VBD perfect_JJ on_IN the_DT outside_NN ._.
+The_DT toast_NN was_VBD a_DT little_JJ small_JJ but_CC fine_JJ ._.
+Coffee_NNP -_: got_VBD the_DT dark_JJ roast_NN and_CC thought_VBD it_PRP was_VBD a_DT little_JJ weak\/watery_JJ ._.
+Location_NNP -_: hidden_VBN away_RB if_IN you_PRP 're_VBP not_RB used_VBN to_TO the_DT area_NN ._.
+Can_MD get_VB overshadowed_VBN by_IN the_DT legendary_JJ Ann_NNP 's_POS across_IN the_DT street_NN ._.
+Price_NN :_: decent_JJ b\/c_JJ it_PRP had_VBD large_JJ portions_NNS :_: Space_NNP :_: TONS_NNS of_IN it_PRP ._.
+no_DT problem_NN getting_VBG a_DT table_NN here_RB usually_RB ._.
+We_PRP got_VBD one_CD right_NN next_JJ to_TO the_DT window_NN where_WRB there_EX was_VBD a_DT lot_NN of_IN natural_JJ light_NN ._.
+And_CC it_PRP 's_VBZ very_RB clean_JJ and_CC well_RB maintained_VBD ._.

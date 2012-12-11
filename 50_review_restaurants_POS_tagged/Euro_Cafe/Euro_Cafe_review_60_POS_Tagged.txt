@@ -1,0 +1,5 @@
+Great_NNP little_JJ cafe_NN with_IN a_DT diverse_JJ menu_NN ._.
+I_PRP had_VBD the_DT Caldo_NNP Verde_NNP Soup_NNP and_CC Bifana_NNP Panini_NNP --_: both_DT were_VBD excellent_JJ ._.
+Took_VBD a_DT bread_NN pudding_NN home_NN --_: which_WDT would_MD have_VB been_VBN perfect_JJ if_IN it_PRP had_VBD raisins_NNS and_CC pecans_NNS ._.
+Service_NNP was_VBD prompt_JJ and_CC friendly_JJ ._.
+Wish_NNP I_PRP lived_VBD closer_RBR --_: had_VBD a_DT meeting_NN there_RB with_IN someone_NN from_IN Big_JJ Bear_NNP --_: would_MD go_VB there_RB again_RB if_IN needed_VBN to_TO met_VBD her_PRP$ again_RB ._.

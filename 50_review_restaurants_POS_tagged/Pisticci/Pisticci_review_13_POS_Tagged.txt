@@ -1,0 +1,5 @@
+I_PRP love_VBP the_DT freshness_NN of_IN Pisticci_NNP 's_POS food_NN ._.
+The_DT service_NN is_VBZ always_RB excellent_JJ ._.
+I_PRP think_VBP the_DT prices_NNS are_VBP high_JJ for_IN Italian_JJ food_NN ,_, and_CC the_DT neighborhood_NN ._.
+Despite_IN that_DT we_PRP used_VBD to_TO visit_VB often_RB ._.
+Now_RB that_IN Bettalona_NNP is_VBZ open_JJ we_PRP do_VBP n't_RB go_VB to_TO Pisticci_NNP anymore_RB ._.

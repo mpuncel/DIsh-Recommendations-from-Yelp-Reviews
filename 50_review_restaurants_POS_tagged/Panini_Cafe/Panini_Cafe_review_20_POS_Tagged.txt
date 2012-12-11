@@ -1,0 +1,1 @@
+Great_NNP find_VB for_IN great_JJ quality_NN food_NN !_.

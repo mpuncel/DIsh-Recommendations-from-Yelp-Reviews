@@ -1,0 +1,7 @@
+The_DT food_NN is_VBZ AMAZING_VBG !_.
+I_PRP recommend_VBP the_DT burger_NN with_IN egg_NN on_IN it_PRP ._.
+Their_PRP$ caprese_NN salad_NN with_IN pesto_NN is_VBZ yummy_JJ ._.
+For_IN dessert_NN ,_, their_PRP$ bread_NN pudding_NN wants_VBZ you_PRP going_VBG back_RB for_IN more_JJR ._.
+It_PRP 's_VBZ dangerously_RB good_JJ ._.
+The_DT atmosphere_NN is_VBZ lovely_JJ ,_, the_DT service_NN is_VBZ great_JJ ,_, the_DT wine_NN is_VBZ perfect_JJ with_IN the_DT food_NN ._.
+It_PRP is_VBZ definitely_RB a_DT must_MD try_VB !_.

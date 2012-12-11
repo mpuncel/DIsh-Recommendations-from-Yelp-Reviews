@@ -1,0 +1,9 @@
+I_PRP am_VBP a_DT new_JJ yorker_NN and_CC I_PRP love_VBP pizza_NN ._.
+Lets_VBZ get_VB one_CD thing_NN straight_RB ,_, there_EX is_VBZ no_DT true_JJ NY_NN pizza_NN here_RB -LRB-_-LRB- Atlanta_NNP -RRB-_-RRB- and_CC Antico_NNP is_VBZ not_RB NY_NNP pizza_NN ,_, its_PRP$ better_JJR ._.
+As_IN Giovanni_NNP described_VBD ''_'' this_DT is_VBZ street_NN food_NN from_IN Naples_NNP ''_'' ._.
+This_DT also_RB is_VBZ the_DT reason_NN there_EX are_VBP no_DT places_NNS to_TO sit_VB ,_, its_PRP$ is_VBZ supposed_VBN to_TO be_VB quick_JJ ,_, which_WDT is_VBZ why_WRB it_PRP only_RB takes_VBZ 3_CD minutes_NNS to_TO make_VB a_DT pie_NN ._.
+All_DT of_IN the_DT ingredients_NNS are_VBP imported_VBN from_IN Italy_NNP -LRB-_-LRB- minus_CC the_DT water_NN -RRB-_-RRB- ,_, in_IN fact_NN while_IN I_PRP was_VBD there_RB a_DT random_JJ dude_NN walked_VBD in_IN with_IN 2_CD boxes_NNS of_IN Buffalo_NNP Mozz_NNP ,_, right_RB from_IN Italy_NNP !_.
+We_PRP ordered_VBD the_DT Margarita_NNP and_CC the_DT Pomodorini_NNP -LRB-_-LRB- very_RB similar_JJ -RRB-_-RRB- ,_, and_CC they_PRP were_VBD both_DT amazing_JJ ._.
+If_IN you_PRP hang_VBP there_RB to_TO eat_VB ,_, they_PRP have_VBP minced_VBN fresh_JJ garlic_NN ,_, cheese_NN ,_, oregano_NN ,_, and_CC great_JJ little_JJ hot_JJ peppers_NNS -LRB-_-LRB- I_PRP found_VBD them_PRP sweet_JJ -RRB-_-RRB- ._.
+The_DT pizza_NN was_VBD perfect_JJ ,_, all_DT of_IN the_DT flavors_NNS melded_VBD together_RB like_IN a_DT bit_NN of_IN heaven_NN !_.
+Definitely_RB stay_VB there_RB and_CC eat_VB and_CC enjoy_VB the_DT great_JJ hospitality_NN ._.

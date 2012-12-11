@@ -1,0 +1,6 @@
+Took_NNP my_PRP$ husband_NN to_TO Gratzi_NNP for_IN a_DT birthday_NN lunch_NN ._.
+Food_NNP was_VBD pricey_JJ but_CC decent_JJ --_: nothing_NN special_JJ ._.
+Atmosphere_NN was_VBD comfortable_JJ ._.
+We_PRP ordered_VBD the_DT Margherita_NNP Pizza_NNP ,_, Caprese_NNP Salad_NNP ,_, Squash_NNP ravioli_NNS ,_, and_CC the_DT veal_NN Picatta_NNP ._.
+Food_NNP was_VBD ok_RB ,_, service_NN was_VBD terrible_JJ -_: but_CC I_PRP think_VBP it_PRP might_MD have_VB been_VBN the_DT young_JJ woman_NN 's_POS first_JJ day_NN as_IN she_PRP did_VBD n't_RB seem_VB familiar_JJ with_IN the_DT menu\/seemed_VBN very_RB nervous_JJ ,_, and_CC got_VBD our_PRP$ order_NN wrong_JJ ._.
+Overall_JJ is_VBZ a_DT typical_JJ Main-Street_NNP Ventures_NNP restaurant_NN ..._: overpriced_VBN mediocrity_NN ._.

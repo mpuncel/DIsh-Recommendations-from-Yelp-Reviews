@@ -1,0 +1,28 @@
+Sam_NNP :_: So_RB this_DT is_VBZ your_PRP$ new_JJ diet_NN ._.
+Here_RB is_VBZ your_PRP$ list_NN ._.
+-LRB-_-LRB- hands_NNS girl_NN the_DT list_NN -RRB-_-RRB- Sam_NNP :_: That_WDT is_VBZ all_DT you_PRP are_VBP allowed_VBN to_TO eat_VB ,_, if_IN its_PRP$ not_RB on_IN the_DT list_NN ,_, forget_VB about_IN it_PRP ._.
+Client_NN :_: So_CC what_WP am_VBP I_PRP supposed_VBN to_TO eat_VB tonight_NN for_IN dinner_NN ?_.
+Sam_NNP :_: A_NNP bowl_NN of_IN hot_JJ water_NN with_IN a_DT mint_NN leaf_NN in_IN it_PRP ._.
+Client_NN :_: What_WP ??_VBZ That_DT wo_MD n't_RB be_VB enough_RB !_.
+Sam_NNP :_: Who_WP 's_VBZ the_DT nutritionist_NN here_RB ,_, you_PRP or_CC me_PRP ?_.
+Client_NN :_: So_CC what_WP are_VBP you_PRP going_VBG to_TO eat_VB ?_.
+Sam_NNP :_: I_PRP am_VBP going_VBG to_TO go_VB home_NN and_CC eat_VB a_DT handful_NN of_IN raisins_NNS ,_, some_DT sunflower_NN seeds_NNS ,_, and_CC a_DT shot_NN of_IN olive_JJ oil_NN ._.
+Client_NN :_: How_WRB can_MD you_PRP live_VB like_IN that_DT ?_.
+Sam_NNP :_: I_PRP 'm_VBP a_DT personal_JJ trainer_NN ,_, its_PRP$ how_WRB we_PRP roll_VBP !_.
+-LRB-_-LRB- 20_CD mins_NNS later_RB at_IN Pasta_NNP Roma_NNP -RRB-_-RRB- Cashier_NNP :_: So_IN you_PRP are_VBP getting_VBG 2_CD orders_NNS of_IN spaghetti_NNS carbonara_NN ,_, an_DT order_NN of_IN fried_JJ calamari_NNS ,_, extra_JJ bread_NN ,_, and_CC a_DT large_JJ pepsi_NN ._.
+Sam_NNP :_: That_WDT is_VBZ correct_JJ ._.
+Cashier_NN :_: Did_VBD the_DT girl_NN want_VB anything_NN to_TO drink_VB as_RB well_RB ?_.
+Sam_NNP :_: No_UH this_DT is_VBZ all_DT for_IN me_PRP ._.
+Cashier_NN :_: You_PRP mean_VBP she_PRP is_VBZ n't_RB going_VBG to_TO have_VB any_DT of_IN this_DT ?_.
+Sam_NNP :_: No_UH ,_, she_PRP is_VBZ just_RB going_VBG to_TO watch_VB me_PRP eat_VB this_DT ._.
+-LRB-_-LRB- After_IN bringing_VBG the_DT food_NN over_IN to_TO the_DT table_NN ala_NN carte_NN style_NN -RRB-_-RRB- Client_NN 2_CD :_: So_RB why_WRB am_VBP I_PRP watching_VBG you_PRP eat_VBP this_DT and_CC not_RB get_VB to_TO have_VB any_DT ?_.
+Sam_NNP :_: It_PRP 's_VBZ part_NN of_IN your_PRP$ diet_NN ._.
+Client_NN 2_CD :_: How_WRB is_VBZ that_IN ?_.
+Sam_NNP :_: It_PRP 's_VBZ easy_JJ ._.
+Like_IN watch_VB this_DT ..._: -LRB-_-LRB- Sam_NNP takes_VBZ a_DT big_JJ bite_NN out_IN of_IN his_PRP$ pasta_NN -RRB-_-RRB- Sam_NNP -LRB-_-LRB- with_IN mouth_NN full_JJ -RRB-_-RRB- :_: See_VB you_PRP get_VB to_TO see_VB me_PRP eat_VB it_PRP and_CC I_PRP tell_VBP you_PRP how_WRB good_JJ it_PRP is_VBZ ,_, and_CC yes_RB its_PRP$ really_RB good_JJ ,_, mmm_VB the_DT bread_NN too_RB ,_, oh_UH man_UH the_DT calamari_NN ,_, okay_JJ ,_, and_CC you_PRP get_VBP to_TO feel_VB like_IN you_PRP are_VBP eating_VBG it_PRP with_IN me_PRP based_VBN on_IN my_PRP$ descriptions_NNS and_CC facial_JJ expressions_NNS and_CC just_RB ._.
+mmmmmmmm_NN noises_VBZ I_PRP make_VBP ._.
+And_CC it_PRP 's_VBZ none_NN of_IN the_DT calories_NNS of_IN actually_RB eating_VBG it_PRP ._.
+All_DT pros_NNS ,_, no_DT cons_NNS ._.
+I_PRP am_VBP sacrificing_VBG my_PRP$ body_NN to_TO save_VB yours_NNS ._.
+Client_NN 2_CD :_: This_DT will_MD help_VB me_PRP lose_VB weight_NN ?_.
+Sam_NNP :_: You_PRP can_MD thank_VB me_PRP later_RB ._.

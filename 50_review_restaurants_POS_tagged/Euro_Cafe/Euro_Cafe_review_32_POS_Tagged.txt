@@ -1,0 +1,2 @@
+LOVE_NN this_DT place_NN !_.
+Try_VB the_DT tuna_NN salad_NN YUM_NNP !_.

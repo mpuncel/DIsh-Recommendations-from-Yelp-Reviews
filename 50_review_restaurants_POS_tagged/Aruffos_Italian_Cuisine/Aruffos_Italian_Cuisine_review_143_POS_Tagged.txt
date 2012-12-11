@@ -1,0 +1,3 @@
+Started_VBN with_IN the_DT seafood_NN bisque_NN -LRB-_-LRB- very_RB good_JJ -RRB-_-RRB- and_CC the_DT fresh_JJ bread_NN --_: not_RB like_IN any_DT bread_NN I_PRP 've_VBP had_VBN at_IN any_DT restaurant_NN ,_, it_PRP 's_VBZ super_JJ good_JJ ._.
+I_PRP had_VBD the_DT king_NN crab_NN ravioli_NNS which_WDT was_VBD great_JJ ,_, others_NNS had_VBD the_DT shrimp_NN scampi_NN linguini_NNS -LRB-_-LRB- also_RB great_JJ -RRB-_-RRB- and_CC the_DT eggplant_NN parmesan_NN -LRB-_-LRB- good_JJ -RRB-_-RRB- ._.
+Nice_JJ atmosphere_NN ,_, very_RB chill_NN ._.

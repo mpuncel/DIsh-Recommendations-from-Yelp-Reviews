@@ -1,0 +1,4 @@
+It_PRP 's_VBZ OK_JJ ._.
+Nice_JJ atmosphere_NN ,_, and_CC good_JJ service_NN ,_, but_CC the_DT food_NN was_VBD n't_RB that_IN great_JJ ._.
+At_IN my_PRP$ table_NN of_IN 4_CD ,_, we_PRP had_VBD two_CD different_JJ personal_JJ pizzas_NNS ,_, a_DT steak_NN ,_, and_CC I_PRP got_VBD the_DT hazelnut_NN angel_NN hair_NN pasta_NN ._.
+Mine_NNP was_VBD pretty_RB good_JJ ,_, but_CC everyone_NN else_RB 's_POS was_VBD just_RB OK_JJ ._.

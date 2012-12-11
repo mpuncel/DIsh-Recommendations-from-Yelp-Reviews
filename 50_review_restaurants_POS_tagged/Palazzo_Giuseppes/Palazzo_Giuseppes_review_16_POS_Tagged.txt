@@ -1,0 +1,8 @@
+Outstanding_JJ food_NN ,_, great_JJ wait_NN staff_NN ,_, delightful_JJ ambience_NN --_: yes_UH ,_, we_PRP liked_VBD this_DT place_NN ._.
+Extraordinarily_RB tasty_JJ appetizer_NN of_IN figs_NNS ,_, pancetta_NN ,_, and_CC goat_NN cheese_NN ._.
+Everything_NN else_RB was_VBD equally_RB good_JJ :_: cavatelli_NNS with_IN sea_NN food_NN ;_: pappardelle_NN with_IN ragu_NN ;_: soup_NN and_CC salad_NN ;_: bread_NN and_CC tapendade_NN ._.
+Chianti_NNS and_CC pinot_NN grigio_NN by_IN the_DT glass_NN were_VBD quite_RB satisfactory_JJ ._.
+We_PRP sat_VBD outside_IN ._.
+The_DT inside_JJ patio_NN looked_VBD quite_RB inviting_VBG ,_, as_RB well_RB ,_, and_CC many_JJ other_JJ folks_NNS opted_VBD for_IN the_DT more_RBR elegant_JJ interior_JJ seating_NN ._.
+Wait_VB staff_NN were_VBD uniformly_RB pleasant_JJ ,_, efficient_JJ ,_, and_CC non-obtrusive_JJ ._.
+Price_NN was_VBD moderate_JJ to_TO slightly_RB expensive_JJ ,_, but_CC certainly_RB was_VBD reasonable_JJ for_IN the_DT quality_NN of_IN the_DT food_NN and_CC dining_VBG experience_NN ._.

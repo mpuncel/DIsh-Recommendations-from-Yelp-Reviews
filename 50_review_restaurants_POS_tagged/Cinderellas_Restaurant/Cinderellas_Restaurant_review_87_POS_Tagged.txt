@@ -1,0 +1,4 @@
+This_DT is_VBZ a_DT decent_JJ place_NN for_IN pizzas_NNS and_CC subs_NNS ._.
+Pasta_NN 's_POS are_VBP mediocre_JJ ._.
+Do_VBP n't_RB expect_VB anything_NN great_JJ ,_, but_CC def_NN not_RB bad_JJ either_RB ._.
+Worth_NNP a_DT try_NN ._.

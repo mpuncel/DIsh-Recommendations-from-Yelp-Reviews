@@ -1,0 +1,4 @@
+Mama_NNP Palma_NNP 's_POS is_VBZ delicious_JJ ,_, gourmet_NN pizza_NN ._.
+They_PRP have_VBP so_RB many_JJ options_NNS -_: toppings_NNS ,_, cheeses_NNS ,_, salads_NNS ,_, and_CC pastas_NNS ._.
+Everything_NN I_PRP 've_VBP tried_VBN there_EX is_VBZ delish_JJ ._.
+Also_RB ,_, the_DT atmosphere_NN is_VBZ much_JJ nicer_JJR than_IN your_PRP$ average_JJ pizza_NN joint_NN ._.

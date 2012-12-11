@@ -1,0 +1,4 @@
+Authentic_NNP ,_, Authentic_NNP ,_, Authentic_NNP ._.
+Fabulous_NNP espresso_NN ,_, fresh_JJ pastries_NNS ,_, enough_RB crowd_NN energy_NN to_TO enjoy_VB but_CC not_RB overwhelm_VB you_PRP ._.
+The_DT line_NN was_VBD 8-9_CD people_NNS the_DT last_JJ time_NN I_PRP went_VBD to_TO Tootsies_NNP ,_, but_CC I_PRP only_RB waited_VBD about_IN 6_CD or_CC 7_CD minutes_NNS ._.
+I_PRP have_VBP n't_RB tried_VBN anything_NN but_CC espresso_NN and_CC pastries_NNS ,_, but_CC those_DT are_VBP fabulous_JJ ._.

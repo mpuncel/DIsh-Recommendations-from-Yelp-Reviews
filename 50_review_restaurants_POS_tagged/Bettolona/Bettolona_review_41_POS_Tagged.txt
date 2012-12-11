@@ -1,0 +1,2 @@
+I_PRP liked_VBD the_DT bolognese_JJ linguine_NN ._.
+It_PRP was_VBD better_JJR than_IN the_DT spaghetti_NNS at_IN Pistucci_NNP ,_, in_IN my_PRP$ opinion_NN ._.

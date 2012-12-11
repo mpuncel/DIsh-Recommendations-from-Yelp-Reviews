@@ -1,0 +1,3 @@
+Fettuccine_NNP al_JJ sugo_NN di_FW carni_FW miste_FW :_: fettuccine_JJ pasta_NN with_IN slowly_RB braised_VBN chicken_NN ,_, duck_NN ,_, veal_NN ,_, and_CC beef_NN in_IN an_DT herbed_JJ meat_NN sauce_NN ._.
+The_DT texture_NN of_IN the_DT pasta_NN was_VBD perfect_JJ ._.
+Sauce_NN was_VBD delicious_JJ !_.

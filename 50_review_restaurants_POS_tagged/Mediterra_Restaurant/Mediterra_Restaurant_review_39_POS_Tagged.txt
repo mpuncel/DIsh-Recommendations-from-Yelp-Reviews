@@ -1,0 +1,7 @@
+Location_NNP is_VBZ perfect_JJ in_IN spring_NN and_CC fall_NN ._.
+Food_NNP is_VBZ not_RB consistent_JJ ,_, not_RB sure_JJ what_WP it_PRP wants_VBZ to_TO be_VB ,_, way_NN too_RB many_JJ spices_NNS that_WDT do_VBP n't_RB work_VB very_RB well_RB together_RB ._.
+In_IN case_NN the_DT Chef_NNP reads_VBZ the_DT reviews_NNS ;_: the_DT octopus_NN salad_NN was_VBD bitter_JJ ,_, the_DT salad_NN had_VBD too_RB many_JJ things_NNS in_IN it_PRP ,_, the_DT bruscetta_NN was_VBD n't_RB tasty_JJ ._.
+My_PRP$ last_JJ dinner_NN there_EX was_VBD overpriced_VBN for_IN what_WP we_PRP had_VBD and_CC for_IN the_DT taste_NN ._.
+I_PRP am_VBP always_RB happy_JJ to_TO pay_VB if_IN the_DT food_NN is_VBZ good_JJ but_CC in_IN this_DT case_NN it_PRP was_VBD not_RB worth_JJ it_PRP ._.
+Bread_NN and_CC olive_JJ oil_NN are_VBP great_JJ ,_, drinks_NNS are_VBP good_JJ ._.
+I_PRP wish_VBP I_PRP could_MD have_VB written_VBN a_DT better_JJR review_NN because_IN there_EX are_VBP n't_RB too_RB many_JJ good_JJ places_NNS with_IN potential_JJ in_IN this_DT area_NN ._.

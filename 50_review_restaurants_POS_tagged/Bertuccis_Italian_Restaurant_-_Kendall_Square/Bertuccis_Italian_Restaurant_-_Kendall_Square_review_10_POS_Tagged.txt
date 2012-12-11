@@ -1,0 +1,7 @@
+I_PRP love_VBP Bertucci_NNP 's_POS pizza_NN ,_, their_PRP$ sangria_NN ,_, and_CC their_PRP$ rolls_NNS ._.
+All_DT three_CD were_VBD great_JJ at_IN this_DT location_NN ._.
+I_PRP am_VBP not_RB fond_JJ of_IN this_DT particular_JJ location_NN ,_, however_RB ,_, because_IN of_IN the_DT service_NN ._.
+Do_VBP n't_RB get_VB me_PRP wrong_JJ ,_, no_DT one_NN was_VBD rude_JJ ,_, but_CC it_PRP seemed_VBD a_DT little_JJ off_RP ._.
+Also_RB ,_, when_WRB I_PRP went_VBD up_RB to_TO the_DT take-out_JJ guy_NN to_TO ask_VB if_IN he_PRP could_MD break_VB two_CD twenties_NNS so_RB that_IN we_PRP could_MD pay_VB our_PRP$ bill_NN ,_, he_PRP immediately_RB got_VBD all_DT defensive_JJ about_IN how_WRB he_PRP did_VBD n't_RB if_IN know_VB he_PRP had_VBD change_NN ,_, etc._FW ._.
+Again_RB ,_, he_PRP was_VBD n't_RB rude_JJ ,_, but_CC it_PRP was_VBD a_DT little_JJ off-putting_JJ ._.
+This_DT is_VBZ not_RB the_DT first_JJ Bertucci_NNP 's_POS location_NN I_PRP would_MD choose_VB ,_, but_CC if_IN you_PRP are_VBP in_IN Central_NNP Square\/MIT-land_NNP and_CC Bertucci_NNP 's_POS is_VBZ what_WP you_PRP want_VBP ,_, then_RB it_PRP 's_VBZ fine_JJ ._.

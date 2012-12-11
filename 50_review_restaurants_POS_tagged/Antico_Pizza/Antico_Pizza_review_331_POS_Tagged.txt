@@ -1,0 +1,5 @@
+Ringraziarla_NNP molto_NN !_.
+i_FW gusti_FW di_FW cibo_FW come_VB a_DT casa_NN !!_NN Non_NNP ho_NNP mai_FW provato_FW niente_FW ama_FW questo_FW ._.
+È_NNP il_NN cibo_NN reale_NN italiano_NN ._.
+Sostenere_NNP in_IN a_DT casa_NN ,_, la_NNP madre_FW fa_FW sempre_FW la_FW pizza_NN con_NN la_NNP crosta_NN bruciata_NN ._.
+Questo_NNP è_VBD giusto_JJ come_VBN esso_NN !_.

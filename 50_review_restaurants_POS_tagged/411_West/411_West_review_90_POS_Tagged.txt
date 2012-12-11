@@ -1,0 +1,6 @@
+cute_JJ beautiful_JJ place_NN in_IN UNC_NNP !_.
+I_PRP got_VBD the_DT crab_NN with_IN seafood_NN pasta_NN called_VBN THE_DT CRAP_NN ._.
+The_DT lemon_NN linguine_NN also_RB looked_VBD amazing_JJ with_IN huge_JJ scallops_NNS ._.
+The_DT appetizer_NN of_IN pita_NN with_IN dip_NN and_CC also_RB the_DT calamari_NNS were_VBD great_JJ but_CC needed_VBN 2_CD orders_NNS of_IN each_DT for_IN our_PRP$ table_NN of_IN 11_CD ._.
+There_EX were_VBD some_DT great_JJ red_JJ wines_NNS ,_, the_DT service_NN was_VBD spot_NN on_IN ,_, and_CC also_RB the_DT pries_NNS were_VBD 10-16_CD depending_VBG on_IN half_NN or_CC full_JJ portions_NNS ._.
+the_DT half_NN portions_NNS were_VBD enough_RB for_IN one_CD person_NN ._.

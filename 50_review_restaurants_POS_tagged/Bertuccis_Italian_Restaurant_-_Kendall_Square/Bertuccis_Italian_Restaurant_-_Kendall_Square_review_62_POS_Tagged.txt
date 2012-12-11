@@ -1,0 +1,2 @@
+The_DT Ultimate_NNP Bertucci_NNP pizza_NN is_VBZ a_DT thing_NN of_IN wonder_NN ._.
+Awe_SYM -_: delicious_JJ ._.

@@ -1,0 +1,7 @@
+I_PRP ordered_VBD wrong_JJ ..._: I_PRP got_VBD the_DT white_JJ truffle_NN pizza_NN and_CC it_PRP was_VBD very_RB plain_JJ tasting_NN ._.
+I_PRP was_VBD with_IN a_DT large_JJ group_NN so_IN I_PRP was_VBD able_JJ to_TO try_VB several_JJ pizzas_NNS ._.
+The_DT margarita_NN and_CC the_DT pesto_JJ pizzas_NNS were_VBD both_DT more_JJR flavorful_JJ then_RB mine_NN ._.
+They_PRP definitely_RB get_VBP extra_JJ points_NNS for_IN serving_VBG LA_NNP Creamery_NNP gelato_NN ._.
+I_PRP love_VBP that_IN stuff_NN !!_CD Particularly_RB the_DT milk_NN chocolate_NN and_CC salty_NN caramel_NN ._.
+The_DT line_NN was_VBD insane_JJ !!_NN Despite_IN the_DT pizzas_NNS being_VBG made_VBN very_RB quickly_RB the_DT line_NN was_VBD a_DT good_JJ 25_CD minutes_NNS long_RB ._.
+I_PRP will_MD definitely_RB be_VB back_RB at_IN some_DT point_NN !_.

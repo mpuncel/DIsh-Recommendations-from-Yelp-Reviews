@@ -1,0 +1,3 @@
+This_DT place_NN is_VBZ really_RB nice_JJ and_CC seems_VBZ to_TO be_VB really_RB popular_JJ especially_RB for_IN parents_NNS of_IN the_DT Claremont_NNP College_NNP students_NNS ._.
+I_PRP got_VBD some_DT kind_NN of_IN eggplant_NN dish_NN that_IN they_PRP said_VBD was_VBD like_IN Eggplant_NNP Parmesan_NNP but_CC it_PRP was_VBD n't_RB it_PRP was_VBD more_RBR like_IN Eggplant_NNP Lasagna_NNP ,_, but_CC other_JJ than_IN that_DT ,_, I_PRP really_RB liked_VBD it_PRP ._.
+The_DT waiters_NNS were_VBD nice_JJ and_CC it_PRP was_VBD a_DT great_JJ place_NN to_TO eat_VB with_IN parents_NNS ._.

@@ -1,0 +1,3 @@
+Easily_RB the_DT best_JJS pizza_NN in_IN Atlanta_NNP ._.
+We_PRP recently_RB moved_VBD from_IN NY_NNP to_TO Atlanta_NNP about_IN a_DT year_NN ago_RB --_: the_DT pizza_NN at_IN Antico_NNP Pizza_NNP rivals_VBZ Grimaldi_NNP 's_POS and_CC Patsy_NNP 's_POS in_IN NY_NNP ._.
+Hands_NNS down_IN the_DT best_JJS pizza_NN in_IN Atlanta_NNP ._.

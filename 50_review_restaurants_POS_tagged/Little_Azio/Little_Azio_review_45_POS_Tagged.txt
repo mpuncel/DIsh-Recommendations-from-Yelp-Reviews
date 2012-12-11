@@ -1,0 +1,24 @@
+Atmosphere_NN :_: Super_NNP casual_JJ ._.
+Order_NNP at_IN counter_RB ,_, fill_VB your_PRP$ own_JJ drinks_NNS ,_, pick_VBP up_RP your_PRP$ own_JJ utensils_NNS ,_, then_RB they_PRP bring_VBP the_DT food_NN to_TO you_PRP ._.
+Patio_NNP seating_VBG available_JJ too_RB ._.
+Parking_NN in_IN the_DT back_NN with_IN optional_JJ valet_NN ._.
+Food_NN :_: A_DT bit_NN oily_RB ,_, but_CC not_RB bad_JJ ._.
+We_PRP ordered_VBD :_: 1_LS ._.
+Truffle_NNP pizza_NN -_: basically_RB white_JJ pizza_NN with_IN mushrooms_NNS ._.
+Thin_JJ crust_NN style_NN -_: blah_NN ._.
+I_PRP 'm_VBP a_DT thick_JJ crust_NN person_NN ,_, so_IN it_PRP was_VBD n't_RB to_TO my_PRP$ liking_NN ,_, but_CC tasted_VBD okay_JJ ._.
+2_LS ._.
+Veggie_NNP panino_NN -_: cheese_NN ,_, eggplant_NN ,_, roasted_JJ peppers_NNS ,_, mushrooms_NNS on_IN white_JJ bread_NN ._.
+This_DT I_PRP liked_VBD !_.
+I_PRP think_VBP it_PRP might_MD have_VB been_VBN the_DT jalapeno_JJ mayo_NN ._.
+Comes_VBZ with_IN a_DT serving_VBG of_IN pasta_NN salad_NN which_WDT was_VBD okay_JJ -_: too_RB many_JJ olives_NNS and_CC not_RB very_RB flavorful_JJ ._.
+Sandwich_NN was_VBD pretty_RB big_JJ -_: I_PRP was_VBD surprised_VBN by_IN the_DT size_NN ._.
+Big_NNP enough_RB for_IN 2_CD small_JJ people_NNS ._.
+On_IN another_DT occasion_NN I_PRP ordered_VBD :_: 3_LS ._.
+Florentine_SYM -_: spinach_NN puree_NN with_IN garlic_JJ and_CC ricotta_NN -_: yum_NN !_.
+Came_NN with_IN a_DT piece_NN of_IN bread_NN ._.
+It_PRP was_VBD good_JJ but_CC can_MD we_PRP say_VB carb_NN overload_NN ?_.
+I_PRP would_MD make_VB this_DT at_IN home_NN and_CC add_VB some_DT veggies_NNS ._.
+Prices_NNS :_: average_JJ $_$ 7.50_CD per_IN dish_NN BUT_NNP we_PRP used_VBD a_DT buy_NN 1_CD get_VBP 1_CD free_JJ coupon_NN you_PRP can_MD get_VB in_IN the_DT mail_NN !_.
+Service_NNP :_: no_DT complaints_NNS ._.
+Conclusion_NN :_: I_PRP like_VBP Little_JJ Azio_NNP ,_, and_CC it_PRP 's_VBZ good_JJ for_IN a_DT casual_JJ lunch_NN if_IN you_PRP have_VBP some_DT extra_JJ calories_NNS to_TO spend_VB ._.

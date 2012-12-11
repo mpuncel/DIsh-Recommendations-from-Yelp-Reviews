@@ -1,0 +1,9 @@
+I_PRP expected_VBD Pasta_NNP Bene_NNP to_TO be_VB overrun_VBN with_IN college_NN students_NNS during_IN dinner_NN rush_NN ,_, but_CC there_EX was_VBD actually_RB a_DT good_JJ mixture_NN of_IN students_NNS and_CC non-students_NNS ._.
+The_DT restaurant_NN is_VBZ pretty_RB big_JJ and_CC roomy_NN ._.
+So_RB ,_, this_DT is_VBZ a_DT good_JJ place_NN for_IN big_JJ and_CC small_JJ parties_NNS ._.
+To_TO me_PRP ,_, Pasta_NNP Bene_NNP is_VBZ a_DT mix_NN between_IN the_DT higher_JJR quality_NN Italian_JJ restaurants_NNS and_CC the_DT fast-food_NN type_NN Italian_JJ restaurants_NNS ._.
+High_JJ quality_NN because_IN the_DT quality_NN of_IN the_DT food_NN is_VBZ superb_JJ ,_, and_CC fast-food_NN type_NN because_IN you_PRP order_NN and_CC pay_NN at_IN the_DT counter_NN when_WRB you_PRP first_RB enter_VBP ._.
+I_PRP ordered_VBD the_DT Gamberetto_NNP ,_, which_WDT is_VBZ fettuccini_NNS with_IN shrimp_NN and_CC mushroom_NN in_IN tomato-cream_JJ sauce_NN ._.
+The_DT Gamberetoo_NNP was_VBD a_DT little_JJ bit_NN on_IN the_DT salty_NN side_NN ,_, but_CC overall_JJ very_RB tasty_JJ ._.
+In_IN addition_NN ,_, the_DT portions_NNS were_VBD very_RB generous_JJ ._.
+I_PRP could_MD barely_RB finish_VB it_PRP !!_VB Overall_JJ ,_, Pasta_NNP Bene_NNP offers_VBZ good_JJ food_NN quality_NN ,_, service_NN ,_, and_CC atmosphere_NN !_.

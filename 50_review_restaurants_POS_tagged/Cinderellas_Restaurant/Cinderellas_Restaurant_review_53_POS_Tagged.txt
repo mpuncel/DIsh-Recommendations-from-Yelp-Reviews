@@ -1,0 +1,4 @@
+I_PRP ordered_VBD a_DT salad_NN ;_: other_JJ person_NN ordered_VBD a_DT calzone_NN ._.
+The_DT server_NN asked_VBD us_PRP if_IN we_PRP wanted_VBD all_DT of_IN the_DT food_NN to_TO come_VB out_RP at_IN the_DT same_JJ time_NN ,_, but_CC she_PRP brought_VBD the_DT salad_NN out_IN 15_CD minutes_NNS before_IN the_DT calzone_NN anyway_RB ._.
+The_DT salad_NN had_VBD iceberg_NN lettuce_NN -LRB-_-LRB- yuck_NN -RRB-_-RRB- and_CC the_DT green_JJ pepper_NN slices_NNS had_VBD brown_JJ spots_NNS all_DT over_IN them_PRP that_IN they_PRP cut_VBD away_RB in_IN some_DT places_NNS and_CC neglected_VBN to_TO in_IN others_NNS ._.
+Disappointing_JJ ._.

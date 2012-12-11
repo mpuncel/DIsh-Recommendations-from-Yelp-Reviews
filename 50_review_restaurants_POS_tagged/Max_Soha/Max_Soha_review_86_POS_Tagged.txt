@@ -1,0 +1,4 @@
+Have_NNP always_RB enjoyed_VBD dining_NN here_RB ._.
+Its_PRP$ an_DT amazing_JJ value_NN for_IN great_JJ homemade_NN pasta_NN ._.
+Would_MD be_VB 5_CD stars_NNS ,_, but_CC I_PRP 'm_VBP a_DT bit_NN sketched_VBD out_RP by_IN their_PRP$ not_RB so_RB amazing_JJ health_NN inspection_NN record_NN ._.
+search_NN for_IN restaurantinspection_NN nyc_NN

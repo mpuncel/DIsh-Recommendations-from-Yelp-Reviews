@@ -1,0 +1,5 @@
+The_DT food_NN is_VBZ as_RB good_JJ as_IN it_PRP looks_VBZ ,_, but_CC served_VBD in_IN small_JJ quantities_NNS ;_: Everything_NN is_VBZ ``_`` tapas_NNS ''_'' style_NN ._.
+The_DT prices_NNS are_VBP not_RB cheap_JJ ,_, but_CC you_PRP are_VBP paying_VBG for_IN the_DT quality_NN of_IN the_DT food_NN ._.
+The_DT wine_NN is_VBZ OK_JJ ,_, not_RB spectacular_JJ but_CC did_VBD the_DT trick_NN The_DT ambiance_NN is_VBZ quite_RB annoying_JJ ._.
+Very_RB loud_JJ ,_, a_DT lot_NN of_IN drunk_JJ college_NN students_NNS ._.
+Be_VB warned_VBD -_: VERY_RB LOUD_SYM -_: This_DT place_NN was_VBD worth_JJ trying_VBG it_PRP once_RB ._.

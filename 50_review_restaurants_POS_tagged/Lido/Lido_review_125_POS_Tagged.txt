@@ -1,0 +1,5 @@
+this_DT is_VBZ a_DT little_JJ gem_NN in_IN harlem_NN !_.
+I_PRP went_VBD for_IN a_DT dinner_NN meeting_NN and_CC was_VBD pleasantly_RB surprised_VBN ._.
+great_JJ italian_JJ food_NN ._.
+great_JJ atmosphere_NN ._.
+I_PRP would_MD recommend_VB any_DT of_IN the_DT fish_NN dishes_NNS and_CC their_PRP$ bread_NN pudding_NN was_VBD out_IN of_IN this_DT world_NN !_.

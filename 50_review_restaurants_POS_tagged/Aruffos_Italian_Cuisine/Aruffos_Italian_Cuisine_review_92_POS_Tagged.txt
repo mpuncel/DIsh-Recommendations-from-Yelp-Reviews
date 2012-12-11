@@ -1,0 +1,2 @@
+Love_NNP this_DT place_NN !_.
+Great_JJ food_NN and_CC friendly_JJ people_NNS ._.

@@ -1,0 +1,4 @@
+The_DT Pizzas_NNP are_VBP pretty_RB tasty_JJ well_RB atleast_IN the_DT toppings_NNS that_WDT i_FW chose_VBD to_TO dress_VB it_PRP with_IN ,_, its_PRP$ gourmet_NN pizza_NN so_IN its_PRP$ a_DT little_JJ pricey_JJ ._.
+Give_VB it_PRP a_DT try_NN !_.
+you_PRP 'll_MD eventually_RB go_VB back_RB ._.
+It_PRP 's_VBZ a_DT change_NN from_IN the_DT greasy_JJ pizzas_NNS that_IN we_PRP usually_RB eat_VBP !_.

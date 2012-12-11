@@ -1,0 +1,5 @@
+To_TO be_VB fair_JJ ,_, I_PRP did_VBD not_RB have_VB the_DT pizza_NN ._.
+But_CC I_PRP had_VBD a_DT meatball_NN sandwich_NN and_CC my_PRP$ wife_NN had_VBD a_DT chicken_NN salad_NN ._.
+Both_DT tasted_VBN like_IN pre-made_JJ Sysco_NNP Food_NNP that_WDT was_VBD just_RB warmed_VBN up_RP ._.
+I_PRP do_VBP not_RB recommend_VB this_DT place_NN if_IN you_PRP want_VBP something_NN that_WDT taste_VBP better_JJR than_IN cafeteria_NN food_NN ._.
+But_CC maybe_RB the_DT pizza_NN is_VBZ different_JJ ,_, MAYBE_RB !_.

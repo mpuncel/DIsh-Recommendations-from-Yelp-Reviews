@@ -1,0 +1,5 @@
+I_PRP have_VBP eaten_VBN at_IN over_IN 10_CD different_JJ Buca_NNP di_FW Beppos_NNP around_IN the_DT country_NN ,_, but_CC this_DT remains_VBZ my_PRP$ favorite_NN ._.
+While_IN I_PRP have_VBP found_VBN all_PDT the_DT food_NN good_JJ ,_, the_DT Penne_NNP San_NNP Remo_NNP is_VBZ outstanding_JJ !_.
+My_PRP$ only_JJ complaint_NN would_MD be_VB the_DT cost_NN of_IN the_DT garlic_JJ bread_NN ._.
+It_PRP is_VBZ way_NN out_IN of_IN line_NN compared_VBN to_TO the_DT other_JJ items_NNS ._.
+The_DT atmosphere_NN is_VBZ relaxed_VBN and_CC the_DT service_NN has_VBZ always_RB been_VBN excellent_JJ ._.

@@ -1,0 +1,4 @@
+worst_JJS thing_NN about_IN this_DT place_NN is_VBZ the_DT location_NN ._.
+75\/85_CD to_TO the_DT west_NN side_NN may_MD as_RB well_RB be_VB the_DT perimeter_NN for_IN me_PRP ._.
+that_DT said_VBD ,_, the_DT pizza_NN is_VBZ really_RB really_RB good_JJ ._.
+the_DT pizza_NN part_NN is_VBZ really_RB good_JJ and_CC the_DT crust_NN is_VBZ just_RB plain_JJ phenomenal_JJ ._.

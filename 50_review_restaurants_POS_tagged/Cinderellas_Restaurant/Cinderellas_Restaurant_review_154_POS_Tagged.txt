@@ -1,0 +1,17 @@
+I_PRP really_RB like_IN Cinderella_NNP 's_POS ._.
+Throughout_IN college_NN ,_, I_PRP ate_VBD Cinderella_NNP 's_POS -LRB-_-LRB- both_DT in_IN restaurant_NN and_CC delivery_NN -RRB-_-RRB- quite_RB often_RB ,_, but_CC pretty_RB much_RB only_RB when_WRB I_PRP was_VBD drunk_JJ ._.
+When_WRB drunk_JJ ,_, I_PRP 'd_MD equate_VB their_PRP$ calzones_NNS and_CC pizza_NN to_TO heaven_NN ._.
+But_CC since_IN my_PRP$ drunk_JJ food_NN palate_NN is_VBZ n't_RB very_RB critical_JJ ,_, I_PRP waited_VBD until_IN I_PRP soberly_RB had_VBD their_PRP$ food_NN a_DT few_JJ more_JJR times_NNS before_IN I_PRP reviewed_VBD them_PRP ._.
+-_: Delivery_NN :_: always_RB fast_RB ,_, always_RB nice_JJ ,_, have_VBP never_RB messed_VBN up_RP my_PRP$ order_NN or_CC overcharged_VBN my_PRP$ card_NN ,_, or_CC anything_NN that_IN other_JJ places_NNS do_VBP ._.
+Also_RB ,_, sometimes_RB their_PRP$ delivery_NN guys_NNS are_VBP quite_RB attractive_JJ ,_, which_WDT is_VBZ a_DT +1_CD ._.
+-_: Price_NN :_: cheap_JJ ._.
+Last_JJ night_NN I_PRP ordered_VBD mozzarella_NN sticks_NNS ,_, french_JJ fries_NNS ,_, garlic_JJ bread_NN ,_, a_DT large_JJ pizza_NN with_IN 2_CD toppings_NNS ,_, and_CC a_DT large_JJ sub_NN sandwich_NN ..._: for_IN $_$ 35_CD post-tax_NN ,_, pre-tip_NN ._.
+-_: Pizza_NNP :_: I_PRP actually_RB love_VBP their_PRP$ pizza_NN ._.
+I_PRP think_VBP it_PRP 's_VBZ really_RB good_JJ ,_, and_CC if_IN I_PRP had_VBD to_TO pick_VB somewhere_RB to_TO eat_VB in_IN Central_NNP purely_RB based_VBN on_IN the_DT quality_NN of_IN their_PRP$ pizza_NN ,_, I_PRP 'd_MD pick_VB here_RB ._.
+Two_CD thumbs_NNS up_RB ._.
+-_: Calzones_NNS :_: Amazing_JJ ._.
+-_: Most_JJS other_JJ food_NN :_: neutral_JJ to_TO good_JJ ._.
+Mozzarella_NNP sticks_NNS ,_, garlic_JJ bread_NN ,_, rice_NN ,_, etc._FW are_VBP all_DT solid_JJ ._.
+Not_RB as_IN good_JJ as_IN their_PRP$ pizza_NN or_CC calzones_NNS ,_, but_CC solid_JJ enough_RB ._.
+Overall_RB ,_, a_DT delicious_JJ ,_, dependable_JJ ,_, cheap_JJ place_NN to_TO order_VB pizza_NN and_CC calzones_NNS in_IN Central_NNP ._.
+Especially_RB when_WRB you_PRP 're_VBP drunk_JJ ._.

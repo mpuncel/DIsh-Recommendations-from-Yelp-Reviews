@@ -1,0 +1,5 @@
+Amazing_JJ Italian_JJ restaurant_NN in_IN University_NNP of_IN Columbia_NNP neighborhood_NN ._.
+Intimate_JJ decor_NN from_IN small_JJ party_NN to_TO over_IN 10_CD +_NN ._.
+I_PRP return_VBP to_TO Pisticci_NNP for_IN brunch_NN ,_, lunch_NN and_CC Dinner_NN time_NN after_IN time_NN ._.
+Innovative_JJ salads_NNS and_CC pasta_NN dishes_NNS are_VBP all_DT delicious_JJ ._.
+Desserts_NNS are_VBP amazing_JJ too_RB !_.

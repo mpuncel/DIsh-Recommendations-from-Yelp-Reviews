@@ -1,0 +1,2 @@
+Along_IN with_IN La_NNP Burrita_NNP and_CC IB_NNP 's_POS ,_, gypsy_NN 's_POS completes_VBZ the_DT holy_JJ trinity_NN of_IN Durant_NNP Avenue_NNP inexpensive_JJ student_NN eating_NN ._.
+For_IN the_DT price_NN point_NN ,_, Gypsy_NNP 's_POS can_MD not_RB be_VB beat_VBN ._.

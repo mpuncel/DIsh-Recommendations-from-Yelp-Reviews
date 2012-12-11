@@ -1,0 +1,4 @@
+Food_NNP was_VBD incredible_JJ ._.
+Salad_NN and_CC bread_NN was_VBD really_RB good_JJ ._.
+No_DT wait_NN on_IN a_DT Friday_NNP night_NN ._.
+Service_NNP was_VBD fast_RB ,_, but_CC the_DT waiter_NN was_VBD n't_RB the_DT friendliest_JJS guy_NN ._.

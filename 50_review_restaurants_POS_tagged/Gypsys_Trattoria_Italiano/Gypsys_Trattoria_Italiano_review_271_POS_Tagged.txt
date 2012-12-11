@@ -1,0 +1,3 @@
+best_RB pasta_NN :_: Godfather_NNP 's_POS favorite_JJ ..._: If_IN you_PRP happen_VB to_TO like_VB something_NN Don_NNP Vito_NNP approves_VBZ of_IN ,_, the_DT NY_NNP Mafia_NNP might_MD just_RB spare_VB you_PRP ._.
+..._: but_CC you_PRP might_MD die_VB later_RB on_IN from_IN high_JJ cholesterol_NN and_CC heart_NN disease_NN ._.
+just_RB FYI_NNP ._.

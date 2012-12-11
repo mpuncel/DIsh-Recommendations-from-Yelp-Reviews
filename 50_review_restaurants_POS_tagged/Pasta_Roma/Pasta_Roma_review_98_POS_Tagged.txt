@@ -1,0 +1,5 @@
+Nice_JJ cheap_JJ italian_JJ food_NN for_IN college_NN students_NNS ._.
+Nothing_NN more_RBR ,_, nothing_NN less_JJR ._.
+I_PRP had_VBD Farfalle_NNP Con_NN Pancetta_NNP -LRB-_-LRB- Bow_NNP Tie_NNP Pasta_NNP with_IN Bacon_NNP and_CC Sundried_NNP Tomatoes_NNPS in_IN a_DT light_JJ Cream_NNP Sauce_NNP -RRB-_-RRB- for_IN $_$ 7.95_CD ._.
+It_PRP was_VBD decent_JJ ._.
+We_PRP fed_VBD 5_CD people_NNS for_IN less_JJR than_IN $_$ 40_CD so_IN it_PRP 's_VBZ definitely_RB a_DT value_NN ._.

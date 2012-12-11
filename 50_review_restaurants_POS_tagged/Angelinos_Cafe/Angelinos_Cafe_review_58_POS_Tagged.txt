@@ -1,0 +1,7 @@
+My_PRP$ best_JJS friend_NN 's_POS new_JJ job_NN is_VBZ across_IN the_DT street_NN from_IN this_DT place_NN -_: so_IN he_PRP discovered_VBD it_PRP when_WRB he_PRP came_VBD to_TO interview_VB for_IN the_DT position_NN he_PRP 's_VBZ getting_VBG ._.
+When_WRB we_PRP came_VBD back_RB to_TO visit_VB the_DT city_NN ,_, he_PRP recommended_VBD we_PRP eat_VBP here_RB ._.
+I_PRP was_VBD quite_RB pleased_JJ ._.
+He_PRP ordered_VBD the_DT Gnocci_NNP ,_, I_PRP ordered_VBD a_DT Chicken_NNP Pesto_NNP sandwich_NN ._.
+I_PRP got_VBD a_DT Snapple_NNP and_CC we_PRP shared_VBD our_PRP$ plates_NNS so_IN we_PRP could_MD both_DT try_VB what_WP the_DT other_JJ got_VBD ._.
+It_PRP was_VBD delicious_JJ ,_, quaint_JJ atmosphere_NN with_IN patio_NN seating_VBG out_RP front_NN on_IN the_DT sidewalk_NN ._.
+A_DT really_RB pleasurable_JJ meal_NN ._.

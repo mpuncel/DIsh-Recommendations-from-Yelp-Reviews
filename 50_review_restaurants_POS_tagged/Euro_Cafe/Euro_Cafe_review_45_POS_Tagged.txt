@@ -1,0 +1,9 @@
+This_DT is_VBZ a_DT cute_JJ little_JJ Italian_JJ Cafe_NNP ._.
+I_PRP came_VBD here_RB for_IN brunch_NN this_DT passed_VBN weekend_NN ._.
+I_PRP ordered_VBD the_DT waffle_NN plate_NN ,_, which_WDT was_VBD really_RB big_JJ !_.
+3_CD waffles_NNS packed_VBN with_IN strawberries_NNS ,_, whipped_VBD cream_NN ,_, powdered_JJ sugar_NN ,_, and_CC syrup_NN ._.
+YUM_NNP Their_PRP$ apple_NN juice_NN was_VBD a_DT little_JJ funky_JJ ,_, it_PRP was_VBD n't_RB the_DT Motts_NNPS that_IN I_PRP 'm_VBP usually_RB familiar_JJ with_IN drinking_NN ._.
+The_DT walls_NNS in_IN the_DT restaurant_NN looked_VBD like_IN they_PRP were_VBD hand_NN painted_VBN which_WDT adds_VBZ a_DT cute_JJ touch_NN to_TO the_DT cafe_NN ._.
+They_PRP have_VBP indoor_JJ and_CC outdoor_JJ seating_NN ._.
+Overall_RB this_DT is_VBZ a_DT cute_JJ place_NN to_TO come_VB grab_VB a_DT bite_NN ._.
+It_PRP really_RB feels_VBZ like_IN your_PRP$ at_IN your_PRP$ long_JJ lost_VBN Italian_JJ Grandpas_NNPS house_NN for_IN a_DT hearty_NN meal_NN ._.

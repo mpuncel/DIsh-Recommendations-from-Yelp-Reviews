@@ -1,0 +1,4 @@
+I_PRP would_MD say_VB this_DT is_VBZ the_DT best_JJS pizza_NN in_IN San_NNP Luis_NNP ._.
+I_PRP 'd_MD give_VB it_PRP 5_CD stars_NNS but_CC at_IN $_$ 4_CD a_DT slice_NN -LRB-_-LRB- with_IN tax_NN -RRB-_-RRB- it_PRP 's_VBZ a_DT bit_NN expensive_JJ ._.
+The_DT dough_NN is_VBZ delicious_JJ which_WDT is_VBZ really_RB what_WP good_JJ pizza_NN is_VBZ all_DT about_RB ._.
+I_PRP 'm_VBP a_DT pizza_NN connoisseur_NN and_CC this_DT I_PRP would_MD say_VB did_VBD n't_RB disappoint_VB at_IN all_DT ._.

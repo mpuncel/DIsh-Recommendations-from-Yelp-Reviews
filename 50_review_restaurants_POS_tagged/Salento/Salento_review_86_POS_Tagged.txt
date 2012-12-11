@@ -1,0 +1,6 @@
+I_PRP 'm_VBP sad_JJ to_TO say_VB that_IN my_PRP$ -LRB-_-LRB- formerly_RB -RRB-_-RRB- favorite_JJ pasta_NN dish_NN in_IN the_DT city_NN has_VBZ gone_VBN downhill_RB ._.
+Linguine_NN alla_NN pugliese_NN is_VBZ not_RB as_RB good_JJ as_IN before_RB ._.
+Shrimp_NNP was_VBD sorely_RB overcooked_VBN ,_, chewy_NN and_CC actually_RB hard_JJ to_TO eat_VB ._.
+I_PRP usually_RB love_VBP shrimp_NN and_CC I_PRP did_VBD n't_RB want_VB to_TO finish_VB them_PRP at_IN dinner_NN ,_, even_RB though_IN I_PRP only_RB got_VBD 3_CD ._.
+Disappointing_JJ ._.
+I_PRP 'm_VBP no_RB longer_RB looking_VBG forward_RB to_TO coming_VBG back_RB ,_, since_IN that_DT pasta_NN was_VBD the_DT main_JJ draw_NN for_IN me_PRP ._.

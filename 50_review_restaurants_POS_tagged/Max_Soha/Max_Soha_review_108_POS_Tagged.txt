@@ -1,0 +1,13 @@
+Wonderful_JJ restaurant_NN !_.
+Highly_NNP recommended_VBD !_.
+Extra_JJ cozy_JJ during_IN the_DT winter_NN time_NN ._.
+Excellent_JJ wine_NN list_NN ,_, absolutely_RB delicious_JJ food_NN ._.
+Interesting_JJ and_CC tasty_JJ specials_NNS ._.
+Good_JJ service_NN ._.
+The_DT marinara_NN that_IN they_PRP give_VBP with_IN the_DT bread_NN is_VBZ outstanding_JJ ._.
+I_PRP 've_VBP had_VBD the_DT rigatoni_JJ siciliana_NN ,_, the_DT gnocchi_NNS ,_, a_DT couple_NN different_JJ apps_NNS including_VBG a_DT boar_NN sausage_NN &_CC broccoli_NN rabe_NN app_NN --_: outstanding_JJ !_.
+..._: everything_NN is_VBZ wonderful_JJ ._.
+Had_VBD a_DT decadent_JJ berry_NN tart_JJ as_RB well_RB --_: totally_RB homemade_NN tasting_NN ._.
+Friendly_RB service_NN ._.
+A_DT tiny_JJ bit_NN cramped_JJ ,_, so_RB do_VBP n't_RB go_VB in_IN there_EX with_IN your_PRP$ string_NN bass_NN ._.
+But_CC great_JJ spot_NN to_TO cozy_JJ up_RP with_IN a_DT date_NN !_.

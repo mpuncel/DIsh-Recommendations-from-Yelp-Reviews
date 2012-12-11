@@ -1,0 +1,4 @@
+great_JJ authentic_JJ food_NN ,_, everything_NN from_IN the_DT bread_NN to_TO the_DT soups_NNS to_TO the_DT entrees_NNS ._.
+the_DT service_NN is_VBZ great_JJ ,_, waiters_NNS are_VBP very_RB friendly_JJ ._.
+the_DT Tustin_NNP style_NN bread_NN here_RB is_VBZ to_TO die_VB for_IN !_.
+quality_NN food_NN ,_, quality_NN service_NN ,_, and_CC quality_NN Italian_JJ food_NN ._.

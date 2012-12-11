@@ -1,0 +1,18 @@
+Great_NNP casual_JJ brunch_NN spot_NN !_.
+Tootsie_NNP 's_POS at_IN the_DT Stanford_NNP Barn_NNP is_VBZ indeed_RB located_VBN in_IN a_DT barn_NN ,_, albeit_IN a_DT seemingly_RB renovated_VBN and_CC very_RB nice_JJ barn_NN ._.
+The_DT location_NN is_VBZ minutes_NNS away_RB from_IN Stanford_NNP Shopping_NNP Center_NNP as_RB well_RB as_IN the_DT Stanford_NNP Medical_NNP Center_NNP and_CC has_VBZ a_DT low_JJ key_JJ vibe_NN that_WDT makes_VBZ it_PRP a_DT better_JJR choice_NN than_IN many_JJ of_IN the_DT other_JJ dining_NN establishments_NNS at_IN either_DT ._.
+We_PRP came_VBD close_RB to_TO noon_NN and_CC still_RB found_VBD plentiful_JJ seating_VBG both_DT inside_JJ and_CC out_RB ._.
+You_PRP place_VBP your_PRP$ order_NN at_IN the_DT front_NN and_CC the_DT menu_NN consists_VBZ of_IN breakfast_NN items_NNS ,_, sandwiches_NNS ,_, as_RB well_RB as_IN a_DT variety_NN of_IN pastries_NNS displayed_VBD ._.
+Beverage_NNP choices_NNS include_VBP a_DT wide_JJ selection_NN of_IN coffee_NN and_CC tea_NN and_CC there_EX is_VBZ also_RB a_DT fridge_NN that_WDT houses_VBZ juices_NNS and_CC sodas_NNS ._.
+We_PRP took_VBD a_DT seat_NN inside_IN and_CC within_IN a_DT few_JJ minutes_NNS our_PRP$ order_NN was_VBD brought_VBN to_TO our_PRP$ table_NN ._.
+Potato_NN soup_NN with_IN clams_NNS and_CC pancetta_NN -_: was_VBD very_RB surprised_VBN at_IN the_DT large_JJ bowl_NN size_NN of_IN the_DT soup_NN given_VBN the_DT modest_JJ price_NN ._.
+Flavor_NN was_VBD quite_RB good_JJ was_VBD well_RB with_IN plentiful_JJ clams_NNS ,_, lots_NNS of_IN tasty_JJ pancetta_NN and_CC a_DT just_RB right_JJ amount_NN of_IN potato_NN ._.
+Great_NNP for_IN cold_JJ weather_NN and_CC a_DT hearty_NN serving_VBG ._.
+Tootsie_NNP 's_POS Burger_NNP -_: a_DT lean_JJ cut_NN of_IN veal_NN and_CC beef_NN is_VBZ made_VBN into_IN a_DT pattie_NN and_CC served_VBD on_IN a_DT nice_JJ roll_NN ._.
+It_PRP was_VBD n't_RB the_DT tastiest_JJS burger_NN I_PRP 've_VBP had_VBN but_CC great_JJ quality_NN ingredients_NNS and_CC I_PRP loved_VBD the_DT included_VBN fries_NNS ._.
+Sausage_NNP and_CC Pepper_NNP -_: a_DT simple_JJ mix_NN of_IN sausage_NN ,_, peppers_NNS ,_, and_CC some_DT country_NN potatoes_NNS ._.
+Hearty_NNP ._.
+We_PRP also_RB had_VBD some_DT Pelligrino_NNP Lemonade_NNP and_CC Orangina_NNP ._.
+I_PRP love_VBP that_IN stuff_NN ._.
+Why_WRB is_VBZ it_PRP that_IN the_DT bottles_NNS are_VBP so_RB small_JJ and_CC the_DT prices_NNS so_RB high_JJ -LRB-_-LRB- even_RB in_IN a_DT supermarket_NN -RRB-_-RRB- ?_.
+Tootsie_NNP 's_POS accepts_VBZ all_DT credit_NN cards_NNS ,_, including_VBG American_NNP Express_NNP ._.

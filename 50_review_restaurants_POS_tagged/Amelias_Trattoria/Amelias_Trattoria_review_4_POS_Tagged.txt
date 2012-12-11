@@ -1,0 +1,4 @@
+Absolutely_RB delicious_JJ food_NN ._.
+Cute_JJ ,_, cozy_JJ atmosphere_NN ._.
+Service_NNP was_VBD friendly_JJ ,_, prompt_JJ and_CC knowledgable_JJ ._.
+Neighborhood_NN gem_NN -_: will_MD definitely_RB be_VB back_RB

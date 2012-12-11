@@ -1,0 +1,5 @@
+Food_NNP :_: Food_NNP is_VBZ Pretty_NNP good_JJ ..._: not_RB fine_JJ dining_NN or_CC the_DT best_JJS Italian_JJ around_IN but_CC it_PRP 's_VBZ consistent_JJ ,_, food_NN out_IN of_IN the_DT wood_NN fire_NN oven_NN is_VBZ the_DT way_NN to_TO go_VB ._.
+I_PRP like_VBP the_DT pizzas_NNS !_.
+Service_NNP :_: Very_NNP Attentive_NNP Bartenders_NNPS are_VBP knowledgeable_JJ Atmosphere_NNP :_: You_PRP know_VBP it_PRP 's_VBZ nice_JJ but_CC it_PRP has_VBZ n't_RB changed_VBN in_IN the_DT 15_CD years_NNS I_PRP 've_VBP been_VBN here_RB ..._: so_IN it_PRP 's_VBZ kind_NN of_IN gotten_VBN boring_NN and_CC not_RB that_IN interesting_JJ to_TO go_VB there_RB ._.
+Fine_NNP for_IN lunch_NN time_NN but_CC I_PRP wish_VBP they_PRP would_MD update_VB something_NN if_IN anything_NN ._.
+Really_RB the_DT look_NN is_VBZ dated_VBN and_CC we_PRP 're_VBP tired_VBN of_IN going_VBG to_TO the_DT same_JJ old_JJ space_NN ..._: please_VB do_VB a_DT remodel_NN !_.

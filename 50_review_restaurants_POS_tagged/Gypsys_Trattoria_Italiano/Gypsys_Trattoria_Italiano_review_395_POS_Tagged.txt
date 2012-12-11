@@ -1,0 +1,3 @@
+Mmm_NNP ..._: cheap_JJ pasta_NN ._.
+Times_NNP are_VBP hard_JJ ._.
+Gypsy_NNP 's_POS answered_VBN the_DT call_NN ._.

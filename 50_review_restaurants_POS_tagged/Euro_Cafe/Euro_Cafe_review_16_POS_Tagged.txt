@@ -1,0 +1,3 @@
+What_WP a_DT pleasant_JJ surprise_NN this_DT place_NN was_VBD !_.
+Chicken_NNP sandwich_NN and_CC salad_NN were_VBD about_IN twice_RB as_RB good_JJ as_IN expected_VBN ._.
+Very_RB casual_JJ experience_NN ,_, great_JJ service_NN and_CC even_RB better_RBR food_NN !_.

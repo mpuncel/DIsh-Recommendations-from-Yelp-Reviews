@@ -1,0 +1,7 @@
+I_PRP do_VBP n't_RB love_VB pizza_NN ,_, but_CC their_PRP$ pizza_NN is_VBZ tha_NN bomb_NN !!_CD Pricey_NNP ?_.
+Not_RB sure_JJ what_WP the_DT last_JJ reviewer_NN got_VBD to_TO eat_VB that_DT was_VBD pricey_JJ but_CC the_DT small_JJ pizzas_NNS are_VBP $_$ 7_CD and_CC some_DT change_NN ..._: and_CC they_PRP are_VBP pretty_RB good_JJ size_NN !_.
+The_DT large_JJ is_VBZ $_$ 12_CD but_CC it_PRP could_MD easily_RB be_VB shared_VBN ._.
+The_DT BBQ_NNP pizza_NN is_VBZ delicious_JJ ._.
+I_PRP 've_VBP had_VBD it_PRP twice_RB now_RB ,_, never_RB been_VBN disappointed_VBN ._.
+The_DT crust_NN is_VBZ thin_JJ but_CC very_RB good_JJ ._.
+I_PRP am_VBP a_DT fan_NN of_IN this_DT place_NN ,_, perhaps_RB next_JJ time_NN I_PRP will_MD try_VB something_NN new_JJ ..._: either_DT pasta_NN or_CC a_DT panini_NN !_.

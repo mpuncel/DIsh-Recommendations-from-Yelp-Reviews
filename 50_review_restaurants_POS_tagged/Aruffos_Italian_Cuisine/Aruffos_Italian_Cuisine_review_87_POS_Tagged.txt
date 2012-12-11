@@ -1,0 +1,5 @@
+This_DT looked_VBD and_CC felt_VBD like_IN a_DT promising_JJ dining_NN experience_NN ,_, but_CC the_DT food_NN failed_VBD to_TO deliver_VB ._.
+The_DT setting_NN ,_, situated_VBN in_IN old_JJ town_NN Claremont_NNP ,_, is_VBZ very_RB nice_JJ ._.
+As_IN for_IN the_DT restaurant_NN itself_PRP ,_, the_DT facade_NN and_CC inside_NN are_VBP also_RB nice_JJ ._.
+It_PRP has_VBZ good_JJ service_NN and_CC a_DT friendly_JJ wait_NN staff_NN Unfortunately_RB ,_, the_DT food_NN itself_PRP was_VBD just_RB okay_JJ ,_, which_WDT was_VBD a_DT big_JJ disappointment_NN to_TO me_PRP ._.
+There_EX was_VBD a_DT good_JJ selection_NN but_CC the_DT taste_NN and_CC quality_NN were_VBD lacking_VBG ._.

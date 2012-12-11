@@ -1,0 +1,3 @@
+When_WRB I_PRP used_VBD to_TO work_VB in_IN downtown_NN Ann_NNP Arbor_NNP ,_, my_PRP$ boss_NN loved_VBD to_TO order_VB sandwiches_NNS from_IN this_DT places_NNS ._.
+I_PRP really_RB loved_VBD their_PRP$ Ham_NN and_CC Cheese_NNP ,_, Turkey_NNP Club_NNP ,_, and_CC Turkey_NNP Reuben_NNP sandwiches_NNS ,_, as_IN not_RB only_RB are_VBP they_PRP good_JJ ,_, but_CC very_RB large_JJ as_RB well_RB ._.
+Moreover_RB ,_, I_PRP love_VBP the_DT fact_NN they_PRP stay_VBP open_JJ until_IN real_JJ late_JJ until_IN 4:00_CD a.m._RB ,_, which_WDT is_VBZ a_DT blessing_NN for_IN those_DT late_JJ night_NN cram_NN sessions_NNS before_IN mid-terms_NNS and_CC finals_NNS ._.

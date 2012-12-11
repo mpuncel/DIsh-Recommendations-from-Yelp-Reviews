@@ -1,0 +1,4 @@
+Delicious_NNP !_.
+It_PRP 's_VBZ a_DT nice_JJ place_NN ,_, fun_NN environment_NN ,_, love_VBP the_DT desserts_NNS and_CC the_DT pizza_NN crust_NN is_VBZ marvelous_JJ !_.
+The_DT patrons_NNS are_VBP awesome_JJ too_RB ,_, funny_JJ and_CC so_RB Italian_JJ !_.
+Must_MD go_VB ._.

@@ -1,0 +1,7 @@
+Yup_NNP ..._: this_DT is_VBZ some_DT good_JJ pizza_NN !_.
+I_PRP am_VBP always_RB looking_VBG for_IN the_DT best_JJS pizza_NN wherever_WRB i_FW go_VB ._.
+I_PRP found_VBD this_DT restaurant_NN on_IN yelp_NN ,_, called_VBN in_IN an_DT order_NN on_IN my_PRP$ way_NN out_IN of_IN town_NN ._.
+Good_JJ thing_NN I_PRP did_VBD because_IN this_DT place_NN was_VBD packed_VBN on_IN that_DT Wed_VBD night_NN ._.
+A_DT lot_NN of_IN people_NNS were_VBD bringing_VBG in_IN their_PRP$ own_JJ wine_NN which_WDT looked_VBD fun_NN ._.
+The_DT wait_NN is_VBZ pretty_RB long_RB ,_, menu_NN is_VBZ pretty_RB much_JJ pizza_NN only_RB ._.
+Which_WDT is_VBZ fine_JJ ,_, because_IN it_PRP 's_VBZ delicious_JJ !!_NN

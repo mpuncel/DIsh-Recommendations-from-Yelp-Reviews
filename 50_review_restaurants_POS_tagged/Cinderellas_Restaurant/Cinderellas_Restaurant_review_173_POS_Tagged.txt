@@ -1,0 +1,6 @@
+Delivery_NN is_VBZ fast_RB and_CC the_DT prices_NNS are_VBP really_RB reasonable_JJ ._.
+The_DT pizza_NN is_VBZ good_JJ ,_, the_DT sandwiches_NNS just_RB okay_JJ ._.
+What_WP really_RB stands_VBZ out_RP on_IN the_DT menu_NN are_VBP the_DT regular_JJ -_: just_RB cheese_NN -_: calzones_NNS and_CC the_DT green_JJ peace_NN pizza_NN -LRB-_-LRB- white_JJ pie_NN with_IN chicken_NN and_CC broccoli_NNS -RRB-_-RRB- ._.
+Also_RB it_PRP 's_VBZ open_JJ late_JJ -_: til_NN 1am_CD weekdays_NNS and_CC 2am_JJ weekends_NNS ._.
+The_DT tiramisu_NN is_VBZ also_RB decent_JJ for_IN a_DT pizza_NN place_NN ._.
+Another_DT plus_CC for_IN it_PRP being_VBG a_DT delivery_NN joint_NN is_VBZ that_IN you_PRP can_MD order_VB a_DT 2_CD liter_NN of_IN soda_NN ._.

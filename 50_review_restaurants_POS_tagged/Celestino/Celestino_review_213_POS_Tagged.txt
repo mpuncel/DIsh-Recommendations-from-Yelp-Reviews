@@ -1,0 +1,3 @@
+Service_NNP is_VBZ horrible_JJ ._.
+Waiter_NNP Simone_NNP is_VBZ rushing_VBG us_PRP to_TO order_VB ..._: Then_RB no_DT show_NN for_IN the_DT rest_NN of_IN night_NN ._.
+And_CC we_PRP had_VBD to_TO ask_VB the_DT host_NN to_TO give_VB us_PRP the_DT bill_NN ._.

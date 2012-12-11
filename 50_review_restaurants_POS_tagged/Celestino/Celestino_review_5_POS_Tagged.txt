@@ -1,0 +1,4 @@
+Had_VBD dinner_NN there_RB last_JJ night_NN and_CC the_DT food_NN and_CC service_NN were_VBD excellent_JJ ._.
+Mario_NNP was_VBD our_PRP$ waiter_NN and_CC he_PRP was_VBD great_JJ at_IN letting_VBG us_PRP know_VB the_DT specials_NNS as_RB well_RB as_IN answering_VBG any_DT of_IN our_PRP$ questions_NNS regarding_VBG the_DT menu_NN ._.
+I_PRP had_VBD the_DT duck_NN ravioli_NNS and_CC it_PRP was_VBD great_JJ !_.
+Martini_NNP 's_POS were_VBD also_RB great_JJ as_IN are_VBP the_DT house_NN red_JJ wines_NNS ._.

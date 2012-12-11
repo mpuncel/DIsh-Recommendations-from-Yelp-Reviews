@@ -1,0 +1,6 @@
+This_DT is_VBZ a_DT great_JJ cafe_NN with_IN delicious_JJ paninis_NNS and_CC salads_NNS ._.
+The_DT funghi_JJ panini_NN is_VBZ an_DT excellent_JJ vegetarian_NN option_NN ,_, and_CC the_DT insalata_NN with_IN pollo_NN and_CC orzo_NN is_VBZ a_DT filling_VBG and_CC refreshing_VBG salad_NN with_IN tender_NN orzo_NN and_CC nicely_RB seasoned_JJ chicken_NN in_IN a_DT sundried_JJ tomato_NN dressing_VBG ._.
+The_DT margherita_NN pizza_NN is_VBZ pretty_RB good_JJ ,_, as_RB well_RB ,_, with_IN a_DT nice_JJ ,_, crispy_JJ thin_JJ crust_NN ._.
+Stop_NN by_IN for_IN a_DT quick_JJ but_CC gourmet-tasting_JJ lunch_NN ._.
+Service_NNP is_VBZ n't_RB all_DT that_DT wonderful_JJ and_CC almost_RB brusque_JJ but_CC it_PRP 's_VBZ not_RB like_IN I_PRP usually_RB have_VBP time_NN to_TO squander_VB over_IN lunch_NN anyway_RB ._.
+Besides_IN ,_, the_DT food_NN compensates_VBZ for_IN that_DT somewhat_RB ._.

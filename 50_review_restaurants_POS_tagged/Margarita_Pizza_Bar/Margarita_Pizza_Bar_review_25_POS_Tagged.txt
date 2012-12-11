@@ -1,0 +1,8 @@
+This_DT place_NN just_RB opened_VBD just_RB down_IN the_DT street_NN from_IN USC_NNP ._.
+They_PRP have_VBP a_DT GREAT_JJ selection_NN of_IN beer_NN and_CC enough_JJ wine_NN to_TO keep_VB you_PRP interested_JJ ._.
+The_DT food_NN has_VBZ been_VBN great_JJ on_IN both_DT visits_NNS ._.
+I_PRP have_VBP had_VBD the_DT Italian_JJ Sandwich_NNP ,_, the_DT Mussels_NNP Marinara_NNP ,_, Calamari_NNP ,_, Arugula_NNP Salad_NNP ._.
+All_DT of_IN the_DT food_NN has_VBZ been_VBN tasty_JJ ,_, filling_VBG ,_, and_CC as_IN described_VBN on_IN the_DT menu_NN ._.
+Prices_NNS are_VBP good_JJ ,_, particularly_RB if_IN you_PRP order_VBP off_RP the_DT specials_NNS menu_NN ._.
+My_PRP$ friend_NN had_VBD a_DT BLT_NNP off_IN the_DT specials_NNS menu_NN for_IN $_$ 6.95_CD and_CC it_PRP was_VBD excellent_JJ ._.
+My_PRP$ only_JJ negative_JJ is_VBZ that_IN the_DT servers_NNS have_VBP been_VBN a_DT bit_NN slow_JJ to_TO return_VB for_IN our_PRP$ checks_NNS and_CC seem_VBP a_DT little_JJ unsure_JJ of_IN some_DT of_IN the_DT menu_NN items_NNS ,_, but_CC I_PRP will_MD give_VB them_PRP a_DT chance_NN to_TO improve_VB on_IN this_DT based_VBN on_IN the_DT restaurant_NN being_VBG open_JJ less_JJR than_IN a_DT month_NN ._.

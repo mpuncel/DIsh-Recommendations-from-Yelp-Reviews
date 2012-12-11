@@ -1,0 +1,3 @@
+Great_NNP place_NN for_IN fresh_JJ great_JJ pasta_NN at_IN a_DT reasonable_JJ price_NN ._.
+Where_WRB else_RB can_MD you_PRP get_VB Italian_JJ pasta_NN for_IN $_$ 6.00_CD that_WDT tastes_VBZ this_DT good_JJ ?!_NN Try_VB the_DT Penne_NNP Gargonzola_NNP or_CC the_DT Godfathers_NNP Favorite_NNP if_IN you_PRP like_IN creamy_JJ dishes_NNS ._.
+I_PRP do_VBP n't_RB recommend_VB their_PRP$ red_JJ sauce_NN dishes_NNS ,_, but_CC do_VBP like_VB their_PRP$ Calzones_NNS -LRB-_-LRB- They_PRP are_VBP huge_JJ -RRB-_-RRB- ._.

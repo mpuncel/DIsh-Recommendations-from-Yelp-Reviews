@@ -1,0 +1,4 @@
+Absolutely_RB Italian_JJ ._.
+-_: Had_VBD margherita_NN pizza_NN ._.
+-LRB-_-LRB- Indeed_RB fresh_JJ Mozzarella_NNP ,_, nice_JJ crushed_JJ tomato_NN ,_, love_VBP the_DT olive_JJ oil_NN ,_, and_CC PERFECT_NNP dough_NN -RRB-_-RRB- -_: Gorgonzola_NNP salad_NN ._.
+-LRB-_-LRB- nice_JJ portion_NN ,_, simple_JJ and_CC good_JJ ._. -RRB-_-RRB-

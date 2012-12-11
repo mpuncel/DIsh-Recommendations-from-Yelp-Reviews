@@ -1,0 +1,6 @@
+Great_NNP Italian_JJ food_NN for_IN a_DT great_JJ price_NN ._.
+I_PRP got_VBD the_DT linguini_NNS with_IN chicken_NN and_CC peppers_NNS which_WDT was_VBD delicious_JJ ._.
+A_DT favorite_NN of_IN mine_NN ,_, this_DT is_VBZ the_DT place_NN to_TO go_VB for_IN some_DT excellent_JJ well_RB priced_VBN Italian_JJ food_NN ._.
+And_CC if_IN you_PRP are_VBP a_DT student_NN ,_, this_DT is_VBZ a_DT must_MD go_VB ._.
+It_PRP would_MD be_VB great_JJ for_IN friends_NNS ,_, groups_NNS ,_, or_CC for_IN a_DT date_NN ._.
+If_IN you_PRP appreciate_VBP quality_NN Italian_JJ food_NN and_CC are_VBP in_IN the_DT UC_NNP Berkeley_NNP area_NN ,_, andare_NN !_.

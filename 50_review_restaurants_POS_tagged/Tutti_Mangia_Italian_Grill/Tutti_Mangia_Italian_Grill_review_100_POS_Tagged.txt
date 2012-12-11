@@ -1,0 +1,6 @@
+The_DT food_NN is_VBZ quite_RB good_JJ but_CC it_PRP 's_VBZ not_RB really_RB worth_IN the_DT high_JJ price_NN ._.
+The_DT ambience_NN is_VBZ very_RB nice_JJ but_CC you_PRP definitely_RB pay_VBP for_IN it_PRP ._.
+The_DT menu_NN has_VBZ quite_RB a_DT bit_NN of_IN seafood_NN so_IN it_PRP 's_VBZ a_DT nice_JJ choice_NN if_IN you_PRP 're_VBP in_IN the_DT mood_NN for_IN that_DT ._.
+The_DT vegetarian_JJ options_NNS are_VBP pretty_RB sparse_JJ ,_, and_CC I_PRP do_VBP n't_RB recommend_VB this_DT place_NN if_IN you_PRP are_VBP a_DT vegetarian_NN -_: this_DT is_VBZ definitely_RB a_DT restaurant_NN for_IN meat\/fish-eaters_NNS ._.
+Recommended_VBN for_IN :_: rich_JJ people_NNS who_WP live_VBP in_IN nice_JJ houses_NNS in_IN Claremont_NNP ;_: couples_NNS looking_VBG for_IN a_DT romantic_JJ dinner_NN ;_: college_NN students_NNS whose_WP$ parents_NNS are_VBP visiting_VBG and_CC paying_VBG for_IN dinner_NN ._.
+Not_RB recommended_VBN for_IN :_: poor_JJ college_NN students_NNS ,_, vegetarians_NNS ._.

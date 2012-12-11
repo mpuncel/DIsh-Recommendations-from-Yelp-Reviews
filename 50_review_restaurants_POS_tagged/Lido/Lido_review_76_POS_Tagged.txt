@@ -1,0 +1,5 @@
+I_PRP Love_NNP Lido_NNP 's_POS !_.
+I_PRP go_VBP there_RB all_DT of_IN the_DT time_NN and_CC I_PRP order_VBP pretty_RB much_RB the_DT same_JJ thing_NN ._.
+I_PRP usually_RB get_VBP the_DT Gnocchi_NNP with_IN Truffle_NNP Butter_NNP -LRB-_-LRB- minus_CC the_DT Pecorino_NNP -RRB-_-RRB- and_CC a_DT glass_NN of_IN Passion_NNP Fruit_NNP Sangria_NNP ..._: If_IN it_PRP ai_VBP n't_RB broke_VBD ,_, do_VBP n't_RB fix_VB it_PRP !_.
+I_PRP 've_VBP also_RB had_VBD the_DT Cheese_NNP plate_NN with_IN Peach_NNP Chutney_NNP ,_, the_DT olive_JJ appetizer_NN ,_, the_DT arugula_NN salad_NN ,_, the_DT salmon_NN ,_, the_DT chicken_NN Milanese_NNP and_CC everything_NN was_VBD great_JJ ._.
+They_PRP have_VBP outdoor_JJ seating_NN for_IN warmer_JJR weather_NN and_CC the_DT indoor_JJ decor_NN is_VBZ mellow_JJ and_CC tasteful_JJ ._.

@@ -1,0 +1,4 @@
+This_DT is_VBZ one_CD of_IN those_DT restaurants_NNS that_WDT makes_VBZ you_PRP feel_VBP special_JJ ._.
+The_DT decor_NN really_RB is_VBZ awesome_JJ ._.
+I_PRP agree_VBP that_IN it_PRP is_VBZ not_RB cheap_JJ ,_, but_CC quality_NN Italian_JJ food_NN ,_, like_IN French_JJ food_NN ,_, is_VBZ not_RB supposed_VBN to_TO be_VB cheap_JJ ._.
+If_IN you_PRP want_VBP to_TO celebrate_VB ,_, or_CC just_RB want_VB to_TO have_VB a_DT really_RB nice_JJ evening_NN ,_, I_PRP would_MD treat_VB myself_PRP to_TO Gratzi_NNP ._.

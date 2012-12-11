@@ -1,0 +1,6 @@
+yes_RB ,_, i_FW know_VBP i_FW 'm_VBP updating_VBG ..._: AGAIN_RB ._.
+but_CC i_FW went_VBD with_IN Julianne_NNP L._NNP and_CC Letitia_NNP W._NNP today_NN ._.
+and_CC i_FW just_RB wanted_VBD say_VB ._.
+Bacaro_NN rocks_NNS ._.
+and_CC the_DT only_JJ thing_NN that_IN rocks_NNS harder_RBR is_VBZ Santos_NNP ._.
+enough_RB said_VBD !_.

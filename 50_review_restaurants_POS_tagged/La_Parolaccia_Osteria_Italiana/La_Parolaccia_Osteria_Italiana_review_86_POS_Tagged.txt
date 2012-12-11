@@ -1,0 +1,4 @@
+Have_NNP been_VBN here_RB several_JJ times_NNS ._.
+Mario_NNP is_VBZ a_DT great_JJ waiter_NN and_CC knows_VBZ his_PRP$ menu_NN well_RB ._.
+My_PRP$ wife_NN and_CC I_PRP split_VBD one_CD of_IN their_PRP$ wood_NN fires_VBZ pizzas_NNS with_IN a_DT glass_NN of_IN wine_NN ._.
+The_DT casual_JJ atmosphere_NN and_CC surrounding_VBG area_NN make_VBP for_IN a_DT nice_JJ outing_NN in_IN the_DT evening_NN ._.

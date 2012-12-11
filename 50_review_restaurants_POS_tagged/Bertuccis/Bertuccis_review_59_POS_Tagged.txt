@@ -1,0 +1,34 @@
+bad_JJ Bertucci_NNP 's_POS ,_, bad_JJ !_.
+Is_VBZ n't_RB it_PRP a_DT sad_JJ day_NN when_WRB my_PRP$ very_RB first_JJ review_NN on_IN yelp_NN ever_RB is_VBZ to_TO whine_VB about_IN the_DT bad_JJ and_CC not_RB about_IN a_DT secret_JJ little_JJ gem_NN of_IN a_DT restaurant_NN ?_.
+But_CC ,_, perhaps_RB warning_VBG people_NNS of_IN the_DT utter_JJ horror_NN that_WDT was_VBD my_PRP$ girl_NN 's_POS night_NN dinner_NN and_CC persuading_VBG others_NNS to_TO ditch_NN the_DT cheap_JJ Italian_JJ and_CC go_VB for_IN something_NN ,_, ANYTHING_NNP ,_, else_RB will_MD be_VB good_JJ for_IN my_PRP$ conscience_NN ._.
+Service_NNP :_: the_DT worst_JJS of_IN my_PRP$ life_NN ,_, and_CC I_PRP 've_VBP spent_VBN 6_CD months_NNS in_IN Hong_NNP Kong_NNP and_CC ate_VBD at_IN hole_NN in_IN the_DT wall_NN joints_NNS with_IN rats_NNS as_IN my_PRP$ tablemates_NNS ._.
+Clearly_RB ,_, service_NN at_IN such_JJ locales_NNS suck_VBP ,_, but_CC believe_VBP me_PRP this_DT was_VBD worse_JJR ._.
+Food_NNP :_: absurdly_RB disgusting_VBG Decor_NNP :_: honestly_RB ,_, nobody_NN goes_VBZ to_TO Bertucci_NNP 's_POS for_IN the_DT decor_NN ._.
+do_VBP n't_RB even_RB try_VB to_TO pretend_VB that_IN you_PRP care_VBP So_RB ,_, why_WRB such_PDT the_DT bad_JJ ratings_NNS ?_.
+Well_RB ,_, it_PRP all_DT started_VBD when_WRB our_PRP$ group_NN of_IN five_CD was_VBD shoved_VBN into_IN a_DT small_JJ table_NN for_IN four_CD and_CC I_PRP was_VBD placed_VBN at_IN the_DT head_NN of_IN the_DT table_NN in_IN the_DT very_RB busy_JJ aisle-way_NN ._.
+Nobody_NN likes_VBZ to_TO have_VB your_PRP$ chair_NN hit_NN and_CC coat_NN pushed_VBN by_IN everyone_NN passing_VBG your_PRP$ table_NN ,_, and_CC I_PRP 'm_VBP no_DT different_JJ ._.
+Salad_NN comes_VBZ ,_, food_NN finally_RB !_.
+But_CC then_RB from_IN the_DT sky_NN a_DT cold_JJ wet_JJ cucumber_NN falls_VBZ onto_IN my_PRP$ bare_JJ arm_NN ._.
+As_IN I_PRP wipe_VBP off_RP the_DT goo_NN ,_, the_DT waitress_NN assures_VBZ me_PRP ,_, ``_`` do_VBP n't_RB worry_VB it_PRP 's_VBZ only_RB a_DT cucumber_NN ,_, ''_'' and_CC in_IN retrospect_NN she_PRP was_VBD right_JJ -_: it_PRP was_VBD the_DT best_JJS thing_NN to_TO fall_VB on_IN me_PRP all_DT night_NN ._.
+After_IN finishing_VBG our_PRP$ salads_NNS and_CC waiting_VBG patiently_RB for_IN our_PRP$ food_NN ,_, it_PRP is_VBZ apparent_JJ that_IN our_PRP$ waitress_NN forgot_VBD that_IN she_PRP was_VBD still_RB working_VBG ,_, seeing_VBG that_IN she_PRP never_RB came_VBD to_TO clear_VB off_RP our_PRP$ empty_JJ dishes_NNS and_CC to_TO bring_VB us_PRP our_PRP$ food_NN -LRB-_-LRB- we_PRP waited_VBD perhaps_RB 45_CD minutes_NNS -RRB-_-RRB- ._.
+Where_WRB 's_POS the_DT food_NN ?_.
+It_PRP was_VBD getting_VBG late_RB ,_, and_CC the_DT pizza_NN bar_NN was_VBD closing_VBG up_RP ._.
+Why_WRB were_VBD they_PRP cleaning_VBG up_RP ?_.
+Well_RB ,_, they_PRP forgot_VBD our_PRP$ order_NN and_CC was_VBD getting_VBG ready_JJ to_TO go_VB home_NN ._.
+Hmm_NNP ,_, now_RB that_DT 's_VBZ not_RB very_RB nice_JJ ._.
+When_WRB our_PRP$ lost_VBN waitress_NN finally_RB found_VBD herself_PRP and_CC felt_VBD like_IN getting_VBG back_RB to_TO her_PRP$ job_NN ,_, she_PRP told_VBD them_PRP to_TO make_VB the_DT pizzas_NNS and_CC brought_VBD over_RP the_DT 3_CD other_JJ pasta_NN dishes_NNS that_IN we_PRP ordered_VBD ._.
+And_CC what_WP joy_NN it_PRP was_VBD to_TO finally_RB get_VB our_PRP$ food_NN after_IN such_PDT a_DT long_JJ time_NN ,_, and_CC to_TO find_VB that_IN it_PRP is_VBZ cold_JJ ,_, dry_JJ ,_, and_CC disgusting_NN ._.
+It_PRP was_VBD at_IN this_DT time_NN that_WDT the-sky-is-falling_JJ part_NN deux_FW occurs_VBZ -_: a_DT dirty_JJ knife_NN from_IN a_DT plate_NN a_DT waiter_NN was_VBD busing_VBG just_RB misses_VBZ my_PRP$ ear_NN and_CC I_PRP am_VBP asked_VBN to_TO pick_VB it_PRP up_RP for_IN him_PRP -LRB-_-LRB- EW_NNP -RRB-_-RRB- ._.
+Eventually_RB we_PRP all_DT get_VBP our_PRP$ main_JJ dishes_NNS ,_, but_CC since_IN we_PRP waited_VBD over_IN an_DT hour_NN and_CC ate_VBD rolls_NNS to_TO pass_VB the_DT time\/fill_NN our_PRP$ stomachs_NNS ,_, none_NN of_IN us_PRP are_VBP really_RB hungry_JJ anymore_RB ._.
+We_PRP politely_RB let_VB our_PRP$ server_NN know_VBP that_IN our_PRP$ food_NN is_VBZ cold_JJ ,_, and_CC she_PRP takes_VBZ it_PRP back_RB and_CC brings_VBZ it_PRP back_RP out_RP ,_, only_RB to_TO have_VB the_DT food_NN rearranged_VBN on_IN the_DT plate_NN and_CC no_DT warmer_JJR -LRB-_-LRB- in_IN fact_NN ,_, it_PRP was_VBD even_RB colder_JJR and_CC more_RBR coagulated_JJ than_IN before_IN -RRB-_-RRB- ._.
+Then_RB the_DT best_JJS part_NN of_IN the_DT night_NN happened_VBD -_: a_DT passing_VBG waiter_NN drops_VBZ a_DT wine_NN bottle_NN on_IN my_PRP$ chair_NN and_CC broken_JJ glass_NN surrounds_NNS me_PRP !_.
+Wonderful_JJ !_.
+Our_PRP$ waitress_NN comes_VBZ ,_, and_CC tells_VBZ me_PRP ,_, ``_`` next_JJ time_NN ,_, you_PRP should_MD sit_VB on_IN the_DT inside_NN ._. ''_''
+..._: WHAT_WDT ?!?!_VBP First_NNP of_IN all_DT ,_, I_PRP 'm_VBP not_RB one_CD of_IN those_DT people_NNS to_TO sacrifice_VB a_DT friend_NN so_IN that_IN they_PRP can_MD have_VB the_DT world_NN fall_NN on_IN them_PRP ,_, and_CC also_RB they_PRP should_MD n't_RB have_VB been_VBN so_RB incompetent_JJ and_CC sat_VBD us_PRP there_RB in_IN the_DT first_JJ place_NN !_.
+Grow_VB a_DT brain_NN !_.
+And_CC after_IN all_PDT the_DT crap_NN that_WDT happened_VBD ,_, they_PRP only_RB took_VBD $_$ 20_CD off_IN of_IN the_DT bill_NN ._.
+Too_RB little_RB ,_, too_RB late_RB ._.
+I_PRP could_MD go_VB on_IN and_CC on_IN ,_, but_CC really_RB ,_, why_WRB relive_VBP such_PDT a_DT horrible_JJ experience_NN ?_.
+I_PRP think_VBP everyone_NN can_MD get_VB the_DT picture_NN of_IN my_PRP$ worst_JJS restaurant_NN experience_NN of_IN my_PRP$ life_NN ._.
+Bottom_NN line_NN :_: FOR_IN YOUR_JJ OWN_NNP SAKE_NNP ,_, TAKE_NNP YOUR_JJ $_$ 20_CD AND_CC GO_VB ANYWHERE_RB ELSE_RB !_.
+I_PRP 'm_VBP never_RB going_VBG back_RB ,_, and_CC I_PRP hope_VBP you_PRP do_VBP n't_RB ,_, either_DT !_.

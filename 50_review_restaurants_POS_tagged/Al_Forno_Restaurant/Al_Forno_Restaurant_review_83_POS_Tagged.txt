@@ -1,0 +1,4 @@
+Best_JJS restaurant_NN in_IN Providence_NNP ._.
+Great_JJ food_NN ,_, great_JJ ambience_NN ._.
+No_DT reservations_NNS possible_JJ ,_, so_IN the_DT wait_NN on_IN holiday_NN weekends_NNS is_VBZ something_NN awful_JJ ._.
+Do_VBP n't_RB go_VB there_RB then_RB ,_, unless_IN you_PRP go_VBP at_IN 5pm_CD ._.

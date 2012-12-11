@@ -1,0 +1,4 @@
+Love_NNP this_DT place_NN !_.
+The_DT breakfast_NN panino_NN is_VBZ perfection_NN every_DT time_NN ,_, and_CC the_DT latte_NN is_VBZ one_CD the_DT best_JJS I_PRP 've_VBP ever_RB had_VBN ._.
+I_PRP tried_VBD the_DT granola_NN last_JJ week_NN ,_, and_CC it_PRP was_VBD also_RB outstanding_JJ ._.
+Have_VBP n't_RB had_VBD the_DT lunch_NN offerings_NNS ,_, but_CC for_IN a_DT breakfast_NN treat_NN ,_, this_DT is_VBZ the_DT place_NN ._.

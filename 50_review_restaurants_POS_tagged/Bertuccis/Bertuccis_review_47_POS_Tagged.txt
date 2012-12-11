@@ -1,0 +1,6 @@
+this_DT Bertucci_NNP 's_POS has_VBZ n't_RB disappointed_VBN me_PRP ._.
+I_PRP 've_VBP never_RB had_VBN to_TO wait_VB too_RB long_JJ to_TO sit_VB down_RP even_RB on_IN a_DT Friday_NNP night_NN ._.
+the_DT service_NN has_VBZ always_RB been_VBN friendly_JJ and_CC fast_RB enough_RB ._.
+the_DT servers_NNS have_VBP always_RB chatted_VBN a_DT bit_NN which_WDT is_VBZ nice_JJ ._.
+and_CC the_DT food_NN pretty_RB amazing_JJ as_IN is_VBZ generally_RB the_DT case_NN with_IN bertucci_NN 's_POS ._.
+for_IN an_DT italian_JJ restaurant_NN ,_, they_PRP do_VBP a_DT great_JJ job_NN with_IN the_DT meats_NNS as_RB well_RB ._.

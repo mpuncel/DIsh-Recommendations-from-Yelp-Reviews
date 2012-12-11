@@ -1,0 +1,6 @@
+It_PRP is_VBZ 2:40_CD am_VBP ._.
+There_EX is_VBZ a_DT pizza_NN box_NN with_IN some_DT crusts_NNS ,_, floating_VBG around_IN the_DT crushed_JJ PBR_NNP cans_NNS ._.
+Two_CD stars_NNS ._.
+The_DT sauce_NN was_VBD a_DT tomato_JJ puree_NN dusted_VBN with_IN oregano_NN before_IN being_VBG tossed_VBD into_IN an_DT oven_NN ._.
+My_PRP$ boyfriend_NN talked_VBD me_PRP up_RP from_IN one_CD ,_, because_IN they_PRP are_VBP open_JJ at_IN 2_CD A.M._NN ._.
+Two-fourty-two_JJ A.M._NNP Signing_VBG off_RP ._.

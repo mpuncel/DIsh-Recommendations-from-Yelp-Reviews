@@ -1,0 +1,6 @@
+Reliable_JJ delivery_NN ._.
+Friendly_RB service_NN ._.
+Good_JJ pizza_NN ._.
+They_PRP take_VBP large_JJ orders_NNS ._.
+There_EX is_VBZ n't_RB much_RB more_JJR to_TO say_VB about_IN this_DT place_NN ._.
+By_IN the_DT slice_NN they_PRP are_VBP a_DT bit_NN expensive_JJ ,_, but_CC if_IN you_PRP need_VBP to_TO order_VB a_DT bunch_NN of_IN pies_NNS and_CC do_VBP n't_RB want_VB to_TO eat_VB that_DT Famiglia_NNP crap_NN ,_, this_DT is_VBZ the_DT place_NN to_TO use_VB ._.

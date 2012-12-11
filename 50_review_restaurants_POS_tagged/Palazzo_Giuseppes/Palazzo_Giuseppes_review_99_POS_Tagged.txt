@@ -1,0 +1,5 @@
+I_PRP love_VBP the_DT pizzas_NN &_CC bruschetta_NN at_IN Palazzo_NNP ._.
+The_DT angel_NN hair_NN pasta_NN also_RB very_RB good_JJ ._.
+Ravioli_NNP di_FW zucca_NN is_VBZ to_TO die_VB for_IN ._.
+The_DT service_NN could_MD use_VB a_DT little_JJ help_NN at_IN times_NNS ._.
+They_PRP tend_VBP to_TO seem_VB understaffed_JJ at_IN times_NNS ._.

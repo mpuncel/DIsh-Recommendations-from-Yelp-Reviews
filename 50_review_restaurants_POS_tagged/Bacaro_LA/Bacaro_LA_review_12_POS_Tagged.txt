@@ -1,0 +1,6 @@
+The_DT food_NN is_VBZ good_JJ !_.
+The_DT ambiance_NN ,_, nice_JJ !_.
+Nice_RB little_JJ spot_NN to_TO go_VB to_TO in_IN the_DT hood_NN ._.
+Had_VBD a_DT good_JJ time_NN here_RB with_IN the_DT roomies_NNS ._.
+Only_RB complaint_NN is_VBZ that_IN the_DT food_NN is_VBZ a_DT little_JJ pricey_JJ for_IN the_DT portion_NN sizes_NNS they_PRP offer_VBP ._.
+Other_JJ than_IN that_DT ,_, yum_NN :_: -RRB-_-RRB- Will_MD be_VB coming_VBG back_RB for_IN more_JJR ._.

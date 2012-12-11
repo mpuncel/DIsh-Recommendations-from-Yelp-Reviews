@@ -1,0 +1,5 @@
+The_DT appetizers_NNS and_CC wine_NN were_VBD great_JJ ._.
+The_DT entrees_NNS were_VBD forgettable_JJ ._.
+The_DT service_NN was_VBD also_RB a_DT bit_NN slow_JJ ._.
+For_IN the_DT price_NN ,_, I_PRP expected_VBD a_DT lot_NN more_RBR ._.
+-LRB-_-LRB- And_CC seriously_RB ,_, what_WP 's_VBZ up_RP with_IN the_DT ``_`` mangia_NN ''_'' --_: ``_`` mangiano_NN ''_'' grammar_NN ?_. -RRB-_-RRB-

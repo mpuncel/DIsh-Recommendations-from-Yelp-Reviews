@@ -1,0 +1,4 @@
+Favorite_JJ place_NN to_TO go_VB in_IN westwood_NN ._.
+Spinach_NNP and_CC Cheese_NNP ravioli_NNS in_IN pink_JJ sause_NN ,_, chicken_NN tender_NN specials_NNS on_IN Monday_NNP and_CC Tuesday_NNP is_VBZ delicious_JJ and_CC filling_VBG ._.
+Specials_NNS typically_RB are_VBP :_: Mon_NNP &_CC Tues_NNP :_: Chicken_NNP Tender_NNP with_IN Lemon_NNP sause_NN and_CC Salad_NNP Wed_VBD :_: Grilled_JJ Tuna_NNP Thurs_NNPS :_: I_PRP forget_VBP Fri_NNP :_: Meat_NNP Ravioli_NNP Just_RB love_VBP the_DT small_JJ cafe_NN feel_NN and_CC the_DT quality_NN home_NN cooking_NN you_PRP get_VBP from_IN there_RB ._.
+Try_VB their_PRP$ personal_JJ size_NN pizzas_NNS to_TO mix_VB things_NNS up_RP ._.

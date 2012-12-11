@@ -1,0 +1,4 @@
+i_FW had_VBD a_DT soup_NN and_CC salad_NN for_IN dinner_NN here_RB ,_, and_CC it_PRP was_VBD alright_JJ ._.
+the_DT soup_NN -LRB-_-LRB- italian_JJ wedding_NN soup_NN -RRB-_-RRB- was_VBD not_RB so_RB flavorful_JJ ,_, but_CC the_DT salad_NN -LRB-_-LRB- a_DT 1\/2_CD dolcetto_NN salad_NN -RRB-_-RRB- was_VBD plenty_NN of_IN food_NN and_CC was_VBD quite_RB tasty_JJ ._.
+there_EX 's_VBZ a_DT lot_NN of_IN seating_VBG in_IN the_DT place_NN ,_, and_CC a_DT mix_NN of_IN large\/small_JJ group_NN table_NN seats_NNS ._.
+value_NN for_IN the_DT $_$ was_VBD on_IN par_NN with_IN what_WP i_FW expected_VBN ._.

@@ -1,0 +1,6 @@
+Best_JJS ._.
+Pizza_NNP ._.
+Ever_RB ._.
+Simple_NN ,_, flavorful_JJ ,_, bubbly_JJ salty_NN crust_NN slightly_RB charred_VBD ..._: Get_VB the_DT Pomodorini_NNP or_CC the_DT spicy_NN meat_NN one_CD -LRB-_-LRB- ca_MD n't_RB remember_VB the_DT name_NN -RRB-_-RRB- ._.
+Bring_VBG your_PRP$ own_JJ beer_NN or_CC wine_NN to_TO drink_VB and_CC enjoy_VB !_.
+This_DT is_VBZ the_DT kind_NN of_IN neighborhood_NN gem_NN that_WDT makes_VBZ me_PRP glad_JJ to_TO be_VB in_IN Atlanta_NNP ..._: I_PRP like_VBP to_TO take_VB out_RP of_IN towners_NNS here_RB because_IN seriously_RB ,_, you_PRP 'd_MD never_RB think_VB pizza_NN this_DT perfect_JJ would_MD be_VB here_RB but_CC so_RB glad_JJ it_PRP is_VBZ !!!_CD

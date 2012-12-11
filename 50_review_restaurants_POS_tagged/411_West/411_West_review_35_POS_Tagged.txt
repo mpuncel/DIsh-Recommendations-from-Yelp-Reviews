@@ -1,0 +1,7 @@
+Great_JJ food_NN in_IN a_DT great_JJ location_NN ,_, downtown_NN Chapel_NNP Hill_NNP !_.
+I_PRP ordered_VBD the_DT Hazelnut_NNP Pesto_NNP and_CC it_PRP was_VBD excellent_JJ !_.
+Full_NNP of_IN fresh_JJ vegetables_NNS ,_, a_DT hint_NN of_IN fresh_JJ garlic_NN and_CC topped_VBN with_IN hazelnuts_NNS ._.
+For_IN dessert_NN we_PRP ordered_VBD the_DT Chocolate_NNP Chess_NNP Pie_NNP and_CC it_PRP was_VBD delicious_JJ !_.
+It_PRP tasted_VBD like_IN a_DT very_RB creamy_JJ fudge_VBP cake_NN ._.
+Even_RB the_DT complimentary_JJ bread_NN was_VBD very_RB good_JJ ._.
+I_PRP definitely_RB recommend_VBP it_PRP !_.

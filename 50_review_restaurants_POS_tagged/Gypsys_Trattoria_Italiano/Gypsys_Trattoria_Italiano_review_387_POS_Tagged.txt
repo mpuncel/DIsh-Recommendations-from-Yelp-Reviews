@@ -1,0 +1,8 @@
+Victor_NNP 's_POS spaghetti_NNS is_VBZ near_IN godly_RB ._.
+And_CC I_PRP always_RB follow_VBP up_RP my_PRP$ pasta_NN with_IN some_DT San_NNP Pellegrino_NNP ,_, because_IN sparkling_JJ fruit_NN juices_NNS are_VBP the_DT best_JJS ._.
+Unfortunately_RB ,_, the_DT other_JJ pastas_NNS are_VBP good_JJ ,_, but_CC not_RB great_JJ ,_, and_CC calzones_NNS are_VBP nothing_NN new_JJ ._.
+Have_VBP n't_RB tried_VBN pizzas_NNS and_CC sandwiches_NNS ,_, but_CC might_MD give_VB it_PRP a_DT spin_NN later_RB on_IN ._.
+Atmosphere_NN is_VBZ like_IN one_CD of_IN those_DT old_JJ diners_NNS ,_, but_CC Italian-American_JJ style_NN ._.
+Pretty_NNP loud_JJ and_CC kind_NN of_IN hectic_JJ ._.
+Asian_JJ ghetto_NN really_RB is_VBZ n't_RB my_PRP$ thing_NN ,_, but_CC I_PRP 'd_MD have_VB to_TO say_VB that_IN Gypsy_NNP 's_POS is_VBZ definitely_RB the_DT crowning_JJ glory_NN of_IN it_PRP ._.
+Which_WDT is_VBZ kind_NN of_IN disappointing_JJ ._.

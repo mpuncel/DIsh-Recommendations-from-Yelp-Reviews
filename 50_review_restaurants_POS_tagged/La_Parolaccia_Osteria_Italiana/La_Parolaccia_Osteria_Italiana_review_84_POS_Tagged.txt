@@ -1,0 +1,7 @@
+After_IN reading_VBG reviews_NNS on_IN Yelp_NNP ,_, My_NNP family_NN and_CC I_PRP tried_VBD this_DT restaurant_NN ._.
+Mario_NNP our_PRP$ server_NN told_VBD us_PRP of_IN the_DT specials_NNS of_IN the_DT night_NN ._.
+When_WRB we_PRP tried_VBD to_TO order_VB something_NN else_RB ,_, he_PRP insisited_VBD we_PRP try_VBP the_DT specials_NNS since_IN the_DT other_JJ things_NNS on_IN the_DT menu_NN would_MD always_RB be_VB there_RB ._.
+We_PRP were_VBD not_RB disappointed_VBN at_IN all_DT ._.
+The_DT dishes_NNS we_PRP ordered_VBD were_VBD delicious_JJ as_RB well_RB as_IN filled_VBN with_IN the_DT freshest_JJS ingredients_NNS ._.
+We_PRP also_RB enjoyed_VBD a_DT cappuccino_NN and_CC the_DT bread_NN pudding_NN for_IN dessert_NN ._.
+I_PRP would_MD definitely_RB go_VB back_RB to_TO try_VB the_DT pizza_NN next_JJ time_NN ._.

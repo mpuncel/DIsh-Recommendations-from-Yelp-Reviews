@@ -1,0 +1,3 @@
+The_DT Tortellini_NNP Alfredo_NNP is_VBZ really_RB good_JJ in_IN an_DT artery_NN clogging_VBG kind_NN of_IN way_NN ,_, the_DT delivery_NN is_VBZ usually_RB speedy_JJ ,_, and_CC the_DT calzones_NNS and_CC pizzas_NNS are_VBP good_JJ ._.
+Bonus_NN points_NNS for_IN being_VBG one_CD of_IN the_DT few_JJ decent_JJ establishments_NNS open_JJ after_IN 12am_CD in_IN Cambridge_NNP ._.
+And_CC they_PRP 'll_MD deliver_VB Tosci_NNP 's_POS ice_NN cream_NN with_IN your_PRP$ order_NN !_.

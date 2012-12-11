@@ -1,0 +1,4 @@
+Chipotle-style_JJ pizza_NN joint_NN ._.
+I_PRP liked_VBD that_IN you_PRP get_VBP to_TO customize_VB everything_NN !_.
+The_DT pies_NNS are_VBP big_JJ enough_RB to_TO share_VB between_IN 2_CD people_NNS ._.
+You_PRP wait_VBP in_IN line_NN ,_, choose_VB among_IN the_DT 3_CD basic_JJ pizzas_NNS for_IN around_IN $_$ 6_CD ,_, add_VB toppings_NNS for_IN $_$ 1_CD -LRB-_-LRB- or_CC $_$ 3_CD -RRB-_-RRB- each_DT ,_, pay_NN ,_, find_VB a_DT table_NN ,_, get_VB your_PRP$ pizza_NN ,_, then_RB you_PRP 're_VBP all_DT set_VBN for_IN a_DT delicious_JJ meal_NN !_.

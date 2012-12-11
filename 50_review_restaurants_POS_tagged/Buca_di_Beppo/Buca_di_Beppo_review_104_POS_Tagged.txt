@@ -1,0 +1,14 @@
+Buca_NNP is_VBZ the_DT same_JJ at_IN any_DT location_NN you_PRP go_VBP to_TO ._.
+The_DT good_JJ thing_NN about_IN Claremont_NNP 's_POS locations_NNS is_VBZ a_DT private_JJ parking_NN lot_NN ._.
+You_PRP can_MD use_VB those_DT coupons_NNS that_WDT have_VBP 10_CD $_$ off_RP an_DT order_NN over_IN 20_CD ,_, which_WDT every_DT table_NN is_VBZ using_VBG to_TO pay_VB the_DT bill_NN ._.
+I_PRP think_VBP the_DT coupon_NN thing_NN is_VBZ what_WP really_RB gets_VBZ frequent_JJ Buca_NNP customers_NNS coming_VBG back_RB ._.
+The_DT food_NN here_RB is_VBZ family_NN style_NN HUGE_NNP portions_NNS ._.
+The_DT Food_NNP :_: Frito_NNP Misto_NNP appetizer_NN is_VBZ on_IN a_DT secret_JJ menu_NN ,_, if_IN you_PRP do_VBP not_RB know_VB about_IN it_PRP you_PRP will_MD never_RB order_VB it_PRP ._.
+It_PRP consist_VBP of_IN shrimp_NN ,_, calamari_NN and_CC peperoncini_NNS fried_VBD and_CC served_VBD in_IN a_DT 12_CD ''_'' Huge_JJ martini_NN Glass_NN -LRB-_-LRB- 17.95_CD -RRB-_-RRB- Margherita_NNP pizza_NN is_VBZ made_VBN with_IN mozzarella_NN cheese_NN ,_, basil_NN and_CC pizza_NN sauce_NN a_DT simple_JJ dish_NN ._.
+It_PRP is_VBZ a_DT oven_JJ brick_NN style_NN pizza_NN ,_, I_PRP suggest_VBP order_NN the_DT large_JJ and_CC not_RB the_DT small_JJ ._.
+-LRB-_-LRB- 12.45_CD small_JJ -RRB-_-RRB- Lasagna_NNP has_VBZ nine_CD layers_NNS of_IN noodles_NNS with_IN ricotta_NN ,_, mozzarella_NN ,_, provolone_NN and_CC Parmesan_NNP cheeses_NNS in_IN a_DT meat_NN style_NN sauce_NN ._.
+This_DT is_VBZ a_DT portion_NN for_IN four_CD ,_, which_WDT was_VBD perfect_JJ for_IN our_PRP$ table_NN ._.
+-LRB-_-LRB- 16.95_CD small_JJ -RRB-_-RRB- Chicken_NNP Saltimbocca_NNP is_VBZ chicken_NN breast_NN dish_NN that_WDT has_VBZ sage_NN ,_, prosciutto_NN ,_, artichoke_NN ,_, capers_NNS ,_, in_IN a_DT lemon_NN sauce_NN ._.
+I_PRP would_MD order_VB this_DT instead_RB of_IN the_DT chicken_NN limone_NN ,_, you_PRP will_MD not_RB regret_VB it_PRP !_.
+-LRB-_-LRB- 20.95_CD small_JJ -RRB-_-RRB- Of_IN all_PDT the_DT dishes_NNS we_PRP tried_VBD ,_, the_DT Chicken_NNP Saltimboca_NNP and_CC the_DT Frito_NNP Misto_NNP I_PRP felt_VBD were_VBD the_DT best_JJS ._.
+I_PRP do_VBP not_RB consider_VB Buca_NNP ``_`` Authentic_NNP Italian_NNP ''_'' but_CC it_PRP is_VBZ great_JJ for_IN family_NN dining_NN !_.

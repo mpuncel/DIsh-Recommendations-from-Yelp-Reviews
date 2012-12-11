@@ -1,0 +1,2 @@
+Great_NNP ravioli_NNS ,_, bread_NN ,_, salmón_NN bisque_NN ,_, chocolate_NN cake_NN ,_, service_NN ._.
+Awesome_JJ food_NN ._.

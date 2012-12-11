@@ -1,0 +1,4 @@
+Great_JJ pizzas_NNS !_.
+Love_NNP the_DT mushroom_NN truffle_NN pizza_NN !_.
+Tell_VB them_PRP to_TO make_VB a_DT little_JJ crispy_JJ if_IN you_PRP do_VBP n't_RB like_VB soggy_JJ centers_NNS !_.
+Line_NNP looks_VBZ longer_RBR than_IN it_PRP actually_RB is_VBZ !_.

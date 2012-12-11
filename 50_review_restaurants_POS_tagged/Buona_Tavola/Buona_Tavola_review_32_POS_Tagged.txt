@@ -1,0 +1,4 @@
+Buona_NNP Tavola_NNP is_VBZ a_DT family_NN favorite_NN ._.
+We_PRP have_VBP held_VBN several_JJ graduation_NN dinners_NNS here_RB on_IN the_DT back_JJ patio_NN ._.
+The_DT service_NN is_VBZ always_RB fantastic_JJ ,_, and_CC the_DT food_NN is_VBZ delicious_JJ ._.
+Ca_MD n't_RB wait_VB to_TO go_VB back_RB ._.

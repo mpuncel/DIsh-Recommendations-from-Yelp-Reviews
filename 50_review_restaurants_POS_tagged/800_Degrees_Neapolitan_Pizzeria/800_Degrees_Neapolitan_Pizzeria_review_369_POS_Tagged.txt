@@ -1,0 +1,4 @@
+went_VBD there_RB with_IN a_DT friend_NN ._.
+The_DT line_NN is_VBZ long_RB ._.
+They_PRP have_VBP a_DT few_JJ options_NNS and_CC you_PRP can_MD build_VB your_PRP$ own_JJ pizza_NN -_: it_PRP is_VBZ yummy_JJ and_CC fresh_JJ and_CC I_PRP am_VBP fan_NN ._.
+They_PRP have_VBP pasta_NN and_CC vegetarian_JJ options_NNS so_RB go_VB and_CC try_VB ._.

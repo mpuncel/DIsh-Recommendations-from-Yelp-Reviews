@@ -1,0 +1,3 @@
+Love_NNP that_IN Gnocchi_NNP ._.
+And_CC happy_JJ hour_NN is_VBZ awesome_JJ ._.
+I_PRP hear_VBP they_PRP may_MD be_VB adding_VBG well_RB drinks_NNS to_TO happy_JJ hour_NN soon_RB ._.

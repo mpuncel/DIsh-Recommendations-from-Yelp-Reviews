@@ -1,0 +1,5 @@
+This_DT pizza_NN joint_NN is_VBZ ridiculously_RB delicious_JJ ._.
+I_PRP 'm_VBP enamored_VBN by_IN their_PRP$ pickled_VBN red_JJ chilies_NNS ..._: I_PRP could_MD eat_VB those_DT on_IN pretty_RB much_JJ anything_NN ._.
+Pizza_NNP does_VBZ n't_RB hold_VB up_RP well_RB over_IN time_NN ,_, so_IN I_PRP recommend_VBP eating_VBG it_PRP all_DT in_IN the_DT restaurant_NN ..._: it_PRP does_VBZ n't_RB matter_VB if_IN you_PRP are_VBP full_JJ or_CC over-full_JJ ._.
+I_PRP 've_VBP only_RB ever_RB been_VBN for_IN lunch_NN ,_, and_CC parking_NN has_VBZ n't_RB been_VBN a_DT problem_NN ..._: however_RB ,_, they_PRP have_VBP only_RB a_DT tiny_JJ lot_NN and_CC I_PRP can_MD see_VB it_PRP filling_VBG up_RP fast_RB at_IN peak_NN hours_NNS -LRB-_-LRB- not_RB to_TO mention_VB the_DT limited_JJ amount_NN of_IN tables_NNS \/_VBP seating_VBG ._.
+Make_NNP sure_JJ to_TO get_VB your_PRP$ free_JJ cup_NN of_IN espresso_NN afterwards_RB ._.

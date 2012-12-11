@@ -1,0 +1,10 @@
+Met_NNP some_DT friends_NNS for_IN lunch_NN ._.
+It_PRP was_VBD pretty_RB crowded_VBN for_IN a_DT weekday_NN ._.
+The_DT waiter_NN was_VBD accomadating_VBG and_CC graciously_RB split_VBD our_PRP$ bill_NN with_IN out_IN us_PRP even_RB asking_VBG ._.
+I_PRP ordered_VBD the_DT lunch_NN special_JJ a_DT pastrami_NN sandwich_NN with_IN fries_NNS ._.
+When_WRB I_PRP received_VBD my_PRP$ order_NN I_PRP almost_RB thought_VBD they_PRP made_VBD a_DT mistake_NN the_DT pastrami_NN looked_VBD like_IN bacon_NN !_.
+I_PRP bit_RB into_IN it_PRP and_CC nope_NN ,_, it_PRP was_VBD pastrami_NN and_CC average_JJ sandwich_NN that_WDT cost_VBD me_PRP a_DT little_RB over_IN $_$ 8_CD ._.
+The_DT special_JJ did_VBD not_RB come_VBN with_IN a_DT drink_NN so_IN I_PRP had_VBD a_DT water_NN with_IN lemon_NN ._.
+The_DT restaurant_NN itself_PRP was_VBD clean_JJ and_CC airy_JJ ._.
+My_PRP$ sandwich_NN was_VBD just_RB okay_JJ ._.
+Maybe_RB I_PRP have_VBP to_TO go_VB back_RB and_CC try_VB the_DT pizza_NN ._.

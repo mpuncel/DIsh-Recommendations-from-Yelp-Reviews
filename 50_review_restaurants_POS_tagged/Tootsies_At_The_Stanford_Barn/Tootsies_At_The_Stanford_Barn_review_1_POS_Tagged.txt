@@ -1,0 +1,7 @@
+I_PRP love_VBP this_DT place_NN !_.
+It_PRP has_VBZ been_VBN on_IN my_PRP$ list_NN for_IN a_DT while_NN and_CC finally_RB got_VBD a_DT chance_NN to_TO try_VB it_PRP out_RP ._.
+It_PRP is_VBZ gourmet_NN Italian_JJ food_NN -LRB-_-LRB- kinda_NN -RRB-_-RRB- at_IN deli_NNS prices_NNS and_CC setting_VBG ._.
+Everything_NN we_PRP ate_VBD from_IN the_DT pizza_NN to_TO the_DT sandwiches_NNS to_TO the_DT shoe_NN string_NN fries_NNS were_VBD awesome_JJ ._.
+The_DT seating_NN is_VBZ European_JJ style_NN ,_, super_JJ cramped_VBN with_IN tiny_JJ tables_NNS ._.
+Looks_VBZ like_IN this_DT is_VBZ the_DT go-to_JJ place_NN for_IN all_PDT the_DT doctors_NNS in_IN this_DT area_NN ._.
+Also_RB heard_VBN that_IN they_PRP support_VBP the_DT children_NNS 's_POS hospital_NN which_WDT is_VBZ really_RB cool_JJ ._.

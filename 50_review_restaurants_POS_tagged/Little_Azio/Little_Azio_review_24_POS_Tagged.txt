@@ -1,0 +1,7 @@
+My_PRP$ first_JJ Yelp_NNP post_NN ._.
+Took_VBD a_DT date_NN there_RB for_IN a_DT quick_JJ bite_NN to_TO eat_VB ._.
+Was_VBD very_RB impressed_JJ with_IN the_DT establishent_NN since_IN I_PRP pass_VBP by_IN there_EX every_DT other_JJ week_NN ._.
+Have_NNP ate_VBD alot_NN of_IN Italian_JJ food_NN in_IN my_PRP$ day_NN and_CC must_MD say_VB it_PRP is_VBZ one_CD of_IN the_DT best_JJS ._.
+Food_NNP was_VBD cooked_VBN fresh_JJ ,_, service_NN was_VBD quick_JJ and_CC my_PRP$ lasagna_NN tasted_VBD great_JJ ._.
+Would_MD be_VB five_CD stars_NNS if_IN the_DT food_NN was_VBD authentic_JJ ._.
+overall_JJ experience_NN -_: great_JJ ._.

@@ -1,0 +1,4 @@
+A_DT very_JJ average_JJ meal_NN ,_, but_CC what_WP do_VBP you_PRP expect_VB ?_.
+It_PRP 's_VBZ Bertucci_NNP 's_POS ._.
+I_PRP mean_VBP ,_, sometimes_RB you_PRP want_VBP average_JJ ,_, cheap-ish_JJ food_NN ._.
+It_PRP 's_VBZ fine_JJ ,_, whatever_WDT ._.

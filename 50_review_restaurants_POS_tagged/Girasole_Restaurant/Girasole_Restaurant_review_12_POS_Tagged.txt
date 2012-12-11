@@ -1,0 +1,4 @@
+I_PRP love_VBP this_DT restaurant_NN !_.
+They_PRP have_VBP great_JJ Italian_JJ food_NN and_CC I_PRP love_VBP how_WRB the_DT menu_NN is_VBZ always_RB changing_VBG ._.
+The_DT atmosphere_NN is_VBZ cozy_JJ and_CC the_DT service_NN is_VBZ great_JJ ._.
+The_DT only_JJ downside_NN is_VBZ that_IN the_DT restaurant_NN can_MD get_VB pretty_RB noisy_RB when_WRB it_PRP 's_VBZ packed_VBN ._.

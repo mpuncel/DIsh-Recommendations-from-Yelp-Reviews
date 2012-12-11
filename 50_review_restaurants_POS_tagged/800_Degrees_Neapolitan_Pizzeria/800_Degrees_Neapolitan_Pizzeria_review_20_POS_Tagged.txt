@@ -1,0 +1,7 @@
+Instructions_NNS for_IN eating_VBG at_IN 800_CD degrees_NNS :_: 1_LS ._.
+Wait_VB in_IN line_NN for_IN about_IN 35_CD minutes_NNS ._.
+2_LS ._.
+Order_NNP a_DT pizza_NN margherita_NN ._.
+3_LS ._.
+Add_VB fontina_NNS and_CC provolone_JJ cheese_NN ._.
+Eat_VB and_CC repeat_VB ._.

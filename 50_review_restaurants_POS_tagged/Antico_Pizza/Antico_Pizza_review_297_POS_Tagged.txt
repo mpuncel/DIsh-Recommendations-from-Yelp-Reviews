@@ -1,0 +1,34 @@
+Antico_NNP Pizza_NNP is_VBZ located_VBN in_IN Midtown_NNP of_IN Atlanta_NNP ._.
+It_PRP specializes_VBZ in_IN authentic_JJ Italian_JJ pizza_NN ._.
+There_EX is_VBZ an_DT adequate_JJ amount_NN of_IN free_JJ parking_NN ,_, and_CC it_PRP is_VBZ open_JJ to_TO all_DT sorts_NNS of_IN age_NN groups_NNS ._.
+The_DT restaurant_NN can_MD hold_VB a_DT large_JJ group_NN ._.
+One_CD down_IN side_NN to_TO the_DT setting_NN is_VBZ that_IN the_DT restaurant_NN is_VBZ quite_RB loud_JJ with_IN the_DT restaurant_NN music_NN ._.
+It_PRP can_MD be_VB disturbing_JJ when_WRB you_PRP are_VBP trying_VBG to_TO talk_VB to_TO someone_NN across_IN the_DT table_NN from_IN you_PRP ._.
+The_DT restaurant_NN allows_VBZ BYOB\/drinks_NNS ._.
+First_NNP starting_VBG off_RP ,_, the_DT pizza_NN is_VBZ not_RB your_PRP$ typical_JJ Papa_NN Johns_NNP pizza_NN ._.
+The_DT pizza_NN is_VBZ made_VBN from_IN scratch_NN unlike_IN other_JJ chain_NN pizzerias_NNS ._.
+The_DT restaurant_NN 's_POS ingredients_NNS are_VBP freshly_RB made_VBN by_IN the_DT cooks_NNS ,_, and_CC the_DT customers_NNS can_MD see_VB the_DT employee_NN make_VB them_PRP ._.
+The_DT production_NN speed_NN is_VBZ fast_RB and_CC efficient_JJ ._.
+A_DT customer_NN must_MD order_VB first_RB when_WRB you_PRP enter_VBP the_DT restaurant_NN and_CC has_VBZ to_TO find_VB his_PRP$ or_CC her_PRP$ own_JJ seat_NN ._.
+I_PRP had_VBD the_DT pleasure_NN of_IN trying_VBG out_RP multiple_JJ kinds_NNS of_IN pizza_NN in_IN this_DT restaurant_NN ._.
+Two_CD facts_NNS stick_VBP out_RP the_DT most_RBS for_IN me_PRP :_: First_NNP ,_, fresh_JJ ingredients_NNS with_IN authentic_JJ style_NN of_IN toppings_NNS ,_, and_CC second_JJ ,_, the_DT pizza_NN does_VBZ not_RB leave_VB you_PRP feeling_VBG bloated_JJ or_CC greased_VBN out_RP ._.
+A_DT lot_NN at_IN times_NNS ,_, chain_NN pizza_NN places_NNS use_VBP butter_NN brushes_NNS and_CC drench_VB the_DT dough_JJ and_CC crusts_NNS with_IN melted_JJ butter_NN ,_, but_CC in_IN Antico_NNP Pizza_NNP ,_, you_PRP 're_VBP not_RB going_VBG to_TO find_VB that_DT ._.
+No_DT matter_NN how_WRB much_JJ cheese_NN the_DT restaurant_NN smothers_NNS ,_, it_PRP 's_VBZ still_RB not_RB oily_RB or_CC greasy_VB like_IN other_JJ pizza_NN chains_NNS in_IN town_NN ._.
+The_DT Margherita_NNP Pizza_NNP is_VBZ very_RB simple_JJ ,_, and_CC this_DT is_VBZ the_DT only_JJ pizza_NN where_WRB you_PRP can_MD pick_VB a_DT protein_NN topping_VBG ._.
+Other_JJ pizzas_NNS on_IN the_DT menu_NN can_MD not_RB be_VB modified_VBN ._.
+I_PRP had_VBD mine_PRP with_IN sausages_NNS and_CC it_PRP was_VBD very_RB flavorful_JJ ._.
+The_DT tomato_NN sauce_NN was_VBD not_RB too_RB sweet_JJ or_CC dominant_JJ ,_, and_CC it_PRP balanced_JJ very_RB well_RB with_IN the_DT garlic_JJ and_CC the_DT basil_NN ._.
+It_PRP 's_VBZ one_CD of_IN the_DT most_RBS popular_JJ pizzas_NNS in_IN the_DT restaurant_NN ._.
+My_PRP$ favorite_JJ pizza_NN is_VBZ the_DT Capricciosa_NNP ._.
+The_DT flavor_NN on_IN this_DT pizza_NN is_VBZ very_RB diverse_JJ ._.
+The_DT acidity_NN from_IN the_DT artichoke_NN goes_VBZ very_RB well_RB with_IN the_DT cheese_NN and_CC the_DT tomato_NN sauce_NN ._.
+The_DT mushroom_NN is_VBZ very_RB fresh_JJ ,_, and_CC the_DT restaurant_NN uses_VBZ the_DT ``_`` good_JJ ''_'' kind_NN of_IN mushrooms_NNS ._.
+A_DT lot_NN at_IN times_NNS ,_, pizza_NN places_NNS like_IN to_TO use_VB the_DT cheap_JJ mushrooms_NNS ,_, but_CC this_DT pizza_NN did_VBD not_RB have_VB those_DT type_NN of_IN mushroom_NN ._.
+The_DT prosciutto_NN cotto_NN was_VBD beautifully_RB placed_VBN with_IN a_DT well_RB balanced_JJ portion_NN on_IN the_DT pie_NN ._.
+What_WP so_RB good_JJ about_IN this_DT pizza_NN is_VBZ that_IN it_PRP has_VBZ a_DT melody_NN of_IN acidity_NN and_CC the_DT base_NN of_IN cheese_NN playing_VBG against_IN each_DT other_JJ creating_VBG a_DT great_JJ harmony_NN ._.
+It_PRP has_VBZ multiple_JJ flavors_NNS and_CC that_DT 's_VBZ what_WP I_PRP love_VBP the_DT best_JJS about_IN this_DT one_CD ._.
+The_DT Calzoni_NNP Napoletana_NNP are_VBP great_JJ ,_, but_CC I_PRP am_VBP not_RB a_DT huge_JJ fan_NN of_IN calozones_NNS in_IN the_DT first_JJ place_NN ._.
+I_PRP ca_MD n't_RB comment_VB too_RB much_JJ about_IN them_PRP ,_, but_CC some_DT people_NNS describe_VBP them_PRP as_IN folded_VBN pizza_NN with_IN marina_NN sauce_NN on_IN the_DT side_NN to_TO dip_VB in_IN ._.
+If_IN you_PRP love_VBP calzones_NNS ,_, I_PRP recommend_VBP trying_VBG them_PRP here_RB because_IN the_DT people_NNS that_WDT like_VBP calzones_NNS overall_JJ like_IN the_DT Antico_NNP calzones_NNS ._.
+Overall_RB ,_, I_PRP want_VBP to_TO say_VB that_IN this_DT is_VBZ the_DT best_JJS pizza_NN place_NN that_WDT Atlanta_NNP can_MD offer_VB ._.
+I_PRP know_VBP some_DT people_NNS love_VBP Mellow_NNP Mushrooms_NNPS and_CC other_JJ bar_NN pizza_NN places_NNS ,_, but_CC Antico_NNP Pizza_NNP offers_VBZ an_DT unique_JJ flavor_NN and_CC combination_NN of_IN ingredients_NNS that_WDT leaves_VBZ you_PRP wanting_VBG more_RBR ._.

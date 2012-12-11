@@ -1,0 +1,7 @@
+Sezz_NNP Medi_NNP has_VBZ delicious_JJ brick_NN oven_CD pizzas_NNS ,_, and_CC anytime_RB we_PRP are_VBP willing_JJ to_TO make_VB the_DT relatively_RB short_JJ walk_NN for_IN a_DT pizza_NN this_DT is_VBZ our_PRP$ spot_NN ._.
+Excellent_JJ sauce_NN and_CC crust_NN ,_, and_CC good_JJ service_NN -LRB-_-LRB- waiters_NNS are_VBP always_RB warm_JJ and_CC friendly_JJ -RRB-_-RRB- ._.
+I_PRP also_RB love_VBP the_DT salads_NNS --_: they_PRP are_VBP so_RB yummy_JJ that_IN you_PRP do_VBP n't_RB feel_VB like_IN you_PRP are_VBP punishing_VBG yourself_PRP by_IN eating_VBG one_CD while_IN everyone_NN around_IN you_PRP chows_VBZ on_IN pizza_NN ._.
+They_PRP make_VBP a_DT good_JJ nicoise_NN salad_NN ,_, too_RB --_: WITH_IN potato_NN ,_, the_DT way_NN it_PRP should_MD be_VB ._.
+Our_PRP$ only_JJ compliant_NN is_VBZ that_IN their_PRP$ delivery_NN service_NN is_VBZ really_RB pretty_RB bad_JJ --_: it_PRP is_VBZ slow_JJ and_CC always_RB arrives_VBZ way_RB later_RB than_IN they_PRP promise_VBP ._.
+We_PRP need_VBP to_TO reheat_VB their_PRP$ pizzas_NNS when_WRB they_PRP arrive_VBP because_IN they_PRP are_VBP cooled_VBN down_RP and_CC sometimes_RB a_DT little_JJ beat_NN up_RP ,_, too_RB ._.
+Wish_NNP they_PRP would_MD fix_VB this_DT ,_, because_IN we_PRP 'd_MD order_VB from_IN them_PRP all_PDT the_DT time_NN if_IN we_PRP could_MD count_VB on_IN hot_JJ ,_, quick_JJ Sezz_NNP Medi_NNP pizza_NN ._.

@@ -1,0 +1,6 @@
+Overrated_NNP ._.
+I_PRP hoped_VBD it_PRP was_VBD the_DT Umami_NNP of_IN pizza_NN ,_, but_CC no._FW ._.
+The_DT pizza_NN is_VBZ good_JJ but_CC not_RB great_JJ ._.
+Do_VBP not_RB order_NN wine_NN ._.
+It_PRP 's_VBZ a_DT small_JJ half_NN glass_NN for_IN $_$ 9_CD ._.
+Chopped_VBN salad_NN was_VBD really_RB good_JJ ,_, probably_RB the_DT best_JJS thing_NN

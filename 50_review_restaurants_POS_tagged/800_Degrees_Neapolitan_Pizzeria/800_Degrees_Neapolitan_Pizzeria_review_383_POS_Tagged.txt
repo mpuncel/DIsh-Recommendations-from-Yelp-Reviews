@@ -1,0 +1,5 @@
+discovered_VBN a_DT new_JJ creation_NN !_.
+get_VB the_DT pizza_NN margherita_NN with_IN truffle_JJ cheese_NN -LRB-_-LRB- still_RB $_$ 3_CD extra_JJ -RRB-_-RRB- ,_, rosemary_JJ ham_NN ,_, and_CC caramelized_VBD onions_NNS ._.
+it_PRP 'll_MD blow_VB your_PRP$ mind_NN ._. ._.
+mmmmmmm_NN ._.
+and_CC no_DT matter_NN how_WRB many_JJ times_NNS i_FW come_VBN here_RB &_CC check_VB in_IN on_IN yelp_NN ,_, i_FW 'm_VBP still_RB not_RB a_DT regular_JJ !!_NN that_WDT many_JJ people_NNS come_VBP here_RB thatttt_JJ frequently_RB ..._:

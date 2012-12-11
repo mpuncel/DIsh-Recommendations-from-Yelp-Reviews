@@ -1,0 +1,2 @@
+Great_NNP brunch_NN -_: love_VB the_DT BLT_NNP and_CC baked_JJ egg_NN dishes_NNS ._.
+Worth_NNP checking_VBG out_RP for_IN sure_JJ !_.

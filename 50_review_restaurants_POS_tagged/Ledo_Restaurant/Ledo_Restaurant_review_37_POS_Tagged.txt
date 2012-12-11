@@ -1,0 +1,3 @@
+I_PRP like_VBP to_TO describe_VB their_PRP$ pizza_NN by_IN the_DT crust_NN ..._: it_PRP feels_VBZ more_JJR like_IN a_DT pastry_NN crust_NN rather_RB than_IN a_DT yeast_NN dough_JJ crust_NN ._.
+That_DT is_VBZ not_RB a_DT bad_JJ thing_NN ,_, but_CC it_PRP is_VBZ different_JJ ._.
+Great_NNP cheese_NN !_.

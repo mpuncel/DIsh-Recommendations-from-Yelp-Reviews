@@ -1,0 +1,3 @@
+Order_NNP snafu_NN to_TO start_VB ,_, but_CC very_RB friendly_JJ staff_NN ._.
+Had_VBD the_DT special_JJ which_WDT was_VBD sundried_VBN tomato_NN &_CC ricotta_NN ravioli_NNS as_IN take-out_NN for_IN lunch_NN ._.
+Excellent_JJ ;_: prices_NNS in_IN line_NN with_IN NYC_NNP ._.

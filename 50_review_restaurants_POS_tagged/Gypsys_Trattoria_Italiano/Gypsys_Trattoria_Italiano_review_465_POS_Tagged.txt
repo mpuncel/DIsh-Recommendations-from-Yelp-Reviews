@@ -1,0 +1,6 @@
+this_DT place_NN is_VBZ awesome_JJ ,_, the_DT food_NN here_RB is_VBZ cheap_JJ and_CC fast_JJ and_CC hella_NN good_JJ ._.
+its_PRP$ par_NN to_TO pasta_NN p_NN 's_POS except_IN its_PRP$ cheaper_JJR faster_RBR but_CC you_PRP dont_VBP get_VB free_JJ bread_NN ._.
+probably_RB the_DT sickest_JJS thing_NN about_IN Gypsy_NNP 's_POS is_VBZ that_IN its_PRP$ open_JJ til_NN 12_CD ._.
+kinda_NN weird_JJ that_IN its_PRP$ in_IN the_DT epicenter_NN of_IN all_PDT the_DT asian_JJ hangout_NN with_IN all_PDT the_DT asian_JJ restaurants_NNS surrounding_VBG it_PRP ._.
+good_JJ fettuccine_NN and_CC tomato_NN pastas_NNS and_CC theyre_NN calzones_NNS are_VBP huge_JJ ._.
+its_PRP$ usually_RB full_JJ inside_IN but_CC theres_VBZ seating_VBG outside_IN if_IN you_PRP dont_VBP mind_VB the_DT bums_NNS staring_VBG at_IN you_PRP while_IN you_PRP eat_VBP

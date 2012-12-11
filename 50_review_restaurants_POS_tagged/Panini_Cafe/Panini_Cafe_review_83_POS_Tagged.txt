@@ -1,0 +1,4 @@
+Inexpensive_JJ food_NN ,_, large_JJ portions_NNS ,_, and_CC quick_JJ ._.
+That_DT describes_VBZ it_PRP ._.
+Food_NNP is_VBZ good_JJ ,_, not_RB a_DT glamorous_JJ place_NN ._.
+But_CC if_IN you_PRP are_VBP looking_VBG for_IN value_NN and_CC fast_JJ service_NN ,_, this_DT is_VBZ a_DT good_JJ place_NN ._.

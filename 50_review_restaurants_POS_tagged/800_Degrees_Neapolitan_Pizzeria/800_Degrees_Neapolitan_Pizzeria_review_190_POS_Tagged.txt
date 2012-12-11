@@ -1,0 +1,2 @@
+The_DT flavors_NNS are_VBP good_JJ ,_, the_DT choices_NNS are_VBP good_JJ ,_, but_CC the_DT pizza_NN is_VBZ so_RB watery_JJ that_IN the_DT toppings_NNS fall_VBP off_RP when_WRB you_PRP pick_VBP up_RP a_DT slice_NN ._.
+Lamonicas_NNP is_VBZ just_RB a_DT block_NN away_RB with_IN proper_JJ pizza_NN for_IN half_PDT the_DT price_NN ._.

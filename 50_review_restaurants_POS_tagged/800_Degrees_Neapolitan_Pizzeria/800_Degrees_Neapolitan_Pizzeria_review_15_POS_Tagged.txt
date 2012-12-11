@@ -1,0 +1,5 @@
+Mamma_NNP mia_NN ,_, it_PRP 's_VBZ a_DT pizza_NN ,_, done_VBN the_DT best_JJS way_NN ._.
+F_NN -_: Forget_VB about_IN any_DT preconceived_JJ notion_NN of_IN what_WP pizza_NN is\/was_VBZ R_NNP -_: Rest_VB assured_VBN you_PRP 'll_MD get_VB the_DT custom_NN pizza_NN you_PRP want_VBP ,_, nay_JJ deserve_VBP E_NNP -_: Exceptional_JJ ingrediants_NNS ,_, staff_NN ,_, and_CC ambiance_NN ._.
+Amazing_JJ soda_NN machine_NN ._.
+S_NNP -_: Smiles_NNS will_MD beam_NN beneath_IN your_PRP$ tomato_NN sauce_NN smeared_VBD face_NN ._.
+H_NNP -_: Have_VBP a_DT good_JJ day_NN !_.

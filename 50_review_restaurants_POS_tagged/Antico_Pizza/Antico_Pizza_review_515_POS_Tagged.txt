@@ -1,0 +1,8 @@
+Really_RB good_JJ pizza_NN for_IN Atlanta_NNP ,_, a_DT place_NN with_IN very_RB few_JJ good_JJ pizza_NN restaurants_NNS ._.
+I_PRP really_RB liked_VBD the_DT location_NN ,_, blocks_NNS from_IN my_PRP$ house_NN ,_, and_CC I_PRP really_RB liked_VBD the_DT ambiance_NN ._.
+It_PRP was_VBD very_RB small_JJ ,_, very_RB clean_JJ but_CC divish_JJ ._.
+Lots_NNS of_IN italians_NNS which_WDT is_VBZ a_DT good_JJ sign_NN ._.
+The_DT only_JJ gripe_NN I_PRP have_VBP is_VBZ the_DT crush_NN ._.
+I_PRP prefer_VBP thin_JJ crispy_JJ crusts_NNS ._.
+The_DT pizza_NN was_VBD very_RB soggy_JJ in_IN the_DT middle_NN and_CC I_PRP did_VBD n't_RB care_VB for_IN the_DT edge_NN ,_, too_RB doughy_JJ ._.
+Oh_UH -_: and_CC they_PRP did_VBD n't_RB put_VB enough_JJ basil_NN on_IN the_DT pizza_NN ,_, just_RB one_CD big_JJ piece_NN in_IN the_DT middle_NN which_WDT ended_VBD up_RP on_IN only_RB 2_CD of_IN the_DT slices_NNS ._.

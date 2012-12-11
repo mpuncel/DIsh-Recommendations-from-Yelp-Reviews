@@ -1,0 +1,8 @@
+Exciting_JJ new_JJ place_NN ._.
+I_PRP 'll_MD admit_VB it_PRP 's_VBZ not_RB going_VBG to_TO make_VB Eater_NNP 's_POS 38_CD anytime_RB soon_RB but_CC all_DT things_NNS considered_VBN it_PRP 's_VBZ very_RB welcomed_VBN to_TO the_DT neighborhood_NN ._.
+I_PRP 've_VBP ordered_VBN pizza_NN multiple_JJ times_NNS and_CC it_PRP 's_VBZ the_DT best_JJS within_IN the_DT Morningside_NNP Heights_NNP area_NN ._.
+We_PRP ate_VBD in_IN the_DT restaurant_NN and_CC had_VBD a_DT Insalta_NNP Romana_NNP salad_NN which_WDT was_VBD simple_JJ but_CC good_JJ ._.
+I_PRP also_RB had_VBD a_DT pizza_NN and_CC my_PRP$ wife_NN had_VBD the_DT Fettuccine_NNP which_WDT was_VBD excellent_JJ ._.
+The_DT service_NN is_VBZ good_JJ and_CC the_DT host_NN if_IN very_RB friendly_JJ ._.
+The_DT atmosphere_NN is_VBZ warm_JJ and_CC modern_JJ ._.
+I_PRP 'll_MD be_VB back_RB again_RB ._.

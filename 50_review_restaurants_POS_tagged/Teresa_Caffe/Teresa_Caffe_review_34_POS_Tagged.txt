@@ -1,0 +1,2 @@
+Great_NNP seafood_NN pasta_NN ._.
+Wonderful_JJ salad_NN and_CC nice_JJ wine_NN selection_NN at_IN good_JJ prices_NNS ._.

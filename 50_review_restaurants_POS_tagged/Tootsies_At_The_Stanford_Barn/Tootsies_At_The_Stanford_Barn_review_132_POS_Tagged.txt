@@ -1,0 +1,1 @@
+Food_NNP is_VBZ soooo_JJ good_JJ ,_, but_CC a_DT little_JJ pricey_JJ ._.

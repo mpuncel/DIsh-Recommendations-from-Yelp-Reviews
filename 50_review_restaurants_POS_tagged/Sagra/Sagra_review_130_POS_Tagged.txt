@@ -1,0 +1,3 @@
+Today_NN 's_POS feedback_NN Austin_NNP TX_NNP ,_, Sagra_NNP Very_NNP cool_JJ old_JJ home_NN ,_, brick_NN oven_CD service_NN was_VBD good_JJ ._.
+Tepnade_NNP an_DT bread_NN WOW_NNP The_NNP best_JJS a_DT brick_NN oven_NN can_MD turn_VB out_RP ,_, spinach_JJ salad_NN nice_JJ ,_, pizza_NN with_IN four_CD cheese_NN was_VBD good_JJ ._.
+But_CC I_PRP would_MD like_VB more_RBR if_IN less_JJR goat_NN cheese_NN not_RB a_DT fan_NN of_IN goat_NN cheese_NN Love_NNP to_TO go_VB back_RB an_DT try_NN somthing_JJ outher_NN than_IN pizza_NN ,_, Nice_NNP place_NN to_TO eat_VB ,_, on17_JJ TH_NNP an_DT San_NNP Antonio_NNP street_NN west_NN of_IN Guadalupe_NNP very_RB neer_JJ UT_NN

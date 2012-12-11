@@ -1,0 +1,5 @@
+Great_NNP pizza_NN in_IN a_DT nice_JJ atmosphere_NN ._.
+They_PRP have_VBP some_DT good_JJ beers_NNS on_IN tap_VBP too_RB ._.
+The_DT restaurant_NN is_VBZ located_VBN in_IN a_DT cool_JJ ,_, older_JJR building_NN ,_, and_CC the_DT energy_NN is_VBZ lively_JJ ._.
+The_DT servers_NNS seem_VBP pretty_RB inexperienced_JJ though_IN ,_, and_CC you_PRP can_MD count_VB on_IN waiting_VBG a_DT while_NN to_TO get_VB your_PRP$ food_NN ._.
+Still_RB ,_, this_DT is_VBZ my_PRP$ favorite_JJ local_JJ pizza_NN restaurant_NN ._.

@@ -1,0 +1,6 @@
+By_IN Morningside_NNP standards_NNS ,_, a_DT perennial_JJ blockbuster_NN ._.
+I_PRP come_VBP here_RB often_RB and_CC am_VBP always_RB satisfied_VBN ._.
+The_DT menu_NN is_VBZ limited_VBN ,_, but_CC the_DT entrees_NNS and_CC delicious_JJ and_CC reasonably_RB priced_VBN ._.
+They_PRP make_VBP up_RP for_IN this_DT with_IN a_DT solid_JJ list_NN of_IN nightly_JJ specials_NNS -LRB-_-LRB- they_PRP tend_VBP to_TO be_VB pricier_JJR -RRB-_-RRB- ._.
+The_DT mussels_NNS in_IN white_JJ wine_NN sauce_NN impress_VBP me_PRP every_DT time_NN ,_, and_CC the_DT maltagliata_NN is_VBZ awesome_JJ ._.
+The_DT wait_NN can_MD be_VB long_RB on_IN weekend_NN evenings_NNS but_CC they_PRP also_RB tend_VBP to_TO have_VB live_JJ music_NN ,_, and_CC the_DT bar_NN is_VBZ fun_NN ._.

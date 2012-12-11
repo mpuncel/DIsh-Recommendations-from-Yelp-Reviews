@@ -1,0 +1,2 @@
+Delicious_NNP all_DT around_IN -_: and_CC nice_JJ wines_NNS by_IN the_DT glass_NN ._.
+Relaxing_VBG warm_JJ atmosphere_NN with_IN attentive_JJ service_NN ._.

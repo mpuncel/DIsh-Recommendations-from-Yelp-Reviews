@@ -1,0 +1,6 @@
+TIME_NN :_: Any_DT night_NN for_IN dinner_NN PLACE_NNP :_: Tiny_NNP ,_, with_IN a_DT lot_NN of_IN little_JJ tables_NNS squished_VBN together_RB ,_, good_JJ for_IN a_DT FOOD_NN :_: Really_RB good_JJ Italian_JJ food_NN that_WDT 's_VBZ not_RB too_RB heavy_JJ ._.
+many_JJ veggie_NN options_NNS ._.
+I_PRP had_VBD the_DT linguine_NN in_IN cream_NN sauce_NN with_IN mushrooms_NNS ,_, amazing_JJ !_.
+DRINKS_NNS :_: Decent_JJ wine_NN selection_NN ._.
+I_PRP had_VBD a_DT glass_NN of_IN the_DT Reisling_NNP ,_, went_VBD perfectly_RB with_IN my_PRP$ meal_NN ._.
+TIPS_NNS :_: This_DT place_NN is_VBZ cash_NN only_RB ,_, so_RB bring_VB some_DT twenties_NNS ._.

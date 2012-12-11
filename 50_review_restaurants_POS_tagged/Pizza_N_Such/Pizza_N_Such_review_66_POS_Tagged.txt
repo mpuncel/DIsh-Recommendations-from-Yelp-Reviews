@@ -1,0 +1,6 @@
+I_PRP really_RB like_IN Pizza_NNP N_NNP Such_JJ ._.
+I_PRP 've_VBP tried_VBD a_DT few_JJ of_IN their_PRP$ pizzas_NNS and_CC salads_NNS and_CC have_VBP enjoyed_VBN them_PRP all_DT ._.
+I_PRP really_RB like_VBP their_PRP$ bbq_NN pizza_NN and_CC their_PRP$ bbq_NN salad_NN ,_, but_CC as_IN you_PRP might_MD have_VB guessed_VBN I_PRP really_RB like_IN bbq_NN sauce_NN ._.
+Another_DT favorite_NN of_IN mine_NN is_VBZ their_PRP$ veggie_NN pizza_NN ._.
+Service-wise_NN they_PRP are_VBP always_RB polite_JJ and_CC helpful_JJ ._.
+I_PRP only_RB wish_VBP that_IN they_PRP delivered_VBD !_.

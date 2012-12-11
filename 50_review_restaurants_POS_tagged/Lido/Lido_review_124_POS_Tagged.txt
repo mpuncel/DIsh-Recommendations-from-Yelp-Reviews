@@ -1,0 +1,8 @@
+Delicious_NNP !_.
+We_PRP went_VBD for_IN dinner_NN and_CC the_DT food_NN completely_RB wowed_VBD us_PRP ._.
+The_DT group_NN ordered_VBD the_DT cheesy_JJ garlic_JJ bread_NN appetizer_NN ,_, the_DT mussels_NNS ,_, the_DT spaghetti_NNS with_IN veal_NN meatballs_NNS ,_, and_CC the_DT New_NNP York_NNP steak_NN ._.
+Everything_NN was_VBD so_RB good_JJ !_.
+The_DT steak_NN was_VBD perfect_JJ and_CC mouthwatering_VBG with_IN the_DT gorgonzola_NN spread_NN on_IN top_JJ ,_, the_DT mussels_NNS were_VBD in_IN a_DT tasty_JJ sauce_NN and_CC they_PRP were_VBD served_VBN in_IN a_DT heaping_VBG bowl_NN ,_, the_DT veal_NN meatballs_NNS were_VBD perfectly_RB seasoned_JJ ,_, and_CC the_DT garlic_JJ bread_NN was_VBD amazing_JJ !_.
+Even_RB more_RBR impressive_JJ was_VBD the_DT service_NN ._.
+Our_PRP$ water_NN glasses_NNS were_VBD never_RB empty_JJ ,_, and_CC the_DT servers_NNS were_VBD so_RB attentive_JJ ._.
+It_PRP was_VBD a_DT very_RB pleasant_JJ dining_NN experience_NN !_.

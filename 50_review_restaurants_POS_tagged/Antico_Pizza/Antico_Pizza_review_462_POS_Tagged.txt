@@ -1,0 +1,4 @@
+Antico_NNP makes_VBZ a_DT good_JJ pizza_NN ,_, but_CC is_VBZ it_PRP authentic_JJ Pizza_NNP Napolitana_NNP ?_.
+I_PRP think_VBP not_RB ._.
+My_PRP$ last_JJ visit_NN I_PRP ordered_VBD two_CD pizza_NN and_CC both_DT were_VBD charred_VBN ._.
+Quality_NNP is_VBZ a_DT hit_NN or_CC miss_VB ._.

@@ -1,0 +1,7 @@
+This_DT seems_VBZ like_IN a_DT nice_JJ place_NN ._.
+I_PRP only_RB tried_VBD the_DT turkey_NN sandwich_NN ,_, and_CC it_PRP was_VBD pretty_RB good_JJ ._.
+The_DT service_NN was_VBD ok_RB ._.
+Parking_NN is_VBZ in_IN a_DT shared_VBN lot_NN ._.
+I_PRP was_VBD n't_RB crazy_JJ about_IN the_DT price_NN of_IN the_DT sandwich_NN ,_, though_IN it_PRP came_VBD with_IN a_DT salad_NN ._.
+Overall_JJ though_IN ,_, it_PRP is_VBZ worth_JJ checking_VBG out_RP ._.
+Oh_UH ,_, and_CC for_IN some_DT reason_NN their_PRP$ own_JJ receipt_NN names_NNS the_DT place_NN ``_`` Bistango_NNP ''_'' ,_, so_IN they_PRP ought_MD to_TO work_VB that_DT little_JJ inconsistency_NN out_RP ._.

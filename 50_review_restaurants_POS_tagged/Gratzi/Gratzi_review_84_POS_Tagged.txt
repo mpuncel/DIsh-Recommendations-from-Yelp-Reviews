@@ -1,0 +1,4 @@
+This_DT is_VBZ a_DT great_JJ date_NN night_NN dinner_NN venue_NN ._.
+The_DT caprese_NN salad_NN is_VBZ fantastic_JJ ._.
+There_EX are_VBP n't_RB too_RB many_JJ amazing_JJ dishes_NNS on_IN the_DT menu_NN but_CC enough_RB that_IN you_PRP 'll_MD want_VB to_TO come_VB back_RB ._.
+Overall_RB a_DT decent_JJ choice_NN

@@ -1,0 +1,3 @@
+Have_NNP been_VBN twice_RB now_RB ,_, a_DT lovely_JJ spot_NN for_IN a_DT slightly_RB upscale_JJ dinner_NN with_IN friends_NNS ._.
+Good_JJ wine_NN list_NN ,_, with_IN an_DT informed_JJ waitstaff_NN ._.
+Nice_JJ ``_`` hipster_NN ''_'' vibe_NN ._.

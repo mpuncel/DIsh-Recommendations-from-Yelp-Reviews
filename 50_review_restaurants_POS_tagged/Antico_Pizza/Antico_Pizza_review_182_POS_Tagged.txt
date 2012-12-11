@@ -1,0 +1,8 @@
+5_CD star_NN pizza_NN places_NNS should_MD NOT_RB be_VB hit_VBN or_CC miss_VBP ._.
+I_PRP was_VBD very_RB disappointed_JJ with_IN the_DT pizza_NN at_IN this_DT joint_JJ after_IN reading_VBG these_DT reviews_NNS ._.
+We_PRP ordered_VBD a_DT whole_JJ pie_NN which_WDT was_VBD mangled_VBN and_CC burned_VBN ._.
+It_PRP was_VBD sad_JJ because_IN you_PRP could_MD tell_VB that_IN the_DT pizza_NN had_VBD potential_JJ ._.
+The_DT ingredients_NNS were_VBD obviously_RB good_JJ ,_, but_CC their_PRP$ poor_JJ preparation_NN killed_VBD the_DT taste_NN ._.
+They_PRP served_VBD us_PRP burned_VBD pizza_NN with_IN lackluster_JJ preparation_NN ._.
+The_DT toppings_NNS were_VBD clustered_VBN ,_, the_DT cheese_NN pooled_VBN in_IN the_DT middle_NN ,_, and_CC the_DT crust_NN bubbled_VBN in_IN two_CD to_TO three_CD inches_NNS from_IN the_DT sides_NNS ._.
+Good_JJ luck_NN eating_VBG the_DT pieces_NNS without_IN flatware_NN ._.

@@ -1,0 +1,4 @@
+Fresh_JJ ,_, tasty_JJ food_NN ._.
+No_DT wait_NN for_IN brunch_NN on_IN Saturday_NNP at_IN noon_NN and_CC plenty_NN of_IN table_NN space_NN ._.
+Good_JJ service_NN ._.
+Bottomless_JJ mimosas_NNS ._.

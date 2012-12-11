@@ -1,0 +1,5 @@
+OMFG_NNP !_.
+They_PRP have_VBP a_DT FOOD_NN TRUCK_NNP !_.
+I_PRP found_VBD it_PRP randomly_RB in_IN the_DT Miracle_NNP mile_NN ,_, by_IN LACMA_NNP ,_, and_CC i_FW HAD_FW to_TO have_VB my_PRP$ favorite_JJ -_: homemade_NN ravioli_NNS ._.
+It_PRP was_VBD cheaper_JJR than_IN the_DT restaurant_NN -_: 5.95_CD ._.
+And_CC every_DT bit_NN as_IN delicious_JJ ._.

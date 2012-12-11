@@ -1,0 +1,1 @@
+Great_NNP pizza_NN ,_, fast_RB and_CC delicious_JJ ._.

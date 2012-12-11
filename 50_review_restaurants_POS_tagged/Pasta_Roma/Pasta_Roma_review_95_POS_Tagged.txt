@@ -1,0 +1,5 @@
+This_DT place_NN has_VBZ some_DT decent_JJ food_NN ._.
+It_PRP 's_VBZ definitely_RB better_JJR than_IN the_DT fast_JJ food_NN joints_NNS around_IN it_PRP ._.
+The_DT service_NN was_VBD fairly_RB fast_JJ and_CC friendly_JJ ._.
+The_DT worst_JJS part_NN about_IN it_PRP is_VBZ the_DT decor_NN ,_, very_RB ``_`` frantic_JJ ''_'' ._.
+Looking_VBG for_IN some_DT fairly_RB fast_JJ decent_JJ Italian_JJ and_CC do_VBP n't_RB mind_VB odd_JJ decoration_NN ,_, check_VB it_PRP out_RP

@@ -1,0 +1,5 @@
+We_PRP have_VBP eaten_VBN here_RB several_JJ times_NNS both_DT for_IN lunch_NN and_CC dinner_NN ._.
+We_PRP found_VBD the_DT service_NN wonderful_JJ and_CC the_DT food_NN fresh_JJ ,_, local_JJ and_CC interesting_JJ ._.
+The_DT chef_NN is_VBZ the_DT super_JJ nice_JJ Christopher_NNP Albrecht_NNP who_WP came_VBD from_IN one_CD of_IN my_PRP$ favorite_JJ restaurants_NNS ever_RB ..._: Gramercy_NNP Tavern_NNP in_IN NYC_NNP ._.
+Faves_NNS :_: Fried_NNP Baby_NNP Artichokes_NNP ,_, Beet_NNP and_CC Ricotta_NNP Salad_NNP ,_, half-orders_NNS of_IN any_DT of_IN their_PRP$ handmade_NN pastas_NNS and_CC a_DT MUST_NNP is_VBZ the_DT side_NN of_IN mushrooms_NNS ._.
+Washed_VBN down_RP with_IN some_DT good_JJ wine_NN and_CC voila_NN ..._: a_DT great_JJ experience_NN ._.

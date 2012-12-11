@@ -1,0 +1,4 @@
+Max_NNP is_VBZ a_DT really_RB nice_JJ little_JJ Italian_JJ restaurant_NN around_IN the_DT town_NN ._.
+Had_VBD their_PRP$ pasta_NN dishes_NNS ..._: skirt_NN steak_NN ..._: hmmm_NN ..._: yummmmmmyyyy_NN ~_CD ~_NNP Order_NNP their_PRP$ lasagna_NN ..._: it_PRP comes_VBZ in_IN a_DT nice_JJ little_JJ bowl_NN ..._: SUPER_NNP HOT_NNP MELTED_NNP MOZZARELLA_NNP ..._: great_JJ sauce_NN and_CC pasta_NN ._.
+Also_RB ,_, their_PRP$ HOT_NNP shrimp_NN with_IN BLACK_NNP pasta_NN -LRB-_-LRB- not_RB sure_JJ what_WP it_PRP 's_VBZ called_VBN -RRB-_-RRB- is_VBZ a_DT tasty_JJ meal_NN ..._: Bruschetta_NNP is_VBZ also_RB SUPERB_NNP ..._: NOW_RB GET_VBP GOING_VBG ~_NN !_.
+ENJOY_VB ~_NN !_.

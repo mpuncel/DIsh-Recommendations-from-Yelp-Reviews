@@ -1,0 +1,5 @@
+This_DT place_NN is_VBZ pretty_RB good_JJ ,_, but_CC I_PRP was_VBD n't_RB super_JJ impressed_JJ ._.
+I_PRP was_VBD disappointed_VBN we_PRP were_VBD n't_RB offered_VBN outdoor_JJ seating_NN when_WRB everyone_NN who_WP came_VBD after_IN us_PRP was_VBD ._.
+The_DT indoor_JJ seating_NN is_VBZ very_RB poorly_RB laid_VBN out_RP to_TO maximize_VB seating_VBG at_IN a_DT huge_JJ loss_NN of_IN comfort_NN ._.
+The_DT food_NN was_VBD pretty_RB good_JJ and_CC the_DT prices_NNS were_VBD n't_RB bad_JJ ._.
+I_PRP 'd_MD go_VB again_RB if_IN someone_NN I_PRP was_VBD with_IN wanted_VBD to_TO ,_, but_CC I_PRP would_MD n't_RB pick_VB it_PRP ._.

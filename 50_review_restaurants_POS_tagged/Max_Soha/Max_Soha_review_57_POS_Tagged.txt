@@ -1,0 +1,4 @@
+Great_NNP place_NN ._.
+I_PRP went_VBD here_RB with_IN my_PRP$ brother_NN while_IN he_PRP was_VBD in_IN town_NN ._.
+Good_JJ atmosphere_NN ,_, good_JJ home_NN style_NN italian_JJ food_NN ._.
+All_DT around_IN it_PRP was_VBD a_DT good_JJ experience_NN ._.

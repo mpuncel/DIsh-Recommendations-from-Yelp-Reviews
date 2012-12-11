@@ -1,0 +1,7 @@
+The_DT Italian_JJ ,_, brick-oven_JJ style_NN pizza_NN is_VBZ quite_RB good_JJ ._.
+The_DT ingredients_NNS are_VBP tasty_JJ and_CC come_VB in_IN delicious_JJ combinations_NNS ._.
+The_DT mostly_RB thin_JJ crust_NN is_VBZ decent_JJ ,_, but_CC it_PRP could_MD use_VB a_DT little_RB more_JJR flavor_NN ._.
+They_PRP have_VBP plenty_NN of_IN other_JJ menu_NN options_NNS ,_, but_CC we_PRP stuck_VBD with_IN the_DT pizza_NN ._.
+My_PRP$ only_JJ complain_VBP with_IN the_DT menu_NN is_VBZ that_IN it_PRP 's_VBZ a_DT bit_NN pricey_JJ for_IN what_WP it_PRP is_VBZ ._.
+The_DT atmosphere_NN has_VBZ a_DT cozy_JJ feel_NN to_TO it_PRP ._.
+The_DT bar_NN and_CC oven_NN are_VBP right_RB there_RB in_IN the_DT room_NN with_IN you_PRP ._.

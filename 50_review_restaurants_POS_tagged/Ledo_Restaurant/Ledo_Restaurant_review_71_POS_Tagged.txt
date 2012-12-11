@@ -1,0 +1,9 @@
+Ledo_NNP 's_POS Restaurant_NNP is_VBZ a_DT great_JJ place_NN to_TO get_VB delicious_JJ ,_, well-priced_JJ Italian_JJ food_NN ._.
+The_DT restaurant_NN looks_VBZ plain_RB from_IN the_DT outside_JJ ,_, and_CC the_DT decor_NN inside_NN is_VBZ n't_RB much_RB ,_, but_CC they_PRP make_VBP up_RP for_IN it_PRP with_IN great_JJ pizza_NN and_CC pasta_NN ._.
+The_DT service_NN is_VBZ alright_JJ ,_, and_CC in_IN the_DT several_JJ times_NNS I_PRP 've_VBP been_VBN there_RB ,_, my_PRP$ server_NN has_VBZ always_RB been_VBN friendly_JJ ._.
+The_DT pizza_NN is_VBZ a_DT style_NN all_DT its_PRP$ own_JJ ,_, with_IN a_DT crumbly_RB crust_NN ,_, great_JJ sauce_NN ,_, and_CC thick_JJ ,_, melted_JJ cheese_NN ._.
+The_DT most_RBS interesting_JJ part_NN is_VBZ the_DT shape_NN -_: the_DT pizza_NN is_VBZ rectangular_JJ and_CC cut_VBD into_IN squares_NNS ,_, not_RB slices_NNS -LRB-_-LRB- with_IN the_DT edge_NN slices_VBZ being_VBG everyone_NN 's_POS favorite_JJ -RRB-_-RRB- ._.
+If_IN you_PRP 're_VBP the_DT kind_NN that_WDT requires_VBZ traditional_JJ presentation_NN ,_, this_DT may_MD not_RB be_VB the_DT place_NN for_IN you_PRP as_IN the_DT pizza_NN is_VBZ served_VBN on_IN plastic_NN lunch_NN trays_NNS ._.
+Do_VBP n't_RB confuse_VB this_DT restaurant_NN with_IN the_DT Ledo_NNP 's_POS Pizza_NNP chain_NN ._.
+This_DT place_NN is_VBZ much_RB better_JJR and_CC has_VBZ a_DT more_RBR cozy_JJ Italian_JJ feel_NN ._.
+If_IN you_PRP 're_VBP in_IN the_DT area_NN ,_, it_PRP 's_VBZ worth_JJ checking_VBG out_RP ._.

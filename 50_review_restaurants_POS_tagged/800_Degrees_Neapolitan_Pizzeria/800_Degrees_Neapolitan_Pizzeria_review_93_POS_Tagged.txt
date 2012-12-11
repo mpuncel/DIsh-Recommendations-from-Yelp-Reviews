@@ -1,0 +1,5 @@
+This_DT place_NN is_VBZ a_DT UCLA_NNP student_NN 's_POS dream_NN ._.
+6_CD dollars_NNS gets_VBZ you_PRP a_DT margarita_NN pizza_NN base_NN -LRB-_-LRB- which_WDT comes_VBZ with_IN mozzerella_NN cheese_NN ,_, crushed_JJ tomatoes_NNS ,_, and_CC herbs_NNS and_CC such_JJ -RRB-_-RRB- that_IN you_PRP can_MD add_VB additional_JJ toppings_NNS for_IN a_DT dollar_NN each_DT -LRB-_-LRB- 3_CD dollars_NNS for_IN the_DT exotic_JJ ones_NNS -RRB-_-RRB- ._.
+I_PRP was_VBD really_RB surprised_VBN to_TO find_VB out_RP that_IN the_DT pizza_NN was_VBD 12_CD ''_'' ,_, which_WDT is_VBZ definitely_RB a_DT lot_NN bigger_JJR than_IN i_FW expected_VBN to_TO get_VB for_IN that_DT price_NN ._.
+The_DT pizza_NN itself_PRP tasted_VBD very_RB good_JJ as_RB well_RB :_: the_DT pizza_NN was_VBD very_RB light_JJ compared_VBN to_TO the_DT more_RBR greasy_JJ stuff_NN you_PRP 'd_MD find_VB elsewhere_RB ,_, and_CC the_DT ingredients_NNS were_VBD very_RB fresh_JJ ._.
+The_DT crushed_JJ tomatoes_NNS does_VBZ n't_RB overpower_VB the_DT taste_NN like_IN marinara_NN sauce_NN usually_RB does_VBZ ,_, so_IN the_DT other_JJ ingredients_NNS make_VBP up_RP most_JJS of_IN the_DT flavor_NN ._.

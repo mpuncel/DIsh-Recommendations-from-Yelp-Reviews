@@ -1,0 +1,7 @@
+1_LS ._.
+Food_NNP was_VBD good_JJ ..._: Meatballs_NNS were_VBD the_DT best_JJS I_PRP have_VBP had_VBN in_IN a_DT while_NN ._.
+.2_CD ._.
+Price_NN was_VBD a_DT little_JJ high_JJ ,_, but_CC okay_JJ ._. ._.
+3_CD ..._: bread_NN was_VBD good_JJ ._.
+I_PRP would_MD have_VB given_VBN 5_CD stars_NNS ._. ._.
+But_CC soup_NN was_VBD small_JJ but_CC good_JJ ,_, the_DT negative_JJ was_VBD the_DT salad_NN it_PRP was_VBD yucky_JJ ..._:

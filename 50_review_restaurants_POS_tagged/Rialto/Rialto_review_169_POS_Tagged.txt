@@ -1,0 +1,12 @@
+Restaurant_NNP Week_NNP in_IN Boston_NNP is_VBZ in_IN full_JJ swing_NN and_CC Rialto_NNP was_VBD our_PRP$ choice_NN this_DT year_NN ._.
+I_PRP have_VBP to_TO say_VB I_PRP left_VBD very_RB happy_JJ with_IN the_DT food_NN ,_, satisfied_VBN with_IN the_DT service_NN ._.
+The_DT place_NN looses_VBZ one_CD star_NN for_IN the_DT weirdness_NN of_IN the_DT location_NN inside_IN the_DT hotel_NN -LRB-_-LRB- if_IN you_PRP use_VBP the_DT restroom_NN you_PRP have_VBP to_TO leave_VB the_DT restaurant_NN and_CC walk_NN across_IN the_DT small_JJ lobby_NN -RRB-_-RRB- ._.
+Each_DT of_IN our_PRP$ party_NN of_IN four_CD chose_VBD a_DT different_JJ main_JJ dish_NN to_TO try_VB and_CC all_DT of_IN us_PRP were_VBD satisfied_VBN with_IN the_DT food_NN ._.
+The_DT portions_NNS are_VBP not_RB for_IN those_DT used_VBN to_TO eating_VBG at_IN TGI_NNP Friday_NNP 's_POS but_CC the_DT taste_NN of_IN each_DT bite_NN was_VBD delicious_JJ ._.
+The_DT play_NN of_IN the_DT flavors_NNS with_IN the_DT different_JJ ingredients_NNS of_IN my_PRP$ trout_NNS truly_RB made_VBD it_PRP a_DT light_NN and_CC fulfilling_VBG summer_NN dish_NN ._.
+Desserts_NNS were_VBD also_RB quite_RB good_JJ ._.
+I_PRP ordered_VBD the_DT chocolate_NN raspberry_NN cake_NN which_WDT was_VBD sweet_JJ enough_JJ but_CC not_RB overly_RB sweet_JJ ._.
+Overall_JJ food_NN good_JJ ,_, service_NN good_JJ ,_, restaurant_NN decor_NN modern_JJ and_CC interesting_JJ ._.
+A_DT great_JJ deal_NN in_IN restaurant_NN week_NN ._.
+Parking_VBG validated_VBN ,_, but_CC the_DT setup_NN inside_IN the_DT restaurant_NN a_DT bit_NN weird_JJ ._.
+I_PRP recommend_VBP it_PRP ._.

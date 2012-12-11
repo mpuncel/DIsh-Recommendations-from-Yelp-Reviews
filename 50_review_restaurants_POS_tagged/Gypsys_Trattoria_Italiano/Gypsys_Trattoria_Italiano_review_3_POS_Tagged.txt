@@ -1,0 +1,3 @@
+Best_JJS Italian_JJ Restaurant_NNP in_IN Berkeley_NNP ,_, the_DT awards_NNS do_VBP n't_RB lie_VB !_.
+I_PRP am_VBP a_DT regular_JJ customer_NN and_CC feel_VB privileged_JJ to_TO live_VB so_RB close_RB ,_, extremely_RB cheap_JJ for_IN the_DT quality_NN and_CC portions_NNS ,_, any_DT menu_NN item_NN +_NN salad_NN +_NN drink_NN only_RB $_$ 7.99_CD !!_CD Gypsy_NNP 's_POS is_VBZ definitely_RB my_PRP$ favorite_JJ place_NN to_TO eat_VB in_IN Berkeley_NNP ,_, could_MD eat_VB here_RB everyday_JJ and_CC not_RB get_VB tired_VBN of_IN the_DT food_NN !_.
+HIGHLY_NNP RECOMMENDED_VBD !!_CD

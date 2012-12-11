@@ -1,0 +1,1 @@
+Yays_NNP Tagliolini_NNP Bianchi_NNP e_SYM Neri_NNP con_NN salsa_NN di_FW Cappesante_NNP e_SYM Zafferano_NNP -LRB-_-LRB- Black_NNP and_CC white_JJ tagliolini_NNS with_IN scallops_NNS and_CC saffron_NN sauce_NN -RRB-_-RRB- service_NN ambiance_NN -LRB-_-LRB- dinner_NN -RRB-_-RRB- Nays_NNPS parking_NN

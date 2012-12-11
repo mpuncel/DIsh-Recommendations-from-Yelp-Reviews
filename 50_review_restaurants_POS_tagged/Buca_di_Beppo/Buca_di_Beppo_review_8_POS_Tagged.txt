@@ -1,0 +1,3 @@
+The_DT quantity_NN of_IN food_NN was_VBD OK_JJ ,_, some_DT of_IN the_DT dishes_NNS were_VBD good_JJ and_CC some_DT ._.
+The_DT fettuccine_NN alfredo_NN was_VBD bland_VBN also_RB the_DT bruschetta_NN lacked_VBD salt_NN ,_, way_NN under_IN seasoned_JJ ._.
+Service_NNP was_VBD great_JJ ._.

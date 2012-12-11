@@ -1,0 +1,4 @@
+The_DT decor_NN is_VBZ definitely_RB cute_JJ --_: I_PRP can_MD see_VB why_WRB people_NNS come_VBP in_IN ._.
+But_CC after_IN that_DT ,_, things_NNS seem_VBP to_TO take_VB awhile_RB even_RB if_IN the_DT restaurant_NN is_VBZ n't_RB full_JJ ,_, and_CC the_DT just-palatable_JJ food_NN tends_VBZ not_RB to_TO be_VB worth_JJ the_DT wait_NN or_CC the_DT price_NN ._.
+I_PRP 've_VBP had_VBD mixed_JJ experience_NN with_IN the_DT staff_NN --_: some_DT are_VBP very_RB nice_JJ and_CC go_VB the_DT extra_JJ mile_NN ,_, but_CC others_NNS cop_NN a_DT major_JJ attitude_NN if_IN you_PRP do_VBP n't_RB go_VB for_IN the_DT upsell_NN ._.
+Seems_VBZ like_IN another_DT mediocre_JJ restaurant_NN who_WP 's_VBZ counting_VBG on_IN Columbia_NNP students_NNS '_POS business_NN ._.

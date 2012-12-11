@@ -1,0 +1,3 @@
+Dinner_NN -_: Monday_NNP Night_NNP I_PRP 've_VBP had_VBD better_JJR pizza_NN ._.
+The_DT menu_NN is_VBZ very_RB limited_JJ and_CC only_RB after_IN ordering_VBG ,_, i_FW found_VBD out_RP that_IN I_PRP could_MD custom_NN order_NN a_DT pizza_NN ._.
+The_DT service_NN was_VBD good_JJ but_CC overall_JJ it_PRP was_VBD a_DT little_JJ over_IN priced_VBN ._.

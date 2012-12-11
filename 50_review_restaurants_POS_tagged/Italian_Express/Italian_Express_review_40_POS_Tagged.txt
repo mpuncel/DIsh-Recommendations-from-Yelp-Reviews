@@ -1,0 +1,3 @@
+This_DT place_NN is_VBZ SHADY_NNP ..._: bought_VBD some_DT food_NN for_IN 6.99_CD with_IN tax_NN that_WDT 's_VBZ suppose_VB to_TO be_VB 7.60_CD for_IN some_DT reason_NN the_DT GREEDY_NNP OLD_NNP MAN_NNP charged_VBD me_PRP ~_VB $_$ 8.60_CD ._.
+When_WRB i_FW confronted_VBD him_PRP ,_, he_PRP had_VBD no_DT response_NN ..._: uhhh_NN umm_NN ._. ._.
+uhhh_NN ..._: then_RB he_PRP had_VBD the_DT audacity_NN to_TO get_VB mad_JJ at_IN me_PRP when_WRB i_FW called_VBD him_PRP out_RP -_: WTF_NNP ??_CD try_VBP to_TO CHEAT_VB customers_NNS ?_.

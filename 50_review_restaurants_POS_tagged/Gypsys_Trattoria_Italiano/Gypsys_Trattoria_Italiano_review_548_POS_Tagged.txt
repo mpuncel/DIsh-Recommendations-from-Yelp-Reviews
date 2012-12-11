@@ -1,0 +1,2 @@
+Tastier_JJR than_IN ,_, say_VB ,_, Pasta_NNP Pomodoro_NNP ._.
+You_PRP get_VBP a_DT huge_JJ bowl_NN of_IN pasta_NN for_IN under_IN $_$ 7_CD ._.

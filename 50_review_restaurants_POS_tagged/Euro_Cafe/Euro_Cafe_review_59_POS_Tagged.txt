@@ -1,0 +1,7 @@
+Euro_NNP Cafe_NNP is_VBZ nice_JJ because_IN it_PRP 's_VBZ close_JJ to_TO home_NN ._.
+I_PRP decided_VBD to_TO come_VB here_RB for_IN breakfast_NN ._.
+I_PRP ordered_VBD a_DT croissant_NN and_CC let_VB me_PRP tell_VB you_PRP ,_, this_DT croissant_NN is_VBZ gianormous_JJ &_CC great_JJ for_IN a_DT small_JJ breakfast_NN ._.
+The_DT French_JJ cream_NN coffee_NN is_VBZ very_RB aromatic_JJ and_CC gives_VBZ me_PRP a_DT nice_JJ perk_JJ in_IN the_DT morning_NN !_.
+I_PRP have_VBP a_DT few_JJ friends_NNS that_WDT really_RB enjoy_VBP the_DT place_NN ._.
+One_CD of_IN them_PRP is_VBZ obsessed_VBN !_.
+From_IN what_WP I_PRP could_MD observe_VB ,_, the_DT environment_NN was_VBD very_RB homey_RB ,_, relaxing_VBG and_CC I_PRP would_MD say_VB a_DT nice_JJ place_NN to_TO just_RB relax_VB and_CC have_VB conversation_NN with_IN friends_NNS !_.

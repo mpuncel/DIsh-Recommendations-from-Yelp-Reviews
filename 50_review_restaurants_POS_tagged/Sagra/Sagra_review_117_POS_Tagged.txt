@@ -1,0 +1,4 @@
+If_IN only_RB the_DT food_NN were_VBD as_RB good_JJ as_IN the_DT ambience_NN ._.
+Unfortunately_RB ,_, this_DT is_VBZ not_RB the_DT case_NN ._.
+Worst_RBS Italian_JJ food_NN in_IN Austin_NNP I_PRP 've_VBP had_VBN so_RB far_RB ._.
+If_IN I_PRP had_VBD a_DT choice_NN ,_, I_PRP 'd_MD rather_RB go_VB to_TO Olive_NNP Garden_NNP ._.

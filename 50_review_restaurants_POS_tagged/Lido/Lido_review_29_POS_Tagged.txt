@@ -1,0 +1,5 @@
+Finally_RB a_DT decent_JJ restaurant_NN in_IN the_DT neighborhood_NN ._.
+The_DT atmosphere_NN is_VBZ a_DT bustling_JJ active_JJ crowd_NN and_CC the_DT food_NN is_VBZ excellent_JJ ._.
+But_CC for_IN the_DT area_NN the_DT price_NN is_VBZ slightly_RB high_JJ ._.
+More_JJR of_IN a_DT downtown_NN pricing_NN ._.
+We_PRP did_VBD enjoy_VB our_PRP$ experience_NN there_RB ._.

@@ -1,0 +1,5 @@
+Everyone_NN is_VBZ right_RB ,_, the_DT slices_NNS ARE_VBP smaller_JJR than_IN they_PRP used_VBD to_TO be_VB ._.
+The_DT quality_NN of_IN the_DT pizza_NN saves_VBZ the_DT place_NN -_: I_PRP like_VBP anything_NN with_IN feta_NN on_IN it_PRP -_: but_CC I_PRP no_RB longer_RBR make_VB a_DT special_JJ trip_NN here_RB ._.
+I_PRP only_RB stop_VB by_IN if_IN I_PRP 'm_VBP on_IN the_DT Ave_NNP anyway_RB and_CC hankering_VBG for_IN a_DT slice_NN of_IN pizza_NN ._.
+One_CD slice_NN used_VBN to_TO be_VB a_DT meal_NN ._.
+Now_RB you_PRP need_VBP two_CD ._.

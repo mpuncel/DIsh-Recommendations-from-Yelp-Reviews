@@ -1,0 +1,5 @@
+Me_PRP and_CC my_PRP$ mom_NN went_VBD here_RB ,_, and_CC i_FW was_VBD so_RB happy_JJ !_.
+The_DT service_NN was_VBD so_RB amazing_JJ !_.
+and_CC the_DT salads_NNS were_VBD so_RB yummy_JJ ._.
+I_PRP would_MD definitely_RB recommend_VB this_DT place_NN for_IN some_DT amazing_JJ italian_JJ food_NN ._.
+And_CC it_PRP is_VBZ n't_RB to_TO pricey_JJ either_CC !_.

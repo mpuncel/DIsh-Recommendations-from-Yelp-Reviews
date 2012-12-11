@@ -1,0 +1,7 @@
+this_DT place_NN is_VBZ just_RB exactly_RB what_WP the_DT two_CD star_NN rating_NN of_IN yelp_NN says_VBZ ._.
+MEH_NNP ,_, ive_NN had_VBD better_RBR ._.
+for_IN me_PRP its_PRP$ just_RB a_DT total_JJ let_VB down_RP ._.
+food_NN taste_NN very_RB processed_VBN and_CC its_PRP$ just_RB not_RB that_DT good_JJ ._.
+i_FW can_MD make_VB better_JJR pasta_NN at_IN my_PRP$ house_NN ._.
+the_DT one_CD thing_NN i_FW did_VBD enjoy_VB here_RB was_VBD there_EX bruscetta_VBP the_DT pesto_JJ spread_NN they_PRP put_VBD on_IN it_PRP was_VBD tasty_JJ and_CC the_DT pieces_NNS of_IN toast_NN themselves_PRP were_VBD huge_JJ ._.
+so_RB not_RB a_DT total_JJ loss_NN on_IN that_DT dining_VBG experience_NN ._.

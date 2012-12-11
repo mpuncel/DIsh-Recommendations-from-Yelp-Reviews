@@ -1,0 +1,8 @@
+Love_NNP the_DT atmosphere_NN but_CC the_DT food_NN is_VBZ weird_JJ and_CC way_NN overpriced_VBN ._.
+Drink_NN prices_NNS are_VBP ridiculous_JJ ._.
+Eggplant_NNP Parmesan_NNP is_VBZ made_VBN like_IN lasagna_NN using_VBG thick_JJ overcooked_JJ noodles_NNS ._.
+Pizza_NNP is_VBZ extraordinarily_RB greasy_JJ ._.
+Soup_NNP is_VBZ served_VBN in_IN bowls_VBZ about_IN the_DT size_NN of_IN a_DT shot_NN glass_NN ._.
+Sandwiches_NNS are_VBP disappointing_JJ because_IN the_DT bread_NN is_VBZ white_JJ ,_, tough_JJ and_CC served_VBD with_IN very_RB little_JJ substance_NN ._.
+2_CD stars_NNS because_IN I_PRP love_VBP the_DT garden_NN and_CC the_DT mason_NN jars_NNS that_IN all_DT beverages_NNS are_VBP served_VBN in_IN ,_, but_CC the_DT food_NN should_MD be_VB so_RB much_RB better_JJR ._.
+Eat_VB before_IN you_PRP go_VBP there_RB and_CC expect_VB to_TO spend_VB a_DT lot_NN if_IN you_PRP choose_VBP to_TO drink_VB ._.

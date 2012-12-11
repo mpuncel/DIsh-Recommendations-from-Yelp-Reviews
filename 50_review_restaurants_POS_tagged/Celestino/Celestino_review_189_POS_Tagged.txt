@@ -1,0 +1,3 @@
+Great_NNP place_NN for_IN authentic_JJ Italian_JJ at_IN a_DT reasonable_JJ price_NN ._.
+Loved_VBD the_DT tortelloni_NNS with_IN pumpkin_NN and_CC the_DT angel_NN hair_NN with_IN meat_NN ragu_NN ._.
+Low_NNP key_JJ atmosphere_NN nothing_NN too_RB fancy_JJ ._.

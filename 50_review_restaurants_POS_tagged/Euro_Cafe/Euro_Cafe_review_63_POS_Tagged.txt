@@ -1,0 +1,2 @@
+Still_RB great_JJ food_NN ,_, great_JJ people_NNS ,_, and_CC the_DT desserts_NNS ..._: ._.
+Homer_NNP good_JJ ._.

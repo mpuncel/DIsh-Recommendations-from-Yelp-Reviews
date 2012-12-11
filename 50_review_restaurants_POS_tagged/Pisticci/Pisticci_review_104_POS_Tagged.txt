@@ -1,0 +1,3 @@
+Great_NNP place_NN ._.
+The_DT food_NN was_VBD good_JJ and_CC the_DT service_NN was_VBD friendly_JJ ._.
+I_PRP will_MD be_VB back_RB next_JJ time_NN I_PRP 'm_VBP in_IN that_DT part_NN of_IN town_NN ._.

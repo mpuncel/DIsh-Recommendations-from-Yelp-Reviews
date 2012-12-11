@@ -1,0 +1,13 @@
+Old_NNP Mars_NNP location_NN ._.
+We_PRP arrived_VBD party_NN of_IN 5_CD with_IN reservations_NNS ._.
+Promptly_RB seated_VBN ._.
+All_PDT the_DT food_NN was_VBD good_JJ to_TO very_RB good_JJ ._.
+Service_NNP OK_UH ._.
+One_CD problem_NN at_IN desert_NN time_NN all_PDT the_DT deserts_NNS except_IN one_CD ariived_VBN on_IN time_NN ._.
+Long_NNP wait_VB for_IN one_CD in_IN our_PRP$ party_NN with_IN no_DT explanation_NN ?_.
+and_CC no_DT comp_NN ._.
+on_IN the_DT item_NN ?_.
+The_DT ambiance_NN is_VBZ very_RB nice_JJ ._.
+A_DT bit_NN noisy_JJ ,_, that_WDT has_VBZ more_JJR to_TO do_VB with_IN us_PRP loud_JJ Austinite\/Texans_NNS ._.
+I_PRP just_RB got_VBD back_RB from_IN Switzerland_NNP ,_, restaurants_NNS there_EX are_VBP so_RB quiet_JJ ._.
+We_PRP would_MD return_VB for_IN sure_JJ ._.

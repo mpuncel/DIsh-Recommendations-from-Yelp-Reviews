@@ -1,0 +1,4 @@
+BEST_NNP PIZZA_NNP EVER_RB !!_VBP I_PRP do_VBP n't_RB think_VB I_PRP 've_VBP truly_RB enjoyed_VBN pizza_NN until_IN I_PRP had_VBD it_PRP here_RB ._.
+Margherita_NNP pizza_NN with_IN pepperoni_NNS -_: TRUST_NNP ME_NNP !_.
+Do_VBP n't_RB be_VB scared_VBN to_TO load_VB on_IN the_DT freshly_RB chopped_VBN garlic_NN and_CC pickled_VBD red_JJ peppers_NNS ._.
+Depending_VBG on_IN what_WP time_NN you_PRP get_VBP there_RB ,_, it_PRP can_MD get_VB really_RB crowded_VBN and_CC difficult_JJ to_TO find_VB seating_VBG but_CC it_PRP 's_VBZ worth_JJ the_DT wait_NN !_.

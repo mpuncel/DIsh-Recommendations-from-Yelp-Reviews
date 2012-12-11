@@ -1,0 +1,11 @@
+Ick_NNP ,_, do_VBP n't_RB go_VB here_RB for_IN the_DT pizza_NN ._.
+We_PRP wanted_VBD a_DT margherita_NN pizza_NN with_IN fresh_JJ mozz_NN and_CC it_PRP was_VBD awful_JJ ._.
+The_DT cheese_NN was_VBD too_RB melted_VBN -_: you_PRP should_MD n't_RB cook_VB fresh_JJ mozz_NN like_IN you_PRP do_VBP the_DT grated_JJ mozz_NN ._.
+The_DT sauce_NN ,_, well_RB ,_, what_WP sauce_NN ?!_NN There_EX was_VBD very_RB very_RB minimal_JJ sauce_NN on_IN the_DT pizza_NN ,_, but_CC I_PRP guess_VBP that_DT 's_VBZ good_JJ ,_, cause_VB what_WP we_PRP had_VBD ,_, did_VBD n't_RB taste_VB good_JJ ._.
+Then_RB ,_, the_DT basil_NN -_: uck_NN !_.
+I_PRP like_VBP the_DT basil_NN to_TO be_VB presented_VBN in_IN a_DT leaf_NN form_NN -LRB-_-LRB- not_RB cut_VB up_RP into_IN pieces_NNS -RRB-_-RRB- ._.
+I_PRP did_VBD n't_RB like_VB Silvio_NNP 's_POS b\/c_JJ the_DT size_NN they_PRP cut_VBD the_DT basil_NN to_TO was_VBD just_RB perfect_JJ to_TO get_VB stuck_VBN in_IN your_PRP$ teeth_NNS ._.
+I_PRP think_VBP if_IN it_PRP had_VBD been_VBN cut_VBN a_DT little_RB smaller_JJR pieces_NNS and_CC just_RB less_RBR in_IN general_JJ on_IN the_DT pizza_NN it_PRP would_MD have_VB been_VBN better_RB ._.
+The_DT bread_NN was_VBD good_JJ ,_, but_CC way_NN too_RB think_VB to_TO be_VB a_DT true_JJ margherita_NN pizza_NN in_IN my_PRP$ opinion_NN ._.
+All_DT ,_, in_IN all_DT we_PRP wo_MD n't_RB be_VB going_VBG back_RB to_TO Silvio_NNP 's_POS ._.
+Funny_JJ ,_, the_DT service_NN was_VBD good_JJ and_CC in_IN reading_VBG through_IN all_PDT the_DT other_JJ reviews_NNS ,_, I_PRP was_VBD hesitant_JJ to_TO order_VB from_IN here_RB ,_, but_CC Silvio_NNP 's_POS told_VBD us_PRP 20_CD min_NN and_CC it_PRP was_VBD 20_CD min_NN ._.

@@ -1,0 +1,5 @@
+Watch_NNP out_IN for_IN their_PRP$ pricing_NN structure_NN :_: You_PRP can_MD order_VB a_DT specialty_NN 16_CD ''_'' pizza_NN for_IN $_$ 24_CD or_CC $_$ 26_CD ,_, or_CC you_PRP can_MD order_VB it_PRP a_DT la_NNP carte_NN by_IN choosing_VBG exactly_RB the_DT same_JJ ingredients_NNS for_IN $_$ 19.50_CD to_TO $_$ 20_CD ._.
+We_PRP pointed_VBD that_IN out_IN to_TO the_DT waitress_NN after_IN placing_VBG our_PRP$ order_NN ,_, and_CC before_IN the_DT pizza_NN came_VBD and_CC she_PRP refused_VBD to_TO adjust_VB the_DT price_NN down_RB ._.
+Ordered_VBD the_DT penne_NN pasta_NN with_IN additional_JJ toppings_NNS and_CC it_PRP was_VBD bland_VBN as_IN can_MD be_VB --_: where_WRB is_VBZ the_DT penne_NN ._.
+On_IN the_DT positive_JJ side_NN the_DT pizza_NN was_VBD good_JJ but_CC not_RB extraordinary_JJ given_VBN the_DT price_NN ._.
+So_RB ,_, if_IN you_PRP want_VBP to_TO go_VB here_RB ,_, the_DT best_JJS thing_NN to_TO do_VB is_VBZ to_TO order_VB the_DT pizza_NN but_CC choose_VB the_DT ingredients_NNS individually_RB

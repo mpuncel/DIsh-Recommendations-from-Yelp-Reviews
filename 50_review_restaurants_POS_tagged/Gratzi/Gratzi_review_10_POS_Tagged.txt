@@ -1,0 +1,5 @@
+One_CD word_NN ``_`` YUM_NNP ''_'' ,_, my_PRP$ bartender_NN was_VBD so_RB helpful_JJ &_CC sweet_JJ ._.
+I_PRP started_VBD with_IN the_DT tuna_NN appetizer_NN and_CC had_VBD pork_NN tenderloin_NN w_NN cherries_NNS ._.
+The_DT bread_NN was_VBD dry_JJ and_CC boring_JJ ._.
+I_PRP tried_VBD the_DT bubbles_NN &_CC berries_NNS martini_NN ..._: too_RB strong_JJ for_IN me_PRP -_: u_NN hafta_NN be_VB a_DT vodka_NN lover_NN for_IN this_DT one_CD ._.
+I_PRP definitely_RB will_MD return_VB !_.

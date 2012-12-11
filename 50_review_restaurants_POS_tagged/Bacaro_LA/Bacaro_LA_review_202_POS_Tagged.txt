@@ -1,0 +1,3 @@
+Bacaro_NNP Burger_NNP w\/Egg_NNP =_SYM I_PRP just_RB went_VBD to_TO heaven_NN ._.
+They_PRP have_VBP Chimay_NNP on_IN tap_VBP ._.
+Is_VBZ it_PRP possible_JJ to_TO go_VB to_TO heaven_NN twice_RB ?_.

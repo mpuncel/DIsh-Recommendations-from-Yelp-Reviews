@@ -1,0 +1,5 @@
+I_PRP really_RB like_IN the_DT food_NN at_IN this_DT place_NN ._.
+It_PRP 's_VBZ small_JJ ,_, fast_JJ and_CC fresh_JJ food_NN ._.
+I_PRP like_VBP their_PRP$ sandwiches_NNS the_DT best_JJS ,_, either_CC the_DT turkey_NN or_CC roast_NN beef_NN ._.
+They_PRP have_VBP great_JJ salads_NNS too_RB ._.
+If_IN you_PRP 're_VBP into_IN sweets_NNS ,_, try_VBP the_DT bread_NN pudding_NN ,_, it_PRP won_VBD me_PRP over_IN and_CC i_FW 'm_VBP not_RB really_RB keen_JJ on_IN deserts_NNS to_TO begin_VB with_IN ._.

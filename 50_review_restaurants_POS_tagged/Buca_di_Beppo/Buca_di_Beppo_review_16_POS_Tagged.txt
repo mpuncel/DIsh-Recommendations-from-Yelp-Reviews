@@ -1,0 +1,5 @@
+apple_NN ,_, watnut_NN ,_, gorgonzola_NN salad_NN ,_, penne_NN ala_NN vodka_NN ,_, garlic_JJ mozz_NN bread_NN ,_, an_DT order_NN of_IN meatball_NN ._.
+three_CD of_IN us_PRP went_VBD and_CC it_PRP was_VBD more_JJR than_IN enough_RB for_IN us_PRP ._.
+The_DT mozzarella_NN bread_NN was_VBD just_RB right_JJ -_: enough_RB cheese_NN ,_, not_RB too_RB salty_JJ ,_, not_RB too_RB buttery_JJ ._.
+THe_NNP salad_NN is_VBZ something_NN i_FW 'd_MD get_VB again_RB -_: it_PRP was_VBD simple_JJ and_CC flavorful_JJ ._.
+I_PRP am_VBP a_DT fan_NN of_IN gorgonzola_NN ,_, so_RB i_FW was_VBD happy_JJ with_IN the_DT amount_NN of_IN cheese_NN in_IN the_DT salad_NN but_CC if_IN you_PRP are_VBP not_RB a_DT fan_NN of_IN it_PRP ,_, then_RB you_PRP may_MD want_VB to_TO take_VB some_DT off_RP ..._: Penne_NNP Ala_NNP Vodka_NNP was_VBD good_JJ ..._: you_PRP ca_MD n't_RB really_RB go_VB wrong_JJ with_IN that_DT ..._: right_NN ?_.

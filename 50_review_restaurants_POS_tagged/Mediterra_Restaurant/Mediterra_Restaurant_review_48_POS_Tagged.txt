@@ -1,0 +1,3 @@
+Food_NNP was_VBD good_JJ ,_, although_IN they_PRP gave_VBD me_PRP the_DT wrong_JJ menu_NN ,_, so_IN I_PRP had_VBD to_TO re-order_NN ._.
+The_DT couscous_JJ salad_NN was_VBD n't_RB quite_RB what_WP I_PRP was_VBD expecting_VBG ,_, but_CC it_PRP was_VBD n't_RB bad_JJ ._.
+Great_NNP place_NN to_TO sit_VB outside_JJ and_CC people-watch_JJ ._.

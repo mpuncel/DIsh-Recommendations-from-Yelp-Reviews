@@ -1,0 +1,3 @@
+Great_NNP place_NN to_TO get_VB an_DT authentic_JJ meal_NN ._.
+Great_NNP wine_NN selection_NN with_IN generous_JJ portions_NNS ._.
+The_DT house_NN dressing_VBG is_VBZ to_TO die_VB for_IN ._.

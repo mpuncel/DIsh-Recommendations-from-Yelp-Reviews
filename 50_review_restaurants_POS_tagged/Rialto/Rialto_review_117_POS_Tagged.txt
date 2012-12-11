@@ -1,0 +1,9 @@
+\*\*_SYM This_DT review_NN is_VBZ only_RB for_IN Mondays_NNP -LRB-_-LRB- $_$ 1_CD oyster_NN night_NN at_IN the_DT bar_NN -RRB-_-RRB- Day_NNP \/_NNP Time_NNP Monday_NNP ,_, 6:00_CD pm_NN Food_NNP Monday_NNP evenings_NNS are_VBP $_$ 1_CD oyster_NN time_NN at_IN Rialto_NNP ._.
+I_PRP like_VBP to_TO go_VB early_RB -LRB-_-LRB- they_PRP \*_SYM do_VBP \*_SYM run_VBP out_IN of_IN oysters_NNS sometimes_RB !_. -RRB-_-RRB-
+with_IN some_DT girlfriends_NNS for_IN oysters_NNS and_CC wine_NN ._.
+The_DT oysters_NNS are_VBP good_JJ and_CC the_DT wine_NN with_IN them_PRP is_VBZ refreshing_VBG ._.
+They_PRP also_RB serve_VBP other_JJ appetizers_NNS if_IN you_PRP 're_VBP hungry_JJ ._.
+Service_NNP The_NNP service_NN is_VBZ fine_JJ ,_, I_PRP 'm_VBP usually_RB seated_VBN quickly_RB and_CC the_DT waiter_NN \/_NN waitress_NN is_VBZ generally_RB attentive_JJ ._.
+Last_JJ time_NN I_PRP was_VBD here_RB they_PRP were_VBD very_RB accommodating_VBG and_CC seated_VBN my_PRP$ group_NN immediately_RB ._.
+Atmosphere_NNP Classy_NNP bar_NN ._.
+Pretty_NNP bright_JJ lighting_NN and_CC lots_NNS of_IN secluded-feeling_JJ tables_NNS ._.

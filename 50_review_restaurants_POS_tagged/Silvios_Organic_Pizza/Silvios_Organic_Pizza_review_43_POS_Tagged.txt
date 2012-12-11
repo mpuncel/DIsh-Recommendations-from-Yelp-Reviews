@@ -1,0 +1,5 @@
+It_PRP 's_VBZ pizza_NN and_CC this_DT place_NN was_VBD fine_JJ ,_, but_CC nothing_NN special_JJ at_IN all_DT ._.
+Ive_NNP had_VBD much_RB better_JJR pizza_NN and_CC although_IN this_DT was_VBD not_RB \*_SYM bad_JJ \*_SYM I_PRP wouldnt_VBP return_NN ._.
+The_DT service_NN was_VBD poor_JJ as_IN there_EX was_VBD only_RB one_CD waiter_NN for_IN the_DT whole_JJ lunch_NN crowd_NN and_CC lets_VBZ just_RB say_VB this_DT young_JJ kid_NN didnt_NN really_RB hustle_VBP ._.
+Skip_VB this_DT joint_JJ and_CC roll_VBP the_DT dice_NNS on_IN something_NN else_RB ._.
+I_PRP have_VBP no_DT clue_NN how_WRB this_DT place_NN gets_VBZ an_DT avg_NN 4_CD star_NN rating_NN ._.

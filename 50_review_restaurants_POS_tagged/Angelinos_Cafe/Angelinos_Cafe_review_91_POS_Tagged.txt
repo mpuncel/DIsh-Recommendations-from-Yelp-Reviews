@@ -1,0 +1,5 @@
+My_PRP$ go-to_JJ place_NN for_IN a_DT nice_JJ Italian_JJ lunch\/dinner_NN whenever_WRB I_PRP am_VBP in_IN Westwood_NNP ._.
+Good_JJ prices_NNS ,_, good_JJ service_NN ,_, and_CC good_JJ food_NN ._.
+The_DT place_NN is_VBZ small_JJ ,_, but_CC I_PRP never_RB had_VBD problems_NNS getting_VBG a_DT table_NN ._.
+Archie_NNP is_VBZ the_DT owner_NN and_CC he_PRP named_VBD the_DT restuarant_NN after_IN his_PRP$ daughter_NN ,_, Angelino_NNP ._.
+I_PRP recommend_VBP :_: -_: spaghetti_NNS with_IN meatballs_NNS -_: spaghetti_NNS marinara_NN w\/chicken_SYM -_: chicken_NN parm_NN -_: chicken_NN alferdo_NN They_PRP also_RB have_VBP a_DT pink_JJ carbonara_NN ,_, which_WDT I_PRP thought_VBD was_VBD just_RB okay_JJ ..._: I_PRP am_VBP a_DT purist_NN ._.

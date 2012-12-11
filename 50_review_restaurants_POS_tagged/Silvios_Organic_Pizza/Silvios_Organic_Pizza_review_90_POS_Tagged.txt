@@ -1,0 +1,6 @@
+Pretty_NNP darn_RB good_JJ vegan_NN pizza_NN ._.
+Love_NNP all_PDT the_DT topping_VBG options_NNS ._.
+PB_NN vegan_NN cookies_NNS =_SYM not_RB so_RB good_JJ ._.
+:_: -LRB-_-LRB- blegggh_NN ._.
+Neat_JJ assortment_NN of_IN beverages_NNS ,_, nice_JJ atmosphere_NN ._.
+Will_MD try_VB again_RB !_.

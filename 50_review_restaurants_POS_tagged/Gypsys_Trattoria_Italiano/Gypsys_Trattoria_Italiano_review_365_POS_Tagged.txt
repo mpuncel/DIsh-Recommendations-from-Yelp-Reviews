@@ -1,0 +1,6 @@
+Good_JJ ,_, cheap_JJ Italian_JJ food_NN in_IN Berkeley_NNP 's_POS beloved_JJ Durant_NNP Food_NNP Ghetto_NNP -LRB-_-LRB- there_EX are_VBP plenty_NN of_IN other_JJ names_NNS for_IN the_DT area_NN as_RB well_RB -RRB-_-RRB- ,_, where_WRB usually_RB the_DT Asian_JJ choices_NNS get_VBP all_PDT the_DT attention_NN ._.
+I_PRP 've_VBP had_VBD a_DT number_NN of_IN things_NNS on_IN the_DT menu_NN ,_, and_CC I_PRP 've_VBP liked_VBD them_PRP all_DT ._.
+I_PRP 'm_VBP especially_RB a_DT fan_NN of_IN Gypsy_NNP 's_POS Chicken_NNP pasta_NN ,_, Gnocchi_NNP ,_, Tortellini_NNP with_IN baby_NN shrimp_NN ,_, and_CC the_DT pesto_JJ pasta_NN ._.
+The_DT pastas_NNS are_VBP all_DT served_VBN with_IN very_RB garlicky_JJ bread_NN --_: basically_RB a_DT piece_NN of_IN bread_NN with_IN a_DT clove_NN or_CC two_CD of_IN roasted_JJ garlic_NN on_IN it_PRP --_: and_CC the_DT portions_NNS are_VBP very_RB good_JJ ._.
+The_DT pasta_NN dishes_NNS are_VBP all_DT only_RB $_$ 6_CD -_: $_$ 7_CD each_DT ._.
+Their_PRP$ calzones_NNS are_VBP also_RB very_RB good_JJ ,_, and_CC HUGE_NNP !!!_CD On_IN a_DT bad_JJ note_NN ,_, I_PRP 've_VBP heard_VBN that_IN the_DT pizza_NN is_VBZ just_RB average_JJ ,_, and_CC I_PRP would_MD probably_RB recommend_VB going_VBG to_TO Fat_NNP Slice_NNP or_CC Blondie_NNP 's_POS if_IN you_PRP 're_VBP in_IN a_DT pizza_NN mood_NN ._.

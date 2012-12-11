@@ -1,0 +1,7 @@
+I_PRP 'll_MD admit_VB I_PRP 've_VBP -LRB-_-LRB- somehow_RB -RRB-_-RRB- never_RB tried_VBD the_DT pizza_NN ,_, but_CC I_PRP really_RB think_VBP this_DT is_VBZ the_DT best_JJS pasta_NN you_PRP can_MD get_VB in_IN Midtown_NNP ._.
+I_PRP used_VBD to_TO work_VB a_DT couple_NN blocks_NNS away_RB ,_, and_CC this_DT was_VBD a_DT favorite_JJ lunchtime_NN destination_NN for_IN our_PRP$ office_NN ._.
+Anyway_RB ,_, every_DT pasta_NN dish_NN I_PRP 've_VBP tried_VBN there_EX has_VBZ been_VBN excellent_JJ ._.
+I_PRP 'm_VBP particularly_RB partial_JJ to_TO the_DT Penne_NNP Salsiccia_NNP --_: perfectly_RB cooked_VBN al_JJ dente_NN penne_NN ,_, a_DT rich_JJ cream_NN sauce_NN ,_, and_CC some_DT very_RB flavorful_JJ sausage_NN ._.
+I_PRP 'd_MD also_RB recommend_VB the_DT spaghetti_NNS polpettine_NN ._.
+A_DT couple_JJ minor_JJ complaints_NNS I_PRP have_VBP are_VBP that_IN it_PRP can_MD get_VB pretty_RB noisy_JJ ,_, and_CC Friday_NNP lunches_NNS tend_VBP to_TO require_VB a_DT wait_NN ._.
+Other_JJ than_IN that_DT ,_, two_CD thumbs_NNS up_RB ._.

@@ -1,0 +1,4 @@
+An_DT Ann_NNP Arbor_NNP staple_NN !_.
+Sangria_NNP ,_, Constant_JJ Buzz_NN -_: mix_NN 'em_PRP -_: although_IN ``_`` boo_NN ''_'' for_IN price_NN hikes_NNS every_DT year_NN ._.
+Love_NNP the_DT pizza_NN and_CC quesadillas_NNS ._.
+Be_VB prepared_JJ for_IN the_DT temperature_NN shifts_NNS associated_VBN with_IN outdoor_JJ seating_NN !_.
