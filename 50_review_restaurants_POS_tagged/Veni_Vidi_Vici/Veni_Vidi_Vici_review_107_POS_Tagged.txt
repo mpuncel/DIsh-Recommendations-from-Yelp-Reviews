@@ -1,6 +1,0 @@
-I_PRP 've_VBP been_VBN here_RB years_NNS ago_RB and_CC I_PRP made_VBD it_PRP back_RB again_RB ._.
-I_PRP had_VBD forgotten_VBN all_DT about_IN the_DT valet_NN parking_NN ,_, good_JJ food_NN ,_, and_CC great_JJ service_NN ._.
-Even_RB though_IN the_DT valet_NN parking_NN said_VBD $_$ 2_CD ,_, they_PRP did_VBD n't_RB collect_VB it_PRP ._.
-FOOD_NN :_: To_TO start_VB ,_, great_JJ tasting_NN bread_NN -LRB-_-LRB- breadsticks_NNS and_CC foccacia_NN -RRB-_-RRB- ._.
-I_PRP had_VBD the_DT Risotto_NNP Frutti_NNP di_FW Mare_NNP which_WDT is_VBZ shrimp_NN ,_, mussels_NNS ,_, clams_NNS ,_, calamari_NN in_IN a_DT creamy_JJ risotto_NN dish_NN ._.
-The_DT entree_FW portion_NN was_VBD a_DT lot_NN so_IN I_PRP recommend_VBP if_IN you_PRP 're_VBP getting_VBG an_DT appetizer_NN or_CC salad_NN to_TO start_VB ,_, get_VB the_DT appetizer_NN portion_NN ._.

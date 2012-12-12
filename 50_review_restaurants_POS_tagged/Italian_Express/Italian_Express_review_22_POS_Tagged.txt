@@ -1,3 +1,0 @@
-I_PRP have_VBP a_DT love\/hate_JJ relationship_NN with_IN this_DT place_NN ._.
-They_PRP make_VBP great_JJ pizza_NN ,_, reasonably_RB good_JJ pasta_NN ,_, and_CC ridiculously_RB addicting_VBG ``_`` garlic_JJ cheese_NN rolls_NNS ''_'' Although_IN ,_, they_PRP are_VBP inconsistent_JJ with_IN service_NN ,_, delivery_NN time_NN ,_, and_CC charge_VB an_DT extra_JJ dollar_NN for_IN credit_NN cards_NNS ._.
-But_CC ,_, they_PRP are_VBP open_JJ until_IN 3AM_NNP ,_, and_CC I_PRP 'm_VBP a_DT little_JJ addicted_VBN to_TO their_PRP$ food_NN ._.

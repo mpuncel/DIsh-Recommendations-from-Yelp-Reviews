@@ -1,2 +1,0 @@
-Delicious_NNP pastries_NNS and_CC coffee_NN ._.
-I_PRP tried_VBD the_DT crescent_NN and_CC cinnamon_VB roll_NN ._.

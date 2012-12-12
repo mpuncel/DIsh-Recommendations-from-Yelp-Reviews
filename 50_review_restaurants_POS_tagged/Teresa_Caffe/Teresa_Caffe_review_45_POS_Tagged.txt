@@ -1,3 +1,0 @@
-I_PRP got_VBD the_DT Mista_NNP salad_NN and_CC the_DT Fico_NNP pizza_NN ,_, and_CC both_DT were_VBD excellent_JJ ._.
-If_IN it_PRP 's_VBZ Friday_NNP or_CC Saturday_NNP ,_, arrive_VBP early_RB or_CC else_RB be_VB willing_JJ to_TO wait_VB ._.
-This_DT joint_NN is_VBZ jumpin_VBG '_'' !_.

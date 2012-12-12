@@ -1,5 +1,0 @@
-Sure_RB ,_, they_PRP can_MD cook_VB pasta_NN ._.
-Yet_RB what_WP use_NN is_VBZ pasta_NN when_WRB the_DT pasta_NN sauce_NN is_VBZ thin_JJ and_CC wrong_JJ ?_.
-I_PRP 've_VBP never_RB had_VBN a_DT pasta_NN sauce_NN here_RB that_IN felt_VBD like_IN it_PRP did_VBD what_WP it_PRP was_VBD meant_VBN to_TO do_VB ._.
-And_CC the_DT garlic_JJ tastes_NNS merely_RB like_IN toasted_VBN bread_NN ,_, nothing_NN more_JJR ._.
-I_PRP never_RB understood_VBD why_WRB this_DT joint_NN was_VBD usually_RB filled_VBN until_IN I_PRP realized_VBD that_IN at_IN the_DT time_NN it_PRP was_VBD the_DT only_JJ Italian_JJ restaurant_NN anywhere_RB near_IN campus_NN ._.

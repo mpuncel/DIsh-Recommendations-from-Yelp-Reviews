@@ -1,4 +1,0 @@
-I_PRP go_VBP there_RB almost_RB once_RB a_DT week_NN for_IN lunch_NN ._.
-Food_NNP quality_NN is_VBZ consistently_RB good_JJ ._.
-I_PRP have_VBP never_RB had_VBN grilled_JJ salmon_NN better_JJR than_IN Angelino_NNP 's_POS !_.
-Ravioli_NNP 's_POS are_VBP great_JJ too_RB !_.

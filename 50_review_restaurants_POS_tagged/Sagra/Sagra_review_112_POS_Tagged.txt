@@ -1,4 +1,0 @@
-This_DT review_NN is_VBZ 2_CD week_NN 's_POS due_JJ ._.
-Went_VBD back_RB and_CC had_VBD amazing_JJ food_NN and_CC amazing_JJ time_NN ._.
-Thanks_NNS whatever_WDT you_PRP all_DT did_VBD ._.
-You_PRP will_MD see_VB me_PRP more_RBR often_RB ._.

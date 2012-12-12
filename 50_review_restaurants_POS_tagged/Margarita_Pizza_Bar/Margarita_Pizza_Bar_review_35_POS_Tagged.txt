@@ -1,9 +1,0 @@
-I_PRP was_VBD SO_RB EXCITED_VBN to_TO see_VB a_DT nicer_JJR restaurant_NN open_JJ near_IN USC_NNP ..._: but_CC I_PRP left_VBD my_PRP$ meal_NN pretty_RB disappointed_JJ ._.
-Overall_RB ,_, this_DT place_NN is_VBZ pretty_RB overpriced_VBN ._.
-The_DT food_NN is_VBZ alright_JJ but_CC it_PRP does_VBZ n't_RB quite_RB justify_VB its_PRP$ price_NN ._.
-It_PRP 's_VBZ pretty_RB apparent_JJ that_IN this_DT place_NN 's_POS menu_NN was_VBD designed_VBN to_TO resemble_VB Bottega_NNP Louie_NNP 's_POS ._.
-Their_PRP$ ``_`` small_JJ plates_NNS ''_'' menu_NN is_VBZ almost_RB a_DT replica_NN of_IN Bottega_NNP 's_POS ,_, though_IN the_DT food_NN is_VBZ not_RB executed_VBN as_RB well_RB ._.
-Our_PRP$ order_NN of_IN tomato_NN and_CC basil_NN bruschetta_NN as_IN an_DT appetizer_NN was_VBD pretty_RB good_JJ ,_, but_CC a_DT couple_NN pieces_NNS of_IN bread_NN with_IN some_DT tomatoes_NNS sprinkled_VBD on_IN top_NN is_VBZ n't_RB really_RB worth_IN the_DT $_$ 8_CD price_NN tag_NN for_IN me_PRP -LRB-_-LRB- Bottega_NNP 's_POS version_NN is_VBZ much_RB better_JJR at_IN the_DT same_JJ price_NN -RRB-_-RRB- ._.
-The_DT other_JJ items_NNS my_PRP$ party_NN ordered_VBN ,_, a_DT salad_NN ,_, pork_NN chops_NNS ,_, and_CC burger_NN were_VBD very_RB average_JJ ._.
-Even_RB though_IN the_DT food_NN was_VBD pretty_JJ average_NN ,_, it_PRP 's_VBZ still_RB a_DT nice_JJ addition_NN to_TO the_DT USC_NNP community_NN ._.
-Margarita_NNP is_VBZ definitely_RB one_CD of_IN the_DT only_JJ places_NNS within_IN walking_VBG distance_NN of_IN campus_NN to_TO dine_VB in_IN a_DT ``_`` nicer_JJR atmosphere_NN ''_'' ,_, just_RB do_VBP n't_RB expect_VB to_TO be_VB blown_VBN away_RB by_IN the_DT food_NN ._.

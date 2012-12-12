@@ -1,5 +1,0 @@
-Best_JJS Pizza_NNP I_PRP 've_VBP ever_RB had_VBN ._.
-I_PRP have_VBP visited_VBN NY_NNP a_DT lot_NN and_CC do_VB agree_VB that_IN NY_NNP has_VBZ the_DT best_JJS pizza_NN on_IN the_DT planet_NN ._.
-That_DT being_VBG said_VBD ,_, I_PRP 've_VBP have_VBP n't_RB had_VBD pizza_NN in_IN NY_NNP like_IN this_DT ._.
-Favorite_JJ pie_NN of_IN my_PRP$ life_NN ._.
-On_IN top_NN of_IN that_DT ,_, its_PRP$ BYOB_NNP ..._: whats_NNS not_RB to_TO like_VB ?_.

@@ -1,4 +1,0 @@
-Passing_VBG through_IN SLO_NNP ,_, I_PRP needed_VBD a_DT sugar_NN fix_NN ._.
-Pisatchio_NNP gelato_NN did_VBD the_DT trick_NN ._.
-Not_RB spectacular_JJ ,_, not_RB bad_JJ either_RB ._.
-Pricey_JJ at_IN $_$ 3_CD for_IN a_DT tiny_JJ cup_NN ._.

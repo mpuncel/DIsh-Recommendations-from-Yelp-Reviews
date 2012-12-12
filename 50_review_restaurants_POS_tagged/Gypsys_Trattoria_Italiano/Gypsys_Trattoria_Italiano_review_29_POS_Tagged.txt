@@ -1,3 +1,0 @@
-This_DT place_NN is_VBZ like_IN having_VBG olive_JJ garden_NN to_TO go_VB and_CC cheaper_JJR !_.
-Pretty_NNP much_RB anything_NN on_IN the_DT menu_NN is_VBZ amazing_JJ ._.
-My_PRP$ usual_JJ is_VBZ the_DT chicken_NN pesto_NN and_CC I_PRP really_RB do_VBP n't_RB like_IN getting_VBG pesto_JJ anywhere_RB else_RB ,_, it_PRP just_RB ca_MD n't_RB compare_VB ._.

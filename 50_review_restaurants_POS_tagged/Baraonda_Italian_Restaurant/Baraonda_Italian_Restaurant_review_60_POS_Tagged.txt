@@ -1,5 +1,0 @@
-Pre-theater_JJ choice_NN for_IN restaurant_NN -_: I_PRP went_VBD here_RB before_IN going_VBG to_TO a_DT show_NN at_IN the_DT Fox_NNP Theater_NNP about_IN a_DT block_NN away_RB ._.
-I_PRP sat_VBD at_IN the_DT lively_JJ bar_NN ,_, and_CC got_VBD a_DT delicious_JJ and_CC generous-sized_JJ pizza_NN -_: ham_NN ,_, artichokes_NNS ,_, mushrooms_NNS ,_, fontina_NN cheese_NN ._.
-The_DT bartender_NN recommended_VBD a_DT great_JJ wine_NN to_TO go_VB with_IN it_PRP ._.
-Overall_RB ,_, convenient_JJ ,_, pretty_RB tasty_JJ pizza_NN ._.
-It_PRP 's_VBZ crowded_VBN pre-theater_JJ so_RB make_VB a_DT reservation_NN if_IN you_PRP are_VBP on_IN a_DT time_NN schedule_NN ._.

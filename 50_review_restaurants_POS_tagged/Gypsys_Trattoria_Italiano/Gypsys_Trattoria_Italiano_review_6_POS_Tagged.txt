@@ -1,6 +1,0 @@
-so_RB delicious_JJ !_.
--_: Pesto_NNP chicken_NN --_: yumyum_NN and_CC oily_RB ._.
--_: Pasta_NN special_JJ with_IN eggplant_NN ,_, chicken_NN ,_, and_CC marinara_NN sauce_NN :_: good_JJ !_.
--_: Vegetarian_NN marinara_NN pasta_NN stuff_NN :_: Full_NNP of_IN veggies_NNS but_CC bland_NN !_.
-passss_NNS ._.
--_: Victor_NNP 's_POS spaghetti_NNS --_: Beef_NN ,_, onion_NN ,_, tomatoes_NNS ,_, and_CC marinara_NN sauce_NN :_: yum_NN !_.

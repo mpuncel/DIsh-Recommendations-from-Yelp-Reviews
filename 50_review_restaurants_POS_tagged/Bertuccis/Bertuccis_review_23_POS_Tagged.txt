@@ -1,4 +1,0 @@
-Pizza_NNP here_RB is_VBZ as_RB good_JJ as_IN Bertucci_NNP 's_POS pizza_NN is_VBZ gonna_NNS get_VB and_CC let_VB me_PRP tell_VB you_PRP not_RB all_DT Bertucci_NNP 's_POS are_VBP the_DT same_JJ ._.
-Service_NNP on_IN the_DT other_JJ hand_NN is_VBZ questionable_JJ so_RB minus_IN one_CD star_NN ._.
-Come_VBN here_RB for_IN the_DT pizza_NN ,_, not_RB the_DT service_NN ._.
-But_CC then_RB again_RB ,_, how_WRB could_MD you_PRP expect_VB great_JJ service_NN from_IN a_DT chain_NN like_IN Bertucci_NNP 's_POS ?_.

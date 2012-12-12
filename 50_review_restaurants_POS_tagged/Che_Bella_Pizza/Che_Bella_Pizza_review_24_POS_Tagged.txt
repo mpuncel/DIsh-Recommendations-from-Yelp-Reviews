@@ -1,6 +1,0 @@
-i_FW ordered_VBD a_DT pizza_NN for_IN take_VB out_RP ._.
-I_PRP always_RB worry_VBP about_RB just_RB getting_VBG it_PRP by_IN the_DT slice_NN becasue_NN I_PRP am_VBP not_RB sure_JJ how_WRB long_RB the_DT slice_NN has_VBZ been_VBN there_RB and_CC it_PRP is_VBZ always_RB better_JJR fresh_JJ out_IN of_IN the_DT oven_NN ._.
-It_PRP claimed_VBD fresh_JJ ingredients_NNS and_CC it_PRP tasted_VBD pretty_RB fresh_JJ ._.
-Quick_RB service_NN ,_, and_CC pizza_NN was_VBD good_JJ ,_, it_PRP satisfied_VBD the_DT pizza_NN craving_NN i_FW had_VBD ._.
-Will_MD prob_VB order_NN a_DT pizza_NN again_RB sometime_RB ._.
-This_DT time_NN i_FW just_RB ordered_VBN pepperoni_NNS and_CC sausage_NN ,_, maybe_RB next_JJ time_NN I_PRP will_MD try_VB one_CD of_IN their_PRP$ specialties_NNS ._.

@@ -1,4 +1,0 @@
-Quiet_JJ restaurant_NN for_IN dinner_NN ._.
-Excellent_JJ ``_`` tropical_JJ pasta_NN ''_'' with_IN prosciutto_NN and_CC pineapple_NN ._.
-Note_NN :_: the_DT table_NN by_IN the_DT window_NN next_IN to_TO the_DT door_NN has_VBZ the_DT window_NN seats_NNS right_RB under_IN the_DT air_NN conditioning_NN vent_VB ._.
-This_DT can_MD get_VB annoying_VBG ._.

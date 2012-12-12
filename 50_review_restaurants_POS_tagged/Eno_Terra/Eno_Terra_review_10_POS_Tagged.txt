@@ -1,4 +1,0 @@
-The_DT restaurant_NN is_VBZ gorgeous_JJ ,_, the_DT food_NN delectable_JJ ,_, the_DT atmosphere_NN romantic_JJ ._.
-I_PRP went_VBD for_IN Valentine_NNP 's_POS Day_NNP and_CC the_DT service_NN was_VBD way_NN too_RB slow_JJ ,_, but_CC I_PRP will_MD try_VB again_RB on_IN a_DT non-holiday_JJ ._.
-I_PRP hated_VBD my_PRP$ server_NN ,_, he_PRP was_VBD yelling_VBG across_IN the_DT room_NN to_TO people_NNS and_CC cursing_NN and_CC looking_VBG down_RP my_PRP$ dress_NN ._.
-So_RB NOT_RB the_DT dining_VBG experience_NN I_PRP was_VBD expecting_VBG ._.

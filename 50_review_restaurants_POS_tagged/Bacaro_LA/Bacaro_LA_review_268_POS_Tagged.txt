@@ -1,5 +1,0 @@
-Went_VBD here_RB on_IN Monday_NNP night_NN for_IN the_DT hapy_JJ hour_NN ._.
-For_IN Monday_NNP happy_JJ hour_NN ,_, the_DT food_NN is_VBZ $_$ 5_CD and_CC wine_NN is_VBZ half_DT off_RB ._.
-Service_NNP can_MD be_VB slow_JJ and_CC the_DT wine_NN is_VBZ allright_JJ ._.
-However_RB ,_, the_DT food_NN is_VBZ excellent_JJ and_CC ca_MD n't_RB be_VB beat_VBN for_IN the_DT price_NN ._.
-They_PRP also_RB have_VBP a_DT good_JJ selection_NN of_IN beers_NNS and_CC the_DT bread_NN pudding_NN dessert_NN is_VBZ awesome_JJ ._.

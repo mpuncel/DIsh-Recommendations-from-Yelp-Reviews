@@ -1,9 +1,0 @@
-Pretty_NNP tasty_JJ pizza_NN ,_, but_CC a_DT bit_NN on_IN the_DT pricey_JJ side_NN for_IN just_RB an_DT average-sized_JJ slice_NN !_.
-$_$ 3.55_CD including_VBG tax_NN for_IN a_DT slice_NN of_IN cheese_NN ._.
-Yes_NNP -_: it_PRP 's_VBZ super_JJ thin_JJ and_CC true_JJ NY_NN in_IN that_DT sense_NN ._.
-Yes_NNP -_: there_EX is_VBZ just_RB the_DT right_JJ amout_NN of_IN cheese_NN !_.
-But_CC ..._: the_DT sauce_NN lacks_VBZ a_DT bit_NN of_IN `_`` kick_NN '_'' ,_, in_IN my_PRP$ opinion_NN ._.
-Or_CC maybe_RB it_PRP could_MD just_RB use_VB a_DT tad_NN more_JJR of_IN fresh_JJ basil_NN ?_.
-Not_RB sure_RB ,_, but_CC that_DT 's_VBZ the_DT only_JJ thing_NN that_WDT was_VBD lacking_VBG ._.
-Would_MD I_PRP visit_VB again_RB ?_.
-Definitely_RB ..._: right_RB after_IN pay_NN day_NN ;_: -_: -RRB-_-RRB-

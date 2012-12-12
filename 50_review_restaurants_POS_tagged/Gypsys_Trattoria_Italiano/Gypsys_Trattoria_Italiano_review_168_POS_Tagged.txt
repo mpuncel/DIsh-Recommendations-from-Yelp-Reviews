@@ -1,6 +1,0 @@
-Gypsy_NNP 's_POS was_VBD my_PRP$ favorite_JJ restaurant_NN during_IN undergrad_NN ..._: you_PRP gotta_VBP go_VB for_IN the_DT cream_NN sauces_NNS ._.
-The_DT tortellini_NNS gorgonzola_NN is_VBZ \*\*\*\*\*_CD !!_NN I_PRP got_VBD other_JJ things_NNS that_WDT were_VBD good_JJ but_CC once_RB I_PRP got_VBD that_IN I_PRP stopped_VBD getting_VBG other_JJ things_NNS ._.
-Good_JJ gnocchi_NNS and_CC calzones_NNS ._.
-It_PRP 's_VBZ cheap_JJ ,_, fast_RB ,_, easy_JJ to_TO sneak_VB free_JJ fountain_NN soda_NN in_IN the_DT water_NN cups_NNS ,_, and_CC the_DT semi-cranky_JJ guy_NN who_WP I_PRP can_MD only_RB assume_VB is_VBZ the_DT owner_NN has_VBZ been_VBN there_RB every_DT single_JJ time_NN I_PRP 've_VBP gone_VBN ._.
-It_PRP 's_VBZ no_DT hot_JJ date_NN spot_NN but_CC if_IN you_PRP 're_VBP sick_JJ of_IN dorm_NN food_NN it_PRP 's_VBZ a_DT lifesaver_NN ._.
-I_PRP 'd_MD suggest_VB avoiding_VBG ordering_VBG food_NN to_TO go_VB because_IN I_PRP did_VBD once_RB and_CC my_PRP$ hot_JJ pasta_NN melted_VBD right_RB through_IN the_DT plastic_NN box_NN ._.

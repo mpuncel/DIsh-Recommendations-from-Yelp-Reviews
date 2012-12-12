@@ -1,9 +1,0 @@
-Food\/Service_NNP are_VBP both_DT average_NN ._.
-Gave_VBD 3_CD stars_NNS for_IN the_DT ambience_NN and_CC look_NN of_IN the_DT restaurant_NN ._.
-Food_NNP came_VBD in_IN late_JJ ._.
-We_PRP ordered_VBD lasagna_NN &_CC grilled_JJ chicken_NN ._.
-Chicken_NNP dish_NN was_VBD good_JJ but_CC lasagna_NN was_VBD not_RB up_RB to_TO the_DT mark_NN ._.
-One_CD more_JJR thing_NN ._.
-The_DT restaurant_NN was_VBD noisy_JJ ._.
-Wish_NNP they_PRP could_MD ask_VB their_PRP$ noisy_JJ customers_NNS to_TO reduce_VB their_PRP$ volumes_NNS ._.
-Anyway_RB ,_, will_MD visit_VB again_RB and_CC try_VB some_DT other_JJ dish_NN ._.

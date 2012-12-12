@@ -1,4 +1,0 @@
-The_DT food_NN ,_, although_IN a_DT bit_NN pricey_JJ ,_, is_VBZ good_JJ ._.
-They_PRP have_VBP really_RB rich_JJ combination_NN of_IN pastas_NNS ,_, soup_NN and_CC gelato_NN ._.
-The_DT dishes_NNS would_MD be_VB around_RB $_$ 10_CD -_: $_$ 12_CD and_CC desserts_VBZ start_NN at_IN around_IN $_$ 5_CD -_: $_$ 6_CD ._.
-The_DT Pallino_NNP Float_NNP and_CC the_DT Affogato_NNP are_VBP recommended_VBN for_IN desserts_NNS ._.

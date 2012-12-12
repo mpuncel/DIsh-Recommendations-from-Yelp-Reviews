@@ -1,5 +1,0 @@
-This_DT place_NN has_VBZ a_DT lot_NN of_IN good_JJ and_CC unfortunately_RB some_DT not_RB so_RB good_JJ ._.
-The_DT food_NN was_VBD very_RB good_JJ ._.
-The_DT atmosphere_NN was_VBD high_JJ energy_NN but_CC a_DT little_JJ too_RB noisy_JJ and_CC loud_JJ ._.
-The_DT service_NN was_VBD slow_JJ and_CC below_IN average_NN ._.
-The_DT wine_NN list_NN was_VBD extensive_JJ but_CC overpriced_JJ and_CC not_RB particularly_RB good_JJ ._.

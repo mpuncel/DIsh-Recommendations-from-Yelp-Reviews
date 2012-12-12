@@ -1,8 +1,0 @@
-This_DT is_VBZ a_DT cute_JJ little_JJ place_NN with_IN some_DT nice_JJ little_JJ romantic_JJ nooks_NNS ._.
-We_PRP went_VBD on_IN a_DT Monday_NNP night_NN and_CC had_VBD one_CD of_IN the_DT wines_NNS for_IN $_$ 15_CD ._.
-It_PRP was_VBD ..._: ok_NN ._.
-What_WP can_MD you_PRP say_VB ,_, it_PRP was_VBD a_DT bottle_NN for_IN $_$ 15_CD ._.
-The_DT calamari_NN and_CC salad_NN were_VBD both_DT great_JJ ._.
-My_PRP$ tilapia_NN was_VBD on_IN the_DT salty_NN side_NN ,_, as_RB was_VBD the_DT side_NN of_IN sauteed_NN spinach_NN ._.
-However_RB ,_, my_PRP$ friends_NNS really_RB loved_VBD their_PRP$ dishes_NNS ._.
-I_PRP 'm_VBP giving_VBG this_DT place_NN the_DT benefit_NN of_IN the_DT doubt_NN and_CC hope_NN that_IN the_DT over_JJ salting_NN was_VBD a_DT one_CD time_NN thing_NN ._.

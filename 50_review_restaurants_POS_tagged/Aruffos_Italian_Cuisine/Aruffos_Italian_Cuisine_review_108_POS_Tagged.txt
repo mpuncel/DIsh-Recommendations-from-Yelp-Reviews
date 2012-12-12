@@ -1,2 +1,0 @@
-Nice_NNP Italian_NNP cafe_NN good_JJ food_NN but_CC the_DT cheap_JJ wine_NN glasses_NNS and_CC silverware_NN were_VBD a_DT bummer_NN keeping_VBG it_PRP from_IN being_VBG fine_JJ dining_NN ..._: for_IN the_DT price_NN they_PRP should_MD get_VB better_JJR hardware_NN ._.
-They_PRP did_VBD have_VB a_DT could_MD Stracali_NNP Chanti_NNP for_IN $_$ 32_CD a_DT bottle_NN which_WDT was_VBD a_DT fair_JJ deal_NN and_CC the_DT starter_JJ bread_NN was_VBD excellent_JJ

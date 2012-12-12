@@ -1,8 +1,0 @@
-I_PRP definitely_RB recommend_VBP Giuseppe_NNP 's_POS in_IN downtown_NN San_NNP Luis_NNP Obispo_NNP ._.
-The_DT ambiance_NN is_VBZ well_RB worth_JJ it_PRP ,_, especially_RB if_IN you_PRP sit_VBP outside_RB under_IN a_DT heat_NN lamp_NN ._.
-I_PRP would_MD avoid_VB outside_JJ ,_, however_RB ,_, if_IN there_EX 's_VBZ a_DT lady_NN singing_NN ,_, as_IN it_PRP 's_VBZ always_RB a_DT bit_NN too_RB loud_JJ ._.
-Food_NNP is_VBZ always_RB prepared_VBN well_RB ._.
-Once_RB my_PRP$ girlfriend_NN did_VBD find_VB a_DT small_JJ piece_NN of_IN foil_NN in_IN her_PRP$ dish_NN ,_, however_RB ,_, so_IN the_DT meal_NN was_VBD comped_VBN ._.
-But_CC that_DT was_VBD rather_RB rare_JJ ,_, as_IN we_PRP 've_VBP been_VBN back_RB a_DT handful_NN of_IN times_NNS ._.
-Also_RB ,_, if_IN you_PRP 're_VBP just_RB looking_VBG for_IN a_DT classy_JJ drink_NN ,_, I_PRP 'd_MD recommend_VB their_PRP$ bar_NN here_RB or_CC at_IN their_PRP$ location_NN in_IN Pismo_NNP Beach_NNP ._.
-They_PRP do_VBP n't_RB shy_VB away_RB from_IN well-made_JJ cocktails_NNS ._.

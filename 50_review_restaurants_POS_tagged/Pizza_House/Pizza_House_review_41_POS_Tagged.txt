@@ -1,2 +1,0 @@
-Delicious_NNP food_NN and_CC a_DT fun_NN atmosphere_NN ..._: LOVE_NNP that_IN they_PRP are_VBP open_JJ until_IN 4_CD !_.
-The_DT pepperoni_NNS bread_NN sticks_NNS are_VBP a_DT must_MD !_.

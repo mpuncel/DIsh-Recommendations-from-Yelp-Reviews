@@ -1,3 +1,0 @@
-The_DT food_NN tastes_VBZ a_DT lot_NN better_JJR than_IN Vistango_NNP and_CC it_PRP 's_VBZ cheaper_JJR as_RB well_RB ._.
-Cast_VBN the_DT USC_NNP student_NN discount_NN card_NN and_CC you_PRP 're_VBP into_IN some_DT ridiculously_RB low_JJ prices_NNS for_IN a_DT good_JJ amount_NN of_IN decent_JJ food_NN ._.
-The_DT pizzas_NNS in_IN particular_JJ are_VBP great_JJ ,_, and_CC if_IN you_PRP can_MD find_VB a_DT friend_NN to_TO share_VB the_DT 2_CD for_IN the_DT price_NN of_IN 1_CD pizza_NN discount_NN you_PRP 'll_MD have_VB enjoyed_VBN one_CD of_IN the_DT best_JJS deals_NNS near_IN USC_NNP ._.

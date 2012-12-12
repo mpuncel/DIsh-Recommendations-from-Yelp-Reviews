@@ -1,3 +1,0 @@
-The_DT chicken_NN cannelloni_NN I_PRP had_VBD here_RB was_VBD unedible_JJ ._.
-Both_DT my_PRP$ mom_NN and_CC I_PRP thought_VBD the_DT ground_NN chicken_NN was_VBD of_IN extremely_RB low_JJ quality_NN and_CC even_RB the_DT bread_NN was_VBD sub-par_JJ ._.
-I_PRP will_MD not_RB be_VB going_VBG back_RB ._.

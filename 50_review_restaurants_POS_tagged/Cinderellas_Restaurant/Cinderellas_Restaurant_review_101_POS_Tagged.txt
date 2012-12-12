@@ -1,3 +1,0 @@
-Food_NNP is_VBZ pretty_RB good_JJ for_IN the_DT price_NN and_CC the_DT staff_NN is_VBZ really_RB nice_JJ ._.
-I_PRP order_VBP take_VB out_RP from_IN here_RB all_DT the_DT time_NN and_CC they_PRP are_VBP very_RB fast_RB ,_, but_CC they_PRP have_VBP messed_VBN up_RP my_PRP$ order_NN more_RBR then_RB once_RB ._.
-I_PRP 'm_VBP still_RB pleased_VBN with_IN the_DT food_NN ,_, but_CC it_PRP would_MD just_RB be_VB nice_JJ to_TO get_VB what_WP I_PRP ordered_VBD ._.

@@ -1,6 +1,0 @@
-bruschette_NN -_: dalia_NN 's_POS open_JJ fire_NN roasted_JJ bell_NN peppers_NNS &_CC roasted_JJ garlic_NN ,_, balsamic_NN ,_, basil_NN pesto_NN grilled_JJ lamb_NN burger_NN crispy_JJ pig_NN ears_NNS oven_VBP roasted_JJ bone_NN marrow_NN baraco_NN mac_NN and_CC cheese_NN breadbar_NN baguette_NN with_IN garlic_JJ and_CC salt_NN olive_JJ oil_NN small_JJ small_JJ space_NN tables_NNS arranged_VBN in_IN communal_JJ style_NN with_IN breaks_NNS in_IN between_IN set_VBN up_RP for_IN smaller_JJR parties_NNS ._.
-service_NN is_VBZ spotty_JJ ._.
-usc_JJ students_NNS next_IN to_TO us_PRP were_VBD given_VBN much_JJ attention_NN ._.
-us_PRP working_VBG folks_NNS ,_, not_RB so_RB much_JJ even_RB tho_VB our_PRP$ table_NN for_IN 2_CD ordered_VBN as_RB much_RB as_IN their_PRP$ party_NN of_IN 6_CD ._.
-decent_JJ food_NN ,_, true_JJ tapas-style_JJ portions_NNS ._.
-im_NN glad_JJ i_FW came_VBD to_TO kill_VB my_PRP$ curiosity_NN ._.

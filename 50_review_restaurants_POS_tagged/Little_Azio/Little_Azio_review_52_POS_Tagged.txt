@@ -1,9 +1,0 @@
-Overall_RB ,_, I_PRP like_VBP this_DT place_NN ._.
-Yes_UH ,_, it_PRP 's_VBZ a_DT generic_JJ concept_NN ,_, pasta_NN and_CC pizza_NN ,_, but_CC the_DT food_NN is_VBZ still_RB better_JJR than_IN what_WP I_PRP make_VBP at_IN home_NN ._.
-I_PRP like_VBP the_DT outdoor_JJ seating_NN area_NN and_CC the_DT fountain_NN ,_, as_RB well_RB as_IN the_DT convenient_JJ walking_NN location_NN to_TO many_JJ other_JJ Midtown_NNP places_NNS ._.
-While_IN the_DT food_NN is_VBZ good_JJ ,_, the_DT people_NNS working_VBG here_RB come_VB up_RP short_JJ ._.
-Yes_UH they_PRP are_VBP very_RB friendly_JJ but_CC it_PRP seems_VBZ like_IN something_NN is_VBZ never_RB right_JJ ..._: they_PRP either_CC bring_VB the_DT wrong_JJ food_NN to_TO the_DT wrong_JJ table_NN or_CC it_PRP takes_VBZ 15_CD minutes_NNS to_TO get_VB your_PRP$ salad_NN and_CC they_PRP bring_VBP out_RP the_DT salad_NN and_CC the_DT pasta_NN at_IN the_DT exact_JJ time_NN so_IN you_PRP have_VBP all_PDT this_DT food_NN ._.
-I_PRP know_VBP it_PRP 's_VBZ not_RB a_DT fancy_JJ schmancy_NN place_NN and_CC I_PRP should_MD n't_RB expect_VB that_DT ,_, it_PRP just_RB annoys_VBZ me_PRP ._.
-Also_RB ,_, if_IN you_PRP order_VBP wine_NN ,_, they_PRP do_VBP n't_RB give_VB it_PRP to_TO you_PRP right_RB there_RB they_PRP offer_VBP to_TO bring_VB it_PRP to_TO the_DT table_NN ._.
-Nine_CD times_NNS out_IN of_IN ten_NN ,_, you_PRP end_VBP up_RP having_VBG to_TO ask_VB for_IN it_PRP when_WRB your_PRP$ food_NN arrives_VBZ because_IN it_PRP never_RB shows_VBZ up_RP ._.
-Overall_JJ though_IN ,_, I_PRP overlook_VBP that_IN for_IN a_DT good_JJ outdoor_JJ space_NN and_CC good_JJ food_NN ._.

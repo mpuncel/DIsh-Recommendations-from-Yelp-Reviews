@@ -1,8 +1,0 @@
-This_DT place_NN catered_VBD an_DT event_NN I_PRP went_VBD to_TO ..._: Foods_NNP I_PRP tried_VBD :_: Zuppa_NNP di_FW funghi_FW Risotto_NNP salsiccia_NN e_SYM rapini_FW The_DT risotto_NN was_VBD alright_JJ ._.
-It_PRP was_VBD very_RB light_JJ but_CC I_PRP was_VBD very_RB hungry_JJ ._.
-The_DT Mushroom_NN soup_NN was_VBD DELICIOUS_NNP !_.
-I_PRP ate_VBD the_DT whole_JJ thing_NN and_CC went_VBD back_RB for_IN seconds_NNS ._.
-My_PRP$ friend_NN said_VBD it_PRP had_VBD a_DT funny_JJ smell_NN to_TO it_PRP but_CC I_PRP loved_VBD it_PRP ._.
-It_PRP was_VBD really_RB good_JJ ._.
-Service_NNP :_: Nice_SYM -_: catered_VBN ,_, so_IN I_PRP do_VBP n't_RB know_VB truly_RB ._.
-Must_MD try_VB this_DT place_NN at_IN the_DT actual_JJ restaurant_NN ._.

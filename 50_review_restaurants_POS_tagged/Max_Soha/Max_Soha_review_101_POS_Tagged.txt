@@ -1,4 +1,0 @@
-Love_NNP this_DT place_NN ._.
-Go_VB there_RB with_IN embarrassing_JJ frequency_NN ._.
-The_DT gnocchi_NNS ,_, the_DT ortolana_NN ,_, the_DT LASAGNA_NNP and_CC the_DT salmon_NN are_VBP my_PRP$ favorites_NNS ._.
-And_CC when_WRB the_DT risotto_NN special_NN is_VBZ lobster_NN asparagus_NN ,_, I_PRP am_VBP at_IN my_PRP$ happiest_JJS ._.

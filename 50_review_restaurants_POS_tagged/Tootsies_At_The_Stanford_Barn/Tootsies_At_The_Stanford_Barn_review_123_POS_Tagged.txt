@@ -1,2 +1,0 @@
-cute_JJ place_NN ,_, lovely_JJ outdoor_JJ seating_NN ._.
-food_NN is_VBZ good_JJ and_CC fresh_JJ ._.

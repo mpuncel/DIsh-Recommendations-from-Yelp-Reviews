@@ -1,2 +1,0 @@
-This_DT cafe_NN has_VBZ very_RB good_JJ food_NN at_IN very_RB affordable_JJ prices_NNS ,_, with_IN a_DT wide_JJ selection_NN of_IN dishes_NNS ranging_VBG from_IN light_JJ lunch_NN fare_NN to_TO plentiful_JJ dinner_NN portions_NNS ._.
-There_EX are_VBP classic_JJ Italian_JJ favorites_NNS done_VBN well_RB ,_, and_CC some_DT more_JJR adventurous_JJ choices_NNS like_IN the_DT wasabi_NN salad_NN ,_, which_WDT add_VBP a_DT nice_JJ variety_NN to_TO the_DT menu_NN ._.

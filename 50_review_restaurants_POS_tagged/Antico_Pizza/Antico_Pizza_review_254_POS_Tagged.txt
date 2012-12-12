@@ -1,4 +1,0 @@
-I_PRP had_VBD to_TO add_VB ._.
-Fantastic_JJ ._.
-Small_JJ space_NN ,_, small_JJ menu_NN ,_, big_JJ ,_, delicious_JJ food_NN ._.
-I_PRP 'll_MD stop_VB there_RB ._.

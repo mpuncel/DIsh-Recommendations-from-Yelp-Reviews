@@ -1,4 +1,0 @@
-I_PRP enjoyed_VBD the_DT atmosphere_NN until_IN a_DT group_NN of_IN `_`` kids_NNS '_POS came_VBD it_PRP and_CC ruined_VBD the_DT ambiance_NN ._.
-Other_JJ than_IN that_IN the_DT dining_NN room_NN was_VBD cozy_JJ and_CC charming_JJ ,_, the_DT staff_NN was_VBD polite_JJ and_CC helpful_JJ ,_, and_CC the_DT food_NN was_VBD good_JJ ._.
-I_PRP loved_VBD my_PRP$ short_JJ rib_NN bolognese_NN over_IN fusilli_NNS and_CC the_DT Arancini_NNP was_VBD delicious_JJ ._.
-The_DT preserved_VBN lemon_NN risotto_NN was_VBD cooked_VBN perfectly_RB ,_, however_RB the_DT white_JJ and_CC green_JJ onion_NN really_RB overpowered_VBD the_DT dish_NN ._.

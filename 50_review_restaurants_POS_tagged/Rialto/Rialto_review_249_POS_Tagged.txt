@@ -1,3 +1,0 @@
-pretty_RB good_JJ -_: nice_JJ ambiance_NN as_IN you_PRP would_MD expect_VB ,_, though_IN pretty_RB loud_JJ in_IN the_DT dining_NN room_NN and_CC freeezing_VBG cold_JJ ._.
-the_DT service_NN was_VBD spotty_JJ -_: originally_RB attentive_JJ ,_, then_RB kind_NN of_IN disappeared_VBD ._.
-the_DT bread_NN was_VBD by_IN far_RB the_DT most_RBS amazing_JJ part_NN of_IN the_DT meal_NN ;_: fish_NN was_VBD done_VBN very_RB well_RB ,_, as_IN was_VBD the_DT tomato_NN summer_NN soup_NN ,_, but_CC the_DT desserts_NNS were_VBD just_RB okay_JJ ._.

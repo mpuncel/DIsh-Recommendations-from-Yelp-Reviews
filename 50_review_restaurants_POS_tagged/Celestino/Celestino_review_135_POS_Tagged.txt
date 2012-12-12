@@ -1,9 +1,0 @@
-Great_JJ food_NN ,_, great_JJ service_NN ,_, great_JJ specials_NNS ._.
-I_PRP go_VBP here_RB almost_RB every_DT week_NN for_IN lunch_NN or_CC dinner_NN ._.
-They_PRP also_RB have_VBP a_DT great_JJ variety_NN of_IN specials_NNS and_CC a_DT decent_JJ wine_NN list_NN ._.
-Corkage_NNP is_VBZ $_$ 10_CD if_IN you_PRP BYOB_NNP ,_, sometimes_RB they_PRP 'll_MD discount_VB it_PRP or_CC not_RB even_RB charge_VB you_PRP if_IN you_PRP 're_VBP a_DT regular_JJ ._.
-They_PRP 're_VBP good_JJ to_TO me_PRP and_CC all_PDT the_DT waiters_NNS go_VBP out_IN of_IN their_PRP$ way_NN to_TO say_VB hi_NN and_CC ask_VB me_PRP how_WRB our_PRP$ meal_NN is_VBZ ._.
-They_PRP also_RB have_VBP a_DT couple_NN of_IN private_JJ rooms_NNS for_IN dining_VBG with_IN big_JJ parties_NNS and_CC even_RB an_DT outside_JJ eating_JJ area_NN in_IN front_NN and_CC back_RB -LRB-_-LRB- the_DT back_NN is_VBZ only_RB open_JJ during_IN the_DT warm_JJ months_NNS -RRB-_-RRB- ._.
-Parking_NN in_IN back_NN is_VBZ free_JJ and_CC easy_JJ or_CC if_IN you_PRP prefer_VBP park_NN up_IN front_NN with_IN the_DT valet_NN at_IN dinner_NN hours_NNS ._.
-The_DT place_NN can_MD get_VB noisy_JJ and_CC crowded_VBN at_IN dinner_NN ,_, but_CC hey_NN ,_, that_DT 's_VBZ because_IN the_DT food_NN &_CC service_NN is_VBZ excellent_JJ ._.
-Buon_NNP Appetito_NNP !_.

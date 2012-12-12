@@ -1,9 +1,0 @@
-I_PRP love_VBP this_DT place_NN !_.
-I_PRP 'm_VBP so_RB glad_JJ they_PRP converted_VBD the_DT old_JJ pharmacy_NN into_IN the_DT full_JJ service_NN restaurant_NN ._.
-It_PRP 's_VBZ really_RB clean_JJ and_CC decorated_VBN well_RB ._.
-The_DT servers_NNS do_VBP suck_NN ._.
-You_PRP 'd_MD think_VB they_PRP 'd_MD be_VB nicer_JJR to_TO get_VB better_JJR tips_NNS ._.
-The_DT food_NN never_RB disappoints_VBZ !_.
-I_PRP highly_RB suggest_VBP the_DT goat_NN cheese_NN pizza_NN ,_, pear_NN gorgonzola_NN salad_NN and_CC the_DT eggplant_NN parmesan_NN sandwich_NN ._.
-I_PRP also_RB give_VBP them_PRP a_DT high_JJ rating_NN because_IN they_PRP really_RB stepped_VBD up_RP the_DT menu_NN after_IN they_PRP remodeled_VBD ._.
-They_PRP used_VBD to_TO only_RB offer_VB an_DT assortment_NN of_IN chips_NNS as_IN a_DT side_NN and_CC now_RB they_PRP have_VBP something_NN for_IN every_DT upturned_JJ nose_NN in_IN Claremont_NNP ._.

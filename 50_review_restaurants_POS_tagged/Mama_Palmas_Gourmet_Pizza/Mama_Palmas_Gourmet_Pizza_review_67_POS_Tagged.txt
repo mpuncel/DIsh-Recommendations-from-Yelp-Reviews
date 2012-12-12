@@ -1,4 +1,0 @@
-Pretty_NNP stoked_VBD that_IN this_DT BYOB_NNP restaurant_NN is_VBZ literally_RB across_IN the_DT street_NN --_: friendly_JJ service_NN and_CC great_JJ thin_JJ crust_NN pizzas_NNS ._.
-The_DT fact_NN that_IN they_PRP have_VBP a_DT diverse_JJ beer_NN selection_NN --_: ranging_VBG from_IN generic_JJ normal_JJ draught_NN beers_NNS to_TO local_JJ Philly_NNP beers_NNS and_CC to_TO tasty_JJ import_NN beers_NNS --_: is_VBZ another_DT big_JJ plus_NN ._.
-The_DT whole_JJ wheat_NN pizza_NN with_IN veggies_NNS &_CC chicken_NN is_VBZ awesome_JJ ,_, as_IN is_VBZ the_DT prosuccito_NN and_CC caramelized_VBN onions_NNS ._.
-Can_MD I_PRP go_VB back_RB now_RB please_VB ?_.

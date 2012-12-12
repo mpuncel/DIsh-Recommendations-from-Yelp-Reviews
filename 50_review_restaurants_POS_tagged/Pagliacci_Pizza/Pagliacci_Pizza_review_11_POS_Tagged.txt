@@ -1,9 +1,0 @@
-BUMPED_VBN to_TO 4_CD stars_NNS !_.
-Why_WRB ?_.
-Well_RB ,_, the_DT Pag_NNP has_VBZ become_VBN my_PRP$ default_NN pizza_NN call_NN ._.
-I_PRP like_VBP that_IN they_PRP use_VBP their_PRP$ phone_NN system_NN to_TO pull_VB my_PRP$ address_NN and_CC history_NN every_DT time_NN I_PRP call_VBP ,_, making_VBG orders_NNS convenient_JJ ._.
-I_PRP like_VBP that_IN they_PRP 're_VBP almost_RB always_RB exactly_RB on_IN time_NN with_IN delivery_NN ._.
-And_CC I_PRP LOVE_VBP their_PRP$ pear_NN primo_NN early_RB winter_NN seasonal_JJ pizza_NN ._.
-LOVE_NN ._.
-They_PRP got_VBD a_DT half_NN star_NN from_IN just_RB that_DT pizza_NN ._.
-YUM_NNP !_.

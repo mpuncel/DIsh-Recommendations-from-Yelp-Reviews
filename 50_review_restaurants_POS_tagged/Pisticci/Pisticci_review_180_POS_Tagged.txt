@@ -1,4 +1,0 @@
-Pisticci_NNP staff_NN is_VBZ adorable_JJ ;_: their_PRP$ drinks_NNS are_VBP yummy_JJ ;_: their_PRP$ food_NN is_VBZ good_JJ ._.
-Great_NNP ,_, cozy_JJ and_CC happy_JJ Italian_JJ bistro_NN -_: welcoming_VBG for_IN dinner_NN or_CC just_RB a_DT glass_NN of_IN wine_NN ._.
-I_PRP also_RB once_RB saw_VBD a_DT little_JJ 2_CD year_NN old_JJ find_VBP the_DT mic_NN after_IN a_DT jazz_NN band_NN performed_VBN ,_, and_CC sing_VB the_DT alphabet_NN ._.
-It_PRP was_VBD so_RB Shirley_JJ Temple_NNP it_PRP could_MD melt_VB your_PRP$ heart_NN -_: and_CC of_IN course_NN ,_, the_DT bartender_NN just_RB smiled_VBD and_CC let_VBD her_PRP sing_VB it_PRP twice_RB ._.

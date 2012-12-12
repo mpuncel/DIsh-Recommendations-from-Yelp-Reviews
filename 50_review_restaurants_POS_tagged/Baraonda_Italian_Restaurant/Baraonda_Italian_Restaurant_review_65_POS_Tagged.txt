@@ -1,8 +1,0 @@
-The_DT pizza_NN was_VBD good_JJ -_: nothing_NN extra_JJ special_JJ ,_, but_CC pizza_NN is_VBZ usually_RB pretty_RB yummy_JJ ._.
-Service_NNP was_VBD prompt_JJ ._.
-It_PRP gets_VBZ packed_VBN when_WRB there_EX are_VBP events_NNS at_IN the_DT Fox_NNP ._.
-On_IN our_PRP$ second_JJ visit_NN ,_, we_PRP were_VBD there_RB for_IN lunch_NN ,_, and_CC it_PRP was_VBD quicker_JJR getting_VBG seated_VBN ._.
-However_RB ,_, they_PRP do_VBP n't_RB have_VB a_DT menu_NN with_IN lower_JJR lunch_NN pricing_NN -LRB-_-LRB- because_IN they_PRP 're_VBP right_JJ beside_IN The_DT Fox_NNP ,_, they_PRP do_VBP n't_RB have_VB to_TO -RRB-_-RRB- ,_, which_WDT I_PRP think_VBP is_VBZ not_RB a_DT good_JJ business_NN move_NN at_IN all_DT ,_, as_IN we_PRP spent_VBD $_$ 50_CD +_NN for_IN two_CD people_NNS at_IN lunch_NN ,_, and_CC the_DT food_NN was_VBD only_RB so\/so_JJ ._.
-Do_VBP n't_RB get_VB the_DT tagliatelle_NN with_IN mushrooms_NNS -_: I_PRP did_VBD n't_RB eat_VB it_PRP ,_, blech_NN ._.
-My_PRP$ husband_NN liked_VBD his_PRP$ mixed_JJ vegetable_NN ravioli_NNS better_RBR ,_, but_CC it_PRP was_VBD a_DT special_JJ ._.
-The_DT highlight_NN was_VBD the_DT mimosa_NN for_IN $_$ 3.50_CD ._.

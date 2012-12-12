@@ -1,5 +1,0 @@
-Yum_NNP ._.
-Pisticci_NNP is_VBZ delicious_JJ and_CC the_DT atmosphere_NN is_VBZ really_RB nice_JJ as_RB well_RB ._.
-I_PRP recommend_VBP the_DT Michael_NNP 's_POS pasta_NN ,_, the_DT fig_NN salad_NN ,_, and_CC the_DT ravioli_NNS with_IN spinach_NN ._.
-It_PRP 's_VBZ THE_DT perfect_JJ neighborhood_NN Italian_JJ place_NN ._.
-My_PRP$ only_JJ complaint_NN is_VBZ that_IN the_DT wait_NN can_MD be_VB long_RB ._.

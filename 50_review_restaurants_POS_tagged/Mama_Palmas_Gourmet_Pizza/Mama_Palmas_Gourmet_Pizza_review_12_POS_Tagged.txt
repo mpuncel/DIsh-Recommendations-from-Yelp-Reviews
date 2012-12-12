@@ -1,5 +1,0 @@
-pizza_NN is_VBZ ok_RB ,_, people_NNS freak_VBP out_RP over_IN it_PRP because_IN it_PRP 's_VBZ thin_JJ ,_, and_CC does_VBZ n't_RB look_VB like_IN the_DT normal_JJ ,_, crappy_JJ philly_RB pizza_NN ,_, it_PRP 's_VBZ still_RB generic_JJ ,_, no_DT matter_NN how_WRB many_JJ toppings_NNS they_PRP can_MD allow_VB ,_, they_PRP do_VBP not_RB show_VB any_DT passion_NN for_IN why_WRB they_PRP make_VBP food_NN ,_, there_EX is_VBZ nothing_NN to_TO believe_VB in_IN ,_, it_PRP 's_VBZ just_RB an_DT empty_JJ box_NN 23rd_JJ street_NN ._.
-pricy_NN ,_, pretentious_JJ ,_, and_CC the_DT owner_NN is_VBZ a_DT beast_NN of_IN a_DT man_NN ._.
-Awful_JJ for_IN families_NNS ._.
-The_DT only_JJ original_JJ thought_NN they_PRP have_VBP is_VBZ a_DT Polenta_NNP appetizer_NN ,_, which_WDT is_VBZ very_RB good_JJ ._.
-Outside_IN of_IN that_DT ,_, the_DT salads_NNS are_VBP mediocre_JJ ,_, and_CC it_PRP 's_VBZ overpriced_VBN and_CC CASH_NNP ONLY_RB ,_, but_CC they_PRP will_MD nail_VB you_PRP for_IN 3.00_CD at_IN the_DT ATM_NNP next_JJ to_TO the_DT rest_NN room_NN ._.

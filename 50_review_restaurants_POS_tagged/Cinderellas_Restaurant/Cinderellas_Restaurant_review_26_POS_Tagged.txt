@@ -1,6 +1,0 @@
-When_WRB the_DT pizza_NN is_VBZ very_RB very_RB hot_JJ and_CC fresh_JJ ,_, it_PRP is_VBZ pretty_RB tasty_JJ ._.
-I_PRP think_VBP ,_, though_RB ,_, that_IN I_PRP can_MD say_VB this_DT about_IN almost_RB every_DT type_NN of_IN pizza_NN ,_, including_VBG Stouffer_NNP 's_POS french_JJ bread_NN pizza_NN ,_, the_DT only_JJ exceptions_NNS being_VBG Hi-Fi_JJ and_CC Papa_NN Gino_NNP 's_POS ._.
-Anyway_RB ,_, not_RB saying_VBG much_RB ._.
-Everything_NN on_IN the_DT menu_NN that_WDT is_VBZ not_RB pizza_NN is_VBZ nasty_JJ and_CC inedible_JJ and_CC you_PRP should_MD n't_RB even_RB think_VB about_IN ordering_VBG it_PRP ._.
-Whatever_WDT ,_, I_PRP did_VBD n't_RB expect_VB anything_NN more_RBR ._.
-Plus_CC ,_, this_DT is_VBZ a_DT place_NN to_TO sit_VB and_CC be_VB served_VBN hot_JJ food_NN at_IN two_CD in_IN the_DT morning_NN ,_, and_CC that_DT 's_VBZ real_JJ nice_JJ ._.

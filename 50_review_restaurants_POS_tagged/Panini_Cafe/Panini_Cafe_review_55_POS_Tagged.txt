@@ -1,7 +1,0 @@
-the_DT order_NN ._.
-buffalo_NN mozzarella_NN ,_, pesto_NN ,_, and_CC sundried_VBD tomato_NN panini_NN i_FW did_VBD n't_RB order_VB the_DT skewers_NNS which_WDT i_FW will_MD be_VB back_RB to_TO try_VB as_RB far_RB as_IN the_DT panini_NN i_FW had_VBD ,_, it_PRP was_VBD n't_RB spectacular_JJ though_IN the_DT buffalo_NN mozzarella_NN was_VBD delicious_JJ ._.
-the_DT bread_NN seemed_VBD quickly_RB pressed_VBN and_CC it_PRP did_VBD n't_RB have_VB good_JJ bite_NN to_TO it_PRP ._.
-while_IN the_DT bread_NN was_VBD warm_JJ the_DT mozzarella_NN was_VBD n't_RB ._.
-the_DT sundried_JJ tomatoes_NNS seemed_VBD an_DT afterthought_JJ to_TO me_PRP ._.
-if_IN it_PRP were_VBD a_DT sundried_JJ tomato_NN pesto_NN sauce_NN ,_, it_PRP would_MD 've_VB been_VBN a_DT better_JJR binder_NN ill_RB be_VB back_RB to_TO try_VB other_JJ paninis_NNS and_CC the_DT skewers_NNS which_WDT seem_VBP to_TO be_VB a_DT hit_NN ._.
-i_FW could_MD definiitely_RB taste_VB quality_NN ingredient_NN -LRB-_-LRB- but_CC of_IN course_NN at_IN a_DT price_NN -RRB-_-RRB- and_CC it_PRP deserves_VBZ a_DT bigger_JJR sampling_VBG the_DT next_JJ time_NN for_IN a_DT final_JJ rating_NN

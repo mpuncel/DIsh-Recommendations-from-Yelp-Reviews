@@ -1,6 +1,0 @@
-First_NNP off_RB ,_, why_WRB are_VBP there_RB two_CD listings_NNS for_IN this_DT place_NN ??_RB Anyways_NNPS ._. ._.
-so_IN I_PRP 've_VBP ordered_VBN the_DT pizza_NN from_IN here_RB twice_RB now_RB and_CC both_DT times_NNS ,_, it_PRP took_VBD an_DT hour_NN and_CC a_DT half_NN for_IN it_PRP to_TO be_VB delivered_VBN !_.
-The_DT first_JJ time_NN was_VBD on_IN a_DT Saturday_NNP night_NN so_IN I_PRP understood_VBD ..._: but_CC why_WRB ,_, on_IN a_DT Wednesday_NNP night_NN ,_, did_VBD it_PRP take_VB them_PRP so_RB long_RB ??_CD And_CC why_WRB ca_MD n't_RB they_PRP let_VBP you_PRP know_VB when_WRB you_PRP 're_VBP ordering_VBG that_IN it_PRP would_MD take_VB that_DT long_RB ._.
-I_PRP believe_VBP they_PRP told_VBD me_PRP 30_CD mins_NNS both_DT times_NNS !_.
-The_DT pizza_NN itself_PRP is_VBZ n't_RB great_JJ either_RB ,_, it_PRP is_VBZ a_DT little_JJ too_RB greasy_JJ for_IN my_PRP$ taste_NN ..._: and_CC to_TO top_VB it_PRP all_DT off_RP it_PRP is_VBZ pricier_JJR than_IN its_PRP$ competition_NN in_IN this_DT neighborhood_NN !_.
-Feeling_VBG grouchy_JJ today_NN ..._: but_CC 2_CD stars_NNS for_IN delivering_VBG later_RB than_IN other_JJ places_NNS ._.

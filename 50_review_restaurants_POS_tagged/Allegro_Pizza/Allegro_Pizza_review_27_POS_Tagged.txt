@@ -1,6 +1,0 @@
-Eating_NNP at_IN Allegro_NNP 's_POS is_VBZ like_IN reruns_NNS of_IN full_JJ house_NN ._.
-It_PRP 's_VBZ ok_VB the_DT first_JJ time_NN but_CC gets_VBZ worse_JJR with_IN each_DT successive_JJ experience_NN ._.
-Their_PRP$ regular_JJ cheese_NN pizza_NN sits_VBZ on_IN the_DT border_NN between_IN mediocre_JJ and_CC unacceptable_JJ ._.
-Their_PRP$ specialty_NN pizzas_NNS -LRB-_-LRB- such_JJ as_IN the_DT BBQ_NNP chicken_NN and_CC spinach_NN tomato_NN -RRB-_-RRB- are_VBP the_DT saving_NN grace_NN 's_POS of_IN the_DT restaurant_NN ._.
-If_IN it_PRP were_VBD n't_RB for_IN these_DT items_NNS ,_, I_PRP 'm_VBP sure_JJ this_DT place_NN would_MD 've_VB gone_VBN under_IN ._.
-They_PRP go_VBP up_RB to_TO three_CD stars_NNS from_IN two_CD because_IN their_PRP$ drink_NN selection_NN is_VBZ large_JJ and_CC they_PRP sell_VBP booze_NN ._.

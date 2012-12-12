@@ -1,9 +1,0 @@
-Pros_NNS :_: -_: Large_JJ portions_NNS -LRB-_-LRB- I_PRP kind_NN of_IN hate_NN the_DT size_NN of_IN their_PRP$ plates_NNS though_IN ._. -RRB-_-RRB-
--_: Convenient_NN location_NN -_: Stays_NNS open_JJ late_JJ Cons_NNS :_: -_: Too_RB much_JJ sauce\/oil_NN -LRB-_-LRB- My_PRP$ salad_NN is_VBZ always_RB soaked_VBN with_IN dressing_VBG ._. -RRB-_-RRB-
-Service_NNP is_VBZ n't_RB the_DT most_RBS friendliest_JJ ,_, but_CC I_PRP understand_VBP that_IN they_PRP 're_VBP always_RB busy_JJ ._.
-One_CD worker_NN was_VBD nice_JJ enough_JJ to_TO show_VB me_PRP how_WRB the_DT water_NN machine_NN worked_VBD without_IN me_PRP asking_VBG for_IN help_NN ._.
-I_PRP think_VBP the_DT reason_NN why_WRB this_DT place_NN is_VBZ so_RB overhyped_JJ is_VBZ because_IN it_PRP 's_VBZ one_CD of_IN the_DT better_JJR places_NNS to_TO eat_VB at_IN Asian_JJ Ghetto_NNP ._.
-But_CC that_DT 's_VBZ pretty_RB much_RB it_PRP ._.
-If_IN you_PRP were_VBD to_TO compare_VB it_PRP to_TO other_JJ Italian_JJ places_NNS in_IN Berkeley_NNP ,_, it_PRP would_MD fall_VB short_JJ ._.
-Bottom_NN line_NN :_: I_PRP 'll_MD eat_VB there_RB if_IN everyone_NN else_RB I_PRP 'm_VBP with_IN wants_VBZ to_TO eat_VB there_RB ,_, but_CC otherwise_RB I_PRP 'm_VBP not_RB interested_JJ ._.
-I_PRP wish_VBP Pasta_NNP Bene_NNP was_VBD closer_JJR to_TO campus_NN !_.

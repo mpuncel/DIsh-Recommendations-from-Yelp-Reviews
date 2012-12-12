@@ -1,3 +1,0 @@
-Between_IN the_DT Bifana_NNP &_CC Linguica_NNP sanwich_NN ,_, go_VB with_IN the_DT Bifana_NNP ._.
-Place_NNP was_VBD pretty_RB busy_JJ when_WRB we_PRP got_VBD there_RB ,_, close_RB to_TO lunch_NN time_NN ._.
-service_NN was_VBD good_JJ

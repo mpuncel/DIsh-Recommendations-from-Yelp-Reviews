@@ -1,7 +1,0 @@
-Yes_UH ,_, everything_NN is_VBZ imported_VBN from_IN Italy_NNP ,_, even_RB the_DT flour_NN -LRB-_-LRB- so_IN I_PRP 've_VBP heard_VBN -RRB-_-RRB- ._.
-And_CC I_PRP do_VBP n't_RB care_VB if_IN that_DT 's_VBZ why_WRB everything_NN is_VBZ delicious_JJ but_CC it_PRP is_VBZ ._.
-They_PRP have_VBP these_DT great_JJ hot_JJ peppers_NNS in_IN olive_JJ oil_NN that_WDT are_VBP just_RB a_DT bit_NN spicy_NN but_CC not_RB too_RB much_JJ so_IN and_CC a_DT bit_NN sweet_JJ ._.
-And_CC the_DT seating_VBG area_NN is_VBZ basically_RB in_IN the_DT kitchen_NN which_WDT is_VBZ very_RB neat_JJ ._.
-Last_JJ time_NN we_PRP were_VBD there_RB they_PRP were_VBD showing_VBG off_RP the_DT new_JJ Bose_NNP iPod_NNP dock_NN and_CC playing_VBG some_DT great_JJ music_NN -LRB-_-LRB- a_DT mix_NN of_IN old_JJ world_NN and_CC pop_NN -RRB-_-RRB- ,_, while_IN the_DT owner_NN and_CC his_PRP$ son_NN demonstrated_VBD their_PRP$ pizza_NN dough_JJ tossing_VBG skills_NNS ._.
-Very_RB tasty_JJ pizza_NN ,_, fresh_JJ and_CC real-tasting_JJ ingredients_NNS ._.
-Does_VBZ n't_RB get_VB better_JJR than_IN this_DT for_IN pizza_NN that_WDT 's_VBZ different_JJ and_CC amazing_JJ ._.

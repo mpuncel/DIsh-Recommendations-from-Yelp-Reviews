@@ -1,6 +1,0 @@
-Pagliacci_NNP 's_POS is_VBZ always_RB busy_JJ ,_, and_CC there_EX 's_VBZ a_DT good_JJ reason_NN why_WRB ._.
-Their_PRP$ pizza_NN is_VBZ delicious_JJ ._.
-I_PRP love_VBP the_DT combinations_NNS they_PRP come_VBP up_RP with_IN :_: goat_VB cheese_NN with_IN olives_NNS and_CC fresh_JJ tomatoes_NNS ,_, or_CC spinich_NN and_CC feta_NN ,_, and_CC any_DT number_NN of_IN other_JJ options_NNS ._.
-Their_PRP$ basic_JJ cheese_NN or_CC pepporoni_NN is_VBZ also_RB great_JJ --_: a_DT nice_JJ thick_JJ crust_NN and_CC plenty_NN of_IN toppings_NNS ._.
-Framed_VBN movie_NN posters_NNS in_IN Italian_JJ add_VB some_DT interesting_JJ visuals_NNS ,_, and_CC while_IN there_EX 's_VBZ not_RB a_DT lot_NN of_IN seating_VBG I_PRP 've_VBP never_RB had_VBN to_TO wait_VB for_IN long_RB ._.
-The_DT pizza_NN does_VBZ run_VB a_DT bit_NN expensive_JJ ,_, especially_RB if_IN you_PRP want_VBP a_DT whole_JJ pie_NN ,_, but_CC the_DT flavors_NNS do_VBP n't_RB disappoint_VB ._.

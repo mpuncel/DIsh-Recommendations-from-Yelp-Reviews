@@ -1,6 +1,0 @@
-Fantastic_JJ atmosphere_NN ._.
-Very_RB cozy_JJ and_CC quaint_NN ._.
-The_DT waiter_NN was_VBD fun_NN ,_, but_CC very_RB Italian_JJ and_CC experienced_JJ ._.
-First_JJ class_NN ._.
-Avocado_NNP salad_NN with_IN crab_NN and_CC shrimp_NN ._.
-Lamb_NNP chops_NNS first_JJ rate_NN ._.

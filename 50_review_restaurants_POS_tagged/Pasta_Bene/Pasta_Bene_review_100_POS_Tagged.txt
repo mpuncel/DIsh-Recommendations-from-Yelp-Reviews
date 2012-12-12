@@ -1,6 +1,0 @@
-Love_NNP ,_, love_NN ,_, love_NN this_DT little_JJ place_NN !_.
-I_PRP stopped_VBD in_RP tonight_NN for_IN dinner_NN with_IN my_PRP$ sister_NN ._.
-I_PRP was_VBD n't_RB at_IN all_DT expecting_VBG everything_NN to_TO be_VB as_RB good_JJ as_IN it_PRP was_VBD !!!_CD What_WP a_DT surprise_NN to_TO have_VB such_PDT a_DT delicious_JJ meal_NN for_IN such_JJ a_DT great_JJ price_NN ._.
-I_PRP had_VBD a_DT house_NN salad_NN and_CC a_DT pasta_NN dish_NN with_IN eggplant_JJ !!!!_NN I_PRP was_VBD in_IN heaven_NN ._.
-The_DT service_NN was_VBD fast_RB and_CC friendly_JJ too_RB ._.
-Perfecto_NNP !!!!_IN

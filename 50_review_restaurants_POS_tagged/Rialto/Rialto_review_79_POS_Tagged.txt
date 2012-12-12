@@ -1,5 +1,0 @@
-Rialto_NNP is_VBZ a_DT very_RB fancy_JJ restaurant_NN with_IN a_DT tasteful_JJ and_CC cosy_JJ decoration_NN and_CC a_DT quiet_JJ and_CC romantic_JJ atmosphere_NN ._.
-Service_NNP is_VBZ just_RB awesome_JJ ,_, you_PRP do_VBP not_RB even_RB realize_VB that_DT your_PRP$ glass_NN is_VBZ getting_VBG filled_VBN up_RP !_.
-They_PRP really_RB make_VBP you_PRP fill_VB comfortable_JJ !_.
-Food_NNP is_VBZ fantastic_JJ so_RB is_VBZ the_DT wine_NN list_NN !_.
-A_DT solid_JJ selection_NN ,_, especially_RB in_IN french_JJ wines_NNS !!_VBP I_PRP loved_VBD the_DT chocolate_NN espresso_NN torte_NN and_CC the_DT beets_NNS and_CC goat_NN cheese_NN salad_NN so_RB refreshing_JJ !!_NN The_DT bread_NN is_VBZ also_RB very_RB good_JJ !!_NN -LRB-_-LRB- I_PRP am_VBP a_DT bread_NN lover_NN !!_NN -RRB-_-RRB- The_DT only_JJ bemol_NN is_VBZ the_DT price_NN ,_, but_CC seriously_RB if_IN you_PRP have_VBP a_DT ``_`` hot_JJ ''_'' date_NN or_CC a_DT celebration_NN just_RB go_VB for_IN it_PRP !!_VB It_PRP is_VBZ fabulous_JJ !!_NN

@@ -1,4 +1,0 @@
-A_DT decent_JJ place_NN to_TO go_VB to_TO for_IN Italian_JJ food_NN near_IN campus_NN ._.
-The_DT portion_NN sizes_NNS are_VBP okay_JJ ,_, but_CC the_DT dishes_NNS tend_VBP to_TO be_VB a_DT bit_NN heavy_JJ with_IN their_PRP$ oil_NN and_CC sodium_NN level_NN ._.
-Also_RB ,_, there_EX are_VBP some_DT exaggerations_NNS by_IN other_JJ yelpers_NNS in_IN saying_VBG that_IN the_DT Calzones_NNPS can_MD feed_VB up_RP to_TO four_CD ._.
-If_IN you_PRP 're_VBP like_IN me_PRP -_: a_DT normal_JJ college_NN guy_NN who_WP exercises_VBZ an_DT average_JJ amount_NN ,_, one_CD calzone_NN =_SYM one_CD person_NN ._.

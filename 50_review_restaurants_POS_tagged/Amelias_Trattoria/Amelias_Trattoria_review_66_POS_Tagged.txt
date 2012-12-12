@@ -1,6 +1,0 @@
-This_DT restaurant_NN is_VBZ wonderful_JJ !_.
-Quaint_NNP and_CC cozy_JJ ._.
-The_DT staff_NN is_VBZ very_RB engaging_JJ and_CC the_DT chef_NN 's_POS specials_NNS are_VBP always_RB a_DT delight_NN !_.
-The_DT variety_NN offered_VBN on_IN the_DT menu_NN is_VBZ very_RB creative_JJ and_CC I_PRP have_VBP yet_RB to_TO be_VB disappointed_JJ !_.
-Always_RB recommend_VB the_DT ravioli_NNS of_IN the_DT night_NN !_.
-Fantastic_JJ !!!!_NN

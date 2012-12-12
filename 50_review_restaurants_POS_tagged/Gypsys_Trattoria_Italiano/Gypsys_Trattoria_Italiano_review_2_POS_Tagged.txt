@@ -1,3 +1,0 @@
-Spagetti_NNP and_CC meatballs_NNS are_VBP delish_JJ !_.
-This_DT place_NN is_VBZ a_DT go-to_JJ when_WRB im_NN in_IN the_DT area_NN ._.
-Ive_NNP never_RB been_VBN at_IN a_DT time_NN when_WRB theres_VBZ no_DT line_NN and_CC its_PRP$ a_DT little_JJ crazy_JJ but_CC well_RB worth_IN it_PRP !_.

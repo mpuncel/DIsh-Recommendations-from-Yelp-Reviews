@@ -1,3 +1,0 @@
-Hole_NNP in_IN the_DT wall_NN Italian_JJ cafe_NN ~_CD Love_NNP love_NN love_VBP the_DT ravioli_NNS in_IN pink_JJ sauce_NN !_.
-I_PRP 'm_VBP sure_JJ their_PRP$ other_JJ offerings_NNS are_VBP good_JJ as_RB well_RB ,_, but_CC I_PRP have_VBP a_DT weakness_NN for_IN ravioli_NNS so_IN that_DT 's_VBZ the_DT only_JJ thing_NN I_PRP order_VBP ._.
-Good_JJ luck_NN trying_VBG to_TO find_VB a_DT seat_NN !_.

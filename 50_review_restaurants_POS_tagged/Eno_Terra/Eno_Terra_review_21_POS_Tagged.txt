@@ -1,5 +1,0 @@
-Have_NNP only_RB been_VBN once_RB ,_, but_CC it_PRP really_RB blew_VBD us_PRP away_RB ._.
-The_DT restaurant_NN is_VBZ gorgeous_JJ ._.
-We_PRP were_VBD there_RB on_IN a_DT snowy_JJ night_NN and_CC it_PRP was_VBD so_RB warm_JJ inside_IN with_IN a_DT fire_NN blazing_VBG ._.
-Food_NNP was_VBD very_RB ,_, very_RB good_JJ ,_, with_IN the_DT cheese_NN plate_NN as_IN the_DT standout_NN ._.
-A_DT little_JJ out_IN of_IN our_PRP$ normal_JJ price_NN range_NN ,_, but_CC ca_MD n't_RB wait_VB for_IN a_DT reason_NN to_TO go_VB back_RB ._.

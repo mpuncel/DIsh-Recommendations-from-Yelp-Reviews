@@ -1,4 +1,0 @@
-This_DT is_VBZ one_CD of_IN the_DT few_JJ places_NNS around_IN that_DT seems_VBZ to_TO know_VB how_WRB to_TO cook_VB pasta_NN ._.
-I_PRP have_VBP only_RB been_VBN to_TO Eno_NNP Terra_NNP a_DT couple_NN of_IN times_NNS ,_, but_CC each_DT time_NN ,_, the_DT food_NN has_VBZ been_VBN excellent_JJ ._.
-I_PRP recently_RB had_VBD the_DT lobster_NN spaghetti_NNS which_WDT was_VBD fantastic_JJ ._.
-The_DT deserts_NNS I_PRP have_VBP had_VBN here_RB did_VBD not_RB blow_VB me_PRP away_RB ,_, but_CC the_DT entrees_NNS and_CC service_NN are_VBP definitely_RB worth_JJ the_DT trip_NN ._.

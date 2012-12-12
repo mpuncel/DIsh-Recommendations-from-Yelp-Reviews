@@ -1,4 +1,0 @@
-The_DT pizza_NN isnt_NN that_WDT awesome_JJ ,_, but_CC everything_NN else_RB is_VBZ ._.
-My_PRP$ roommate_NN and_CC LOVE_VB the_DT french_JJ fries_NNS and_CC onion_JJ rings_NNS ._.
-Their_PRP$ delivery_NN is_VBZ always_RB 30_CD minutes_NNS exactly_RB or_CC faster_JJR ._.
-Plus_CC they_PRP are_VBP open_JJ super_JJ late_JJ which_WDT is_VBZ awesome_JJ when_WRB you_PRP are_VBP drunk_JJ and_CC do_VBP n't_RB want_VB to_TO go_VB out_RP but_CC still_RB want_VB munchies_NNS like_IN mad_JJ ._.

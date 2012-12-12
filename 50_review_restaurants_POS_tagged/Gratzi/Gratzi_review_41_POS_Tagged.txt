@@ -1,4 +1,0 @@
-Easily_RB the_DT worst_JJS meal_NN I_PRP 've_VBP had_VBN in_IN Ann_NNP Arbor_NNP ._.
-The_DT appetizer_NN was_VBD a_DT risotto_JJ ball_NN fried_VBD into_IN disgusting-ness_NN ,_, my_PRP$ pasta_NN was_VBD swimming_VBG in_IN a_DT bowl_NN of_IN water_NN ,_, and_CC the_DT service_NN was_VBD terrible_JJ ._.
-I_PRP believe_VBP the_DT same_JJ company_NN owns_VBZ the_DT Chop_NNP House_NNP ._.
-Go_VB there_RB instead_RB ._.

@@ -1,6 +1,0 @@
-One_CD word_NN :_: CALZONE_NNP I_PRP love_VBP getting_VBG the_DT Sicilia_NNP Calzone_NNP when_WRB I_PRP go_VBP to_TO Gypsy_NNP 's_POS ._.
-Not_RB only_RB is_VBZ it_PRP the_DT biggest_JJS Calzone_NN I_PRP have_VBP ever_RB seen_VBN ,_, but_CC it_PRP is_VBZ quite_RB tasty_JJ -LRB-_-LRB- I_PRP can_MD finish_VB one_CD in_IN about_IN 5-ish_JJ minutes_NNS ..._: -RRB-_-RRB- ._.
-Not_RB to_TO mention_VB ,_, if_IN you_PRP get_VBP it_PRP to_TO go_VB ,_, everyone_NN will_MD think_VB you_PRP are_VBP carrying_VBG a_DT dozen_NN donuts_NNS or_CC a_DT cake_NN ,_, since_IN they_PRP come_VBP in_IN those_DT boxes_NNS !_.
-Their_PRP$ dishes_NNS are_VBP cheap_JJ compared_VBN to_TO many_JJ other_JJ Italian_JJ food_NN places_NNS around_IN the_DT area_NN ,_, and_CC you_PRP get_VBP good_JJ portions_NNS for_IN the_DT price_NN ._.
-They_PRP also_RB accept_VBP credit_NN cards_NNS and_CC have_VBP good_JJ priced_VBN combos_NNS ._.
-I_PRP 've_VBP had_VBD some_DT of_IN their_PRP$ other_JJ plates_NNS like_IN lasagna_NN and_CC fettucine_NN alfredo_NN ,_, and_CC they_PRP are_VBP quite_RB delicious_JJ and_CC rich_JJ if_IN you_PRP like_IN that_DT taste_NN ._.

@@ -1,4 +1,0 @@
-Great_JJ food_NN ,_, good_JJ value_NN ,_, nice_JJ service_NN ._.
-The_DT interior_JJ design_NN is_VBZ a_DT bit_NN too_RB corporate_JJ ,_, but_CC we_PRP 'll_MD overlook_VB that_DT ._.
-We_PRP really_RB enjoyed_VBD our_PRP$ meal_NN there_RB -LRB-_-LRB- salads_NNS ,_, brick_NN oven_CD pizza_NN and_CC pasta_NN -RRB-_-RRB- ._.
-We_PRP 'll_MD be_VB back_RB ._.

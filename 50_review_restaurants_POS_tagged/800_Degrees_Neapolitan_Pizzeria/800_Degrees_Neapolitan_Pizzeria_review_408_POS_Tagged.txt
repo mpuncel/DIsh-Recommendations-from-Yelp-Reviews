@@ -1,5 +1,0 @@
-First_NNP off_IN I_PRP 'd_MD like_VB to_TO say_VB this_DT is_VBZ probably_RB my_PRP$ favorite_JJ pizza_NN place_NN ._.
-You_PRP can_MD get_VB a_DT good_JJ pizza_NN and_CC a_DT drink_NN all_DT around_IN a_DT good_JJ price_NN ._.
-Although_IN the_DT lines_NNS can_MD sometime_RB be_VB long_RB is_VBZ worth_JJ it_PRP ._.
-I_PRP ordered_VBD the_DT marghrita_NN pizza_NN which_WDT was_VBD good_JJ ._.
-I_PRP got_VBD my_PRP$ food_NN pretty_RB fast_RB :_: -RRB-_-RRB- I_PRP also_RB got_VBD some_DT ice_NN cream_NN to_TO ,_, this_DT was_VBD almost_RB even_RB better_RBR ,_, I_PRP loved_VBD the_DT berry_NN flavor_NN with_IN Vanilla_NNP :_: -RRB-_-RRB- I_PRP 'm_VBP so_RB coming_VBG back_RB again_RB !_.

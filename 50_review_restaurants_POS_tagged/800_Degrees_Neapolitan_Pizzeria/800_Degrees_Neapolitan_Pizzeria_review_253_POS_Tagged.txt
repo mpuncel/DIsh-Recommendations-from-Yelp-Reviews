@@ -1,6 +1,0 @@
-Pizza_NNP is_VBZ delicious_JJ ,_, the_DT ingredients_NNS are_VBP very_RB high_JJ quality_NN and_CC tasty_JJ ._.
-We_PRP got_VBD the_DT margherita_NN w\/prosciutto_NN and_CC the_DT capricciossa_NN ,_, both_DT were_VBD great_JJ ._.
-The_DT pizza_NN is_VBZ soft_JJ ,_, there_EX 's_VBZ a_DT sign_NN saying_VBG that_DT 's_VBZ the_DT way_NN it_PRP should_MD be_VB in_IN real_JJ Italy_NNP ,_, so_RB do_VBP n't_RB expect_VB it_PRP to_TO be_VB crispy_JJ ._.
-The_DT atmosphere_NN is_VBZ fun_NN because_IN it_PRP 's_VBZ so_RB bustling_JJ ._.
-We_PRP went_VBD at_IN 4_CD PM_NNP in_IN the_DT rain_NN and_CC there_EX was_VBD still_RB a_DT line_NN ._.
-Just_RB expect_VB a_DT long_JJ line_NN when_WRB you_PRP go_VBP ,_, no_DT matter_NN what_WP the_DT time_NN ._.

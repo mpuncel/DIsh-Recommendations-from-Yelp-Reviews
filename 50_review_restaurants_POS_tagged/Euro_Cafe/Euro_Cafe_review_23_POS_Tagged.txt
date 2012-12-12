@@ -1,5 +1,0 @@
-The_DT food_NN here_RB is_VBZ alway_JJ fantastic_JJ and_CC service_NN I_PRP love_VBP !_.
-Its_PRP$ the_DT family_NN atmosphere_NN that_WDT 's_VBZ so_RB cool_JJ ._.
-Not_RB fancy_JJ yet_RB fancy_JJ ._.
-Great_NNP place_NN for_IN a_DT nice_JJ healthy_JJ lunch_NN away_RB from_IN the_DT usual_JJ ._.
-Nice_JJ job_NN Euro_NNP Cafe_NNP !_.

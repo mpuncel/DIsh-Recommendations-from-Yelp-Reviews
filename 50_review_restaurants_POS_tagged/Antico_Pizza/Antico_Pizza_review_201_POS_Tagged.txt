@@ -1,7 +1,0 @@
-Great_NNP pizza_NN !_.
-Menu_NN is_VBZ limited_VBN ,_, but_CC the_DT pizza_NN is_VBZ really_RB good_JJ ._.
-We_PRP ordered_VBD the_DT San_NNP Gennaro_NNP and_CC Margherita_NNP ._.
-Both_DT were_VBD excellent_JJ ._.
-The_DT crust_NN was_VBD slightly_RB charred_VBN -_: adding_VBG to_TO the_DT flavor_NN ._.
-The_DT ambiance_NN of_IN the_DT place_NN was_VBD great_JJ ._.
-A_DT bit_NN loud_JJ ,_, but_CC you_PRP end_VBP up_RP enjoying_VBG dinner_NN with_IN the_DT folks_NNS sitting_VBG next_JJ to_TO you_PRP ._.

@@ -1,2 +1,0 @@
-I_PRP 've_VBP only_RB had_VBD the_DT vegan_NN pizza_NN from_IN Silvio_NNP 's_POS a_DT few_JJ times_NNS ,_, but_CC each_DT time_NN ,_, it_PRP was_VBD super_JJ yummy_NN ._.
-It_PRP 's_VBZ nice_JJ that_IN they_PRP have_VBP so_RB many_JJ options_NNS for_IN vegans_NNS :_: -RRB-_-RRB-

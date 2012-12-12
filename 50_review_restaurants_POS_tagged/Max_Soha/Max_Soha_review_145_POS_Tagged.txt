@@ -1,4 +1,0 @@
-The_DT pasta_NN dishes_NNS are_VBP all_DT excellent_JJ -_: especially_RB the_DT fettuccine_NN with_IN meat_NN sauce_NN and_CC the_DT orrichiette_NN with_IN broccoli_NNS rabe_VBP and_CC sausage_VBP ._.
-They_PRP also_RB have_VBP really_RB good_JJ panna_NN cotta_NN for_IN dessert_NN ._.
-The_DT prices_NNS are_VBP very_RB low_JJ and_CC the_DT food_NN is_VBZ incredible_JJ ._.
-This_DT is_VBZ one_CD of_IN the_DT best_JJS Italian_JJ places_NNS I_PRP 've_VBP ever_RB been_VBN to_TO outside_IN of_IN Italy_NNP ._.

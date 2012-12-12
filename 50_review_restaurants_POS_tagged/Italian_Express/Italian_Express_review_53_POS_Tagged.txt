@@ -1,7 +1,0 @@
-3.5_CD actually_RB ._.
-The_DT prices_NNS are_VBP decent_JJ ._.
-The_DT food_NN is_VBZ okay_JJ ._.
-The_DT pizza_NN is_VBZ awesome_JJ !_.
-Get_VB the_DT pesto_JJ chicken_NN but_CC not_RB grilled_JJ ,_, fried_JJ !_.
-SO_RB GOOD_NNP !_.
-They_PRP deliver_VBP ,_, but_CC it_PRP takes_VBZ them_PRP about_IN an_DT hour_NN so_RB plan_NN accordingly_RB ._.

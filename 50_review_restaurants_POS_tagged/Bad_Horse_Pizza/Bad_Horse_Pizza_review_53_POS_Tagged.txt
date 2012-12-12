@@ -1,8 +1,0 @@
-No_DT sign_NN atop_IN Bad_NNP Horse_NNP Pizza_NNP ._.
-Maybe_RB this_DT is_VBZ a_DT deliberate_JJ move_NN to_TO fit_VB into_IN the_DT new_JJ vibe_NN of_IN SOHA_NNP ._.
-In_IN fact_NN they_PRP still_RB have_VBP the_DT old_JJ Corcoran_NNP Group_NNP canopy_NN ._.
-Anyway_RB ,_, pizza_NN here_RB was_VBD enjoyable_JJ ._.
-Fresh_JJ ingredients_NNS made_VBD every_DT slice_NN tasty_JJ ._.
-Though_IN I_PRP do_VBP think_VB they_PRP can_MD improve_VB the_DT crust_NN ,_, the_DT fresh_JJ ingredients_NNS made_VBD every_DT slice_NN nice_JJ ._.
-Clean_JJ joint_JJ adds_VBZ to_TO the_DT cool_JJ atmosphere_NN ._.
-Service_NNP can_MD be_VB sped_VBN up_RP a_DT bit_NN ._.

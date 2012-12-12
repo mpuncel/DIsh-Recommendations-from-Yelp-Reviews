@@ -1,5 +1,0 @@
-I_PRP like_VBP this_DT place_NN ._.
-Quite_RB good_JJ Italian_JJ food_NN -_: a_DT nice_JJ mix_NN of_IN traditional_JJ fare_NN and_CC more_JJR inventive_JJ options_NNS ._.
-We_PRP 've_VBP been_VBN twice_RB :_: the_DT first_JJ time_NN was_VBD great_JJ and_CC the_DT second_JJ time_NN -LRB-_-LRB- Valentine_NNP 's_POS day_NN with_IN a_DT restricted_VBN menu_NN -RRB-_-RRB- was_VBD less_JJR inspiring_JJ ._.
-The_DT ambiance_NN is_VBZ great_JJ ._.
-This_DT is_VBZ a_DT nice_JJ date_NN location_NN ._.

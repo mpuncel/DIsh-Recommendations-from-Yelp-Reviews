@@ -1,2 +1,0 @@
-Mmmmm_NNP ..._: pizza_NN ._.
-Staff_NNP is_VBZ nice_JJ too_RB !_.

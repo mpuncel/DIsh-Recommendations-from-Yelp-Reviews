@@ -1,1 +1,0 @@
-Scale_NNP of_IN 1-10_CD -LRB-_-LRB- multiple_JJ visits_NNS -RRB-_-RRB- :_: 6_CD Food_NNP n\/a_NNP Service_NNP -LRB-_-LRB- just_RB ever_RB had_VBD delivery_NN -RRB-_-RRB- n\/a_NN Atmosphere_NN 6_CD Value_NN

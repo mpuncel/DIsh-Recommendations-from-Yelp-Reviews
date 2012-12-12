@@ -1,4 +1,0 @@
-This_DT place_NN is_VBZ awesome_JJ !_.
-The_DT pizzas_NNS are_VBP made_VBN fresh_JJ to_TO order_NN and_CC are_VBP all_DT wood_NN fired_VBD to_TO perfection_NN ._.
-The_DT ingredients_NNS make_VBP the_DT pizzas_NNS taste_VBP like_IN those_DT you_PRP get_VBP at_IN much_RB more_RBR expensive_JJ ,_, trendy_JJ pizza_NN places_NNS -LRB-_-LRB- Mozza_NNP -RRB-_-RRB- but_CC the_DT prices_NNS at_IN 800_CD Degrees_NNS are_VBP totally_RB reasonable_JJ --_: base_NN pizzas_NNS start_VBP at_IN $_$ 5_CD and_CC $_$ 6_CD and_CC you_PRP can_MD add_VB toppings_NNS as_IN you_PRP like_VBP ._.
-The_DT gelato_NN is_VBZ fabulous_JJ too_RB !_.

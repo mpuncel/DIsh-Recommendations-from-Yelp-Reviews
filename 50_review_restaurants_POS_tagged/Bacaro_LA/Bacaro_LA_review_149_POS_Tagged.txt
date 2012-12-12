@@ -1,3 +1,0 @@
-Decent_JJ atmosphere_NN ,_, drinks_NNS ,_, and_CC service_NN ._.
-The_DT food_NN looked_VBD great_JJ ._.
-I_PRP will_MD update_VB once_RB I_PRP dine_VBP !_.

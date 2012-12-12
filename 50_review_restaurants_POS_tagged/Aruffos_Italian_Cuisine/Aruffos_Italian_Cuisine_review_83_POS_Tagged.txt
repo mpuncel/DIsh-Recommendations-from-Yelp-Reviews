@@ -1,7 +1,0 @@
-Definitely_RB not_RB an_DT Olive_NNP Garden_NNP ._.
-I_PRP say_VBP this_DT because_IN the_DT food_NN at_IN this_DT place_NN was_VBD awesome_JJ ._.
-From_IN the_DT bread_NN loaf_NN to_TO the_DT soup_NN to_TO the_DT spicy_NN chicken_NN parmigiana_NN ._.
-I_PRP was_VBD impressed_JJ ._.
-I_PRP believe_VBP it_PRP 's_VBZ all_DT about_IN the_DT sauce_NN and_CC this_DT place_NN has_VBZ a_DT good_JJ one_CD ._.
-One_CD of_IN my_PRP$ first_JJ jobs_NNS was_VBD at_IN Graziano_NNP 's_POS Italian_JJ Restaunrant_NNP in_IN Rowland_NNP Heights_NNP and_CC they_PRP had_VBD a_DT secret_JJ sauce_NN that_WDT was_VBD amazing_JJ ,_, back_RB in_IN the_DT late_JJ 1980_CD 's_POS ._.
-I_PRP recommend_VBP ._.

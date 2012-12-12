@@ -1,5 +1,0 @@
-As_IN a_DT college_NN student_NN ,_, Viztango_NNP is_VBZ excellent_JJ ._.
-It_PRP 's_VBZ relatively_RB cheap_JJ -LRB-_-LRB- and_CC they_PRP give_VBP you_PRP a_DT discount_NN -RRB-_-RRB- and_CC the_DT food_NN options_NNS are_VBP both_DT numerous_JJ and_CC tasty_JJ ._.
-I_PRP almost_RB always_RB get_VB it_PRP to_TO go_VB -LRB-_-LRB- without_IN a_DT hitch_NN -RRB-_-RRB- ._.
-I_PRP love_VBP the_DT penne_NN vodka_NN and_CC the_DT lunch_NN specials_NNS are_VBP always_RB a_DT great_JJ deal_NN ._.
-Nothing_NN fancy_NN or_CC upscale_NN ,_, but_CC Viztango_NNP always_RB hits_VBZ the_DT spot_NN ._.

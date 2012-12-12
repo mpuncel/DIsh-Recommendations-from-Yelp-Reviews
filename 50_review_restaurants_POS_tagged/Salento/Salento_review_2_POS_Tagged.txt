@@ -1,2 +1,0 @@
-Great_JJ food_NN ,_, not_RB crowded_VBN -LRB-_-LRB- went_VBD on_IN a_DT Friday_NNP night_NN -RRB-_-RRB- ,_, not_RB rushed_VBD ,_, attentive_JJ and_CC pleasant_JJ waitstaff_NN and_CC overall_JJ very_RB pleased_JJ ._.
-Would_MD work_VB well_RB for_IN groups_NNS and_CC they_PRP take_VBP reservations_NNS ._.

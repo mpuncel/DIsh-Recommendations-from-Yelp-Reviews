@@ -1,6 +1,0 @@
-Just_RB ordered_VBN Margarita_NNP pizza_NN w_VBD \/_CD ricotta_NN ,_, greek_NN salad_NN ,_, &_CC meatball_NN parmigiana_NN ._.
-I_PRP want_VBP to_TO say_VB the_DT pizza_NN is_VBZ delicious_JJ here_RB !_.
-I_PRP have_VBP been_VBN look_NN for_IN a_DT neighborhood_NN pizza_NN spot_NN that_WDT delivers_VBZ since_IN I_PRP moved_VBD from_IN Brooklyn_NNP &_CC I_PRP 'm_VBP glad_JJ to_TO say_VB I_PRP found_VBD it_PRP ._.
-The_DT pizza_NN here_RB is_VBZ delicious_JJ ,_, it_PRP comes_VBZ fast_RB &_CC hot_JJ ._.
-The_DT meatball_NN parmigiana_NN could_MD use_VB some_DT work_NN ,_, but_CC still_RB tasty_JJ ._.
-And_CC trust_NN the_DT other_JJ reviews_NNS about_IN the_DT garlic_JJ knots_NNS ,_, they_PRP are_VBP delicious_JJ ..._:

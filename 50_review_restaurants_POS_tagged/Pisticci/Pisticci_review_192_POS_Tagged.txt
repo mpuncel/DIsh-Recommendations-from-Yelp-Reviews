@@ -1,5 +1,0 @@
-Pisticci_NNP is_VBZ a_DT great_JJ little_JJ secret_JJ and_CC is_VBZ a_DT great_JJ date_NN restaurant_NN ._.
-The_DT food_NN is_VBZ wonderful_JJ and_CC always_RB very_RB fresh_JJ ,_, the_DT service_NN is_VBZ unpretentious_JJ ,_, and_CC it_PRP is_VBZ all_DT very_RB affordable_JJ ._.
-I_PRP highly_RB recommend_VBP Pisticci_NNP for_IN all_DT of_IN the_DT reasons_NNS mentioned_VBN in_IN this_DT and_CC the_DT other_JJ reviews_NNS ._.
-As_IN of_IN the_DT last_JJ time_NN I_PRP was_VBD there_RB ,_, Pisticci_NNP does_VBZ not_RB take_VB reservations_NNS ._.
-If_IN you_PRP go_VBP on_IN the_DT weekend_NN for_IN dinner_NN ,_, go_VB early_RB or_CC be_VB prepared_VBN to_TO wait_VB a_DT few_JJ minutes_NNS before_IN you_PRP are_VBP seated_VBN ._.

@@ -1,4 +1,0 @@
-Everything_NN was_VBD great_JJ -_: decor_NN ,_, presentation_NN of_IN the_DT food_NN ,_, service_NN -_: except_IN for_IN the_DT food_NN !_.
-The_DT food_NN was_VBD a_DT little_JJ disappointing_JJ ,_, especially_RB having_VBG read_VBN the_DT overwhelmingly_RB positive_JJ reviews_NNS on_IN Yelp_NNP ._.
-I_PRP had_VBD the_DT margherita_NN pizza_NN appetizer_NN and_CC butternut_NN squash_VBP soup_NN ._.
-The_DT pizza_NN dough_NN was_VBD thick_JJ and_CC chewy_JJ ,_, and_CC the_DT soup_NN a_DT little_JJ salty_NN ._.

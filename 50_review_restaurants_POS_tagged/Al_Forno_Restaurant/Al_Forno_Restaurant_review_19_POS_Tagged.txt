@@ -1,9 +1,0 @@
-You_PRP know_VBP what_WP I_PRP love_VBP about_IN Al_NNP Forno_NNP ?_.
-The_DT Grilled_NNP Pizza_NNP Margarita_NNP ._.
-And_CC the_DT only_JJ way_NN to_TO describe_VB it_PRP is_VBZ from_IN the_DT top_JJ down_NN :_: The_DT top_JJ drizzling_NN of_IN olive_JJ oil_NN lends_VBZ a_DT nice_JJ ,_, richness_NN to_TO the_DT pizza_NN in_IN both_DT flavor_NN and_CC color_NN ._.
-The_DT duo_NN of_IN cheeses_NNS is_VBZ just_RB enough_RB to_TO barely_RB coat_NN the_DT pomodoro_NN ._.
-The_DT slightly_RB ,_, sharp_JJ ,_, saltiness_NN of_IN one_CD cheese_NN melts_VBZ into_IN the_DT creamy_JJ ,_, succulent_JJ ,_, softness_NN of_IN the_DT other_JJ ._.
-These_DT cheeses_NNS coat_NN a_DT subtly_RB acidic_JJ ,_, slightly_RB sweet_JJ pomodoro_NN ,_, with_IN hints_NNS of_IN basil_NN ,_, thyme_NN and_CC rosemary_NN ._.
-And_CC the_DT crust_NN is_VBZ perfectly_RB grilled_JJ with_IN a_DT subtle_JJ woodsy_NN flavor_NN and_CC a_DT slight_JJ crunch_NN in_IN all_DT the_DT right_JJ places_NNS ._.
-Golden_NNP in_IN color_NN and_CC smooth_JJ in_IN texture_NN ,_, this_DT crust_NN is_VBZ the_DT best_JJS you_PRP will_MD ever_RB experience_VB ._.
-The_DT edges_NNS are_VBP crisp_JJ ,_, and_CC though_IN it_PRP is_VBZ thin_JJ ,_, there_EX is_VBZ enough_JJ crust_NN to_TO hold_VB the_DT toppings_NNS without_IN letting_VBG them_PRP slop_NN over_IN the_DT sides_NNS ,_, somehow_RB maintaining_VBG its_PRP$ texture_NN even_RB in_IN the_DT middle_NN of_IN the_DT pizza_NN ._.

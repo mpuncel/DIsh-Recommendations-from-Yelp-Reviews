@@ -1,8 +1,0 @@
-I_PRP went_VBD to_TO 800_CD Degrees_NNS this_DT past_JJ weekend_NN and_CC the_DT pizza_NN was_VBD phenomenal_JJ -_: the_DT best_JJS pizza_NN I_PRP 've_VBP had_VBN in_IN a_DT looooong_JJ time_NN !_.
-The_DT line_NN was_VBD quite_RB long_RB ,_, out_IN the_DT door_NN ,_, which_WDT made_VBD me_PRP nervous_JJ at_IN first_JJ because_IN I_PRP assuming_VBG I_PRP 'd_MD wait_VB forever_RB ,_, however_RB ,_, the_DT line_NN moved_VBD pretty_RB quickly_RB ._.
-I_PRP notice_VBP they_PRP have_VBP a_DT sign_NN saying_VBG that_IN you_PRP can_MD not_RB save_VB tables_NNS and_CC that_IN y_VBP the_DT time_NN you_PRP 're_VBP finished_VBN ordering_VBG there_RB will_MD be_VB a_DT table_NN ,_, which_WDT was_VBD suprisingly_RB true_JJ ._.
-The_DT place_NN did_VBD clear_JJ out_RP by_IN the_DT time_NN I_PRP ordered_VBD ._.
-We_PRP got_VBD a_DT Margherita_NNP pizza_NN base_NN with_IN Carni_NNP toppings_NNS ._.
-I_PRP also_RB love_VBP that_IN they_PRP have_VBP the_DT soda_NN machine_NN that_WDT allows_VBZ you_PRP do_VBP get_VB different_JJ flavors_NNS of_IN traditional_JJ sodas_NNS ._.
-Overall_RB ,_, the_DT pizza_NN was_VBD great_JJ and_CC a_DT good_JJ price_NN ._.
-I_PRP would_MD go_VB back_RB in_IN a_DT heartbeat_NN ._.

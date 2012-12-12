@@ -1,2 +1,0 @@
-I_PRP do_VBP n't_RB even_RB order_VB pizza_NN but_CC this_DT place_NN made_VBD me_PRP change_VB that_DT ._.
-It_PRP is_VBZ the_DT best_JJS pizza_NN I_PRP have_VBP tasted_VBN in_IN Atlanta_NNP ._.

@@ -1,7 +1,0 @@
-I_PRP did_VBD n't_RB go_VB to_TO Michigan_NNP ,_, but_CC I_PRP went_VBD to_TO Pizza_NNP House_NNP ._.
-The_DT Girlfriend_NNP tells_VBZ me_PRP that_IN all_DT Michigan_NNP kids_NNS come_VBP here_RB at_IN some_DT point_NN ._.
-I_PRP could_MD easily_RB tell_VB why_WRB ._.
-The_DT pizza_NN was_VBD large_JJ enough_JJ to_TO feed_VB a_DT table_NN of_IN ravenous_JJ college_NN kids_NNS as_RB well_RB as_IN a_DT large_JJ family_NN heading_VBG to_TO a_DT football_NN game_NN ._.
-The_DT cinnamon_NN bread_NN was_VBD quite_RB stellar_JJ as_RB well_RB ,_, having_VBG plenty_NN of_IN frosting_NN ._.
-There_EX 's_VBZ just_RB something_NN special_JJ about_IN dining_VBG at_IN a_DT well_RB known_VBN college_NN spot_NN ._.
-This_DT place_NN proved_VBD to_TO be_VB no_DT exception_NN ._.

@@ -1,8 +1,0 @@
-Kyle_NNP M_NNP said_VBD it_PRP best_RB below_IN :_: Service_NNP =_SYM meh_FW ._.
-Food_NNP =_SYM meh_FW to_TO below_IN meh_NN ._.
-Overpriced_VBN ,_, medicore_NN food_NN and_CC service_NN ._.
-And_CC yes_UH ,_, wine_NN in_IN kitchen_NN glasses_NNS ._.
-The_DT waiter_NN had_VBD to_TO check_VB if_IN he_PRP could_MD bring_VB over_RP a_DT real_JJ wine_NN glass_NN for_IN my_PRP$ girlfriend_NN 's_POS $_$ 8_CD glass_NN of_IN wine_NN ._.
--LRB-_-LRB- He_PRP brought_VBD one_CD ,_, but_CC still_RB ._. -RRB-_-RRB-
-Do_VBP n't_RB go_VB here_RB unless_IN you_PRP have_VBP to_TO ._.
-And_CC if_IN you_PRP do_VBP go_VB ,_, get_VB the_DT salmon_NN ,_, it_PRP 's_VBZ tolerable_JJ ._.

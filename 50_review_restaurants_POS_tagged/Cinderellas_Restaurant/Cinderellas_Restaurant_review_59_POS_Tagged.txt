@@ -1,5 +1,0 @@
-Open_NNP late_RB ,_, which_WDT is_VBZ probably_RB its_PRP$ best_JJS quality_NN ._.
-Their_PRP$ pizza_NN ranges_VBZ from_IN acceptable_JJ to_TO pretty_RB good_JJ ._.
-Burgers_NNS are_VBP terrible_JJ ._.
-Good_JJ garlic_JJ bread_NN ._.
-A_DT fine_NN option_NN ,_, especially_RB for_IN late-night_JJ dining_NN ._.

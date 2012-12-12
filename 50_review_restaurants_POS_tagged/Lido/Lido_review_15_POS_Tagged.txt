@@ -1,4 +1,0 @@
-Been_VBN here_RB twice_RB ,_, once_RB for_IN dinner_NN -LRB-_-LRB- Orecchiette_NNP -RRB-_-RRB- and_CC once_RB for_IN brunch_NN -LRB-_-LRB- Short_JJ rib_NN hash_NN -RRB-_-RRB- ._.
-Both_DT times_NNS the_DT food_NN was_VBD great_JJ ._.
-Seating_NN is_VBZ spacious_JJ and_CC the_DT atmosphere_NN is_VBZ very_RB chill_NN and_CC relaxing_VBG ._.
-Unlimited_JJ mimosas_NNS for_IN $_$ 12_CD is_VBZ a_DT also_RB a_DT steal_VB in_IN itself_PRP ._.

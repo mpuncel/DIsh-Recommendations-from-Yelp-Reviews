@@ -1,4 +1,0 @@
-This_DT place_NN is_VBZ awesome_JJ ,_, the_DT pizza_NN is_VBZ delicious_JJ ._.
-They_PRP have_VBP calzone_VBN 's_POS ,_, and_CC they_PRP 're_VBP legit_VBN ._.
-The_DT bathroom_NN door_NN has_VBZ a_DT security_NN panel_NN on_IN it_PRP and_CC you_PRP have_VBP to_TO enter_VB a_DT code_NN to_TO get_VB in_IN ,_, I_PRP thought_VBD that_DT was_VBD weird_JJ ._.
-Atleast_NNP I_PRP know_VBP where_WRB to_TO hide_VB if_IN zombie_NN 's_POS attack_NN

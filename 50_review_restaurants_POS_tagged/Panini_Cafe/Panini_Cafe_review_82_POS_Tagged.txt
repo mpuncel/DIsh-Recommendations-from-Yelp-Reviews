@@ -1,6 +1,0 @@
-Love_NNP ,_, love_NN ,_, love_NN this_DT place_NN ._.
-It_PRP is_VBZ a_DT perfect_JJ place_NN to_TO go_VB for_IN a_DT bite_NN ._.
-I_PRP have_VBP gone_VBN there_RB for_IN both_DT breakfast_NN and_CC dinner_NN ,_, and_CC their_PRP$ menus_NNS for_IN both_DT meals_NNS are_VBP excellent_JJ ._.
-They_PRP have_VBP a_DT wide_JJ selection_NN of_IN delicious_JJ sandwiches_NNS ,_, which_WDT are_VBP simple_JJ with_IN excellent_JJ flavors_NNS ._.
-A_DT good_JJ amount_NN of_IN food_NN for_IN a_DT very_RB reasonable_JJ price_NN ._.
-Check_VB em_NN out_IN !_.

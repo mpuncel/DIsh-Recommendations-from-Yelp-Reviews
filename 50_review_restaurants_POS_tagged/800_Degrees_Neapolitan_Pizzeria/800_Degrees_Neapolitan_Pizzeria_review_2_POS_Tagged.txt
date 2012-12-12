@@ -1,5 +1,0 @@
-The_DT concept_NN is_VBZ cool_JJ ,_, but_CC I_PRP found_VBD the_DT choices_NNS overwhelming_JJ ._.
-I_PRP went_VBD with_IN a_DT margherita_NN pizza_NN with_IN tartufo_NN cheese_NN ,_, pappadew_NN peppers_NNS ,_, sausage_NN ,_, and_CC pesto_NN ._.
-Sounded_VBN good_JJ ,_, but_CC it_PRP was_VBD too_RB cheesy_JJ ,_, for_IN the_DT amount_NN of_IN sauce_NN ._.
-The_DT toppings_NNS were_VBD a_DT bit_NN sparse_JJ too_RB ._.
-The_DT ambiance_NN is_VBZ very_RB casual_JJ college_NN ._.

@@ -1,7 +1,0 @@
-Some_DT of_IN the_DT best_JJS food_NN by_IN USC_NNP ._.
-I_PRP have_VBP been_VBN to_TO this_DT place_NN many_JJ times_NNS but_CC have_VBP yet_RB to_TO write_VB a_DT review_NN ._.
-The_DT tapas_NNS are_VBP a_DT great_JJ size_NN for_IN sharing_NN and_CC always_RB good_JJ ._.
-Their_PRP$ happy_JJ hour_NN is_VBZ 5-7pm_JJ mon-thur_NN and_CC tapas_NNS are_VBP only_RB $_$ 5_CD and_CC on_IN Monday_NNP wine_NN by_IN the_DT glass_NN is_VBZ half_DT off_IN all_DT day_NN long_RB -LRB-_-LRB- i_FW recommend_VB going_VBG on_IN Monday_NNP -RRB-_-RRB- ._.
-Their_PRP$ Bacaro_NNP Burger_NNP is_VBZ amazing_JJ -LRB-_-LRB- open_JJ faced_VBN and_CC the_DT perfect_JJ size_NN -RRB-_-RRB- ._.
-Their_PRP$ bruschette_NN and_CC crostini_NNS are_VBP great_JJ appetizer_NN options_NNS ._.
-I_PRP would_MD recommend_VB trying_VBG it_PRP out_RP if_IN you_PRP are_VBP in_IN the_DT neighborhood_NN ._.

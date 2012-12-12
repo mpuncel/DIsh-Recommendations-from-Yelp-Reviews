@@ -1,5 +1,0 @@
-Not_RB the_DT absolute_JJ best_JJS Italian_JJ food_NN I_PRP 've_VBP ever_RB had_VBN ,_, but_CC pretty_RB darn_VB close_RB ._.
-If_IN you_PRP are_VBP a_DT fan_NN of_IN coffee_NN ,_, you_PRP absolutely_RB must_MD have_VB an_DT espresso_NN with_IN dessert_NN ._.
-The_DT espresso_NN is_VBZ the_DT best_JJS I_PRP 've_VBP found_VBN in_IN Houston_NNP so_RB far_RB ._.
-This_DT place_NN is_VBZ a_DT bit_NN pricey_JJ ,_, but_CC it_PRP 's_VBZ worth_JJ it_PRP ._.
-Everything_NN has_VBZ complex_JJ flavors_NNS and_CC is_VBZ an_DT absolute_JJ delight_NN from_IN beginning_VBG to_TO end_VB ._.

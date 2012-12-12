@@ -1,5 +1,0 @@
-I_PRP 've_VBP been_VBN here_RB a_DT few_JJ times_NNS for_IN breakfast_NN and_CC I_PRP 'm_VBP not_RB impressed_JJ ._.
-The_DT service_NN is_VBZ incredibly_RB slow_JJ ,_, and_CC the_DT food_NN is_VBZ n't_RB great_JJ either_CC ._.
-Their_PRP$ eggs_NNS and_CC omelettes_NNS are_VBP bland_JJ and_CC watery_JJ ;_: pancakes_NNS ,_, mediocre_JJ ._.
-Menu_NN items_NNS are_VBP generally_RB lacking_VBG in_IN the_DT taste_NN department_NN ._.
-You_PRP 'd_MD be_VB much_RB better_JJR off_RP just_RB going_VBG across_IN the_DT street_NN to_TO Ann_NNP 's_POS Kitchen_NN ._.

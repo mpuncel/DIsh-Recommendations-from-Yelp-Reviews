@@ -1,6 +1,0 @@
-Jake_NNP is_VBZ so_RB on_IN point_NN here_RB ._.
-Allegro_NNP pizza_NN is_VBZ so_RB tasty_JJ ,_, and_CC it_PRP is_VBZ worth_IN a_DT couple_NN of_IN your_PRP$ hard_JJ earned_VBN dollars_NNS IF_IN you_PRP are_VBP in_IN the_DT area_NN already_RB ._.
-However_RB ,_, the_DT clientele_NN is_VBZ entirely_RB disturbing_JJ ,_, regardless_RB of_IN whether_IN it_PRP 's_VBZ students_NNS or_CC non-students_NNS ._.
-The_DT only_JJ non-students_NNS who_WP come_VBP here_RB are_VBP weird_JJ or_CC have_VB issues_NNS with_IN talking_VBG to_TO themselves_PRP and_CC whatnot_NN ._.
-Everyone_NN here_RB is_VBZ weird_JJ right_NN down_IN to_TO the_DT staff_NN ,_, so_RB thumbs_VBZ down_RP for_IN a_DT creepy_JJ ,_, dirty_JJ atmosphere_NN ._.
-But_CC the_DT pizza_NN 's_POS good_JJ !_.

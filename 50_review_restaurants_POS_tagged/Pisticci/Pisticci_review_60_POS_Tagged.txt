@@ -1,8 +1,0 @@
-Date_NNP Visited_NNP :_: May_NNP 10h_CD People_NNS :_: Megan_NNP ,_, Ricky_NNP ,_, Pam_NNP Janet_NNP ,_, prudie_NN et_FW al._FW ._.
-My_PRP$ tab_NN :_: scoring_VBG system_NN :_: 1_CD star_NN =_SYM wo_MD n't_RB be_VB back_RB ._.
-2_CD stars_NNS =_SYM would_MD go_VB back_RB ._.
-3_CD stars_NNS =_SYM look_VB forward_RB to_TO going_VBG back_RB 4_CD stars_NNS =_SYM someplace_JJ special_JJ ._.
-5_CD stars_NNS =_SYM near_IN perfection_NN Went_VBD here_RB for_IN a_DT big_JJ post_NN graduation_NN brunch_NN ._.
-About_RB as_IN un_JJ New_NNP York_NNP as_IN you_PRP can_MD get_VB ..._: which_WDT is_VBZ a_DT good_JJ thing_NN every_DT once_RB in_IN a_DT while_NN ._.
-Had_VBD coffee_NN ,_, no_DT AM_NNP cocktails_NNS ,_, followed_VBN by_IN a_DT bunch_NN of_IN shared_VBN apps_NNS :_: olives_NNS hummus_NN ,_, cheese_NN ,_, followed_VBN by_IN a_DT large_JJ fresh_JJ pasta_NN -LRB-_-LRB- recommended_VBN -RRB-_-RRB- and_CC some_DT sorbets_NNS for_IN dessert_NN ._.
-Friendly_JJ people_NNS ._.

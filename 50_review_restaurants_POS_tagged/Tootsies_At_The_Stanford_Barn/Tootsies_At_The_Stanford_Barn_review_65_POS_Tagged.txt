@@ -1,7 +1,0 @@
-What_WP a_DT cute_JJ place_NN !_.
-I_PRP came_VBD here_RB for_IN brunch_NN -LRB-_-LRB- which_WDT turned_VBD out_RP to_TO be_VB a_DT late_JJ lunch_NN -RRB-_-RRB- on_IN a_DT Saturday_NNP afternoon_NN w_NN \/_VBD a_DT friend_NN ._.
-I_PRP ordered_VBD the_DT frittata_NN w_VB \/_RB toasted_VBN bread_NN and_CC Nutella_NN and_CC a_DT dark_JJ chocolate_NN mocha_NN ._.
-While_IN the_DT frittata_NN was_VBD decent_JJ and_CC you_PRP can_MD never_RB go_VB wrong_JJ w_NN \/_NN Nutella_NNP ,_, the_DT dark_JJ chocolate_NN mocha_NN was_VBD my_PRP$ favorite_JJ part_NN of_IN the_DT meal_NN ._.
-Very_RB chocolate-y_JJ and_CC delicious_JJ !_.
-I_PRP would_MD come_VB back_RB to_TO try_VB their_PRP$ paninis_NNS ._.
--_: L._NNP

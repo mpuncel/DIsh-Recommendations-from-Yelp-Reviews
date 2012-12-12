@@ -1,3 +1,0 @@
-I_PRP had_VBD lunch_NN at_IN Teresa_NNP 's_POS on_IN a_DT weekday_NN in_IN 3\/05_CD ._.
-It_PRP 's_VBZ a_DT light-filled_JJ and_CC charming_JJ restaurant_NN and_CC it_PRP seemed_VBD very_RB popular_JJ ._.
-The_DT food_NN was_VBD delicious_JJ ,_, the_DT service_NN was_VBD excellent_JJ and_CC the_DT prices_NNS were_VBD moderate_JJ ._.

@@ -1,6 +1,0 @@
-love_NN this_DT place_NN !_.
-realllly_RB good_JJ food_NN !_.
-i_FW mean_VB incredibly_RB good_JJ !_.
-i_FW love_VBP the_DT bacaro_NN burger_NN !_.
-i_FW usually_RB come_VBN here_RB with_IN my_PRP$ some_DT friends_NNS as_IN their_PRP$ third_JJ wheel_NN ._.
-not_RB always_RB but_CC most_JJS of_IN the_DT time_NN i_FW am_VBP the_DT third_JJ wheel_NN but_CC for_IN bacaro_NN thats_VBZ a_DT very_RB small_JJ price_NN to_TO pay_VB lol_NN

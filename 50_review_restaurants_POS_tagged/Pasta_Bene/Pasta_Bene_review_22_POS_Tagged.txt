@@ -1,7 +1,0 @@
-Delicious_NNP pastas_NNS ,_, delicious_JJ pizza_NN ,_, delicious_JJ appetizers_NNS ,_, delicious_JJ desserts_NNS ,_, all_DT for_IN a_DT reasonable_JJ price_NN !_.
-I_PRP 've_VBP tried_VBN many_JJ different_JJ pastas_NNS ,_, one_CD of_IN their_PRP$ pizzas_NNS ,_, their_PRP$ bruschetta_NN ,_, and_CC their_PRP$ tiramisu_NN ._.
-I_PRP was_VBD most_RBS impressed_JJ with_IN their_PRP$ gnocchi_NNS because_IN you_PRP wo_MD n't_RB find_VB many_JJ places_NNS that_WDT are_VBP willing_JJ to_TO put_VB the_DT time_NN into_IN making_VBG it_PRP ._.
-A_DT word_NN of_IN advice_NN ,_, do_VBP not_RB order_VB the_DT lasagna_NN ._.
-I_PRP found_VBD that_IN thoroughly_RB disappointing_JJ because_IN I_PRP got_VBD a_DT dish_NN with_IN cheese_NN that_IN lacked_VBD the_DT intense_JJ cheesy_NN taste_NN that_IN people_NNS associate_JJ with_IN lasagna_NN and_CC a_DT sauce_NN that_WDT was_VBD sweet_JJ and_CC reminded_VBD me_PRP somewhat_RB of_IN barbeque_NN sauce_NN ._.
-After_IN eating_VBG a_DT few_JJ bites_VBZ ,_, it_PRP was_VBD hard_JJ for_IN me_PRP to_TO finish_VB ..._: Would_MD have_VB given_VBN this_DT 5_CD stars_NNS but_CC was_VBD disappointed_VBN with_IN lasagna_NN and_CC atmosphere_NN was_VBD not_RB very_RB good_JJ ._.
-There_EX is_VBZ a_DT line_NN that_WDT extends_VBZ between_IN two_CD large_JJ tables_NNS in_IN the_DT center_NN so_IN it_PRP gets_VBZ pretty_RB crowded_VBN in_IN there_RB ._.

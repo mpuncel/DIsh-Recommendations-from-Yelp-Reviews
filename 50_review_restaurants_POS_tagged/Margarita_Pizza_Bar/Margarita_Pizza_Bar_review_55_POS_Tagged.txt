@@ -1,3 +1,0 @@
-This_DT is_VBZ a_DT nice_JJ addition_NN to_TO the_DT food_NN places_VBZ around_IN USC_NNP ,_, considering_VBG almost_RB everything_NN is_VBZ fast_JJ food_NN ._.
-The_DT food_NN seems_VBZ to_TO be_VB a_DT bit_NN pricey_JJ ,_, but_CC it_PRP is_VBZ good_JJ ._.
-They_PRP have_VBP lots_NNS of_IN options_NNS on_IN the_DT menu_NN ,_, and_CC are_VBP open_JJ late_JJ which_WDT is_VBZ nice_JJ !_.

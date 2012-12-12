@@ -1,6 +1,0 @@
-I_PRP went_VBD there_RB following_VBG the_DT buzz_NN ._.
-I_PRP guess_VBP I_PRP had_VBD too_RB much_JJ expectations_NNS ._.
-Good_JJ judgment_NN on_IN my_PRP$ part_NN ,_, i_FW decided_VBD to_TO go_VB at_IN 5pm_CD ,_, so_RB no_RB waiting_VBG in_IN line_NN ._.
-I_PRP do_VBP like_IN the_DT way_NN you_PRP can_MD build_VB your_PRP$ pizza_NN ,_, like_IN subway_NN ,_, the_DT ingredients_NNS look_VBP fresh_JJ ,_, the_DT staff_NN is_VBZ very_RB nice_JJ ,_, the_DT price_NN is_VBZ amazing_JJ ,_, but_CC ..._: the_DT pizza_NN is_VBZ ..._: bland_NN ,_, nothing_NN special_JJ ._.
-Lacking_VBG in_IN flavor_NN ,_, I_PRP felt_VBD like_IN too_RB much_JJ soggy_JJ dough_NN in_IN my_PRP$ mouth_NN ._.
-Mulberry_NNP pizza_NN is_VBZ much_RB better_JJR or_CC a_DT little_RB more_JJR pricey_JJ but_CC the_DT pizza_NN are_VBP out_IN of_IN this_DT world_NN is_VBZ pizza_NN Mozza_NNP ._.

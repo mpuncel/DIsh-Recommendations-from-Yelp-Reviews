@@ -1,5 +1,0 @@
-First_RB ,_, the_DT owner\/cashier_NN is_VBZ the_DT same_JJ one_CD from_IN when_WRB I_PRP was_VBD a_DT student_NN !_.
-How_WRB 's_POS that_WDT for_IN consistency_NN !_.
-The_DT food_NN is_VBZ Italian_JJ fast_JJ food_NN ,_, but_CC for_IN $_$ 8_CD combo_NN ,_, it_PRP 's_VBZ still_RB a_DT good_JJ deal_NN ._.
-Godfather_NNP 's_POS Favorite_NNP is_VBZ still_RB as_IN I_PRP remember_VBP it_PRP ._.
-Delicious_NNP and_CC coma_JJ inducing_VBG ._.

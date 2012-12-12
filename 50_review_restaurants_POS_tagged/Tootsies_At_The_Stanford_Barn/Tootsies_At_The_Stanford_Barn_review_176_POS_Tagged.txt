@@ -1,5 +1,0 @@
-Small_JJ ,_, cheap_JJ ._.
-Historic_JJ setting_NN ,_, delicious_JJ food_NN ._.
-I_PRP came_VBD here_RB for_IN a_DT quick_JJ breakfast_NN after_IN a_DT doctors_NNS appointment_NN ._.
-After_IN walking_VBG though_IN an_DT acre_NN or_CC so_RB of_IN Lavender_NN I_PRP approached_VBD Tootsies_NNP ._.
-I_PRP ordered_VBD the_DT Poached_NNP Egg_NNP breakfast_NN dish_NN and_CC a_DT cappuccino_NN ._.

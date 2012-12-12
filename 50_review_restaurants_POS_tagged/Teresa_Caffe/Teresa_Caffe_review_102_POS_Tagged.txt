@@ -1,7 +1,0 @@
-Food_NNP is_VBZ awesome_JJ ,_, great_JJ wine_NN selection_NN ,_, delicious_JJ desserts_NNS -LRB-_-LRB- cheese_NN cake_NN has_VBZ Nutella_NN on_IN it_PRP ARE_VBP YOU_PRP SERIOUS_VBZ ?!?!_CD -RRB-_-RRB- ,_, GREAT_JJ location_NN ._.
-Only_RB complaint_NN is_VBZ we_PRP always_RB have_VBP to_TO wait_VB ..._: but_CC ,_, it_PRP 's_VBZ so_RB good_JJ we_PRP are_VBP always_RB WILLING_VBG to_TO wait_VB ._.
-Longest_NNP wait_NN was_VBD 45_CD minutes_NNS ._. ._.
-again_RB totally_RB worth_IN it_PRP ._.
-We_PRP were_VBD not_RB rushed_VBN with_IN our_PRP$ meals_NNS ,_, and_CC they_PRP let_VBP us_PRP enjoy_VB our_PRP$ wine_NN and_CC desserts_NNS with_IN no_DT rush_NN as_RB well_RB ._.
-Great_JJ service_NN ,_, and_CC awesome_JJ food_NN ._.
-A_DT MUST_NNP !!!_NN

@@ -1,6 +1,0 @@
-I_PRP was_VBD allowed_VBN to_TO customize_VB my_PRP$ order_NN !_.
-There_EX were_VBD several_JJ really_RB appealing_JJ items_NNS that_IN I_PRP wanted_VBD to_TO try_VB and_CC opted_VBD for_IN the_DT melanzane_NN -LRB-_-LRB- fettuccini_NNS with_IN roasted_JJ eggplant_NN ,_, sundried_VBN tomatoes_NNS &_CC garlic_NN in_IN marinara_NN sauce_NN -RRB-_-RRB- ._.
-I_PRP swapped_VBD the_DT marinara_NN sauce_NN with_IN alfredo_NN and_CC added_VBD chicken_NN for_IN $_$ 1_CD more_JJR to_TO bring_VB the_DT entree_FW to_TO $_$ 7.95_CD ._.
-I_PRP also_RB ordered_VBD the_DT garlic_JJ bread_NN because_IN I_PRP love_VBP garlic_JJ bread_NN !_.
-The_DT food_NN took_VBD a_DT bit_NN long_JJ but_CC it_PRP was_VBD certainly_RB delicious_JJ !_.
-I_PRP need_VBP to_TO come_VB back_RB for_IN the_DT highly-recommended_JJ tiramisu_NN next_JJ time_NN ._.

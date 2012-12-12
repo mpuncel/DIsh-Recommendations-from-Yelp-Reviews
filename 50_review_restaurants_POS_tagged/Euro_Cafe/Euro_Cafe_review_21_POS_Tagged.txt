@@ -1,2 +1,0 @@
-Little_NNP Portuguese_NNP cafe_NN in_IN Claremont_NNP ,_, CA_NNP ._.
-Pretty_NNP dope_NN ..._: good_JJ food_NN ,_, great_JJ staff_NN ,_, good_JJ vibe_NN ._.

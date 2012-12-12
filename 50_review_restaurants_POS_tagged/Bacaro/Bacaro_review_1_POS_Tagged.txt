@@ -1,1 +1,0 @@
-Food_NNP was_VBD OK_JJ but_CC the_DT service_NN was_VBD awful_JJ and_CC the_DT prices_NNS are_VBP shameful_JJ ._.

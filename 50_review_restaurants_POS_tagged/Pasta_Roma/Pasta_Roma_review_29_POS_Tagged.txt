@@ -1,9 +1,0 @@
-Parking_NN is_VBZ n't_RB great_JJ but_CC it_PRP is_VBZ next_JJ to_TO USC_NNP so_IN the_DT students_NNS are_VBP everywhere_RB !_.
-Food_NNP was_VBD good_JJ !_.
-I_PRP had_VBD the_DT Chicken_NNP Fettuccine_NNP ._.
-It_PRP was_VBD a_DT bit_NN too_RB much_JJ food_NN for_IN me_PRP but_CC now_RB days_NNS everyone_NN tries_VBZ to_TO give_VB you_PRP way_RB too_RB much_JJ food_NN !_.
-I_PRP liked_VBD the_DT set_VBN up_IN of_IN the_DT place_NN ._. ._.
-the_DT way_NN you_PRP order_NN and_CC so_RB forth_RB !_.
-Seating_NN was_VBD okay_JJ ._.
-I_PRP enjoyed_VBD my_PRP$ food_NN and_CC would_MD definitely_RB go_VB back_RB !_.
-;_: 0_CD -RRB-_-RRB-

@@ -1,4 +1,0 @@
-Great_NNP Food_NNP for_IN what_WP you_PRP pay_VBP for_IN ._.
-Good_JJ atmosphere_NN ._.
-I_PRP do_VBP n't_RB like_VB their_PRP$ Cal_NNP Zones_NNS ._.
-Personal_JJ favorites_NNS :_: Pomodoro_NNP ,_, fungi_NNS ,_, I_PRP do_VBP n't_RB remember_VB the_DT name_NN of_IN this_DT last_JJ one_CD but_CC it_PRP has_VBZ salmon_NN in_IN it_PRP ._.

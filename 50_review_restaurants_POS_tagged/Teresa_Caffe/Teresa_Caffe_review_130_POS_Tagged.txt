@@ -1,4 +1,0 @@
-Awesome_JJ gourmet_NN pizza_NN ._.
-Pizza_NNP e_SYM Vino_NNP on_IN Monday_NNP 's_POS is_VBZ something_NN everyone_NN should_MD experience_VB -LRB-_-LRB- 5_CD or_CC so_RB different_JJ slices_NNS of_IN gourmet_NN pizza_NN with_IN an_DT optional_JJ wine_NN flight_NN to_TO accompany_VB -RRB-_-RRB- ._.
-Menu_NN is_VBZ cool_JJ and_CC the_DT wine_NN list_NN is_VBZ well_RB planned_VBN out_RP ._.
-Space_NNP is_VBZ somewhat_RB small_JJ but_CC the_DT pizza_NN will_MD make_VB you_PRP forget_VB where_WRB you_PRP are_VBP ._.

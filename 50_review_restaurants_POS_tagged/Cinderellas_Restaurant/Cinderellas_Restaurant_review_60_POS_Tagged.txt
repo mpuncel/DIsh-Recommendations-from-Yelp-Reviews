@@ -1,3 +1,0 @@
-Slowwwwww_NNP delivery_NN ,_, but_CC better_JJR than_IN average_JJ pizza_NN ._.
-decent_JJ crust_NN ,_, good_JJ sauce_NN and_CC toppings_NNS ._.
-If_IN they_PRP had_VBD it_PRP here_RB by_IN the_DT time_NN they_PRP said_VBD they_PRP would_MD ,_, I_PRP would_MD have_VB given_VBN them_PRP another_DT star_NN ._.

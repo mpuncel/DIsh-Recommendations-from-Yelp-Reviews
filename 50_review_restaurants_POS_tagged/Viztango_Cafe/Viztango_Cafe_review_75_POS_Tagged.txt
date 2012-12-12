@@ -1,3 +1,0 @@
-Good_JJ quality_NN college_NN food_NN !_.
-The_DT salad_NN pizza_NN is_VBZ very_RB good_JJ ,_, prices_NNS are_VBP dirt_NN cheap_JJ and_CC student_NN discount_NN ..._: The_DT house_NN specials_NNS are_VBP all_DT great_JJ ,_, chicken_NN pasta_NN with_IN the_DT light_JJ cream_NN sauce_NN is_VBZ a_DT winner_NN ._.
-Stick_NNP with_IN pastas_NNS and_CC pizza_NN

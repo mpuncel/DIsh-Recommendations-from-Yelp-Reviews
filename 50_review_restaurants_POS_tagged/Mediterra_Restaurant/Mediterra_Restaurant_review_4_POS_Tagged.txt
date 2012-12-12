@@ -1,5 +1,0 @@
-This_DT is_VBZ a_DT really_RB great_JJ place_NN ._.
-I_PRP loved_VBD the_DT atmosphere_NN ,_, and_CC the_DT food_NN was_VBD outstanding_JJ ._.
-Really_RB quality_NN ingredients_NNS ,_, very_RB well_RB prepared_JJ ._.
-I_PRP will_MD return_VB here_RB as_RB often_RB as_IN I_PRP am_VBP able_JJ ._.
-Service_NNP was_VBD excellent_JJ ,_, we_PRP just_RB showed_VBD up_RP ,_, 7_CD of_IN us_PRP ,_, on_IN a_DT Saturday_NNP night_NN ,_, and_CC they_PRP sat_VBD us_PRP immediately_RB ,_, in_IN a_DT very_RB busy_JJ place_NN ,_, they_PRP really_RB went_VBD out_IN of_IN their_PRP$ way_NN to_TO make_VB us_PRP happy_JJ ._.

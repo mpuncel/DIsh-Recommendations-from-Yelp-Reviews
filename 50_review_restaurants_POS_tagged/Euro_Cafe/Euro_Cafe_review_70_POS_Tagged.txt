@@ -1,6 +1,0 @@
-Portguese_NNP ._.
-Huh_NNP ,_, no_DT Yelp_NNP category_NN for_IN that_DT ._.
-Nice_JJ cafe_NN on_IN the_DT north_JJ side_NN of_IN Claremont_NNP ._.
-Service_NNP is_VBZ usually_RB slow_JJ and_CC they_PRP do_VBP n't_RB always_RB get_VB the_DT espresso_NN drinks_NNS right_RB ._.
-Otherwise_RB ,_, I_PRP have_VBP loved_VBN the_DT sandwiches_NNS and_CC desserts_NNS here_RB ._.
-The_DT egg_NN sandwich_NN -LRB-_-LRB- mornings_NNS -RRB-_-RRB- and_CC the_DT special_JJ Portguese_NNP flan_NN -LRB-_-LRB- flan_JJ +_NN chocolate_NN cake_NN base_NN -RRB-_-RRB- are_VBP wonderful_JJ ._.

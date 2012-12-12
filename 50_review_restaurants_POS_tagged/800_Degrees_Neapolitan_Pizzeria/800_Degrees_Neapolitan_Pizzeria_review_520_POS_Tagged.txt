@@ -1,4 +1,0 @@
-Pizza_NNP is_VBZ very_RB good_JJ ._.
-Ca_MD n't_RB say_VB it_PRP was_VBD jaw-dropping_JJ great_JJ pizza_NN ._.
-Otherwise_RB ,_, it_PRP 's_VBZ like_IN a_DT chiptole_JJ line_NN but_CC definitely_RB fresh_JJ baked_JJ pizza_NN with_IN unique_JJ toppings_NNS ._.
-Line_NNP is_VBZ long_RB so_RB expect_VB at_IN least_JJS 10-25_CD minute_NN wait_NN ._.

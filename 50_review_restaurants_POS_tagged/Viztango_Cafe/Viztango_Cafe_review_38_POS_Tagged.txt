@@ -1,4 +1,0 @@
-Pink_JJ sauce_NN Pene_NNP with_IN chicken_NN and_CC two_CD slices_NNS of_IN bread_NN =_SYM carb_FW heaven_NN ._.
-My_PRP$ go_VB to_TO meal_NN when_WRB I_PRP was_VBD an_DT undergrad_NN at_IN USC_NNP +_CD when_WRB I_PRP 'm_VBP around_IN visiting_VBG ._.
-The_DT restaurant_NN is_VBZ a_DT little_JJ on_IN the_DT smaller_JJR and_CC the_DT parking_NN lot_NN a_DT bit_NN tight_JJ ,_, but_CC they_PRP also_RB deliver_VBP locally_RB ._.
-It_PRP 's_VBZ definitely_RB a_DT staple_NN around_IN USC_NNP ._.

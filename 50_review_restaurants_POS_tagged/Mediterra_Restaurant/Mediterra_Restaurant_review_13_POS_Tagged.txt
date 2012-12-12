@@ -1,7 +1,0 @@
-I_PRP like_VBP to_TO save_VB the_DT 5_CD star_NN ratings_NNS for_IN restaurants_NNS that_IN I_PRP dream_VBP about_IN for_IN days_NNS ._.
-Mediterra_NNP was_VBD close_RB ._.
-I_PRP would_MD give_VB them_PRP 4.5_CD stars_NNS ._.
-I_PRP love_VBP the_DT atmosphere_NN here_RB and_CC their_PRP$ martinis_NNS go_VBP down_RP like_IN water_NN ._.
-We_PRP go_VBP the_DT calamari_NN and_CC Bruschetta_NNP for_IN appetizers_NNS ._.
-I_PRP then_RB had_VBD the_DT salmon_NN and_CC we_PRP shared_VBD tiramisu_NN for_IN desert_NN ._.
-Outstanding_JJ !!!_NNP One_CD of_IN my_PRP$ favorite_JJ restaurants_NNS in_IN Princeton_NNP by_IN far_RB ._.

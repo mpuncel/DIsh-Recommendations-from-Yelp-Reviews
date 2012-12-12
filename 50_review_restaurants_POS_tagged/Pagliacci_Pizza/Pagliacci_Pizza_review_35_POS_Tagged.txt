@@ -1,4 +1,0 @@
-Ick_NNP ._. ._.
-This_DT location_NN is_VBZ dingy_JJ and_CC gross_JJ ._.
-The_DT pizza_NN and_CC salads_NNS are_VBP the_DT usual_JJ Pagliacci_NNP fare_NN ._.
-If_IN you_PRP 're_VBP taking_VBG out_RP ,_, it_PRP 's_VBZ not_RB bad_JJ ._.

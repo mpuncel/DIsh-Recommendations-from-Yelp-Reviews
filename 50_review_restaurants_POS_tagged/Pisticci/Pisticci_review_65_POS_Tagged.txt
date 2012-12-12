@@ -1,4 +1,0 @@
-Pisticci_NNP and_CC Max_NNP Soha_NNP are_VBP the_DT two_CD best_JJS italian_JJ joints_NNS in_IN Morningside_NNP heights_NNS ._.
-A_DT bigger_JJR menu_NN selection_NN here_RB and_CC much_RB less_JJR cramped_JJ ._.
-reasonable_JJ prices_NNS for_IN good_JJ portions_NNS of_IN classic_JJ recipes_NNS ._.
-Maltagliati_NNS with_IN Lamb_NNP was_VBD great_JJ ._.

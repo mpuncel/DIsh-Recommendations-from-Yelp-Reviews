@@ -1,6 +1,0 @@
-Meh_NNP ._.
-Maybe_RB I_PRP just_RB went_VBD on_IN an_DT off-day_JJ ,_, but_CC my_PRP$ pasta_NN was_VBD SO_RB BLAND_VBN ._.
-I_PRP got_VBD the_DT pasta_NN shells_NNS with_IN italian_JJ sausage_NN and_CC broccoli_NNS ,_, and_CC there_EX was_VBD no_DT taste_NN in_IN the_DT actual_JJ pasta_NN shells_NNS whatsoever_RB ,_, and_CC the_DT meat_NN 's_POS look_NN and_CC texture_NN was_VBD just_RB NOT_RB appetizing_JJ ._.
-My_PRP$ friends_NNS ordered_VBN salads_NNS ,_, and_CC all_DT of_IN their_PRP$ salad_NN leaves_VBZ just_RB looked_VBN old_JJ and_CC un-fresh_JJ ._.
-Their_PRP$ dessert_NN was_VBD really_RB good_JJ though_IN ,_, loved_VBD the_DT cheesecake_NN !_.
-I_PRP 'd_MD recommend_VB Max_NNP Cafe_NNP over_IN Max_NNP SoHa_NNP if_IN you_PRP 're_VBP just_RB looking_VBG for_IN an_DT outdoorsy_JJ ambiance_NN ._.

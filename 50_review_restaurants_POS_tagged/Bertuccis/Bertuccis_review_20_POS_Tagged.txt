@@ -1,5 +1,0 @@
-Seems_VBZ like_IN there_EX 's_VBZ a_DT few_JJ of_IN these_DT around_IN ._.
-Not_RB bad_JJ Italian_JJ food_NN ._.
-Slow_JJ service_NN on_IN busy_JJ nights_NNS ,_, but_CC that_DT 's_VBZ expected_VBN I_PRP suppose_VBP ._.
-Fresh_JJ bread_NN rolls_NNS are_VBP pretty_RB good_JJ ._.
-Had_VBD a_DT lasagna_NN dish_NN and_CC the_DT brick_NN oven_NN does_VBZ provide_VB rustic_JJ aroma_NN to_TO their_PRP$ foods_NNS ._.

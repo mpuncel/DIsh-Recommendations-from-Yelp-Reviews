@@ -1,1 +1,0 @@
-Good_JJ food_NN ,_, moderate_JJ ambiance_NN ,_, and_CC pricing_NN norm_NN for_IN the_DT area_NN and_CC quality_NN

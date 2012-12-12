@@ -1,5 +1,0 @@
-My_PRP$ favorite_JJ pizza_NN ever_RB ,_, hands_NNS down_RB ,_, is_VBZ Pagliacci_NNP 's_POS parma_NN primo_NN with_IN olives_NNS instead_RB of_IN mushrooms_NNS ._.
-I_PRP have_VBP never_RB eaten_VBN at_IN the_DT establishment_NN ,_, only_RB done_VBN delivery_NN ._.
-But_CC ,_, why_WRB must_MD this_DT pizza_NN be_VB so_RB expensive_JJ ?_.
-Also_RB ,_, why_WRB must_MD their_PRP$ delivery_NN drivers_NNS sometimes_RB be_VB complete_JJ idiots_NNS and_CC not_RB know_VB how_WRB to_TO operate_VB an_DT apartment_NN call_NN box_NN ,_, or_CC find_VB parking_NN on_IN the_DT side_JJ street_NN instead_RB of_IN illegally_RB parking_NN on_IN 15th_JJ where_WRB it_PRP is_VBZ dangerous_JJ to_TO stop_VB ?_.
-If_IN it_PRP were_VBD not_RB for_IN the_DT idiots_NNS delivering_VBG the_DT pizza_NN and_CC the_DT super_JJ high_JJ price_NN for_IN the_DT pizza_NN ,_, I_PRP would_MD give_VB them_PRP five_CD starts_NNS for_IN the_DT food_NN and_CC the_DT phone_NN service_NN when_WRB you_PRP call_VBP up_RP ._.

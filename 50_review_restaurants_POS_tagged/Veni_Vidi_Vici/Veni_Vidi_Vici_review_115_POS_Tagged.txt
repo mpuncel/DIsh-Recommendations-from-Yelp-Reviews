@@ -1,2 +1,0 @@
-Nice_JJ place_NN ._.
-Delicious_NNP food_NN ._.

@@ -1,4 +1,0 @@
-Always_RB have_VBP to_TO stop_VB here_RB for_IN a_DT calzone_NN when_WRB I_PRP visit_VBP Berkeley_NNP !_.
-It_PRP has_VBZ a_DT college_NN atmosphere_NN ,_, which_WDT I_PRP like_VBP ._.
-Calzones_NNS are_VBP huge_JJ and_CC delish_JJ !_.
-Really_RB nothing_NN to_TO be_VB disappointed_VBN by_IN ._.

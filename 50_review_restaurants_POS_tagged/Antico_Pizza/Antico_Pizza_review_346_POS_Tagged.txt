@@ -1,6 +1,0 @@
-This_DT place_NN is_VBZ amazing_JJ ._.
-The_DT pizza_NN and_CC atmosphere_NN is_VBZ second_JJ to_TO none_NN ._.
-I_PRP went_VBD with_IN a_DT group_NN of_IN about_IN 6_CD friends_NNS on_IN a_DT Friday_NNP night_NN ,_, and_CC there_EX was_VBD a_DT line_NN out_IN the_DT door_NN ._.
-The_DT place_NN is_VBZ BYOB_NNP so_IN we_PRP kept_VBD ourselves_PRP entertained_VBD while_IN we_PRP waited_VBD outside_JJ :_: -_: -RRB-_-RRB- It_PRP 's_VBZ a_DT unique_JJ place_NN that_WDT feels_VBZ like_IN a_DT slice_NN of_IN Italy_NNP ,_, and_CC the_DT table_NN seating_VBG creates_VBZ a_DT casual_JJ and_CC relaxed_VBD experience_NN as_IN you_PRP dine_VBP with_IN all_DT sorts_NNS of_IN folks_NNS including_VBG Georgia_NNP Tech_NNP students_NNS and_CC faculty_NN ,_, dates_NNS ,_, parties_NNS ,_, families_NNS and_CC everyone_NN in_IN between_IN ._.
-Did_VBD I_PRP mention_VB it_PRP 's_VBZ BYOB_NNP ?_.
-Yeah_UH ..._: I_PRP love_VBP this_DT restaurant_NN ._.

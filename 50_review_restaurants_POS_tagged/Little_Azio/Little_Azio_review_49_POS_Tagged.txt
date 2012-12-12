@@ -1,7 +1,0 @@
-This_DT is_VBZ a_DT nice_JJ little_JJ Italian_JJ place_NN ._.
-The_DT food_NN is_VBZ a_DT mixture_NN of_IN things_NNS ._.
-They_PRP have_VBP pizza_NN -LRB-_-LRB- which_WDT is_VBZ good_JJ -RRB-_-RRB- and_CC a_DT variety_NN of_IN salads_NNS and_CC sandwiches_NNS ._.
-Great_NNP place_NN to_TO go_VB for_IN lunch_NN ._.
-They_PRP have_VBP both_DT and_CC indoor_JJ and_CC an_DT outdoor_JJ seating_NN area_NN ._.
-Ok_NNP food_NN for_IN lunch_NN and_CC fast_JJ service_NN ._.
-Really_RB like_IN their_PRP$ Philly_NNP Cheese_NNP Steak_NNP Sandwich_NNP ._.

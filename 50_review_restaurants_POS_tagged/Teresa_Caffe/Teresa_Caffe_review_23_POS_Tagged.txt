@@ -1,3 +1,0 @@
-My_PRP$ favorite_JJ restaurant_NN in_IN princeton_NN ._.
-Good_JJ wine_NN and_CC good_JJ food_NN ._.
-Perfect_NNP

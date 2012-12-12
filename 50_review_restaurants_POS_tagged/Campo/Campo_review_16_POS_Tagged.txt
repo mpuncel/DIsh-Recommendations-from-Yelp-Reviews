@@ -1,7 +1,0 @@
-I_PRP think_VBP they_PRP 're_VBP still_RB figuring_VBG things_NNS out_RP ._.
-They_PRP had_VBD a_DT veritable_JJ fleet_NN of_IN waiters_NNS ,_, so_RB service_NN was_VBD decent_JJ and_CC reasonably_RB quick_JJ ,_, albeit_IN haphazard_NN ._.
-Pickled_NNP beets_NNS -_: quite_RB good_JJ ,_, bursting_VBG with_IN flavor_NN ._.
-I_PRP thought_VBD the_DT portion_NN was_VBD skimpy_JJ when_WRB it_PRP came_VBD out_RP ,_, but_CC how_WRB much_JJ pickled_VBN beets_NNS can_MD you_PRP eat_VB ?_.
-Forest_NNP Mushroom_NNP Pappardelle_NNP -_: very_RB yummy_JJ but_CC oily_RB ._.
-Prosciutto_NNP ,_, Red_NNP Pepper_NNP ,_, Red_NNP Onion_NNP ,_, Provolone_NNP pizza_NN -_: nice_JJ ,_, extremely_RB thin_JJ crust_NN ,_, but_CC it_PRP was_VBD way_NN too_RB salty_JJ ._.
-Maybe_RB it_PRP would_MD be_VB better_RBR with_IN less_JJR prosciutto_NN ._.

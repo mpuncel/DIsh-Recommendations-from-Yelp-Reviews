@@ -1,9 +1,0 @@
-Hated_VBN the_DT Lobster_NNP Ravioli_NNP ._.
-Liked_VBD the_DT Rasberry_NNP Iced_NNP Tea_NNP +_NNP free_JJ refills_NNS ._.
-Service_NNP was_VBD witty_JJ and_CC smooth_JJ ._.
-Food_NNP came_VBD out_RP quick_JJ ._.
-I_PRP 'd_MD go_VB again_RB with_IN a_DT big_JJ group_NN because_IN I_PRP would_MD be_VB in_IN a_DT big_JJ group_NN and_CC would_MD not_RB want_VB to_TO wait_VB forever_RB for_IN a_DT table_NN or_CC be_VB obnoxious_JJ with_IN a_DT big_JJ group_NN because_IN big_JJ groups_NNS do_VBP that_IN a_DT lot_NN of_IN times_NNS ._.
-They_PRP will_MD like_VB us_PRP here_RB ._.
-Yes_UH I_PRP am_VBP Miss_NNP Cleo_NNP so_IN I_PRP know_VBP this_DT ._.
-Wanted_VBN to_TO like_VB but_CC did_VBD not_RB ._.
-Boo_NNP ._.

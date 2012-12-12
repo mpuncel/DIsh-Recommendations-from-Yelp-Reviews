@@ -1,5 +1,0 @@
-recommend_VB the_DT chicken_NN and_CC vegetarian_JJ dishes_NNS ._.
-calzones_NNS are_VBP pretty_RB good_JJ too_RB ._.
-beef_NN pastas_NNS are_VBP hit_VBN or_CC miss_VBP -LRB-_-LRB- mostly_RB misses_VBZ -RRB-_-RRB- ._.
-seafood_NN pastas_NNS ,_, special_JJ pies_NNS ,_, and_CC sandwiches_NNS are_VBP abysmal_JJ ._.
-I_PRP 've_VBP been_VBN eating_VBG the_DT same_JJ thing_NN here_RB for_IN 4_CD years_NNS -_: lemon_NN chicken_NN salad_NN ,_, extra_JJ lemon_NN ,_, no_DT dressing_VBG ._.

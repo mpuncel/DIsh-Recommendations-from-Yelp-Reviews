@@ -1,8 +1,0 @@
-I_PRP love_VBP Celestino_NNP ._.
-It_PRP reminds_VBZ me_PRP of_IN a_DT NYC_NNP restaurant_NN ._.
-I_PRP love_VBP their_PRP$ food_NN ._.
-I_PRP love_VBP the_DT waiters_NNS ._.
-It_PRP always_RB makes_VBZ me_PRP happy_JJ going_VBG there_RB ._.
-It_PRP is_VBZ busy_JJ though_IN so_RB make_VB sure_JJ you_PRP make_VBP reservations_NNS and_CC have_VBP patience_NN on_IN Friday_NNP and_CC Saturday_NNP nights_NNS ._.
-They_PRP make_VBP great_JJ martinis_NNS ._.
-Yum_NNP I_PRP want_VBP to_TO go_VB tonight_RB !_.

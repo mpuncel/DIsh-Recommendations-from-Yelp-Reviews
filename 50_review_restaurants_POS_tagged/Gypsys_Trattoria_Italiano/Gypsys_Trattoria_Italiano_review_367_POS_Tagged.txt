@@ -1,3 +1,0 @@
-Good_JJ price_NN and_CC Food_NNP Taste_NN great_JJ ._.
-Pasta_NN and_CC Calzone_NN was_VBD tasteful_JJ ._.
-Good_JJ menu_NN list_NN ._.

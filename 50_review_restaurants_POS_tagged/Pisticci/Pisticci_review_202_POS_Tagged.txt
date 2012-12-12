@@ -1,5 +1,0 @@
-The_DT food_NN generally_RB is_VBZ good_JJ and_CC the_DT prices_NNS are_VBP very_RB reasonable_JJ ._.
-The_DT chicken_NN and_CC sage_NN should_MD be_VB removed_VBN from_IN the_DT menu_NN --_: dry_JJ ,_, dry_JJ ,_, and_CC what_WP 's_VBZ with_IN all_DT the_DT salad_NN on_IN top_NN of_IN it_PRP ??_VBD Everything_NN else_RB was_VBD fine_JJ ._.
-Seating_NN near_IN the_DT bar_NN can_MD be_VB a_DT problem_NN ._.
-The_DT waiters\/waitresses_NNS need_VBP some_DT ``_`` adult_NN ''_'' supervision_NN --_: they_PRP cluster_NN in_IN a_DT group_NN and_CC get_VB very_RB loud_JJ and_CC act_NN like_IN they_PRP 're_VBP adolescents_NNS in_IN a_DT student_NN bar_NN --_: not_RB what_WP one_CD expects_VBZ in_IN a_DT nice_JJ family_NN restaurant_NN ._.
-We_PRP 'll_MD go_VB back_RB but_CC sit_VB away_RB from_IN the_DT bar_NN ._.

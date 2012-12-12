@@ -1,3 +1,0 @@
-Good_JJ food_NN at_IN great_JJ prices_NNS --_: as_RB low_JJ as_IN $_$ 8_CD for_IN a_DT big_JJ bowl_NN of_IN pasta_NN Bolognese_NNP --_: perfect_JJ for_IN the_DT Morningside_NNP Heights_NNP student_NN audience_NN ,_, but_CC plenty_RB appealing_VBG to_TO the_DT rest_NN of_IN us_PRP as_RB well_RB ._.
-Very_RB friendly_JJ ,_, helpful_JJ service_NN ._.
-Nice_JJ setting_NN ;_: there_EX is_VBZ outside_JJ seating_NN in_IN nice_JJ weather_NN and_CC occasional_JJ live_JJ music_NN ._.

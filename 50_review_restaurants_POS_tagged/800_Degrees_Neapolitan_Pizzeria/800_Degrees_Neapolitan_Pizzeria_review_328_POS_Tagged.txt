@@ -1,6 +1,0 @@
-Superhot_NNP ,_, wood-fire_JJ NOT_NNP napalm_NN ._.
-When_WRB it_PRP comes_VBZ to_TO contemporary_JJ pop_NN culture_NN ,_, 800_CD Degrees_NNS over_IN 98_CD Degrees_NNS any_DT day_NN of_IN the_DT week_NN ._.
-For_IN me_PRP ,_, this_DT is_VBZ Arugula_NNP Heaven_NNP ._.
-I_PRP choose_VBP a_DT base_NN and_CC build_VB my_PRP$ own_JJ pizza_NN from_IN there_EX -LRB-_-LRB- I_PRP went_VBD Rock_NNP Shrimp_NNP ,_, Cherry_NNP Tomatoes_NNPS and_CC Arugula_NNP -RRB-_-RRB- ._.
-I_PRP have_VBP to_TO remind_VB myself_PRP I_PRP do_VBP n't_RB like_VB Belgium_NNP Fat_NNP Tire_NNP --_: too_RB bitter_JJ ;_: but_CC they_PRP have_VBP plenty_NN of_IN import_NN beer_NN selection_NN ._.
-Go_VB through_IN a_DT cafeteria_NN line_NN ;_: wait_VB for_IN available_JJ tables_NNS and_CC self-seat_NN on_IN your_PRP$ own_JJ ._.

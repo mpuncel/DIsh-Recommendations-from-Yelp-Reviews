@@ -1,5 +1,0 @@
-Was_VBD looking_VBG for_IN cheap_JJ eats_VBZ and_CC came_VBD across_IN here_RB ._.
-Got_VBD a_DT slice_NN of_IN bianco_NN pizza_NN for_IN $_$ 4.38_CD ._.
-Pretty_NNP good_JJ ._.
-service_NN was_VBD friendly_JJ too_RB ._.
-I_PRP heard_VBD the_DT owner_NN talking_VBG how_WRB healthy_JJ their_PRP$ pizza_NN was_VBD ._.

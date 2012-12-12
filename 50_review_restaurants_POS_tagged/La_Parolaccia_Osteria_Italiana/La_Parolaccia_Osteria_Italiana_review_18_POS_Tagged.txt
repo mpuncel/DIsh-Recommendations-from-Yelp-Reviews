@@ -1,5 +1,0 @@
-I_PRP avoid_VBP italian_JJ restaurants_NNS because_IN of_IN no_DT bread_NN ,_, pizza_NN and_CC pasta_NN ,_, annoying_VBG food_NN -LRB-_-LRB- gluten_JJ free_JJ -RRB-_-RRB- restrictions_NNS ,_, but_CC I_PRP have_VBP gone_VBN here_RB once_RB for_IN lunch_NN and_CC once_RB for_IN a_DT business_NN meeting_NN ._.
-I_PRP shared_VBD appetizers_NNS ,_, eggplants_NNS and_CC salad_NN dishes_NNS were_VBD all_DT yummy_JJ fresh_JJ and_CC lovely_JJ presentation_NN ._.
-The_DT menu_NN seems_VBZ spare_JJ but_CC everyone_NN I_PRP was_VBD with_IN adored_VBN their_PRP$ choices_NNS ._.
-The_DT business_NN meeting_NN turned_VBD into_IN a_DT wine_NN tasting_NN marathon_NN ,_, with_IN several_JJ samples_NNS being_VBG rejected_VBN before_IN the_DT group_NN settled_VBD on_IN a_DT perfect_JJ bottle_NN ._.
-The_DT staff_NN was_VBD very_RB accommodating_VBG ._.

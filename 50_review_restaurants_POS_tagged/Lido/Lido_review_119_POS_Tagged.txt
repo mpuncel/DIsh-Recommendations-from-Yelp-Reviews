@@ -1,6 +1,0 @@
-We_PRP went_VBD last_JJ night_NN at_IN Lido_NNP ._.
-Short_JJ menu_NN ,_, but_CC very_RB good_JJ food_NN ._.
-We_PRP had_VBD the_DT crostini_NNS as_IN appetizer_NN ,_, the_DT tuna_NN and_CC the_DT ribs_NNS as_IN entrees_NNS ,_, and_CC the_DT apple_NN tart_JJ and_CC tiramisu_JJ as_IN desserts_NNS ._.
-The_DT crostini_NNS were_VBD good_JJ ,_, the_DT entrees_NNS excellent_JJ ,_, forget_VB about_IN the_DT desserts_NNS ._.
-Anyway_RB ,_, a_DT good_JJ experience_NN !_.
-I_PRP will_MD go_VB back_RB and_CC try_VB more_JJR ._.

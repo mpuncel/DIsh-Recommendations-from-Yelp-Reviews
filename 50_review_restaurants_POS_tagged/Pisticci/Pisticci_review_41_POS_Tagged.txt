@@ -1,7 +1,0 @@
-Loved_NNP Pisticci_NNP !_.
-So_RB fun_NN !_.
-Bartender_NNP was_VBD awesome_JJ we_PRP waited_VBD a_DT little_JJ while_NN but_CC we_PRP totally_RB didnt_VBP care_NN ._.
-Hostess_NNP said_VBD 40_CD minutes_NNS and_CC it_PRP was_VBD EXACTLY_RB 40_CD ._.
-we_PRP were_VBD in_IN no_DT rush_NN ..._: after_IN eating_VBG we_PRP realized_VBD we_PRP finally_RB found_VBD a_DT new_JJ excellent_JJ go_NN to_TO spot_NN ._.
-Specials_NNS were_VBD so_RB delicious_JJ and_CC everything_NN was_VBD homemade_NN and_CC FRESH_NN !_.
-Will_MD be_VB returning_VBG VERY_RB soon_RB ._.

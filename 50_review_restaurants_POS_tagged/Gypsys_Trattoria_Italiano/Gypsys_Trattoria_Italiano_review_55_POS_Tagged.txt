@@ -1,4 +1,0 @@
-Delicious_NNP chicken_NN alfredo_NN !_.
-All_DT pasta_NN dishes_NNS are_VBP truly_RB scrumptious_JJ ._.
-Garlic_JJ bread_NN -LRB-_-LRB- with_IN actual_JJ garlic_JJ chunks_NNS -RRB-_-RRB- makes_VBZ a_DT great_JJ side_NN ._.
-Convenient_JJ location_NN and_CC decent_JJ service_NN ._.

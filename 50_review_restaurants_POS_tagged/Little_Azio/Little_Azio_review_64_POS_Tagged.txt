@@ -1,2 +1,0 @@
-Had_VBD a_DT great_JJ take_VBP out_RP pie_NN yesterday_NN !_.
-Chicken_NNP ,_, Banana_NNP Peppers_NNP ,_, and_CC Feta_NNP Cheese_NNP ._.

@@ -1,9 +1,0 @@
-Meh_NNP ._.
-Just_RB meh_VB all-around_JJ ._.
-Nothing_NN exciting_JJ at_IN all_DT ._.
-My_PRP$ mom_NN makes_VBZ much_RB better_JJR Italian_JJ food_NN ._.
-Maybe_RB bc_IN she_PRP 's_VBZ a_DT real_JJ Italian_JJ ._.
-Maybe_RB that_DT makes_VBZ me_PRP a_DT harsh_JJ judge_NN of_IN pasta_NN places_NNS like_IN this_DT ._.
-But_CC do_VBP n't_RB give_VB me_PRP watered-down_JJ over-oiled_JJ red_JJ sauce_NN when_WRB I_PRP ask_VBP for_IN pink_JJ sauce_NN --_: That_DT just_RB sets_VBZ a_DT sour_JJ mood_NN from_IN the_DT start_NN ._.
-And_CC if_IN you_PRP do_VBP n't_RB know_VB what_WP pink_JJ sauce_NN is_VBZ or_CC how_WRB to_TO make_VB it_PRP ,_, please_VB do_VBP n't_RB list_VB it_PRP as_IN an_DT option_NN on_IN your_PRP$ menu_NN :_: -LRB-_-LRB- My_PRP$ friend_NN ordered_VBD the_DT salad_NN special_JJ and_CC that_IN seemed_VBD like_IN the_DT best_JJS meal_NN at_IN our_PRP$ group_NN 's_POS table_NN ._.
-If_IN the_DT salad_NN is_VBZ the_DT highlight_NN of_IN a_DT pasta_NN place_NN ..._: Just_RB saying_VBG ..._: On_IN the_DT bright_JJ side_NN ,_, the_DT little_JJ bread_NN buns_NNS were_VBD yummy_JJ :_: -RRB-_-RRB-

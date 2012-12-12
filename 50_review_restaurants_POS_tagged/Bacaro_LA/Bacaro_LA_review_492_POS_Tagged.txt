@@ -1,4 +1,0 @@
-Great_JJ food_NN ,_, small_JJ plates_NNS ..._: Decent_JJ wine_NN list_NN ._.
-This_DT is_VBZ a_DT small_JJ and_CC fun_NN place_NN ,_, but_CC a_DT little_JJ too_RB small_JJ so_IN minus_CC one_CD star_NN because_IN of_IN the_DT long_JJ wait_NN when_WRB the_DT house_NN is_VBZ full_JJ ._.
-Even_RB a_DT bigger_JJR plus_CC ..._: its_PRP$ in_IN south_JJ L.A._NNP On_IN the_DT serious_JJ note_NN :_: must_MD try_VB ,_, food_NN is_VBZ good_JJ ,_, its_PRP$ not_RB pretentious_JJ ._.
-its_PRP$ just_RB fun_NN !_.

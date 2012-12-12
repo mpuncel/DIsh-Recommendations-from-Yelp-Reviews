@@ -1,8 +1,0 @@
-mmm_NN CARBS_NNS ._.
-Gypsy_NNP 's_POS serves_VBZ cheap_JJ ,_, good_JJ Italian_JJ food_NN ._.
-Gypsy_NNP 's_POS makes_VBZ everything_NN to_TO order_NN and_CC is_VBZ super_JJ consistent_JJ ._.
-Plus_CC ,_, their_PRP$ food_NN is_VBZ reasonably_RB priced_VBN and_CC fills_VBZ you_PRP up_RP ._.
-Thus_RB they_PRP win_VBP the_DT hearts_NNS of_IN Berkeley_NNP 's_POS hungry_JJ college_NN students_NNS ._.
-Plus_CC they_PRP have_VBP their_PRP$ nice_JJ and_CC toasty_JJ garlic_JJ bread_NN ,_, with_IN fresh_JJ cloves_NNS of_IN oven_CD baked_JJ garlic_NN !_.
-NOTE_VB :_: Gypsy_NNP 's_POS has_VBZ great_JJ yummy_JJ Calzone_NN that_WDT can_MD easily_RB be_VB made_VBN into_IN two_CD meals_NNS !_.
-If_IN you_PRP know_VBP which_WDT one_CD you_PRP want_VBP ,_, call_VBP your_PRP$ order_NN in_IN ahead_RB of_IN time_NN since_IN Calzones_NNS take_VBP twice_RB as_RB long_JJ ._.

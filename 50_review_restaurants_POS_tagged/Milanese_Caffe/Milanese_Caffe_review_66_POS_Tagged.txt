@@ -1,7 +1,0 @@
-Great_NNP Italian_NNP cafe_NN \/_CD restaurant_NN all_DT around_IN ._.
-I_PRP just_RB went_VBD here_RB recently_RB with_IN some_DT friends_NNS after_IN church_NN and_CC really_RB like_IN this_DT cafe_NN -_: for_IN it_PRP 's_VBZ convenient_JJ location_NN near_IN campus_NN ,_, cleanliness_NN ,_, nice_JJ decor_NN -LRB-_-LRB- cool_JJ paintings_NNS ,_, and_CC two_CD huge_JJ flat_JJ screen_NN tv_NN 's_POS -RRB-_-RRB- ,_, fast_JJ service_NN ,_, decent_JJ pricing_NN ,_, and_CC yummy_JJ food_NN ._.
-They_PRP have_VBP a_DT breakfast_NN menu_NN but_CC also_RB offer_VBP pasta_NN ,_, sandwiches_NNS ,_, pizza_NN ,_, salads_NNS ._.
-I_PRP ordered_VBD a_DT half_NN sandwich_NN and_CC salad_NN and_CC it_PRP was_VBD very_RB affordable_JJ -LRB-_-LRB- $_$ 6.95_CD -RRB-_-RRB- and_CC fufilling_VBG ._.
-Next_JJ time_NN I_PRP want_VBP to_TO try_VB a_DT breakfast_NN meal_NN because_IN I_PRP saw_VBD someone_NN order_NN one_CD and_CC it_PRP was_VBD huge_JJ -LRB-_-LRB- like_IN a_DT Denny_NNP 's_POS plate_NN but_CC perhaps_RB better_JJR tasting_NN -RRB-_-RRB- !!!!_NN ._.
-Also_RB heard_VBN if_IN I_PRP had_VBD gone_VBN last_JJ Sunday_NNP with_IN my_PRP$ friends_NNS I_PRP could_MD have_VB gotten_VBN free_JJ desert_NN because_IN the_DT owner_NN gave_VBD out_RP free_JJ ice_NN cream_NN !!!!!_NNP Agh_NNP next_JJ time_NN !_.
-This_DT also_RB seems_VBZ like_IN a_DT nice_JJ place_NN to_TO eat_VB and_CC chill_NN ,_, very_RB casual_JJ ,_, friendly_JJ atmosphere_NN ._.

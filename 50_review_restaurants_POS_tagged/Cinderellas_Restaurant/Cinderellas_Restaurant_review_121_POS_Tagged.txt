@@ -1,3 +1,0 @@
-They_PRP have_VBP the_DT most_RBS delicious_JJ Chicken_NNP Parmesan_NNP subs_NNS and_CC cheese_NN calzones_NNS at_IN a_DT reasonable_JJ low_JJ cost_NN !!_CD But_CC every_DT little_JJ thing_NN else_RB I_PRP 've_VBP ordered_VBN from_IN here_RB did_VBD not_RB taste_VB that_DT terrific_JJ ._.
-On_IN a_DT side_NN note_NN ,_, never_RB put_VBD garlic_JJ as_IN a_DT topping_VBG for_IN cheese_NN calzones_NNS ._.
-They_PRP constantly_RB put_VBD an_DT excessive_JJ amount_NN and_CC do_VB not_RB spread_VBN it_PRP out_RP so_IN it_PRP ruins_NNS the_DT taste_NN of_IN the_DT calzone_NN ._.

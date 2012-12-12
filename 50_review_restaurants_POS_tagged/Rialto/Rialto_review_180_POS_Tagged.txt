@@ -1,3 +1,0 @@
-If_IN you_PRP have_VBP infinite_JJ money_NN ,_, this_DT is_VBZ the_DT most_RBS reliably_RB good_JJ restaurant_NN in_IN Cambridge_NNP ._.
-If_IN the_DT food_NN were_VBD a_DT little_RB more_JJR creative_JJ ,_, it_PRP would_MD merit_VB five_CD stars_NNS ._.
-Expensive_JJ ,_, but_CC reasonably_RB value_NN ._.

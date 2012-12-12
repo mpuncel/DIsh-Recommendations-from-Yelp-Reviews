@@ -1,7 +1,0 @@
-I_PRP rather_RB like_IN this_DT place_NN ._.
-Their_PRP$ calzones_NNS are_VBP good-sized_JJ ,_, contain_VBP both_DT ricotta_NN and_CC motzerella_NN -LRB-_-LRB- a_DT plus_NN !_. -RRB-_-RRB-
-,_, fresh-tasting_JJ ,_, and_CC not_RB greasy_JJ ._.
-I_PRP 've_VBP have_VB both_DT the_DT spinach_NN calzone_NN ,_, and_CC proscuitto_JJ calzone_NN ,_, satisfying_VBG and_CC good_JJ ._.
-Today_NN ,_, I_PRP ordered_VBD the_DT antipasto_JJ salad_NN ,_, which_WDT was_VBD simple_JJ but_CC delicious_JJ :_: generous_JJ helpings_NNS of_IN salami_NN ,_, ham_NN ,_, provolone_NN ,_, atop_IN iceberg_NN ,_, cucumber_NN ,_, carrots_NNS ,_, tomato_NN ,_, onions_NNS ,_, with_IN a_DT super-garlicky_JJ italian_JJ vinaigrette_NN ._.
-It_PRP came_VBD with_IN a_DT giant_JJ half-pita_NN ,_, making_VBG it_PRP a_DT light_NN ,_, but_CC complete_JJ meal_NN ._.
-I_PRP 'm_VBP happy_JJ ,_, I_PRP 'll_MD go_VB again_RB ._.

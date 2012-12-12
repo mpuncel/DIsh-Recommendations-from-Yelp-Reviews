@@ -1,3 +1,0 @@
-A_DT nice_JJ family_NN style_NN restaurant_NN ._.
-I_PRP was_VBD definitely_RB impressed_VBN by_IN the_DT food_NN ._.
-I_PRP would_MD return_VB ._.

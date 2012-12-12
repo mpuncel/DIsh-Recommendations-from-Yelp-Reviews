@@ -1,2 +1,0 @@
-Pasta_NN Bene_NNP is_VBZ great_JJ in_IN all_DT aspects_NNS from_IN the_DT arched_JJ ceiling_NN ,_, the_DT bountiful_JJ indoor\/outdoor_JJ seating_NN ,_, low_JJ prices_NNS ,_, and_CC always_RB coming_VBG through_IN with_IN affordable_JJ Italian_JJ food_NN ._.
-My_PRP$ recommendations_NNS include_VBP -_: Beef_NN Lasagna_NNP 6.95_CD -LRB-_-LRB- 5.95_CD during_IN lunch_NN special_JJ 11am-3pm_JJ -RRB-_-RRB- -_: Eggplant_NNP Parmigiana_NNP 6.95_SYM -_: Meatball_NNP Sandwich_NNP 6.95_CD -LRB-_-LRB- ask_VB for_IN extra_JJ roasted_JJ bell_NN pepper_NN -RRB-_-RRB-

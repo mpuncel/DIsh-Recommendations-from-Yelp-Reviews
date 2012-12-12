@@ -1,4 +1,0 @@
-Philly_NNP has_VBZ some_DT great_JJ italian_JJ restaurants_NNS ,_, unfortunately_RB Salento_NNP is_VBZ not_RB one_CD of_IN them_PRP ._.
-Came_NNP here_RB with_IN a_DT group_NN of_IN six_CD on_IN a_DT Sunday_NNP night_NN ,_, there_EX was_VBD only_RB one_CD other_JJ party_NN in_IN the_DT restaurant_NN ._.
-The_DT food_NN here_RB is_VBZ satisfactory_JJ at_IN best_JJS ,_, no_DT one_NN in_IN the_DT group_NN particularly_RB liked_VBD their_PRP$ dish_NN ._.
-The_DT only_JJ plus_NN was_VBD that_IN it_PRP was_VBD a_DT byo_NN and_CC the_DT service_NN was_VBD good_JJ ._.

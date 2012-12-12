@@ -1,8 +1,0 @@
-I_PRP had_VBD a_DT private_JJ event_NN with_IN 70_CD +_CD people_NNS on_IN a_DT Monday_NNP night_NN ._.
-People_NNS loved_VBD the_DT food_NN ,_, especially_RB the_DT shredded_JJ duck_NN pasta_NN dish_NN ,_, the_DT fried_JJ artichoke_NN ,_, veal_NN porcini_NNS ,_, and_CC some_DT said_VBD the_DT chocolate_NN torte_NN was_VBD the_DT best_JJS they_PRP ever_RB tried_VBD ._.
-I_PRP do_VBP n't_RB think_VB there_EX was_VBD anything_NN that_WDT was_VBD n't_RB above_JJ average_NN to_TO excellent_JJ ._.
-Service_NNP was_VBD very_RB good_JJ ._.
-They_PRP were_VBD extremely_RB easy_JJ to_TO work_VB with_IN for_IN planning_VBG the_DT dinner_NN ._.
-Location_NNP is_VBZ convenient_JJ but_CC not_RB very_RB flattering_JJ ._.
-Decor_NN is_VBZ n't_RB the_DT point_NN ._.
-Highly_NNP recommend_VB for_IN a_DT private_JJ event_NN ._.

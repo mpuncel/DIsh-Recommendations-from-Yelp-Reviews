@@ -1,5 +1,0 @@
-The_DT South_NNP knows_VBZ how_WRB to_TO do_VB New_NNP York_NNP pizza_NN ._.
-Well_RB done_VBN ,_, well_RB done_VBN !_.
-This_DT place_NN is_VBZ BYOB_NNP as_RB well_RB ._.
-The_DT only_JJ drawback_NN is_VBZ the_DT music_NN was_VBD a_DT little_JJ inordinately_RB loud_JJ ._.
-But_CC when_WRB I_PRP move_VBP to_TO Atlanta_NNP ,_, I_PRP will_MD frequent_JJ this_DT place_NN ._.

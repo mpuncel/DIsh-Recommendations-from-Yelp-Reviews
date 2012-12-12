@@ -1,7 +1,0 @@
-Went_VBD on_IN a_DT business_NN trip_NN last_JJ week_NN and_CC a_DT friend_NN of_IN my_PRP$ coworker_NN took_VBD us_PRP here_RB for_IN dinner_NN ._.
-Wait_VB was_VBD not_RB too_RB long_JJ and_CC food_NN was_VBD amazing_JJ ._.
-Starters_NNS :_: Carpaccio_NNP ~_NNP raw_JJ beef_NN tenderloin_NN ,_, arugula_NN ,_, capers_NNS ,_, parmigiano_NN ,_, lemon_VB oil_NN dressing_VBG -LRB-_-LRB- really_RB really_RB good_JJ but_CC the_DT beef_NN was_VBD really_RB hard_JJ to_TO pick_VB up_RP on_IN the_DT plate_NN because_IN it_PRP was_VBD super_JJ thinly_RB slice_NN -RRB-_-RRB- Cozze_NNP ~_SYM mussels_NNS ,_, garlic_JJ ,_, red_JJ pepper_NN ,_, white_JJ wine_NN -LRB-_-LRB- very_RB tasty_JJ and_CC sauce_NN was_VBD good_JJ to_TO dip_VB with_IN bread_NN -RRB-_-RRB- Prosciutto_NNP di_NNP Parma_NNP ~_NN tomato_NN sauce_NN ,_, Parma_NNP ham_NN ,_, mozzarella_NN ,_, arugula_NN ,_, parmigiano_NN -LRB-_-LRB- topped_VBN with_IN a_DT lot_NN of_IN prosciutto_NN and_CC pizza_NN was_VBD thin_JJ and_CC tasty_JJ -RRB-_-RRB- For_IN my_PRP$ entree_FW I_PRP had_VBD the_DT special_JJ porchetta_NN ._.
-It_PRP 's_VBZ basically_RB a_DT small_JJ pig_NN with_IN the_DT skin_NN ._.
-The_DT skin_NN was_VBD really_RB crispy_JJ and_CC the_DT meat_NN was_VBD not_RB dry_JJ ._.
-All_DT tasty_JJ ._.
-Coworkers_NNS had_VBD the_DT veal_NN and_CC the_DT lamb_NN chop_VB and_CC I_PRP had_VBD a_DT chance_NN to_TO taste_VB those_DT too_RB and_CC it_PRP was_VBD good_JJ ._.

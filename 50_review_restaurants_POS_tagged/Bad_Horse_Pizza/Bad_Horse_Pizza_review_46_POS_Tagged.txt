@@ -1,9 +1,0 @@
-Sigh_NN ..._: I_PRP really_RB wanted_VBD to_TO like_VB this_DT place_NN ._.
-The_DT toppings_NNS sounded_VBD so_RB interesting_JJ and_CC fancy_JJ pants_NNS ._.
-We_PRP ordered_VBD the_DT steak_NN and_CC jalapeno_JJ pizza_NN ._.
-The_DT steak_NN itself_PRP was_VBD nice_JJ ,_, but_CC the_DT jalapenos_NNS were_VBD barely_RB there_RB and_CC there_RB was_VBD little_JJ spice_NN to_TO speak_VB of_IN ._.
-They_PRP also_RB included_VBD a_DT heavy_JJ dose_NN of_IN Parmesan_NNP cheese_NN ,_, which_WDT is_VBZ unfortunate_JJ ,_, because_IN I_PRP happen_VBP to_TO hate_VB parmesan_JJ cheese_NN ._.
-A_DT little_JJ warning_NN in_IN the_DT description_NN would_MD have_VB been_VBN nice_JJ ._.
-We_PRP also_RB ordered_VBD a_DT salad_NN that_WDT was_VBD supposed_VBN to_TO include_VB bacon_NN and_CC ended_VBD up_RP having_VBG zero_CD bacon_NN ._.
-I_PRP would_MD have_VB forgiven_VBN the_DT misstep_NN ,_, except_IN that_IN we_PRP paid_VBD almost_RB $_$ 50_CD for_IN a_DT pizza_NN and_CC salad_NN that_IN we_PRP did_VBD n't_RB enjoy_VB all_DT that_DT much_JJ ._.
-Not_RB surprisingly_RB ,_, I_PRP have_VBP n't_RB ordered_VBN since_IN ._.

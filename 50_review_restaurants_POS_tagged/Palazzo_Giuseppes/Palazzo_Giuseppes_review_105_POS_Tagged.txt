@@ -1,4 +1,0 @@
-we_PRP ordered_VBD in_IN last_JJ June_NNP for_IN one_CD of_IN my_PRP$ daughters_NNS graduation_NN party_NN and_CC the_DT food_NN was_VBD great_JJ ._.
-everybody_NN still_RB talks_VBZ about_IN how_WRB the_DT lasagna_NN was_VBD tasty_JJ and_CC exactly_RB right_JJ ._.
-but_CC we_PRP just_RB went_VBD there_RB for_IN desert_NN and_CC it_PRP wasnt_VBD at_IN all_DT what_WP I_PRP hoped_VBD it_PRP would_MD be_VB ._.
-The_DT tiramisu_NN had_VBD no_DT taste_NN and_CC the_DT carrot_NN cake_NN tasted_VBD like_IN it_PRP was_VBD made_VBN a_DT week_NN ago_RB ._.

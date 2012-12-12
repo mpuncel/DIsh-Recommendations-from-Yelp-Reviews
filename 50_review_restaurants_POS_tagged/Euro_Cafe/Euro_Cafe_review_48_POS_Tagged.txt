@@ -1,5 +1,0 @@
-Went_VBD there_EX a_DT few_JJ times_NNS for_IN breakfast_NN on_IN the_DT weekend_NN ._.
-Food_NNP is_VBZ good_JJ ,_, service_NN is_VBZ amazingly_RB bad_JJ ._.
-The_DT cashier_NN could_MD n't_RB figure_VB out_RP the_DT cash_NN register_NN ._.
-Waited_VBN over_IN 25_CD minutes_NNS for_IN waffles_NNS and_CC they_PRP managed_VBD to_TO screw_VB up_RP the_DT order_NN ._.
-Good_JJ food_NN but_CC not_RB worth_JJ the_DT headache_NN ._.

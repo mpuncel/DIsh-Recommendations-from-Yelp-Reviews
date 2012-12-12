@@ -1,7 +1,0 @@
-This_DT is_VBZ the_DT real_JJ deal_NN ._.
-Had_VBD the_DT Margherita_NNP with_IN pepperoni_NNS and_CC it_PRP had_VBD just_RB the_DT right_JJ amount_NN of_IN char_NN ,_, great_JJ flavor_NN ,_, top_JJ notch_NN all_PDT the_DT way_NN around_IN ._.
-Giovanni_NNP 's_POS very_RB accommodating_VBG ,_, gave_VBD us_PRP a_DT tour_NN of_IN the_DT kitchen_NN and_CC we_PRP talked_VBD a_DT bit_NN about_IN finding\/buying_VBG the_DT space_NN ,_, the_DT ovens_NNS ,_, how_WRB he_PRP wo_MD n't_RB cut_VB corners_NNS ,_, the_DT dining_NN table_NN ,_, and_CC his_PRP$ philosophy_NN on_IN pizza_NN ._.
-I_PRP gave_VBD him_PRP a_DT chance_NN to_TO bad_JJ mouth_NN a_DT certain_JJ hyped_JJ pizza_NN maker_NN in_IN town_NN but_CC he_PRP would_MD n't_RB take_VB the_DT bait_NN ._.
-Class_NN act_NN ._.
-Enrico_NNP hooked_VBD us_PRP up_RP with_IN cafe_NN and_CC wine_NN and_CC his_PRP$ background_NN ._.
-Run_NNP ,_, do_VBP n't_RB walk_VB to_TO Antico_NNP Pizza_NNP Napoletana_NNP !_.

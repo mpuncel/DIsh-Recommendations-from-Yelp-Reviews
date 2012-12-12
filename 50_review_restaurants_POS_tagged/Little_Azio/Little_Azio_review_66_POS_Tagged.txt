@@ -1,6 +1,0 @@
-Great_NNP place_NN to_TO go_VB and_CC eat_VB ,_, especially_RB if_IN you_PRP enjoy_VBP spaghetti_NNS or_CC pizza_NN ._.
-The_DT spaghetti_NNS and_CC meatballs_NNS are_VBP very_RB good_JJ and_CC you_PRP get_VBP a_DT very_RB nice_JJ size_NN portion_NN ._.
-The_DT pizza_NN is_VBZ n't_RB very_RB huge_JJ ,_, but_CC its_PRP$ enough_JJ to_TO satisfy_VB you_PRP ._.
-The_DT atmosphere_NN is_VBZ very_RB friendly_JJ and_CC relaxed_VBD ._.
-Its_PRP$ a_DT nice_JJ place_NN to_TO go_VB and_CC eat_VB with_IN friends_NNS ._.
-You_PRP can_MD also_RB eat_VB outside_IN there_EX and_CC enjoy_VB the_DT surroundings_NNS ._.

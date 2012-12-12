@@ -1,6 +1,0 @@
-This_DT restaurant_NN motivated_VBD me_PRP to_TO write_VB Yelp_NNP reviews_NNS -_: every_DT time_NN I_PRP passed_VBD by_IN the_DT line_NN was_VBD out_IN the_DT door_NN ._.
-Initially_RB I_PRP mocked_VBD those_DT who_WP waited_VBD outside_RB ,_, laughing_VBG at_IN the_DT herd_NN ._.
-Then_RB I_PRP became_VBD curious_JJ -_: surely_RB if_IN all_DT these_DT people_NNS were_VBD waiting_VBG outside_IN it_PRP must_MD be_VB good_JJ ,_, right_JJ ?_.
-Eh_NNP ,_, not_RB really_RB ._.
-It_PRP was_VBD worth_JJ it_PRP purely_RB for_IN the_DT curiosity_NN factor_NN but_CC not_RB for_IN the_DT soggy_JJ pizza_NN ._.
-Plenty_NN disagree_VBP ,_, so_RB check_VB it_PRP out_RP ?_.

@@ -1,7 +1,0 @@
-I_PRP really_RB love_VBP Al_NNP Forno_NNP ._.
-They_PRP do_VBP some_DT things_NNS better_JJR than_IN anyone_NN else_RB does_VBZ ._.
-The_DT thing_NN to_TO do_VB is_VBZ get_VB what_WP looks_VBZ most_RBS appealing_JJ and_CC share_NN ._.
-The_DT pizzas_NNS are_VBP amazing_JJ as_IN are_VBP the_DT crostados_NNS with_IN whatever_WDT fruit_NN is_VBZ in_IN season_NN served_VBD with_IN house-made_JJ gelato_NN or_CC creme_NN anglaise_NN ._.
-The_DT grand_JJ cookie_NN finale_NN with_IN warm_JJ cookies_NNS ,_, homemade_NN truffles_NNS and_CC candied_VBD citrus_NN rind_NN is_VBZ also_RB wonderful_JJ ._.
-We_PRP generally_RB focus_VB on_IN appetizers_NNS and_CC desserts_NNS and_CC always_RB have_VBP food_NN to_TO take_VB home_NN ._.
-It_PRP 's_VBZ especially_RB nice_JJ to_TO sit_VB in_IN the_DT plant_NN filled_VBN patio_NN on_IN a_DT warm_JJ summer_NN 's_POS night_NN ._.

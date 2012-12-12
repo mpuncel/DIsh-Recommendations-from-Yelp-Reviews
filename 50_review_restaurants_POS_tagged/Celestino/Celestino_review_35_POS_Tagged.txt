@@ -1,2 +1,0 @@
-Real_JJ Italian_JJ food_NN ._.
-If_IN your_PRP$ idea_NN of_IN Italian_JJ food_NN is_VBZ spaghetti_NNS and_CC meatballs_NNS ,_, or_CC limp_JJ pasta_NN in_IN red_JJ sauce_NN ,_, this_DT is_VBZ not_RB your_PRP$ kind_NN of_IN place_NN ._.

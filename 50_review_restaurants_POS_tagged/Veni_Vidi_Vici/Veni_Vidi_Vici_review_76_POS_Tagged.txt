@@ -1,6 +1,0 @@
-This_DT is_VBZ an_DT awesome_JJ restaurant_NN ,_, so_RB there_EX is_VBZ no_DT need_NN for_IN me_PRP to_TO rave_VB with_IN many_JJ of_IN the_DT other_JJ reviews_NNS ._.
-Instead_RB ,_, I_PRP will_MD talk_VB about_IN one_CD incredible_JJ ingredient_NN in_IN my_PRP$ agnolotti_NNS -_: butter_NN fried_VBD sage_NN leaves_NNS ._.
-These_DT unbelievably_RB tasty_JJ morsels_NNS were_VBD quietly_RB hiding_VBG in_IN the_DT background_NN of_IN a_DT tremendous_JJ plate_NN of_IN pasta_NN ._.
-They_PRP were_VBD whole_JJ leaves_NNS fried_VBD to_TO a_DT crispy_JJ brown_JJ ,_, almost_RB black_JJ and_CC had_VBD a_DT tremendous_JJ smokey_NN buttery_NN flavor_NN of_IN crispiness_NN ._.
-This_DT ingredient_NN alone_RB justifies_VBZ a_DT trip_NN back_RB to_TO Veni_NNP Vidi_NNP Vici_NNP ._.
-And_CC by_IN the_DT way_NN ,_, the_DT rest_NN of_IN the_DT experience_NN was_VBD great_JJ as_RB well_RB ._.

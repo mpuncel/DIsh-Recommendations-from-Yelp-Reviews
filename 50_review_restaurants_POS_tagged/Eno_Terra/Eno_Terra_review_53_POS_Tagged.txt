@@ -1,2 +1,0 @@
-I_PRP liked_VBD everything_NN about_IN my_PRP$ trip_NN to_TO Eno_NNP Terra_NNP ..._: The_DT space_NN was_VBD interesting_JJ ,_, service_NN was_VBD good_JJ ,_, wine_NN list_NN was_VBD nice_JJ ,_, lots_NNS of_IN specials_NNS ..._: We_PRP went_VBD with_IN my_PRP$ husband_NN 's_POS aunt_NN and_CC uncle_NN and_CC had_VBD a_DT huge_JJ meal_NN ..._: two_CD appetizers_NNS ,_, everyone_NN had_VBD their_PRP$ own_JJ meal_NN ,_, and_CC two_CD desserts_NNS ._.
-Everyone_NN enjoyed_VBD their_PRP$ meals_NNS and_CC left_VBD happy_JJ !_.

@@ -1,4 +1,0 @@
-Tofu_NNP kabob_NN was_VBD outstanding_JJ ._.
-The_DT tofu_NN was_VBD the_DT best_JJS I_PRP have_VBP ever_RB eaten_VBN anywhere_RB ._.
-Very_RB flavorful_JJ and_CC the_DT texture_NN was_VBD absolutely_RB perfect_JJ ._.
-I_PRP 've_VBP been_VBN eating_VBG tofu_NN for_IN 20_CD +_CD years_NNS and_CC I_PRP had_VBD no_DT idea_NN it_PRP could_MD taste_VB this_DT good_JJ ._.

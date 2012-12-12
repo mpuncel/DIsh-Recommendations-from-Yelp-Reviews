@@ -1,3 +1,0 @@
-This_DT is_VBZ a_DT good_JJ ,_, cheap_JJ restaurant_NN ._.
-They_PRP give_VBP you_PRP a_DT ton_NN of_IN food_NN ,_, and_CC it_PRP is_VBZ surprisingly_RB decent_JJ ._.
-I_PRP usually_RB get_VBP a_DT calzone_NN ,_, but_CC I_PRP like_VBP their_PRP$ chicken_NN dishes_NNS too_RB ._.

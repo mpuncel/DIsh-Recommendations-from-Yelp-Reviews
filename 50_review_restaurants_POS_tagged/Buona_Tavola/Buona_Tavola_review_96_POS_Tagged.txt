@@ -1,4 +1,0 @@
-Always_RB a_DT great_JJ dinner_NN ._.
-Make_VB a_DT reservation_NN and_CC sit_VB on_IN the_DT patio_NN for_IN an_DT enchanting_NN evening_NN ._.
-Do_VBP n't_RB miss_VB the_DT pumpkin_NN tortelloni_NN !_.
-Service_NNP is_VBZ consistently_RB great_JJ and_CC they_PRP have_VBP an_DT excellent_JJ wine_NN list_NN ._.

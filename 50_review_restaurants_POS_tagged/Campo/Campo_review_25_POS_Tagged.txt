@@ -1,6 +1,0 @@
-I_PRP 've_VBP only_RB come_VBN here_RB for_IN breakfast_NN and_CC it_PRP 's_VBZ not_RB bad_JJ ._.
-i_FW always_RB have_VBP the_DT salmon_NN eggs_NNS benedict_VBP ._.
-Eggs_NNP were_VBD sufficiently_RB runny_JJ and_CC the_DT salmon_NN was_VBD decent_JJ ._.
-It_PRP 's_VBZ super_JJ close_NN to_TO my_PRP$ apartment_NN ,_, so_IN it_PRP 's_VBZ perfect_JJ for_IN rolling_VBG out_IN of_IN bed_NN ,_, Sunday_NNP morning_NN food_NN ._.
-Have_VBP n't_RB tried_VBD the_DT bottomless_JJ mimosas_NNS ._.
-Usually_RB when_WRB I_PRP 'm_VBP there_RB ,_, I_PRP 'm_VBP still_RB recovering_VBG from_IN the_DT night_NN before_RB ,_, and_CC more_RBR booze_NN would_MD be_VB just_RB a_DT little_JJ too_RB much_JJ ._.

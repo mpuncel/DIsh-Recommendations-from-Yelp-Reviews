@@ -1,7 +1,0 @@
-Pizza_NNP was_VBD pretty_RB good_JJ ._.
-Crust_NN was_VBD AMAZING_NNP ._.
-Super_NNP crispy_JJ ,_, and_CC stayed_VBD crispy_JJ and_CC warm_JJ throughout_IN my_PRP$ meal_NN ._.
-My_PRP$ friend_NN and_CC I_PRP ordered_VBD two_CD slices_NNS and_CC garlic_JJ knots_NNS and_CC have_VB more_JJR than_IN enough_RB ._.
--_: The_DT Bella_NNP Chicken_NNP pizza_NN -LRB-_-LRB- which_WDT I_PRP believe_VBP is_VBZ the_DT chicken_NN parmigiana_NN pizza_NN that_IN people_NNS previously_RB mentioned_VBN -RRB-_-RRB- was_VBD n't_RB as_RB good_JJ as_IN I_PRP expected_VBD ._.
--_: The_DT sausage_NN and_CC pepperoni_NNS were_VBD very_RB tasty_JJ in_IN all_DT its_PRP$ salty_NN ,_, meaty_NN ,_, oily_RB glory_NN -_: Cheese_NNP pizza_NN was_VBD meh_NN ._.
-Not_RB served_VBN on_IN NY-style_JJ crust_NN ,_, but_CC really_RB big_JJ

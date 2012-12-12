@@ -1,3 +1,0 @@
-I_PRP got_VBD their_PRP$ chinese_JJ chicken_NN salad_NN and_CC it_PRP was_VBD pretty_RB good_JJ ._.
-My_PRP$ coworkers_NNS got_VBD other_JJ things_NNS on_IN the_DT menu_NN and_CC said_VBD it_PRP was_VBD good_JJ as_RB well_RB ._.
-Prices_NNS are_VBP great_JJ ,_, especially_RB if_IN you_PRP order_VBP off_RP their_PRP$ daily_JJ special_JJ menu_NN and_CC their_PRP$ garlic_JJ bread_NN -LRB-_-LRB- they_PRP give_VBP you_PRP 2_CD pieces_NNS -RRB-_-RRB- are_VBP so_RB good_JJ !!_NN

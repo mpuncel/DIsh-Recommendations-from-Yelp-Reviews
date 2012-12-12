@@ -1,6 +1,0 @@
-The_DT Bread_NNP Is_VBZ Good_JJ And_CC the_DT Service_NNP Is_VBZ Slow_NNP ._.
-For_IN What_WP They_PRP Charge_VBP I_PRP 'd_MD Expect_VB Service_NNP To_TO Be_VB Better_RBR !!_SYM The_DT Waiter_NNP Disappeared_NNP On_IN Us_NNP And_CC We_PRP Had_VBD To_TO Ask_VB Another_DT Waiter_NNP For_IN Drinks_NNPS ._.
-Took_NNP Even_RB Longer_JJR ._.
-The_DT Food_NNP Is_VBZ Delicious_NNP ._.
-EXTREMELY_NNP SLOW_NNP SERVICE_NNP But_CC Quick_NNP To_TO Give_VB Check_VB ._.
-All_DT In_IN All_DT NOT_NNP Worth_NNP The_NNP Price_NN For_IN Lousy_NNP Service_NNP !!!_NNP And_CC Yes_NNP I_PRP 've_VBP Been_VBN Here_RB More_RBR Than_IN Once_RB ,_, I_PRP Just_RB Never_RB Bothered_VBN To_TO Check_VB In_IN ._.

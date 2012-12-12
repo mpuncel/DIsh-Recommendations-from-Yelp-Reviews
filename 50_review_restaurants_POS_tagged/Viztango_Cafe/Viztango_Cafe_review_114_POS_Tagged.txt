@@ -1,8 +1,0 @@
-The_DT food_NN here_RB is_VBZ n't_RB that_DT good_JJ ,_, but_CC it_PRP comes_VBZ out_RP fast_RB and_CC cheap_RB ._.
-The_DT restaurant_NN has_VBZ a_DT decent_JJ quality\/price_NN ratio_NN ._.
-They_PRP give_VBP you_PRP stuff_NN animals_NNS instead_RB of_IN numbers_NNS ._.
-+1_CD for_IN creativity_NN ._.
-The_DT place_NN feels_VBZ cramped_VBN ._.
-There_EX 's_VBZ usually_RB a_DT lot_NN of_IN people_NNS there_RB ._.
-Great_NNP place_NN to_TO go_VB if_IN you_PRP 're_VBP still_RB a_DT poor_JJ student_NN ._.
-If_IN you_PRP 're_VBP a_DT young_JJ professional_JJ or_CC older_JJR ,_, or_CC even_RB a_DT student_NN in_IN denial_NN ,_, who_WP can_MD afford_VB to_TO spend_VB $_$ 3-4_CD more_JJR ,_, you_PRP 're_VBP better_JJR off_RP at_IN better_JJR places_NNS in_IN downtown_NN LA._NNP ._.

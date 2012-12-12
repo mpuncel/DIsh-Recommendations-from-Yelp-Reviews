@@ -1,5 +1,0 @@
-Great_JJ date_NN night_NN place_NN ._.
-Especially_RB enjoy_VB the_DT bar_NN area_NN ._.
-Great_JJ martinis_NNS and_CC very_RB friendly_JJ staff_NN ._.
-Not_RB as_RB high_JJ priced_VBN as_IN the_DT atmosphere_NN made_VBD it_PRP seem_VB ._.
-See_VB you_PRP again_RB soon_RB !!_IN

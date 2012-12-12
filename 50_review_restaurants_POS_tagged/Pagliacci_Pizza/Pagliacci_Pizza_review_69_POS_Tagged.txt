@@ -1,3 +1,0 @@
-Crispy_JJ thin_JJ crust_NN pizza_NN --_: my_PRP$ favorite_JJ !_.
-I_PRP like_VBP the_DT traditional_JJ pepperoni_NNS ._.
-Excellent_JJ for_IN a_DT late_JJ night_NN meal_NN or_CC snack_NN in_IN the_DT U_NNP District_NNP for_IN about_RB $_$ 3_CD a_DT slice_NN ._.

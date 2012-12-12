@@ -1,5 +1,0 @@
-This_DT place_NN is_VBZ great_JJ !_.
-The_DT salads_NNS and_CC pizzas_NNS are_VBP fresh_JJ and_CC tasty_JJ ._.
-The_DT staff_NN is_VBZ very_RB accomodating_JJ and_CC informative_JJ ._.
-The_DT location_NN is_VBZ perfect_JJ ,_, right_JJ smack_VBP in_IN the_DT middle_NN of_IN princeton_NN and_CC they_PRP have_VBP D-Elicious_JJ coffee_NN here_RB !_.
-Only_RB gripe_NN are_VBP the_DT limes_NNS i_FW ask_VB to_TO come_VB w_VB my_PRP$ sparkling_JJ water_NN they_PRP are_VBP always_RB dry_JJ and_CC you_PRP only_RB get_VBP two_CD drops_NNS of_IN juice_NN after_IN squeezing_VBG it_PRP reeeally_RB hard_RB ..._: Grrr_NNP i_FW love_NN sparkling_JJ water_NN and_CC i_FW love_NN my_PRP$ limes_NNS to_TO be_VB juicy_NN ..._: Invest_VB in_IN some_DT juicy_NN limes_VBZ please_VB !_.

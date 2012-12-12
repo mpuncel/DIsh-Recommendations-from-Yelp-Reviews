@@ -1,3 +1,0 @@
-Delicious_NNP food_NN ._.
-Great_JJ service_NN ._.
-Lovely_RB place_NN to_TO eat_VB and_CC visit_VB with_IN friends_NNS and_CC family_NN ._.

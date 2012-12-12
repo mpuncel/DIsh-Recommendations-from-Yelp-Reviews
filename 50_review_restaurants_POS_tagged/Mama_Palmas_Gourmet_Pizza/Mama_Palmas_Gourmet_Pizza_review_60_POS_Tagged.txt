@@ -1,3 +1,0 @@
-Mama_NNP Palma_NNP 's_POS is_VBZ the_DT best_JJS pizza_NN I_PRP have_VBP tried_VBN in_IN the_DT center_NN city_NN area_NN -LRB-_-LRB- honestly_RB ,_, it_PRP does_VBZ n't_RB seem_VB that_IN the_DT competition_NN is_VBZ all_DT that_IN steep_JJ -RRB-_-RRB- ._.
-Their_PRP$ crust_NN is_VBZ a_DT little_JJ bit_NN softer_JJR than_IN Tacconelli_NNP 's_POS and_CC their_PRP$ topping_VBG choices_NNS are_VBP more_RBR diverse_JJ and_CC creative_JJ ._.
-I_PRP 'm_VBP a_DT big_JJ sucker_NN for_IN artichoke_NN and_CC they_PRP do_VBP it_PRP well_RB ._.

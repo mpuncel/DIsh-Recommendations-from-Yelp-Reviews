@@ -1,3 +1,0 @@
-Pasta_NN Roma_NNP has_VBZ some_DT pretty_RB good_JJ food_NN and_CC it_PRP 's_VBZ not_RB too_RB expensive_JJ ,_, there_EX is_VBZ never_RB any_DT wait_NN ,_, and_CC the_DT food_NN comes_VBZ really_RB fast_RB ._.
-It_PRP is_VBZ especially_RB convenient_JJ if_IN you_PRP are_VBP in_IN the_DT Greek_JJ community_NN and_CC live_VB on_IN the_DT row_NN at_IN USC_NNP ._.
-I_PRP eat_VBP here_RB at_IN least_JJS a_DT few_JJ times_NNS a_DT month_NN ._.

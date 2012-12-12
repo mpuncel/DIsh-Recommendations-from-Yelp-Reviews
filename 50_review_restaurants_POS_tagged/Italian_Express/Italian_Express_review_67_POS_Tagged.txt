@@ -1,2 +1,0 @@
-I_PRP like_VBP their_PRP$ thin_JJ crust_NN pizza_NN ._.
-Service_NNP is_VBZ pretty_RB fast_RB ._.

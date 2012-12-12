@@ -1,3 +1,0 @@
-Great_NNP selection_NN of_IN beers_NNS and_CC a_DT great_JJ friendly_JJ service_NN ._.
-The_DT bartenders_NNS go_VBP out_IN of_IN their_PRP$ way_NN to_TO make_VB you_PRP feel_VB welcome_JJ ._.
-The_DT pizzas_NNS are_VBP delicious_JJ ,_, and_CC this_DT place_NN is_VBZ a_DT must_MD visit_VB !_.

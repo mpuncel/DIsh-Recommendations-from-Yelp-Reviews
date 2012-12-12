@@ -1,6 +1,0 @@
-We_PRP recently_RB moved_VBD from_IN Pittsburgh_NNP to_TO Palo_NNP Alto_NNP ,_, CA_NNP ._.
-It_PRP 's_VBZ beautiful_JJ ,_, and_CC the_DT food_NN is_VBZ great_JJ ,_, but_CC we_PRP 've_VBP yet_RB to_TO find_VB an_DT Italian_JJ restaurant_NN that_WDT is_VBZ even_RB half_JJ as_IN good_JJ as_IN Girasole_NNP ._.
-Pittsburgh_NNP has_VBZ one_CD of_IN the_DT greatest_JJS Italian_JJ restaurants_NNS around_IN in_IN this_DT little_JJ gem_NN just_RB off_RB Walnut_NNP street_NN ._.
-From_IN the_DT sunflower_NN salad_NN oil_NN to_TO their_PRP$ filet_NN special_JJ ,_, and_CC the_DT pumpkin_NN ravioli_NNS ,_, I_PRP never_RB once_RB in_IN 10_CD years_NNS had_VBD a_DT bad_JJ dinner_NN here_RB ._.
-Never_RB even_RB had_VBD an_DT okay_JJ dinner_NN ._.
-They_PRP were_VBD all_DT outstanding_JJ ,_, and_CC served_VBD with_IN such_JJ personality_NN that_IN we_PRP always_RB felt_VBD welcomed_VBN by_IN Jimmy_NNP and_CC his_PRP$ family_NN ._.

@@ -1,7 +1,0 @@
-The_DT $_$ 5_CD lunch_NN special_JJ is_VBZ now_RB $_$ 5.95_CD unless_IN I_PRP 'm_VBP mistaken_JJ ._.
-Anyways_NNP I_PRP tried_VBD the_DT Penne_NNP Bolognese_NNP ,_, one_CD of_IN the_DT lunch_NN special_JJ pastas_NNS ,_, and_CC it_PRP 's_VBZ served_VBN quick_JJ and_CC fresh_JJ ._.
-The_DT pasta_NN was_VBD almost_RB too_RB hot_JJ to_TO eat_VB ,_, but_CC the_DT aroma_NN was_VBD irresistible_JJ ._.
-The_DT noodles_NNS have_VBP a_DT chewy_JJ texture_NN and_CC are_VBP fully_RB cooked_VBN ._.
-The_DT ground_NN beef_NN is_VBZ really_RB oily_RB so_RB when_WRB you_PRP finish_VBP your_PRP$ meal_NN ,_, you_PRP 'll_MD see_VB a_DT layer_NN of_IN oil_NN at_IN the_DT bottom_NN ._.
-TL_NNP ;_: DR_NNP ;_: Lunch_NNP special_JJ is_VBZ $_$ 5.95_CD now_RB ._.
-Tried_VBD the_DT Penne_NNP Bolognese_NNP and_CC it_PRP 's_VBZ pretty_RB good_JJ ,_, but_CC slightly_RB oily_RB ._.

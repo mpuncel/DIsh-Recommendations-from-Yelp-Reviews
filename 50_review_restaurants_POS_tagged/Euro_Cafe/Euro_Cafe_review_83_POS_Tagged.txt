@@ -1,9 +1,0 @@
-This_DT place_NN is_VBZ so_RB charming_JJ !_.
-Came_NNP here_RB for_IN lunch_NN with_IN friends_NNS this_DT weekend_NN and_CC left_VBD with_IN a_DT smile_NN :_: -RRB-_-RRB- I_PRP ordered_VBD their_PRP$ Ham_NN &_CC Brie_NNP Panini_NNP -LRB-_-LRB- black_JJ forest_NN ham_NN ,_, brie_NN ,_, honey_NN mustard_NN ,_, greens_NNS ,_, tomato_NN -RRB-_-RRB- on_IN Foccacia_NNP with_IN Pasta_NNP Salad_NNP ._.
-To_TO be_VB completely_RB honest_JJ ,_, I_PRP was_VBD n't_RB the_DT biggest_JJS fan_NN of_IN the_DT pasta_NN salad_NN ._.
-But_CC the_DT panini_NN was_VBD wonderful_JJ ._.
-The_DT ingredients_NNS all_DT melded_VBN together_RB perfectly_RB and_CC mmm_NN ,_, melted_VBN brie_NN ,_, so_RB good_JJ ._.
-A_DT couple_NN friends_NNS ordered_VBD their_PRP$ Linguica_NNP Panini_NNP -LRB-_-LRB- linguica_NN =_SYM Portuguese_FW sausage_FW -RRB-_-RRB- and_CC it_PRP looked_VBD pretty_RB appetizing_JJ ._.
-While_IN we_PRP were_VBD eating_VBG ,_, the_DT owner_NN came_VBD and_CC talked_VBD to_TO us_PRP ._.
-When_WRB he_PRP found_VBD out_RP that_IN this_DT was_VBD our_PRP$ first_JJ time_NN here_RB ,_, he_PRP went_VBD back_RB to_TO the_DT kitchen_NN and_CC brought_VBD us_PRP a_DT plate_NN of_IN garlic_JJ toast_NN with_IN sliced_JJ linguica_NN !_.
-That_DT was_VBD unexpected_JJ and_CC so_RB sweet_JJ ~_NN We_PRP all_DT enjoyed_VBD the_DT food_NN here_RB and_CC I_PRP want_VBP to_TO come_VB back_RB to_TO try_VB their_PRP$ delectable-looking_JJ desserts_NNS !_.

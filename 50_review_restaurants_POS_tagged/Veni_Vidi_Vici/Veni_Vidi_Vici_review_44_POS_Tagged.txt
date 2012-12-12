@@ -1,8 +1,0 @@
-I_PRP 've_VBP been_VBN to_TO VVV_NNP twice_RB ._.
-The_DT first_JJ time_NN the_DT food_NN was_VBD underwhelming_VBG and_CC the_DT service_NN was_VBD top_JJ notch_NN ._.
-The_DT second_JJ time_NN the_DT food_NN was_VBD lovely_JJ and_CC the_DT service_NN felt_VBD like_IN amateur_JJ night_NN at_IN a_DT chain_NN restaurant_NN ._.
-The_DT risotto_JJ frutti_NNS di_FW mare_NN was_VBD heavenly_RB ._.
-The_DT anatra_NN -LRB-_-LRB- duck_NN -RRB-_-RRB- left_VBD me_PRP disappointed_JJ and_CC craving_NN a_DT much_JJ cheaper_JJR duck_NN dish_NN at_IN another_DT restaurant_NN ._.
-The_DT tiramisu_NN was_VBD good_JJ ._.
-The_DT batting_NN average_NN does_VBZ n't_RB justify_VB the_DT prices_NNS ,_, even_RB if_IN there_EX is_VBZ a_DT chance_NN the_DT food_NN and_CC service_NN might_MD one_CD day_NN both_DT be_VB good_JJ at_IN the_DT same_JJ time_NN ._.
-The_DT ambiance_NN is_VBZ good_JJ ,_, better_RBR for_IN tables_NNS of_IN four_CD to_TO six_CD than_IN large_JJ groups_NNS or_CC date_NN night_NN ._.

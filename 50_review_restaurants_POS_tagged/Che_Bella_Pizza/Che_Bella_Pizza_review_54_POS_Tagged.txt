@@ -1,4 +1,0 @@
-Great_NNP pizza_NN and_CC good_JJ prices_NNS ._.
-The_DT guy_NN who_WP owns_VBZ the_DT place_NN actually_RB works_VBZ there_EX sometimes_RB and_CC once_RB gave_VBD me_PRP a_DT free_JJ salad_NN because_IN he_PRP forgot_VBD to_TO ring_VB it_PRP up_RP ._.
-Only_RB downside_NN is_VBZ how_WRB early_RB they_PRP close_RB ._.
-Sometimes_RB you_PRP just_RB need_VBP a_DT slice_NN after_IN drinking_VBG a_DT little_JJ too_RB much_JJ ._.

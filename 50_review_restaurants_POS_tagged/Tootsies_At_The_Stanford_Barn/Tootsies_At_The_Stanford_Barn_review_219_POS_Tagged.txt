@@ -1,4 +1,0 @@
-A_DT quaint_NN little_JJ joint_JJ with_IN very_RB friendly_JJ staff_NN ,_, creative_JJ food_NN with_IN an_DT Italian_JJ flair_NN ,_, fresh_JJ pastries_NNS and_CC excellent_JJ Danesi_NNP coffee_NN ._.
-Ate_VBD here_RB twice_RB one_CD week_NN while_IN in_IN town_NN on_IN business_NN ,_, arriving_VBG within_IN an_DT hour_NN after_IN it_PRP opened_VBD in_IN the_DT morning_NN and_CC there_EX was_VBD no_DT crowd_NN at_IN all_DT ._.
-Located_VBN right_JJ next_JJ to_TO the_DT Stanford_NNP campus_NN in_IN Palo_NNP Alto_NNP -LRB-_-LRB- wonderful_JJ area_NN -RRB-_-RRB- ._.
-Poached_NNP egg_NN on_IN toast_NN w_NN \/_NN kalamata_NN olives_NNS and_CC celery_NN this_DT morning_NN was_VBD incredible_JJ !_.

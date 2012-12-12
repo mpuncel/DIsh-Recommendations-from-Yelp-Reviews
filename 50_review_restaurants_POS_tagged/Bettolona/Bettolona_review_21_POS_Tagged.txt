@@ -1,3 +1,0 @@
-Excellent_JJ neighborhood_NN Italian_JJ ,_, I_PRP wish_VBP it_PRP was_VBD in_IN my_PRP$ neighborhood_NN ._.
-I_PRP had_VBD a_DT pizza_NN that_WDT was_VBD excellent_JJ and_CC similar_JJ to_TO ones_NNS I_PRP 've_VBP had_VBN in_IN Italy_NNP ._.
-Very_RB warm_JJ atmosphere_NN ,_, fair_JJ prices_NNS ,_, and_CC friendly_JJ service_NN ._.

@@ -1,8 +1,0 @@
-Love_NNP ,_, love_NN ,_, love_NN this_DT place_NN ._.
-I_PRP was_VBD introduced_VBN by_IN my_PRP$ daughter_NN and_CC wow_NN ._.
-The_DT food_NN is_VBZ fresh_JJ ,_, tasty_JJ and_CC good_JJ ._.
-The_DT pasta_NN and_CC pizza_NN ..._: some_DT of_IN the_DT best_JJS in_IN the_DT city_NN ._.
-I_PRP have_VBP been_VBN many_JJ times_NNS now_RB and_CC never_RB had_VBD a_DT bad_JJ experience_NN ._.
-The_DT best_JJS in_IN the_DT neighborhood_NN and_CC one_CD of_IN the_DT best_JJS in_IN NYC_NNP ._.
-Love_NNP it_PRP ._.
-Safe_NNP Journeys_NNP ,_, R_NNP

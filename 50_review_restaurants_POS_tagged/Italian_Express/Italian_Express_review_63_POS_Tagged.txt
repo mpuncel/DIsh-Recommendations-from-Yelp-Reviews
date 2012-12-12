@@ -1,2 +1,0 @@
-pesto_SYM -_: disgustinggg_NN fettuccine_NN alfredo_NN -_: horrible_JJ cheesy_JJ garlic_JJ rolls_NNS are_VBP not_RB as_RB great_JJ as_IN everyone_NN says_VBZ it_PRP is_VBZ the_DT chicken_NN strips_NNS though_RB are_VBP pretty_RB good_JJ ._.
-it_PRP is_VBZ real_JJ chicken_NN !_.

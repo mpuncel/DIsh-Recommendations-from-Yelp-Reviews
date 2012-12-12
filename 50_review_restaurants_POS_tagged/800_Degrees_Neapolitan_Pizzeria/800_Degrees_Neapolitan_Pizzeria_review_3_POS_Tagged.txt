@@ -1,9 +1,0 @@
-I_PRP ordered_VBD a_DT marguerite_NN pizza_NN with_IN bacon_NN ,_, garlic_JJ ,_, onions_NNS ,_, and_CC mushrooms_NNS ._.
-I_PRP really_RB entertained\/enjoyed_VBD the_DT concept_NN of_IN customizing_VBG my_PRP$ own_JJ pizza_NN ,_, having_VBG it_PRP made_VBD in_IN front_NN of_IN me_PRP ,_, and_CC seeing_VBG my_PRP$ pizza_NN thrown_VBN in_IN the_DT oven_NN ._.
-There_EX 's_VBZ only_RB one_CD problem_NN -_: THE_DT PIZZA_NN WAS_VBD EXTREMELY_RB SALTY_JJ !_.
-They_PRP threw_VBD sea_NN salt_NN on_IN the_DT pizza_NN after_IN it_PRP came_VBD out_IN of_IN the_DT oven_NN without_IN asking_VBG me_PRP ._.
-All_DT I_PRP could_MD taste_VB was_VBD salt_NN !_.
-I_PRP wanted_VBD to_TO enjoy_VB my_PRP$ fresh_JJ basil_NN ,_, mozzarella_NN ,_, onion_NN ,_, garlic_JJ ,_, and_CC bacon_NN ._.
-Bacon_NNP and_CC mozzarella_NN already_RB have_VBP natural_JJ sodium_NN ;_: why_WRB did_VBD they_PRP need_VBP to_TO add_VB more_JJR ?!_NN I_PRP was_VBD incredibly_RB disappointed_JJ ,_, but_CC my_PRP$ friend_NN convinced_VBN me_PRP that_IN it_PRP usually_RB was_VBD n't_RB that_IN salty_NN and_CC to_TO try_VB it_PRP again_RB next_JJ time_NN ._.
-Due_JJ to_TO her_PRP ,_, the_DT friendliness_NN of_IN the_DT staff_NN ,_, the_DT awesome_JJ concept_NN ,_, and_CC incredibly_RB high_JJ tech_NN soda_NN machine_NN -LRB-_-LRB- that_IN I_PRP did_VBD n't_RB know_VB how_WRB to_TO use_VB ..._: but_CC it_PRP was_VBD fun_NN figuring_VBG out_RP -RRB-_-RRB- ,_, I_PRP will_MD definitely_RB try_VB this_DT place_NN again_RB ._.
-BUT_NNP IF_IN YOU_PRP SEE_VBP SALT_NNP ANYWHERE_RB NEAR_IN YOUR_JJ PIZZA_NN ,_, TELL_NNP THEM_NNP TO_TO STOP_VB IMMEDIATELY_RB BEFORE_IN IT_PRP BECOMES_VBZ INEDIBLE_NN !_.

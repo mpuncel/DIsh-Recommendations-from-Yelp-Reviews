@@ -1,3 +1,0 @@
-margherita_NN pizza_NN =_SYM PERFECTION_NNP there_EX are_VBP enough_RB good_JJ descriptions_NNS about_IN this_DT place_NN ._.
-i_FW am_VBP ditto-ing_VBG all_DT other_JJ 5_CD star_NN ratings_NNS ._.
-you_PRP HAVE_VBP to_TO come_VB here_RB ._.

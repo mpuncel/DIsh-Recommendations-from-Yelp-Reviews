@@ -1,4 +1,0 @@
-Little_NNP Azio_NNP looks_VBZ like_IN a_DT trendy_JJ salad_NN and_CC sandwich_NN place_NN ._.
-I_PRP ordered_VBD a_DT Meatball_NNP Sandwich_NNP which_WDT left_VBD me_PRP feeling_VBG I_PRP should_MD go_VB somewhere_RB else_RB have_VB another_DT lunch_NN ._.
-The_DT sandwich_NN was_VBD kind_NN of_IN small_JJ ._.
-I_PRP actually_RB regret_VBP not_RB ordering_VBG a_DT salad_NN because_IN they_PRP were_VBD served_VBN in_IN very_RB generous_JJ portions_NNS and_CC definitely_RB look_VB tasty_JJ ._.

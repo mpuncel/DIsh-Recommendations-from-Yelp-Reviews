@@ -1,7 +1,0 @@
-I_PRP am_VBP shamed_VBN into_IN writing_VBG this_DT review_NN from_IN all_PDT the_DT peer_VB pressure_NN of_IN my_PRP$ follow_VBP Yelpers_NNP ._.
-I_PRP only_RB had_VBD the_DT San_NNP Gennaro_NNP pizza_NN so_RB this_DT review_NN is_VBZ a_DT bit_NN shallow_JJ ._.
-I_PRP will_MD state_VB that_IN this_DT is_VBZ every_DT bit_NN as_IN good_JJ as_IN others_NNS have_VBP said_VBN it_PRP is_VBZ ._.
-The_DT crust_NN was_VBD perfectly_RB lightly_RB charred_VBD ._.
-The_DT ingredients_NNS tasted_VBD fresh_JJ and_CC the_DT overall_JJ taste_NN and_CC appearance_NN was_VBD excellent_JJ ._.
-The_DT place_NN had_VBD a_DT nice_JJ vibe_NN to_TO it_PRP although_IN not_RB upscale_JJ but_CC very_RB relaxed_VBD ._.
-Probably_RB the_DT best_JJS pizza_NN I_PRP had_VBD in_IN all_DT of_IN Georgia_NNP and_CC if_IN I_PRP 'm_VBP in_IN the_DT area_NN this_DT place_NN is_VBZ worth_IN the_DT time_NN and_CC effort_NN to_TO return_VB ._.

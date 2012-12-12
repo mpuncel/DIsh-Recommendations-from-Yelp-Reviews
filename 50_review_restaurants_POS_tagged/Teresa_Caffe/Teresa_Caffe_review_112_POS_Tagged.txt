@@ -1,2 +1,0 @@
-Food_NNP is_VBZ overrated_VBN and_CC expensive_JJ ._.
-A_DT great_JJ place_NN for_IN beer_NN and_CC some_DT unknown_JJ italian_JJ wine_NN ._.

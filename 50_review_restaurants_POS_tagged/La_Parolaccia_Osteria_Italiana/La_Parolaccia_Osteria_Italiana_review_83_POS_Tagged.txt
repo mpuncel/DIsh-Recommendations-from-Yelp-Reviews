@@ -1,5 +1,0 @@
-I_PRP 'll_MD keep_VB it_PRP simple_JJ ;_: the_DT food_NN is_VBZ fresh_JJ ,_, healthy_JJ and_CC delicious_JJ ,_, the_DT service_NN is_VBZ decent_JJ while_IN the_DT decor_NN lacks_VBZ all_DT warmth_NN ._.
-Quite_RB simply_RB it_PRP feels_VBZ utilitarian_JJ ._.
-Nonetheless_RB ,_, this_DT place_NN makes_VBZ for_IN a_DT good_JJ lunch_NN stop_NN ._.
-As_IN for_IN dinner_NN ,_, there_EX are_VBP better_JJR options_NNS in_IN the_DT village_NN unless_IN you_PRP have_VBP a_DT young_JJ family_NN ._.
-Mangia_NNP ,_, mangia_NN !_.

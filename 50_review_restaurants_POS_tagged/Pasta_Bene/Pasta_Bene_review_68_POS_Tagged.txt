@@ -1,2 +1,0 @@
-Good_JJ food_NN ,_, fair_JJ prices_NNS ,_, and_CC $_$ 10_CD pitchers_NNS during_IN happy_JJ hour_NN -LRB-_-LRB- 3-7pm_JJ -RRB-_-RRB- ._.
-Hope_NNP they_PRP start_VBP growing_VBG livers_NNS for_IN transplant_NN soon_RB ._.

@@ -1,5 +1,0 @@
-No_DT other_JJ place_NN serves_VBZ cheap_JJ ,_, delicious_JJ pasta_NN like_IN this_DT ._.
-IT_PRP 'S_VBZ SO_RB CHEAP_NNP ._.
-I_PRP still_RB have_VBP n't_RB made_VBN my_PRP$ way_NN to_TO Cafe_NNP Vivoli_NNP in_IN SF_NNP ,_, apparently_RB the_DT Gypsy_NNP 's_POS of_IN SF_NNP ._.
-Godfather_NNP 's_POS Favorite_NNP ftw_NN !_.
-Frutti_NNP di_FW mare_NN -LRB-_-LRB- request_NN white_JJ sauce_NN instead_RB of_IN red_JJ -RRB-_-RRB- is_VBZ also_RB amazing_JJ ._.

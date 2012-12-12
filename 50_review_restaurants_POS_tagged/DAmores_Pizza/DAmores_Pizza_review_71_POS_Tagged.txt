@@ -1,5 +1,0 @@
-The_DT guy_NN that_WDT answered_VBD the_DT phone_NN was_VBD an_DT idiot_NN ._.
-I_PRP had_VBD to_TO repeat_VB myself_PRP several_JJ times_NNS to_TO order_VB a_DT simple_JJ pizza_NN ._.
-Second_NNP ,_, the_DT pizza_NN was_VBD boring_JJ and_CC tasteless_JJ ._.
-Third_NNP ,_, the_DT price_NN for_IN a_DT large_JJ pizza_NN with_IN one_CD topping_VBG was_VBD almost_RB $_$ 26_CD and_CC $_$ 3_CD dollar_NN tip_NN ._.
-OUCH_NNP !!!_CD There_EX is_VBZ so_RB much_RB better_JJR pizza_NN in_IN LA._NNP ._.

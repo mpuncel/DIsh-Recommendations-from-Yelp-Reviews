@@ -1,5 +1,0 @@
-This_DT place_NN is_VBZ pretty_RB small_JJ ,_, but_CC then_RB again_RB ,_, sometimes_RB the_DT smallest_JJS places_NNS give_VBP the_DT best_JJS food_NN ._.
-I_PRP had_VBD the_DT carbonara_NN pasta_NN with_IN pink_JJ sauce_NN that_WDT was_VBD great_JJ ._.
-The_DT bacon_NN ,_, the_DT butter_NN ,_, the_DT pink_JJ sauce_NN ,_, awesome_JJ ._.
-I_PRP had_VBD the_DT philly_JJ cheese_NN steak_NN ,_, the_DT meat_NN was_VBD seasoned_JJ very_RB well_RB ._.
-Come_VBN here_RB for_IN the_DT food_NN ,_, but_CC buy_VB it_PRP and_CC eat_VB somewhere_RB else_RB if_IN you_PRP plan_VBP to_TO bring_VB a_DT lot_NN of_IN friends_NNS ._.

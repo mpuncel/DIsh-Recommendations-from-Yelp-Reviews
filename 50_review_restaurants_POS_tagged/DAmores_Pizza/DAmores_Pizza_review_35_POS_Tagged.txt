@@ -1,5 +1,0 @@
-Got_VBD the_DT 2_CD slice_NN ,_, salad_NN and_CC drink_NN combo_NN to_TO share_VB with_IN a_DT friend_NN ._.
-The_DT pizza_NN was_VBD good_JJ ,_, but_CC like_IN others_NNS said_VBD ,_, the_DT crust_NN is_VBZ fairly_RB crispy_JJ ._.
-But_CC I_PRP did_VBD n't_RB mind_VB that_DT so_RB much_JJ because_IN it_PRP was_VBD still_RB delicious_JJ ._.
-The_DT salad_NN was_VBD fresh_JJ ,_, and_CC the_DT drink_NN size_NN big_JJ ._.
-That_DT 's_VBZ all_DT you_PRP need_VBP when_WRB you_PRP 're_VBP hungry_JJ ._.

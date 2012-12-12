@@ -1,3 +1,0 @@
-I_PRP came_VBD here_RB for_IN coffee_NN ._.
-I_PRP got_VBD a_DT latte_NN and_CC it_PRP was_VBD great_JJ !_.
-Highly_NNP recommend_VB this_DT place_NN ._.

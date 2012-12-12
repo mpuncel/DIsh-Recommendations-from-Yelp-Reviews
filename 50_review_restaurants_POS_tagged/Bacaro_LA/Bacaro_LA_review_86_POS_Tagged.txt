@@ -1,4 +1,0 @@
-Great_NNP tasting_NN foods_NNS ,_, really_RB creative_JJ menu_NN !_.
-Great_JJ service_NN ,_, too_RB ._.
-Do_VBP n't_RB be_VB put_VBN off_RP by_IN the_DT neighborhood_NN ,_, it_PRP 's_VBZ worth_JJ the_DT trip_NN ..._: I_PRP think_VBP we_PRP had_VBD one_CD of_IN just_RB about_IN all_PDT the_DT little_JJ plates_NNS ,_, and_CC they_PRP are_VBP all_DT excellent_JJ ._.
-Seems_VBZ like_IN a_DT bad_JJ choice_NN could_MD n't_RB possibly_RB be_VB made_VBN !_.

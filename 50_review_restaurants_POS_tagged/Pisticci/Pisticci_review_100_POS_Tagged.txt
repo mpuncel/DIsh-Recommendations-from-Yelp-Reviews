@@ -1,4 +1,0 @@
-A_DT very_RB cozy_JJ place_NN ,_, used_VBN to_TO be_VB my_PRP$ favorite_JJ for_IN more_JJR than_IN 4_CD years_NNS ._.
-Unfortunately_RB ,_, since_IN then_RB the_DT quality_NN of_IN food_NN has_VBZ deteriorated_VBN to_TO a_DT rather_RB average_JJ level_NN ,_, and_CC so_RB did_VBD service_NN ,_, especially_RB in_IN the_DT past_JJ year_NN ._.
-A_DT very-very_JJ sad_JJ loss_NN ..._: Their_PRP$ tiramisu_NN is_VBZ still_RB holding_VBG and_CC is_VBZ indeed_RB ``_`` the_DT local_JJ legend_NN ._. ''_''
-And_CC that_DT 's_VBZ why_WRB Pisticci_NNP gets_VBZ 3_CD stars_NNS instead_RB of_IN 2_CD ._.

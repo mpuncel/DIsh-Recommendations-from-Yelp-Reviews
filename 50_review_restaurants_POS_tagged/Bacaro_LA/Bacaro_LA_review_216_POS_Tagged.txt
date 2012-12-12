@@ -1,2 +1,0 @@
-Love_NNP this_DT place_NN !_.
-Very_RB good_JJ food_NN at_IN reasonable_JJ price_NN ._.

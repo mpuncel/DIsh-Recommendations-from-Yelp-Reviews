@@ -1,6 +1,0 @@
-I_PRP 'm_VBP from_IN Italy_NNP and_CC whenever_WRB i_FW want_VBP to_TO eat_VB real_JJ Italian_JJ food_NN ,_, i_FW chose_VBD Baraonda_NNP !_.
-The_DT owner_NN is_VBZ Italian_JJ ,_, the_DT food_NN is_VBZ really_RB good_JJ and_CC not_RB expensive_JJ ._.
-The_DT wine_NN is_VBZ also_RB good_JJ ,_, you_PRP can_MD find_VB a_DT lot_NN of_IN types_NNS of_IN wine_NN from_IN all_DT over_IN the_DT Italy_NNP ._.
-The_DT restaurant_NN is_VBZ nice_JJ ,_, just_RB a_DT little_JJ bit_NN small_JJ ._. ._.
-but_CC if_IN your_PRP$ party_NN is_VBZ with_IN 6_CD +_CD people_NNS ,_, you_PRP can_MD book_VB a_DT table_NN ._.
-If_IN you_PRP like_IN Italian_JJ food_NN ,_, you_PRP may_MD love_VB Baraonda_NNP !_.

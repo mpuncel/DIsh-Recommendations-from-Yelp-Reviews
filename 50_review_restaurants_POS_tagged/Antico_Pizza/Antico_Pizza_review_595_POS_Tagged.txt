@@ -1,6 +1,0 @@
-I_PRP came_VBD ._.
-I_PRP battled_VBD the_DT crowd_NN ._.
-I_PRP ate_VBD a_DT whole_JJ pie_NN -LRB-_-LRB- margarita_FW -RRB-_-RRB- ._.
-I_PRP burped_VBD ,_, then_RB smiled_VBD ._.
-Another_DT local_JJ ``_`` must_MD try_VB ''_'' knocked_VBD out_RP ._.
-Onward_NNP !_.

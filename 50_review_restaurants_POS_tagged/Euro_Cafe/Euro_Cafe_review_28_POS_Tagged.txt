@@ -1,5 +1,0 @@
-ok_RB ,_, i_FW have_VBP to_TO admit_VB that_IN this_DT cafe_NN is_VBZ pretty_RB darn_RB good_JJ and_CC i_FW will_MD be_VB returning_VBG despite_IN bad_JJ service_NN ..._: very_RB bad_JJ ._.
-I_PRP had_VBD a_DT chicken_NN dish_NN which_WDT was_VBD seasoned_JJ very_RB well_RB and_CC moist_VB ..._: The_DT veggies_NNS were_VBD also_RB tasty_JJ ._.
-My_PRP$ friend_NN order_NN a_DT panni_NN which_WDT was_VBD also_RB pretty_RB good_JJ ..._: the_DT bread_NN was_VBD a_DT bit_NN overwhellming_JJ but_CC still_RB tasty_JJ ._.
-Honestly_RB it_PRP hard_JJ to_TO find_VB a_DT good_JJ panni_NN place_NN in_IN the_DT i.e._FW ._.
-If_IN you_PRP know_VBP of_IN any_DT ,_, please_VB let_VB me_PRP know_VB !_.

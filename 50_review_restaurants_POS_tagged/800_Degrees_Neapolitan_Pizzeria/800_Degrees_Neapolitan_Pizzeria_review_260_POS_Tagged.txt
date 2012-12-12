@@ -1,4 +1,0 @@
-Try_VB the_DT Napoletana_NNP pizza_NN !_.
-Love_NNP this_DT place_NN but_CC it_PRP gets_VBZ crowded_VBN so_RB get_VB here_RB early_RB ._.
-The_DT place_NN is_VBZ not_RB that_IN big_JJ so_RB do_VBP n't_RB expect_VB to_TO sit_VB down_RB right_RB away_RB plus_IN they_PRP have_VBP a_DT ``_`` No_DT Saving_VBG Seats_NNS ''_'' policy_NN which_WDT blows_NNS so_RB go_VB for_IN take_VB out_RP and_CC dine_VB at_IN home_NN unless_IN you_PRP ca_MD n't_RB wait_VB try_VB eating_VBG it_PRP inside_IN your_PRP$ car_NN !_.
-If_IN you_PRP 're_VBP lucky_JJ you_PRP might_MD find_VB parking_NN close_RB by_IN otherwise_RB it_PRP is_VBZ typical_JJ Westwood_NNP drive_NN around_IN until_IN you_PRP spot_VBP one_CD !_.

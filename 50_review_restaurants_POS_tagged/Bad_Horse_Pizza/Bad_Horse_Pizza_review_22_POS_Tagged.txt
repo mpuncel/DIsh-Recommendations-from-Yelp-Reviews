@@ -1,4 +1,0 @@
-Pros_NNS :_: ambiance_NN is_VBZ great_JJ ,_, waitstaff_JJ very_RB nice_JJ ,_, finally_RB a_DT pizzeria_NN in_IN West_NNP Harlem_NNP !_.
-Cons_NNS :_: quite_RB expensive_JJ ,_, service_NN slow_JJ ,_, pizza_NN so-so_JJ ._.
-Tip_NNP :_: order_NN large_JJ pies_NNS and_CC share_NN !_.
-I_PRP live_VBP nearby_RB so_RB I_PRP 'll_MD come_VB back_RB !_.

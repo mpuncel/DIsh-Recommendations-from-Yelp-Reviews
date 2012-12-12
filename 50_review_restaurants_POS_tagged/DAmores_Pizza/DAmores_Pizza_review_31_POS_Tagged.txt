@@ -1,5 +1,0 @@
-Not_RB bad_JJ pizza_NN ,_, a_DT little_JJ pricy_NN ._.
-Unfortunately_RB the_DT D'Amores_NNS pizza_NN in_IN Westwood_NNP closes_VBZ early_RB ,_, but_CC you_PRP can_MD call_VB the_DT other_JJ location_NN that_WDT delivers_VBZ till_IN 4am_CD and_CC they_PRP 'll_MD deliver_VB for_IN a_DT little_JJ extra_JJ price_NN ._.
-I_PRP enjoy_VBP their_PRP$ crust_NN ,_, but_CC I_PRP do_VBP n't_RB think_VB it_PRP 's_VBZ the_DT best_JJS pizza_NN I_PRP 've_VBP ever_RB had_VBN ._.
-Their_PRP$ specialty_NN pizzas_NNS are_VBP just_RB all_DT right_NN ._.
-I_PRP think_VBP they_PRP could_MD come_VB up_RP with_IN some_DT better_JJR combinations_NNS ._.

@@ -1,5 +1,0 @@
-I_PRP ca_MD n't_RB add_VB too_RB much_JJ to_TO Bill_NNP 's_POS review_NN ,_, because_IN obviously_RB we_PRP shared_VBD the_DT same_JJ experience_NN ._.
-I_PRP really_RB really_RB loved_VBD the_DT pizza_NN ._.
-However_RB ,_, I_PRP 'm_VBP only_RB giving_VBG three_CD stars_NNS ,_, because_IN when_WRB we_PRP finally_RB did_VBD go_VB to_TO Antico_NNP to_TO eat_VB in_IN with_IN some_DT friends_NNS ,_, seating_VBG was_VBD impossible_JJ ._.
-It_PRP 's_VBZ just_RB way_RB too_RB limited_JJ ,_, and_CC I_PRP find_VBP that_DT highly_RB frustrating_JJ ._.
-A_DT place_NN with_IN the_DT style_NN of_IN cooking_NN that_IN Antico_NNP provides_VBZ ,_, should_MD really_RB have_VB dine_NN in_IN -_: other_JJ than_IN two_CD tables_NNS and_CC some_DT counters_NNS ._.

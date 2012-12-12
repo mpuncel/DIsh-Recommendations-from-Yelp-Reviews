@@ -1,2 +1,0 @@
-Best_JJS value_NN food_NN for_IN the_DT price_NN ._.
-Very_RB affordable_JJ and_CC very_RB delicious_JJ ._.

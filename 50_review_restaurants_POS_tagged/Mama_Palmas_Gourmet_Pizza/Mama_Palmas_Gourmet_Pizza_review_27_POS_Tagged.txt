@@ -1,3 +1,0 @@
-Good_JJ pizza_NN ,_, nice_JJ family_NN restaurant_NN ._.
-There_EX has_VBZ not_RB been_VBN a_DT pizza_NN I_PRP have_VBP n't_RB liked_VBN here_RB ._.
-The_DT only_JJ annoyance_NN is_VBZ that_IN its_PRP$ cash_NN only_RB ._.

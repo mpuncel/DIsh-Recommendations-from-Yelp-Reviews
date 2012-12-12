@@ -1,5 +1,0 @@
-Wait_VB staff_NN was_VBD super_JJ slow_JJ ._.
-Food_NNP was_VBD ok_RB when_WRB it_PRP got_VBD there_RB ._.
-Nothing_NN spectacular_JJ ._.
-Probably_RB the_DT largest_JJS factor_NN in_IN this_DT review_NN was_VBD the_DT fact_NN that_IN my_PRP$ friend_NN 's_POS fork_NN they_PRP set_VBD at_IN her_PRP$ place_NN smelled_VBD disgusting_NN ._.
-Imagine_VB waiting_VBG unusually_RB long_RB for_IN a_DT house_NN salad_NN ,_, finally_RB getting_VBG it_PRP and_CC going_VBG to_TO take_VB a_DT bite_NN ..._: then_RB you_PRP notice_VBP the_DT fork_NN about_IN to_TO enter_VB your_PRP$ mouth_NN smells_VBZ like_IN rotten_JJ B.O._NNP yeah_NN ..._: unpleasant_JJ

@@ -1,2 +1,0 @@
-Pretty_NNP good_JJ Italian_JJ in_IN a_DT nice_JJ setting_NN ._.
-But_CC in_IN a_DT neighborhood_NN with_IN limited_JJ options_NNS ,_, there_EX 's_VBZ actually_RB better_JJR Italian_JJ over_IN on_IN Broadway_NNP -LRB-_-LRB- Pisticci_NNP and_CC Bettalona_NNP -RRB-_-RRB- for_IN less_JJR

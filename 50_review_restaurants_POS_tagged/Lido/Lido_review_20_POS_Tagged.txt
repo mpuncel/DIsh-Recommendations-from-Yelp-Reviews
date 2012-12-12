@@ -1,4 +1,0 @@
-My_PRP$ partner_NN and_CC I_PRP love_VBP their_PRP$ brunch_NN ._.
-The_DT food_NN is_VBZ amazing_JJ and_CC the_DT prices_NNS are_VBP excellent_JJ ._.
-We_PRP 've_VBP had_VBD dinner_NN there_RB too_RB -_: a_DT bit_NN more_RBR expensive_JJ ,_, but_CC the_DT food_NN was_VBD terrific_JJ ._.
-The_DT atmosphere_NN and_CC the_DT service_NN are_VBP both_DT quite_RB good_JJ also_RB ._.

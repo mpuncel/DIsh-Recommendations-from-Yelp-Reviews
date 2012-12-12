@@ -1,8 +1,0 @@
-This_DT place_NN is_VBZ great_JJ !_.
-The_DT first_JJ thing_NN I_PRP noticed_VBD as_IN I_PRP walked_VBD into_IN Skylight_NNP Gardens_NNP was_VBD how_WRB beautiful_JJ this_DT restaurant_NN is_VBZ ._.
-The_DT décor_NN is_VBZ very_RB classic_JJ with_IN a_DT few_JJ modern_JJ accents_NNS ._.
-Everything_NN about_IN my_PRP$ meal_NN was_VBD perfect_JJ ._.
-Service_NNP was_VBD fast_RB ,_, friendly_JJ ,_, and_CC made_VBD great_JJ recommendations_NNS when_WRB I_PRP inquired_VBD ._.
-I_PRP had_VBD the_DT lasagna_NN Bolognese_NNP and_CC it_PRP was_VBD mouthwateringly_RB delicious_JJ -LRB-_-LRB- I_PRP 'm_VBP literally_RB having_VBG difficulty_NN writing_VBG about_IN it_PRP without_IN drooling_VBG -RRB-_-RRB- ._.
-Finally_RB ,_, and_CC perhaps_RB most_RBS importantly_RB ,_, the_DT beer_NN selection_NN is_VBZ AMAZING_VBG !_.
-All_DT in_IN all_DT ,_, Skylight_NNP Gardens_NNP is_VBZ a_DT great_JJ addition_NN to_TO the_DT Westwood_NNP restaurant_NN scene_NN ._.

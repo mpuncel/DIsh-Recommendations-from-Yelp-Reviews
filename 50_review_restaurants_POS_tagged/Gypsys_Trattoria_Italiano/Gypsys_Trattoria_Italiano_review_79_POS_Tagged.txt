@@ -1,8 +1,0 @@
-I_PRP love_VBP the_DT food_NN here_RB ..._: cheese_NN ravioli_NNS was_VBD YUMMY_NNP and_CC I_PRP really_RB liked_VBD the_DT cesar_NN salad_NN ._.
-Pros_NNS :_: Price_NN -LRB-_-LRB- Geared_VBN toward_IN the_DT college_NN crowd_NN -RRB-_-RRB- Location_NNP -LRB-_-LRB- Pretty_NNP central_JJ w_NN \/_VBD a_DT small_JJ parking_NN lot_NN acroos_VBZ the_DT street_NN -RRB-_-RRB- Speed_NN -LRB-_-LRB- Even_RB thought_VBD it_PRP is_VBZ busy_JJ almost_RB ALL_NNP of_IN the_DT time_NN you_PRP do_VBP n't_RB have_VB to_TO wait_VB long_JJ -RRB-_-RRB- Cons_NNS :_: Atmosphere_NNP -LRB-_-LRB- College_NNP students_NNS ,_, rushed_VBD and_CC loud_JJ -RRB-_-RRB- Cleanliness_NN -LRB-_-LRB- How_WRB clean_JJ is_VBZ this_DT place_NN ?_.
-Your_PRP$ guess_NN is_VBZ as_RB good_JJ as_IN mine_NN ._. -RRB-_-RRB-
-Service_NNP -LRB-_-LRB- NOT_NNP a_DT sit-down_JJ type_NN of_IN place_NN -RRB-_-RRB- Health-kick_NN -LRB-_-LRB- on_IN a_DT diet_NN ?_. ._. ._.
-keep_VB moving_VBG !_. -RRB-_-RRB-
-All_DT in_IN all_DT if_IN you_PRP are_VBP out_RB in_IN the_DT Berkeley_NNP area_NN and_CC feel_VB like_IN some_DT good_JJ ,_, greasy_JJ Italian_JJ food_NN you_PRP have_VBP come_VBN to_TO the_DT right_JJ place_NN ._.
-If_IN you_PRP are_VBP on_IN a_DT romantic_JJ first_JJ date_NN try_VBP Trattoria_NNP La_NNP Siciliana_NNP on_IN College_NNP Ave._NNP TIP_NN :_: Order_NNP your_PRP$ food_NN to_TO go_VB ._.
-Eat_VB somewhere_RB else_RB so_IN that_IN you_PRP can_MD enjoy_VB the_DT food_NN and_CC your_PRP$ company_NN ._.

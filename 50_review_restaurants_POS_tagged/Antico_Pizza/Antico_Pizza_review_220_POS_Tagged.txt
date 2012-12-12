@@ -1,7 +1,0 @@
-Simply_RB incredible_JJ ._.
-Any_DT pizza_NN ._.
-Just_RB awesome_JJ ._.
-I_PRP really_RB like_IN the_DT spicy_NN peppers_NNS ._.
-I_PRP think_VBP i_FW 've_VBP tried_VBN about_IN 5_CD of_IN the_DT pizzas_NNS ._.
-The_DT lasagna_NN one_CD is_VBZ great_JJ ,_, as_RB well_RB as_IN the_DT one_CD with_IN sausage_NN and_CC the_DT peppers_NNS ._.
-Just_RB go_VB and_CC try_VB it_PRP for_IN yourself_PRP ._.

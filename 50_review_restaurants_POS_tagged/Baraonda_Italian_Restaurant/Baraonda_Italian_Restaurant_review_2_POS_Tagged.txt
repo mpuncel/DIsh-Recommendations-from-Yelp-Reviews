@@ -1,4 +1,0 @@
-Light_NNP Bite_NNP after_IN the_DT show_NN at_IN the_DT Fox_NNP Theatre_NNP ._.
-Caprese_NNP Salad_NNP was_VBD excellent_JJ just_RB the_DT right_JJ amount_NN of_IN fresh_JJ basil_NN and_CC Olive_NNP Oil_NNP ._.
-Spicy_NNP Salami_NNP and_CC prosciutto_FW de_FW Parma_NNP and_CC Arugula_NNP Pizza_NNP was_VBD above_JJ average_NN ._.
-Service_NNP was_VBD great_JJ ,_, friendly_JJ and_CC entertaining_JJ !_.

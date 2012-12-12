@@ -1,3 +1,0 @@
-Buona_NNP Tavola_NNP is_VBZ my_PRP$ absolute_JJ favorite_JJ eating_NN place_NN on_IN the_DT Central_NNP Coast_NNP ._.
-The_DT food_NN is_VBZ always_RB excellent_JJ ,_, the_DT service_NN is_VBZ top_JJ notch_NN ..._: and_CC the_DT deserts_NNS -LRB-_-LRB- which_WDT I_PRP can_MD usually_RB avoid_VB when_WRB I_PRP eat_VBP out_RP -RRB-_-RRB- are_VBP to_TO die_VB for_IN ._.
-Whether_IN you_PRP are_VBP in_IN San_NNP Luis_NNP Obispo_NNP or_CC Paso_NNP Robles_NNP -LRB-_-LRB- they_PRP have_VBP two_CD locations_NNS -RRB-_-RRB- you_PRP ca_MD n't_RB go_VB wrong_JJ ._.

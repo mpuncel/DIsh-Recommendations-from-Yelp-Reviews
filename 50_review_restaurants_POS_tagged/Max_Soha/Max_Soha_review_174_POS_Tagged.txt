@@ -1,7 +1,0 @@
-I_PRP absolutely_RB loved_VBD this_DT cosy_NN ,_, little_JJ restaurant_NN !_.
-Two_CD words_NNS :_: Lobster_NNP Ravioli_NNP ._.
-Need_VBN I_PRP say_VBP more_JJR ?_.
-The_DT price_NN and_CC ambience_NN are_VBP just_RB right_RB for_IN this_DT charming_JJ little_JJ bistro_NN that_WDT accommodates_VBZ both_DT Columbia_NNP students_NNS and_CC local_JJ professionals_NNS and_CC music_NN students_NNS ._.
-The_DT wine_NN list_NN was_VBD perfectly_RB suited_VBN to_TO the_DT pasta_NN and_CC other_JJ entree_FW selections_NNS ._.
-It_PRP hosts_VBZ a_DT very_RB lively_JJ environment_NN and_CC is_VBZ well_RB worth_JJ the_DT trek_NN uptown_NN from_IN most_JJS locations_NNS ._.
-Classic_JJ Italian_JJ at_IN its_PRP$ best_JJS ._.

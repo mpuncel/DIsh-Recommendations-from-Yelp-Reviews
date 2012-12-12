@@ -1,9 +1,0 @@
-I_PRP went_VBD to_TO Amelia_NNP 's_POS on_IN a_DT recent_JJ Wednesday_NNP evening_NN with_IN a_DT couple_NN of_IN co-workers_NNS ._.
-We_PRP were_VBD all_DT traveling_VBG from_IN out_IN of_IN town_NN and_CC in_IN search_NN of_IN a_DT good_JJ meal_NN at_IN the_DT end_NN of_IN a_DT long_JJ day_NN ._.
-Amelia_NNP 's_POS was_VBD satisfying_VBG ._.
-Following_VBG our_PRP$ server_NN 's_POS suggestion_NN ,_, we_PRP ordered_VBD a_DT bottle_NN of_IN Sangiovese_NNP which_WDT was_VBD quite_RB good_JJ ,_, and_CC reasonably_RB priced_VBN by_IN restaurant_NN menu_NN standards_NNS ._.
-We_PRP each_DT ordered_VBD a_DT salad_NN and_CC entree_FW and_CC all_DT found_VBN our_PRP$ food_NN to_TO be_VB quite_RB good_JJ ._.
-The_DT total_JJ bill_NN for_IN the_DT three_CD of_IN us_PRP was_VBD $_$ 150_CD plus_CC tip_NN ._.
-The_DT service_NN was_VBD very_RB good_JJ ,_, and_CC the_DT atmosphere_NN was_VBD cozy_JJ and_CC warm_JJ ._.
-All_DT in_IN all_DT a_DT good_JJ experience_NN ._.
-Definitely_RB worth_JJ trying_VBG out_RP ._.

@@ -1,8 +1,0 @@
-I_PRP do_VBP n't_RB live_VB in_IN the_DT IE_NNP but_CC when_WRB I_PRP go_VBP out_RP to_TO visit_VB with_IN the_DT family_NN this_DT is_VBZ one_CD of_IN the_DT spots_NNS we_PRP frequent_JJ ._.
-Aruffo_NNP 's_POS Italian_JJ is_VBZ n't_RB the_DT end_NN all_DT be_VB all_DT of_IN Italian_JJ dining_NN but_CC the_DT food_NN quality_NN is_VBZ consistent_JJ and_CC the_DT service_NN is_VBZ good_JJ ._.
-Four_CD stars_NNS is_VBZ a_DT pretty_RB accurate_JJ representation_NN because_IN the_DT food_NN is_VBZ an_DT above_JJ average_JJ reflection_NN of_IN the_DT price_NN point_NN but_CC dining_VBG here_RB is_VBZ not_RB an_DT earth_NN shattering_VBG experience_NN that_WDT would_MD warrant_VB a_DT five_CD star_NN rating_NN ._.
-It_PRP 's_VBZ fairly_RB standard_JJ Italian-American_JJ fare_NN with_IN plenty_NN of_IN pasta_NN choices_NNS and_CC good_JJ grilled_JJ meats_NNS ._.
-The_DT wine_NN menu_NN is_VBZ large_JJ enough_RB that_IN it_PRP provides_VBZ some_DT good_JJ pairings_NNS and_CC the_DT espresso_NN is_VBZ a_DT great_JJ after_IN dinner_NN pick_VBP me_PRP up_RP ._.
-I_PRP always_RB bring_VBP home_NN leftovers_NNS that_IN I_PRP eagerly_RB look_VBP forward_RB to_TO scarfing_VBG down_RP for_IN lunch_NN the_DT following_JJ day_NN ._.
-The_DT one_CD appetizer_NN that_IN I_PRP would_MD highly_RB recommend_VB is_VBZ the_DT roasted_JJ elephant_NN garlic_NN ._.
-It_PRP 'll_MD make_VB your_PRP$ pee_NN stink_VB like_IN garlic_JJ for_IN two_CD days_NNS but_CC hot_JJ damn_NN it_PRP 's_VBZ worth_JJ it_PRP !_.

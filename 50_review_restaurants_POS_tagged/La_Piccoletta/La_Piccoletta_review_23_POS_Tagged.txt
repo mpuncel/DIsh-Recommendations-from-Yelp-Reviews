@@ -1,6 +1,0 @@
-Student_NN special_JJ -LRB-_-LRB- pasta_NN with_IN side_NN salad_NN -RRB-_-RRB- on_IN Thursdays_NNPS for_IN $_$ 10_CD makes_VBZ this_DT cozy_JJ nook_NN a_DT reasonable_JJ price_NN -LRB-_-LRB- otherwise_RB its_PRP$ close_NN to_TO double_VB the_DT price_NN -RRB-_-RRB- ._.
-Excellent_JJ sauces_NNS ._.
-Their_PRP$ tiramisu_NN is_VBZ yum_NN and_CC good_JJ for_IN sharing_VBG -LRB-_-LRB- $_$ 6_CD -RRB-_-RRB- !_.
-Nice_JJ place_NN to_TO take_VB a_DT date_NN ._.
-Otherwise_RB ,_, I_PRP would_MD say_VB ,_, let_VB the_DT rich_JJ old_JJ folks_NNS of_IN Claremont_NNP patronage_NN this_DT place_NN ._.
-It_PRP 's_VBZ behind_IN Some_DT Crust_NNP Bakery_NNP ._.

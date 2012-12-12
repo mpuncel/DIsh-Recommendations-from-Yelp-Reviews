@@ -1,4 +1,0 @@
-my_PRP$ grandma_NN loves_VBZ this_DT place_NN ._.
-there_EX 's_VBZ a_DT guy_NN that_WDT works_VBZ there_EX that_IN she_PRP is_VBZ completely_RB in_IN love_NN with_IN ,_, haha_NN ._.
-i_FW believe_VBP i_FW ordered_VBD the_DT margarita_NN pizza_NN -LRB-_-LRB- i_FW know_VBP there_EX 's_VBZ an_DT ``_`` H_NNP ''_'' somewhere_RB -RRB-_-RRB- &_CC it_PRP was_VBD good_JJ !_.
-the_DT service_NN was_VBD on_IN point_NN too_RB ._.

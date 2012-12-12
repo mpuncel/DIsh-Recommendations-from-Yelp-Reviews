@@ -1,4 +1,0 @@
-Meh_NNP ,_, it_PRP 's_VBZ fine_JJ ._.
-It_PRP 's_VBZ not_RB a_DT good_JJ pizza_NN really_RB ,_, I_PRP much_RB prefer_VBP Papa_NN Johns_NNP ._.
-However_RB ,_, they_PRP do_VBP have_VB the_DT coupons_NNS in_IN the_DT student_NN coupon_NN book_NN which_WDT is_VBZ nice_JJ ,_, and_CC they_PRP are_VBP always_RB happy_JJ to_TO accept_VB it_PRP ._.
-Pizza_NNP is_VBZ much_RB too_RB greasy_JJ for_IN me_PRP ._.

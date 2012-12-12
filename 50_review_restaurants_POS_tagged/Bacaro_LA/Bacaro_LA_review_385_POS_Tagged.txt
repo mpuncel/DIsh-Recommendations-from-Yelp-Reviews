@@ -1,6 +1,0 @@
-Another_DT great_JJ place_NN that_WDT is_VBZ unfortunately_RB located_VBN too_RB far_RB downtown_NN for_IN me_PRP to_TO frequent_JJ ._.
-An_DT interesting_JJ selection_NN of_IN wines_NNS and_CC really_RB good_JJ food_NN ._.
-Especially_RB if_IN you_PRP go_VBP for_IN their_PRP$ brunches_NNS -LRB-_-LRB- fried_JJ egg_NN on_IN top_NN a_DT burger_NN is_VBZ fantastic_JJ if_IN you_PRP have_VBP a_DT low_JJ cholesterol_NN -RRB-_-RRB- ._.
-It_PRP 's_VBZ a_DT super_JJ cool_NN ,_, young_JJ ,_, and_CC hip_NN place_NN to_TO check_VB out_RP ._.
-And_CC it_PRP 's_VBZ owned_VBN and_CC run_VBN by_IN a_DT young_JJ college_NN grad_NN ._.
-Not_RB too_RB shabby_JJ ._.

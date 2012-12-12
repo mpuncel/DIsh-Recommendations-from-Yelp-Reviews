@@ -1,5 +1,0 @@
-Service_NNP was_VBD good_JJ ,_, but_CC the_DT food_NN was_VBD mediocre_JJ ._.
-It_PRP just_RB was_VBD n't_RB that_DT good_JJ and_CC it_PRP 's_VBZ not_RB cheap_JJ ,_, either_RB ._.
-I_PRP would_MD definitely_RB recommend_VB getting_VBG the_DT half_NN portions_NNS of_IN pasta_NN ._.
-Wait_VB ,_, I_PRP take_VBP that_DT back_RB --_: if_IN you_PRP want_VBP pasta_NN do_VBP n't_RB go_VB here_RB !_.
-I_PRP have_VBP n't_RB found_VBN an_DT Italian_JJ restaurant_NN I_PRP really_RB like_IN in_IN Atlanta_NNP yet_RB ,_, but_CC I_PRP 'd_MD love_VB to_TO hear_VB about_IN a_DT good_JJ one_CD !_.

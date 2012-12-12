@@ -1,5 +1,0 @@
-Great_NNP bread_NN ._.
-I_PRP 've_VBP not_RB had_VBN their_PRP$ food_NN but_CC it_PRP looked_VBD good_JJ ._.
-I_PRP got_VBD every_DT single_JJ pastry_NN there_RB and_CC some_DT chocolate_NN ._.
-They_PRP were_VBD all_DT amazing_JJ an_DT they_PRP had_VBD great_JJ coffee_NN ._.
-Great_NNP pastries_NNS ._.

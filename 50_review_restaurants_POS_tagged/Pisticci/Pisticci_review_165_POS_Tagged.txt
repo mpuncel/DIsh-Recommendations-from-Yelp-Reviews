@@ -1,5 +1,0 @@
-Pisticci_NNP is_VBZ a_DT charming_JJ Italian_JJ restaurant_NN just_RB north_RB of_IN Columbia_NNP ._.
-A_DT little_JJ cuter_NN and_CC brighter_NN than_IN Max_NNP Soha_NNP ._.
-The_DT food_NN is_VBZ quality_NN and_CC the_DT prices_NNS are_VBP reasonable_JJ ._.
-Probably_RB a_DT good_JJ place_NN for_IN students_NNS to_TO bring_VB their_PRP$ parents_NNS ._.
-I_PRP think_VBP the_DT best_JJS Italian_JJ in_IN Morningside_NNP is_VBZ Voza_NNP though_IN ._.

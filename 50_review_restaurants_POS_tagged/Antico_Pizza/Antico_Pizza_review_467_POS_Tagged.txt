@@ -1,1 +1,0 @@
-Awesome_JJ pizza_NN had_VBD 2_CD pizzas_NNS and_CC beer_NN ..._: delic_JJ ..._: probably_RB the_DT best_JJS pizza_NN in_IN Atl_NNP

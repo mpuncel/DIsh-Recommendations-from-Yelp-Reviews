@@ -1,4 +1,0 @@
-I_PRP mean_VBP ..._: it_PRP is_VBZ what_WP it_PRP is_VBZ ._.
-Of_IN course_NN there_EX is_VBZ far_RB greater_JJR Italian_JJ food_NN to_TO be_VB had_VBN in_IN LA_NNP ,_, this_DT is_VBZ an_DT if-you_JJ 're_VBP -_: in-the-neighborhood-and-NEED_SYM -_: food-pronto_JJ kind_NN of_IN spot_NN ._.
-It_PRP does_VBZ a_DT little_RB better_JJR than_IN it_PRP needs_VBZ to_TO to_TO maintain_VB a_DT steady_JJ stream_NN of_IN customers_NNS in_IN USC_NNP 's_POS dining_NN wasteland_NN -LRB-_-LRB- though_IN the_DT neighborhood_NN is_VBZ close_JJ to_TO turning_VBG the_DT corner_NN on_IN this_DT -RRB-_-RRB- ,_, but_CC not_RB much_RB ._.
-It_PRP was_VBD BIStango_NNP when_WRB I_PRP was_VBD a_DT student_NN ._.

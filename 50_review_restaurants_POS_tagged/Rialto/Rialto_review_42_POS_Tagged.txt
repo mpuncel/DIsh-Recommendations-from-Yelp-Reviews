@@ -1,4 +1,0 @@
-Went_VBD here_RB last_JJ Monday_NNP for_IN Restaurant_NNP Week_NNP with_IN five_CD friends_NNS ._.
-We_PRP all_DT loved_VBD it_PRP !_.
-Our_PRP$ meals_NNS were_VBD delicious_JJ ._.
-Our_PRP$ waiter_NN was_VBD awesome_JJ ._.

@@ -1,4 +1,0 @@
-Good_JJ italian_JJ food_NN ._.
-Love_NNP the_DT gnocchi_NNS ._.
-Do_VBP n't_RB love_VB the_DT fact_NN that_IN it_PRP 's_VBZ cash_NN only_RB ,_, and_CC the_DT staff_NN could_MD be_VB more_RBR friendly\/helpful_JJ ,_, though_IN this_DT is_VBZ variable_JJ ._.
-The_DT venue_NN is_VBZ small_JJ ,_, but_CC it_PRP can_MD be_VB nice_JJ to_TO sit_VB outside_IN if_IN the_DT weather_NN is_VBZ good_JJ ._.

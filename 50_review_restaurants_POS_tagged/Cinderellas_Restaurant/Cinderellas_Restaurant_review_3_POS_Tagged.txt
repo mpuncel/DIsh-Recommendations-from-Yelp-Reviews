@@ -1,3 +1,0 @@
-For_IN a_DT calzone_NN ,_, sure_JJ ._.
-The_DT meat_NN lasagna_NN ?_.
-Not_RB recommended_VBN ,_, unless_IN you_PRP like_IN your_PRP$ meat_NN of_IN the_DT gray_JJ variety_NN ._.

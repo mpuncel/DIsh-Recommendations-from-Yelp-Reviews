@@ -1,5 +1,0 @@
-Cheap_JJ ,_, pretty_RB fast_RB ,_, and_CC good_JJ pizza_NN ._.
-Lots_NNS of_IN flavors_NNS available_JJ for_IN those_DT of_IN you_PRP that_IN eat_VBP cheese_NN ._.
-They_PRP always_RB have_VBP a_DT good_JJ VEGAN_NNP ,_, CHEESE-LESS_NNP tomato_NN pie_NN available_JJ ,_, and_CC I_PRP always_RB add_VBP broccoli_NNS ._.
-Best_JJS place_NN to_TO grab_VB a_DT beer_NN to_TO go_VB in_IN UPenn_NNP area_NN ._.
-I_PRP also_RB got_VBD a_DT delivery_NN for_IN a_DT party_NN and_CC they_PRP were_VBD prompt_JJ ._.

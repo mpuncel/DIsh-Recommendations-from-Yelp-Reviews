@@ -1,4 +1,0 @@
-The_DT place_NN is_VBZ decent_JJ but_CC not_RB the_DT best_JJS Italian_JJ in_IN the_DT village_NN ._.
-The_DT risotto_NN was_VBD disappointing_JJ and_CC too_RB dry_JJ ._.
-The_DT pasta_NN was_VBD fine_JJ though_IN ._.
-Ehh_NNP overall_NN was_VBD okay_JJ but_CC I_PRP will_MD probably_RB head_VB to_TO the_DT other_JJ Italian_JJ alternatives_NNS in_IN the_DT area_NN ._.

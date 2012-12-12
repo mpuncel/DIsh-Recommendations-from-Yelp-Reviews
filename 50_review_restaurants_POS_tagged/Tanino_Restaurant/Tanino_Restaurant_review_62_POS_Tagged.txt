@@ -1,4 +1,0 @@
-Great_NNP spot_NN ._.
-Pricey_JJ and_CC swanky_JJ and_CC romantic_JJ I_PRP suppose_VBP ._.
-I_PRP was_VBD there_RB with_IN friends_NNS ._.
-Rich_NNP friends_NNS who_WP refused_VBD to_TO let_VB me_PRP pay_VB ,_, but_CC the_DT food_NN and_CC service_NN was_VBD great_JJ ._.

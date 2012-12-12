@@ -1,7 +1,0 @@
-We_PRP had_VBD a_DT wonderful_JJ lunch_NN there_EX today_NN ._.
-Gratzi_NNP is_VBZ our_PRP$ favorite_JJ restaurant_NN in_IN Ann_NNP Arbor_NNP !_.
-The_DT food_NN is_VBZ always_RB delicious_JJ and_CC reasonably_RB priced_VBN considering_VBG this_DT is_VBZ a_DT fine_JJ restaurant_NN ._.
-The_DT atmosphere_NN is_VBZ charming_JJ ._.
-As_IN always_RB ,_, our_PRP$ server_NN does_VBZ an_DT excellent_JJ job_NN ._.
-Our_PRP$ waitress_NN today_NN was_VBD Kelly_NNP who_WP was_VBD friendly_JJ ,_, efficient_JJ and_CC a_DT delight_NN to_TO talk_VB with_IN ._.
-We_PRP plan_VBP to_TO return_VB very_RB soon_RB ._.

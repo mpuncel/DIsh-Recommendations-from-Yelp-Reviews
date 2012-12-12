@@ -1,8 +1,0 @@
-Yelp_NNP does_VBZ not_RB have_VB a_DT link_NN for_IN their_PRP$ new_JJ place_NN on_IN whiteoak_NN ._.
-This_DT is_VBZ for_IN the_DT new_JJ whiteoak_NN location_NN ._.
-Wow_UH these_DT folks_NNS know_VBP what_WP they_PRP are_VBP doing_VBG and_CC doing_VBG it_PRP well_RB ._.
-Servers_NNS were_VBD good_JJ and_CC fast_RB ._.
-Food_NNP was_VBD great_JJ ,_, looks_VBZ ,_, taste_NN ,_, portions_NNS and_CC selections_NNS ._.
-Wow_UH an_DT Italian_JJ place_NN with_IN Italian_JJ beer_NN on_IN draft_NN ,_, Italian_JJ vinos_NNS ,_, sodas_NNS ._.
-Maybe_RB other_JJ restaurant_NN owners_NNS should_MD stop_VB in_IN and_CC see_VB how_WRB it_PRP is_VBZ done_VBN ?_.
-YES_NNP go_VB eat_VB at_IN D'Amico_NNP 's_POS you_PRP will_MD get_VB your_PRP$ money_NN 's_POS worth_NN and_CC enjoy_VB your_PRP$ time_NN there_RB ._.

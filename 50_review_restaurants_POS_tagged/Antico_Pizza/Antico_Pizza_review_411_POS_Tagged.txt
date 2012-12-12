@@ -1,4 +1,0 @@
-It_PRP 's_VBZ SO_RB GOOD_JJ !!_NN Words_NNS to_TO not_RB describe_VB !_.
-And_CC such_PDT a_DT fun_NN atmosphere_NN !_.
-Just_RB go_VB and_CC see_VB for_IN yourself_PRP ._.
-But_CC do_VBP n't_RB forget_VB to_TO bring_VB your_PRP$ patience_NN -LRB-_-LRB- on_IN finding_VBG a_DT table_NN ,_, the_DT pizza_NN is_VBZ ready_JJ in_IN minutes_NNS -RRB-_-RRB- and_CC alcohol_NN !_.

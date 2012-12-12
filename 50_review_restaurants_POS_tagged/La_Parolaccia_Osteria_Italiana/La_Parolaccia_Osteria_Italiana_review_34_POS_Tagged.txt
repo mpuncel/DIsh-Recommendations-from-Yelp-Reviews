@@ -1,8 +1,0 @@
-ok_NN ._. ._.
-really_RB ?_.
-Read_VB the_DT menu_NN out_IN front_NN while_IN looking_VBG this_DT place_NN up_RB on_IN Yelp_NNP ._.
-The_DT spread_NN for_IN the_DT bread_NN was_VBD worth_JJ 5_CD stars_NNS alone_RB ,_, then_RB our_PRP$ dinner_NN was_VBD served_VBN ._.
-The_DT sauce_NN is_VBZ homemade_NN for_IN sure_JJ ,_, the_DT pasta_NN was_VBD cooked_VBN to_TO perfection_NN ,_, the_DT cheese_NN was_VBD generous_JJ ..._: heck_NN a_DT glass_NN of_IN wine_NN was_VBD only_RB 7_CD bucks_NNS ._.
-So_IN the_DT food_NN was_VBD great_JJ ,_, the_DT 5_CD stars_NNS comes_VBZ from_IN the_DT service_NN being_VBG just_RB as_RB good_JJ ._.
-Our_PRP$ server_NN was_VBD a_DT tall_JJ blonde_JJ young_JJ lady_NN ,_, she_PRP was_VBD friendly_JJ and_CC knew_VBD the_DT menu_NN well_RB ,_, our_PRP$ drinks_NNS were_VBD refilled_VBN quickly_RB and_CC the_DT place_NN was_VBD super_JJ busy_JJ !_.
-Good_JJ stuff_NN ._.

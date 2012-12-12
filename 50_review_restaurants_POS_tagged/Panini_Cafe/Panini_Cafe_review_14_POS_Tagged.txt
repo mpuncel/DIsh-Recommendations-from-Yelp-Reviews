@@ -1,4 +1,0 @@
-Great_NNP deal_NN ._.
-Huge_JJ portions_NNS ._.
-Great_JJ service_NN ._.
-Oh_UH yeah_NN ,_, get_VB the_DT chicken_NN kabob_NN ._.

@@ -1,3 +1,0 @@
-I_PRP like_VBP this_DT place_NN because_IN parking_NN is_VBZ easy_JJ ,_, the_DT food_NN is_VBZ high_JJ quality_NN but_CC not_RB too_RB expensive_JJ ,_, and_CC the_DT food_NN came_VBD about_IN 10_CD minutes_NNS after_IN I_PRP ordered_VBD it_PRP ._.
-It_PRP is_VBZ a_DT quaint_NN little_JJ place_NN too_RB with_IN a_DT little_JJ style_NN and_CC it_PRP is_VBZ cool_JJ how_WRB the_DT guys_NNS there_EX are_VBP speaking_VBG with_IN an_DT Italian_JJ accents_NNS ._.
-l_NN 'll_MD definitely_RB go_VB there_RB again_RB ._.

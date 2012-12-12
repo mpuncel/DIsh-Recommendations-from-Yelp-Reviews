@@ -1,6 +1,0 @@
-I_PRP went_VBD here_RB with_IN a_DT group_NN of_IN friends_NNS for_IN my_PRP$ birthday_NN ._.
-A_DT cozy_JJ little_JJ Italian_JJ place_NN on_IN Franklin_NNP Street_NNP ._.
-The_DT food_NN was_VBD solid_JJ ,_, the_DT wine_NN was_VBD good_JJ ,_, the_DT service_NN was_VBD friendly_JJ yet_RB unobtrusive_JJ ._.
-I_PRP would_MD definitely_RB eat_VB here_RB again_RB ._.
-For_IN my_PRP$ dessert_NN ,_, because_IN it_PRP was_VBD my_PRP$ birthday_NN ,_, they_PRP added_VBD a_DT slab_NN of_IN white_JJ chocolate_NN -LRB-_-LRB- with_IN ``_`` Happy_JJ Birthday_NN ''_'' written_VBN on_IN it_PRP in_IN dark_JJ chocolate_NN -RRB-_-RRB- to_TO my_PRP$ Tiramisu_NNP ._.
-A_DT nice_JJ touch_NN ._.

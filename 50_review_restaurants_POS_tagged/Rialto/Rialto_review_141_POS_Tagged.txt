@@ -1,9 +1,0 @@
-A_DT cool_JJ new_JJ italian_JJ dining_NN experience_NN ._.
-Jody_NNP 's_POS take_NN on_IN italian_NN is_VBZ interesting_JJ and_CC refreshing_JJ ._.
-She_PRP has_VBZ a_DT contemporary_JJ spin_NN on_IN the_DT classics_NNS ._.
-the_DT eggplant_NN parmigiana_NN is_VBZ light_JJ and_CC filling_VBG at_IN the_DT same_JJ time_NN baked_JJ not_RB fried_VBN ._.
-flu_NN of_IN complex_JJ flavors_NNS ._.
-the_DT Grilled_NNP little_JJ necks_NNS are_VBP a_DT nice_JJ starter_JJ joined_VBN with_IN the_DT kielbasa_NN ._.
-The_DT lobster_NN bucatini_NNS and_CC the_DT goat_NN cheese_NN raviolis_NNS are_VBP maybe_RB the_DT dish_NN of_IN the_DT night_NN !_.
-Save_NNP room_NN for_IN dessert_NN ._.
-the_DT wait_NN staff_NN was_VBD attentive_JJ and_CC went_VBD out_IN of_IN there_EX way_NN to_TO help_VB make_VB our_PRP$ anniversary_NN special_JJ ._.

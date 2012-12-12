@@ -1,2 +1,0 @@
-$_$ 2_CD pizza_NN rossa_NN in_IN America_NNP ,_, but_CC it_PRP tastes_VBZ like_IN shitty_JJ monsanto_JJ American_JJ agribusiness_NN tomatoes_NNS ,_, but_CC they_PRP have_VBP Leffe_NNP ._.
-Given_VBN that_IN they_PRP are_VBP making_VBG huge_JJ American_JJ pizza_NN and_CC reheating_VBG it_PRP to_TO order_NN ,_, they_PRP do_VBP it_PRP pretty_RB well_RB ,_, but_CC the_DT ingredients_NNS are_VBP not_RB very_RB high_JJ quality_NN ._.

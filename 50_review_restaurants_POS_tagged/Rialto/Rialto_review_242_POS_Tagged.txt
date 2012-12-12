@@ -1,4 +1,0 @@
-Scale_NNP 1_CD =_SYM poor_JJ ,_, 5_CD =_SYM outstanding_JJ CUSTOMER_NN SERVICE_NN :_: 4_CD --_: this_DT place_NN ca_MD n't_RB help_VB but_CC come_VB off_RP snooty_JJ -_: it_PRP 's_VBZ located_VBN in_IN the_DT ``_`` so_RB expensive_JJ it_PRP 's_VBZ tacky_JJ ''_'' charles_NNS hotel_NN ._.
-FOOD_NN :_: 4_LS ._.
-I_PRP 've_VBP had_VBD a_DT 5_CD meal_NN here_RB and_CC a_DT 3_CD meal_NN ._.
-AMBIANCE_NNP :_: 4_CD --_: definitely_RB upscale_JJ and_CC sort_NN of_IN prim\/proper_NN VALUE_NNP :_: 3_LS -_: super_JJ pricey_JJ and_CC not_RB always_RB worth_IN it_PRP ._.

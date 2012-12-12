@@ -1,4 +1,0 @@
-This_DT place_NN is_VBZ still_RB awesome_JJ ._.
-Have_NNP tried_VBD a_DT few_JJ other_JJ dishes_NNS and_CC they_PRP are_VBP all_DT good_JJ ._.
-I_PRP am_VBP so_RB impressed_JJ with_IN the_DT quality_NN of_IN the_DT food_NN and_CC the_DT atmosphere_NN for_IN the_DT price_NN ._.
-They_PRP 're_VBP business_NN model_NN rocks_NNS and_CC they_PRP 're_VBP so_RB nice_JJ too_RB !_.

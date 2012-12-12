@@ -1,5 +1,0 @@
-1_LS -RRB-_-RRB- awesome_JJ ambiance_NN ,_, great_JJ musical_JJ taste_NN ,_, cozy_JJ 2_CD -RRB-_-RRB- walking_VBG distance_NN from_IN USC_NNP 3_CD -RRB-_-RRB- GREAT_JJ FOOD_NN This_DT is_VBZ the_DT kind_NN of_IN place_NN I_PRP was_VBD hoping_VBG to_TO find_VB near_IN campus_NN -_: student-budget_NN friendly_JJ ,_, hip_NN ,_, fun_NN ,_, and_CC delicious_JJ ._.
-The_DT crostini_NNS are_VBP incredibly_RB tasty_JJ ,_, especially_RB the_DT belgian_JJ endive_JJ marmalade_NN one_CD ._.
-Their_PRP$ pizzas_NNS are_VBP delicious_JJ ,_, and_CC when_WRB I_PRP went_VBD there_EX was_VBD a_DT special_JJ mussel_NN dish_NN that_WDT was_VBD freaking_VBG incredible_JJ ._.
-My_PRP$ boyfriend_NN and_CC I_PRP are_VBP n't_RB huge_JJ eaters_NNS ,_, and_CC with_IN three_CD dishes_NNS and_CC some_DT baguette_NN we_PRP left_VBD ,_, not_RB stuffed_VBD ,_, but_CC totally_RB satisfied_JJ ._.
-and_CC the_DT bill_NN was_VBD under_IN $_$ 30_CD !!_NN be_VB warned_VBN ,_, on_IN the_DT weekends_NNS it_PRP can_MD get_VB crowded_VBN and_CC its_PRP$ SMALL_NNP !_.

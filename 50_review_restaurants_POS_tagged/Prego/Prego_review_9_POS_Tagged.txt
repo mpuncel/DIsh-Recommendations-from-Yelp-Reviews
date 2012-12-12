@@ -1,7 +1,0 @@
-Excellent_JJ service_NN ._.
-Great_NNP locals_NNS restaurant_NN ._.
-Consistently_RB good_JJ food_NN ._.
-A_DT good_JJ place_NN for_IN a_DT special_JJ occasion_NN ._.
-Have_NNP had_VBD a_DT bridal_JJ shower_VBP ,_, a_DT tea_NN and_CC many_JJ anniversary_NN dinners_NNS ._.
-They_PRP have_VBP planned_VBN special_JJ menus_NNS with_IN wine_NN pairings_NNS ._.
-Never_RB disappointed_VBN ._.

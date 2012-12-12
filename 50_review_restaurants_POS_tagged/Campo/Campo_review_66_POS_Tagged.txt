@@ -1,4 +1,0 @@
-Like_IN the_DT $_$ 10_CD 3-course_JJ lunch_NN ._.
-Came_NNP here_RB as_IN tourist_NN ,_, still_RB on_IN west_NN coast_NN time_NN ,_, not_RB very_RB hungry_JJ ._.
-This_DT makes_VBZ it_PRP very_RB easy_JJ to_TO share_VB ._.
-Even_RB with_IN dessert_NN ._.

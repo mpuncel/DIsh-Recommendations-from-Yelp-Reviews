@@ -1,1 +1,0 @@
-Good_JJ coffee_NN ,_, great_JJ service_NN ,_, friendly_JJ atmosphere_NN ,_, AMAZING_NNP desserts_VBZ !!_NN

@@ -1,4 +1,0 @@
-Yummy_NNP dishes_NNS :_: carbonara_NN spaghetti_NNS and_CC meatball_NN sandwich_NN served_VBD with_IN pride_NN of_IN ownership_NN ._.
-Definitely_RB a_DT nice_JJ contrast_NN to_TO the_DT multitude_NN of_IN anonymous_JJ chain_NN fast-food_NN eateries_NNS in_IN Westwood_NNP ._.
-Prices_NNS are_VBP very_RB reasonable_JJ too_RB for_IN the_DT quality_NN of_IN food_NN ._.
-Go_VB early_RB to_TO get_VB a_DT seat_NN at_IN lunch_NN time_NN !_.

@@ -1,3 +1,0 @@
-The_DT pastas_NNS and_CC pizzas_NNS are_VBP very_RB good_JJ ._.
-Atmosphere_NN is_VBZ good_JJ ,_, service_NN can_MD be_VB spotty_JJ when_WRB they_PRP are_VBP busy_JJ ._.
-I_PRP got_VBD the_DT rissotto_JJ dish_NN once_RB and_CC it_PRP was_VBD terrible_JJ -_: other_JJ than_IN that_DT ,_, the_DT food_NN has_VBZ been_VBN fine_JJ ._.

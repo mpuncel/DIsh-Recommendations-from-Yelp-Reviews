@@ -1,3 +1,0 @@
-As_IN everyone_NN has_VBZ said_VBN ,_, the_DT pizza_NN is_VBZ fantastic_JJ ._.
-The_DT most_RBS authentic_JJ and_CC delicious_JJ Italian_JJ style_NN pizza_NN I_PRP 've_VBP had_VBN in_IN Atlanta_NNP ._.
-Simply_RB delicious_JJ ,_, everything_NN fresh_JJ ,_, and_CC amazing_JJ pistachio_NN cannoli_NNS for_IN dessert_NN ._.

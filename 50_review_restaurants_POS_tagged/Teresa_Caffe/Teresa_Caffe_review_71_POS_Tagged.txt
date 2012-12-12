@@ -1,6 +1,0 @@
-My_PRP$ extended_JJ family_NN visits_NNS Princeton_NNP once_IN a_DT year_NN and_CC a_DT huge_JJ family_NN dinner_NN at_IN Teresa_NNP 's_POS is_VBZ always_RB a_DT must_MD !_.
-Fantastic_JJ food_NN ,_, decent_JJ prices_NNS ,_, great_JJ wines_NNS and_CC a_DT cozy_JJ setup_NN ._.
-Their_PRP$ conchiglie_NN balsamico_NN is_VBZ my_PRP$ absolute_JJ favorite_JJ dish_NN -_: pasta_NN with_IN chicken_NN and_CC asparagus_NN in_IN a_DT creamy_JJ balsamic_JJ sauce_NN ._.
-Another_DT standout_NN is_VBZ the_DT gramigna_NN -LRB-_-LRB- pasta_NN with_IN lamb_NN -RRB-_-RRB- ._.
-For_IN dessert_NN ,_, order_NN the_DT nutella_NN pizza_NN with_IN strawberries_NNS ,_, I_PRP 'm_VBP drooling_VBG thinking_VBG about_IN it_PRP right_RB now_RB ._.
-Their_PRP$ entree_FW pizzas_FW are_VBP also_RB great_JJ for_IN sharing_VBG as_IN an_DT appetizer_NN !_.

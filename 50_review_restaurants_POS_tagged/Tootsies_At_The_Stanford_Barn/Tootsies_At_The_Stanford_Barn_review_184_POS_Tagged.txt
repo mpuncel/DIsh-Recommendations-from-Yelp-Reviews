@@ -1,6 +1,0 @@
-Thanks_NNS to_TO yelp_VB I_PRP have_VBP found_VBN this_DT hidden_JJ place_NN where_WRB is_VBZ surrounded_VBN by_IN a_DT beautiful_JJ lavender_NN garden_NN ._.
-I_PRP went_VBD there_RB on_IN Saturday_NNP for_IN brunch_NN ,_, and_CC it_PRP was_VBD really_RB full_JJ ._.
-Fortunately_RB ,_, I_PRP was_VBD able_JJ to_TO find_VB a_DT seat_NN ._.
-The_DT cappuccino_NN and_CC the_DT dish_NN I_PRP had_VBD was_VBD great_JJ Even_JJ tough_JJ it_PRP took_VBD them_PRP a_DT little_JJ bit_NN longer_RBR to_TO prepare_VB my_PRP$ food_NN ,_, I_PRP still_RB enjoy_VBP having_VBG brunch_NN there_RB ._.
-I_PRP had_VBD a_DT good_JJ time_NN ,_, and_CC I_PRP will_MD return_VB there_RB for_IN more_JJR ._.
-73\/100_CD

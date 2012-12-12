@@ -1,6 +1,0 @@
-It_PRP 's_VBZ like_IN Chipotle_NNP ,_, only_RB for_IN pizzas_NNS !_.
-Fully_RB customizable_JJ and_CC the_DT toppings_NNS are_VBP very_RB fresh_JJ ._.
-Nice_JJ crunch_NN to_TO the_DT crust_NN and_CC gotta_NN love_NN that_WDT aroma_NN from_IN the_DT woodfire_NN ._.
-The_DT base_NN Margherita_NNP pizza_NN is_VBZ delicious_JJ by_IN itself_PRP but_CC when_WRB you_PRP start_VBP to_TO add_VB your_PRP$ own_JJ toppings_NNS to_TO it_PRP ,_, it_PRP surely_RB takes_VBZ it_PRP up_RP a_DT notch_NN ._.
-And_CC if_IN it_PRP does_VBZ n't_RB taste_VB good_JJ ,_, it_PRP 's_VBZ probably_RB because_IN you_PRP got_VBD too_RB adventurous_JJ and_CC effed_VBD up_RP the_DT pizza_NN by_IN mixing_VBG things_NNS that_WDT should_MD n't_RB have_VB been_VBN mixed_VBN in_IN the_DT first_JJ place_NN ._.
-Definitely_RB the_DT best_JJS pizza_NN in_IN Westwood_NNP ._.

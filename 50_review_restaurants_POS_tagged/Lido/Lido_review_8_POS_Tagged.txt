@@ -1,5 +1,0 @@
-The_DT atmosphere_NN outweighs_VBZ the_DT food_NN slightly_RB ._.
-Friendly_RB service_NN abounds_VBZ as_RB well_RB ._.
-The_DT food_NN is_VBZ standard_JJ with_IN a_DT few_JJ lifts_NNS in_IN flavor_NN ._.
-I_PRP would_MD highly_RB recommend_VB the_DT pineapple_NN upside_RB down_RB cake_NN ._.
-The_DT price_NN point_NN is_VBZ a_DT little_JJ hight_NN to_TO make_VB this_DT place_NN a_DT regular_JJ spot_NN ._.

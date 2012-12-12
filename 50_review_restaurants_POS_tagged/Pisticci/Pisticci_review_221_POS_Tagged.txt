@@ -1,5 +1,0 @@
-A_DT friend_NN in_IN the_DT neighborhood_NN took_VBD me_PRP here_RB ,_, and_CC after_IN an_DT outstanding_JJ lunch_NN of_IN Fig_NNP Salad_NNP finished_VBD with_IN raspberry_NN sorbet_NN ,_, I_PRP brought_VBD five_CD others_NNS here_RB the_DT very_RB next_JJ day_NN ._.
-The_DT decor_NN and_CC atmosphere_NN is_VBZ welcoming_VBG ,_, warm_JJ and_CC comfortable_JJ ._.
-The_DT service_NN is_VBZ attentive_JJ and_CC the_DT food_NN delicious_JJ ._.
-I_PRP had_VBD Sea_NNP Bass_NNP on_IN the_DT second_JJ day_NN ,_, and_CC it_PRP was_VBD tasty_JJ ._.
-Next_JJ time_NN I_PRP 'm_VBP at_IN a_DT meeting_NN near_IN Columbia_NNP University_NNP ,_, I_PRP 'll_MD make_VB an_DT effort_NN to_TO stop_VB by_IN for_IN lunch_NN ._.

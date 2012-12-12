@@ -1,7 +1,0 @@
-The_DT food_NN outkicks_VBZ the_DT coverage_NN at_IN Amelia_NNP 's_POS ._.
-It_PRP 's_VBZ nice_JJ that_IN it_PRP has_VBZ only_RB a_DT limited_JJ number_NN of_IN tables_NNS ,_, and_CC you_PRP can_MD call_VB the_DT place_NN quaint_NN ._.
-But_CC really_RB its_PRP$ the_DT menu_NN that_WDT looks_VBZ simple_JJ ,_, and_CC is_VBZ ,_, that_IN delivers_VBZ the_DT goods_NNS ._.
-I_PRP guess_VBP i_FW 'm_VBP knocking_VBG off_RP a_DT few_JJ stars_NNS because_IN the_DT wine_NN list_NN was_VBD unimpressive_JJ and_CC the_DT vibe_NN felt_VBD painted_VBN on_IN the_DT walls_NNS ._.
-Our_PRP$ service_NN was_VBD good_JJ ._.
-I_PRP just_RB ca_MD n't_RB think_VB of_IN why_WRB I_PRP would_MD want_VB to_TO come_VB back_RB -_: its_PRP$ across_IN the_DT street_NN from_IN a_DT parking_NN garage_NN ._.
-If_IN this_DT place_NN were_VBD a_DT few_JJ blocks_NNS over_IN on_IN Mass_NNP it_PRP would_MD benefit_VB from_IN more_JJR pleasing_NN surroundings_NNS ._.

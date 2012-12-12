@@ -1,6 +1,0 @@
-Teresa_NNP 's_POS Cafe_NNP Italiano_NNP is_VBZ a_DT great_JJ place_NN to_TO take_VB family_NN or_CC friends_NNS when_WRB they_PRP are_VBP in_IN town_NN ._.
-It_PRP 's_VBZ a_DT cute_JJ little_JJ Italian_JJ restaurant_NN with_IN an_DT ambiance_NN suitable_JJ for_IN either_DT casual_JJ meals_NNS or_CC dates_NNS ._.
-The_DT food_NN alone_RB makes_VBZ Teresa_NNP 's_POS worthwhile_JJ ,_, and_CC the_DT prices_NNS are_VBP reasonable_JJ ._.
-Everything_NN seems_VBZ to_TO be_VB made_VBN with_IN fresh_JJ ,_, quality_NN ingredients_NNS ._.
-I_PRP 'd_MD definitely_RB recommend_VB a_DT Pizza_NNP --_: but_CC everything_NN our_PRP$ group_NN ate_VBD at_IN a_DT recent_JJ dinner_NN was_VBD good_JJ ._.
-The_DT restaurant_NN was_VBD very_RB busy_JJ the_DT night_NN we_PRP went_VBD so_RB the_DT wait_NN time_NN was_VBD a_DT bit_NN long_RB ,_, but_CC in_IN the_DT end_NN ,_, it_PRP was_VBD definitely_RB worth_JJ our_PRP$ wait_NN ._.

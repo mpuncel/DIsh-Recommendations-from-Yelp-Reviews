@@ -1,6 +1,0 @@
-It_PRP 's_VBZ not_RB the_DT best_JJS pizza_NN in_IN the_DT world_NN ,_, but_CC at_IN least_JJS it_PRP 's_VBZ floppy_JJ and_CC you_PRP can_MD fold_VB it_PRP ._.
-I_PRP do_VBP not_RB like_VB burnt_JJ pizza_NN ._.
-I_PRP like_VBP mine_JJ barely_RB cooked_VBN ._.
-This_DT is_VBZ kind_NN of_IN the_DT quality_NN you_PRP get_VBP at_IN Allegro_NNP ._.
-They_PRP 've_VBP got_VBN mini_JJ strombolis_NNS here_RB that_WDT are_VBP pretty_RB good_JJ too_RB ._.
-I_PRP have_VBP fond_JJ memories_NNS of_IN Allegro_NNP ,_, I_PRP did_VBD n't_RB go_VB to_TO Penn_NNP -LRB-_-LRB- or_CC college_NN around_IN here_RB even_RB -RRB-_-RRB- but_CC WXPN_NNP used_VBD to_TO be_VB right_JJ across_IN the_DT street_NN ,_, and_CC I_PRP used_VBD to_TO volunteer_VB there_RB and_CC get_VB pizza_NN before_IN or_CC afterwords_NNS ._.

@@ -1,9 +1,0 @@
-First_NNP off_RB ,_, this_DT location_NN is_VBZ prime_JJ ._.
-It_PRP is_VBZ in_IN a_DT little_JJ cabin_NN that_WDT sits_VBZ in_IN close_JJ proximity_NN to_TO the_DT UT_NNP campus_NN ._.
-I_PRP went_VBD for_IN the_DT All_NNP You_PRP Can_MD Eat_VB Mussels_NNP on_IN a_DT Tuesday_NNP night_NN ._.
-This_DT was_VBD an_DT amazing_JJ deal_NN for_IN $_$ 12_CD ,_, but_CC the_DT mussels_NNS were_VBD pretty_RB good_JJ at_IN best_JJS ._.
-I_PRP had_VBD three_CD large_JJ bowls_VBZ with_IN the_DT spicy_NN marinara_NN sauce_NN ,_, and_CC my_PRP$ friend_NN had_VBD two_CD orders_NNS with_IN the_DT white_JJ wine_NN sauce_NN ._.
-He_PRP preferred_VBD his_PRP$ ,_, I_PRP preferred_VBD mine_NN ._.
-The_DT white_JJ bean_NN spread_NN that_WDT accompanies_VBZ the_DT bread_NN is_VBZ excellent_JJ with_IN a_DT delightful_JJ grittiness_NN that_WDT hides_VBZ behind_IN the_DT smooth_JJ puree_NN ._.
-Would_MD recommend_VB this_DT if_IN you_PRP are_VBP craving_NN some_DT excellent_JJ ,_, cheap_JJ Italian-style_JJ seafood_NN ._.
-I_PRP will_MD need_VB to_TO go_VB back_RB to_TO try_VB their_PRP$ other_JJ dishes_NNS ._.

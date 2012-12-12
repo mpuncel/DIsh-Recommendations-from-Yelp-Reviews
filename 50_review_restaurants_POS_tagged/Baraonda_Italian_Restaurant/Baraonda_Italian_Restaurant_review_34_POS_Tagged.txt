@@ -1,8 +1,0 @@
-Great_NNP spot_NN for_IN lunch_NN ._.
-The_DT waiter_NN was_VBD friendly_JJ and_CC knowledgeable_JJ ._.
-Attentive_JJ ,_, but_CC not_RB overbearing_VBG ._.
-I_PRP had_VBD the_DT Cesar_NNP salad_NN ,_, which_WDT was_VBD perfect_JJ ._.
-Just_RB the_DT right_JJ amount_NN of_IN dressing_VBG ._.
-I_PRP particularly_RB like_IN the_DT enclosed_VBN patio_NN ._.
-It_PRP gives_VBZ the_DT sense_NN of_IN being_VBG outside_JJ without_IN the_DT 90_CD degree_NN sun_NN and_CC traffic_NN noise_NN ._.
-I_PRP 'll_MD be_VB back_RB regularly_RB ._.

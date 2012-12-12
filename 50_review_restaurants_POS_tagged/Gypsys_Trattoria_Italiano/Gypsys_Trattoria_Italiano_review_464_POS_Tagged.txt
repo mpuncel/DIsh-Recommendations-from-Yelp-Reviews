@@ -1,3 +1,0 @@
-The_DT dishes_NNS are_VBP very_RB affordable_JJ for_IN Italian_JJ food_NN ._.
-My_PRP$ sister_NN and_CC I_PRP ordered_VBD pesto_JJ pasta_NN ,_, which_WDT was_VBD full_JJ of_IN flavor_NN ,_, but_CC I_PRP wish_VBP there_EX were_VBD few_JJ more_RBR strips_NNS of_IN chicken_NN ._.
-The_DT bread_NN topped_VBD with_IN roasted_JJ garlic_NN was_VBD good_JJ ,_, but_CC it_PRP would_MD have_VB been_VBN better_RB if_IN it_PRP was_VBD fully_RB toasted_VBN ._.

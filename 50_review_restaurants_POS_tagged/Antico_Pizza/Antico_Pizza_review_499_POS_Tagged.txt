@@ -1,4 +1,0 @@
-Great_NNP pizza_NN ,_, great_JJ atmosphere_NN ._.
-It_PRP definitely_RB lives_VBZ up_RP to_TO the_DT hype_NN ._.
-Worth_NNP the_DT trip_NN and_CC a_DT return_NN and_CC a_DT return_NN and_CC ..._: We_PRP ca_MD n't_RB wait_VB to_TO go_VB back_RB ._.
-From_IN a_DT New_NNP York_NNP pizza_NN snob_NN

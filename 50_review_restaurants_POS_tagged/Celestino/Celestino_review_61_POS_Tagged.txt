@@ -1,7 +1,0 @@
-3.0-3_JJ .5_CD Stars_NNP overall_NN for_IN an_DT upscale_JJ Italian_JJ restaurant_NN where_WRB you_PRP can_MD expect_VB to_TO spend_VB $_$ 30_CD -_: $_$ 60_CD per_IN person_NN ,_, not_RB including_VBG alcohol_NN ._.
-A_DT nice_JJ dinning_JJ experience_NN for_IN meeting_VBG up_RP with_IN a_DT friend_NN ,_, going_VBG out_RP on_IN a_DT date_NN our_PRP$ meeting_NN up_RP with_IN a_DT small_JJ group_NN ._.
-\*_SYM The_DT location_NN is_VBZ nice_JJ ,_, located_VBN off_IN of_IN a_DT major_JJ street_NN with_IN plenty_NN of_IN free_JJ parking_NN in_IN the_DT back_JJ \*_SYM The_DT restaurant_NN itself_PRP and_CC the_DT atmosphere_NN inside_RB ,_, and_CC on_IN the_DT covered_JJ patio_NN ,_, is_VBZ nice_JJ ._.
-Simple_NN but_CC inviting_VBG decoration_NN with_IN warm_JJ ,_, welcoming_VBG colors_NNS and_CC lighting_NN ._.
-\*_SYM The_DT servers_NNS are_VBP pretty_RB good_JJ ,_, and_CC all_DT appear_VBP to_TO be_VB authentically_RB Italian_JJ so_IN that_DT is_VBZ a_DT nice_JJ touch_NN ._.
-\*_SYM The_DT food_NN is_VBZ pretty_RB good_JJ ,_, not_RB great_JJ or_CC excellent_JJ ._.
-It_PRP has_VBZ a_DT moderate_JJ sized_VBN menu_NN collection_NN ,_, fresh_JJ ingredients_NNS and_CC portion_NN sizes_NNS that_WDT are_VBP slightly_RB larger_JJR than_IN normal_JJ ._.

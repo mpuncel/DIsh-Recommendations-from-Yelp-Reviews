@@ -1,5 +1,0 @@
-All_DT I_PRP have_VBP to_TO say_VB here_RB is_VBZ Lemon_NNP Chicken_NNP Salad_NNP and_CC Lasagne_NNP ._.
-You_PRP can_MD finish_VB your_PRP$ meal_NN off_RP with_IN a_DT Honey_NNP Dew_NNP bubble_NN tea_NN at_IN the_DT chinese_JJ restaurant_NN 2_CD doors_NNS down_RB ._.
-Cheap_JJ and_CC good_JJ ._.
-If_IN you_PRP 're_VBP on_IN Telegraph_NNP and_CC Durant_NNP ._.
-Then_RB go_VB ._.

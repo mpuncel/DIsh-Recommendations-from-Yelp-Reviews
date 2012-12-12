@@ -1,6 +1,0 @@
-I_PRP just_RB go_VBP there_RB for_IN pizza_NN ._.
-Pizza_NNP is_VBZ excellent_JJ !_.
-It_PRP is_VBZ like_IN they_PRP make_VBP in_IN Napoli_NNP at_IN the_DT Trianon_NNP :_: not_RB to_TO thin_JJ and_CC not_RB to_TO thick_JJ ,_, chewy_JJ enough_RB ,_, cooked_VBN but_CC not_RB burnt_JJ and_CC served_VBD hot_JJ ._.
-My_PRP$ favorite_JJ are_VBP the_DT classics_NNS :_: Margherita_NNP ,_, Napoletana_NNP and_CC sometime_RB the_DT Marinara_NNP ._.
-The_DT ``_`` pizzaiolo_NN ''_'' is_VBZ from_IN Naples_NNP and_CC so_RB is_VBZ the_DT owner_NN ._.
-I_PRP agree_VBP with_IN other_JJ reviewers_NNS that_WDT here_RB pizza_NN is_VBZ a_DT little_JJ expensive_JJ ._.

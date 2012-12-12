@@ -1,6 +1,0 @@
-This_DT is_VBZ the_DT best_JJS pizza_NN in_IN Atlanta_NNP ._.
-My_PRP$ favorite_JJ is_VBZ the_DT San_NNP Gennaro_NNP ._.
-The_DT crust_NN is_VBZ just_RB incredible_JJ and_CC the_DT pizzas_NNS come_VBP out_RP fast_RB ._.
-The_DT weekend_NN evenings_NNS are_VBP totally_RB busy_JJ but_CC the_DT service_NN is_VBZ still_RB fast_JJ and_CC efficient_JJ ._.
-Do_VBP n't_RB forget_VB the_DT desserts_NNS ..._: I_PRP really_RB loved_VBD the_DT chocolate_NN mousse_NN ._.
-Get_VB there_RB early_RB because_IN they_PRP close_RB when_WRB they_PRP run_VBP out_IN of_IN dough_NN ._.

@@ -1,6 +1,0 @@
-Met_NNP a_DT friend_NN here_RB for_IN dinner_NN on_IN Thursday_NNP night_NN ._.
-We_PRP got_VBD there_EX before_IN 6_CD so_RB there_RB was_VBD no_DT wait_NN ._.
-The_DT service_NN was_VBD a_DT little_JJ strange_JJ and_CC we_PRP were_VBD seated_VBN in_IN the_DT corner_NN ,_, hence_RB 4_CD stars_NNS instead_RB of_IN 5_CD ._.
-I_PRP got_VBD the_DT Penne_NNP Pecorino_NNP and_CC it_PRP was_VBD delicious_JJ !_.
-The_DT portion_NN size_NN seemed_VBD appropriate_JJ -LRB-_-LRB- not_RB overwhelmingly_RB large_JJ like_IN chain_NN Italian_JJ food_NN -RRB-_-RRB- and_CC it_PRP was_VBD light_JJ and_CC filling_VBG ._.
-I_PRP would_MD definitely_RB go_VB back_RB ._.

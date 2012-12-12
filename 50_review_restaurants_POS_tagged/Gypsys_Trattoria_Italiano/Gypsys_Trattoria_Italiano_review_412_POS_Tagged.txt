@@ -1,5 +1,0 @@
-The_DT food_NN is_VBZ inexpensive_JJ and_CC that_DT 's_VBZ what_WP i_FW like_IN ,_, cheap_JJ eats_VBZ ._.
-The_DT spaghetti_NNS is_VBZ very_RB flavorful_JJ and_CC done_VBN to_TO perfection_NN -LRB-_-LRB- I_PRP am_VBP not_RB an_DT expert_NN in_IN this_DT field_NN of_IN determining_VBG Italian_JJ food_NN but_CC I_PRP like_VBP what_WP I_PRP like_VBP -RRB-_-RRB- ._.
-The_DT house_NN salad_NN was_VBD pretty_RB good_JJ even_RB though_IN it_PRP was_VBD kinda_NN boring_NN but_CC it_PRP was_VBD good_JJ ._.
-The_DT only_RB down_RB side_NN to_TO this_DT place_NN is_VBZ no_DT free_JJ refills_NNS on_IN soda_NN ._.
-When_WRB I_PRP finished_VBD my_PRP$ food_NN ,_, I_PRP did_VBD n't_RB know_VB if_IN I_PRP should_MD bus_NN my_PRP$ own_JJ plate_NN or_CC just_RB leave_VB it_PRP and_CC they_PRP would_MD do_VB it_PRP for_IN me_PRP ._.

@@ -1,9 +1,0 @@
-Chicken_NNP sandwich_NN dry_JJ and_CC flavors_NNS were_VBD vague_JJ ,_, not_RB interesting_JJ ._.
-Their_PRP$ tuna_NN sandwich_NN is_VBZ way_RB better_JJR ._.
-My_PRP$ friend_NN loved_VBD her_PRP$ hamburger_NN !_.
-We_PRP sat_VBD outside_IN in_IN this_DT perfect_JJ 75_CD degree_NN weather_NN ,_, so_IN I_PRP decided_VBD I_PRP was_VBD in_IN the_DT mood_NN for_IN a_DT iced_JJ coffee_NN drink_NN ._.
-I_PRP went_VBD back_RB inside_JJ and_CC said_VBD ,_, make_VB me_PRP your_PRP$ favorite_JJ iced_JJ coffee_NN drink_NN ._.
-And_CC it_PRP was_VBD Awesome_JJ !_.
-It_PRP did_VBD n't_RB have_VB milk_NN in_IN it_PRP ,_, just_RB espresso_NN ,_, sugar_NN ,_, and_CC ice_NN ._.
-Perfect_NNP ._.
-Service_NNP always_RB quick_JJ and_CC delightful_JJ ._.

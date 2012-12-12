@@ -1,1 +1,0 @@
-Best_JJS Pizza_NNP I_PRP have_VBP had_VBN in_IN LA_NNP ,_, but_CC it_PRP was_VBD $_$ 20_CD for_IN a_DT small_JJ pizza_NN ._.

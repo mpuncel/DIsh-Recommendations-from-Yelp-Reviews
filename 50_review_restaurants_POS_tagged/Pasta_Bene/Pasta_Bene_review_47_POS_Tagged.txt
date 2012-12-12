@@ -1,1 +1,0 @@
-Good_JJ value_NN ,_, good_JJ food_NN !_.

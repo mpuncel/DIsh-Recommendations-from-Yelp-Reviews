@@ -1,3 +1,0 @@
-Staff_NNP is_VBZ friendly_JJ ._.
-Wished_VBN they_PRP delivered_VBD east_JJ of_IN Morningside_NNP Park_NNP ._.
-Great_NNP for_IN events_NNS at_IN the_DT Columbia_NNP schools_NNS because_IN they_PRP always_RB deliver_VBP on_IN time_NN ._.

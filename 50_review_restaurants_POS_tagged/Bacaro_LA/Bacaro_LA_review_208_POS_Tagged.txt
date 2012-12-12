@@ -1,9 +1,0 @@
-I_PRP wish_VBP my_PRP$ boyfriend_NN &_CC I_PRP found_VBD out_RP about_IN this_DT place_NN sooner_RB !_.
-I_PRP 've_VBP been_VBN here_RB twice_RB now_RB &_CC I_PRP ca_MD n't_RB wait_VB to_TO go_VB back_RB again_RB ._.
-I_PRP 've_VBP been_VBN here_RB during_IN happy_JJ hour_NN only_RB &_CC since_IN this_DT place_NN is_VBZ quite_RB small_JJ ,_, it_PRP gets_VBZ packed_JJ easily_RB -LRB-_-LRB- not_RB good_JJ for_IN big_JJ groups_NNS -RRB-_-RRB- ._.
-Parking_NN was_VBD n't_RB that_RB much_JJ of_IN a_DT pain_NN since_IN we_PRP got_VBD there_EX around_IN 5pm_NN ._.
-Anyway_RB --_: the_DT food_NN is_VBZ amazing_JJ ._.
-Since_IN they_PRP 're_VBP all_DT tapas_NNS ,_, you_PRP can_MD order_VB &_CC try_VB several_JJ plates_NNS without_IN that_DT overwhelming_JJ ``_`` I_PRP ca_MD n't_RB finish_VB all_PDT this_DT food_NN ''_'' feeling_NN ._.
-You_PRP HAVE_VBP to_TO try_VB the_DT Bacaro_NN burger_NN with_IN the_DT fried_JJ egg_NN ._.
-So_RB ,_, so_RB good_JJ ._.
-I_PRP 'm_VBP not_RB big_JJ on_IN wine_NN but_CC they_PRP also_RB have_VBP half_DT off_JJ wine_NN by_IN the_DT glass_NN on_IN Mondays_NNP ._.

@@ -1,5 +1,0 @@
-Bustling_JJ neighborhood_NN spot_NN ._.
-The_DT chef_NN came_VBD out_RP to_TO chat_VB with_IN customers_NNS ._.
-We_PRP started_VBD with_IN the_DT pear_NN and_CC blue_JJ cheese_NN salad_NN ,_, had_VBD the_DT veal_NN osso_NN bucco_NN -_: on_IN mashed_VBN potatoes_NNS with_IN spinach_NN -_: and_CC the_DT lemony_NN seafood_NN linguine_NN ._.
-Fresh_JJ baked_JJ mini_NN loaves_NNS of_IN bread_NN ,_, one_CD of_IN them_PRP sun-dried_JJ tomato_NN flavored_VBD ._.
-Friendly_RB service_NN ._.

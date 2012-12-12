@@ -1,4 +1,0 @@
-The_DT food_NN was_VBD okay-but_JJ not_RB worth_IN the_DT price_NN ._.
-The_DT layout_NN of_IN the_DT tables_NNS and_CC chairs_NNS were_VBD awkward_JJ and_CC uncomfortable_JJ to_TO seat_NN in_IN ._.
-There_EX is_VBZ n't_RB much_JJ variety_NN on_IN the_DT menu_NN ,_, and_CC they_PRP were_VBD n't_RB very_RB good_JJ at_IN accommodating_VBG my_PRP$ dietary_JJ needs_NNS ._.
-I_PRP think_VBP this_DT place_NN is_VBZ best_RB if_IN you_PRP have_VBP in_IN mind_NN an_DT order_NN that_WDT 's_VBZ ``_`` to_TO go_VB ''_'' consisting_VBG of_IN coffee_NN and_CC a_DT pastry_NN ._.

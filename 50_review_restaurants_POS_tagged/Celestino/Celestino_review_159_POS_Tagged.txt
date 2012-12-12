@@ -1,8 +1,0 @@
-I_PRP had_VBD a_DT salad_NN that_WDT was_VBD on_IN special_JJ list_NN ._.
-It_PRP was_VBD just_RB above_JJ average_NN ,_, but_CC then_RB again_RB ,_, I_PRP am_VBP pretty_RB selective_JJ about_IN what_WP I_PRP eat_VBP ._.
-I_PRP then_RB had_VBD the_DT four_CD cheese_NN gnocchi_NNS ._.
-It_PRP was_VBD also_RB pretty_JJ average_NN ._.
-The_DT sauce_NN on_IN them_PRP was_VBD generous_JJ ,_, but_CC fairly_RB bland_JJ ,_, but_CC the_DT texture_NN of_IN the_DT gnocchi_NN was_VBD good_JJ ._.
-I_PRP had_VBD a_DT bottle_NN of_IN wine_NN with_IN a_DT friend_NN which_WDT the_DT server_NN ,_, Pasquale_NNP recommend_VB ._.
-We_PRP thought_VBD the_DT wine_NN was_VBD decent_JJ ,_, but_CC not_RB outstanding_JJ ._.
-I_PRP would_MD consider_VB going_VBG to_TO try_VB some_DT other_JJ dishes_NNS before_IN passing_VBG my_PRP$ full_JJ judgment_NN for_IN or_CC against_IN this_DT place_NN ._.

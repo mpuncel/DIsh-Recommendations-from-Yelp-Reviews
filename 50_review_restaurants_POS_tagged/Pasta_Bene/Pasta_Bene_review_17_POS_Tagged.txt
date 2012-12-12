@@ -1,9 +1,0 @@
-I_PRP live_VBP right_JJ next_IN to_TO this_DT place_NN ,_, and_CC it_PRP 's_VBZ definitely_RB my_PRP$ go-to_JJ place_NN for_IN pasta_NN ._.
-My_PRP$ favorite_JJ is_VBZ definitely_RB the_DT ``_`` Marco_NNP Pollo_NNP ''_'' ,_, its_PRP$ similar_JJ to_TO ``_`` Godfather_NNP 's_POS Favorite_NNP ''_'' at_IN Gypsy_NNP 's_POS ._. ._.
-except_IN Gypsy_NNP 's_POS have_VBP chunks_NNS of_IN chicken_NN in_IN it_PRP ._.
-Another_DT reason_NN why_WRB I_PRP like_IN this_DT place_NN so_RB much_RB is_VBZ because_IN I_PRP love_VBP the_DT service_NN here_RB !_.
-I_PRP feel_VBP like_IN I_PRP walked_VBD into_IN an_DT Italian_JJ friend_NN 's_POS home_NN and_CC her_PRP$ mother_NN is_VBZ serving_VBG me_PRP delicious_JJ pasta_NN !_.
-Very_RB homely_RB decor_NN !_.
-Setup_NN :_: order_NN at_IN the_DT cash_NN register_NN ,_, and_CC they_PRP deliver_VBP it_PRP to_TO you_PRP ._.
-To-go_NNP options_NNS are_VBP available_JJ ._.
-The_DT only_JJ reason_NN that_IN they_PRP are_VBP missing_VBG the_DT last_JJ star_NN is_VBZ because_IN it_PRP 's_VBZ definitely_RB nothing_NN toooo_JJ special_JJ ,_, but_CC still_RB a_DT great_JJ place_NN for_IN Italian_JJ Cuisine_NNP !_.

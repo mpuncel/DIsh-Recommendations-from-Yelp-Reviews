@@ -1,3 +1,0 @@
-Great_NNP atmosphere_NN ,_, though_IN a_DT tat_NN small_JJ ._.
-Nice_JJ environment_NN that_WDT made_VBD you_PRP feel_VBP like_IN you_PRP were_VBD in_IN Italy_NNP ,_, right_RB down_IN to_TO the_DT fresh_JJ Italian-imported_JJ ingredents_NNS and_CC the_DT giedo-style_JJ owners_NNS -LRB-_-LRB- compliment_NN -RRB-_-RRB- mingling_NN with_IN the_DT tourist-infested_JJ crowd_NN ._.
-Price_NN was_VBD alittle_RB high_JJ ,_, but_CC you_PRP pay_VBP for_IN quality_NN and_CC atmosphere_NN ,_, and_CC the_DT small_JJ sodas_NNS they_PRP offer_VBP -LRB-_-LRB- BYOB_NNP -RRB-_-RRB- ..._: Good_JJ spot_NN ,_, all-in-all_RB -_: well_RB done_VBN fellas_NNS !_.

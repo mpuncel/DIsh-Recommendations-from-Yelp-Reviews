@@ -1,9 +1,0 @@
-First_JJ day_NN in_IN Ann_NNP Arbor_NNP ,_, I_PRP hop_VBP onto_IN a_DT School_NNP of_IN Public_NNP Health_NNP bus_NN for_IN a_DT tour_NN of_IN the_DT campus_NN and_CC surrounding_VBG establishments_NNS ._.
-The_DT tour_NN guide_NN makes_VBZ a_DT stop_NN in_IN front_NN of_IN Dominick_NNP 's_POS ,_, and_CC the_DT guide_NN raves_VBZ about_IN Dominick_NNP 's_POS sangria_NN and_CC constant_JJ buzz_NN ,_, which_WDT tastes_VBZ like_IN a_DT delish_JJ strawberry_NN margarita_NN ._.
-Both_DT drinks_NNS are_VBP perfect_JJ for_IN warm_JJ spring_NN ,_, summer_NN ,_, and_CC fall_VB nights_NNS ._.
-The_DT loud_JJ mouth_NN owner_NN of_IN Dominick_NNP 's_POS comes_VBZ on_IN the_DT bus_NN to_TO give_VB us_PRP a_DT rude_JJ welcome_JJ and_CC yells_VBZ at_IN us_PRP to_TO get_VB the_DT H-E-double_JJ hockey_NN sticks_VBZ out_IN of_IN here_RB because_IN the_DT bus_NN was_VBD blocking_VBG their_PRP$ view_NN or_CC preventing_VBG business_NN ,_, which_WDT was_VBD not_RB open_JJ yet_RB ._.
-He_PRP just_RB wanted_VBD the_DT tour_NN bus_NN out_IN of_IN the_DT way_NN ._.
-That_DT is_VBZ classic_JJ ._.
-You_PRP will_MD never_RB find_VB a_DT ruder_NN person_NN than_IN the_DT ego-maniacal_JJ owner_NN ._.
-Despite_IN that_DT snafu_NN ,_, all_DT of_IN us_PRP have_VBP been_VBN back_RB to_TO Dominick_NNP 's_POS time_NN and_CC time_NN again_RB ._.
-Business_NN is_VBZ so_RB awesome_JJ that_IN this_DT place_NN can_MD hibernate_VB during_IN the_DT winter_NN while_IN students_NNS can_MD not_RB wait_VB for_IN the_DT snow_NN to_TO melt_VB ,_, and_CC so_IN they_PRP can_MD guzzle_VB sangrias_NNS and_CC constant_JJ buzzes_VBZ all_DT day_NN long_RB on_IN the_DT outdoor_JJ patio_NN ._.

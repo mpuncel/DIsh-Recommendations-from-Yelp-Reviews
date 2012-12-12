@@ -1,5 +1,0 @@
-This_DT is_VBZ some_DT of_IN the_DT most_RBS delicious_JJ down-home_JJ Italian_JJ I_PRP have_VBP ever_RB had_VBN ._.
-Seriously_RB -_: what_WP a_DT delicious_JJ dive_NN in_IN the_DT Berkeley_NNP Asian_NNP ghetto_NN of_IN all_DT places_NNS ._.
-I_PRP had_VBD the_DT pollo_NN gorgonzola_NN tortellini_NNS meal_NN deal_NN ._.
-I_PRP was_VBD so_RB impressed_JJ with_IN EVERYTHING_NNP -_: from_IN the_DT pasta\/sauce_NN -_: scrumdillyumptious_NN ,_, the_DT garlic_JJ bread_NN with_IN roasted_JJ garlic_JJ smeared_VBN on_IN it_PRP ,_, and_CC the_DT generously_RB portioned_JJ side_NN salad_NN ._.
-If_IN you_PRP 're_VBP a_DT local_JJ ,_, and_CC you_PRP are_VBP looking_VBG for_IN yumminess_NN ,_, you_PRP should_MD go_VB !_.

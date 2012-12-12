@@ -1,7 +1,0 @@
-Silvio_NNP 's_POS is_VBZ great_JJ ._.
-We_PRP went_VBD here_RB last_JJ night_NN before_IN heading_VBG to_TO the_DT Ann_NNP Arbor_NNP Film_NNP Festival_NNP ,_, and_CC there_EX was_VBD live_JJ music_NN playing_NN and_CC a_DT nice_JJ atmosphere_NN ._.
-They_PRP 've_VBP got_VBD a_DT full_JJ bar_NN ,_, and_CC the_DT food_NN is_VBZ good_JJ ._.
-Last_JJ night_NN was_VBD busy_JJ and_CC our_PRP$ server_NN seemed_VBD a_DT bit_NN overwhelmed_VBD -_: service_NN was_VBD a_DT bit_NN slow_JJ because_IN of_IN it_PRP ,_, but_CC I_PRP 've_VBP been_VBN in_IN that_DT position_NN and_CC can_MD understand_VB being_VBG overwhelmed_VBN ._.
-Nice_NNP ,_, local_JJ hangout_NN spot_NN ._.
-Casual_JJ and_CC fun_NN ._.
-Great_NNP atmosphere_NN with_IN live_JJ music_NN ._.

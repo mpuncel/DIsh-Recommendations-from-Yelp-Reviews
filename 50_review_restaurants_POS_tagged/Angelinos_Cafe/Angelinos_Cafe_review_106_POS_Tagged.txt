@@ -1,6 +1,0 @@
-Nice_RB little_JJ Italian_JJ place_NN in_IN Westwood_NNP ._.
-Limited_JJ amount_NN of_IN seating_VBG so_RB do_VBP n't_RB come_VBN here_RB with_IN a_DT big_JJ crowd_NN ._.
-The_DT owner_NN was_VBD the_DT only_JJ person_NN doing_VBG all_PDT the_DT cooking_NN ,_, cleaning_NN ,_, and_CC hosting_VBG ._.
-Food_NNP was_VBD made_VBN on_IN the_DT spot_NN about_IN 15_CD minutes_NNS wait_VB ._.
-I_PRP ordered_VBD the_DT Linguine_NNP alla_NN Genovese_NNP and_CC it_PRP was_VBD delicious_JJ ._.
-This_DT place_NN is_VBZ worth_JJ going_VBG especially_RB when_WRB the_DT food_NN is_VBZ not_RB overpriced_VBN like_IN other_JJ Italian_JJ restaurants_NNS ._.

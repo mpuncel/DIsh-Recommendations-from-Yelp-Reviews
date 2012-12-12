@@ -1,7 +1,0 @@
-Definitely_RB my_PRP$ new_JJ favorite_JJ Provi_NNP restaurant_NN ._.
-Went_VBD here_RB for_IN New_NNP Years_NNS and_CC loved_VBD everything_NN I_PRP tried_VBD !_.
-The_DT atmosphere_NN was_VBD nice_JJ ._.
-Liked_VBN that_IN you_PRP could_MD see_VB all_DT of_IN the_DT action_NN in_IN the_DT kitchen_NN ._.
-Theres_NNS a_DT really_RB fun_NN menu_NN ._.
-You_PRP can_MD get_VB different_JJ meat_NN and_CC cheese_NN boards_NNS and_CC choose_VB from_IN a_DT list_NN for_IN different_JJ hot_JJ and_CC cold_JJ apps_NNS ._.
-And_CC the_DT pasta_NN entree_FW was_VBD amazing_JJ !_.

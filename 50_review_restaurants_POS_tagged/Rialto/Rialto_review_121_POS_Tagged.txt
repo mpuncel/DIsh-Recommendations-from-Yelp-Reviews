@@ -1,9 +1,0 @@
-I_PRP had_VBD an_DT interesting_JJ but_CC very_RB good_JJ dinner_NN at_IN Rialto_NNP during_IN restaurant_NN week_NN 2010_CD ._.
-First_NNP course_NN was_VBD ``_`` lettuces_NNS ''_'' and_CC white_JJ gazpacho_NN -LRB-_-LRB- both_DT very_RB good_JJ -RRB-_-RRB- ;_: second_NN was_VBD swordfish_JJ and_CC bluefish_JJ -LRB-_-LRB- a_DT bit_NN salty_NN on_IN the_DT swordfish_NN ,_, but_CC otherwise_RB both_DT were_VBD excellent_JJ -RRB-_-RRB- ;_: and_CC for_IN dessert_NN a_DT chocolate-espresso_JJ torte_NN -LRB-_-LRB- very_RB good_JJ -RRB-_-RRB- and_CC peach_VBP sorbet_NN -LRB-_-LRB- totally_RB fabulous_JJ -RRB-_-RRB- ._.
-The_DT food_NN was_VBD very_RB ,_, very_RB good_JJ ,_, as_IN was_VBD the_DT service_NN ,_, but_CC just_RB a_DT little_JJ shy_JJ of_IN five_CD stars_NNS in_IN my_PRP$ opinion_NN ._.
-I_PRP characterized_VBD our_PRP$ dinner_NN as_IN `_`` interesting_JJ '_'' for_IN non-food_JJ related_JJ reasons_NNS ._.
-First_RB ,_, the_DT clientele_NN at_IN Rialto_NNP is_VBZ very_RB ..._: mature_VB ._.
-I_PRP 'd_MD say_VB the_DT average_JJ age_NN of_IN the_DT diners_NNS the_DT night_NN we_PRP were_VBD there_EX would_MD be_VB solidly_RB within_IN the_DT senior_JJ citizen_NN range_NN ._.
-Of_IN course_NN ,_, there_EX 's_VBZ nothing_NN wrong_JJ with_IN that_DT --_: it_PRP actually_RB fit_VBP in_RP with_IN the_DT subdued_VBN -LRB-_-LRB- I_PRP think_VBP some_DT other_JJ reviewers_NNS called_VBD it_PRP intimate_JJ -RRB-_-RRB- atmosphere_NN --_: but_CC I_PRP would_MD n't_RB choose_VB this_DT restaurant_NN for_IN a_DT lively_JJ get-together_NN ._.
-A_DT better_JJR occasion_NN would_MD be_VB taking_VBG grandma_NN out_RP ._.
-Another_DT interesting_JJ feature_NN was_VBD very_RB dim_JJ lighting_NN ,_, though_IN I_PRP think_VBP that_DT was_VBD due_JJ to_TO our_PRP$ table_NN being_VBG a_DT temporary_JJ restaurant_NN week_NN set-up_NN ._.

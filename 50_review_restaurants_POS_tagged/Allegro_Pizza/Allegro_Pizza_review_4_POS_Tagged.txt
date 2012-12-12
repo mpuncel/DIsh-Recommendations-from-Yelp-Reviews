@@ -1,3 +1,0 @@
-While_IN not_RB the_DT best_JJS pizza_NN in_IN the_DT world_NN ,_, and_CC certainly_RB not_RB the_DT cheapest_JJS ,_, Allegro_NNP 's_POS makes_VBZ up_RP for_IN it_PRP by_IN piling_VBG on_IN toppings_NNS -LRB-_-LRB- I_PRP swear_VBP by_IN the_DT Buffalo_NNP Chicken_NNP -RRB-_-RRB- and_CC a_DT decent_JJ selection_NN of_IN beer_NN ._.
-The_DT chicken_NN fingers_NNS are_VBP maybe_RB the_DT best_JJS on_IN campus_NN ._.
-Besides_IN that_DT ,_, it_PRP 's_VBZ open_JJ late_RB ,_, is_VBZ a_DT convenient_JJ place_NN to_TO grab_VB a_DT sixer_NN and_CC slice_NN on_IN your_PRP$ way_NN to_TO a_DT friend_NN 's_POS place_NN ._.

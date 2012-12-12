@@ -1,9 +1,0 @@
-I_PRP have_VBP n't_RB visited_VBN since_IN they_PRP relocated_VBD from_IN University_NNP Boulevard_NNP in_IN Adelphi_NNP ._.
-This_DT review_NN is_VBZ for_IN the_DT pizza_NN at_IN the_DT former_JJ Adelphi_NNP location_NN -LRB-_-LRB- which_WDT I_PRP 'll_MD imagine_VB is_VBZ virtually_RB identical_JJ to_TO that_DT at_IN the_DT new_JJ location_NN in_IN College_NNP Park_NNP -RRB-_-RRB- ._.
-The_DT pizza_NN is_VBZ very_RB tasty_JJ ._.
-I_PRP 've_VBP eated_VBN at_IN the_DT chain_NN Ledo_NNP 's_POS a_DT couple_NN times_NNS and_CC will_MD admit_VB that_IN the_DT original_JJ location_NN serves_VBZ up_RP pizza_NN that_WDT 's_VBZ a_DT bit_RB better_JJR ._.
-The_DT crust_NN is_VBZ ``_`` flaky_JJ ''_'' ,_, the_DT sauce_NN is_VBZ a_DT bit_NN sweet_JJ and_CC the_DT cheese_NN tastes_VBZ ``_`` marbelized_VBN ''_'' -LRB-_-LRB- for_IN lack_NN of_IN a_DT better_JJR term_NN -RRB-_-RRB- ._.
-However_RB ,_, somehow_RB the_DT crust_NN ,_, sauce_NN ,_, and_CC the_DT cheese_NN combine_VBP synergistically_RB to_TO form_VB quite_RB tasty_JJ pizza_NN ._.
-It_PRP 's_VBZ obviously_RB not_RB Chicago_NNP Style_NNP or_CC NY-style_NNP ._.
-I_PRP think_VBP it_PRP may_MD resemble_VB St._NNP Louis-style_JJ pizza_NN -LRB-_-LRB- use_NN of_IN multiple_JJ cheeses_NNS -RRB-_-RRB- and_CC Detroit_NNP Style_NNP pizza_NN -LRB-_-LRB- thicker_JJR crust_NN with_IN rectangular_JJ slices_NNS and_CC pies_NNS -RRB-_-RRB- ,_, but_CC I_PRP 'm_VBP not_RB sure_JJ ._.
-In_IN spite_NN of_IN how_WRB much_JJ I_PRP 've_VBP enjoyed_VBN the_DT pizza_NN at_IN Ledo_NNP Restaurant_NNP ,_, I_PRP personally_RB feel_VBP that_IN Continental_NNP Pizza_NNP in_IN Kensington_NNP does_VBZ a_DT better_JJR job_NN making_VBG ``_`` Ledo-style_JJ ''_'' pizza_NN ._.

@@ -1,2 +1,0 @@
-best_RB pizza_NN in_IN philly_JJ i_FW love_NN is_VBZ pizza_NN you_PRP won_VBD ?_.
-t_NN be_VB disappointed_VBN

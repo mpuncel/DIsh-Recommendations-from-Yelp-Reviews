@@ -1,7 +1,0 @@
-I_PRP totally_RB heart_NN this_DT place_NN ._.
-I_PRP was_VBD in_IN town_NN for_IN work_NN ,_, so_RB had_VBD dinner_NN here_RB alone_RB at_IN Lido_NNP on_IN a_DT Tuesday_NNP night_NN -LRB-_-LRB- one_CD of_IN my_PRP$ favorite_JJ things_NNS to_TO do_VB when_WRB traveling_VBG for_IN work_NN is_VBZ to_TO take_VB myself_PRP out_RP for_IN solo_NN dinners_NNS at_IN nice_JJ restaurants_NNS -_: it_PRP 's_VBZ somehow_RB incredibly_RB indulgent_JJ feeling_NN ._. -RRB-_-RRB-
-The_DT service_NN was_VBD impeccable_JJ ,_, the_DT wine_NN list_NN was_VBD approachable_JJ ,_, and_CC the_DT food_NN was_VBD \*_SYM excellent_JJ ._.
-\*_SYM I_PRP mean_VBP ,_, really_RB ,_, really_RB great_JJ ._.
-I_PRP had_VBD the_DT burrata_NN w_VB \/_RB basil_JJ pesto_NN and_CC the_DT ricotta_NN ravioli_NNS with_IN eggplant_NN &_CC lemon_NN ,_, and_CC both_DT were_VBD perfect_JJ ._.
-The_DT food_NN ,_, two_CD glasses_NNS of_IN wine_NN ,_, nice_JJ ladies_NNS sitting_VBG next_JJ to_TO me_PRP at_IN the_DT bar_NN asking_VBG about_IN what_WP I_PRP was_VBD eating_VBG ,_, and_CC a_DT great_JJ book_NN all_DT combined_VBN into_IN a_DT really_RB awesome_JJ dinner_NN ._.
-I_PRP will_MD definitely_RB be_VB back_RB the_DT next_JJ time_NN I_PRP 'm_VBP in_IN New_NNP York_NNP ._.

@@ -1,9 +1,0 @@
-Gypsys_NNP !_.
-The_DT staple_NN Italian_JJ restaurant_NN of_IN UC_NNP Berkeley_NNP ._.
-The_DT restaurant_NN is_VBZ always_RB busy_JJ ,_, but_CC you_PRP can_MD usually_RB get_VB a_DT table_NN inside_IN ._.
-It_PRP can_MD get_VB pretty_RB loud_JJ inside_IN ,_, so_IN you_PRP might_MD want_VB to_TO sit_VB outside_JJ anyways_NNS ._.
-My_PRP$ personal_JJ favorite_JJ dish_NN is_VBZ the_DT Pollo_NNP Con_NN Pesto_NNP ,_, or_CC Pesto_NNP Chicken_NNP pasta_NN ._.
-Also_RB ,_, the_DT Bronx_NNP Tale_NNP ,_, Godfather_NNP 's_POS Favorite_NNP ,_, and_CC Fettucini_NNP with_IN Clams_NNP is_VBZ pretty_RB good_JJ ._.
-The_DT clams_NNS are_VBP the_DT canned_VBN kind_NN ,_, but_CC for_IN some_DT reason_NN i_FW like_IN it_PRP haha_NN ._.
-Also_RB ,_, the_DT garlic_JJ bread_NN is_VBZ EXCELLENT_JJ !_.
-SUPER_JJ TASTY_JJ !_.

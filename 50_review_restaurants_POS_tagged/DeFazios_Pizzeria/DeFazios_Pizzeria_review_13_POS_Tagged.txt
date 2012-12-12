@@ -1,7 +1,0 @@
-Amazing_JJ Pizza_NNP !_.
-The_DT best_JJS pizza_NN I_PRP have_VBP ever_RB tried_VBN ._.
-This_DT saying_VBG alot_NN because_IN I_PRP live_VBP in_IN NYC\/Brooklyn_NNP which_WDT has_VBZ tons_NNS of_IN great_JJ pizza_NN places_NNS ._.
-As_IN per_IN other_JJ recommendations_NNS on_IN yelp_NN I_PRP tried_VBD the_DT multi_NNS grain_NN crust_NN and_CC pesto_JJ pizza_NN ._.
-The_DT crust_NN was_VBD crispy_JJ and_CC there_EX was_VBD lots_NNS of_IN fresh_JJ cheese_NN ._.
-I_PRP also_RB tried_VBD a_DT salad_NN that_WDT was_VBD ok_NN ,_, but_CC I_PRP still_RB give_VBP Defazio_NNP 's_POS 5_CD stars_NNS because_IN the_DT pizza_NN is_VBZ all_DT that_DT matters_NNS ._.
-This_DT place_NN is_VBZ a_DT hidden_JJ gem_NN ._.

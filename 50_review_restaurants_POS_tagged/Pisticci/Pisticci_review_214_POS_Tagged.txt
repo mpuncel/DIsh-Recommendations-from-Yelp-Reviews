@@ -1,8 +1,0 @@
-This_DT place_NN has_VBZ excellent_JJ Italian_JJ food_NN ._.
-It_PRP 's_VBZ a_DT cozy_JJ restaurant_NN ,_, with_IN mismatched_VBN chairs_NNS and_CC tables_NNS ,_, but_CC really_RB cute_JJ ._.
-The_DT menu_NN used_VBN to_TO have_VB this_DT ragu_NN that_WDT was_VBD amazing_JJ ._.
-They_PRP expanded_VBD and_CC thus_RB changed_VBD the_DT menu_NN a_DT little_JJ bit_NN ,_, but_CC I_PRP have_VBP to_TO say_VB the_DT food_NN is_VBZ still_RB delicious_JJ ._.
-I_PRP like_VBP the_DT fig_NN salad_NN a_DT lot_NN ._.
-I_PRP 'd_MD also_RB recommend_VB the_DT penne_NN ,_, its_PRP$ good_JJ ._.
-I_PRP think_VBP some_DT nights_NNS they_PRP have_VBP live_JJ jazz_NN ,_, but_CC I_PRP never_RB went_VBD ._.
-It_PRP 's_VBZ probably_RB very_RB nice_JJ ._.

@@ -1,4 +1,0 @@
-Great_NNP looking_VBG restaurant_NN from_IN the_DT outside_JJ and_CC for_IN a_DT Monday_NNP night_NN it_PRP was_VBD fairly_RB busy_JJ ._.
-Traveling_VBG on_IN business_NN I_PRP decided_VBD to_TO eat_VB in_IN the_DT bar_NN and_CC had_VBD great_JJ meal_NN and_CC service_NN ._.
-My_PRP$ server_NN ,_, Courtney_NNP ,_, suggested_VBD that_IN nights_NNS special_JJ which_WDT was_VBD risotto_JJ and_CC pasta_NN which_WDT was_VBD excellent_JJ ._.
-Next_JJ time_NN I_PRP come_VBP to_TO town_NN I_PRP would_MD eat_VB here_RB again_RB ._.

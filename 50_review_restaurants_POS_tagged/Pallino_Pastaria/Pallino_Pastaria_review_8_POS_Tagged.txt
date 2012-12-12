@@ -1,2 +1,0 @@
-Had_VBD the_DT rigatoni_NNS with_IN meat_NN sauce_NN ..._: tasted_VBN like_IN a_DT lean_JJ cuisine_NN frozen_VBN meal_NN ._.
-At_IN least_JJS the_DT pasta_NN was_VBD al_JJ dente_NN ..._:

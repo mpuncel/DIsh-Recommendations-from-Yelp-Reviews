@@ -1,3 +1,0 @@
-DInner_NN last_JJ night_NN at_IN Al_NNP Forno_NNP was_VBD delicious_JJ as_IN usual_JJ ._.
-We_PRP shared_VBD Baked_NNP Pasta_NNP with_IN Three_CD Cheeses_NNP ,_, Fettuccine_NNP with_IN Duck_NN Bacon_NNP and_CC a_DT side_NN order_NN of_IN Meatballs_NNP ._.
-The_DT staff_NN was_VBD attentive_JJ and_CC as_IN always_RB it_PRP was_VBD a_DT great_JJ experience_NN !_.

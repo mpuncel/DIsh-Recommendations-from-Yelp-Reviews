@@ -1,5 +1,0 @@
-fast_RB ,_, good_JJ and_CC efficient_JJ service_NN ,_, nice_JJ place_NN -LRB-_-LRB- decor_NN is_VBZ relatively_RB upscale_JJ -RRB-_-RRB- ,_, and_CC the_DT margarita_NN pizza_NN I_PRP had_VBD was_VBD REALLY_RB good_JJ !_.
-I_PRP was_VBD very_RB impressed_JJ ._.
-Nice_NNP ,_, crispy_JJ crust_NN with_IN delicious_JJ sauce_NN and_CC cheese_NN ._.
-I_PRP also_RB thought_VBD the_DT tomatoes_NNS on_IN the_DT pizza_NN were_VBD quite_RB fresh_JJ ,_, too_RB ._.
-Overall_RB ,_, a_DT solid_JJ place_NN !_.

@@ -1,5 +1,0 @@
-Penne_NNP arrabbiata_NN zesty_NN ._.
-Baked_JJ rigatoni_NNS comfort_NN food_NN ._.
-Lasagna_NNP mmm_NN ..._: I_PRP 'm_VBP full_JJ ._.
-Go_VB ahead_RB and_CC get_VB yourself_PRP something_NN ._.
-Do_VBP n't_RB forget_VB mozzarella_NN garlic_JJ bread_NN ._.

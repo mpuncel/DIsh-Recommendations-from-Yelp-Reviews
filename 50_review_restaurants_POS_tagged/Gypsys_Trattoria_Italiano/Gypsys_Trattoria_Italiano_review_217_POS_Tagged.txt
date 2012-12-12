@@ -1,3 +1,0 @@
-WOW_NNP !_.
-5_CD dollar_NN pasta_NN dish_NN still_RB exists_VBZ !_.
-I_PRP ca_MD n't_RB believe_VB that_IN food_NN here_RB tastes_VBZ even_RB good_JJ ._.

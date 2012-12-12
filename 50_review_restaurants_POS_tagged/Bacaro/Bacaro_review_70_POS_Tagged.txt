@@ -1,4 +1,0 @@
-Yummy_JJ food_NN ,_, great_JJ outdoor_JJ seating_NN ,_, the_DT oysters_NNS were_VBD a_DT bit_NN fishy_JJ ,_, but_CC the_DT other_JJ small_JJ plates_NNS were_VBD amazing_JJ ._.
-The_DT special_JJ beets_NNS and_CC blueberries_NNS salad_NN was_VBD out_IN of_IN this_DT world_NN -_: imagine_VB the_DT two_CD together_RB it_PRP 's_VBZ difficult_JJ I_PRP know_VBP but_CC then_RB when_WRB you_PRP taste_VBP it_PRP ,_, wow_NN ,_, what_WP a_DT wonderful_JJ experience_NN for_IN my_PRP$ tastebuds_NNS !_.
-I_PRP especiallly_RB enjoyed_VBD the_DT fried_JJ donuts_NNS with_IN an_DT orange_NN glaze_VB for_IN desert_NN ._.
-I_PRP need_VBP to_TO go_VB back_RB and_CC try_VB more_RBR on_IN the_DT menu_NN !_.

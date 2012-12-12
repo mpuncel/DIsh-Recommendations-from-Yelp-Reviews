@@ -1,2 +1,0 @@
-Great_NNP place_NN to_TO come_VB if_IN you_PRP 're_VBP drunk_JJ ,_, hungover_NN ,_, or_CC depressed_VBD about_IN schoolwork_NN and_CC want_VB to_TO kill_VB yourself_PRP with_IN cheese_NN ._.
-Standard_NNP Berkeley_NNP campus_NN fare_NN :_: cheap_JJ ,_, fast_RB ,_, HUGE_NNP ,_, and_CC satisfying_VBG ._.

@@ -1,8 +1,0 @@
-I_PRP actually_RB like_VBP its_PRP$ pizza_NN ,_, you_PRP can_MD choose_VB whichever_WDT ingredient_NN you_PRP want_VBP ._.
-And_CC it_PRP is_VBZ fast_RB ,_, tho_RB long_JJ line_NN ._.
-But_CC once_RB you_PRP place_VBP the_DT order_NN ,_, it_PRP comes_VBZ to_TO you_PRP very_RB fast_RB ._.
-I_PRP 'm_VBP never_RB a_DT big_JJ fan_NN of_IN pizza_NN ,_, so_IN I_PRP can_MD not_RB comment_VB if_IN it_PRP is_VBZ really_RB good_JJ ._.
-But_CC our_PRP$ pizza_NN was_VBD a_DT bit_NN under_IN cooked_VBN ._.
-Toppings_NNP fell_VBD down_RP when_WRB we_PRP grab_VBP it_PRP up_RP ._.
-The_DT burrata_NN is_VBZ actually_RB a_DT big_JJ pro_JJ !_.
-I_PRP just_RB love_VBP it_PRP !_.

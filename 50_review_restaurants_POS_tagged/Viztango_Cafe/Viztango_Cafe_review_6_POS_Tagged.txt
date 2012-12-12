@@ -1,9 +1,0 @@
-I_PRP 'd_MD never_RB eaten_VBN pesto_NN before_IN this_DT restaurant_NN ._.
-Their_PRP$ pesto_NN is_VBZ absolutely_RB AMAZING_NNP ,_, and_CC has_VBZ made_VBN pesto_JJ my_PRP$ new_JJ favorite_JJ pasta_NN sauce_NN ._.
-I_PRP 'm_VBP not_RB a_DT big_JJ fan_NN of_IN pasta_NN to_TO begin_VB with_IN ,_, but_CC this_DT place_NN is_VBZ delicious_JJ ,_, cheap_JJ ,_, and_CC generous_JJ with_IN portions_NNS ._.
-Their_PRP$ dishes_NNS come_VBP with_IN a_DT side_NN of_IN breadsticks_NNS ,_, and_CC they_PRP also_RB offer_VBP sandwiches_NNS and_CC salad_NN ._.
-Though_IN the_DT place_NN is_VBZ small_JJ ,_, it_PRP has_VBZ great_JJ quality_NN food_NN at_IN low_JJ prices_NNS ._.
-Additionally_RB ,_, the_DT atmosphere_NN is_VBZ often_RB brimming_VBG with_IN students_NNS ,_, despite_IN its_PRP$ small_JJ side_NN ._.
-My_PRP$ only_JJ complaint_NN is_VBZ that_IN it_PRP is_VBZ a_DT bit_NN far_RB from_IN campus_NN -LRB-_-LRB- walking-wise_NN -RRB-_-RRB- ,_, especially_RB at_IN night_NN as_IN a_DT girl_NN ._.
-I_PRP get_VBP creeped_VBN on_IN more_RBR often_RB than_IN not_RB ._.
-But_CC in_IN all_DT honesty_NN ,_, the_DT food_NN totally_RB makes_VBZ up_RP for_IN it_PRP ._.

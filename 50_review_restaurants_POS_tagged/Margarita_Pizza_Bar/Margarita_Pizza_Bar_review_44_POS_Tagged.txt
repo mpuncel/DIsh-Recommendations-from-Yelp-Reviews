@@ -1,6 +1,0 @@
-Ate_VBD here_RB earlier_RBR this_DT afternoon_NN ._.
-A_DT lot_NN of_IN great_JJ choices_NNS to_TO choose_VB from_IN ._.
-Food_NNP was_VBD deelish_JJ !_.
-I_PRP had_VBD the_DT Hot_NNP Oil_NNP Pie_NNP and_CC strawberry_JJ shortcake_NN ._.
-Joe_NNP was_VBD a_DT great_JJ waiter_NN !_.
-Will_MD definitely_RB be_VB back_RB to_TO try_VB more_JJR of_IN the_DT menu_NN ._.

@@ -1,5 +1,0 @@
-Very_RB popular_JJ restaurant_NN in_IN Princeton_NNP ._.
-Reservation_NN is_VBZ not_RB accepted_VBN ._.
-Service_NNP is_VBZ not_RB good_JJ and_CC not_RB attentive_JJ and_CC as_IN the_DT matter_NN of_IN fact_NN ,_, quite_RB slow_JJ ._.
-Food_NNP is_VBZ decent_JJ but_CC it_PRP does_VBZ not_RB justify_VB the_DT cost_NN ._.
-I_PRP really_RB think_VBP it_PRP is_VBZ overrated_VBN ._.

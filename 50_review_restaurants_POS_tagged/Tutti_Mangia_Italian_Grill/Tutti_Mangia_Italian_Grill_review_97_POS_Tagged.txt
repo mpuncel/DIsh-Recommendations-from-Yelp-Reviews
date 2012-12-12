@@ -1,3 +1,0 @@
-This_DT is_VBZ a_DT very_RB classy_JJ restaurant_NN ,_, and_CC ,_, if_IN you_PRP 're_VBP a_DT student_NN at_IN the_DT Colleges_NNP ,_, a_DT great_JJ place_NN to_TO bring_VB your_PRP$ parents_NNS when_WRB they_PRP get_VBP sick_JJ of_IN Walter_NNP 's_POS ._.
-It_PRP 's_VBZ expensive_JJ ,_, yes_UH ,_, but_CC you_PRP get_VBP what_WP you_PRP pay_VBP for_IN ._.
-The_DT four_CD cheese_NN ravioli_NNS with_IN red_JJ pepper_NN sauce_NN is_VBZ my_PRP$ favorite_JJ thing_NN on_IN the_DT menu_NN ._.

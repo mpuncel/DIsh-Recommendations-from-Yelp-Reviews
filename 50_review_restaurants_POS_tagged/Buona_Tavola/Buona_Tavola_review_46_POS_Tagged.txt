@@ -1,3 +1,0 @@
-Delicious_NNP food_NN ._. ._.
-the_DT tortelloni_NN was_VBD so_RB good_JJ !_.
-Highly_NNP recommend_VB ..._: love_VB the_DT outdoor_JJ seating_NN

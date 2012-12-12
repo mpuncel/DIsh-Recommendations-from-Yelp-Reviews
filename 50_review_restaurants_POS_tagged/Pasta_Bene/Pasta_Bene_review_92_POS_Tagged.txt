@@ -1,2 +1,0 @@
-Food_NNP is_VBZ excellent_JJ ._.
-And_CC the_DT older_JJR woman_NN who_WP is_VBZ usually_RB behind_IN the_DT counter_NN is_VBZ incredibly_RB sweet_JJ and_CC helpful_JJ ._.

@@ -1,3 +1,0 @@
-Good_JJ sandwiches_NNS ,_, nice_JJ setting_VBG outside_JJ -LRB-_-LRB- especially_RB on_IN a_DT warm_JJ weekend_NN -RRB-_-RRB- ._.
-Ordered_VBD the_DT Tuna_NNP Panino_NNP --_: yellow_JJ fin_NN tuna_NN with_IN onions_NNS ,_, celery_NN ,_, capers_NNS ,_, eggs_NNS and_CC a_DT side_NN of_IN arugula_NN salad_NN ._.
-Healthy_JJ tasting_NN and_CC average_JJ price_NN -LRB-_-LRB- $_$ 7-8_CD -RRB-_-RRB- ._.

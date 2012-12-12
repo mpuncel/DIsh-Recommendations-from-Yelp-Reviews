@@ -1,5 +1,0 @@
-Went_VBD here_RB on_IN a_DT Sunday_NNP night_NN for_IN a_DT delicious_JJ Italian_JJ dinner_NN ._.
-It_PRP 's_VBZ a_DT little_JJ hard_JJ to_TO find_VB ,_, and_CC it_PRP certainly_RB does_VBZ n't_RB fit_VB in_RP with_IN the_DT neighborhood_NN ,_, all_DT of_IN which_WDT contributes_VBZ to_TO its_PRP$ ``_`` hidden_JJ gem_NN ''_'' status_NN ._.
-Our_PRP$ food_NN was_VBD absolutely_RB delicious_JJ ,_, and_CC the_DT service_NN was_VBD very_RB prompt_JJ and_CC attentive_JJ ._.
-This_DT place_NN is_VBZ very_RB authentic_JJ ,_, and_CC everybody_NN was_VBD extremely_RB friendly_JJ ._.
-In_IN my_PRP$ opinion_NN ,_, Pisticci_NNP is_VBZ the_DT definition_NN of_IN a_DT great_JJ 5-star_JJ Yelp_NNP restaurant_NN ._.

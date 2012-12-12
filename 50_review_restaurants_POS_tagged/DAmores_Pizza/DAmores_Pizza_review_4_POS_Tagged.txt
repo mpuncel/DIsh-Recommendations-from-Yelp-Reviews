@@ -1,7 +1,0 @@
-D'Amores_NNS is_VBZ my_PRP$ favorite_JJ pizza_NN place_NN in_IN Westwood_NNP ._.
-I_PRP love_VBP their_PRP$ thin_JJ ,_, crispy_JJ crust_NN ._.
-I_PRP would_MD probably_RB skip_VB their_PRP$ garlic_JJ knots_NNS though_IN ._.
-The_DT staff_NN was_VBD nice_JJ for_IN the_DT most_JJS part_NN ._.
-Everytime_NNP I_PRP come_VBP in_IN ,_, it_PRP seems_VBZ kind_NN of_IN empty_JJ ._.
-Price_NN is_VBZ a_DT bit_NN expensive_JJ ,_, but_CC kind_NN of_IN worth_JJ it_PRP ._.
-I_PRP think_VBP they_PRP 're_VBP way_RB better_JJR than_IN Lamonica_NNP 's_POS and_CC Enzo_NNP 's_POS ._.

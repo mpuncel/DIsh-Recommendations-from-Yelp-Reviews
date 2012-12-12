@@ -1,5 +1,0 @@
-great_JJ quality_NN italian_JJ food_NN in_IN morningside_NN heights_NNS !_.
-shabby_JJ chic_JJ interior_NN and_CC a_DT beautiful_JJ blue_JJ patio_NN seating_VBG for_IN nicer_JJR days_NNS ._.
-i_FW have_VBP tried_VBN every_DT thing_NN vegeterian_NN on_IN the_DT menu_NN ,_, and_CC can_MD vouch_VB for_IN the_DT amazingness_NN -LRB-_-LRB- that_DT is_VBZ totally_RB a_DT word_NN -RRB-_-RRB- of_IN it_PRP all_DT !_.
-evenings_NNS are_VBP crowded_VBN and_CC you_PRP might_MD have_VB to_TO wait_VB for_IN seating_VBG ._.
-it_PRP is_VBZ totally_RB worth_JJ it_PRP though_RB ._.

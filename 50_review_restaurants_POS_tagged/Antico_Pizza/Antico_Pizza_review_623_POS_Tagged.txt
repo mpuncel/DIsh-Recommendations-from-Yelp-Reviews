@@ -1,5 +1,0 @@
-Great_NNP authentic_JJ Italian_JJ pizza_NN !_.
-Reminded_VBD me_PRP of_IN being_VBG in_IN Italy_NNP ,_, minus_CC the_DT drawbacks_NNS -_: about_IN $_$ 20_CD per_IN pizza_NN and_CC no_DT outdoor_JJ seating_NN ._.
-For_IN the_DT already_RB small_JJ space_NN and_CC location_NN a_DT patio_NN would_MD be_VB great_JJ ._.
-You_PRP order_NN at_IN the_DT counter_NN and_CC find_VB a_DT picnic_NN table\/place_NN to_TO stand_VB by_IN the_DT kitchen_NN ._.
-Avoid_VB the_DT 8_CD o'clock_RB crowd_NN on_IN the_DT weekends_NNS ._.

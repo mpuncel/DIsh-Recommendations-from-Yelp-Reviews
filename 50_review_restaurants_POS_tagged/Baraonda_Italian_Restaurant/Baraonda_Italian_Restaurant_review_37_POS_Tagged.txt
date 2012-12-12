@@ -1,5 +1,0 @@
-Great_NNP Carpaccio_NNP ,_, very_RB talented_JJ staff_NN !_.
-This_DT place_NN is_VBZ a_DT staple_NN of_IN Atlanta_NNP 's_POS Italian_JJ offerings_NNS ,_, and_CC now_RB I_PRP know_VBP why_WRB ._.
-Everything_NN from_IN the_DT decor_NN to_TO the_DT wonderful_JJ wine_NN list_NN is_VBZ stylish_JJ and_CC authentic_JJ ._.
-The_DT bartender_NN Justin_NNP was_VBD so_RB charming_JJ !_.
-Definetely_RB will_MD be_VB back_RB ._.

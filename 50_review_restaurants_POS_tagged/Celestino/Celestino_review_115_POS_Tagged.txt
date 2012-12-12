@@ -1,5 +1,0 @@
-One_CD of_IN the_DT better_JJR Pasadena_NNP Italian_NNP restaurants_NNS ._.
-Knowledgeable_JJ staff_NN helped_VBD pair_VB their_PRP$ wines_NNS with_IN a_DT delicious_JJ meal_NN ._.
-Went_VBN during_IN Pasadena_NNP Food_NNP Week_NNP so_IN we_PRP had_VBD a_DT coupon_NN ._.
-Slightly_RB pricey_JJ otherwise_RB ._.
-Recommended_VBN ._.

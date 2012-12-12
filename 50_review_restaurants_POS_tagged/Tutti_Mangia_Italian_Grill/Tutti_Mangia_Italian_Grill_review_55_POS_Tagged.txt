@@ -1,5 +1,0 @@
-Great_NNP place_NN and_CC location_NN ._.
-This_DT was_VBD my_PRP$ first_JJ time_NN in_IN Claremont_NNP with_IN a_DT client_NN and_CC I_PRP enjoyed_VBD my_PRP$ lunch_NN ._.
-I_PRP had_VBD their_PRP$ Salmon_NNP dish_NN and_CC soup_NN of_IN the_DT day_NN ._.
-Both_DT were_VBD delicious_JJ and_CC I_PRP will_MD definitly_RB go_VB back_RB again_RB ._.
-A_DT +_NN

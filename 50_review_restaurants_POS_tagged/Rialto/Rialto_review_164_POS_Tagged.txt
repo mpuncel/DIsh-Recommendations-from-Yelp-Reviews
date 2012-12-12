@@ -1,7 +1,0 @@
-The_DT prosciutto_NN with_IN peaches_NNS was_VBD very_RB good_JJ ._.
-I_PRP was_VBD sad_JJ I_PRP only_RB got_VBD one_CD thin_JJ slice_NN ._.
-It_PRP 's_VBZ the_DT real_JJ stuff_NN I_PRP miss_VBP from_IN Europe_NNP ._.
-The_DT trout_NNS was_VBD good_JJ ,_, but_CC pretty_RB plain_JJ and_CC uninspiring_JJ ._.
-The_DT fruit_NN pannacotta_NN was_VBD OK_JJ ,_, very_RB boring_JJ ._.
-Service_NNP was_VBD prompt_JJ ,_, and_CC I_PRP liked_VBD the_DT look_NN of_IN the_DT restaurant_NN --_: particularly_RB for_IN a_DT hotel_NN joint_NN ._.
-3.5_CD \*_SYM s_PRP -LRB-_-LRB- slightly_RB better_JJR than_IN OK_JJ -RRB-_-RRB- ._.

@@ -1,4 +1,0 @@
-The_DT nutella_NN pizza_NN -LRB-_-LRB- dessert_NN -RRB-_-RRB- is_VBZ wonderful_JJ ._.
-The_DT cheese_NN &_CC meat_NN plate_NN -LRB-_-LRB- it_PRP has_VBZ a_DT fancier_JJR name_NN on_IN the_DT menu_NN -RRB-_-RRB- always_RB has_VBZ an_DT amazing_JJ selection_NN -_: I_PRP always_RB intend_VBP to_TO write_VB them_PRP down_RB and_CC remember_VB them_PRP for_IN later_RB but_CC I_PRP never_RB do_VBP ._.
-Whenever_NNP I_PRP try_VBP an_DT unusual_JJ pasta_NN dish_NN I_PRP 'm_VBP usually_RB disappointed_VBN ,_, but_CC the_DT lasagna_NN is_VBZ always_RB perfect_JJ ._.
-I_PRP 've_VBP been_VBN here_RB more_RBR often_RB for_IN brunch_NN ,_, and_CC it_PRP 's_VBZ lovely_JJ ._.

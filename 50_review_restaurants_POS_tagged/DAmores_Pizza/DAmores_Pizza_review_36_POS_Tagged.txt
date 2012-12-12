@@ -1,8 +1,0 @@
-This_DT place_NN was_VBD labeled_VBN `_`` The_DT best_JJS pizza_NN in_IN the_DT nation_NN ._. '_''
-And_CC while_IN it_PRP certainly_RB is_VBZ n't_RB bad_JJ ,_, I_PRP 'm_VBP not_RB going_VBG to_TO call_VB it_PRP the_DT best_JJS in_IN the_DT nation_NN ._.
-Perhaps_RB the_DT best_JJS in_IN the_DT 4_CD block_NN radius_NN ?_.
-The_DT pizza_NN is_VBZ east_JJ coast_NN style_NN which_WDT means_VBZ you_PRP can_MD fold_VB it_PRP up_RP into_IN a_DT rolled_VBN up_RP dollar_NN and_CC eat_VB it_PRP within_IN seconds_NNS ._.
-One_CD of_IN the_DT best_JJS things_NNS about_IN D'Amores_NNP was_VBD that_IN they_PRP were_VBD selling_VBG this_DT pizza_NN early_RB in_IN the_DT day_NN ._.
-The_DT taste_NN was_VBD good_JJ but_CC a_DT little_JJ too_RB greasy_JJ for_IN my_PRP$ taste_NN ._.
-I_PRP give_VBP it_PRP 3_CD stars_NNS because_IN it_PRP 's_VBZ centrally_RB located_VBN in_IN a_DT University_NNP area_NN ,_, but_CC would_MD have_VB given_VBN it_PRP four_CD if_IN it_PRP was_VBD open_JJ past_JJ 10pm_NNS ._.
-Good_JJ price_NN ,_, good_JJ pizza_NN ._.

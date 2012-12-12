@@ -1,4 +1,0 @@
-I_PRP did_VBD n't_RB try_VB the_DT pizza_NN ,_, but_CC the_DT pasta_NN and_CC the_DT paninis_NNS were_VBD excellent_JJ !_.
-It_PRP 's_VBZ as_RB close_JJ to_TO authentic_JJ Italian_JJ fast-food_NN when_WRB there_EX 's_VBZ no_DT Little_JJ Italy_NNP nearby_RB ._.
-Service_NNP at_IN the_DT Midtown_NNP loation_NN was_VBD great_JJ ,_, too_RB ._.
-And_CC the_DT prices_NNS are_VBP cheap_JJ ,_, too_RB ._.

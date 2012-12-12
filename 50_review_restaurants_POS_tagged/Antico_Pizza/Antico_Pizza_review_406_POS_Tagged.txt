@@ -1,7 +1,0 @@
-Update_NNP :_: Pizza_NNP is_VBZ great_JJ overall_JJ ._.
-Was_VBD n't_RB too_RB fond_JJ of_IN the_DT Napolitana_NNP ._.
-Could_MD have_VB used_VBN more_RBR flavor_NN ._.
-The_DT sausage_NN was_VBD delicious_JJ ._.
-The_DT broccoli_JJ rabe_NN was_VBD bitter_JJ ._.
-Cannoli_NNS were_VBD superb_JJ ,_, and_CC the_DT crust_NN is_VBZ the_DT most_RBS delicious_JJ and_CC perfectly_RB textured_VBD I_PRP have_VBP ever_RB had_VBN ._.
-Prices_NNS are_VBP still_RB ridiculous_JJ ._.

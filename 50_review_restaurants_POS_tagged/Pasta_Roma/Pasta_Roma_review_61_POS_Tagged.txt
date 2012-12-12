@@ -1,5 +1,0 @@
-Love_NNP their_PRP$ meatball_NN sandwich_NN ._.
-It_PRP 's_VBZ so_RB delish_JJ !_.
-Right_RB amount_NN of_IN sauce_NN and_CC the_DT meatballs_NNS are_VBP great_JJ ._.
-The_DT bread_NN is_VBZ soft_JJ and_CC comes_VBZ with_IN a_DT green_JJ salad_NN !_.
-YUMMY_NNP !!!_CD

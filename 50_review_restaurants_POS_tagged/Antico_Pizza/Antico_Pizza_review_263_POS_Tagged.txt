@@ -1,9 +1,0 @@
-Antico_NNP 's_POS easily_RB has_VBZ the_DT greatest_JJS pizza_NN I_PRP have_VBP ever_RB had_VBN ._.
-It_PRP has_VBZ an_DT amazing_JJ concept_NN of_IN eating_VBG in_IN the_DT kitchen_NN and_CC its_PRP$ BYOB_NNP ._.
-It_PRP is_VBZ mad_JJ expensive_JJ but_CC had_VBD really_RB good_JJ tasting_NN pizza_NN ._.
-I_PRP would_MD say_VB that_IN do_VBP not_RB treat_VB this_DT like_IN a_DT regular_JJ pizza_NN joint_NN where_WRB you_PRP expect_VBP it_PRP to_TO cost_VB 12_CD dollars_NNS like_IN pizza_NN hut_NN or_CC papa_NN johns_NNS ._.
-It_PRP is_VBZ better_JJR pizza_NN and_CC is_VBZ more_RBR authentic_JJ ._.
-It_PRP should_MD be_VB considered_VBN an_DT expensive_JJ meal_NN and_CC is_VBZ worth_JJ it_PRP ._.
-The_DT drinks_NNS are_VBP very_RB expensive_JJ ,_, thats_NNS why_WRB its_PRP$ smarter_RBR to_TO buy_VB your_PRP$ own_JJ alcohol_NN and_CC bring_VB it_PRP with_IN ._.
-If_IN you_PRP want_VBP to_TO try_VB the_DT best_JJS Pizza_NNP in_IN Atlanta_NNP and_CC are_VBP willing_JJ to_TO spend_VB 20-25_JJ dollars_NNS for_IN it_PRP ,_, go_VB to_TO Antico_NNP 's_POS ._.
-Also_RB do_VB take_VB note_NN that_IN they_PRP do_VBP n't_RB sell_VB alcohol_NN ,_, but_CC you_PRP can_MD bring_VB your_PRP$ own_JJ ._.

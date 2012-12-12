@@ -1,4 +1,0 @@
-I_PRP used_VBD to_TO go_VB here_RB often_RB ,_, not_RB because_IN of_IN anything_NN special_JJ about_IN its_PRP$ pasta_NN -LRB-_-LRB- I_PRP 'd_MD rather_RB eat_VB at_IN Gypsy_NNP 's_POS ,_, Milanese_NNP Caffee_NNP or_CC Trattoria_NNP la_NNP Siciliana_NNP -RRB-_-RRB- but_CC for_IN its_PRP$ convenient_JJ location_NN near_IN my_PRP$ house_NN and_CC its_PRP$ cheap_JJ lunch_NN specials_NNS ._.
-I_PRP stopped_VBD eating_VBG here_RB ever_RB since_IN my_PRP$ friend_NN found_VBD a_DT strand_NN of_IN hair_NN in_IN her_PRP$ pasta_NN ._.
-yeahhh_NN ._. ._.
-no_DT thanks_NNS ._.

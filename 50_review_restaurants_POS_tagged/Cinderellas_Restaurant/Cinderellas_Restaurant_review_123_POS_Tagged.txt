@@ -1,1 +1,0 @@
-Dinner_NNP Standard_NNP for_IN a_DT late_JJ night_NN delivery_NN dinner_NN option_NN

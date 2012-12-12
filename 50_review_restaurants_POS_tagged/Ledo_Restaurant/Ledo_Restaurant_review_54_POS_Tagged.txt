@@ -1,5 +1,0 @@
-The_DT trademark_NN Ledo_NNP pizza_NN features_NNS thick_JJ ,_, chunky_JJ ,_, lightly_RB sweet_JJ sauce_NN ,_, hearty_NN pepperoni_NNS ,_, a_DT soft_JJ ,_, buttery_JJ crust_NN ,_, and_CC mild_JJ ,_, gooey_JJ provolone_NN cheese_NN ._.
-Served_VBN on_IN a_DT baking_NN sheet_NN ,_, the_DT pies_NNS lack_VBP the_DT puffy_JJ edges_NNS of_IN traditional_JJ pizza_NN and_CC the_DT crunchy_JJ bottom_NN of_IN pan_VB pizza_NN ._.
-Certainly_RB they_PRP are_VBP a_DT unique_JJ rendition_NN of_IN the_DT dish_NN ,_, but_CC sometimes_RB the_DT pies_NNS are_VBP unsatisfying_JJ ,_, and_CC the_DT depressing_JJ atmosphere_NN inside_IN the_DT restaurant_NN dulls_VBZ any_DT appreciation_NN of_IN the_DT meal_NN ._.
-Ledo_NNP 's_POS old-fashioned_JJ pizza_NN parlor_NN design_NN ,_, with_IN paneled_JJ walls_NNS and_CC heavy_JJ tables_NNS and_CC chairs_NNS -LRB-_-LRB- which_WDT have_VBP n't_RB changed_VBN since_IN they_PRP opened_VBD 50_CD years_NNS ago_IN -RRB-_-RRB- could_MD be_VB enhanced_VBN by_IN better_JJR lighting_NN ,_, which_WDT would_MD lighten_VB the_DT mood_NN and_CC compel_VB me_PRP to_TO return_VB ._.
-Alas_NNP ,_, it_PRP seems_VBZ unlikely_JJ ._.

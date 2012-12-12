@@ -1,4 +1,0 @@
-This_DT place_NN has_VBZ a_DT college_NN party_NN like_IN scene_NN with_IN food_NN that_IN you_PRP would_MD expect_VB at_IN such_PDT a_DT scene_NN ._.
-I_PRP got_VBD the_DT chicken_NN parm_NN sandwidch_NN and_CC brucshetta_NN appetizer_NN ._.
-Both_DT my_PRP$ wife_NN and_CC I_PRP got_VBD food_NN poisioning_VBG after_IN earting_VBG here_RB ._.
-They_PRP have_VBP a_DT nice_JJ porch_NN --_: but_CC I_PRP would_MD not_RB risk_VB getting_VBG sick_JJ again_RB here_RB ._.

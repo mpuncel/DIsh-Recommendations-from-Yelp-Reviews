@@ -1,6 +1,0 @@
-This_DT is_VBZ absolutely_RB my_PRP$ favorite_JJ pizza_NN that_WDT will_MD deliver_VB to_TO our_PRP$ apartment_NN ._.
-The_DT prosciutto_NN pizza_NN and_CC the_DT quattro_NN stagioni_NNS are_VBP both_DT fantastic_JJ ,_, and_CC their_PRP$ pasta_NN dishes_NNS are_VBP also_RB really_RB wonderful_JJ ._.
-We_PRP 've_VBP tried_VBD the_DT fettuccine_NN -LRB-_-LRB- with_IN sausage_NN and_CC peas_NNS in_IN cream_NN sauce_NN -RRB-_-RRB- and_CC the_DT gnocchi_NNS -LRB-_-LRB- with_IN red_JJ sauce_NN and_CC mozzarella_NN -RRB-_-RRB- ,_, and_CC both_DT were_VBD fresh_JJ and_CC delicious_JJ ._.
-The_DT prices_NNS are_VBP the_DT most_RBS reasonable_JJ we_PRP 've_VBP found_VBN for_IN the_DT quality_NN of_IN the_DT food_NN ,_, and_CC the_DT delivery_NN was_VBD lightening_VBG fast_RB ._.
-Eating_NNP in_IN is_VBZ also_RB very_RB nice_JJ -_: it_PRP 's_VBZ a_DT quiet_JJ ,_, casual_JJ atmosphere_NN ,_, with_IN attentive_JJ service_NN ._.
-Will_MD definitely_RB be_VB back_RB ._.

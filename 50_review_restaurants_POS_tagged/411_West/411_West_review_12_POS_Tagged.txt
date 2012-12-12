@@ -1,4 +1,0 @@
-I_PRP have_VBP been_VBN here_RB 3x_CD and_CC each_DT time_NN the_DT food_NN and_CC service_NN were_VBD great_JJ ._.
-Good_JJ bottle_NN of_IN wine_NN specials_NNS during_IN the_DT earlier_JJR part_NN of_IN the_DT week_NN ._.
-Great_NNP pastas_NNS ._.
-This_DT place_NN does_VBZ the_DT balancing_NN act_NN of_IN cheap_JJ and_CC delicious_JJ very_RB well_RB ._.

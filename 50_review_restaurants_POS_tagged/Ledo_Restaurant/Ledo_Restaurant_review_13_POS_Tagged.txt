@@ -1,6 +1,0 @@
-I_PRP grew_VBD up_RP with_IN Ledo_NNP pizza_NN ,_, so_IN I_PRP am_VBP biased_VBN ._.
-Truth_NN is_VBZ this_DT is_VBZ good_JJ freaking_NN pizza_NN ._.
-The_DT sauce_NN is_VBZ on_IN the_DT sweeter_NN side_NN ,_, with_IN great_JJ tomato_JJ flavor_NN ._.
-The_DT pizza_NN crust_NN ,_, when_WRB done_VBN just_RB right_RB ,_, is_VBZ the_DT perfect_JJ thickness_NN and_CC just_RB chewy_JJ enough_RB ,_, just_RB crispy_JJ enough_RB ._.
-I_PRP also_RB grew_VBD up_RP eating_VBG their_PRP$ spaghetti_NNS and_CC meatballs_NNS -_: sheer_JJ deliciousness_NN ._.
-I_PRP 'm_VBP disappointed_JJ they_PRP will_MD be_VB moving_VBG the_DT flagship_NN location_NN but_CC hey_NN ,_, at_IN least_JJS it_PRP ai_VBP n't_RB closing_VBG ._.

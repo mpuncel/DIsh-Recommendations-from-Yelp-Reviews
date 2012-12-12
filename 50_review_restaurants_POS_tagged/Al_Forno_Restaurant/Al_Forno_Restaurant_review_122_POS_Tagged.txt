@@ -1,1 +1,0 @@
-A_DT la_NNP carte_NN a_DT la_NNP expensive_JJ I_PRP got_VBD the_DT pork_NN it_PRP was_VBD so_RB raw_JJ it_PRP looked_VBD like_IN pork_NN tartare_NN but_CC it_PRP is_VBZ a_DT nice_JJ place_NN

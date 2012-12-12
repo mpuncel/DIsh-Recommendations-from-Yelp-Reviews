@@ -1,7 +1,0 @@
-This_DT place_NN is_VBZ so_RB good_JJ !_.
-Their_PRP$ cranberry_NN orange_NN muffins_NNS are_VBP the_DT absolute_JJ best_JJS I_PRP 've_VBP ever_RB had_VBN ._.
-The_DT two_CD times_NNS I_PRP 've_VBP come_VBN here_RB I_PRP 've_VBP ordered_VBN the_DT chicken_NN panini_NN and_CC both_DT times_NNS it_PRP was_VBD delicious_JJ !_.
-My_PRP$ husband_NN has_VBZ had_VBN the_DT beef_NN dip_NN and_CC the_DT linguisa_NN sausage_NN panini_NNS ,_, both_DT of_IN which_WDT he_PRP liked_VBD very_RB much_RB ._.
-The_DT sandwiches_NNS were_VBD served_VBN with_IN pasta_NN salad_NN which_WDT was_VBD super_JJ yummy_NN !_.
-I_PRP ca_MD n't_RB wait_VB to_TO go_VB back_RB and_CC try_VB their_PRP$ chicken_NN fettuccine_NN and_CC their_PRP$ crepes_NNS ,_, and_CC of_IN course_NN have_VBP another_DT muffin_NN !_.
-:_: -_: -RRB-_-RRB-

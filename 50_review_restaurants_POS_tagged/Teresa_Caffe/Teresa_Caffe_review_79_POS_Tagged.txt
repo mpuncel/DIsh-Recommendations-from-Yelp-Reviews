@@ -1,6 +1,0 @@
-Teresa_NNP 's_POS is_VBZ a_DT fun_NN bistro_NN ._.
-It_PRP has_VBZ an_DT energy_NN to_TO it_PRP ,_, maybe_RB its_PRP$ the_DT tight_JJ quarters_NNS and_CC the_DT college_NN town_NN atmosphere_NN ,_, but_CC it_PRP is_VBZ a_DT fun_NN place_NN for_IN dinner_NN ._.
-The_DT pizza_NN we_PRP had_VBD was_VBD tasty_JJ as_IN were_VBD the_DT sausage_NN and_CC beef_NN meatballs_NNS ._.
-Many_JJ of_IN the_DT dishes_NNS are_VBP organic_JJ vegetables_NNS or_CC farm_NN raised_VBD animals_NNS which_WDT is_VBZ something_NN you_PRP do_VBP n't_RB often_RB see_VB at_IN these_DT prices_NNS ._.
-There_EX is_VBZ a_DT long_JJ wait_NN on_IN weekends_NNS ,_, so_RB be_VB prepared_VBN ._.
-However_RB there_RB does_VBZ n't_RB seem_VB to_TO ever_RB be_VB a_DT wait_NN at_IN the_DT bar_NN if_IN that_DT is_VBZ an_DT option_NN ._.

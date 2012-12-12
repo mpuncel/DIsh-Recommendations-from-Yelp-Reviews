@@ -1,3 +1,0 @@
-I_PRP ordered_VBD a_DT simple_JJ capellini_NN pomodoro_NN and_CC they_PRP served_VBD me_PRP a_DT linguini_NN drenched_VBN with_IN a_DT can_MD style_NN tomato_NN sauce_NN ._.
-The_DT bread_NN was_VBD bleh_JJ and_CC the_DT coffee_NN even_RB worse_JJR ._.
-The_DT capellini_NN was_VBD really_RB thick_JJ and_CC when_WRB I_PRP commented_VBD on_IN the_DT uncharacteristically_RB wide_JJ pasta_NN he_PRP waiter_VB just_RB said_VBD thats_NNS all_DT they_PRP had_VBD ._.

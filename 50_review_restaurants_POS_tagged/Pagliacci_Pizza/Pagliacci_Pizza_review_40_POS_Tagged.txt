@@ -1,5 +1,0 @@
-Pizza_NNP is_VBZ eh_NN ..._: one_CD slice_NN definitely_RB wo_MD n't_RB be_VB enough_RB for_IN lunch_NN ._.
-You_PRP need_VBP two_CD ._.
-The_DT associates_NNS like_IN to_TO be_VB texting_VBG \/_RB browsing_VBG web_NN on_IN there_EX phone_NN at_IN the_DT checkout_NN ._.
-Kinda_NNP trashy_NN but_CC what_WP do_VBP you_PRP expect_VBP when_WRB your_PRP$ on_IN the_DT Ave._NNP Tables_NNPS needed_VBD attention_NN and_CC floors_NNS were_VBD a_DT bit_NN trashy_NN ._.
-I_PRP do_VBP n't_RB see_VB how_WRB they_PRP do_VBP n't_RB have_VB time_NN to_TO clean_VB up_RP when_WRB there_EX were_VBD 3-4_CD workers_NNS just_RB standing_VBG behind_IN the_DT counter_NN just_RB chatting_VBG away_RB ..._: laaaazy_NN !_.

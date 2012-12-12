@@ -1,4 +1,0 @@
-Ah_UH Gypsy_NNP 's_POS ,_, every_DT southsider_NN 's_POS favorite_JJ Mexican-run_JJ Italian_JJ restaurant_NN ._.
-The_DT pasta_NN is_VBZ just_RB absolute_JJ creamy_JJ fattening_NN comfort_NN food_NN ,_, and_CC their_PRP$ calzones_NNS are_VBP enormous_JJ ._.
-I_PRP think_VBP I_PRP 'd_MD gain_VB 10_CD pounds_NNS a_DT month_NN if_IN I_PRP ate_VBD there_EX everyday_JJ and_CC I_PRP 'd_MD get_VB an_DT aneurysm_NN pretty_RB soon_RB too_RB ._.
-But_CC oh_UH so_RB delicious_JJ ._.

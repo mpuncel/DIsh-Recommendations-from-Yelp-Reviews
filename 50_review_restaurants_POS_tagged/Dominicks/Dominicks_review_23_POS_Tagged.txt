@@ -1,6 +1,0 @@
-Dominick_NNP 's_POS is_VBZ an_DT ann_NN arbor_NN institution_NN ._.
-I_PRP remember_VBP living_VBG down_IN the_DT street_NN from_IN here_RB one_CD summer_NN ,_, as_IN a_DT lowly_RB 20_CD year_NN old_JJ ,_, longing_NN to_TO join_VB in_IN on_IN the_DT fun_NN ._.
-I_PRP was_VBD so_RB excited_VBN when_WRB I_PRP actually_RB got_VBD to_TO go_VB lounge_NN at_IN dominicks_NNS with_IN a_DT huge_JJ jar_NN of_IN sangria_NN ._.
-the_DT constant_JJ buzz_NN is_VBZ ,_, in_IN my_PRP$ opinion_NN ,_, the_DT best_JJS drink_NN they_PRP have_VBP here_RB ._.
-It_PRP 's_VBZ a_DT strawberry_JJ wonderful_JJ concoction_NN ,_, but_CC I_PRP also_RB love_VBP the_DT sangria_NN ._.
-The_DT food_NN is_VBZ okay_JJ ,_, but_CC for_IN me_PRP dominick_NN 's_POS ,_, is_VBZ more_RBR about_IN the_DT experience_NN ._.

@@ -1,4 +1,0 @@
-Gypsy_NNP 's_POS gets_VBZ 3_CD stars_NNS for_IN me_PRP because_IN everything_NN that_IN I_PRP used_VBD to_TO order_NN ,_, I_PRP coulda_VBP make_VB at_IN home_NN but_CC I_PRP was_VBD to_TO lazy_JJ to_TO do_VB so_RB ._.
-The_DT prices_NNS however_RB ,_, are_VBP good_JJ to_TO me_PRP ..._: I_PRP 've_VBP never_RB left_VBN paying_VBG over_IN 7_CD dollars_NNS ,_, unless_IN I_PRP was_VBD treating_VBG ._.
-It_PRP does_VBZ get_VB ridiculously_RB crowded_VBN at_IN certain_JJ times_NNS though_IN ._.
-NOTE_VB ..._: if_IN Berkeley_NNP is_VBZ having_VBG a_DT home_NN track_NN meet_VBP or_CC a_DT meet_VBP in_IN the_DT area_NN ,_, you_PRP will_MD see_VB ALL_NNP of_IN the_DT track_NN athletes_NNS there_RB filling_VBG up_RP on_IN those_DT cheap_JJ carbs_NNS ._.

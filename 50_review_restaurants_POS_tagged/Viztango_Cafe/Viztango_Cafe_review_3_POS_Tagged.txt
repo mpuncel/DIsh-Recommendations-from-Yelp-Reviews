@@ -1,8 +1,0 @@
-No_DT ,_, it_PRP 's_VBZ not_RB gourmet_NN but_CC it_PRP 's_VBZ G_NNP O_NNP O_NNP D._NNP What_WP you_PRP see_VBP is_VBZ what_WP you_PRP get_VBP ._.
-I_PRP like_VBP the_DT picture_NN menu_NN but_CC what_WP I_PRP like_VBP even_RB more_RBR is_VBZ the_DT daily_JJ lunch_NN special_JJ for_IN under_IN $_$ 8_CD ._.
-You_PRP get_VBP an_DT entree_FW ,_, salad_NN -LRB-_-LRB- your_PRP$ choice_NN of_IN caesar_NN or_CC garden_NN -RRB-_-RRB- ,_, a_DT drink_NN ,_, and_CC bread_NN !_.
-Each_DT day_NN is_VBZ different_JJ ._.
-I_PRP 've_VBP ordered_VBN takeout_NN and_CC delivery_NN countless_JJ times_NNS since_IN I_PRP work_VBP in_IN the_DT area_NN and_CC they_PRP have_VBP never_RB disappointed_VBN ._.
-This_DT is_VBZ definitely_RB a_DT cop_NN spot_NN and_CC there_EX always_RB `_`` SC_NNP students_NNS so_IN it_PRP has_VBZ a_DT cool_JJ and_CC calm_JJ ambiance_NN ._.
-Try_VB it_PRP if_IN you_PRP 're_VBP nearby_RB ._.
-My_PRP$ favorite_JJ is_VBZ the_DT penne_NN vodka_NN with_IN chicken_NN ._.

@@ -1,4 +1,0 @@
-kinda_NN cool_JJ place_NN ._.
-Pizza_NNP assembly_NN line_NN ._.
-Reminds_VBZ me_PRP of_IN Chipotle_NNP ,_, but_CC with_IN pizza_NN ._.
-The_DT food_NN is_VBZ really_RB yummy_JJ

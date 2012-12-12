@@ -1,5 +1,0 @@
-Came_NNP here_RB pretty_RB late_RB at_IN night_NN ,_, though_IN still_RB a_DT good_JJ crowd_NN in_IN the_DT restaurant_NN ._.
-I_PRP ordered_VBD some_DT salad_NN with_IN avocado_NN as_IN side_NN ._.
-When_WRB it_PRP arrived_VBD ,_, the_DT avocado_NN was_VBD mostly_RB brown\/black_JJ --_: obviously_RB not_RB fresh_JJ ._.
-When_WRB I_PRP asked_VBD for_IN new_JJ avocado_NN ,_, they_PRP were_VBD accommodating_VBG ,_, but_CC took_VBD slow_JJ with_IN their_PRP$ service_NN ._.
-The_DT Westwood_NNP location_NN is_VBZ not_RB as_RB great_JJ as_IN the_DT Newport_NNP or_CC Beverly_NNP Hills_NNP location_NN ,_, both_DT food_NN and_CC service_NN wise_JJ ._.

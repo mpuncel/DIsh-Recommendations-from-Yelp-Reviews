@@ -1,4 +1,0 @@
-Above_IN average_NN ,_, which_WDT sounds_VBZ like_IN damning_VBG with_IN faint_JJ praise_NN ,_, but_CC that_DT 's_VBZ not_RB my_PRP$ intent_NN ._.
-It_PRP 's_VBZ a_DT good_JJ place_NN that_IN I_PRP enjoyed_VBD ,_, but_CC it_PRP 's_VBZ not_RB the_DT first_JJ place_NN I_PRP 'd_MD go_VB in_IN CH_NNP ._.
-The_DT food_NN is_VBZ good_JJ ,_, but_CC not_RB great_JJ ._.
-The_DT service_NN is_VBZ very_RB ,_, very_RB good_JJ ._.

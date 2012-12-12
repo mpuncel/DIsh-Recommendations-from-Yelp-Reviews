@@ -1,4 +1,0 @@
-This_DT place_NN is_VBZ great_JJ !_.
-I_PRP 've_VBP tried_VBN almost_RB every_DT dish_NN and_CC I_PRP 'm_VBP never_RB disappointed_VBN ._.
-It_PRP 's_VBZ the_DT perfect_JJ place_NN for_IN quick_JJ ,_, cheap_JJ ,_, and_CC yummy_JJ food_NN ._.
-And_CC the_DT service_NN is_VBZ n't_RB bad_JJ too_RB ._.

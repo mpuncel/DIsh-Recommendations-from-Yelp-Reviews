@@ -1,8 +1,0 @@
-Yes_UH ,_, this_DT place_NN is_VBZ delicious_JJ !_.
-I_PRP 've_VBP ordered_VBN their_PRP$ apple_NN walnut_NN salad_NN three_CD times_NNS ,_, and_CC their_PRP$ Rustica_NNP is_VBZ hearty_NN ._.
-Portion_NN size_NN is_VBZ a_DT medium_NN to_TO large_JJ so_IN I_PRP always_RB get_VBP leftovers_NNS to_TO go_VB ._.
-Very_RB affordable_JJ and_CC the_DT food_NN has_VBZ yet_RB to_TO let_VB me_PRP down_RP ._.
-Truly_RB ,_, the_DT flavors_NNS taste_VBP fresh_JJ ._.
-I_PRP ordered_VBD the_DT salad_NN and_CC they_PRP were_VBD kind_RB enough_RB to_TO add_VB my_PRP$ missing_VBG mushrooms_NNS ..._: particularly_RB the_DT cute_JJ waiter_NN who_WP also_RB loves_VBZ mushrooms_NNS ._.
-Their_PRP$ tiramisu_NN is_VBZ so_RB gooood_JJ and_CC I_PRP do_VBP n't_RB care_VB if_IN they_PRP got_VBD it_PRP from_IN a_DT box_NN ,_, it_PRP 's_VBZ still_RB wonderful_JJ !_.
-Happy_JJ hour_NN with_IN beer_NN is_VBZ also_RB awesome_JJ ._.

@@ -1,9 +1,0 @@
-Gypsy_NNP 's_POS is_VBZ good_JJ if_IN you_PRP want_VBP a_DT quick_JJ fix_NN for_IN dinner_NN and_CC do_VBP n't_RB want_VB something_NN too_RB high-end_JJ or_CC expensive_JJ ._.
-All_PDT the_DT times_NNS I_PRP 've_VBP gone_VBN here_RB I_PRP got_VBD the_DT fettucini_NNS with_IN broccoli_NNS ._.
-It_PRP was_VBD okay-that_NN 's_POS all_DT ._.
-Nothing_NN amazing_JJ but_CC I_PRP just_RB wanted_VBD something_NN fast_RB and_CC filling_VBG anyways_NNS ._.
-I_PRP disliked_VBD their_PRP$ bread_NN though_IN ._.
-The_DT service_NN is_VBZ fast_RB ,_, price_NN is_VBZ good_JJ ,_, and_CC food_NN is_VBZ decent_JJ ._.
-Not_RB really_RB a_DT super_JJ high_JJ quality_NN restaurant_NN but_CC that_DT is_VBZ generally_RB the_DT case_NN with_IN restaurants_NNS in_IN the_DT Durant_NNP Food_NNP Court_NNP ._.
-Portions_NNS are_VBP large_JJ and_CC I_PRP 've_VBP heard_VBN the_DT calzones_NNS are_VBP great_JJ ._.
-Next_JJ time_NN ,_, I_PRP 'll_MD try_VB one_CD !_.

@@ -1,6 +1,0 @@
-Great_JJ food_NN !!!_CD I_PRP eat_VBP here_RB like_IN every_DT other_JJ day_NN and_CC the_DT food_NN is_VBZ always_RB awesome_JJ ._.
-You_PRP ca_MD n't_RB go_VB wrong_JJ with_IN the_DT Linguini_NNP Artichini_NNP or_CC the_DT Penne_NNP Vodka_NNP ._.
-But_CC just_RB about_IN anything_NN is_VBZ pretty_RB good_JJ and_CC if_IN you_PRP are_VBP a_DT USC_NNP student_NN you_PRP get_VBP a_DT 20_CD %_NN discount_NN ._.
-Plus_CC they_PRP have_VBP a_DT frequent_JJ customer_NN card_NN that_WDT gives_VBZ you_PRP a_DT point_NN for_IN every_DT dollar_NN you_PRP spend_VBP there_RB with_IN 90_CD points_NNS you_PRP can_MD get_VB any_DT entree_FW on_IN the_DT menu_NN ._.
-Therefore_RB you_PRP can_MD in_IN theory_NN get_VBP a_DT 30_CD %_NN discount_NN if_IN you_PRP eat_VBP here_RB often_RB enough_JJ ._.
-=_SYM -RRB-_-RRB-

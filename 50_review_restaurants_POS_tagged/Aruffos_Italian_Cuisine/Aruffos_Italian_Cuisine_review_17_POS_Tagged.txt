@@ -1,3 +1,0 @@
-I_PRP love_VBP this_DT place_NN !_.
-Everything_NN about_IN this_DT restaurant_NN is_VBZ amazing_JJ ._.
-From_IN the_DT home_NN like_IN atmosphere_NN and_CC great_JJ service_NN ,_, to_TO the_DT fresh_JJ out_IN of_IN the_DT oven_CD bread_NN and_CC heaps_NNS of_IN delicious_JJ pasta_NN

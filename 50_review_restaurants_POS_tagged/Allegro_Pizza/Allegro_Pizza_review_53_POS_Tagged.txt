@@ -1,5 +1,0 @@
-Great_NNP pizza_NN ,_, wings_NNS ,_, stromboli_NNS ,_, cheesesteaks_NNS ,_, and_CC service_NN ._.
-Plus_CC the_DT convenience_NN of_IN online_JJ delivery_NN ._.
-That_DT 's_VBZ why_WRB I_PRP 've_VBP ordered_VBN from_IN hear_VBP multiple_JJ times_NNS over_IN the_DT past_JJ two_CD years_NNS and_CC will_MD continue_VB to_TO do_VB so_RB ._.
-The_DT food_NN delivers_VBZ fast_RB and_CC the_DT delivery_NN people_NNS always_RB seem_VBP happy_JJ ._.
-I_PRP 've_VBP never_RB eaten_VBN inside_IN ,_, but_CC my_PRP$ girlfriend_NN and_CC I_PRP stopped_VBD in_RP quick_JJ for_IN a_DT bottle_NN of_IN water_NN and_CC the_DT restaurant_NN looked_VBD neat_JJ and_CC clean_JJ inside_NN ._.

@@ -1,7 +1,0 @@
-This_DT restaurant_NN has_VBZ a_DT great_JJ atmosphere_NN and_CC is_VBZ lovely_JJ to_TO sit_VB outside_JJ on_IN a_DT warm_JJ summer_NN 's_POS day_NN ._.
-This_DT is_VBZ gluten_VBN free_JJ friendly_JJ and_CC we_PRP found_VBD the_DT server_NN was_VBD really_RB helpful_JJ and_CC knowlegable_JJ about_IN options_NNS for_IN GF_NNP and_CC dairy_NN free_JJ meals_NNS ._.
-They_PRP offer_VBP a_DT corn_NN pasta_NN alternative_NN if_IN you_PRP want_VBP to_TO enjoy_VB their_PRP$ delicious_JJ pasta_NN sauces_NNS ._.
-The_DT caprese_NN salad_NN has_VBZ divine_JJ buffalo_NN mozzarella_NN -LRB-_-LRB- the_DT owners_NNS have_VBP connection_NN to_TO Italy_NNP and_CC you_PRP can_MD taste_VB the_DT authenticity_NN -RRB-_-RRB- combined_VBN with_IN local_JJ NJ_NNP tomatoes_NNS -_: delish_NN ._.
-My_PRP$ guest_NN requested_VBD a_DT version_NN of_IN the_DT pasta_NN with_IN chicken_NN added_VBD and_CC they_PRP happily_RB provided_VBD this_DT option_NN ._.
-The_DT local_JJ gelato_NN and_CC sorbet_NN had_VBD intense_JJ flavors_NNS and_CC a_DT lovely_JJ way_NN to_TO round_VB out_RP a_DT great_JJ experience_NN ._.
-If_IN you_PRP are_VBP dining_VBG for_IN pleasure_NN or_CC taking_VBG a_DT colleague_NN for_IN work_NN meeting_NN ,_, this_DT is_VBZ a_DT well_RB located_VBN ,_, nicely_RB designed_VBN ,_, great_JJ menu_NN option_NN ._.

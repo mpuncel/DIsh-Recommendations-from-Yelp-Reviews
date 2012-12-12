@@ -1,5 +1,0 @@
-I_PRP am_VBP a_DT fan_NN for_IN the_DT food_NN ._.
-Service_NNP is_VBZ consistently_RB bad_JJ ._.
-If_IN you_PRP go_VBP as_IN a_DT group_NN ,_, do_VBP not_RB expect_VB your_PRP$ food_NN to_TO be_VB served_VBN together_RB ._.
-The_DT last_JJ time_NN we_PRP waited_VBD 15_CD mins_NNS to_TO get_VB coffee_NN and_CC a_DT 30min_JJ gap_NN between_IN the_DT 1st_CD dish_NN and_CC 4th_JJ dish_NN arriving_VBG at_IN our_PRP$ table_NN ._.
-If_IN you_PRP are_VBP not_RB bothered_VBN by_IN bad_JJ service_NN ,_, i_FW recommend_VB the_DT place_NN ._.

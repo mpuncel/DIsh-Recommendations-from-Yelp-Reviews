@@ -1,7 +1,0 @@
-Not_RB open_VB all_DT year_NN around_IN but_CC it_PRP is_VBZ one_CD of_IN the_DT best_JJS places_NNS to_TO get_VB sangria_NN and_CC constant_JJ buzz_NN ._.
-Sangria_NNP comes_VBZ in_IN different_JJ sizes_NNS ,_, depending_VBG on_IN how_WRB many_JJ people_NNS you_PRP are_VBP with_IN ,_, will_MD determine_VB the_DT size_NN you_PRP get_VBP -LRB-_-LRB- it_PRP 's_VBZ cheaper_JJR to_TO get_VB the_DT bigger_JJR one_NN and_CC share_NN with_IN your_PRP$ group_NN -_: they_PRP will_MD give_VB you_PRP extra_JJ jam_NN jars_NNS ,_, which_WDT is_VBZ what_WP you_PRP drink_VBP out_IN of_IN -RRB-_-RRB- ._.
-Constant_JJ buzz_NN only_RB comes_VBZ in_IN one_CD size_NN but_CC it_PRP worth_IN a_DT try_NN ._.
-Never_RB had_VBD the_DT food_NN here_RB but_CC heard_VBD good_JJ things_NNS about_IN it_PRP ._.
-Doms_NNS is_VBZ pretty_RB strict_JJ IDing_NNP wise_JJ ,_, so_RB do_VBP n't_RB try_VB to_TO get_VB in_IN with_IN a_DT fake_NN ._.
-There_EX is_VBZ seating_VBG outside_RB in_IN the_DT back_NN ,_, which_WDT is_VBZ the_DT nicest_JJS place_NN to_TO chill_NN and_CC drink_NN during_IN the_DT spring_NN and_CC fall_NN ._.
-There_EX is_VBZ also_RB seating_VBG upstairs_RB when_WRB it_PRP get_VB 's_POS a_DT bit_NN chilly_JJ ._.

@@ -1,5 +1,0 @@
-had_VBD a_DT great_JJ meal_NN on_IN 4-20-2012_CD ._.
-wife_NN had_VBD ravioli_NNS and_CC i_FW had_VBD gnocchi_NNS ._.
-both_DT fantastic_JJ ._.
-best_RB meal_NN in_IN ann_NN arbor_NN in_IN 2_CD yrs_NNS ._.
-limoncello_NN was_VBD excellent_JJ and_CC very_RB nice_JJ touch_NN

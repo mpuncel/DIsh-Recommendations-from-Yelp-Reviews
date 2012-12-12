@@ -1,3 +1,0 @@
-The_DT quality_NN of_IN the_DT food_NN is_VBZ comparable_JJ to_TO an_DT Olive_NNP Garden_NNP ._.
-It_PRP 's_VBZ not_RB terrible_JJ ,_, it_PRP 's_VBZ just_RB so-so_JJ ._.
-If_IN you_PRP are_VBP craving_NN Italian_JJ food_NN in_IN the_DT Claremont_NNP Village_NNP ,_, I_PRP would_MD opt_VB for_IN La_NNP Parolaccia_NNP or_CC Tutti_NNP Mangia_NNP over_IN this_DT place_NN ._.

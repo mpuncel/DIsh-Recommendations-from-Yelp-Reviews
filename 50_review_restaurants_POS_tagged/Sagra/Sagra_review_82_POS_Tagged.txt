@@ -1,5 +1,0 @@
-The_DT food_NN was_VBD delicious_JJ !_.
-Rosemary_NNP lemonade_NN was_VBD excellent_JJ !_.
-Dined_VBN here_RB on_IN my_PRP$ 40th_JJ b-day_JJ and_CC was_VBD not_RB disappointed_JJ !_.
-Ca_MD n't_RB wait_VB to_TO go_VB back_RB !_.
-Vegan_JJ options_NNS ._.

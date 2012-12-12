@@ -1,1 +1,0 @@
-Pizzas_NNP suck_NN Pastas_NNP are_VBP great_JJ for_IN the_DT price_NN Calzones_NNS are_VBP boring_JJ Sandwiches_NNS are_VBP good_JJ ._.

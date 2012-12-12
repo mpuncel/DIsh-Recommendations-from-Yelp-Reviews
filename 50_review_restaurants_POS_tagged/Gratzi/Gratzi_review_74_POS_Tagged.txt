@@ -1,6 +1,0 @@
-I_PRP 'm_VBP not_RB sure_JJ why_WRB this_DT restaurant_NN has_VBZ such_PDT a_DT low_JJ rating_NN ._.
-I_PRP 've_VBP eaten_VBN here_RB about_IN 6_CD or_CC 7_CD times_NNS over_IN the_DT last_JJ 20_CD or_CC so_RB years_NNS when_WRB my_PRP$ family_NN is_VBZ on_IN vacation_NN on_IN Glen_NNP Lake_NNP ._.
-The_DT last_JJ time_NN I_PRP was_VBD there_RB ,_, which_WDT is_VBZ last_JJ August_NNP ,_, I_PRP had_VBD a_DT spectacular_JJ meal_NN ._.
-The_DT service_NN was_VBD also_RB excellent_JJ ._.
-Obviously_RB the_DT prices_NNS are_VBP very_RB high_JJ ,_, so_IN you_PRP need_VBP a_DT good_JJ understanding_NN of_IN fine_JJ food_NN to_TO enjoy_VB it_PRP ._.
-But_CC I_PRP would_MD definitely_RB come_VB back_RB when_WRB I_PRP am_VBP up_RB there_RB again_RB ._.

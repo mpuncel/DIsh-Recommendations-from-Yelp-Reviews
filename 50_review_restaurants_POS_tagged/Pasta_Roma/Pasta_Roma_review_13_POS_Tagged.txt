@@ -1,5 +1,0 @@
-This_DT place_NN is_VBZ not_RB better_JJR than_IN Bistengo_NNP ,_, I_PRP do_VBP n't_RB care_VB what_WP Erik_NNP Nelson_NNP says_VBZ ._.
-It_PRP might_MD be_VB slightly_RB cheaper_JJR ._.
-That_DT 's_VBZ because_IN they_PRP use_VBP old_JJ iceberg_NN lettuce_NN and_CC under-ripe_JJ tomatoes_NNS ._.
-Contender_NN for_IN the_DT least-exciting_JJ basil-mozarella_NN salad_NN I_PRP 've_VBP had_VBD this_DT year_NN ._.
-At_IN least_JJS their_PRP$ bread_NN is_VBZ spiced_VBN !_.

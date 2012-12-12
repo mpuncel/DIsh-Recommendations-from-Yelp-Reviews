@@ -1,6 +1,0 @@
-Bertucci_NNP 's_POS is_VBZ a_DT decent_JJ Italian_JJ chain_NN restaurant_NN that_WDT can_MD please_VB a_DT variety_NN of_IN different_JJ taste_NN ._.
-The_DT food_NN wo_MD n't_RB knock_VB your_PRP$ socks_NNS off_RP ,_, but_CC it_PRP 's_VBZ good_JJ ,_, relatively_RB inexpensive_JJ ,_, and_CC will_MD definitely_RB fill_VB you_PRP up_RP ._.
-Granted_VBN ,_, there_EX are_VBP plenty_RB of_IN better_JJR Italian_JJ options_NNS around_IN the_DT city_NN ,_, but_CC if_IN you_PRP 're_VBP going_VBG to_TO go_VB down_RP the_DT food_NN chain_NN route_NN ,_, I_PRP would_MD definitely_RB recommend_VB this_DT location_NN in_IN particular_JJ ._.
-It_PRP 's_VBZ never_RB full_JJ ,_, so_IN whether_IN you_PRP arrive_VBP on_IN a_DT peek_NN night_NN or_CC show_VB up_RP with_IN a_DT big_JJ party_NN unexpected_JJ ,_, you_PRP can_MD count_VB on_IN quick_JJ seating_NN ,_, friendly_JJ service_NN ,_, and_CC a_DT stress-free_JJ meal_NN ._.
-Stick_NNP to_TO their_PRP$ pizza_NN and_CC calzones_NNS and_CC you_PRP wo_MD n't_RB be_VB disappointed_VBN ._.
-If_IN you_PRP venture_VBP further_RB than_IN that_DT ,_, you_PRP may_MD be_VB taking_VBG a_DT risk_NN ._.

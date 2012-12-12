@@ -1,5 +1,0 @@
-I_PRP like_VBP their_PRP$ direction_NN and_CC they_PRP are_VBP artisanal_JJ and_CC different_JJ for_IN the_DT Mercer_NNP County_NNP dining_VBG scene_NN ._.
-Unfortunately_RB I_PRP 'm_VBP not_RB super_JJ happy_JJ with_IN the_DT balance_NN of_IN their_PRP$ dishes_NNS -_: they_PRP tend_VBP to_TO have_VB too_RB much_JJ acidity_NN and\/or_CC bitterness_NN in_IN their_PRP$ style_NN ._.
-The_DT menu_NN is_VBZ limited_VBN and_CC the_DT staff_NN tend_VB to_TO be_VB slow_JJ ._.
-It_PRP 's_VBZ pricey_JJ and_CC the_DT dinner_NN hours_NNS tend_VBP to_TO get_VB extremely_RB loud_JJ and_CC not_RB very_RB intimate_JJ ._.
-Wine_NN selection_NN is_VBZ decent_JJ ._.

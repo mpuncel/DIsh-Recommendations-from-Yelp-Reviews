@@ -1,6 +1,0 @@
-The_DT food_NN is_VBZ okay_JJ here_RB ._.
-For_IN lunch_NN it_PRP is_VBZ a_DT good_JJ choice_NN ._.
-The_DT price_NN is_VBZ reasonable_JJ and_CC portion_NN is_VBZ big_JJ ._.
-Tried_VBD the_DT salmon_NN sandwich_NN ,_, it_PRP was_VBD just_RB okay_JJ ._.
-A_DT bit_NN dry_JJ ._.
-The_DT chicken_NN kabob_NN was_VBD also_RB very_RB dry_JJ ,_, but_CC the_DT rice_NN was_VBD well_RB done_VBN ._.

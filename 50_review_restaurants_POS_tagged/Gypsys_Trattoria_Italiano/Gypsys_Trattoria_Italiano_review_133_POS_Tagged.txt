@@ -1,5 +1,0 @@
-Gypsy_NNP 's_POS is_VBZ a_DT good_JJ place_NN to_TO eat_VB when_WRB you_PRP have_VBP absolutely_RB no_DT qualms_NNS about_IN your_PRP$ health_NN ..._: and_CC I_PRP mean_VBP that_IN in_IN the_DT best_JJS way_NN possible_JJ ._.
-The_DT Italian_JJ food_NN is_VBZ buttery_NN and_CC rich_JJ and_CC the_DT portion_NN sizes_NNS are_VBP very_RB generous_JJ ._.
-It_PRP was_VBD a_DT guilty_JJ pleasure_NN of_IN mine_NN in_IN college_NN ,_, but_CC I_PRP have_VBP n't_RB been_VBN back_RB since_IN my_PRP$ metabolism_NN is_VBZ n't_RB Gypsy_NNP 's_POS capable_JJ anymore_RB !_.
-The_DT staff_NN is_VBZ nice_JJ and_CC the_DT food_NN is_VBZ quickly_RB prepared_JJ and_CC served_VBD ._.
-A_DT good_JJ place_NN to_TO try_VB if_IN you_PRP want_VBP something_NN that_WDT wo_MD n't_RB leave_VB you_PRP wanting_VBG more_RBR at_IN the_DT end_NN of_IN your_PRP$ meal_NN ._.

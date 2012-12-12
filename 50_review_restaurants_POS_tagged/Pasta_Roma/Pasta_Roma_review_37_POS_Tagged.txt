@@ -1,8 +1,0 @@
-Pasta_NN Roma_NNP is_VBZ actually_RB not_RB a_DT bad_JJ place_NN for_IN quick_JJ ,_, cheap_JJ Italian_JJ food_NN ,_, considering_VBG its_PRP$ grungy_JJ atmosphere_NN and_CC at_IN times_NNS ,_, equally_RB grungy_JJ patronage_NN ._.
-Looks_VBZ deceive_VB ,_, like_IN in_IN many_JJ an_DT LA_NNP strip_NN mall_NN restaurant_NN ,_, and_CC the_DT fact_NN that_IN Pasta_NNP Roma_NNP has_VBZ been_VBN in_IN this_DT spot_NN for_IN all_DT memory_NN is_VBZ proof_NN that_IN it_PRP 's_VBZ not_RB bad_JJ ._.
-The_DT menu_NN is_VBZ photographic_JJ and_CC hung_VBD on_IN the_DT wall_NN over_IN the_DT kitchen_NN ._.
-They_PRP have_VBP all_DT kinds_NNS of_IN pastas_NNS ,_, pizzas_NNS ,_, and_CC other_JJ Italian_JJ entrees_NNS but_CC its_PRP$ best_JJS to_TO stick_VB to_TO the_DT pastas_NNS ._.
-I_PRP 've_VBP had_VBD the_DT pesto_NN ,_, meatball_NN ,_, and_CC primavera_NN -_: all_DT of_IN which_WDT have_VBP been_VBN fairly_RB good_JJ ._.
-You_PRP can_MD get_VB garlic_JJ bread_NN on_IN the_DT side_NN and_CC a_DT soda_NN or_CC beer_NN with_IN your_PRP$ order_NN ._.
-After_IN you_PRP pay_VBP ,_, you_PRP wait_VBP for_IN your_PRP$ stuff_NN at_IN a_DT table_NN ._.
-Frat_NNP boys_NNS and_CC homeless_JJ crazies_NNS alike_RB enjoy_VBP Pasta_NNP Roma_NNP ._.

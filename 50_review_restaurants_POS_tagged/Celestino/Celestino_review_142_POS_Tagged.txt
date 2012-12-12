@@ -1,7 +1,0 @@
-Celestino_NNP has_VBZ a_DT diverse_JJ array_NN of_IN excellent_JJ dishes_NNS ._.
-I_PRP am_VBP partial_JJ to_TO the_DT farfalle_NN with_IN morels_NNS and_CC pheasant_NN ._.
-The_DT bar_NN serves_VBZ up_RP a_DT great_JJ negroni_NN ._.
-The_DT service_NN is_VBZ spectacular_JJ ,_, the_DT prices_NNS are_VBP moderate_JJ for_IN LA._NNP ._.
-And_CC excellent_JJ place_NN to_TO bring_VB someone_NN special_JJ ._.
-My_PRP$ only_JJ major_JJ criticism_NN ,_, of_IN the_DT well_NN over_IN 20_CD times_NNS I_PRP have_VBP dined_VBN there_EX :_: a_DT table_NN near_IN the_DT bar_NN was_VBD incurably_RB wobbly_JJ one_CD evening_NN ,_, and_CC it_PRP really_RB ruined_VBD the_DT ambiance_NN for_IN a_DT casual_JJ dinner_NN date_NN ._.
-I_PRP hope_VBP they_PRP have_VBP fixed_VBN the_DT problem_NN !_.

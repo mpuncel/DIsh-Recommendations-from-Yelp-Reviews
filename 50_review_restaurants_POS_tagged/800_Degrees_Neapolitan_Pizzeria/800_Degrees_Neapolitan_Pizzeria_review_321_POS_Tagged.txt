@@ -1,5 +1,0 @@
-Cheap_JJ pizzas_NNS that_IN you_PRP personalize_VBP made_VBN fresh_JJ to_TO order_VB ?_.
-Ah_UH yes_UH count_VB me_PRP in_IN ._.
-Westwood_NNP has_VBZ plenty_NN of_IN pizza_NN places_NNS but_CC none_NN like_IN this_DT ._.
-If_IN you_PRP are_VBP a_DT heavy_NN in_IN the_DT toppings_NNS guy_NN ,_, be_VB notified_VBN ,_, the_DT $_$ 1_CD toppings_NNS will_MD get_VB ya_PRP ._.
-But_CC if_IN you_PRP like_IN a_DT simple_JJ pizza_NN like_IN me_PRP ,_, then_RB this_DT is_VBZ your_PRP$ spot_NN ._.

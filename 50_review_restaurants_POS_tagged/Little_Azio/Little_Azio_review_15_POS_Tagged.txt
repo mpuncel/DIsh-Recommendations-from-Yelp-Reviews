@@ -1,5 +1,0 @@
-I_PRP love_VBP pizza_NN and_CC outdoor_JJ seating_NN ._.
-Little_NNP Azio_NNP has_VBZ both_DT ._.
-My_PRP$ sister_NN and_CC I_PRP sat_VBD outside_IN on_IN a_DT breezy_JJ day_NN and_CC enjoyed_VBD relatively_RB quick_JJ service_NN ._.
-Why_WRB only_RB three_CD stars_NNS ?_.
-Because_IN the_DT pizza_NN honestly_RB was_VBD n't_RB that_DT good_JJ ,_, and_CC there_EX are_VBP several_JJ better_JJR places_NNS in_IN Atlanta_NNP ._.

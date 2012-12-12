@@ -1,1 +1,0 @@
-This_DT is_VBZ a_DT solid_JJ 3.7_CD there_EX chicken_NN tuscaunas_NNS is_VBZ a_DT 4.5_CD awesome_JJ !!!_NN

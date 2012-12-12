@@ -1,5 +1,0 @@
-Come_VBN here_RB if_IN the_DT Sand_NNP Point_NNP shop_NN is_VBZ closed_VBN ._.
-Pizza_NNP is_VBZ great_JJ ._.
-Consistent_JJ and_CC yummy_JJ ._.
-Order_NNP giving_VBG is_VBZ such_JJ a_DT pleasure_NN --_: they_PRP have_VBP operations_NNS down_RB !_.
-Try_VB their_PRP$ Gelato_NNP and_CC their_PRP$ Pagliacci_NNP salad_NN ._.

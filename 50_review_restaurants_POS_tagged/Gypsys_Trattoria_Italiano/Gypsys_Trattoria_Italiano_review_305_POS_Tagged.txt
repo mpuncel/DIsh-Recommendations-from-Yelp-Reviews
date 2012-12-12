@@ -1,4 +1,0 @@
-This_DT is_VBZ ..._: hands_NNS down_IN ..._: the_DT greatest_JJS restaurant_NN ever_RB ._.
-I_PRP graduated_VBD from_IN Cal_NNP a_DT year_NN ago_RB and_CC I_PRP still_RB think_VBP about_IN this_DT place_NN on_IN almost_RB a_DT daily_JJ basis_NN ._.
-Anyone_NN giving_VBG this_DT place_NN a_DT lower_JJR rating_NN than_IN a_DT 5_CD should_MD be_VB taken_VBN out_RP back_RB -LRB-_-LRB- of_IN where_WRB ,_, I_PRP do_VBP n't_RB know_VB -RRB-_-RRB- and_CC shot_NN ._.
-Everything_NN is_VBZ good_JJ ,_, but_CC the_DT Godfather_NNP 's_POS Favorite_NNP is_VBZ other-worldly_RB !_.

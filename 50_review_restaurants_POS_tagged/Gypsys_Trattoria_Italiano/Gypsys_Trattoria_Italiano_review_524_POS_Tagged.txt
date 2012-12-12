@@ -1,5 +1,0 @@
-This_DT is_VBZ my_PRP$ MUST_NNP STOP_NNP BY_IN place_NN in_IN Berkeley_NNP when_WRB I_PRP go_VBP out_IN there_RB with_IN my_PRP$ boyfriend_NN ._.
-We_PRP LOVE_VBP LOVE_NNP LOVE_NNP Gypsy_NNP 's_POS Chicken_NNP ._.
-I_PRP 've_VBP tried_VBD a_DT few_JJ other_JJ dishes_NNS here_RB ,_, but_CC when_WRB I_PRP tried_VBD their_PRP$ gypsy_NN 's_POS Chicken_NNP ..._: I_PRP fell_VBD in_IN love_NN ._.
-My_PRP$ boyfriend_NN eventually_RB started_VBD eating_VBG it_PRP too_RB after_IN trying_VBG mine_NN ._.
-I_PRP 've_VBP brought_VBN a_DT few_JJ friends_NNS here_RB ,_, and_CC they_PRP too_RB love_VBP the_DT dish_NN ._.

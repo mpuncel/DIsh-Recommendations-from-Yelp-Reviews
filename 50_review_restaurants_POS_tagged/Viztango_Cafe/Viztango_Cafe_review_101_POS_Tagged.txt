@@ -1,2 +1,0 @@
-The_DT free_JJ bread_NN w_NN \/_NN oil_NN and_CC vinegar_NN is_VBZ a_DT good_JJ meal_NN in_IN itself_PRP ._.
-Overall_JJ though_IN ,_, nothing_NN really_RB outstanding_JJ ,_, but_CC nothing_NN bad_JJ either_CC -_: just_RB decent_JJ ,_, fast_RB ,_, cheap_JJ Italian_JJ food_NN ._.

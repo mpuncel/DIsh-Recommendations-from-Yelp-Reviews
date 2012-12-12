@@ -1,3 +1,0 @@
-The_DT pizza_NN is_VBZ the_DT same_JJ here_RB as_IN all_PDT the_DT other_JJ Pagliacci_NNP 's_POS ..._: overrated_VBN and_CC overpriced_VBN ._.
-I_PRP know_VBP people_NNS who_WP REALLY_VBP like_IN Pagliacci_NNP ,_, but_CC I_PRP do_VBP n't_RB ._.
-If_IN I_PRP 'm_VBP starving_VBG -LRB-_-LRB- munchies_NNS -RRB-_-RRB- and_CC I_PRP wanna_VBP spend_VB $_$ 3.00_CD on_IN a_DT damn_JJ slice_NN of_IN pizza_NN -LRB-_-LRB- lazy_JJ -RRB-_-RRB- it_PRP 's_VBZ okay_JJ ._.

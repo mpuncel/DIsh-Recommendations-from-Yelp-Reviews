@@ -1,4 +1,0 @@
-I_PRP had_VBD the_DT goat_NN cheese_NN salad_NN ,_, which_WDT was_VBD sooo_JJ good_JJ ._.
-The_DT dressing_VBG was_VBD a_DT really_RB nice_JJ vinaigrette_NN that_IN I_PRP only_RB wish_VBP I_PRP had_VBD also_RB had_VBN my_PRP$ friend_NN 's_POS pizza_NN to_TO use_VB the_DT crust_NN to_TO soak_VB the_DT rest_NN up_RP with_IN ._.
-The_DT Gorgonzola_NNP pizza_NN ,_, by_IN the_DT way_NN ,_, was_VBD also_RB delicious_JJ ._.
-Cute_JJ outdoor_JJ place_NN ,_, reasonably_RB priced_VBN ,_, but_CC just_RB beyond_IN tasty_JJ !_.

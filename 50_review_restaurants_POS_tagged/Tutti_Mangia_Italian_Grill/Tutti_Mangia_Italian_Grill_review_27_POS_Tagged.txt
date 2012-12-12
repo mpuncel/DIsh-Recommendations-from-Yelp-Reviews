@@ -1,3 +1,0 @@
-A_DT bit_NN on_IN the_DT pricy_NN side_NN especially_RB on_IN the_DT wines_NNS by_IN glass_NN ._.
-However_RB the_DT food_NN was_VBD fantastic_JJ ,_, as_RB well_RB as_IN the_DT service_NN ._.
-Well_UH worth_IN it_PRP ..._:

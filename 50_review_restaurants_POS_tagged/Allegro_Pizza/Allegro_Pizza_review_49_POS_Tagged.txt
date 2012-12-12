@@ -1,4 +1,0 @@
-I_PRP have_VBP to_TO admit_VB ,_, I_PRP do_VBP like_IN Allegro_NNP Pizza_NNP a_DT lot_NN !_.
-This_DT place_NN sells_VBZ the_DT pie-by-the-slice_NN which_WDT is_VBZ great_JJ for_IN lunch_NN or_CC anytime_RB of_IN day_NN for_IN a_DT snack_NN ._.
-There_EX 's_VBZ a_DT huge_JJ selection_NN of_IN beer_NN and_CC you_PRP can_MD buy_VB by_IN the_DT six-pack_NN ,_, too_RB !_.
-I_PRP 've_VBP ordered_VBN catering_NN from_IN here_RB a_DT few_JJ times_NNS as_RB well_RB ..._: and_CC they_PRP have_VBP ridiculous_JJ specials_NNS like_IN 50_CD pizzas_NNS plus_CC 20_CD 2-liters_NNS for_IN $_$ 500_CD !!!_CD I_PRP 'll_MD be_VB back_RB again_RB soon_RB ._.

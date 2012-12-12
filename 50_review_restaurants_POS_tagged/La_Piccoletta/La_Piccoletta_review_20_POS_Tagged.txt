@@ -1,7 +1,0 @@
-This_DT is_VBZ a_DT fantastic_JJ ,_, romantic_JJ place_NN -_: one_CD of_IN the_DT best_JJS in_IN Claremont_NNP ._.
-It_PRP 's_VBZ hard_JJ to_TO find_VB and_CC inconvenient_JJ for_IN parking_NN ,_, but_CC it_PRP 's_VBZ worth_JJ it_PRP ._.
-I_PRP love_VBP this_DT place_NN ,_, and_CC it_PRP 's_VBZ right_JJ by_IN CK_NNP Cafe_NNP -LRB-_-LRB- awesome_JJ tea_NN !_. -RRB-_-RRB-
-for_IN tea_NN or_CC coffee_NN afterward_RB ._.
-The_DT food_NN is_VBZ great_JJ -_: going_VBG great_JJ with_IN the_DT atmosphere_NN -_: and_CC the_DT wine_NN list_NN perfectly_RB compliments_NNS the_DT menu_NN ,_, which_WDT is_VBZ a_DT bit_RB smaller_JJR than_IN other_JJ restaurants_NNS ,_, but_CC perfectly_RB beautiful_JJ ._.
-The_DT service_NN is_VBZ also_RB good_JJ ,_, as_IN it_PRP 's_VBZ a_DT small_JJ restaurant_NN ._.
-However_RB ,_, the_DT kitchen_NN closes_VBZ at_IN 8:30_CD so_RB reservations_NNS should_MD be_VB made_VBN in_IN advance_NN and_CC you_PRP should_MD know_VB not_RB to_TO be_VB too_RB late_RB ._.

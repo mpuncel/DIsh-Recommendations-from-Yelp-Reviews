@@ -1,5 +1,0 @@
-Great_NNP vibe_NN and_CC decent_JJ pizza_NN ,_, but_CC 2_CD hours_NNS for_IN a_DT $_$ 25_CD pizza_NN ?_.
-Is_VBZ atlanta_NN this_DT desperate_JJ for_IN big_JJ city_NN scenes_NNS ?_.
-This_DT would_MD be_VB a_DT hole_NN in_IN the_DT wall_NN in_IN Chicago_NNP ,_, N._NNP YC_NNP ,_, L.A._NNP ,_, etc._FW ._.
-Crappy_JJ service_NN and_CC wait_VB times_NNS ._.
-Would_MD not_RB recommend_VB unless_IN you_PRP are_VBP just_RB simply_RB people_NNS watching_VBG ,_, ._. ._.

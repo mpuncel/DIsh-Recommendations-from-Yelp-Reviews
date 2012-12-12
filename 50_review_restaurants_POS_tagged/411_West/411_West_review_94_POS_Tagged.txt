@@ -1,6 +1,0 @@
-We_PRP liked_VBD the_DT restaurant_NN 's_POS atmosphere_NN ,_, but_CC were_VBD unimpressed_VBN with_IN the_DT food_NN ._.
-It_PRP was_VBD just_RB okay_JJ ._.
-It_PRP might_MD have_VB been_VBN better_RB if_IN the_DT waiter_NN had_VBD been_VBN more_RBR ``_`` professional_JJ ._. ''_''
-It_PRP seemed_VBD like_IN he_PRP was_VBD inexperienced_JJ and_CC really_RB did_VBD n't_RB know_VB the_DT art_NN of_IN being_VBG a_DT good_JJ waiter_NN ._.
-I_PRP was_VBD especially_RB surprised_VBN when_WRB after_IN finishing_VBG our_PRP$ meals_NNS our_PRP$ waiter_NN did_VBD not_RB make_VB an_DT effort_NN to_TO remove_VB the_DT plates_NNS ._.
-He_PRP was_VBD kind_NN and_CC sincere_JJ and_CC said_VBD ``_`` feel_VB free_JJ to_TO stay_VB as_RB long_RB as_IN you_PRP want_VBP ,_, ''_'' but_CC did_VBD n't_RB remove_VB the_DT plates_NNS until_IN we_PRP were_VBD ready_JJ to_TO leave_VB ._.

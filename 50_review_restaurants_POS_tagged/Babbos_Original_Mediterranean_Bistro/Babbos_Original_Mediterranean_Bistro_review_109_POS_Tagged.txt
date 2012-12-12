@@ -1,6 +1,0 @@
-This_DT is_VBZ my_PRP$ favorite_JJ restaurant_NN to_TO go_VB to_TO when_WRB I_PRP go_VBP up_RB to_TO Stanford_NNP ._.
-I_PRP really_RB like_IN the_DT vegetable_NN plate_NN ._.
-The_DT flavors_NNS are_VBP great_JJ and_CC everything_NN is_VBZ really_RB fresh_JJ ._.
-The_DT pizzas_NNS are_VBP great_JJ as_RB well_RB ._.
-I_PRP always_RB look_VBP forward_RB to_TO my_PRP$ meal_NN here_RB ._.
-The_DT other_JJ choices_NNS in_IN the_DT shopping_NN center_NN seem_VBP like_IN chain_NN restaurants_NNS so_RB this_DT is_VBZ the_DT only_RB one_CD that_WDT seems_VBZ worth_IN it_PRP ._.

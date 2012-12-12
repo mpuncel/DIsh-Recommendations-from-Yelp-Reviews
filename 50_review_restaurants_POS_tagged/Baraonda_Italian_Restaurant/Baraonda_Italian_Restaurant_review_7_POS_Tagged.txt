@@ -1,8 +1,0 @@
-Food_NNP was_VBD good_JJ ._.
-Waiter_NNP was_VBD good_JJ ._.
-Hostess_NNP and_CC restaurant_NN owner\/manager_NN horrible_JJ ._.
-Hostess_NNP was_VBD extremely_RB pretentious_JJ and_CC treated_VBD my_PRP$ fiance_NN like_IN garbage_NN -LRB-_-LRB- after_IN my_PRP$ table_NN spent_VBD almost_RB $_$ 400.00_CD -RRB-_-RRB- ._.
-The_DT manager_NN was_VBD throwing_VBG his_PRP$ arms_NNS up_RP at_IN us_PRP as_IN if_IN he_PRP was_VBD attempting_VBG to_TO pick_VB a_DT bar_NN fight_NN ._.
-Horrible_JJ customer_NN relations_NNS ._.
-They_PRP did_VBD NOT_RB make_VB me_PRP feel_VB welcomed_VBN in_IN my_PRP$ neighborhood_NN eatery_NN ._.
-I_PRP most_RBS likely_JJ will_MD not_RB spend_VB another_DT penny_NN here_RB ._.

@@ -1,4 +1,0 @@
-over-rated_JJ and_CC over-priced_JJ service_NN is_VBZ not_RB acceptable_JJ for_IN the_DT class_NN of_IN restaurant_NN this_DT wants_VBZ to_TO appear_VB to_TO be_VB Some_DT -_: few_JJ ,_, in_IN my_PRP$ experience_NN -_: dishes_NNS are_VBP adequate_JJ Italian_JJ cuisine_NN ._.
-Most_JJS dishes_NNS are_VBP ,_, at_IN best_JJS ,_, Italo-American_JJ cooking_NN ,_, or_CC pseudo-Italian_JJ cooking_NN done_VBN for_IN an_DT American_JJ crowd_NN ._.
-As_IN a_DT lover_NN &_CC connaisseur_NN of_IN Italian_JJ cuisine_NN ,_, I_PRP was_VBD very_RB disappointed_JJ ._.
-But_CC ,_, on_IN the_DT other_JJ hand_NN ,_, it_PRP is_VBZ the_DT only_JJ half-decent_JJ Italian_JJ restaurant_NN in_IN Westwood_NNP Village_NNP ._.

@@ -1,4 +1,0 @@
-Salento_NNP is_VBZ either_RB really_RB good_JJ ,_, or_CC kind_NN of_IN just_RB okay_JJ ._.
-I_PRP 'm_VBP hovering_VBG between_IN 3_CD and_CC 4_CD stars_NNS ..._: The_DT food_NN varies_VBZ so_RB much_RB ,_, depending_VBG on_IN what_WP you_PRP 've_VBP ordered_VBN ._.
-Their_PRP$ pasta_NN special_NN was_VBD a_DT real_JJ hit_NN ,_, while_IN the_DT gnochhi_NNS with_IN mushrooms_NNS was_VBD dry_JJ and_CC heavy_JJ ._.
-Service_NNP is_VBZ nice_JJ ,_, prices_NNS are_VBP good_JJ ,_, it_PRP 's_VBZ not_RB a_DT pain_NN to_TO get_VB a_DT table_NN on_IN a_DT weeknight_NN -LRB-_-LRB- call_NN ahead_RB for_IN reservations_NNS or_CC show_VB up_RP ,_, no_DT hour_NN +_NN wait_VB like_IN at_IN Melograno_NNP -RRB-_-RRB- ,_, and_CC it_PRP 's_VBZ a_DT BYOB_NNP which_WDT is_VBZ always_RB a_DT plus_NN !_.

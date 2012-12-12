@@ -1,7 +1,0 @@
-As_IN a_DT recent_JJ graduate_NN in_IN the_DT city_NN of_IN Philly_NNP ,_, I_PRP 've_VBP been_VBN to_TO a_DT good_JJ number_NN of_IN Italian_JJ BYOs_NNS with_IN my_PRP$ college_NN friends_NNS ._.
-This_DT is_VBZ definitely_RB my_PRP$ go-to_JJ restaurant_NN ,_, with_IN the_DT friendly_JJ and_CC amazing_JJ service_NN ,_, the_DT delicious_JJ and_CC wide-variety_NN of_IN food_NN and_CC the_DT great_JJ atmosphere_NN ._.
-It_PRP is_VBZ located_VBN in_IN a_DT great_JJ place_NN ,_, has_VBZ a_DT back_RB room_NN for_IN larger_JJR parties_NNS ,_, and_CC smaller_JJR tables_NNS in_IN the_DT main_JJ room_NN for_IN smaller_JJR parties_NNS ._.
-They_PRP take_VBP reservations_NNS ,_, and_CC are_VBP extremely_RB friendly_JJ when_WRB taking_VBG you_PRP in_IN ._.
-The_DT last_JJ time_NN I_PRP went_VBD was_VBD for_IN a_DT graduation_NN dinner_NN ,_, and_CC they_PRP helped_VBD me_PRP celebrate_VB by_IN giving_VBG us_PRP a_DT free_JJ dessert_NN ._.
-It_PRP was_VBD adorable_JJ and_CC so_RB suitable_JJ given_VBN the_DT occasion_NN ._.
-I_PRP recommend_VBP the_DT calamari_NN and_CC clams_NNS for_IN appetizers_NNS ,_, and_CC the_DT duck_NN pasta_NN ,_, eggplant_NN ,_, and_CC gnocchi_NNS for_IN entrees_NNS ._.

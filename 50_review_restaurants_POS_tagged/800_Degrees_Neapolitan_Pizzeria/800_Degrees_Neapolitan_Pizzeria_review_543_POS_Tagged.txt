@@ -1,8 +1,0 @@
-I_PRP heard_VBD all_PDT the_DT rave_VB reviews_NNS about_IN this_DT place_NN so_RB finally_RB went_VBD ._.
-I_PRP grew_VBD up_RP in_IN the_DT Bronx_NNP ._.
-The_DT pizza_NN was_VBD soft_JJ in_IN the_DT middle_NN and_CC too_RB mushy_JJ for_IN my_PRP$ tastes_NNS ._.
-I_PRP got_VBD a_DT plain_JJ cheese_NN ._.
-One_CD of_IN my_PRP$ friends_NNS did_VBD n't_RB even_RB finish_VB their_PRP$ pizza_NN ._.
-The_DT sauce_NN good_JJ ,_, cheese_NN good_JJ ,_, not_RB enough_RB ,_, and_CC not_RB a_DT crunchy_JJ bottom_NN ._.
-For_IN a_DT small_JJ pie_NN ,_, I_PRP am_VBP disappointed_VBN they_PRP could_MD n't_RB cook_VB the_DT center_NN well_RB enough_RB ._.
-For_IN the_DT price_NN ,_, it_PRP is_VBZ a_DT good_JJ deal_NN and_CC the_DT pizza_NN is_VBZ good_JJ enough_RB ._.

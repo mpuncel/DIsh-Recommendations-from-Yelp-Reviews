@@ -1,5 +1,0 @@
-Hearty_NNP ,_, cheesy_NN ,_, warm_JJ ,_, and_CC carbalicious_NNS are_VBP the_DT four_CD most_RBS important_JJ adjectives_NNS I_PRP 'd_MD use_VB to_TO describe_VB Gypsy_NNP 's_POS ._.
-Every_DT dish_NN I_PRP 've_VBP ever_RB had_VBN here_RB has_VBZ fulfilled_VBN my_PRP$ yen_NN for_IN hearty\/cheesy\/warm_JJ \/_NN carb_NN goodness_NN ._.
-My_PRP$ personal_JJ favorites_NNS are_VBP :_: Pollo_NNP -LRB-_-LRB- chicken_NN -RRB-_-RRB- con_NN pesto_NN ,_, chicken_NN piccata_NN ,_, Godfather_NNP 's_POS favorite_JJ -LRB-_-LRB- this_DT is_VBZ the_DT ultimate_JJ !_. -RRB-_-RRB-
-,_, meatball_NN sandwich_NN ,_, eggplant_NN sandwich_NN -LRB-_-LRB- yummy_JJ marinara_NN sauce_NN ,_, -RRB-_-RRB- and_CC any\/all_NN of_IN the_DT calzones_NNS ._.
-The_DT garlic_JJ bread_NN -LRB-_-LRB- with_IN a_DT chunk_NN of_IN warm_JJ ,_, soft_JJ garlic_NN -RRB-_-RRB- seals_VBZ the_DT deal_NN !_.

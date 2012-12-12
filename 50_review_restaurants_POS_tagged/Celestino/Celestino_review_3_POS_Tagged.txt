@@ -1,7 +1,0 @@
-Very_RB busy_JJ little_JJ restaurant_NN ._.
-I_PRP had_VBD Chilean_JJ sea_NN bass_NN in_IN a_DT citrus_NN sauce_NN ._.
-It_PRP was_VBD awesome_JJ ._.
-The_DT others_NNS in_IN our_PRP$ party_NN loved_VBD their_PRP$ pasta_NN dishes_NNS ._.
-Great_NNP Cannoli_NNP ._.
-The_DT interior_NN and_CC table_NN arrangement_NN is_VBZ a_DT little_JJ funky_JJ ._.
-Otherwise_RB ,_, nothing_NN to_TO complain_VB about_IN !_.

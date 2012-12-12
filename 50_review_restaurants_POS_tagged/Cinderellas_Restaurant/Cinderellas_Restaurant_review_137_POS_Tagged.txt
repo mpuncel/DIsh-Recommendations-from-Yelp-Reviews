@@ -1,3 +1,0 @@
-They_PRP deliver_VBP ,_, and_CC on_IN top_NN of_IN that_IN the_DT delivery_NN is_VBZ relatively_RB quick_JJ and_CC cheap_JJ -LRB-_-LRB- it_PRP 's_VBZ cheaper_JJR on_IN Foodler_JJR than_IN most_JJS of_IN the_DT food_NN options_NNS there_RB -RRB-_-RRB- ._.
-On_IN top_NN of_IN that_DT ,_, their_PRP$ food_NN is_VBZ decent_JJ for_IN what_WP it_PRP is_VBZ ,_, which_WDT is_VBZ standard_JJ take-out_JJ fare_NN ._.
-The_DT steak_NN tips_NNS are_VBP tolerable_JJ -LRB-_-LRB- a_DT little_RB too_RB chewy_JJ ,_, and_CC not_RB great_JJ ,_, but_CC tolerable_JJ -RRB-_-RRB- ,_, but_CC the_DT other_JJ food_NN seems_VBZ to_TO be_VB decent_JJ enough_RB ._.

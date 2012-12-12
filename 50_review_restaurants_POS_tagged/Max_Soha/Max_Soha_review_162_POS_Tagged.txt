@@ -1,1 +1,0 @@
-the_DT best_JJS pasta_NN with_IN meat_NN sauce_NN i_FW 've_VBP ever_RB have_VBP

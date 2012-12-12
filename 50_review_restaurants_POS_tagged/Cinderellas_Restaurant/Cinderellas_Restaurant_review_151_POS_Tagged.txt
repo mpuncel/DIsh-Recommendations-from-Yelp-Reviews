@@ -1,3 +1,0 @@
-I_PRP 've_VBP only_RB tried_VBN the_DT pizza_NN and_CC it_PRP was_VBD nothing_NN special_JJ ._.
-Not_RB terrible_JJ but_CC certainly_RB not_RB great_JJ ._.
-The_DT ratio_NN of_IN crust-cheese-sauce_NN is_VBZ very_RB off_RB and_CC the_DT cheese_NN has_VBZ a_DT certain_JJ unsettling_JJ gumminess_NN ._.

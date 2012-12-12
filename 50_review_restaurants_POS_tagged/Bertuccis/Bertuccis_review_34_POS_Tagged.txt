@@ -1,7 +1,0 @@
-Service_NNP was_VBD very_RB good_JJ ._.
-The_DT dipping_VBG ``_`` sauce_NN ''_'' for_IN their_PRP$ bread_NN is_VBZ amazing_JJ -LRB-_-LRB- some_DT olive_JJ oil_NN mix_NN -RRB-_-RRB- ._.
-We_PRP got_VBD a_DT margarita_NN pizza_NN ._.
-It_PRP was_VBD really_RB good_JJ but_CC lacked_VBD a_DT little_JJ bit_NN of_IN sauce_NN and_CC cheese_NN for_IN me_PRP ._.
-Nice_JJ touch_NN was_VBD the_DT fresh_JJ mozzarella_NN ._.
-We_PRP also_RB got_VBD the_DT ceasar_NN salad_NN but_CC it_PRP had_VBD waaaay_JJ too_RB much_JJ dressing_VBG so_RB ask_VB for_IN it_PRP on_IN the_DT side_NN !_.
-Great_NNP croutons_NNS ._.

@@ -1,7 +1,0 @@
-Generous_JJ proportions_NNS ,_, solid_JJ flavors_NNS ,_, attentive_JJ service_NN ,_, and_CC a_DT nice_JJ ambiance_NN ._.
-Definitely_RB not_RB the_DT best_JJS food_NN I_PRP 've_VBP had_VBN ,_, but_CC it_PRP 's_VBZ good_JJ ,_, and_CC I_PRP 'd_MD easily_RB recommend_VB the_DT place_NN if_IN you_PRP 're_VBP looking_VBG to_TO get_VB some_DT kabobs_NNS or_CC paninis_NNS ._.
-I_PRP had_VBD a_DT salmon_NN panini_NN and_CC my_PRP$ fiancee_NN had_VBD the_DT chicken_NN kabob_NN ._.
-The_DT salmon_NN panini_NN was_VBD tasty_JJ ,_, with_IN a_DT good_JJ portion_NN of_IN salmon_NN ._.
-The_DT chicken_NN kabob_NN was_VBD decent_JJ :_: nice_JJ and_CC juicy_NN ,_, but_CC probably_RB could_MD have_VB used_VBN a_DT bit_NN more_RBR flavor_NN ._.
-The_DT salads_NNS that_WDT came_VBD with_IN the_DT dishes_NNS were_VBD also_RB both_DT fine_JJ ,_, though_IN I_PRP would_MD recommend_VB the_DT greek_NN salad_NN over_IN the_DT romaine_NN avocado_NN salad_NN ,_, which_WDT was_VBD too_RB citrus-y_JJ for_IN my_PRP$ tastes_NNS ._.
-Great_NNP place_NN to_TO stop_VB by_IN for_IN lunch_NN ._.

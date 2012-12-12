@@ -1,8 +1,0 @@
-This_DT place_NN is_VBZ right_JJ next_IN to_TO California_NNP cafe_NN in_IN a_DT small_JJ brick_NN structure_NN that_WDT is_VBZ n't_RB attached_VBN to_TO Stanford_NNP Barn_NNP ._.
-The_DT entrance_NN faces_VBZ Welch_NNP Road_NNP ._.
-This_DT place_NN works_VBZ well_RB for_IN either_DT brunch_NN or_CC lunch_NN ._.
-For_IN brunch_NN ,_, the_DT ricotta_NN pancakes_NNS are_VBP amazing_JJ ._.
-The_DT Fritatta_NNP is_VBZ also_RB pretty_RB good_JJ and_CC comes_VBZ with_IN a_DT side_NN of_IN toast_NN +_NN nutella_NN -LRB-_-LRB- omg_NN ,_, so_RB much_JJ win_VBP !_. -RRB-_-RRB- ._.
-For_IN lunch_NN ,_, I_PRP like_VBP to_TO get_VB the_DT tuna_NN panino_NN with_IN a_DT side_NN of_IN salad_NN -LRB-_-LRB- their_PRP$ fries_NNS are_VBP pretty_RB good_JJ too_RB ,_, just_RB not_RB as_IN healthy_JJ -RRB-_-RRB- ._.
-Service_NNP is_VBZ minimal_JJ ,_, but_CC friendly_JJ ._.
-The_DT outside_JJ seating_NN is_VBZ fantastic_JJ -LRB-_-LRB- but_CC the_DT lavender_NN does_VBZ attract_VB bees_NNS -RRB-_-RRB- ._.

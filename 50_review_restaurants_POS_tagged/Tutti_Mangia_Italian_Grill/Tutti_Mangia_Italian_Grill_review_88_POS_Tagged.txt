@@ -1,2 +1,0 @@
-Great_JJ food_NN great_JJ wine_NN list_NN ._.
-Lunch_NN is_VBZ a_DT great_JJ value_NN ,_, excellent_JJ food_NN ._.

@@ -1,7 +1,0 @@
-The_DT line_NN out_IN the_DT door_NN says_VBZ it_PRP all_DT ._.
-This_DT is_VBZ some_DT GOOD_NNP pizza_NN ._.
-It_PRP 's_VBZ a_DT little_JJ bit_NN different_JJ than_IN what_WP you_PRP 're_VBP probably_RB used_VBN to_TO ..._: The_DT dough_NN is_VBZ chewy_JJ ,_, but_CC you_PRP can_MD taste_VB the_DT slight_JJ char_NN from_IN the_DT wood_NN oven_NN ._.
-The_DT mozzarella_NN is_VBZ fresh_JJ ,_, delicious_JJ ,_, and_CC creamy_JJ ._.
-My_PRP$ favorite_JJ topping_VBG combo_NN has_VBZ been_VBN :_: italian_JJ sausage_NN ,_, broccoli_NNS rabe_VBP ,_, capers_NNS ,_, and_CC extra_JJ garlic_NN ._.
-The_DT wait_NN is_VBZ long_RB at_IN dinner_NN ,_, but_CC if_IN you_PRP slip_VBP in_IN a_DT bit_NN early_JJ -LRB-_-LRB- or_CC late_RB if_IN you_PRP 're_VBP in_IN for_IN lunch_NN -RRB-_-RRB- ,_, you_PRP can_MD get_VB the_DT pizza_NN with_IN minimal_JJ wait_NN ._.
-Last_JJ I_PRP checked_VBD they_PRP were_VBD n't_RB delivering_VBG ..._: which_WDT is_VBZ not_RB worthy_JJ of_IN star_NN reduction_NN ,_, but_CC something_NN that_IN they_PRP need_VBP to_TO get_VB on_IN ,_, STAT_NNP ._.

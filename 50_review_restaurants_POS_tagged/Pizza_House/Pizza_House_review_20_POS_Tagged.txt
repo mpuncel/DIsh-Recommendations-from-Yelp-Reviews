@@ -1,7 +1,0 @@
-As_IN a_DT student_NN ,_, everyone_NN knows_VBZ Pizza_NNP House_NNP ._.
-People_NNS say_VBP good_JJ things_NNS ,_, people_NNS say_VBP bad_JJ things_NNS ._.
-I_PRP ,_, for_IN one_CD ,_, give_VB it_PRP a_DT solid_JJ thumbs_NNS up_RB ._.
-Its_PRP$ difficult_JJ to_TO find_VB even_RB decent_JJ Chicago-Style_NNP Pizza_NNP in_IN Michigan_NNP ._.
-Yes_UH ,_, it_PRP is_VBZ pricey_JJ ,_, but_CC it_PRP 's_VBZ open_JJ until_IN 4_CD AM_NNP !_.
-When_WRB your_PRP$ friends_NNS start_VBP rolling_VBG in_IN after_IN parties_NNS starting_VBG at_IN midnight_NN ,_, its_PRP$ pretty_JJ funny_JJ ._.
-The_DT cheesy_JJ bread_NN also_RB just_RB hits_VBZ the_DT spot_NN ._.

@@ -1,7 +1,0 @@
-Teresa_NNP 's_POS uses_NNS fresh_JJ produce_NN to_TO make_VB simple_JJ yet_RB interesting_JJ Italian_JJ cuisine_NN ._.
-The_DT bread_NN comes_VBZ from_IN the_DT Witherspoon_NNP bakery_NN and_CC is_VBZ excellent_JJ ,_, served_VBD with_IN a_DT herbed_JJ olive_JJ oil_NN ._.
-The_DT wine_NN list_NN has_VBZ a_DT good_JJ price_NN range_NN from_IN very_RB affordable_JJ to_TO some_DT better_JJR bottles_NNS ._.
-Service_NNP is_VBZ good_JJ and_CC its_PRP$ always_RB busy_JJ ._.
-Note_VB that_IN you_PRP ca_MD n't_RB book_VB ._.
-We_PRP 've_VBP never_RB had_VBN to_TO wait_VB long_RB at_IN all_DT but_CC have_VBP only_RB gone_VBN in_IN groups_NNS of_IN 2_CD or_CC 3_CD ._.
-A_DT larger_JJR group_NN might_MD be_VB a_DT problem_NN ._.

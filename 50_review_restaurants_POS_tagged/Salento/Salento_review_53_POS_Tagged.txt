@@ -1,6 +1,0 @@
-Great_NNP little_RB Italian_JJ BYOB_NNP ._.
-I_PRP did_VBD not_RB have_VB a_DT reservation_NN ,_, but_CC was_VBD quickly_RB greeted_VBN and_CC sat_VBD ._.
-The_DT service_NN was_VBD quick_JJ and_CC the_DT waiters_NNS were_VBD very_RB friendly_JJ ._.
-The_DT food_NN was_VBD great_JJ ,_, but_CC a_DT little_JJ expensive_JJ ._.
-At_IN the_DT time_NN ,_, I_PRP did_VBD n't_RB know_VB it_PRP was_VBD BYO_NNP so_IN they_PRP offered_VBD us_PRP glasses_NNS of_IN wine_NN ._.
-All_DT in_IN all_DT ,_, very_RB nice_JJ :_: -RRB-_-RRB-

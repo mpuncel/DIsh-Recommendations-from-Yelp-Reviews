@@ -1,6 +1,0 @@
-Delicious_NNP :_: BLT_NNP for_IN brunch_NN 3_CD Cheers_NNP for_IN Bottomless_NNP Mimosas_NNP !_.
-Met_NNP here_RB for_IN brunch_NN on_IN a_DT Sunday_NNP for_IN 6-8_CD without_IN having_VBG to_TO wait_VB -LRB-_-LRB- huzzah_NN for_IN Open_NNP Table_NNP reservations_NNS -RRB-_-RRB- ._.
-Sitting_VBG outside_JJ in_IN the_DT wonderful_JJ sun_NN ,_, we_PRP enjoyed_VBD our_PRP$ fabulous_JJ meals_NNS ._.
-I_PRP was_VBD amazed_VBN by_IN the_DT service_NN here_RB ._.
-Bottomless_JJ mimosas_NNS that_WDT are_VBP truly_RB bottomless_JJ !_.
-Wonderful_JJ !_.

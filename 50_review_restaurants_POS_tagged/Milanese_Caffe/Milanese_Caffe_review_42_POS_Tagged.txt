@@ -1,7 +1,0 @@
-I_PRP used_VBD to_TO go_VB to_TO Anne_NNP 's_POS Kitchen_NN across_IN the_DT street_NN for_IN my_PRP$ egg-meat-some_JJ sort_NN of_IN vegetable_NN breakfast_NN ._.
-That_DT was_VBD before_IN I_PRP learned_VBD about_IN this_DT place_NN ._.
-The_DT food_NN here_RB is_VBZ great_JJ -_: their_PRP$ breakfast_NN is_VBZ anyways_NNS ._.
-I_PRP ca_MD n't_RB comment_VB on_IN anything_NN else_RB ,_, because_IN I_PRP have_VBP n't_RB tried_VBN anything_NN but_CC what_WP 's_VBZ listed_VBN under_IN breakfast_NN items_NNS ._.
-Try_VB their_PRP$ omelets_NNS ,_, or_CC their_PRP$ breakfast_NN burritos_NNS ._.
-Their_PRP$ side_NN of_IN potatoes_NNS are_VBP excellent_JJ ._.
-Hey_NNP ,_, if_IN you_PRP 're_VBP in_IN the_DT mood_NN for_IN a_DT good_JJ and_CC hearty_JJ breakfast_NN to_TO give_VB you_PRP the_DT strength_NN you_PRP need_VBP to_TO start_VB your_PRP$ day_NN ,_, why_WRB do_VBP n't_RB you_PRP head_VBP down_RB here_RB ._.

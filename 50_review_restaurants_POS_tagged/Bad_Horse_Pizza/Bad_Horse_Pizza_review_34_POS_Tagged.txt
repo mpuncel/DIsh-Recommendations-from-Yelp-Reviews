@@ -1,7 +1,0 @@
-Love_NNP this_DT place_NN ._.
-The_DT pizza_NN is_VBZ AMAZING_NNP ._.
-And_CC not_RB particularly_RB pricey_JJ ,_, especially_RB considering_VBG the_DT quality_NN ._.
-It_PRP can_MD take_VB a_DT while_NN because_IN they_PRP are_VBP cooked_VBN to_TO order_NN ,_, but_CC so_RB worth_JJ it_PRP ._.
-I_PRP daydream_VBP about_IN this_DT pizza_NN ._.
-Order_NNP an_DT appetizer_NN and_CC a_DT pizza_NN and_CC that_DT is_VBZ great_JJ for_IN 2_CD ,_, with_IN a_DT little_JJ to_TO take_VB home_NN ._.
-Well_RB under_IN $_$ 40_CD including_VBG a_DT drink_NN for_IN each_DT person_NN ._.

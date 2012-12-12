@@ -1,4 +1,0 @@
-Just_RB no._RB ._.
-The_DT food_NN here_RB is_VBZ pretty_RB bad_JJ ,_, meaning_VBG cafeteria_NN quality_NN ,_, but_CC at_IN least_JJS the_DT prices_NNS are_VBP on_IN the_DT low_JJ side_NN ,_, you_PRP think_VBP to_TO console_VB yourself_PRP ._.
-But_CC then_RB you_PRP continue_VBP to_TO gnaw_VB on_IN your_PRP$ tasteless_JJ pasta_NN or_CC whatever_WDT unfortunate_JJ thing_NN you_PRP ordered_VBD and_CC think_VB ,_, ``_`` This_DT is_VBZ actually_RB pretty_RB awful_JJ ._. ''_''
-I_PRP would_MD go_VB to_TO a_DT fast_JJ food_NN chain_NN in_IN a_DT food_NN court_NN -LRB-_-LRB- which_WDT I_PRP hate_VBP -RRB-_-RRB- over_IN Cinderella_NNP 's_POS ._.

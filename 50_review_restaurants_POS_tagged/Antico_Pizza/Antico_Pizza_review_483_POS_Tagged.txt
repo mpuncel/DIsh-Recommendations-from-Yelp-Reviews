@@ -1,5 +1,0 @@
-The_DT pizza_NN was_VBD ok_RB ._.
-I_PRP like_VBP fellini_NN 's_POS better_JJR ._.
-Get_VB there_RB early_JJ or_CC u_NN will_MD be_VB eating_VBG standing_VBG up_RP ._.
-It_PRP 's_VBZ more_JJR of_IN a_DT trendy_JJ spot_NN in_IN my_PRP$ opinion_NN ._.
-Kinda_NNP like_IN flip_JJ burger_NN ._.

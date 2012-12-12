@@ -1,3 +1,0 @@
-bombay_NN ._.
-awesome_JJ food_NN ,_, great_JJ wine_NN at_IN good_JJ prices_NNS ._.
-only_RB bad_JJ part_NN is_VBZ wobbly_JJ uneven_JJ tables_NNS make_VBP me_PRP nervous_JJ about_IN tipping_VBG and_CC breaking_VBG every_DT frigin_NN wine_NN glass_NN on_IN the_DT table_NN and_CC wasting_VBG all_DT that_DT wine_NN ._.

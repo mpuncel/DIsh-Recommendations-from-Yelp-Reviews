@@ -1,5 +1,0 @@
-Pizza_NNP was_VBD pungent_JJ &_CC smelled_VBN like_IN feet_NNS ._.
-The_DT lemonade_NN tasted_VBD like_IN lime_JJ juice_NN and_CC sparkling_JJ water_NN ._.
-My_PRP$ attempt_NN to_TO make_VB it_PRP better_JJR by_IN adding_VBG packets_NNS of_IN Splenda_NNP failed_VBD ._.
-Uhhh_NNP did_VBD I_PRP miss_VBP something_NN or_CC did_VBD my_PRP$ waiter_NN eat_VB half_DT my_PRP$ mussels_NNS and_CC clams_NNS ?_.
-$_$ 19_CD ..._: ripoff_NN

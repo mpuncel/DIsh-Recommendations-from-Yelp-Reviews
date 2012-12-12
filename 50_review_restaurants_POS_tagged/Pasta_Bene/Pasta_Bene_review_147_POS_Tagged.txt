@@ -1,6 +1,0 @@
-In_IN Berkeley_NNP ,_, Pasta_NNP Bene_NNP is_VBZ definitely_RB my_PRP$ go-to_NN for_IN delicious_JJ Italian_JJ food_NN ._.
-Do_VBP n't_RB get_VB me_PRP wrong_JJ -_: Gypsy_NNP 's_POS is_VBZ great_JJ &_CC all_DT ,_, but_CC it_PRP 's_VBZ definitely_RB not_RB the_DT same_JJ ._.
-Pasta_NN Bene_NNP always_RB has_VBZ large_JJ portions_NNS for_IN reasonable_JJ prices_NNS -LRB-_-LRB- try_VB the_DT lunch_NN &_CC summer_NN specials_NNS !_. -RRB-_-RRB-
-,_, fast_RB &_CC efficient_JJ service_NN ,_, and_CC a_DT wonderful_JJ atmosphere_NN ._.
-And_CC the_DT icing_NN on_IN the_DT cake_NN ?_.
-Their_PRP$ tiramisu_NN is_VBZ HEAVENLY_NNP ._.

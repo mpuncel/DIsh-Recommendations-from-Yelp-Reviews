@@ -1,9 +1,0 @@
-I_PRP love_VBP this_DT place_NN ._.
-true_JJ -_: it_PRP is_VBZ right_JJ near_IN my_PRP$ house_NN -_: so_IN the_DT convenience_NN factor_NN is_VBZ part_NN of_IN the_DT charm_NN ._.
-But_CC the_DT place_NN is_VBZ cute_JJ and_CC comfortable_JJ ._.
-The_DT food_NN is_VBZ good_JJ ,_, solid_JJ and_CC reasonably_RB priced_VBN ._.
-I_PRP often_RB have_VBP the_DT maltagliati_NNS pasta_NN with_IN lamb_JJ ragu_NN -_: it_PRP comes_VBZ with_IN a_DT dollop_NN of_IN ricotta_NN which_WDT is_VBZ lovely_JJ ._.
-The_DT mushroom_NN pasta_NN is_VBZ also_RB wonderful_JJ ._.
-For_IN dessert_NN I_PRP always_RB have_VBP the_DT berries_NNS and_CC cream_NN -_: it_PRP is_VBZ super_JJ simple_NN -_: but_CC honestly_RB -_: really_RB -_: this_DT is_VBZ what_WP I_PRP want_VBP for_IN dessert_NN -_: always_RB ._.
-They_PRP have_VBP house_NN wine_NN which_WDT is_VBZ well-priced_JJ ._.
-The_DT service_NN is_VBZ ok_RB ,_, not_RB really_RB my_PRP$ focus_NN ,_, but_CC it_PRP has_VBZ never_RB been_VBN a_DT problem_NN ._.

@@ -1,5 +1,0 @@
-This_DT Italian_JJ cafe_NN is_VBZ a_DT hidden_JJ gem_NN in_IN Westwood_NNP !_.
-A_DT friend_NN suggested_VBD we_PRP eat_VBP here_RB ,_, and_CC I_PRP did_VBD n't_RB even_RB know_VB this_DT place_NN existed_VBD ._.
-This_DT small_JJ quaint_NN cafe_NN is_VBZ located_VBN behind_IN Urban_NNP Outfitters_NNP ,_, is_VBZ run_VBN by_IN one_CD -LRB-_-LRB- talented_JJ and_CC mysterious_JJ -RRB-_-RRB- chef_NN ,_, and_CC has_VBZ amazing_JJ Italian_JJ food_NN ._.
-My_PRP$ recommendation_NN :_: Chicken_NNP Parmesan_NNP ._.
-So_RB basic_JJ and_CC simple_JJ ,_, but_CC he_PRP makes_VBZ it_PRP so_RB delicious_JJ !_.

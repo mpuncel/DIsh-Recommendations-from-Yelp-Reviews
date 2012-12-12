@@ -1,4 +1,0 @@
-Excellent_JJ Lasagna_NNP Verdi_NNP ._.
-Great_JJ service_NN ._.
-Pizza_NNP is_VBZ good_JJ not_RB great_JJ ._.
-Wine_NN list_NN could_MD definitely_RB be_VB improved_VBN ._.

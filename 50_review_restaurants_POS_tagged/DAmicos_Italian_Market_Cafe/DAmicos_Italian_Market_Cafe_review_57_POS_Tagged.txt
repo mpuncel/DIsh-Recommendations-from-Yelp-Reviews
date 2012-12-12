@@ -1,8 +1,0 @@
-We_PRP came_VBD in_IN for_IN lunch_NN on_IN the_DT weekend_NN ._.
-The_DT atmosphere_NN is_VBZ quaint_JJ and_CC neat_JJ ._.
-If_IN only_RB the_DT food_NN was_VBD better_RB ._.
-We_PRP ordered_VBD sandwiches_NNS and_CC they_PRP were_VBD so-so_JJ ._.
-Maybe_RB dinner_NN is_VBZ better_JJR ?_.
-The_DT service_NN was_VBD n't_RB very_RB good_JJ and_CC we_PRP were_VBD by-passed_JJ many_JJ times_NNS while_IN waiting_VBG for_IN refills_NNS ._.
-The_DT food_NN took_VBD surprisingly_RB longer_JJR than_IN expected_VBN to_TO come_VB out_RP and_CC they_PRP were_VBD n't_RB very_RB busy_JJ ._.
-Maybe_RB we_PRP hit_VBD them_PRP at_IN an_DT off-point_JJ ,_, but_CC it_PRP was_VBD n't_RB all_DT that_DT ._.

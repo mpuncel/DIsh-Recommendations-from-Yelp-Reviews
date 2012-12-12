@@ -1,4 +1,0 @@
-This_DT is_VBZ convenient_JJ if_IN you_PRP 're_VBP right_JJ by_IN USC_NNP ._.
-My_PRP$ boyfriend_NN always_RB orders_NNS their_PRP$ combo_NN pizza_NN for_IN delivery_NN and_CC it_PRP 's_VBZ convenient_JJ -LRB-_-LRB- parking_NN =_SYM not_RB good_JJ -RRB-_-RRB- ._.
-They_PRP have_VBP a_DT pretty_RB extensive_JJ menu_NN but_CC I_PRP 'm_VBP not_RB a_DT big_JJ fan_NN of_IN their_PRP$ sandwiches_NNS -LRB-_-LRB- I_PRP had_VBD the_DT chicken_NN club_NN -RRB-_-RRB- &_CC I_PRP thought_VBD their_PRP$ pastas_NNS are_VBP just_RB okay_JJ ._.
-Definitely_RB get_VB the_DT pizza_NN ._.

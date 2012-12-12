@@ -1,7 +1,0 @@
-So_IN I_PRP was_VBD reading_VBG about_IN this_DT place_NN on_IN yelp_NN all_DT day_NN and_CC finally_RB at_IN lunch_NN went_VBD to_TO go_VB eat_VB ._.
-I_PRP had_VBD the_DT calzone_NN primavera_NN ._.
-It_PRP was_VBD good_JJ ._.
-$_$ 6_CD for_IN a_DT great_JJ size_NN personal_JJ calzone_NN ._.
-I_PRP was_VBD definitely_RB pleased_JJ ._.
-Bad_JJ note_NN ,_, which_WDT I_PRP do_VBP understand_VB that_IN it_PRP happens_VBZ ,_, I_PRP found_VBD an_DT olive_JJ pit_NN in_IN the_DT calzone_NN ._.
-It_PRP was_VBD a_DT surprise_NN and_CC I_PRP almost_RB lost_VBD my_PRP$ teeth_NNS ._.

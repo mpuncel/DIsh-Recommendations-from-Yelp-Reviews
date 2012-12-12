@@ -1,8 +1,0 @@
-4.5_CD stars_NNS ?_.
-Possibly_RB ._.
-I_PRP really_RB enjoyed_VBD it_PRP here_RB ._.
-Good_JJ ,_, innovative_JJ food_NN ,_, pleasant_JJ service_NN ,_, nice_JJ quaint_NN size_NN ,_, interesting_JJ wine_NN selection_NN ._.
-I_PRP would_MD definitely_RB return_VB if_IN I_PRP lived_VBD out_IN there_RB ._.
-Why_WRB minus_CC 1\/2_CD star_NN ?_.
-No_DT strong_JJ reason_NN ,_, but_CC food_NN was_VBD not_RB \*_SYM amazing_JJ \*_NN ,_, and_CC the_DT space_NN was_VBD hard_JJ to_TO talk_VB in_IN ._.
-Hardly_RB an_DT issue_NN ,_, but_CC I_PRP am_VBP picky_JJ with_IN my_PRP$ 5_CD stars_NNS like_IN that_DT ._.

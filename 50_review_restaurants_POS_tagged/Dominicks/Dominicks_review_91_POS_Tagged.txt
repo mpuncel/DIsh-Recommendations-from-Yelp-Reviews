@@ -1,6 +1,0 @@
-One_CD of_IN my_PRP$ favorite_JJ places_NNS in_IN Ann_NNP Arbor_NNP ._.
-Nothing_NN is_VBZ better_JJR than_IN sitting_VBG at_IN Dominicks_NNP on_IN a_DT Summer_NNP day_NN drinking_NN Sangria_NNP ._.
-They_PRP make_VBP the_DT best_JJS Sangria_NN in_IN town_NN ._.
-They_PRP have_VBP a_DT descent_NN collection_NN of_IN beers_NNS and_CC their_PRP$ pizza_NN 's_POS are_VBP good_JJ ._.
-Have_NNP heard_VBD good_JJ things_NNS about_IN the_DT pasta_NN there_RB but_CC never_RB had_VBD one_CD ._.
-The_DT only_JJ dampener_NN is_VBZ that_IN it_PRP closes_VBZ around_IN 10_CD pm_NN and_CC also_RB its_PRP$ completely_RB closed_VBN during_IN winter_NN ._.

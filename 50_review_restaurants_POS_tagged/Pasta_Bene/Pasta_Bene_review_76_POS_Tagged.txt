@@ -1,2 +1,0 @@
-Pretty_NNP good_JJ food_NN ,_, fast_JJ service_NN ._.
-Price_NN for_IN a_DT full_JJ pasta_NN entree_FW was_VBD a_DT bit_NN pricier_JJR than_IN gypsy_NN 's_POS ,_, but_CC for_IN those_DT who_WP do_VBP n't_RB mind_VB paying_VBG more_JJR it_PRP tastes_VBZ better_JJR ._.

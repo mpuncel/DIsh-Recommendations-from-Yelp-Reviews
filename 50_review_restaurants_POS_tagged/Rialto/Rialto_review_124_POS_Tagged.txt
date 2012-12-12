@@ -1,4 +1,0 @@
-The_DT food_NN here_RB was_VBD pretty_RB good_JJ ,_, given_VBN the_DT standards_NNS for_IN fine_JJ dining_NN in_IN Boston_NNP ._.
-The_DT Grilled_NNP Wolfe_NNP 's_POS Neck_NNP sirloin_NN steak_NN was_VBD one_CD of_IN the_DT best_JJS steaks_NNS I_PRP 've_VBP had_VBN ._.
-The_DT waitstaff_NN was_VBD also_RB quite_RB knowledgeable_JJ and_CC attentive_JJ ._.
-A_DT good_JJ place_NN for_IN a_DT special_JJ occasion_NN ._.

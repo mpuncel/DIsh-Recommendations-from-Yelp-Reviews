@@ -1,4 +1,0 @@
-I_PRP eat_VBP here_RB at_IN least_JJS one_CD a_DT week_NN ._.
-The_DT staff_NN is_VBZ always_RB friendly_JJ and_CC the_DT food_NN is_VBZ great_JJ ._.
-Especially_RB the_DT homemade_NN chips_NNS ._.
-I_PRP would_MD highly_RB recommend_VB this_DT restaurant_NN to_TO everyone_NN ._.

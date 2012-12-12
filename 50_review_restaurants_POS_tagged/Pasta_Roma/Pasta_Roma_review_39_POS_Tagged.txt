@@ -1,5 +1,0 @@
-I_PRP 'm_VBP not_RB a_DT big_JJ fan_NN of_IN pasta_NN ,_, but_CC this_DT place_NN is_VBZ delicious_JJ ,_, cheap_JJ ,_, and_CC generous_JJ with_IN portions_NNS ._.
-And_CC they_PRP deliver_VBP which_WDT is_VBZ incredibly_RB convenient_JJ for_IN the_DT lazy_JJ college_NN students_NNS ._.
-I_PRP often_RB order_VBP the_DT penne_NN farfalle_NN and_CC it_PRP comes_VBZ with_IN breadsticks_NNS on_IN the_DT side_NN ._.
-The_DT quality_NN of_IN food_NN is_VBZ pretty_RB good_JJ ,_, though_IN the_DT atmosphere_NN is_VBZ a_DT bit_NN grungy_JJ and_CC kind_NN of_IN sketchy_JJ at_IN night_NN ._.
-However_RB ,_, it_PRP really_RB is_VBZ a_DT gem_NN amongst_IN the_DT restaurants_NNS in_IN that_DT area_NN ,_, and_CC provides_VBZ a_DT quick_JJ fix_NN to_TO a_DT -LRB-_-LRB- rare_JJ in_IN my_PRP$ case_NN -RRB-_-RRB- italian_JJ craving_NN ._.

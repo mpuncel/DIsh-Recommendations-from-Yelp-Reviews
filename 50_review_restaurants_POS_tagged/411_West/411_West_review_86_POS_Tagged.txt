@@ -1,8 +1,0 @@
-411_CD West_NNP is_VBZ a_DT good_JJ restaurant_NN that_WDT has_VBZ been_VBN a_DT staple_NN in_IN Chapel_NNP Hill_NNP for_IN years_NNS ._.
-Bar_NN -_: One_CD bar_NN ..._: great_JJ wine_NN selection_NN -LRB-_-LRB- as_IN one_CD would_MD expect_VB in_IN an_DT Italian_JJ restaurant_NN -RRB-_-RRB- ._.
-Draft_NN beer_NN selection_NN is_VBZ limited_VBN but_CC covers_VBZ the_DT basics_NNS ._.
-It_PRP gets_VBZ crowded_VBN on_IN Monday_NNP nights_NNS ..._: half_JJ price_NN bottles_NNS of_IN wine_NN draws_VBZ a_DT crowd_NN ._.
-Food_NNP -_: Been_VBN impressed_JJ over_IN the_DT years_NNS ._.
-I_PRP love_VBP the_DT Black_NNP Pepper_NNP Angel_NNP Hair_NNP -LRB-_-LRB- with_IN smoked_JJ salmon_NN -RRB-_-RRB- but_CC was_VBD disappointed_VBN with_IN it_PRP last_JJ time_NN I_PRP went_VBD ..._: hopefully_RB the_DT kitchen_NN was_VBD just_RB having_VBG a_DT bad_JJ night_NN ._.
-Service_NNP -_: Good_JJ and_CC consistent_JJ ._.
-Do_VBP n't_RB think_VB I_PRP have_VBP ever_RB been_VBN disappointed_VBN ._.

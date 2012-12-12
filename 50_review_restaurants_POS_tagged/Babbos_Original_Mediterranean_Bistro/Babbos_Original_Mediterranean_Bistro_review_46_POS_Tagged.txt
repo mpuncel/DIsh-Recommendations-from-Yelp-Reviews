@@ -1,7 +1,0 @@
-Babbo_NNP 's_POS has_VBZ a_DT mix_NN of_IN the_DT everyday_JJ run-of-the-mill_JJ American_JJ restaurant_NN and_CC really_RB nice_JJ Spanish_JJ ,_, Italian_JJ and_CC Greek_JJ dishes_NNS ._.
-I_PRP do_VBP not_RB believe_VB that_IN they_PRP have_VBP a_DT separate_JJ lunch_NN menu_NN or_CC lunch_NN portions_NNS ._.
-The_DT pizzas_NNS are_VBP all_DT made_VBN in_IN the_DT brick_NN oven_NN and_CC are_VBP quite_RB tasty_JJ ._.
-They_PRP used_VBD to_TO have_VB a_DT make-your-own_JJ calzone_NN ,_, which_WDT was_VBD quite_RB fantastic_JJ ,_, but_CC during_IN my_PRP$ latest_JJS visit_NN ,_, I_PRP failed_VBD to_TO see_VB it_PRP on_IN the_DT menu_NN -LRB-_-LRB- it_PRP may_MD be_VB only_RB a_DT dinner_NN item_NN ?_. -RRB-_-RRB- ._.
-The_DT paella_NN comes_VBZ in_IN a_DT very_RB generous_JJ portion_NN and_CC is_VBZ my_PRP$ stepfather_NN 's_POS go-to_JJ dish_NN ._.
-The_DT wait_NN staff_NN is_VBZ very_RB attentive_JJ and_CC everyone_NN will_MD thank_VB you_PRP and_CC wish_VB you_PRP well_RB as_IN you_PRP leave_VBP ._.
-Your_PRP$ meal_NN will_MD be_VB expensive_JJ ,_, so_IN you_PRP might_MD as_RB well_RB make_VB the_DT most_JJS of_IN it_PRP and_CC order_NN something_NN that_IN you_PRP wo_MD n't_RB get_VB anywhere_RB else_RB ._.

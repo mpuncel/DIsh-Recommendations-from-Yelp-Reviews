@@ -1,7 +1,0 @@
-Food_NNP is_VBZ really_RB wonderful_JJ ._.
-Very_RB tasty_JJ italian_NN ._.
-The_DT dishes_NNS are_VBP all_DT really_RB good_JJ ._.
-I_PRP have_VBP business_NN that_WDT takes_VBZ me_PRP to_TO Westwood_NNP often_RB &_CC I_PRP go_VBP here_RB all_PDT the_DT time_NN ,_, so_IN I_PRP have_VBP been_VBN lucky_JJ to_TO try_VB most_JJS of_IN their_PRP$ dishes_NNS &_CC they_PRP are_VBP all_DT very_RB flavorful_JJ &_CC well_RB done_VBN ._.
-The_DT owner_NN is_VBZ a_DT great_JJ guy_NN &_CC very_RB friendly_JJ ._.
-This_DT is_VBZ a_DT very_RB warm_JJ ,_, &_CC cordial_JJ place_NN to_TO get_VB a_DT great_JJ meal_NN at_IN a_DT very_RB reasonable_JJ price_NN ._.
-Overall_RB ,_, definately_RB try_VB it_PRP ..._: you_PRP 'll_MD really_RB like_VB it_PRP

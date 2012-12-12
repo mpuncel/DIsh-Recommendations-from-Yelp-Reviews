@@ -1,9 +1,0 @@
-When_WRB your_PRP$ lasagna_NN ENTREE_NNP is_VBZ smaller_JJR than_IN your_PRP$ calamari_NN APPETIZER_NNP ,_, that_DT 's_VBZ an_DT indication_NN that_WDT something_NN is_VBZ wrong_JJ here_RB ._.
-First_RB ,_, I_PRP asked_VBD for_IN some_DT oil_NN and_CC vinegar_NN with_IN our_PRP$ bread_NN ,_, which_WDT should_MD be_VB a_DT given_VBN anyway_RB ._.
-Why_WRB did_VBD I_PRP have_VBP to_TO ask_VB three_CD different_JJ people_NNS before_IN I_PRP finally_RB got_VBD it_PRP ?_.
-Second_NNP ,_, the_DT calamari_NN was_VBD overcooked_VBN and_CC about_RB 60_CD %_NN of_IN the_DT size_NN it_PRP was_VBD last_JJ time_NN ._.
-Third_NNP ,_, my_PRP$ lasagna_NN entree_FW tasted_FW great_JJ ,_, but_CC I_PRP was_VBD done_VBN in_IN a_DT few_JJ bites_VBZ because_IN it_PRP was_VBD even_RB smaller_JJR than_IN appetizer_NN portion_NN ._.
-So_RB ,_, doing_VBG the_DT math_NN ,_, poor_JJ service_NN ,_, overcooked_JJ calamari_NN ,_, and_CC ridiculously_RB smaller_JJR portions_NNS equal_JJ ..._: ._.
-not_RB coming_VBG here_RB again_RB ._.
-By_IN the_DT way_NN ,_, the_DT lousy_JJ California_NNP Pizza_NNP Kitchen_NN down_IN the_DT street_NN has_VBZ better_JJR tiramisu_NN than_IN these_DT guys_NNS ._.
-How_WRB sad_JJ is_VBZ that_IN ?_.

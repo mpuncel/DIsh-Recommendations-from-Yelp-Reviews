@@ -1,4 +1,0 @@
-Garlic_NNP is_VBZ my_PRP$ friend_NN ._.
-For_IN those_DT seeking_VBG late_JJ night_NN eats_VBZ ,_, this_DT is_VBZ a_DT great_JJ find_VBP ._.
-Bear_NNP in_IN mind_NN ,_, when_WRB I_PRP say_VBP late_JJ night_NN ,_, it_PRP 's_VBZ hard_JJ to_TO find_VB a_DT hot_JJ cooked_VBN meal_NN after_IN 9:30_CD PM_NNP on_IN a_DT week_NN day_NN ._.
-It_PRP 's_VBZ definitely_RB crowded_VBN at_IN times_NNS ,_, but_CC the_DT items_NNS are_VBP fresh_JJ and_CC made_VBN to_TO order_NN ._.

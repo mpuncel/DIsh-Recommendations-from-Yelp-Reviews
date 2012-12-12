@@ -1,2 +1,0 @@
-Great_NNP Authentic_NNP Italian_NNP pizza_NN ,_, plus_CC it_PRP is_VBZ BYOB_NNP which_WDT saves_VBZ a_DT few_JJ bucks_NNS ._.
-A_DT great_JJ place_NN to_TO hang_VB out_RP with_IN friends_NNS ,_, just_RB make_VB sure_JJ and_CC grab_VB a_DT table_NN fast_RB in_IN the_DT back_JJ !_.

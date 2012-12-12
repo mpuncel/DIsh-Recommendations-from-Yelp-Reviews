@@ -1,9 +1,0 @@
-Very_RB mediocre_JJ Italian_JJ food_NN ._.
-However_RB ,_, their_PRP$ group_NN prices_NNS are_VBP very_RB reasonable_JJ ._.
-But_CC I_PRP was_VBD n't_RB happy_JJ with_IN the_DT way_NN they_PRP served_VBD our_PRP$ group_NN ._.
-They_PRP gave_VBD me_PRP a_DT menu_NN for_IN our_PRP$ 60_CD +_NN group_NN ,_, but_CC we_PRP ran_VBD out_IN of_IN food_NN ._.
-WTH_NNP ?_.
-Well_RB ,_, we_PRP ran_VBD out_IN of_IN certain_JJ foods_NNS ,_, like_IN salad_NN and_CC appetizers_NNS ._.
-We_PRP had_VBD way_NN too_RB much_JJ entree_FW food_NN ,_, but_CC it_PRP was_VBD at_IN the_DT two_CD tables_NNS in_IN the_DT front_NN of_IN the_DT room_NN ,_, since_IN they_PRP never_RB started_VBD at_IN the_DT back_NN of_IN the_DT room_NN ._.
-You_PRP gotta_VBP work_NN 'em_PRP ,_, or_CC they_PRP 'll_MD slack_VB ._.
-Giddyup_NNP ,_, Pony_NNP ._.

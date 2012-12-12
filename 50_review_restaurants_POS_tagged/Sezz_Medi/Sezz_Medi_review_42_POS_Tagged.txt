@@ -1,8 +1,0 @@
-The_DT food_NN quality_NN is_VBZ quite_RB good_JJ ._.
-It_PRP 's_VBZ very_RB tasty_JJ ._.
-Service_NNP is_VBZ typical_JJ for_IN New_NNP York_NNP and_CC the_DT area_NN ._.
-It_PRP 's_VBZ just_RB out_IN of_IN my_PRP$ price_NN range_NN ._.
-$_$ 14_CD for_IN a_DT sandwich_NN -LRB-_-LRB- panuzzi_NN -RRB-_-RRB- ,_, really_RB ?_.
-The_DT main_JJ dishes_NNS are_VBP around_IN $_$ 20-25_CD ._.
-If_IN I_PRP 'm_VBP in_IN the_DT mood_NN for_IN Italian_JJ ,_, I_PRP 'd_MD rather_RB go_VB to_TO cheap_JJ Max_NNP Soha_NNP down_IN the_DT block_NN ._.
--LRB-_-LRB- But_CC note_NN Sezz_NNP Medi_NNP has_VBZ more_RBR pizza_NN and_CC not_RB much_JJ pasta_NN ,_, Max_NNP Soha_NNP has_VBZ no_DT pizza_NN as_IN far_RB as_IN I_PRP know_VBP ._. -RRB-_-RRB-

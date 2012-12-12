@@ -1,5 +1,0 @@
-Not_RB only_RB does_VBZ this_DT place_NN have_VBP great_JJ pizza_NN ..._: eating_VBG here_RB is_VBZ an_DT experience_NN in_IN itself_PRP ._.
-On_IN busy_JJ nights_NNS ,_, seating_VBG is_VBZ very_RB limited_VBN so_RB be_VB ready_JJ to_TO stand_VB and_CC to_TO wait_VB for_IN a_DT chance_NN to_TO grab_VB a_DT table_NN -LRB-_-LRB- first_JJ come_VBN ,_, first_JJ grab_NN ._. -RRB-_-RRB-
-The_DT pizza_NN is_VBZ made_VBN fresh_JJ to_TO order_NN and_CC makes_VBZ for_IN a_DT nice_JJ show_NN as_IN you_PRP can_MD watch_VB them_PRP while_IN they_PRP toss_VBP and_CC work_VBP the_DT dough_NN ._.
-Simple_NN and_CC fresh_JJ ingredients_NNS make_VBP a_DT great_JJ combo_NN for_IN good_JJ eats_VBZ ._.
-BYOB_NN !_.

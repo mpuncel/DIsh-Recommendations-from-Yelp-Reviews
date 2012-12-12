@@ -1,3 +1,0 @@
-This_DT is_VBZ my_PRP$ favorite_JJ pizza_NN spot_NN !_.
-The_DT pizza_NN Bianco_NNP and_CC the_DT BBQ_NNP chicken_NN are_VBP unparalleled_JJ ._.
-What_WP 's_VBZ more_JJR ,_, they_PRP serve_VBP Pepsi_NNP on_IN fountain_NN !_.

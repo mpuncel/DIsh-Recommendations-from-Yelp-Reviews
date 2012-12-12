@@ -1,3 +1,0 @@
-I_PRP ordered_VBD a_DT cheese_NN pizza_NN from_IN them_PRP once_RB and_CC was_VBD not_RB that_IN impressed_JJ ._.
-There_EX is_VBZ something_NN weird_JJ about_IN the_DT sauce_NN and_CC it_PRP was_VBD definitely_RB raw_JJ ._.
-They_PRP are_VBP quick_JJ on_IN the_DT delivery_NN though_IN ._.

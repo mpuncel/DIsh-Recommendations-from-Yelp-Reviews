@@ -1,3 +1,0 @@
-Beautiful_JJ ,_, simple_JJ Italian_JJ fare_NN that_WDT is_VBZ served_VBN in_IN a_DT very_RB attractive_JJ ,_, sunny_JJ building_NN ._.
-The_DT quality_NN of_IN the_DT food_NN is_VBZ terrific_JJ and_CC combined_VBN with_IN the_DT atmosphere_NN it_PRP 's_VBZ obvious_JJ why_WRB this_DT restaurant_NN is_VBZ so_RB popular_JJ with_IN Chapel_NNP Hill_NNP residents_NNS ._.
-My_PRP$ only_JJ complaint_NN is_VBZ that_IN it_PRP is_VBZ a_DT little_JJ pricey_JJ and_CC poor_JJ service_NN demeans_VBZ the_DT experience_NN ._.

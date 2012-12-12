@@ -1,5 +1,0 @@
-We_PRP had_VBD the_DT SCALOPPINI_NNP AI_NNP FUNGHI_NNP -LRB-_-LRB- tender_NN veal_NN saute_NN '_'' with_IN crimini_NN &_CC porcini_NN mushrooms_NNS -RRB-_-RRB- &_CC PETTO_NNP D'ANATRA_NNP AL_NNP PEPE_NNP NERO_NNP -LRB-_-LRB- duck_NN breast_NN pan-fried_JJ with_IN crushed_JJ black_JJ pepper_NN &_CC fresh_JJ herbs_NNS -RRB-_-RRB- The_DT veal_NN and_CC the_DT sauce_NN complimented_VBD each_DT other_JJ so_RB well_RB blended_JJ with_IN the_DT herbs_NNS ._.
-The_DT duck_NN was_VBD moist_JJ ,_, juicy_NN and_CC the_DT sauce_NN was_VBD an_DT excellent_JJ compliment_NN !_.
-The_DT atmosphere_NN is_VBZ super_JJ cute_JJ ,_, in_IN an_DT old_JJ house_NN with_IN dim_NN lights_NNS and_CC also_RB outside_JJ seating_NN ._.
-It_PRP 's_VBZ like_IN a_DT little_JJ hidden_JJ gem_NN in_IN the_DT Village_NNP ,_, tucked_VBN in_IN ._.
-Loved_VBD it_PRP !_.

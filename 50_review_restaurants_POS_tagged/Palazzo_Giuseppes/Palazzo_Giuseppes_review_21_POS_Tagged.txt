@@ -1,3 +1,0 @@
-By_IN far_RB my_PRP$ favorite_JJ place_NN to_TO eat_VB in_IN Slo_NNP ._.
-its_PRP$ expensive_JJ but_CC sooo_JJ worth_NN it_PRP !_.
-Chicken_NNP risotto_NN is_VBZ really_RB amazing_JJ and_CC served_VBD in_IN a_DT cute_JJ copper_NN pot_NN ..._: CLASSY_NNP !_.

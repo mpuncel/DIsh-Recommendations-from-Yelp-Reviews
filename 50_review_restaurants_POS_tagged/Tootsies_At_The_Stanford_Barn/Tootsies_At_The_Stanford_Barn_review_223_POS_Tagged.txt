@@ -1,6 +1,0 @@
-I_PRP need_VBP a_DT Tootsie_NNP 's_POS intervention_NN ._.
-If_IN it_PRP was_VBD socially_RB acceptable_JJ ,_, I_PRP would_MD grab_VB as_RB much_JJ of_IN their_PRP$ food_NN as_IN I_PRP could_MD and_CC shove_VB it_PRP in_IN my_PRP$ pockets_NNS for_IN later_RB ._.
-I_PRP 'm_VBP addicted_VBN to_TO the_DT spinaccio_NN salad_NN ,_, homemade_NN focaccia_NN bread_NN and_CC rosemary_JJ chips_NNS served_VBD warm_JJ ,_, crunchy_JJ and_CC salty_NN when_WRB my_PRP$ hunger_NN cravings_NNS are_VBP at_IN their_PRP$ worst_JJS ._.
-Ingredients_NNS are_VBP fresh_JJ and_CC dishes_NNS are_VBP flavorful_JJ ._.
-My_PRP$ fav_NN lunch_NN spot_NN ,_, and_CC within_IN walking_VBG distance_NN to_TO work_VB ,_, which_WDT is_VBZ oh_UH so_RB convenient_JJ ._.
-Word_NN to_TO the_DT Wise_NNP :_: This_DT is_VBZ a_DT hotspot_NN for_IN Stanford_NNP students_NNS ,_, hospital_NN residents_NNS and_CC faculty_NN ,_, so_RB make_VB sure_JJ you_PRP grab_VBP a_DT table_NN outside_IN as_RB soon_RB as_IN you_PRP pop_VBP in_IN ._.

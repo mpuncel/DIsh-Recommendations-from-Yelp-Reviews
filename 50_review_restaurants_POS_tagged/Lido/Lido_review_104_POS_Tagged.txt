@@ -1,5 +1,0 @@
-The_DT food_NN was_VBD great_JJ !_.
-The_DT service_NN was_VBD also_RB very_RB good_JJ !_.
-Our_PRP$ waiter_NN was_VBD very_RB nice_JJ !_.
-I_PRP must_MD say_VB it_PRP was_VBD a_DT bit_NN warm_JJ inside_IN the_DT restaurant_NN and_CC for_IN some_DT odd_JJ reason_NN they_PRP kept_VBD playing_VBG the_DT same_JJ Adele_NNP song_NN over_IN and_CC over_IN and_CC over_IN and_CC over_IN again_RB and_CC it_PRP kind_RB of_IN felt_VBN like_IN groundhogs_NNS day_NN ._.
-:_: -_: -RRB-_-RRB-

@@ -1,5 +1,0 @@
-great_JJ space_NN ._.
-nice_JJ fountain_NN outside_IN ,_, very_RB roomy_JJ inside_IN ._.
-right_RB in_IN he_PRP heart_NN of_IN classy_JJ princeton_NN ,_, outside_JJ palmer_NN square_NN ._.
-excellent_JJ bread_NN basket_NN ,_, wine_NN ,_, and_CC filet_NN ._.
-will_MD return_VB ._.

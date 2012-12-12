@@ -1,1 +1,0 @@
-ask_VB for_IN your_PRP$ pizza_NN to_TO be_VB cooked_VBN well_RB done_VBN -_: and_CC make_VB sure_JJ they_PRP do_VBP n't_RB double_JJ charge_NN your_PRP$ credit_NN card_NN like_IN they_PRP did_VBD mine_NN ._.

@@ -1,5 +1,0 @@
-THE_DT BEST_NNP !!!_CD I_PRP 'm_VBP talking_VBG TASTY_JJ ,_, tasty_JJ stuff_NN here_RB ._.
-Extremely_RB quality_NN ingredients_NNS ._.
-It_PRP 's_VBZ one_CD of_IN those_DT places_NNS that_IN you_PRP stand_VBP and_CC eat_VBP on_IN whatever_WDT surface_NN is_VBZ available_JJ -_: you_PRP know_VBP ,_, a_DT big_JJ table_NN w_NN \/_VBD a_DT bunch_NN of_IN strangers_NNS ,_, on_IN a_DT prep_NN table_NN in_IN the_DT kitchen_NN ,_, or_CC wherever_WRB you_PRP can_MD squeeze_VB in_IN ._.
-Best_JJS part_NN ..._: YOU_PRP CAN_VBP BRING_VBG YOUR_JJ OWN_NNP WINE_NNP AND_CC BEER_NN -LRB-_-LRB- no_DT corkage_NN fees_NNS or_CC anything_NN like_IN that_IN -RRB-_-RRB- !!!!_CD Go_NNP ._.
-You_PRP will_MD not_RB regret_VB it_PRP ._.

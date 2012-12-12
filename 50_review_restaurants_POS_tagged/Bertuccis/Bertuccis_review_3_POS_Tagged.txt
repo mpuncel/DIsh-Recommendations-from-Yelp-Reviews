@@ -1,4 +1,0 @@
-blech_NN ,_, i_FW do_VBP n't_RB like_VB bertucci_NN 's_POS pizza_NN at_IN all_DT ._.
-they_PRP do_VBP n't_RB use_VB enough_JJ cheese_NN ,_, the_DT sauce_NN is_VBZ meagerly_JJ spread_NN and_CC too_RB salty_JJ ,_, and_CC the_DT crust_NN is_VBZ not_RB at_IN all_DT stand-out_JJ ._.
-however_RB ,_, the_DT buns_NNS they_PRP serve_VBP are_VBP always_RB hot_JJ -LRB-_-LRB- actually_RB sometimes_RB so_RB hot_JJ you_PRP really_RB have_VBP to_TO be_VB careful_JJ !_. -RRB-_-RRB-
-,_, and_CC if_IN you_PRP 're_VBP out_RP with_IN a_DT group_NN it_PRP 's_VBZ an_DT easy_JJ place_NN to_TO settle_VB on_IN b\/c_JJ it_PRP 's_VBZ not_RB \*_SYM bad_JJ \*_SYM per_IN se_FW ._.

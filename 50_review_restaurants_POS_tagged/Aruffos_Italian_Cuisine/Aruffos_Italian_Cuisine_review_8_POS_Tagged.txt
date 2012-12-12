@@ -1,4 +1,0 @@
-We_PRP ate_VBD here_RB last_JJ night_NN --_: it_PRP was_VBD an_DT A_DT +_NN from_IN the_DT service_NN to_TO the_DT food_NN to_TO the_DT ambiance_NN ._.
-Great_NNP little_JJ restaurant_NN with_IN much_JJ to_TO choose_VB from_IN whether_IN you_PRP 're_VBP a_DT meat_NN eater_NN or_CC vegetarian_NN ._.
-The_DT service_NN was_VBD excellent_JJ --_: all_PDT the_DT waiters\/busboys_NNS were_VBD friendly_JJ and_CC right_JJ on_IN top_NN of_IN things_NNS ._.
-Would_MD love_VB to_TO go_VB back_RB as_IN there_EX were_VBD many_JJ things_NNS I_PRP 'd_MD like_VB to_TO try_VB and_CC being_VBG a_DT vegetarian_NN ,_, I_PRP do_VBP n't_RB say_VB that_IN too_RB often_RB ._.

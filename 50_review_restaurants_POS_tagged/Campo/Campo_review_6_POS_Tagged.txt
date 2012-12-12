@@ -1,3 +1,0 @@
-Very_RB tasty_JJ Parmesan_NNP fries_NNS ._.
-Food_NNP was_VBD not_RB as_RB much_JJ as_IN I_PRP expected_VBD it_PRP to_TO be_VB when_WRB I_PRP walked_VBD in_IN ._.
-Service_NNP was_VBD not_RB great_JJ ._.

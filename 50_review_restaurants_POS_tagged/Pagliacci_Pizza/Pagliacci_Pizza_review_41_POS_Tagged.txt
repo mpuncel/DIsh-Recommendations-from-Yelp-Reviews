@@ -1,5 +1,0 @@
-In_IN a_DT state_NN that_WDT has_VBZ the_DT worst_JJS tasting_NN food_NN ,_, this_DT place_NN actually_RB was_VBD great_JJ ._.
-Real_JJ NY_NNP style_NN pizza_NN !_.
-Friendly_RB college_NN student_NN staff_NN who_WP make_VBP your_PRP$ pizza_NN quick_JJ ._.
-I_PRP used_VBD to_TO grab_VB a_DT pizza_NN from_IN here_RB every_DT Sunday_NNP ._.
-If_IN I_PRP go_VBP back_RB to_TO 206_CD this_DT is_VBZ where_WRB I_PRP will_MD have_VB to_TO grab_VB pizza_NN from_IN !_.

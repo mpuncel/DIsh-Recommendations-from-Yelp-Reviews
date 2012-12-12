@@ -1,7 +1,0 @@
-I_PRP am_VBP not_RB particularly_RB bowled_VBN over_RP by_IN Bertucci_NNP 's_POS food_NN ,_, but_CC when_WRB in_IN a_DT pinch_NN to_TO get_VB something_NN for_IN dinner_NN ,_, their_PRP$ Margherita_NNP pizza_NN is_VBZ always_RB a_DT great_JJ standard_NN ._.
-This_DT location_NN in_IN particular_JJ gets_VBZ a_DT 4_CD star_NN rating_NN though_IN for_IN their_PRP$ great_JJ service_NN ._.
-I_PRP recently_RB ordered_VBD a_DT pizza_NN from_IN this_DT location_NN for_IN take_VB out_RP completely_RB forgetting_VBG that_IN earlier_JJR that_DT day_NN it_PRP had_VBD been_VBN MIT_NNP 's_POS graduation_NN ._.
-When_WRB I_PRP arrived_VBD to_TO pick_VB up_RP my_PRP$ pizza_NN ,_, the_DT restaurant_NN was_VBD absolutely_RB packed_JJ and_CC the_DT hostess_NN could_MD not_RB find_VB my_PRP$ order_NN anywhere_RB ._.
-To_TO make_VB up_RP for_IN the_DT mishap_NN ,_, they_PRP sent_VBD me_PRP off_RP with_IN a_DT free_JJ pizza_NN of_IN my_PRP$ choice_NN and_CC freshly_RB backed_VBD rolls_NNS ._.
-Thank_VB you_PRP Bertucci_NNP 's_POS !_.
-Now_RB that_DT is_VBZ service_NN !!_NN

@@ -1,4 +1,0 @@
-The_DT pizza_NN is_VBZ great_JJ and_CC is_VBZ better_RBR than_IN any_DT I_PRP 've_VBP had_VBN in_IN Atlanta_NNP ._.
-The_DT space_NN is_VBZ cool_JJ and_CC its_PRP$ interesting_JJ that_IN you_PRP can_MD sit_VB in_IN the_DT kitchen_NN ._.
-Would_MD give_VB it_PRP 4.5_CD stars_NNS if_IN I_PRP could_MD only_RB because_IN I_PRP 'd_MD prefer_VB that_IN it_PRP was_VBD a_DT little_RB more_JJR of_IN a_DT sit_VB down_RP place_NN ._.
-But_CC if_IN your_PRP$ close_NN enough_RB for_IN this_DT to_TO be_VB takeout_JJ then_RB 5_CD stars_NNS for_IN sure_JJ ._.

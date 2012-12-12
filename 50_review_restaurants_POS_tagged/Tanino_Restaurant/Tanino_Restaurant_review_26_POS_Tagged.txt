@@ -1,3 +1,0 @@
-Ambiance_NNP and_CC decor_NN are_VBP nice_JJ ._.
-Service_NNP staff_NN is_VBZ great_JJ ._.
-Food_NNP mediocre_JJ except_IN for_IN the_DT sea_NN urchin_NN pasta_NN ._.

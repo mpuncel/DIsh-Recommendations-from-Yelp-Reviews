@@ -1,8 +1,0 @@
-One_CD of_IN two_CD places_NNS on_IN Penn_NNP 's_POS campus_NN for_IN a_DT good_JJ slice_NN -LRB-_-LRB- the_DT other_JJ being_VBG pizza_NN rustica_NN -RRB-_-RRB- ._.
-Allegro_NNP 's_POS is_VBZ open_JJ much_RB later_RB and_CC is_VBZ way_RB closer_JJR to_TO most_RBS students_NNS '_POS dorms_NNS and_CC off-campus_JJ houses_NNS ._.
-It_PRP gets_VBZ crowded_VBN on_IN the_DT weekends_NNS with_IN mildly_RB intoxicated_VBN Penn_NNP students_NNS whetting_VBG their_PRP$ appetites_NNS after_IN a_DT good_JJ number_NN of_IN drinks_NNS ._.
-A_DT good_JJ ,_, clean_JJ place_NN for_IN buying_VBG \/_NN drinking_NN 40s_CD alone_RB or_CC with_IN friends_NNS ._.
-Yup_NNP ,_, they_PRP also_RB ``_`` distribute_VB ''_'' beer_NN -LRB-_-LRB- stupid_JJ PA_NNP liquor_NN laws_NNS -RRB-_-RRB- ._.
-Reasonable_JJ prices_NNS on_IN beer_NN ._.
-Do_VBP n't_RB get_VB the_DT pasta_NN ,_, it_PRP 's_VBZ not_RB their_PRP$ expertise_NN ._.
-Allegro_NNP 's_POS is_VBZ also_RB a_DT fun_NN place_NN for_IN watching_VBG sports_NNS games_NNS on_IN their_PRP$ nice_JJ plasma_NN screens_NNS ._.

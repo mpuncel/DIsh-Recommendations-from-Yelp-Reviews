@@ -1,4 +1,0 @@
-The_DT food_NN is_VBZ mediocre_JJ :_: nothing_NN special_JJ but_CC not_RB Olive_NNP Garden_NNP ._.
-The_DT drinks_NNS were_VBD made_VBN well_RB although_IN they_PRP could_MD definitely_RB use_VB more_JJR alcohol_NN for_IN the_DT price_NN ._.
-Skip_VB the_DT dessert_NN -_: 5_CD mins_NNS on_IN the_DT lips_NNS ,_, forever_RB on_IN the_DT hips_NNS ._.
-Saving_VBG grace_NN :_: great_JJ service_NN and_CC friendly_JJ staff_NN ._.

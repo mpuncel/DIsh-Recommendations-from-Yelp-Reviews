@@ -1,4 +1,0 @@
-Blech_NNP !!!_NNP It_PRP 's_VBZ an_DT over_IN priced_VBN shi_NN shi_FW restaurant_NN !_.
-The_DT only_JJ thing_NN I_PRP liked_VBD was_VBD their_PRP$ espresso_NN ._.
-The_DT salad_NN was_VBD wilted_VBN ,_, the_DT pasta_NN overcooked_VBD ,_, and_CC service_NN not_RB so_RB great_JJ ._.
-Definitely_RB not_RB worth_IN the_DT $_$ $_$ $_$ ._.

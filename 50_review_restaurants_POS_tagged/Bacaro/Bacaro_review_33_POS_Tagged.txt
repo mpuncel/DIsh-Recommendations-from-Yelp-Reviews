@@ -1,5 +1,0 @@
-For_IN the_DT price_NN that_IN this_DT Central_NNP Illinois_NNP establishment_NN charges_NNS ,_, one_CD would_MD expect_VB basic_JJ restaurant_NN treatment_NN ._.
-I_PRP waited_VBD for_IN 15_CD minutes_NNS even_RB though_IN I_PRP had_VBD a_DT reservation_NN ._.
-The_DT host_NN was_VBD a_DT snooty_JJ ,_, inconsiderate_JJ person_NN to_TO which_WDT I_PRP told_VBD him_PRP ,_, ``_`` relax_VB ,_, this_DT is_VBZ Central_NNP Illinois_NNP ,_, there_EX 's_VBZ nothing_NN to_TO be_VB snooty_JJ about_IN ._. ''_''
-And_CC most_JJS importantly_RB ,_, the_DT food_NN was_VBD over_IN priced_VBN ,_, did_VBD not_RB taste_VB good_JJ and_CC the_DT portions_NNS were_VBD small_JJ ._.
-All_DT in_IN all_DT ,_, not_RB the_DT greatest_JJS ._.

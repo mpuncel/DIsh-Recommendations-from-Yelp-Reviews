@@ -1,3 +1,0 @@
-I_PRP have_VBP to_TO agree_VB with_IN Karen_NNP F._NNP -_: best_JJS risotto_NN ever_RB !_.
-The_DT only_JJ downfall_NN was_VBD when_WRB my_PRP$ husband_NN ordered_VBD a_DT bourbon_NN and_CC coke_NN ._.
-Our_PRP$ very_RB Italian_JJ waiter_NN brought_VBD him_PRP a_DT coke_NN and_CC a_DT bourbon_NN -_: in_IN separate_JJ glasses_NNS ._.

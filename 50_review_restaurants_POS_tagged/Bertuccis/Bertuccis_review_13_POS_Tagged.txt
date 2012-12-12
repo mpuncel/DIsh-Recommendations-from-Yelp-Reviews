@@ -1,3 +1,0 @@
-The_DT bread_NN and_CC the_DT olive_JJ oil_NN dip_NN is_VBZ great_JJ ,_, so_RB is_VBZ the_DT sangria_NN -LRB-_-LRB- white_JJ -RRB-_-RRB- and_CC the_DT ravioli_NNS with_IN lobster_NN ._.
-For_IN appetizers_NNS ,_, we_PRP tried_VBD the_DT grilled_JJ vegetable_NN and_CC the_DT shrimp_NN ._.
-Both_DT were_VBD good_JJ ._.

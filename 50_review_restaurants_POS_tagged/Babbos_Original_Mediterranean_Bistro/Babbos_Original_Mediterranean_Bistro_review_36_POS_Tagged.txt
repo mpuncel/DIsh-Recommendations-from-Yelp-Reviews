@@ -1,5 +1,0 @@
-Sat_NNP outside_IN on_IN a_DT Saturday_NNP for_IN lunch_NN ._.
-The_DT menu_NN has_VBZ a_DT nice_JJ selection_NN -_: I_PRP chose_VBD the_DT prawn_JJ salad_NN which_WDT sounded_VBD way_RB better_JJR than_IN it_PRP actually_RB was_VBD ._.
-The_DT bread_NN is_VBZ YUM_NNP ._.
-The_DT service_NN was_VBD very_RB warm_JJ and_CC friendly_JJ ._.
-I_PRP would_MD go_VB back_RB and_CC try_VB something_NN else_RB ._.

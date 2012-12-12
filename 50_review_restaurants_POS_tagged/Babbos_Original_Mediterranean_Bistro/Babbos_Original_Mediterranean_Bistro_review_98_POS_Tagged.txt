@@ -1,4 +1,0 @@
-Service_NNP -_: A_NNP bit_RB slow_JJ ._.
-Took_VBD forever_RB to_TO get_VB our_PRP$ order_NN in_IN ,_, get_VB our_PRP$ food_NN ,_, refill_NN water_NN ,_, and_CC get_VB our_PRP$ check_NN ._.
-Pizza_NNP -_: It_PRP 's_VBZ ok_NN ._.
-Price_NN -_: Expensive_JJ ._.

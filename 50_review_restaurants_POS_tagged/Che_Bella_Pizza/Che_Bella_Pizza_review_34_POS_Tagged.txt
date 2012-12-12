@@ -1,4 +1,0 @@
-So_IN I_PRP have_VBP eaten_VBN the_DT pizza_NN and_CC other_JJ meals_NNS at_IN Che_NNP '_POS Bella_NNP ._.
-The_DT slices_NNS of_IN pizza_NN are_VBP pretty_RB good_JJ ,_, especially_RB the_DT chicken_NN parmigiana_NN slices_NNS and_CC I_PRP like_VBP to_TO get_VB a_DT side_NN salad_NN to_TO go_VB with_IN it_PRP ._.
-The_DT prices_NNS are_VBP a_DT bit_NN high_JJ for_IN what_WP you_PRP get_VBP though_RB ._.
-I_PRP have_VBP n't_RB enjoyed_VBN the_DT other_JJ food_NN that_IN I_PRP have_VBP ordered_VBN at_IN Che_NNP '_POS Bella_NNP and_CC would_MD n't_RB recommend_VB it_PRP as_RB much_RB as_IN I_PRP would_MD the_DT pizza_NN ._.

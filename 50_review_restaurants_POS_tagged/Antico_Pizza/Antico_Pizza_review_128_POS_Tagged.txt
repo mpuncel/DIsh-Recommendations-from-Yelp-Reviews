@@ -1,5 +1,0 @@
-Simply_RB put_VBN ._.
-BEST_NNP ._.
-PIZZA_NN ._.
-IN_IN ._.
-ATLANTA_NNP ._.

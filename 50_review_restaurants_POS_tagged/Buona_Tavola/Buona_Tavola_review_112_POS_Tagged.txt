@@ -1,2 +1,0 @@
-Buena_NNP Tavola_NNP made_VBD me_PRP want_VB to_TO go_VB to_TO Italy_NNP !_.
-The_DT gnochi_NN was_VBD to_TO die_VB for_IN !_.

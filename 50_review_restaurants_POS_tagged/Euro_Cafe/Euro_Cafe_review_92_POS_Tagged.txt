@@ -1,3 +1,0 @@
-I_PRP have_VBP returned_VBN to_TO Euro_NNP Cafe_NNP several_JJ times_NNS ,_, and_CC the_DT experience_NN with_IN food_NN and_CC service_NN has_VBZ always_RB been_VBN pleasant_JJ ._.
-The_DT Bife_NNP a_DT la_NNP Portuguesa_NNP and_CC the_DT paninis_NNS are_VBP great_JJ ._.
-Do_VBP not_RB forget_VB to_TO try_VB the_DT NATAS_NNP ..._: they_PRP are_VBP so_RB good_JJ ,_, just_RB like_IN the_DT rest_NN of_IN their_PRP$ baked_JJ goods_NNS !_.

@@ -1,7 +1,0 @@
-I_PRP came_VBD here_RB in_IN late_JJ March_NNP during_IN Boston_NNP 's_POS restaurant_NN week_NN for_IN my_PRP$ birthday_NN ._.
-The_DT four_CD of_IN us_PRP ordered_VBD from_IN the_DT $_$ 33_CD three-course_JJ menu_NN ._.
-The_DT seafood_NN appetizers_NNS and_CC salad_NN were_VBD delicious_JJ and_CC beautifully_RB plated_VBN ._.
-For_IN the_DT entree_FW ,_, I_PRP ordered_VBD the_DT halibut_NN ,_, which_WDT was_VBD very_RB fresh_JJ and_CC well_RB flavored-neither_JJ too_RB salty_JJ nor_CC too_RB light_JJ ._.
-The_DT chocolate_NN cake_NN dessert_NN was_VBD equally_RB good_JJ ._.
-The_DT server_NN was_VBD professional_JJ and_CC gave_VBD great_JJ recommendations_NNS ._.
-The_DT only_JJ downside_NN was_VBD finding_VBG parking_NN in_IN Harvard_NNP Square_NNP ,_, though_IN that_DT goes_VBZ for_IN every_DT restaurant_NN in_IN the_DT area_NN ._.

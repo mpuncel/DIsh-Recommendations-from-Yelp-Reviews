@@ -1,4 +1,0 @@
-Love_NNP this_DT restaurant_NN ._.
-My_PRP$ server_NN was_VBD so_RB nice_JJ and_CC attentive_JJ ,_, the_DT food_NN was_VBD amazing_JJ ,_, and_CC the_DT wine_NN list_NN was_VBD great_JJ ._.
-I_PRP tried_VBD a_DT bottle_NN of_IN syrah_NN ,_, Oriel_NNP 's_POS Courant_NNP ,_, it_PRP was_VBD a_DT perfect_JJ complement_VBP ._.
-I_PRP will_MD definitely_RB take_VB my_PRP$ out_IN of_IN town_NN guests_NNS to_TO wine_NN and_CC dine_NN here_RB this_DT weekend_NN -LRB-_-LRB- I_PRP know_VBP variety_NN is_VBZ the_DT spice_NN of_IN life_NN ,_, but_CC this_DT place_NN is_VBZ great_JJ -RRB-_-RRB-

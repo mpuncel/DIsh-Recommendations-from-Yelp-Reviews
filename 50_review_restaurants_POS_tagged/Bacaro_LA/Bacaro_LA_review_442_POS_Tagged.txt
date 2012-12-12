@@ -1,6 +1,0 @@
-Had_VBD the_DT burger_NN with_IN fried_JJ egg_NN ..._: did_VBD not_RB expect_VB it_PRP to_TO not_RB be_VB on_IN a_DT bun_NN ,_, but_CC on_IN sliced_JJ bread_NN ._.
-The_DT ``_`` burger_NN ''_'' did_VBD not_RB come_VBN with_IN bread_NN on_IN top_JJ either_CC so_IN it_PRP seemed_VBD half_JJ completed_VBN ._.
-The_DT meal_NN was_VBD a_DT bit_NN small_JJ as_RB well_RB ._.
-The_DT drink_NN list_NN ,_, although_IN creative_JJ with_IN being_VBG on_IN a_DT big_JJ black_JJ board_NN on_IN the_DT wall_NN ,_, can_MD be_VB hard_JJ to_TO see_VB if_IN you_PRP are_VBP sitting_VBG against_IN the_DT wall_NN ._.
-Other_JJ reviews_NNS say_VBP their_PRP$ tapas_NNS and_CC other_JJ things_NNS are_VBP good_JJ so_RB until_IN then_RB ,_, was_VBD not_RB too_RB impressed_JJ with_IN Bacaro_NNP ._.
-Will_MD need_VB to_TO come_VB back_RB and_CC try_VB other_JJ things_NNS ._.

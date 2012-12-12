@@ -1,7 +1,0 @@
-Pagliacci_NNP is_VBZ good_JJ ,_, but_CC has_VBZ anyone_NN noticed_VBD that_IN their_PRP$ slices_NNS are_VBP getting_VBG smaller_JJR and_CC the_DT prices_NNS are_VBP getting_VBG higher_JJR ?_.
-Hmmmmm_NNP ..._: Well_UH ,_, what_WP I_PRP can_MD say_VB about_IN Pagliacci_NNP 's_POS is_VBZ that_IN they_PRP are_VBP a_DT Seattle_NNP institution_NN that_WDT is_VBZ basically_RB rated_VBN NO._NNP 1_CD PIZZA_NNP every_DT year_NN -LRB-_-LRB- and_CC in_IN a_DT row_NN -RRB-_-RRB- ._.
-I_PRP like_VBP Pagliacci_NNP ,_, but_CC at_IN the_DT same_JJ time_NN ,_, I_PRP feel_VBP like_IN they_PRP are_VBP a_DT little_JJ overrated_JJ ._.
-The_DT U-district_JJ store_NN is_VBZ a_DT little_JJ daunting_JJ because_IN it_PRP 's_VBZ slightly_RB dark_JJ and_CC the_DT dining_NN area_NN is_VBZ not_RB very_RB well-planned_JJ out_IN ._.
-Check_VB out_RP the_DT Capitol_NNP Hill_NNP store_NN ,_, it_PRP 's_VBZ money_NN ._.
-They_PRP have_VBP gelatto_VBN there_RB ,_, more_JJR salads_NNS and_CC a_DT cute_JJ dining_NN room_NN with_IN outdoor_JJ seating_NN in_IN the_DT summer_NN ._.
-It_PRP almost_RB reminds_VBZ me_PRP of_IN being_VBG in_IN Vancouver_NNP ,_, and_CC that_DT is_VBZ a_DT beautiul_JJ thing_NN ._.

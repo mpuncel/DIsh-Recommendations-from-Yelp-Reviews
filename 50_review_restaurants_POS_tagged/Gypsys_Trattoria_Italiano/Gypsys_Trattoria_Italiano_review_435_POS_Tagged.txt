@@ -1,4 +1,0 @@
-My_PRP$ Favorite_JJ place_NN to_TO grab_VB some_DT pasta_NN ._.
-Im_NNP a_DT sauce_NN guy_NN ._.
-If_IN you_PRP like_IN some_DT pasta_NN with_IN ur_NN sauce_NN Gypsy_NNP 's_POS is_VBZ your_PRP$ place_NN ._.
-The_DT times_NNS I_PRP 've_VBP been_VBN there_RB it_PRP was_VBD very_RB busy_JJ so_IN i_FW might_MD not_RB be_VB a_DT bad_JJ idea_NN to_TO get_VB your_PRP$ meal_NN in_IN a_DT to_TO go_VB box_NN and_CC sit_VB outside_JJ ._.

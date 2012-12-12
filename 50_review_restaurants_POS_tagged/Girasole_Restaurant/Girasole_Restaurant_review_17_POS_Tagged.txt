@@ -1,6 +1,0 @@
-What_WP a_DT charming_JJ little_JJ place_NN ._.
-Rigatoni_NNP with_IN meat_NN sauce_NN was_VBD to_TO die_VB for_IN ._.
-Great_NNP salads_NNS ._.
-Great_JJ desserts_NNS ._.
-The_DT owner_NN came_VBD over_IN to_TO schmooze_VB with_IN us_PRP so_IN we_PRP felt_VBD right_RB at_IN home_NN ._.
-Make_VB a_DT reservation_NN or_CC you_PRP will_MD have_VB a_DT long_JJ wait_NN -LRB-_-LRB- if_IN you_PRP get_VBP in_IN at_IN all_DT -RRB-_-RRB- ._.

@@ -1,5 +1,0 @@
-In_IN short_JJ :_: Though_NNP you_PRP have_VBP to_TO wait_VB in_IN line_NN for_IN a_DT while_NN before_IN you_PRP order_NN ,_, the_DT pizza_NN is_VBZ cooked_VBN in_IN no_DT time_NN ._.
-Delicious_NNP cannoli_NNS that_WDT are_VBP filled_VBN when_WRB you_PRP order_VBP them_PRP ._.
-Marinara_NNP pizza_NN was_VBD good_JJ ,_, but_CC not_RB recommended_VBN -LRB-_-LRB- few_JJ anchovies_NNS ,_, garlic_NN is_VBZ in_IN in_IN full_JJ ,_, nearly_RB raw_JJ cloves_NNS ,_, very_RB little_JJ cheese_NN -RRB-_-RRB- ._.
-But_CC the_DT crust_NN is_VBZ quite_RB tasty_JJ ._.
-Cool_JJ communal_JJ eating_NN tables_NNS with_IN bowls_VBZ of_IN parmesan_NN and_CC garlic_NN to_TO pass_VB around_RP ._.

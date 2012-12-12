@@ -1,1 +1,0 @@
-The_DT most_RBS appetizing_JJ description_NN of_IN the_DT turkey_NN lasagna_NN is_VBZ a_DT warm_JJ block_NN of_IN cheese_NN soaked_VBN in_IN tomato_NN juice_NN ._.

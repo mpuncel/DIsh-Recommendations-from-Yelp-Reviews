@@ -1,8 +1,0 @@
-This_DT place_NN is_VBZ delicious_JJ ._.
-They_PRP even_RB serve_VBP breakfast_NN until_IN 11am_JJ during_IN the_DT week_NN ._.
-They_PRP also_RB are_VBP offering_VBG a_DT 20_CD %_NN discount_NN with_IN your_PRP$ UCLA_NNP id_NN !_.
-My_PRP$ coworkers_NNS and_CC I_PRP are_VBP hooked_JJ ._.
-Portions_NNS are_VBP large_JJ !_.
-They_PRP offer_VBP Truvia_NNP as_IN one_CD of_IN the_DT sweeteners_NNS =_SYM nice_JJ !_.
-It_PRP 's_VBZ a_DT causal_JJ classy_JJ place_NN ._.
-We_PRP sat_VBD outside_IN -_: it_PRP was_VBD lovely_JJ ._.

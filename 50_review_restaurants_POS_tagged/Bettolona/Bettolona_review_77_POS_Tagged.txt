@@ -1,4 +1,0 @@
-Romantic_JJ atmosphere_NN ,_, fantastic_JJ service_NN ,_, nice_JJ touch_NN with_IN placing_VBG a_DT chalkboard_NN of_IN specials_NNS at_IN our_PRP$ table_NN upon_IN sitting_VBG down_RP ,_, and_CC the_DT brick_NN oven_CD pizza_NN was_VBD delicious_JJ ._.
-Even_RB the_DT bread_NN and_CC oil_NN at_IN the_DT start_NN of_IN our_PRP$ meal_NN tasted_VBD fresh_JJ ._.
-Our_PRP$ water_NN glasses_NNS were_VBD never_RB empty_JJ and_CC the_DT Sangiovese_NNP wine_NN was_VBD very_RB nice_JJ ._.
-Will_MD definitely_RB return_VB ._.

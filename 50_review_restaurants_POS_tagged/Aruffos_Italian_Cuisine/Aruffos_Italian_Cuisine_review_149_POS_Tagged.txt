@@ -1,7 +1,0 @@
-The_DT food_NN was_VBD delicious_JJ !_.
-We_PRP came_VBD before_IN 5_CD so_IN we_PRP were_VBD the_DT only_JJ ones_NNS there_RB ._.
-It_PRP was_VBD nice_JJ and_CC quiet_JJ ._.
-The_DT service_NN was_VBD fast_RB and_CC the_DT bread_NN was_VBD yummy_JJ ._.
-We_PRP did_VBD the_DT dinner_NN special_JJ and_CC it_PRP was_VBD enough_RB for_IN two_CD ._.
-I_PRP would_MD come_VB back_RB !_.
-Also_RB the_DT bathroom_NN was_VBD clean_JJ !_.

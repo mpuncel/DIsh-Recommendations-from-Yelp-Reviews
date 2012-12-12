@@ -1,3 +1,0 @@
-Kind_NNP of_IN a_DT whole_NN in_IN the_DT wall_NN ,_, quaint_NN little_JJ place_NN with_IN not_RB a_DT whole_JJ lot_NN of_IN seating_NN ._.
-but_CC its_PRP$ prob_NN one_CD the_DT best_JJS momma_NN 's_POS and_CC pappa_NN 's_POS authentic_JJ italian_NN you_PRP can_MD get_VB in_IN westwood_NN ._.
-sandwiches_NNS are_VBP okay_JJ ,_, but_CC all_PDT the_DT pastas_NNS are_VBP amazing_JJ ._.

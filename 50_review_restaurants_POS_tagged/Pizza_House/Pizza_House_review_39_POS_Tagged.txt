@@ -1,3 +1,0 @@
-This_DT is_VBZ as_RB good_JJ as_IN pizza_NN gets_VBZ ._.
-Yes_UH ,_, it_PRP is_VBZ pretty_RB expensive_JJ ,_, but_CC it_PRP is_VBZ definitely_RB worth_JJ it_PRP ._.
-The_DT ingredients_NNS taste_VBP fresh_JJ -LRB-_-LRB- the_DT feta_NN is_VBZ awesome_JJ -RRB-_-RRB- and_CC they_PRP do_VBP n't_RB skimp_VB on_IN toppings_NNS ._.

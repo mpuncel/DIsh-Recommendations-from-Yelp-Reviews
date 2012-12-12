@@ -1,5 +1,0 @@
-Best_JJS non_NN chain_NN pizza_NN I_PRP have_VBP ever_RB had_VBN !!_NN Wine_NN was_VBD excellent_JJ and_CC it_PRP 's_VBZ also_RB BYOB_NN !_.
-Great_JJ service_NN ._.
-Only_RB issue_NN I_PRP had_VBD was_VBD the_DT seating_NN ._.
-They_PRP could_MD use_VB more_JJR seating_NN ._.
-Overall_RB a_DT wonderful_JJ experience_NN !_.

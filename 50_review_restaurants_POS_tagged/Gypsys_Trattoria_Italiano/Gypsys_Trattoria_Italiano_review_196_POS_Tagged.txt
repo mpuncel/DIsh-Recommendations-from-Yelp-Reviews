@@ -1,5 +1,0 @@
-Gypsy_NN is_VBZ a_DT nice_JJ little_JJ restaurant_NN with_IN quick_JJ service_NN and_CC a_DT surprisingly_RB varied_VBN menu_NN ._.
-I_PRP had_VBD the_DT chicken_NN gnocchi_NN for_IN lunch_NN and_CC it_PRP was_VBD superb_JJ ._.
-The_DT sauce_NN was_VBD creamy_JJ ,_, well-seasoned_JJ and_CC thick_JJ ,_, the_DT gnocchi_NN was_VBD tender_NN and_CC chewy_NN and_CC the_DT chicken_NN was_VBD perfectly_RB cooked_VBN ._.
-Nothing_NN fancy_NN here_RB ,_, just_RB good_JJ Italian_JJ food_NN made_VBN by_IN Italians_NNPS ._.
-What_WP more_RBR do_VB you_PRP want_VB ?_.

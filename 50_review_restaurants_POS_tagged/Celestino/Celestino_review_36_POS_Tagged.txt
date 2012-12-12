@@ -1,4 +1,0 @@
-Pasadena_NNP 's_POS best_JJS Italian_JJ ._.
-Really_RB good_JJ food_NN ,_, and_CC friendly_JJ service_NN ,_, even_RB if_IN it_PRP tails_NNS off_RP by_IN the_DT end_NN of_IN the_DT meal_NN ..._: which_WDT it_PRP often_RB does_VBZ ._.
-Always_RB try_VB their_PRP$ soups_NNS of_IN the_DT day_NN ._.
-And_CC my_PRP$ significant_JJ other_JJ drools_NNS over_IN the_DT Timballo_NNP di_NNP Funghi_NNP -LRB-_-LRB- not_RB on_IN the_DT lunch_NN menu_NN ,_, but_CC they_PRP 'll_MD make_VB it_PRP if_IN you_PRP ask_VBP -RRB-_-RRB- ._.

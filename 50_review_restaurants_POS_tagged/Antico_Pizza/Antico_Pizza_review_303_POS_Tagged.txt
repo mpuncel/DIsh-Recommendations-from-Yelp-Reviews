@@ -1,3 +1,0 @@
-this_DT is_VBZ BEST_NNP PIZZA_NNP I_PRP 'VE_VBP EVER_RB HAD_VBN !!_CD It_PRP should_MD be_VB noted_VBN that_IN before_IN stepping_VBG inside_JJ Antico_NNP ,_, I_PRP was_VBD not_RB a_DT pizza_NN lover_NN ._.
-I_PRP never_RB understood_VBD why_WRB anyone_NN would_MD crave_VB for_IN pizza_NN until_IN I_PRP tried_VBD Antico_NNP Pizza_NNP ._.
-They_PRP 're_VBP unbelievably_RB yummilicious_JJ ._.

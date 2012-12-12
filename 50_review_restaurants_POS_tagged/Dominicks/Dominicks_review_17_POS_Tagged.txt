@@ -1,2 +1,0 @@
-Great_NNP atmosphere_NN ,_, good_JJ beer_NN ._.
-What_WP more_RBR could_MD you_PRP need_VB ?_.

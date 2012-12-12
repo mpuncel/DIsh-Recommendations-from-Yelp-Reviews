@@ -1,4 +1,0 @@
-A_DT nice_JJ place_NN near_IN UCLA_NNP ._.
-I_PRP had_VBD the_DT arugula_NN salad_NN ,_, and_CC my_PRP$ wife_NN had_VBD the_DT tortellini_NNS pumpkin_VBP dumplings_NNS ._.
-Both_DT were_VBD great_JJ ._.
-The_DT service_NN was_VBD stellar_JJ and_CC we_PRP appreciated_VBD their_PRP$ doting_NN on_IN our_PRP$ 22_CD month_NN old_JJ son_NN ._.

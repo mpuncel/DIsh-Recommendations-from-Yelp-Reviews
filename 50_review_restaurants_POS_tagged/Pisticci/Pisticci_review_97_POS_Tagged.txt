@@ -1,3 +1,0 @@
-In_IN my_PRP$ opinion_NN ,_, the_DT best_JJS restaurant_NN in_IN the_DT Morningside_NNP area_NN ._.
-The_DT rest_NN are_VBP pretty_RB mediocre_JJ ._.
-This_DT place_NN is_VBZ cute_JJ ,_, comfortable_JJ ,_, and_CC has_VBZ delicious_JJ and_CC simple_JJ Italian_JJ food_NN ._.

@@ -1,4 +1,0 @@
-Friendly_RB service_NN ._.
-Great_NNP wine_NN ._.
-Good_JJ food_NN ._.
-We_PRP arrived_VBD late_RB at_IN night_NN just_RB after_IN the_DT kitchen_NN had_VBD closed_VBN but_CC we_PRP still_RB enjoyed_VBD red_JJ wine_NN and_CC a_DT delicious_JJ assortment_NN of_IN cheese_NN ,_, salami_NN and_CC prosciutto_NN ._.

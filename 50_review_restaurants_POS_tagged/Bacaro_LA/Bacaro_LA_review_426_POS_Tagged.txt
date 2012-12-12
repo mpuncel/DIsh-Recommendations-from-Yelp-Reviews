@@ -1,5 +1,0 @@
-Cheese_NNP please_VB !_.
-This_DT place_NN is_VBZ great_JJ ._.
-Food_NNP flavor_NN is_VBZ high_JJ class_NN and_CC prices_NNS are_VBP for_IN the_DT everyday_JJ Joe_NNP ._.
-Be_VB the_DT first_JJ to_TO discover_VB this_DT place_NN befor_NN it_PRP 's_VBZ featured_VBN on_IN food_NN network_NN tv_NN shows_NNS ._.
-I_PRP 'm_VBP not_RB kidding_VBG when_WRB I_PRP say_VBP this_DT neighborhood_NN gem_NN will_MD hit_VB you_PRP a_DT homerun_NN on_IN a_DT date_NN ._.

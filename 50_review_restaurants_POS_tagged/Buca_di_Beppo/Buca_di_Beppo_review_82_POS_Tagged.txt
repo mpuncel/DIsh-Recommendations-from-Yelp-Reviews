@@ -1,3 +1,0 @@
-I_PRP love_VBP this_DT place_NN !_.
-the_DT pasta_NN is_VBZ amazing_JJ :_: the_DT baked_JJ ziti_NNS ,_, the_DT spicy_NN chicken_NN ,_, spaghetti_NNS and_CC meatballs_NNS ,_, all_DT worth_JJ ordering_VBG ._.
-Can_MD sometimes_RB be_VB a_DT bit_NN difficult_JJ to_TO get_VB a_DT table_NN if_IN you_PRP do_VBP n't_RB go_VB early_RB enough_RB ,_, but_CC I_PRP think_VBP the_DT wait_NN is_VBZ worth_JJ it_PRP ._.

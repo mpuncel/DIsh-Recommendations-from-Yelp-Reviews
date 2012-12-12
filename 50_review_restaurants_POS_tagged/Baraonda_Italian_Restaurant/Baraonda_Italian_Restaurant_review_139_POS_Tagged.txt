@@ -1,8 +1,0 @@
-Margarita_NNP review_NN :_: Baraonda_NNP used_VBD to_TO be_VB a_DT regular_JJ haunt_VBP for_IN me_PRP ,_, what_WP a_DT great_JJ place_NN for_IN a_DT quick_JJ meal_NN ._.
-A_DT few_JJ weeks_NNS ago_IN I_PRP got_VBD back_RB to_TO Baraonda_NNP for_IN the_DT first_JJ time_NN in_IN a_DT long_JJ time_NN ,_, and_CC quickly_RB remembered_VBD why_WRB it_PRP was_VBD a_DT regular_JJ haunt_VBP ._.
-This_DT is_VBZ one_CD of_IN the_DT best_JJS pies_NNS in_IN Atlanta_NNP ,_, brick_NN oven_CD style_NN ._.
-Beautiful_JJ thin_JJ ,_, charred_VBD crust_NN with_IN a_DT smoke_NN infused_VBD flavor_NN ,_, fresh_JJ ingredients_NNS and_CC taste_NN ,_, good_JJ amount_NN of_IN sauce_NN with_IN the_DT right_JJ cheese_NN ratio_NN ._.
-Just_RB as_IN surprising_JJ though_IN ,_, is_VBZ that_IN their_PRP$ pasta_NN was_VBD very_RB good_JJ ._.
-I_PRP was_VBD never_RB big_JJ on_IN Baraonda_NNP 's_POS pasta_NN but_CC it_PRP clearly_RB improved_VBD ._.
-Would_MD I_PRP choose_VB it_PRP over_IN their_PRP$ za_NN though_IN ?_.
-No_DT way_NN ..._:

@@ -1,7 +1,0 @@
-Staff_NNP is_VBZ wonderful_JJ ._.
-Food_NNP is_VBZ tasty_JJ ._.
-Ambience_NNP is_VBZ cozy_JJ ._.
-This_DT is_VBZ a_DT nice_JJ Italian_JJ restaurant_NN to_TO go_VB to_TO on_IN a_DT regular_JJ basis_NN or_CC host_NN a_DT special_JJ occasion_NN ._.
-Go_VB for_IN the_DT experience_NN you_PRP wont_VBP regret_VB it_PRP ,_, heck_NN you_PRP may_MD recommend_VB a_DT few_JJ people_NNS to_TO go_VB ._.
-I_PRP know_VBP I_PRP did_VBD ._.
-Ciao_NN !_.

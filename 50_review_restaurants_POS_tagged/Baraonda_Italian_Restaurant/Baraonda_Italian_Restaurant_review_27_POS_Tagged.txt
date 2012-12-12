@@ -1,7 +1,0 @@
-We_PRP ate_VBD here_RB last_JJ night_NN after_IN not_RB finding_VBG Enoteca_NNP Carbonari_NNP ..._: Which_WDT was_VBD a_DT bummer_NN since_IN they_PRP did_VBD n't_RB have_VB carbonara_NN in_IN the_DT menu_NN -LRB-_-LRB- my_PRP$ wife_NN 's_POS fave_NN -RRB-_-RRB- ._.
-That_DT was_VBD the_DT end_NN of_IN our_PRP$ disappointment_NN however_RB since_IN we_PRP loved_VBD everything_NN else_RB ._.
-The_DT chianti_NNS hit_VBD the_DT spot_NN ._.
-The_DT foccacia_NN was_VBD really_RB more_JJR of_IN a_DT flatbread_NN ,_, but_CC delicious_JJ ._.
-Cesar_NNP salad_NN was_VBD fine_JJ and_CC the_DT vongole_NN had_VBD a_DT great_JJ kick_NN ._.
-She_PRP had_VBD a_DT tasty_JJ feta_NN pizza_NN ,_, but_CC was_VBD n't_RB fond_JJ of_IN the_DT ..._: My_PRP$ eggplant_NN pasta_NN was_VBD delicious_JJ ._.
-Finished_VBN with_IN a_DT light_JJ tiramisu_NN and_CC we_PRP were_VBD quite_RB satisfied_JJ !_.

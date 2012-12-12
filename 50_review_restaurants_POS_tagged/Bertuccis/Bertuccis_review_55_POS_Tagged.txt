@@ -1,6 +1,0 @@
-I_PRP 've_VBP always_RB had_VBN a_DT great_JJ meal_NN here_RB --_: and_CC I_PRP 've_VBP also_RB had_VBN great_JJ takeout_NN service_NN ._.
-The_DT hostesses_NNS are_VBP super_JJ nice_JJ ,_, and_CC they_PRP always_RB give_VBP me_PRP extra_JJ rolls_NNS ._.
-I_PRP love_VBP their_PRP$ margarita_NN pizzas_NNS ._.
-Love_NNP the_DT sauce_NN ._.
-Love_NNP the_DT cheese_NN ._.
-Love_NNP the_DT bread_NN ..._: so_RB ,_, I_PRP love_VBP everything_NN about_IN it_PRP !!_VBD Harvard_NNP Square_NNP ,_, I_PRP do_VBP n't_RB adore_VB you_PRP ,_, but_CC I_PRP do_VBP love_VB your_PRP$ Bertucci_NNP 's_POS !_.

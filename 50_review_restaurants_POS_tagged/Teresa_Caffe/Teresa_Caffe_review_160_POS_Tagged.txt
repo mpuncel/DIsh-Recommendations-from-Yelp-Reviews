@@ -1,4 +1,0 @@
-Great_JJ service_NN ,_, great_JJ food_NN !_.
-My_PRP$ only_JJ complaint_NN about_IN Teresa_NNP 's_POS is_VBZ that_IN some_DT of_IN the_DT tables_NNS are_VBP close_RB together_RB ._.
-Depending_VBG on_IN what_WP kind_NN of_IN person_NN you_PRP are_VBP or_CC what_WP kind_NN of_IN night_NN your_PRP$ having_VBG ,_, this_DT could_MD end_VB up_RP being_VBG annoying_JJ or_CC you_PRP could_MD have_VB a_DT great_JJ conversation_NN with_IN strangers_NNS the_DT next_JJ table_NN over_IN !_.
-Because_IN the_DT food_NN is_VBZ so_RB good_JJ ,_, you_PRP often_RB have_VBP to_TO wait_VB ,_, but_CC the_DT bar_NN staff_NN is_VBZ friendly_JJ and_CC you_PRP can_MD order_VB one_CD of_IN their_PRP$ delicious_JJ pizzas_NNS to_TO snack_NN on_IN until_IN you_PRP 're_VBP seated_VBN ._.

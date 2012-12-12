@@ -1,4 +1,0 @@
-Love_NNP the_DT ambiance_NN of_IN this_DT restaurant_NN !_.
-I_PRP went_VBD here_RB when_WRB it_PRP first_RB opened_VBD up_RP and_CC things_NNS were_VBD already_RB running_VBG smoothly_RB ._.
-We_PRP got_VBD great_JJ service_NN ,_, delicious_JJ food_NN ,_, and_CC the_DT prices_NNS were_VBD way_RB better_JJR than_IN similar_JJ restaurants_NNS in_IN the_DT area_NN ._.
-I_PRP loved_VBD the_DT gnocchi_NN !_.

@@ -1,3 +1,0 @@
-The_DT food_NN was_VBD delicious_JJ and_CC well_RB presented_VBN with_IN sizable_JJ portions_NNS and_CC a_DT reasonable_JJ prices_NNS ._.
-The_DT place_NN looks_VBZ clean_JJ and_CC the_DT service_NN was_VBD great_JJ ._.
-I_PRP would_MD come_VB back_RB for_IN more_JJR ._.

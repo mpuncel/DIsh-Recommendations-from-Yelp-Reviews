@@ -1,3 +1,0 @@
-We_PRP typically_RB get_VBP a_DT large_JJ with_IN kalamata_NN olives_NNS ,_, garlic_JJ ,_, and_CC mushrooms_NNS ,_, and_CC it_PRP 's_VBZ really_RB yummy_JJ ._.
-Some_DT might_MD not_RB like_VB it_PRP ,_, but_CC for_IN us_PRP ,_, an_DT added_VBN plus_CC is_VBZ that_IN the_DT large_JJ pizza_NN is_VBZ a_DT pretty_RB reasonable_JJ amount_NN of_IN food_NN for_IN two_CD people_NNS and_CC I_PRP do_VBP n't_RB weigh_VB three_CD pounds_NNS more_RBR the_DT next_JJ day_NN ._.
-When_WRB they_PRP first_RB opened_VBD ,_, they_PRP did_VBD n't_RB have_VB a_DT license_NN and_CC it_PRP was_VBD BYOB_NNP ,_, have_VBP to_TO admit_VB that_IN I_PRP preferred_VBD that_IN setup_NN ._.

@@ -1,8 +1,0 @@
-The_DT calzone_NN is_VBZ HUGE_NNP at_IN this_DT place_NN ._.
-The_DT person_NN in_IN our_PRP$ party_NN said_VBD it_PRP was_VBD very_RB good_JJ ._.
-I_PRP had_VBD chicken\/sausage_NN and_CC pasta_NN dish_NN that_WDT was_VBD very_RB good_JJ ._.
-Another_DT friend_NN also_RB had_VBD the_DT shrimp_NN pasta_NN dish_NN and_CC she_PRP loved_VBD it_PRP ._.
-We_PRP also_RB ordered_VBD garlic_JJ bread_NN which_WDT was_VBD so_RB full_JJ of_IN garlic_NN we_PRP need_VBP to_TO buy_VB gum_NN !_.
-It_PRP was_VBD delicious_JJ ._.
-Our_PRP$ waitress_NN was_VBD extremely_RB nice_JJ and_CC very_RB quick_JJ !_.
-I_PRP definitely_RB would_MD go_VB back_RB and_CC try_VB the_DT pizza_NN !_.

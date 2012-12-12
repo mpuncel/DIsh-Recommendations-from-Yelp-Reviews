@@ -1,4 +1,0 @@
-The_DT food_NN is_VBZ fast_RB ,_, cheap_JJ and_CC good_JJ ,_, but_CC not_RB amazing_JJ ._.
-It_PRP definitely_RB satisfied_JJ my_PRP$ craving_NN for_IN Italian_JJ food_NN without_IN paying_VBG the_DT usual_JJ $_$ 20-30_CD per_IN meal_NN ._.
-We_PRP ordered_VBD a_DT beef_NN calzone_NN and_CC lasagna_NN for_IN only_RB $_$ 13_CD and_CC we_PRP did_VBD n't_RB even_RB finish_VB the_DT food_NN !_.
-Yes_UH ,_, the_DT food_NN is_VBZ greasy_JJ and_CC may_MD cause_VB indigestion_NN ,_, but_CC the_DT price_NN is_VBZ just_RB too_RB good_JJ to_TO pass_VB up_RP for_IN all_DT that_DT gooey_NN madness_NN !_.

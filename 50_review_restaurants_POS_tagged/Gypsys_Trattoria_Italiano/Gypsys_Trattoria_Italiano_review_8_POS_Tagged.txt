@@ -1,5 +1,0 @@
-Come_VBN fall_NN when_WRB I_PRP 'm_VBP at_IN UC_NNP Berkeley_NNP ,_, Gypsy_NNP 's_POS will_MD be_VB in_IN my_PRP$ belly_JJ every_DT Monday_NNP ,_, Wednesday_NNP ,_, and_CC Thursday_NNP ._.
-Good_JJ ._.
-Oh_UH but_CC I_PRP do_VBP have_VB a_DT problem_NN with_IN the_DT drink_NN system_NN ._.
-Dishes_NNS usually_RB run_VBP at_IN around_IN $_$ 6-7_CD and_CC for_IN $_$ 8.99_CD you_PRP can_MD add_VB a_DT salad_NN and_CC a_DT drink_NN ,_, but_CC your_PRP$ drink_NN is_VBZ dinky_JJ -LRB-_-LRB- I_PRP 'm_VBP talking_VBG the_DT volume_NN of_IN maybe_RB four_CD dixie_NN cups_NNS -RRB-_-RRB- and_CC you_PRP have_VBP to_TO pay_VB 50_CD cents_NNS for_IN each_DT additional_JJ refill_NN ._.
-But_CC other_JJ than_IN that_DT ,_, no_DT complaints_NNS ._.

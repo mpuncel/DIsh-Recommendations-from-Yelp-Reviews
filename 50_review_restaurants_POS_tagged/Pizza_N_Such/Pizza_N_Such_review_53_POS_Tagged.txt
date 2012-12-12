@@ -1,5 +1,0 @@
-I_PRP have_VBP this_DT impression_NN that_IN the_DT pizza_NN here_RB is_VBZ expensive_JJ ._.
-Well_RB you_PRP can_MD order_VB single_JJ slices_NNS for_IN like_IN 2.50_CD $_$ a_DT slice_NN ,_, but_CC if_IN you_PRP order_VBP an_DT entire_JJ medium-large_NN pizza_NN ,_, it_PRP comes_VBZ out_RP to_TO about_IN the_DT same_JJ ..._: I_PRP guess_VBP you_PRP get_VB the_DT expensiveness_NN of_IN the_DT Claremont_NNP Village_NNP with_IN this_DT restaurant_NN as_RB well_RB ._.
-Went_VBD here_RB with_IN some_DT friends_NNS and_CC had_VBD some_DT slices_NNS of_IN the_DT Hawaiian_JJ and_CC the_DT Pesto_NNP with_IN shrimp_NN ._.
-Good_JJ pizzas_NNS ,_, nothing_NN wrong_JJ with_IN them_PRP ,_, nothing_NN exceptional_JJ ._.
-Good_JJ family_NN location_NN and_CC normal_JJ service_NN ._.

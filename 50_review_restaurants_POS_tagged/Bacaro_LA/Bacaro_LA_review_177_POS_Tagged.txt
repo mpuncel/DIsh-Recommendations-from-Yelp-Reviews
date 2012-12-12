@@ -1,6 +1,0 @@
-Great_NNP place_NN not_RB to_TO far_RB from_IN USC_NNP ._.
-Friendly_JJ people_NNS ,_, awesome_JJ food_NN ,_, and_CC a_DT vast_JJ selection_NN of_IN wine_NN and_CC beer_NN ._.
-Try_VB the_DT Gonzo_NNP Imperial_NNP Porter_NNP ,_, I_PRP love_VBP it_PRP ._.
-It_PRP 's_VBZ a_DT dark_JJ beer_NN ,_, not_RB too_RB heavy_JJ ,_, not_RB too_RB light_JJ ,_, just_RB perfect_JJ ._.
-Advise_VB :_: For_IN a_DT party_NN of_IN 2_CD ,_, walk_VBP ins_NNS are_VBP fine_JJ ._.
-But_CC if_IN you_PRP are_VBP more_RBR then_RB that_IN ,_, make_VB a_DT reservation_NN ._.

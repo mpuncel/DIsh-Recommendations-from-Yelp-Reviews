@@ -1,5 +1,0 @@
-This_DT is_VBZ a_DT charming_JJ Italian_JJ restaurant_NN which_WDT is_VBZ close_JJ to_TO Manhattan_NNP School_NNP of_IN Music_NNP ._.
-The_DT decor_NN is_VBZ wonderful_JJ and_CC the_DT food_NN is_VBZ great_JJ ._.
-The_DT closest_JJS subway_NN station_NN is_VBZ 125th_JJ off_IN Subway_NNP line_NN #_# 1_CD ._.
-If_IN you_PRP are_VBP taking_VBG #_# 2_CD or_CC #_# 3_CD ,_, you_PRP need_VBP to_TO switch_VB to_TO #_# 1_CD ._.
-Otherwise_RB ,_, you_PRP will_MD be_VB walking_VBG for_IN a_DT good_JJ half_PDT an_DT hour_NN to_TO get_VB to_TO this_DT restaurant_NN -LRB-_-LRB- which_WDT was_VBD a_DT mistake_NN I_PRP have_VBP made_VBN -RRB-_-RRB- ._.

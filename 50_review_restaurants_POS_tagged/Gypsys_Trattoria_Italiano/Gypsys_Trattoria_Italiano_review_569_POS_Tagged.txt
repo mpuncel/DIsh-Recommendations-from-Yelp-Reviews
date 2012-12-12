@@ -1,5 +1,0 @@
-CALZONES_NNS ._.
-It_PRP 's_VBZ under_IN $_$ 7_CD ,_, and_CC bigger_JJR than_IN your_PRP$ head_NN ._.
-And_CC if_IN you_PRP take_VBP it_PRP to_TO go_VB ,_, you_PRP get_VBP a_DT nice_JJ donut_NN box_NN to_TO transport_VB your_PRP$ calzone_NN in_IN ._.
-I_PRP always_RB thought_VBD the_DT name_NN ``_`` calzone_NN ''_'' was_VBD so_RB representative_JJ of_IN UC_NNP Berkeley_NNP aka_FW Cal_NNP ._.
-Not_RB that_IN they_PRP meant_VBD to_TO do_VB it_PRP that_DT way_NN ,_, but_CC it_PRP 's_VBZ cool_JJ anyway_RB ._.

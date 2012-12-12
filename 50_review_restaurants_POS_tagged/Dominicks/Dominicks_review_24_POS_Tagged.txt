@@ -1,4 +1,0 @@
-this_DT place_NN is_VBZ strange_JJ ..._: it_PRP only_RB opens_VBZ until_IN 10pm_CD and_CC only_RB certain_JJ time_NN of_IN the_DT year_NN ..._: at_IN 10pm_CD they_PRP sounded_VBD a_DT siren_NN or_CC a_DT buzzer_NN to_TO kick_VB people_NNS out_RB ,_, which_WDT i_FW thought_NN was_VBD awesome_JJ ._.
-the_DT ambiance_NN was_VBD great_JJ ._.
-the_DT drinks_NNS were_VBD awesome_JJ ._.
-go_VB for_IN constant_JJ buzz_NN !_.

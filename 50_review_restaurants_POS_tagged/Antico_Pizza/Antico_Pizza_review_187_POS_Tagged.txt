@@ -1,7 +1,0 @@
-Simply_RB put_VBN ,_, there_EX 's_VBZ a_DT reason_NN it_PRP 's_VBZ considered_VBN the_DT gold_JJ standard_NN by_IN which_WDT other_JJ pizza_NN places_NNS in_IN Atlanta_NNP are_VBP compared_VBN ._.
-All_PDT the_DT pizzas_NNS are_VBP great_JJ -_: you_PRP just_RB ca_MD n't_RB go_VB wrong_JJ ._.
-I_PRP will_MD say_VB ,_, I_PRP generally_RB would_MD n't_RB order_VB a_DT white_JJ pizza_NN ,_, but_CC our_PRP$ group_NN did_VBD yesterday_NN ,_, and_CC it_PRP was_VBD seriously_RB awesome_JJ ._.
-If_IN you_PRP do_VBP n't_RB want_VB to_TO wait_VB for_IN a_DT table_NN at_IN lunch_NN ,_, get_VB there_RB by_IN 11:45_CD at_IN the_DT latest_JJS -LRB-_-LRB- probably_RB 11:30_CD -RRB-_-RRB- ._.
-One_CD criticism_NN -_: the_DT counter_JJ staff_NN could_MD be_VB a_DT bit_NN more_RBR friendly_JJ ._.
-I_PRP kind_NN of_IN wanted_VBD to_TO apologize_VB for_IN bothering_VBG them_PRP by_IN ordering_VBG -LRB-_-LRB- ok_FW ,_, not_RB really_RB -RRB-_-RRB- ._.
-Not_RB even_RB the_DT slightest_JJS glimpse_NN of_IN a_DT smile_NN from_IN either_DT of_IN the_DT girls_NNS ._.

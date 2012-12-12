@@ -1,3 +1,0 @@
-Penne_NNP sausage_NN tomato_NN sauce_NN pasta_NN ._.
-Sooo_NNP good_JJ !_.
-Homemade_NNP bread_NN rocks_NNS ._.

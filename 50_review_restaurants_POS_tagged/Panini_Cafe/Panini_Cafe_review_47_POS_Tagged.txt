@@ -1,4 +1,0 @@
-Deli_NNS `_`` sh_NN !_.
-The_DT kebabs_NNS ,_, grilled_JJ chicken_NN panini_NNS ,_, and_CC salmon_NN salads_NNS are_VBP my_PRP$ faves_NNS ._.
-For_IN desserts_NNS ,_, their_PRP$ tiramisu_NN and_CC banana_NN bread_NN pudding_NN is_VBZ yummy_JJ ._.
-If_IN only_RB they_PRP do_VBP delivery_NN !_.

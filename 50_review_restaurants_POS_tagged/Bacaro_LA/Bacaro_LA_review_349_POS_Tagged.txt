@@ -1,2 +1,0 @@
-Super_NNP friendly_JJ staff_NN and_CC great_JJ food_NN ._.
-Lively_RB and_CC fun_NN atmosphere_NN ._.

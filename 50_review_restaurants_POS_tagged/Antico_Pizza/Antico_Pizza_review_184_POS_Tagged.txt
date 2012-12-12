@@ -1,6 +1,0 @@
-I_PRP think_VBP Antico_NNP is_VBZ the_DT best_JJS pizza_NN I_PRP have_VBP ever_RB had_VBN ._.
-Fly_VB to_TO Italy_NNP if_IN you_PRP want_VBP to_TO look_VB for_IN better_JJR ._.
-They_PRP do_VBP things_NNS a_DT little_JJ different_JJ than_IN other_JJ restaurants_NNS ._.
-First_RB ,_, it_PRP is_VBZ BYOB_NNP ,_, which_WDT is_VBZ great_JJ for_IN bringing_VBG a_DT bottle_NN of_IN wine_NN ._.
-The_DT seating_NN is_VBZ first_JJ come_VBN first_RB serve_VB on_IN a_DT bunch_NN of_IN big_JJ ,_, shared_JJ tables_NNS and_CC it_PRP is_VBZ loud_JJ ._.
-But_CC it_PRP is_VBZ delightful_JJ !_.

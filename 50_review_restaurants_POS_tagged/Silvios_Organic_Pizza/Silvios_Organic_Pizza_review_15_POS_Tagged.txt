@@ -1,4 +1,0 @@
-Delicious_NNP pizza_NN ._.
-Delivery_NN always_RB takes_VBZ 2x-3x_JJ the_DT amount_NN they_PRP tell_VBP you_PRP it_PRP will_MD take_VB ,_, just_RB FYI_NNP ._.
-35_CD minutes_NNS always_RB equals_VBZ and_CC hour_NN and_CC 15_CD ._.
-I_PRP only_RB have_VBP experience_NN with_IN them_PRP via_IN delivery_NN ._.

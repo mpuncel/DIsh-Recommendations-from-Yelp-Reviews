@@ -1,8 +1,0 @@
-I_PRP am_VBP a_DT big_JJ fan_NN of_IN tapas\/wine_JJ bars_NNS ._.
-I_PRP had_VBD purchased_VBN a_DT groupon_NN for_IN this_DT place_NN brought_VBD a_DT friend_NN along_IN with_IN me_PRP to_TO try_VB it_PRP out_RP ._.
-I_PRP loved_VBD the_DT decor_NN and_CC ambiance_NN of_IN the_DT place_NN ._.
-The_DT chalkboard_NN walls_NNS and_CC wine_NN bottles_NNS on_IN the_DT ceiling_NN were_VBD a_DT nice_JJ touch_NN ._.
-We_PRP ordered_VBD the_DT pan-seared_JJ scallops_NNS ,_, bruschetta_NN trio_NN ,_, the_DT oven_JJ roasted_JJ bone-marrow_NN ,_, and_CC a_DT bottle_NN of_IN Falerinia_NNP wine_NN ._.
-I_PRP definitely_RB recommend_VB trying_VBG the_DT bone-marrow_NN ._.
-The_DT balsamic_JJ reduction_NN and_CC sea_NN salt_NN on_IN top_JJ just_RB adds_VBZ to_TO the_DT richness_NN of_IN this_DT dish_NN ..._: so_RB good_JJ !_.
-I_PRP ca_MD n't_RB wait_VB to_TO go_VB back_RB ._.

@@ -1,8 +1,0 @@
-The_DT amuse-bouche_NN was_VBD a_DT lovely_JJ fried_JJ tidbit_NN with_IN peas_NNS &_CC prosciutto_NN inside_RB ._.
-Lovely_RB ._.
-The_DT Filet_NNP Mignon_NNP Ravioli_NNP was_VBD nice_JJ ,_, but_CC I_PRP got_VBD it_PRP with_IN Bolognese_JJ sauce_NN instead_RB of_IN the_DT peppercorn_JJ sauce_NN it_PRP would_MD 've_VB normally_RB come_VBN with_IN ._.
-I_PRP stand_VBP by_IN that_DT choice_NN ,_, and_CC was_VBD happy_JJ with_IN it_PRP ._.
-That_DT being_VBG said_VBD ,_, part_NN of_IN the_DT appeal_NN of_IN filet_NN mignon_NN is_VBZ the_DT marbling_NN and_CC the_DT texture_NN of_IN the_DT meat_NN itself_PRP ._.
-Unfortunately_RB ,_, the_DT ravioli_NNS were_VBD filled_VBN with_IN GROUND_NNP Filet_NNP Mignon_NNP ,_, which_WDT in_IN my_PRP$ opinion_NN simply_RB makes_VBZ it_PRP ground_NN beef_NN ._.
-It_PRP was_VBD very_RB nice_JJ ,_, but_CC promoting_VBG it_PRP as_IN ``_`` Filet_NNP Mignon_NNP Ravioli_NNP ''_'' sets_VBZ the_DT diner_NN 's_POS expectations_NNS a_DT bit_NN high_JJ for_IN this_DT dish_NN ._.
-For_IN my_PRP$ entree_FW I_PRP ordered_VBD Pork_NNP Tenderloin_NNP ,_, which_WDT did_VBD not_RB disappoint_VB ._.

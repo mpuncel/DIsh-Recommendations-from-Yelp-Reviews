@@ -1,5 +1,0 @@
-This_DT is_VBZ a_DT nice_JJ place_NN to_TO go_VB to_TO with_IN a_DT group_NN of_IN friends_NNS ._.
-I_PRP am_VBP a_DT vegetarian_NN so_IN my_PRP$ bill_NN ends_VBZ up_RP being_VBG on_IN the_DT cheaper_JJR side_NN but_CC they_PRP are_VBP kinda_JJ pricey_JJ ._.
-I_PRP do_VBP speak_VB highly_RB of_IN their_PRP$ strawberry_NN daiquiris_NNS ._.
-:_: -_: -RRB-_-RRB- The_DT cheese_NN is_VBZ very_RB thick_JJ and_CC was_VBD kind_NN of_IN difficult_JJ to_TO swallow_VB ._.
-lol_NN

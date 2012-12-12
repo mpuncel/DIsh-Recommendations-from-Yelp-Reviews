@@ -1,6 +1,0 @@
-The_DT food_NN is_VBZ good_JJ ,_, the_DT wine_NN choices_NNS are_VBP decent_JJ ._.
-The_DT ambiance_NN is_VBZ OK_JJ but_CC the_DT service_NN ?_.
-that_WDT can_MD be_VB hit_VBN or_CC miss_VBP ._.
-You_PRP either_RB get_VBP someone_NN who_WP knows_VBZ what_WP they_PRP are_VBP doing_VBG or_CC a_DT pissed_VBN off_RP college_NN student_NN who_WP hates_VBZ the_DT world_NN to_TO serve_VB you_PRP ._.
-Tables_NNS are_VBP close_RB together_RB so_RB if_IN you_PRP want_VBP privacy_NN try_VBP somewhere_RB else_RB ._.
-If_IN you_PRP cant_VBP find_VB parking_NN in_IN the_DT front_JJ then_RB try_VB the_DT parking_NN lot_NN in_IN the_DT back_NN ,_, there_EX is_VBZ almost_RB always_RB parking_NN there_RB ._.

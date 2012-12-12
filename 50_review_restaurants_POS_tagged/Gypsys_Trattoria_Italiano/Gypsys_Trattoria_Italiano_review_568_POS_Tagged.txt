@@ -1,2 +1,0 @@
-Cheap_JJ ,_, lots_NNS of_IN food_NN ,_, and_CC delicious_JJ !_.
-The_DT perfect_JJ college_NN eatery_NN ._.

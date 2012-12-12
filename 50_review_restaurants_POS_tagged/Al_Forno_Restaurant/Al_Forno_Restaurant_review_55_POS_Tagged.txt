@@ -1,5 +1,0 @@
-Landed_VBN in_IN PVD_NNP airport_NN for_IN our_PRP$ anniversary_NN trip_NN -LRB-_-LRB- Boston_NNP &_CC New_NNP York_NNP -RRB-_-RRB- and_CC went_VBD straight_RB to_TO restaurant_NN before_IN hitting_VBG Pawtucket_NNP game_NN ._.
-Got_NNP there_RB around_IN 5:30_CD on_IN a_DT weekday_NN so_RB service_NN was_VBD quick_JJ ,_, but_CC it_PRP filled_VBD up_RP fast_RB ._.
-Service_NNP was_VBD excellent_JJ and_CC pasta_NN dishes_NNS were_VBD fantastic_JJ ._.
-Well_RB seasoned_JJ and_CC much_JJ lighter_JJR than_IN your_PRP$ traditional_JJ Italian_JJ fare_NN ._.
-First\/only_RB time_NN in_IN Providence_NNP ,_, but_CC this_DT was_VBD a_DT great_JJ pick_NN ._.

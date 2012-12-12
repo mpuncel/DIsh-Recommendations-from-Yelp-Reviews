@@ -1,8 +1,0 @@
-I_PRP 've_VBP only_RB had_VBD the_DT salads_NNS here_RB ._.
-I_PRP 'm_VBP in_IN love_NN with_IN the_DT greek_NN salad_NN ,_, and_CC I_PRP like_VBP to_TO add_VB chicken_NN on_IN it_PRP ._.
-I_PRP 've_VBP only_RB had_VBD the_DT small_JJ and_CC it_PRP 's_VBZ pretty_RB big_JJ and_CC is_VBZ enough_RB for_IN dinner_NN ._.
-The_DT balsamic_JJ dressing_VBG is_VBZ so_RB good_JJ ._.
-I_PRP like_VBP to_TO dip_VB the_DT bread_NN they_PRP provide_VBP in_IN it_PRP ._.
-Usually_RB I_PRP order_VBP online_JJ or_CC on_IN ``_`` seamless_JJ ''_'' app_NN on_IN my_PRP$ phone_NN ._.
-One_CD day_NN ,_, I_PRP 'm_VBP going_VBG to_TO try_VB a_DT pasta_NN or_CC pizza_NN ,_, but_CC usually_RB I_PRP crave_VBP the_DT salad_NN ._.
-I_PRP pretty_RB much_RB eat_VB this_DT weekly_JJ since_IN I_PRP pick_VBP it_PRP up_RP and_CC eat_VB it_PRP during_IN class_NN ._.

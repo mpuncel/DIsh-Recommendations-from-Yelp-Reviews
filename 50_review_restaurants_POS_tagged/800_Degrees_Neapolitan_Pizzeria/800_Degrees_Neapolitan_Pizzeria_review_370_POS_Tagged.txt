@@ -1,7 +1,0 @@
-Very_RB tasty_JJ Neapolitan_NNP pizza_NN ._.
-I_PRP got_VBD a_DT margarita_NN pizza_NN -LRB-_-LRB- with_IN fresh_JJ mozzarella_NN -RRB-_-RRB- with_IN rock_NN lobster_NN as_IN a_DT topping_VBG and_CC Gorgonzola_NNP salad_NN ._.
-You_PRP can_MD use_VB your_PRP$ fingers_NNS for_IN the_DT pizza_NN but_CC I_PRP would_MD recommend_VB using_VBG a_DT knife_NN and_CC fork_NN ._.
-I_PRP followed_VBD up_RP with_IN a_DT cappuccino_NN gelato_NN ._.
-They_PRP have_VBP a_DT soda_NN machine_NN made_VBN by_IN Ferrari_NNP that_WDT can_MD make_VB an_DT soda_NN you_PRP want_VBP -LRB-_-LRB- with_IN fancy_JJ flavoring_NN -RRB-_-RRB- ._.
-You_PRP start_VBP with_IN a_DT base_NN and_CC you_PRP can_MD place_VB your_PRP$ choice_NN of_IN amazing_JJ -LRB-_-LRB- e.g._FW spiced_FW pepperoni_FW and_CC arugula_NN -RRB-_-RRB- toppings_NNS ._.
-It_PRP 's_VBZ only_RB $_$ 5_CD for_IN a_DT pizza_NN base_NN !_.

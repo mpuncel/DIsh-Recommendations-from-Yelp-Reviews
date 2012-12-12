@@ -1,2 +1,0 @@
-food_NN is_VBZ good_JJ ..._: fantastic_JJ pappardelle_NN with_IN mushrooms_NNS ..._: and_CC almond_VB zeppoles_NNS ._. ._.
-even_RB the_DT oil_NN for_IN the_DT bread_NN dipping_VBG was_VBD great_JJ ..._: reservations_NNS are_VBP not_RB always_RB honored_VBN in_IN a_DT timely_JJ fashion_NN ._.

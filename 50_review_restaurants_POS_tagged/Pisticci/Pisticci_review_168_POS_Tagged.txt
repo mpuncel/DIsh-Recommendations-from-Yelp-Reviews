@@ -1,6 +1,0 @@
-Food_NNP is_VBZ off_IN the_DT charts_NNS ._.
-Arguably_RB the_DT best_JJS Italian_JJ I_PRP 've_VBP ever_RB had_VBN ._.
-Their_PRP$ tomato_NN sauce_NN is_VBZ amazing_JJ ._.
-Of_IN course_NN being_VBG 6_CD '_'' 3_CD ,_, the_DT place_NN is_VBZ limited_VBN in_IN space_NN -LRB-_-LRB- but_CC so_RB are_VBP all_DT NYC_NNP places_NNS -RRB-_-RRB- ._.
-Would_MD definitely_RB come_VB back_RB here_RB regardless_RB and_CC if_IN I_PRP lived_VBD closer_RBR ,_, order_NN out_IN all_PDT the_DT time_NN ._.
-Food_NNP was_VBD just_RB delicious_JJ ._.

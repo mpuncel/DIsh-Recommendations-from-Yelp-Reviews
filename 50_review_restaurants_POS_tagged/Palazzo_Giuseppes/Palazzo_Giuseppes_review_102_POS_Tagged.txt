@@ -1,4 +1,0 @@
-Good_JJ food_NN nice_JJ ambience_NN !_.
-They_PRP could_MD do_VB with_IN another_DT waiter_NN but_CC super_JJ pleasant_JJ wait_NN staff_NN ._.
-Try_VB the_DT Zuccini_NNP Flowers_NNPS with_IN Mozarella_NNP ._.
-Awesome_JJ ._.

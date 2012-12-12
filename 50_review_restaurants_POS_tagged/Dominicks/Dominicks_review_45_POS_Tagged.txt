@@ -1,5 +1,0 @@
-The_DT beers_NNS and_CC the_DT ambiance_NN were_VBD great_JJ ._.
-What_WP can_MD you_PRP say_VB about_IN a_DT place_NN that_WDT serves_VBZ beers_NNS by_IN the_DT 1\/2_CD gallon_NN ._.
-The_DT pizza_NN was_VBD just_RB average_JJ while_IN some_DT of_IN the_DT other_JJ foods_NNS were_VBD way_RB too_RB salty_JJ ._.
-Go_VB for_IN the_DT college_NN atmosphere_NN and_CC have_VBP some_DT nice_JJ craft_NN brews_NNS and_CC sangria_NN ._.
-It_PRP is_VBZ a_DT little_JJ pricey_JJ for_IN the_DT college_NN budget_NN but_CC neverless_JJ ,_, I_PRP had_VBD a_DT great_JJ time_NN there_RB ._.

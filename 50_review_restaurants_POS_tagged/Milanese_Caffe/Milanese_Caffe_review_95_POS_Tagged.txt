@@ -1,5 +1,0 @@
-This_DT establishment_NN confuses_VBZ me_PRP ._.
-It_PRP offers_VBZ free_JJ Wifi_NNP and_CC is_VBZ a_DT counter_NN order_NN cafe_NN ,_, but_CC it_PRP is_VBZ set_VBN up_RP very_RB much_RB like_IN a_DT restaurant_NN ._.
-They_PRP offer_VBP a_DT full_JJ menu_NN of_IN mostly_RB Italian_JJ dishes_NNS ._.
-They_PRP have_VBP desserts_NNS and_CC coffee\/tea_NN ._.
-I_PRP want_VBP this_DT place_NN to_TO be_VB my_PRP$ new_JJ place_NN of_IN study_NN ,_, but_CC I_PRP am_VBP unsure_JJ if_IN you_PRP are_VBP able_JJ to_TO just_RB get_VB a_DT tea_NN and_CC sit_VB there_RB for_IN hours_NNS on_IN end_NN ..._: SIDENOTE_NNP :_: Cash_NN Only_RB !_.

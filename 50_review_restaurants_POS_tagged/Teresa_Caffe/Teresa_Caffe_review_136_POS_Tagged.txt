@@ -1,4 +1,0 @@
-I_PRP 100_CD %_NN recommend_VB the_DT garganelli_NNS ._.
-The_DT mushrooms_NNS and_CC truffle_NN butter_NN are_VBP delicious_JJ ._.
-The_DT wine_NN list_NN and_CC atmosphere_NN are_VBP very_RB nice_JJ ._.
-Everything_NN I_PRP 've_VBP tasted_VBN here_RB has_VBZ made_VBN my_PRP$ taste_NN buds_NNS sing_VBP ._.

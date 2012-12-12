@@ -1,8 +1,0 @@
-Pisticci_NNP is_VBZ a_DT gem_NN ,_, nestled_VBD amongst_IN nondescript_JJ Morningside_NNP Heights_NNP apartments_NNS ._.
-I_PRP almost_RB do_VBP n't_RB want_VB to_TO write_VB a_DT review_NN to_TO spotlight_VB my_PRP$ very_RB favorite_JJ Italian_JJ restaurant_NN in_IN Manhattan_NNP !_.
-This_DT place_NN -_: run_VBN by_IN first_JJ generation_NN Italian_JJ immigrants_NNS -_: showcases_NNS fresh_JJ ,_, simple_JJ Italian_JJ flavors_NNS ._.
-Meatballs_NNS ,_, roasted_JJ vegetables_NNS ,_, simple_JJ pastas_NNS ,_, carefully_RB selected_VBN wines_NNS and_CC flavorful_JJ roasts_NNS are_VBP what_WP you_PRP come_VBP here_RB for_IN -_: not_RB Olive_NNP Garden_NNP style_NN carbonara_NN ._.
-My_PRP$ abolutely_RB favorite_JJ dish_NN is_VBZ a_DT roasted_JJ vegetable_NN appetizer_NN ,_, topped_VBN with_IN warm_JJ chickpea_NN purée_NN and_CC fresh_JJ burrata_NN ._.
-The_DT decor_NN is_VBZ shabby-Tuscan-chic_JJ ,_, and_CC the_DT waitstaff_NN is_VBZ composed_VBN of_IN young_JJ Columbia_NNP grad_NN students_NNS ._.
-Come_VBN here_RB with_IN your_PRP$ parents_NNS ,_, a_DT quiet_JJ Friday_NNP date_NN night_NN or_CC for_IN a_DT fun_NN Sunday_NNP afternoon_NN lunch_NN ._.
-There_EX 's_VBZ a_DT small_JJ strip_NN of_IN outdoor_JJ seating_NN available_JJ and_CC they_PRP do_VBP not_RB take_VB reservations_NNS for_IN groups_NNS smaller_JJR than_IN 6_CD ._.

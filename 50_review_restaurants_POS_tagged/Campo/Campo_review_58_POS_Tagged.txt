@@ -1,9 +1,0 @@
-Gimme_NNP a_DT bar_NN stool_NN ,_, some_DT Pork_NNP Slap_NNP Ale_NNP and_CC brick-pressed_JJ chicken_NN ,_, and_CC I_PRP 'm_VBP a_DT happy_JJ camper_NN ._.
-Campo_NNP served_VBD up_RP this_DT hat_NN trick_VB the_DT other_JJ night_NN ,_, when_WRB I_PRP stopped_VBD by_RP for_IN a_DT quick_JJ dinner_NN and_CC a_DT glass_NN of_IN Scotch_NNP ._.
-Have_VBP you_PRP ever_RB tried_VBD Lagavulin_NNP ?_.
-It_PRP 's_VBZ one_CD I_PRP had_VBD n't_RB heard_VBN of_IN before_RB ._.
-It_PRP 's_VBZ the_DT smokiest_JJS of_IN scotches_NNS ._.
-Speaking_VBG of_IN single_JJ malts_NNS ,_, Campo_NNP has_VBZ an_DT impressive_JJ selection_NN that_WDT includes_VBZ Oban_NNP and_CC Laphraoig_NNP --_: mmmmmm_NN ,_, scotchity_NN scotches_NNS ._.
-But_CC it_PRP was_VBD Murray_NNP 's_POS Special_JJ brick-pressed_JJ chicken_NN -_: made_VBN with_IN organic_JJ pollos_NNS -_: that_IN really_RB sealed_VBN the_DT deal_NN ._.
-Spiced_JJ overnight_JJ with_IN garlic_JJ ,_, olive_JJ oil_NN ,_, rosemary_NN and_CC red_JJ pepper_NN ,_, this_DT bird_NN is_VBZ served_VBN perfectly_RB crispy_JJ on_IN the_DT outside_NN ,_, moist_NN on_IN the_DT inside_NN ._.
-Happy_JJ Campo_NNP ,_, indeed_RB ._.

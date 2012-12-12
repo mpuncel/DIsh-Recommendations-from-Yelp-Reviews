@@ -1,5 +1,0 @@
-Excellent_JJ new_JJ york_NN style_NN thin_JJ crust_NN pizza_NN with_IN good_JJ quality_NN ingredients_NNS ._.
-Fresh_JJ sauces_NNS ._.
-Ordering_VBG family_NN style_NN pizza_NN is_VBZ recommended_VBN for_IN thinner_JJR crust_NN ._.
-Make_VB a_DT specialty_NN pizza_NN bianco_NN that_WDT has_VBZ ricotta_JJ cheese_NN and_CC is_VBZ worth_JJ trying_VBG ._.
-Pizza_NNP from_IN this_DT restaurant_NN is_VBZ comparable_JJ at_IN their_PRP$ other_JJ locations_NNS ._.

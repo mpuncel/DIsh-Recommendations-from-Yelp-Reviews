@@ -1,3 +1,0 @@
-Great_NNP classic_JJ food_NN full_JJ of_IN quality_NN ._.
-Small_JJ and_CC romantic_JJ and_CC overall_JJ special_JJ place_NN ._.
-Sit_VB out_RP on_IN the_DT patio_NN if_IN you_PRP can_MD !_.

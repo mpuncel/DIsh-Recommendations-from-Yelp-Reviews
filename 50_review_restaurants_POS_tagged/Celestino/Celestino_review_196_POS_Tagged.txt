@@ -1,9 +1,0 @@
-Good_JJ Italian_JJ joint_NN in_IN Pasadena_NNP ._.
-Food_NNP is_VBZ good_JJ ,_, and_CC the_DT service_NN is_VBZ good_JJ ._.
-I_PRP only_RB had_VBD one_CD bad_JJ time_NN so_RB far_RB -LRB-_-LRB- with_IN regard_NN to_TO service_NN -RRB-_-RRB- ,_, but_CC that_DT 's_VBZ because_IN the_DT hostess_NN could_MD n't_RB tell_VB time_NN ._.
-I_PRP really_RB LOVE_NNP and_CC always_RB order_VB the_DT duck_NN ravioli_NNS ._.
-I_PRP think_VBP it_PRP tastes_VBZ splendid_JJ ._.
-Their_PRP$ calamari_NN is_VBZ good_JJ too_RB ._.
-I_PRP do_VBP n't_RB know_VB much_JJ about_IN the_DT other_JJ dishes_NNS ,_, because_IN I_PRP love_VBP the_DT duck_NN ravioli_NNS that_WDT much_RB ._.
-I_PRP 've_VBP been_VBN to_TO this_DT restaurant_NN about_IN 5_CD times_NNS ,_, and_CC after_IN each_DT meal_NN ,_, I_PRP concluded_VBD that_IN I_PRP liked_VBD the_DT food_NN and_CC wine_NN ._.
-Good_JJ wine_NN selection_NN ,_, btw_NN ._.

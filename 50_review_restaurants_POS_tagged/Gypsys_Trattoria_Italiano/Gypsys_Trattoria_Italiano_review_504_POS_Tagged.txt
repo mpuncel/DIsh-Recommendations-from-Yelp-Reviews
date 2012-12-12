@@ -1,9 +1,0 @@
-Hehehe_NNP ._.
-Love_NNP Gypsy_NNP 's_POS ._.
-I_PRP love_VBP it_PRP dearly_RB ._.
-I_PRP do_VBP n't_RB care_VB if_IN it_PRP 's_VBZ authentic_JJ or_CC not_RB ,_, this_DT place_NN is_VBZ delicious_JJ and_CC it_PRP 's_VBZ bad_JJ cause_NN whenever_WRB I_PRP want_VBP pasta_NN I_PRP come_VBP to_TO Gypsy_NNP 's_POS ,_, when_WRB I_PRP should_MD be_VB trying_VBG new_JJ places_NNS ._.
-7_CD bucks_NNS here_RB can_MD buy_VB you_PRP a_DT delicious_JJ meal_NN ,_, and_CC trust_NN me_PRP ,_, it_PRP 's_VBZ definitely_RB worth_JJ it_PRP ._.
-The_DT pesto_JJ linguini_NN is_VBZ one_CD of_IN my_PRP$ person_NN favorites_NNS ,_, but_CC you_PRP can_MD not_RB go_VB wrong_JJ with_IN the_DT Gypsy_NNP 's_POS Chicken_NNP or_CC Crazy_NNP Alfredo_NNP ._.
-The_DT Gnocchi_NNP is_VBZ also_RB delicious_JJ ,_, and_CC I_PRP swear_VBP to_TO you_PRP ,_, my_PRP$ mouth_NN is_VBZ watering_VBG as_IN I_PRP type_NN this_DT ._.
-Best_JJS meal_NN would_MD definitely_RB be_VB Gypsy_NNP 's_POS and_CC milk_NN tea_NN from_IN Sweethearts_NNPS ._.
-With_IN those_DT two_CD ,_, we_PRP can_MD just_RB call_VB it_PRP a_DT night_NN ._.

@@ -1,4 +1,0 @@
-Delicious_NNP pasta_NN ,_, excellent_JJ service_NN ,_, and_CC almost_RB affordable_JJ for_IN dinner_NN if_IN you_PRP 're_VBP a_DT student_NN &_CC you_PRP do_VBP n't_RB order_VB drinks_NNS ._.
-Pretty_NNP little_JJ waiters_NNS with_IN fancy_JJ bikes_NNS who_WP look_VBP like_IN they_PRP came_VBD from_IN the_DT Italian_JJ version_NN of_IN Williamsburg_NNP but_CC without_IN the_DT attitude_NN ._.
-Cash_NN only_RB ._.
-Yummy_NNP for_IN when_WRB you_PRP 're_VBP sick_JJ of_IN Pisticci_NNP ._.

@@ -1,5 +1,0 @@
-Food_NNP is_VBZ very_RB good_JJ for_IN a_DT place_NN on_IN campus_NN ._.
-only_RB complaint_NN was_VBD a_DT called_VBN them_PRP up_RP the_DT man_NN was_VBD so_RB rude_JJ ._.
-Wasnt_NNP listening_VBG to_TO me_PRP and_CC just_RB had_VBD such_JJ a_DT bad_JJ attitude_NN ._.
-i_FW was_VBD trying_VBG to_TO organize_VB food_NN for_IN 30_CD people_NNS so_RB thats_VBZ about_IN 200_CD +_CD bucks_NNS worth_JJ of_IN business_NN and_CC he_PRP was_VBD still_RB obnoxious_JJ and_CC rude_JJ after_IN all_DT and_CC when_WRB i_FW was_VBD askig_JJ questions_NNS he_PRP was_VBD having_VBG none_NN of_IN it_PRP so_RB i_FW gave_VBD up_RP and_CC i_FW will_MD have_VB to_TO go_VB in_IN there_EX coz_NN i_FW cudnt_FW get_VB anything_NN out_IN of_IN him_PRP ._.
-il_NN probably_RB go_VB elsewhere_RB though_RB after_IN all_DT that_DT

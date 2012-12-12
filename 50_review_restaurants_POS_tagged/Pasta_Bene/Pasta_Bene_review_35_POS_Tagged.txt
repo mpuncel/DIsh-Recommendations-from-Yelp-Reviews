@@ -1,5 +1,0 @@
-Cafe_NNP Bene_NNP is_VBZ reminds_VBZ me_PRP of_IN a_DT more_RBR upscale_JJ version_NN of_IN Gypsy_NNP 's_POS Trattoria_NNP Italiano_NNP in_IN the_DT Asian_JJ Ghetto_NNP ._.
-It_PRP 's_VBZ got_VBD a_DT similar_JJ set_VBN up_RP with_IN your_PRP$ classic_JJ Italian_JJ menu_NN except_IN no_DT calzone_NN at_IN Pasta_NNP Bene_NNP ._.
-It_PRP 's_VBZ also_RB super_JJ cheaper_JJR and_CC very_RB affordable_JJ for_IN college_NN students_NNS nearby_RB ._.
-Some_DT differences_NNS :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- Pasta_NNP Bene_NNP is_VBZ cleaner_JJR with_IN actual_JJ dishes_NNS and_CC silverware_NN ,_, -LRB-_-LRB- 2_LS -RRB-_-RRB- servers_NNS at_IN Pasta_NNP Bene_NNP brings_VBZ you_PRP the_DT food_NN -LRB-_-LRB- you_PRP get_VBP a_DT number_NN tag_NN -RRB-_-RRB- ,_, -LRB-_-LRB- 3_LS -RRB-_-RRB- Pasta_NNP Bene_NNP serves_VBZ alcohol_NN ._.
-Overall_RB ,_, I_PRP must_MD say_VB that_IN I_PRP still_RB like_IN Gypsy_NNP 's_POS better_JJR ..._: but_CC perhaps_RB ,_, it_PRP might_MD be_VB for_IN old_JJ times_NNS sake_NN ._.

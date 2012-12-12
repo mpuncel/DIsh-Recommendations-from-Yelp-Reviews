@@ -1,7 +1,0 @@
-Gypsy_NNP 's_POS Trattoria_NNP Italiano_NNP is_VBZ located_VBN within_IN Asian_JJ Ghetto_NNP by_IN UC_NNP Berkeley_NNP ,_, so_IN it_PRP 's_VBZ very_RB convenient_JJ if_IN you_PRP 're_VBP looking_VBG for_IN a_DT quick_JJ bite_NN ._.
-This_DT place_NN is_VBZ constantly_RB full_JJ of_IN customers_NNS -LRB-_-LRB- mainly_RB college_NN students_NNS -RRB-_-RRB- ,_, so_RB there_RB might_MD be_VB a_DT short_JJ wait_NN during_IN rushes_VBZ ._.
-I_PRP recommend_VBP the_DT calzones_NNS and_CC pasta_NN plates_NNS ._.
-However_RB ,_, beware_NN of_IN their_PRP$ sauces_NNS !_.
-They_PRP 're_VBP pretty_RB rich_JJ ,_, so_RB be_VB ready_JJ to_TO food_NN coma_NN after_IN eating_VBG here_RB ._.
-They_PRP also_RB offer_VBP any_DT entree_FW ,_, salad_NN ,_, and_CC soda_NN for_IN $_$ 7.99_CD ._.
-Good_JJ deal_NN !!_NN

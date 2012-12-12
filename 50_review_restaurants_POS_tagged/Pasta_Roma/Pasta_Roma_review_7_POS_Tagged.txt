@@ -1,6 +1,0 @@
-I_PRP 'm_VBP biased_VBN ,_, because_IN this_DT is_VBZ the_DT closest_JJS Italian_JJ restaurant_NN to_TO my_PRP$ house_NN on_IN the_DT Row_NNP at_IN USC_NNP ._.
-I_PRP must_MD say_VB ,_, though_RB ,_, that_IN this_DT little_JJ restuarant_NN has_VBZ really_RB grown_VBN on_IN me_PRP ._.
-They_PRP 're_VBP most_RBS known_VBN for_IN their_PRP$ pizza_NN ,_, but_CC I_PRP 've_VBP also_RB ventured_VBN to_TO try_VB their_PRP$ chicken_NN parmesan_NN ,_, eggplant_NN parmesan_NN ,_, and_CC a_DT few_JJ of_IN their_PRP$ salads_NNS ._.
-Maybe_RB it_PRP 's_VBZ not_RB as_RB good_JJ as_IN Viztango_NNP ,_, which_WDT is_VBZ just_RB a_DT block_NN South_NNP ,_, but_CC it_PRP 's_VBZ really_RB nice_JJ having_VBG a_DT reasonably-priced_JJ Italian_JJ place_NN just_RB steps_VBZ from_IN the_DT Row_NNP ._.
-Their_PRP$ service_NN is_VBZ also_RB really_RB fast_JJ and_CC efficient_JJ ._.
-I_PRP usually_RB opt_VBP for_IN take-out_JJ ,_, but_CC I_PRP do_VBP n't_RB think_VB you_PRP can_MD really_RB go_VB wrong_JJ eating_VBG their_PRP$ either_CC ._.

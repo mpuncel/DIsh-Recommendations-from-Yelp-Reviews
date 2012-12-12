@@ -1,3 +1,0 @@
-Food_NNP was_VBD quite_RB simply_RB exquisite_JJ ._.
-The_DT prices_NNS are_VBP surprisingly_RB good_JJ as_RB well_RB ._.
-Some_DT of_IN the_DT portions_NNS are_VBP a_DT little_JJ small_JJ but_CC the_DT burger_NN was_VBD one_CD of_IN the_DT best_JJS I_PRP 'd_MD ever_RB had_VBD ._.

@@ -1,6 +1,0 @@
-Antico_NNP does_VBZ have_VB a_DT good_JJ pizza_NN ,_, I_PRP 'll_MD say_VB that_IN ._.
-A_DT group_NN of_IN 5_CD of_IN us_PRP split_VBD the_DT Margherita_NNP ._.
-I_PRP loved_VBD the_DT buffalo_NN mozzarella_NN and_CC the_DT thin_JJ crust_NN that_WDT was_VBD slightly_RB burnt_JJ ._.
-It_PRP was_VBD a_DT delicious_JJ pizza_NN slice_NN ._.
-The_DT toppings_NNS slid_VBD off_RP so_IN I_PRP had_VBD to_TO fold_VB my_PRP$ slice_NN in_IN order_NN to_TO eat_VB it_PRP ._.
-But_CC for_IN the_DT size_NN -LRB-_-LRB- smaller_JJR than_IN I_PRP thought_VBD -RRB-_-RRB- and_CC the_DT price_NN -LRB-_-LRB- $_$ 17_CD -RRB-_-RRB- I_PRP did_VBD n't_RB think_VB it_PRP was_VBD worth_JJ it_PRP ._.

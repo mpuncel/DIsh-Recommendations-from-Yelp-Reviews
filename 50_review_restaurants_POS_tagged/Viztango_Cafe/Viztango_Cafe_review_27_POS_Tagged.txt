@@ -1,6 +1,0 @@
-Viztango_NNP is_VBZ definitely_RB one_CD o_NN my_PRP$ first_JJ go-to_JJ food_NN places_NNS around_IN USC_NNP ._.
-Its_PRP$ decently_RB priced_VBN -LRB-_-LRB- especially_RB with_IN the_DT student_NN discount_NN !_. -RRB-_-RRB-
-and_CC its_PRP$ available_JJ to_TO eat_VB in_IN or_CC take_VB out._JJ ,_, although_IN generally_RB I_PRP call_VBP ahead_RB and_CC pick_VB up_RP my_PRP$ food_NN within_IN ten_NN minutes_NNS which_WDT I_PRP 've_VBP never_RB had_VBN any_DT problems_NNS with_IN ._.
-They_PRP have_VBP lots_NNS of_IN options_NNS and_CC different_JJ types_NNS of_IN salads_NNS ,_, pizzas_NNS ,_, sandwiches_NNS and_CC pastas_NNS --_: my_PRP$ favorite_NN is_VBZ their_PRP$ bowtie_NN pasta_NN with_IN marinara_NN and_CC chicken_NN !_.
-The_DT food_NN is_VBZ always_RB good_JJ ,_, never_RB excellent_JJ ,_, but_CC still_RB good_JJ ._.
-Its_PRP$ definitely_RB convenient_JJ and_CC the_DT ability_NN to_TO order_VB ahead_RB and_CC have_VB it_PRP ready_JJ and_CC waiting_VBG for_IN you_PRP is_VBZ a_DT nice_JJ bonus_NN ._.

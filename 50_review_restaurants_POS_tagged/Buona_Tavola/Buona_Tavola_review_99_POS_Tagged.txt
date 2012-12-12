@@ -1,5 +1,0 @@
-Great_JJ food_NN ._.
-Funny_JJ waiter_NN ._.
-MY_NNP daughters_NNS fell_VBD in_IN love_NN with_IN the_DT water_NN boy_NN ._.
-Great_NNP atmosphere_NN ._.
-A_DT real_JJ treat_NN !_.

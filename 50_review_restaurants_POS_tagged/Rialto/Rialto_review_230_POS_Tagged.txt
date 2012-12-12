@@ -1,8 +1,0 @@
-Not_RB bad_JJ ,_, not_RB bad_JJ ._.
-A_DT very_RB good_JJ restaurant_NN with_IN some_DT good_JJ dishes_NNS ._.
-One_CD of_IN the_DT most_RBS promising_JJ appetizers_NNS ,_, Pat_NNP and_CC Barbara_NNP 's_POS perfect_JJ grilled_JJ littlenecks_NNS ,_, was_VBD a_DT little_JJ too_RB peppery_JJ for_IN my_PRP$ tastes_NNS ,_, but_CC the_DT local_JJ grilled_JJ bluefish_NN was_VBD fantastic_JJ ._.
-The_DT bread_NN was_VBD also_RB pretty_RB good_JJ to_TO munch_VB on_IN ._.
-The_DT waiter_NN was_VBD really_RB nice_JJ but_CC I_PRP have_VBP to_TO wonder_VB about_IN the_DT seating_NN ._.
-There_EX are_VBP some_DT nice_JJ curtains_NNS to_TO make_VB it_PRP more_RBR quiet_JJ ,_, but_CC we_PRP were_VBD seated_VBN in_IN one_CD of_IN those_DT curtained_VBN areas_NNS next_IN to_TO a_DT couple_NN ,_, obviously_RB on_IN a_DT date_NN ,_, meaning_VBG it_PRP felt_VBD like_IN it_PRP was_VBD just_RB us_PRP to_TO ,_, and_CC it_PRP was_VBD n't_RB loud_JJ enough_RB to_TO drown_VB out_RP nearby_RB conversation_NN ._.
-If_IN I_PRP came_VBD in_IN a_DT group_NN of_IN 6-8_CD this_DT area_NN would_MD have_VB obviously_RB been_VBN combined_VBN into_IN one_CD -_: it_PRP should_MD probably_RB always_RB be_VB like_IN that_DT ._.
-Good_JJ wine_NN selection_NN too_RB ._.

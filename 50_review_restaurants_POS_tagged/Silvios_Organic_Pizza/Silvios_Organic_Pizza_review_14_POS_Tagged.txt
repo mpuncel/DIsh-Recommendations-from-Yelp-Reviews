@@ -1,6 +1,0 @@
-The_DT crust_NN at_IN Silvio_NNP 's_POS lives_NNS up_IN to_TO the_DT billing_NN ._.
-For_IN those_DT who_WP are_VBP into_IN healthy_JJ pizza_NN ,_, this_DT is_VBZ as_RB good_JJ as_IN it_PRP gets_VBZ ._.
-Unfortunately_RB I_PRP like_VBP my_PRP$ pizza_NN a_DT tad_NN bit_NN greasier_NN which_WDT is_VBZ why_WRB I_PRP am_VBP giving_VBG Silvio_NNP 's_POS a_DT 4_CD not_RB a_DT 5_CD ._.
-I_PRP did_VBD think_VB it_PRP was_VBD a_DT bit_NN pricy_NN though_IN ..._: a_DT 16_CD ''_'' Fantasy_NNP -LRB-_-LRB- Ham_NNP ,_, fresh_JJ tomatoes_NNS ,_, artichokes_NNS ,_, asparagus_NN ,_, swiss_NN &_CC mozzarella_NN -RRB-_-RRB- was_VBD 22_CD dollars_NNS ._.
-Seemed_VBN kind_NN of_IN a_DT lot_NN for_IN a_DT campus_NN joint_NN ._.
-However_RB ,_, the_DT variety_NN of_IN toppings_NNS is_VBZ virtually_RB unbeatable_JJ and_CC will_MD keep_VB you_PRP coming_VBG back_RB -LRB-_-LRB- eggplant_NN ,_, tofu_NN ,_, pine_VB nuts_NNS ,_, spinach_NN ,_, vegan_NN pesto_NN ,_, grapes_NNS ,_, carrots_NNS ..._: the_DT list_NN goes_VBZ on_IN !_. -RRB-_-RRB-

@@ -1,6 +1,0 @@
-Quite_RB honestly_RB ,_, Silvio_NNP 's_POS is_VBZ overrated_VBN ._.
-Service_NNP is_VBZ slow_JJ and_CC unattentive_JJ ,_, even_RB in_IN the_DT middle_NN of_IN the_DT day_NN on_IN a_DT rainy_NN Friday_NNP ._.
-Pizzas_NNP are_VBP good_JJ but_CC not_RB remarkable_JJ -_: and_CC for_IN up_RB to_TO $_$ 24_CD for_IN a_DT 16_CD ''_'' pizza_NN ,_, I_PRP expect_VBP remarkable_JJ ._.
-The_DT pizzas_NNS at_IN Jolly_JJ Pumpkin_NNP are_VBP reliably_RB cheaper_JJR and_CC better_JJR ._.
-I_PRP do_VBP n't_RB know_VB ._.
-I_PRP do_VBP n't_RB want_VB to_TO hate_VB too_RB much_RB ,_, but_CC I_PRP also_RB see_VBP no_DT reason_NN to_TO ever_RB go_VB to_TO Silvio_NNP 's_POS again_RB ,_, not_RB even_RB for_IN the_DT free_JJ dessert_NN pizza_NN offered_VBN on_IN one_NN 's_POS birthday_NN ._.

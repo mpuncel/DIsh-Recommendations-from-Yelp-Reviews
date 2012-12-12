@@ -1,3 +1,0 @@
-Maybe_RB I_PRP 'll_MD go_VB back_RB and_CC try_VB the_DT pizza_NN without_IN mushrooms_NNS because_IN my_PRP$ pizza_NN came_VBD out_RP runny_JJ ang_NN gooey_NN in_IN the_DT middle_NN ._.
-No_DT bueno_NN ._.
-Pizzera_NNP Mozza_NNP is_VBZ still_RB the_DT best_JJS hands_NNS down_RB ._.

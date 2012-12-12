@@ -1,5 +1,0 @@
-I_PRP 've_VBP given_VBN this_DT restaurant_NN a_DT 5_CD in_IN the_DT past_NN ,_, but_CC I_PRP 'm_VBP giving_VBG this_DT information_NN to_TO remind_VB the_DT management_NN to_TO keep_VB an_DT eye_NN on_IN quality_NN control_NN ._.
-The_DT atmosphere_NN is_VBZ always_RB pleasant_JJ though_IN two_CD tables_NNS after_IN us_PRP had_VBD their_PRP$ orders_NNS taken_VBN and_CC bread_NN served_VBD before_IN us_PRP ._.
-In_IN our_PRP$ caesar_NN salad_NN ,_, the_DT lettuce_NN was_VBD old_JJ with_IN pink_JJ edges_NNS and_CC the_DT shavings_NNS of_IN parmesan_NN cheese_NN were_VBD too_RB large_JJ ._.
-Since_IN we_PRP enjoy_VBP eggplant_NN ,_, we_PRP ordered_VBD the_DT pasta_NN that_WDT indicated_VBD a_DT tomato_JJ red_JJ sauce_NN with_IN eggplant_NN ._.
-Well_RB it_PRP was_VBD disappointing_JJ with_IN too_RB much_JJ oil_NN ,_, was_VBD overcooked_VBN and_CC only_RB a_DT few_JJ pieces_NNS ._.

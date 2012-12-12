@@ -1,3 +1,0 @@
-Love_NNP this_DT place_NN !!_NN I_PRP have_VBP gone_VBN tons_NNS of_IN times_NNS with_IN friends_NNS and_CC family_NN ,_, but_CC it_PRP does_VBZ get_VB crowded_VBN easily_RB ._.
-We_PRP normally_RB walk_VBP there_RB from_IN my_PRP$ apt_JJ cause_NN 1_CD glass_NN is_VBZ NEVER_RB enough_JJ !_.
-The_DT food_NN is_VBZ awesome_JJ the_DT price_NN is_VBZ a_DT little_RB much_JJ for_IN the_DT quantity_NN but_CC the_DT quality_NN is_VBZ there_RB ._.

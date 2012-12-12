@@ -1,3 +1,0 @@
-Delicious_NNP !_.
-We_PRP went_VBD to_TO Prego_NNP and_CC had_VBD the_DT sangria_NN and_CC stuffed_VBD chicken_NN ._.
-Both_DT were_VBD great_JJ and_CC the_DT rest_NN of_IN the_DT menu_NN looked_VBD great_JJ too_RB !_.

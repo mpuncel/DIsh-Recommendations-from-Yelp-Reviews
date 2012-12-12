@@ -1,2 +1,0 @@
-$_$ 9.95_CD chicken_NN kabob_NN is_VBZ awesome_JJ !_.
-Not_RB my_PRP$ favorite_JJ Panini_NNP cafe_NN location_NN because_IN of_IN parking_NN ,_, but_CC the_DT food_NN and_CC the_DT service_NN is_VBZ great_JJ ._.

@@ -1,5 +1,0 @@
-Waitstaff_NNP was_VBD incredibly_RB rude_JJ ._.
-The_DT waiter_NN made_VBD us_PRP feel_VB that_IN we_PRP were_VBD holding_VBG him_PRP up_RP to_TO leave_VB when_WRB we_PRP had_VBD a_DT 9:45_CD reservation_NN ._.
-If_IN it_PRP was_VBD too_RB late_JJ ,_, they_PRP should_MD not_RB have_VB honored_VBN the_DT reservation_NN ._.
-He_PRP made_VBD us_PRP so_RB uncomfortable_JJ that_IN we_PRP left_VBD ._.
-Unfortunate_JJ ,_, because_IN I_PRP ate_VBD there_EX one_CD other_JJ time_NN and_CC had_VBD a_DT great_JJ meal_NN with_IN a_DT different_JJ server_NN ._.

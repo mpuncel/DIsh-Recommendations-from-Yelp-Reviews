@@ -1,3 +1,0 @@
-Love_NNP this_DT place_NN ._.
-We_PRP had_VBD the_DT eggplant_NN parmigiana_NN ,_, veal_NN picatta_NN and_CC spaghetti_NNS boulinaisse_NN ._.
-Everything_NN was_VBD delicious_JJ ._.

@@ -1,2 +1,0 @@
-I_PRP only_RB had_VBD their_PRP$ pizza_NN ,_, but_CC it_PRP was_VBD great_JJ ._.
-I_PRP would_MD recommend_VB both_DT the_DT Vegetarian_NNP Pizza_NNP ,_, and_CC the_DT Combo_NNP Pizza_NNP ..._: I_PRP have_VBP yet_RB to_TO try_VB anything_NN else_RB ._.

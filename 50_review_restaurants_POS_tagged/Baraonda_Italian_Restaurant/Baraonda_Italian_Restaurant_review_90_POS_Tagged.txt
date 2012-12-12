@@ -1,5 +1,0 @@
-On_IN a_DT busy_JJ night_NN service_NN was_VBD attentive_JJ and_CC prompt_JJ ._.
-Wine_NN was_VBD a_DT nice_JJ Montepulciano_NNP d'abruzzo_NN ._.
-Entree_NNP was_VBD a_DT wonderful_JJ papperadelle_NN with_IN lamb_JJ ragu_NN ._.
-Flavorful_NNP with_IN large_JJ juicy_NN chunks_NNS of_IN lamb_NN ._.
-Very_RB tasty_JJ meal_NN -_: when_WRB back_RB in_IN Atlanta_NNP I_PRP 'll_MD visit_VB again_RB !_.

@@ -1,3 +1,0 @@
-Prosciutto_NNP and_CC spinach_JJ pasta_NN is_VBZ great_JJ ._.
-It_PRP 's_VBZ cozy_JJ and_CC waiters_NNS are_VBP liveliness_NN ._.
-I_PRP recommend_VBP to_TO go_VB to_TO dinner_NN because_IN pasta_NN menu_NN selection_NN is_VBZ twice_RB as_RB much_JJ as_IN lunch_NN menu_NN ._.

@@ -1,4 +1,0 @@
-I_PRP love_VBP Italian_JJ food_NN and_CC this_DT is_VBZ one_CD of_IN the_DT brothers_NNS who_WP owns_VBZ Drago_NNP rest_NN in_IN Santa_NNP Monica_NNP ._.
-I_PRP made_VBD a_DT request_NN for_IN the_DT chef_NN to_TO made_VBN me_PRP the_DT lobster_NN pasta_NN ._.
-It_PRP was_VBD good_JJ but_CC it_PRP was_VBD n't_RB the_DT same_JJ ._.
-Very_RB authentic_JJ Northern_NNP Italiandishes_NNPS ._.

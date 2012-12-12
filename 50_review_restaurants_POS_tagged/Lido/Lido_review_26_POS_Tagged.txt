@@ -1,2 +1,0 @@
-The_DT place_NN has_VBZ a_DT great_JJ atmosphere_NN ._.
-The_DT food_NN is_VBZ okay_JJ and_CC a_DT bit_NN pricey_JJ for_IN what_WP 's_VBZ offered_VBN ._.

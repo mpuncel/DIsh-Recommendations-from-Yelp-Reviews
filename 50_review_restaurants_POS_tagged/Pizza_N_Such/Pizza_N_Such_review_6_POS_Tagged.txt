@@ -1,6 +1,0 @@
-I_PRP am_VBP a_DT pretty_RB harsh_JJ judge_NN of_IN pizza_NN ..._: but_CC wow_NN ,_, I_PRP loved_VBD the_DT pizza_NN here_RB ._.
-My_PRP$ friend_NN and_CC I_PRP ordered_VBD a_DT greek_NN pizza_NN with_IN feta_JJ cheese_NN ,_, olives_NNS ,_, and_CC amazing_JJ tomatoes_NNS and_CC mushrooms_NNS ..._: it_PRP was_VBD great_JJ ._.
-The_DT servers_NNS seated_VBD us_PRP immediately_RB and_CC took_VBD our_PRP$ order_NN since_IN we_PRP were_VBD in_IN a_DT rush_NN to_TO get_VB to_TO another_DT event_NN ..._: The_DT pizza_NN was_VBD great_JJ ._. ._.
-crust_NN was_VBD good_JJ ,_, not_RB greasy_JJ ,_, and_CC the_DT flavors_NNS meshed_VBD well_RB togeter_NN ._.
-Bravo_NNP !_.
-I_PRP will_MD be_VB returning_VBG ._.

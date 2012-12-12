@@ -1,5 +1,0 @@
-Went_VBD here_RB recently_RB for_IN lunch_NN ,_, at_IN a_DT friend_NN 's_POS suggestion_NN ._.
-Was_VBD disappointed_VBN by_IN the_DT lack_NN of_IN options_NNS on_IN the_DT lunch_NN menu_NN ,_, after_IN having_VBG perused_VBN the_DT dinner_NN menu_NN online_NN ._.
-However_RB ,_, the_DT caprese_NN panino_NN with_IN pesto_NN that_IN I_PRP ordered_VBD was_VBD delicious_JJ -LRB-_-LRB- caution_NN :_: it_PRP was_VBD also_RB extremely_RB rich_JJ -RRB-_-RRB- ._.
-And_CC after_IN running_VBG home_NN to_TO google_VB it_PRP ,_, I_PRP learned_VBD that_IN I_PRP 've_VBP been_VBN using_VBG the_DT plural_JJ form_NN ``_`` panini_NN ''_'' incorrectly_RB for_IN years_NNS -LRB-_-LRB- oh_UH ,_, the_DT embarrassment_NN !_. -RRB-_-RRB- ._.
-Needless_JJ to_TO say_VB ,_, I_PRP would_MD like_VB to_TO return_VB for_IN dinner_NN and_CC see_VB if_IN I_PRP 'm_VBP more_JJR impressed_JJ ._.

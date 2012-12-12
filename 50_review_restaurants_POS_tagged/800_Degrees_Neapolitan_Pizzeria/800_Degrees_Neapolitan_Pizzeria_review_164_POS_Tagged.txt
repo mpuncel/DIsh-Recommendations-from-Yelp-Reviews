@@ -1,4 +1,0 @@
-When_WRB you_PRP walk_VBP in_IN ,_, the_DT line_NN is_VBZ long_RB ,_, but_CC it_PRP it_PRP moves_VBZ FAST_RB ._.
-There_EX are_VBP tons_NNS of_IN different_JJ toppings_NNS to_TO choose_VB from_IN ,_, so_IN variety_NN is_VBZ not_RB a_DT problem_NN ._.
-The_DT pizzas_NNS are_VBP a_DT little_JJ on_IN the_DT oily_JJ side_NN for_IN me_PRP ,_, but_CC they_PRP are_VBP delicious_JJ ._.
-Would_MD definitely_RB go_VB back_RB to_TO try_VB more_JJR ._.

@@ -1,6 +1,0 @@
-Tonight_NNP we_PRP ate_VBD there_RB with_IN some_DT friends_NNS ._.
-Our_PRP$ friends_NNS are_VBP into_IN Spaghetti_NNP and_CC Meat_NNP Ball_NNP Entree_NNP ._.
-I_PRP like_VBP the_DT Spaghetti_NNP with_IN Meat_NNP Sauce_NNP -LRB-_-LRB- it_PRP has_VBZ small_JJ chunks_NNS of_IN Meat_NN in_IN the_DT sauce_NN -RRB-_-RRB- with_IN great_JJ seasoning_NN ._.
-Remember_VB it_PRP is_VBZ Family_NNP Style_NNP at_IN Buca_NNP Di_NNP Beppo_NNP ._.
-Everybody_NN shares_NNS their_PRP$ selections_NNS of_IN food_NN with_IN the_DT other_JJ people_NNS at_IN your_PRP$ table_NN ._.
-Small_JJ Order_NN :_: 2-3people_JJ Large_JJ Order_NN :_: 4-6_CD people_NNS

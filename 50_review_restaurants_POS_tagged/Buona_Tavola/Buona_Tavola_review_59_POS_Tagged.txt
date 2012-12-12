@@ -1,1 +1,0 @@
-My_PRP$ fav_NN Italian_JJ place_NN in_IN SLO_NNP !!_CD My_PRP$ boyfriend_NN and_CC I_PRP love_VBP eating_VBG on_IN the_DT patio_NN -_: it_PRP 's_VBZ our_PRP$ date_NN spot_NN :_: -RRB-_-RRB- I_PRP highly_RB recommend_VBP !_.

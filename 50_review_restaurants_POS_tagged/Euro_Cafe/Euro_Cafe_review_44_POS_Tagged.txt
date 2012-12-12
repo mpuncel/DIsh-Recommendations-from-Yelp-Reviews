@@ -1,7 +1,0 @@
-I_PRP really_RB like_IN Euro_NNP Cafe_NNP ._.
-Alot_NNP ._.
-I_PRP 've_VBP only_RB been_VBN for_IN breakfast_NN but_CC it_PRP is_VBZ soooo_JJ good_JJ ._.
-I_PRP 've_VBP had_VBD a_DT their_PRP$ french_JJ toast_NN -LRB-_-LRB- yum_NN -RRB-_-RRB- and_CC a_DT breakfast_NN panini_NN -LRB-_-LRB- yum_NN -RRB-_-RRB- ._.
-I_PRP really_RB want_VBP to_TO go_VB back_RB for_IN dinner_NN ._.
-It_PRP sounds_VBZ amazing_JJ ._.
-Overall_JJ great_JJ cafe_NN ,_, fair_JJ prices_NNS ,_, good_JJ service_NN :_: -RRB-_-RRB-

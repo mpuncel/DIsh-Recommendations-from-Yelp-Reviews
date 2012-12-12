@@ -1,7 +1,0 @@
-Babbo_NNP 's_POS is_VBZ a_DT warm_JJ ,_, neighborhood-style_JJ Italian_JJ bistro_NN that_WDT has_VBZ somehow_RB found_VBN it_PRP 's_VBZ way_NN to_TO Stanford_NNP Shopping_NNP Center_NNP ._.
-The_DT wait_NN staff_NN treats_VBZ you_PRP like_IN family_NN ,_, as_IN does_VBZ the_DT owner_NN ,_, who_WP often_RB pops_VBZ in_IN to_TO charm_NN guests_NNS ._.
-The_DT entrees_NNS are_VBP very_RB good_JJ ,_, but_CC the_DT gelato_NN with_IN berries_NNS and_CC zabaglione_NN is_VBZ a_DT real_JJ winner_NN -LRB-_-LRB- especially_RB on_IN a_DT warm_JJ evening_NN -RRB-_-RRB- ._.
-This_DT is_VBZ n't_RB a_DT trendy_JJ place_NN at_IN all_DT ,_, and_CC the_DT menu_NN has_VBZ barely_RB changed_VBN over_IN the_DT last_JJ decade_NN ,_, which_WDT is_VBZ actually_RB really_RB nice_JJ to_TO find_VB ._.
--LRB-_-LRB- Old_JJ world_NN charm_NN and_CC simplicity_NN trumps_NNS flashy_JJ ingredients_NNS here_RB ._. -RRB-_-RRB-
-Prices_NNS are_VBP exactly_RB what_WP you_PRP 'd_MD expect_VB at_IN a_DT good_JJ ,_, established_VBN restaurant_NN in_IN Silicon_NNP Valley_NNP ,_, and_CC service_NN is_VBZ fantastic_JJ ._.
-This_DT is_VBZ the_DT perfect_JJ place_NN to_TO stop_VB by_IN after_RB hard_JJ day_NN of_IN shopping_NN !_.

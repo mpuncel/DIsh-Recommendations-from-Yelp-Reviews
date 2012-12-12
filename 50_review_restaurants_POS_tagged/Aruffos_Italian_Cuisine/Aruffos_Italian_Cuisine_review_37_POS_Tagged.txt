@@ -1,7 +1,0 @@
-Authentic_NNP Italian_NNP fare_NN ._.
-Loved_VBD the_DT dim_NN lighting_NN ,_, inexpensive_JJ wine_NN flights_NNS ,_, and_CC delicious_JJ food_NN ._.
-Their_PRP$ fettuccine_NN alfredo_NN is_VBZ the_DT best_JJS I_PRP 've_VBP ever_RB had_VBN ._.
-And_CC their_PRP$ house_NN bread_NN is_VBZ scrumptious_JJ ._.
-Unfortunately_RB ,_, their_PRP$ service_NN is_VBZ terrible_JJ ._.
-And_CC when_WRB you_PRP 're_VBP spending_VBG $_$ 50_CD +_NN for_IN a_DT meal_NN ,_, you_PRP expect_VBP good_JJ service_NN ._.
-Theirs_NNP is_VBZ downright_RB neglectful_JJ at_IN times_NNS -LRB-_-LRB- which_WDT explains_VBZ the_DT 3-star_JJ rating_NN -RRB-_-RRB- ._.

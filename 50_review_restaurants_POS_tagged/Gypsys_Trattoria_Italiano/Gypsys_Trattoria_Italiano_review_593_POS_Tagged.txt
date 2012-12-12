@@ -1,5 +1,0 @@
-This_DT place_NN is_VBZ hands-down_JJ the_DT best_JJS place_NN to_TO eat_VB near_IN the_DT Berkeley_NNP Campus_NNP ._.
-Their_PRP$ Calzones_NNS are_VBP amazing_JJ ,_, and_CC the_DT Godfather_NNP 's_POS Favorite_NNP is_VBZ to_TO DIE_VB FOR_IN !_.
-+_VB their_PRP$ salad_NN ,_, soda_NN deal_NN is_VBZ good_JJ too_RB ._.
-Definitely_RB a_DT place_NN to_TO try_VB if_IN you_PRP 're_VBP visiting_VBG Berkeley_NNP !_.
-:_: -RRB-_-RRB-

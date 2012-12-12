@@ -1,9 +1,0 @@
-they_PRP make_VBP everything_NN from_IN scratch_NN ._.
-Although_IN it_PRP is_VBZ not_RB fully_RB family_NN owned_VBD ..._: it_PRP seems_VBZ family_NN ran_VBD ._.
-Their_PRP$ staff_NN is_VBZ awesome_JJ ,_, i_FW got_VBD helped_VBN by_IN the_DT grandmother_NN and_CC grandson_NN ._.
-They_PRP were_VBD friendly_JJ ._.
-The_DT atmosphere_NN is_VBZ awesome_JJ for_IN a_DT date_NN ;_: -RRB-_-RRB- -_: The_DT bathroom_NN is_VBZ really_RB cool_JJ too_RB !_.
-hehe_SYM -_: its_PRP$ looks_NNS like_IN its_PRP$ some_DT old_JJ bathroom_NN straight_RB out_IN of_IN Italy_NNP ._.
-Food_NNP is_VBZ tasty_JJ ,_, the_DT menu_NN was_VBD great_JJ and_CC there_EX were_VBD a_DT lot_NN of_IN people_NNS there_RB !_.
-I_PRP 'd_MD recommend_VB this_DT place_NN for_IN sure_JJ if_IN you_PRP love_VBP family_NN made_VBD Italian_JJ food_NN !_.
-:_: -RRB-_-RRB- !_.

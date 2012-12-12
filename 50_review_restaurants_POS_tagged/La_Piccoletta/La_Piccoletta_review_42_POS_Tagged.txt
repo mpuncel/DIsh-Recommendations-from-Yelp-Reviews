@@ -1,3 +1,0 @@
-This_DT place_NN is_VBZ a_DT cute_JJ little_JJ restaurant_NN with_IN really_RB tasty_JJ food_NN ._.
-A_DT little_JJ bit_NN expensive_JJ and_CC the_DT menu_NN is_VBZ pretty_RB short_JJ -LRB-_-LRB- though_IN it_PRP changes_VBZ -RRB-_-RRB- ,_, but_CC a_DT really_RB good_JJ find_VBP ._.
-Definitely_RB my_PRP$ favorite_JJ Italian_JJ place_NN in_IN Claremont_NNP ._.

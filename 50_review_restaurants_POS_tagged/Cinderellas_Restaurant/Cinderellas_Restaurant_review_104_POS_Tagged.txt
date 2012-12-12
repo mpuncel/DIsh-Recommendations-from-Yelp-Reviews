@@ -1,4 +1,0 @@
-I_PRP like_VBP this_DT place_NN !_.
-My_PRP$ friend_NN introduced_VBD me_PRP to_TO this_DT place_NN ._.
-I_PRP like_VBP their_PRP$ seafood_NN pasta_NN and_CC pizza_NN ._.
-If_IN you_PRP go_VBP for_IN lunch_NN ,_, you_PRP have_VBP a_DT discount_NN ._.

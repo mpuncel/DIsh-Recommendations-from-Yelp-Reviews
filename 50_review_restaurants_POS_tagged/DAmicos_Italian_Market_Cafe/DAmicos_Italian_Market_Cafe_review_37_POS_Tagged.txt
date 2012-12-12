@@ -1,8 +1,0 @@
-Great_NNP location_NN ,_, great_JJ food_NN and_CC great_JJ staff_NN -LRB-_-LRB- except_IN for_IN one_CD person_NN -RRB-_-RRB- ._.
-pizza_NN 's_POS are_VBP made_VBN in_IN front_NN of_IN you_PRP in_IN a_DT wood_NN burning_NN oven_CD ,_, pasta_NN 's_POS are_VBP all_DT homemade_NN ,_, the_DT dessert_NN menu_NN -LRB-_-LRB- while_IN small_JJ -RRB-_-RRB- is_VBZ delicious_JJ ._.
-I_PRP like_VBP almost_RB everything_NN I_PRP have_VBP ever_RB had_VBN here_RB ,_, but_CC do_VBP get_VB picky_JJ and_CC try_VB to_TO order_VB things_NNS that_IN I_PRP am_VBP too_RB lazy_JJ to_TO make_VB myself_PRP ._.
-A_DT few_JJ of_IN my_PRP$ favorites_NNS :_: Diavolo_NNP pistachio_NN crusted_VBD snapper_JJR risotto_JJ pepper_NN walnut_NN ravioli_NNS sauteed_VBD calamari_JJ chicken_NN ¿_NN madera_NN ?_.
-Most_JJS of_IN the_DT staff_NN is_VBZ good_JJ ._.
-Rene_NNP and_CC Isaac_NNP are_VBP great_JJ as_IN is_VBZ the_DT guy_NN that_WDT looks_VBZ like_IN he_PRP could_MD be_VB on_IN the_DT Soprano_NNP 's_POS -LRB-_-LRB- I_PRP just_RB do_VBP n't_RB remember_VB his_PRP$ name_NN -RRB-_-RRB- ._.
-Avoid_JJ Kelly_NNP -LRB-_-LRB- I_PRP think_VBP that_DT 's_VBZ her_PRP$ name_NN -RRB-_-RRB- at_IN almost_RB all_DT costs_NNS ._.
-I_PRP 'm_VBP pretty_RB sure_RB the_DT negative_JJ reviews_NNS of_IN the_DT staff_NN you_PRP may_MD read_VB about_RB in_IN other_JJ reviews_NNS refer_VBP to_TO her_PRP ._.

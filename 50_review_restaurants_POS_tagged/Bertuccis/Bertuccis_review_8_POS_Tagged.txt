@@ -1,6 +1,0 @@
-Before_IN I_PRP became_VBD a_DT bit_NN more_JJR of_IN a_DT ``_`` foody_NN ''_'' in_IN San_NNP Francisco_NNP ,_, Bertucci_NNP 's_POS was_VBD one_CD of_IN my_PRP$ favorite_JJ college_NN restaurants_NNS ._.
-I_PRP came_VBD here_RB with_IN family_NN ,_, groups_NNS of_IN friends_NNS ,_, and_CC even_RB on_IN a_DT date_NN or_CC two_CD ._.
-The_DT prices_NNS are_VBP incredibly_RB reasonable_JJ for_IN yummy_JJ food_NN ._.
-The_DT dinner_NN rolls_NNS are_VBP AMAZING_NNP and_CC a_DT lot_NN of_IN the_DT pasta_NN and_CC pizza_NN dishes_NNS are_VBP really_RB good_JJ too_RB ._.
-The_DT atmosphere_NN is_VBZ nice_JJ though_IN Bertucci_NNP 's_POS can_MD get_VB really_RB busy_JJ around_IN dinner_NN time_NN ._.
-It_PRP tends_VBZ to_TO be_VB a_DT bit_NN quieter_NN around_IN lunch_NN time_NN though_IN some_DT of_IN their_PRP$ portions_NNS are_VBP pretty_RB big_JJ for_IN a_DT lunch_NN !_.

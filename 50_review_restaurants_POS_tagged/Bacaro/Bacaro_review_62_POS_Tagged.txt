@@ -1,6 +1,0 @@
-Took_NNP my_PRP$ boyfriend_NN here_RB for_IN his_PRP$ birthday_NN last_JJ week_NN -_: WOW_NNP ._.
-Such_JJ amazing_JJ food_NN ,_, service_NN ,_, ambiance_NN ._.
-Everything_NN was_VBD done_VBN just_RB right_RB ._.
-Highly_NNP recommend_VB the_DT meat\/cheese_JJ board_NN and_CC the_DT Pizza_NNP Bianca_NNP ._.
-So_RB delish_JJ ._.
-We_PRP will_MD definitely_RB be_VB back_RB !_.

@@ -1,5 +1,0 @@
-Pretty_NNP consistently_RB good_JJ food_NN ._.
-Today_NN ,_, my_PRP$ pollone_NN was_VBD a_DT little_JJ off_RP ,_, but_CC still_RB okay_JJ ._.
-It_PRP 's_VBZ a_DT cute_JJ place_NN ,_, though_IN not_RB alot_NN of_IN indoor_JJ seating_NN ._.
-You_PRP can_MD sit_VB outside_IN when_WRB the_DT weather_NN is_VBZ nice_JJ ._.
-The_DT staff_NN are_VBP always_RB friendly_JJ ._.

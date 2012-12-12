@@ -1,6 +1,0 @@
-I_PRP came_VBD here_RB with_IN three_CD other_JJ friends_NNS for_IN dinner_NN one_CD day_NN when_WRB a_DT restaurant_NN across_IN the_DT street_NN was_VBD closed_VBN ._.
-I_PRP got_VBD the_DT ``_`` Penne_NNP Bolognese_NNP ,_, ''_'' which_WDT was_VBD pretty_RB good_JJ ._.
-I_PRP 'm_VBP not_RB a_DT fan_NN of_IN Italian_JJ food_NN ,_, but_CC I_PRP 'd_MD be_VB down_RB to_TO come_VB here_RB again_RB if_IN someone_NN were_VBD to_TO suggest_VB it_PRP to_TO me_PRP ._.
-Pros_NNS :_: -_: Large_JJ portions_NNS -LRB-_-LRB- similar_JJ to_TO Gypsy_NNP 's_POS portions_NNS -RRB-_-RRB- -_: Reasonable_JJ prices_NNS for_IN the_DT quality_NN of_IN the_DT food_NN you_PRP 're_VBP getting_VBG -_: Nice\/clean_JJ interior_JJ and_CC atmosphere_NN -_: Helpful_JJ staff_NN Cons_NNS :_: -_: A_DT bit_NN further_JJ away_RB from_IN campus_NN I_PRP 'd_MD say_VB that_IN the_DT lunch_NN prices_NNS are_VBP the_DT best_JJS ,_, but_CC this_DT is_VBZ a_DT nice_JJ place_NN to_TO go_VB to_TO for_IN dinners_NNS too_RB ._.
-Bring_VBG your_PRP$ dates_NNS here_RB !_.
-;_: -RRB-_-RRB-

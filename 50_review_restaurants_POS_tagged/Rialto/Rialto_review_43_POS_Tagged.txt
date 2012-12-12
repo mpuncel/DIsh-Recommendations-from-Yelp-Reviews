@@ -1,3 +1,0 @@
-Really_RB great_JJ food_NN ,_, not_RB your_PRP$ typical_JJ hotel_NN restaurant_NN ..._: people_NNS dressed_VBN from_IN jeans_NNS to_TO their_PRP$ nicest_NN suit_NN ._.
-Staff_NNP is_VBZ friendly_JJ and_CC helpful_JJ despite_IN some_DT very_RB rude_JJ customers_NNS -LRB-_-LRB- overheard_NN ..._: yikes_VBZ !_. -RRB-_-RRB-
-Perfect_NNP for_IN a_DT special_JJ occasion_NN ._.

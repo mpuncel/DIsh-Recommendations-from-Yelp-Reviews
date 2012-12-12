@@ -1,5 +1,0 @@
-My_PRP$ two_CD staples_NNS :_: chicken_NN fettuccine_NN and_CC pesto\/ricotta_NN calzone_NN ._.
-This_DT is_VBZ Italian_JJ fare_NN for_IN il_NN populo_NN -LRB-_-LRB- the_DT people_NNS -RRB-_-RRB- !_.
-You_PRP can_MD get_VB most_RBS entrees_VBZ for_IN about_RB $_$ 7_CD ._.
-Good_JJ luck_NN trying_VBG to_TO find_VB a_DT place_NN to_TO sit_VB inside_IN or_CC outside_IN in_IN the_DT courtyard_NN during_IN lunchtime_NN or_CC dinner_NN time_NN ._.
-Anytime_RB I_PRP pay_VBP more_JJR than_IN $_$ 2_CD -_: for_IN italian_JJ food_NN I_PRP compare_VBP it_PRP to_TO the_DT well-priced_JJ food_NN at_IN Gypsy_NNP 's_POS and_CC think_VB about_IN how_WRB I_PRP 'm_VBP getting_VBG ripped_VBD off_RP ._.

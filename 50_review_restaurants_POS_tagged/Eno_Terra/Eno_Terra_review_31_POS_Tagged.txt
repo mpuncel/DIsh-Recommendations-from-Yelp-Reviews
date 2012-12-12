@@ -1,6 +1,0 @@
-This_DT place_NN blows_NNS ._.
-The_DT least_JJS extensive_JJ menu_NN I_PRP have_VBP ever_RB seen_VBN ._.
-Over_IN priced_VBN ._.
-No_DT pizza_NN ,_, no_DT burgers_NNS ,_, no_DT spaghetti_NNS ._.
-This_DT place_NN has_VBZ clean_JJ restrooms_NNS ._.
-Good_JJ place_NN to_TO do_VB a_DT ``_`` dump_NN and_CC run_NN ._. ''_''

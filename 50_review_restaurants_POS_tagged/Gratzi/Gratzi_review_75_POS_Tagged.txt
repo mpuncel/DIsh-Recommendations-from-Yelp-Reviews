@@ -1,2 +1,0 @@
-Food_NNP 4\/5_CD ,_, hostess_NN '_'' who_WP seat_NN you_PRP are_VBP very_RB rude_JJ and_CC unaccomodating_JJ which_WDT detracts_VBZ from_IN the_DT overall_JJ dining_NN experience_NN ,_, unfortunately_RB waitstaff_NN is_VBZ hit_VBN and_CC miss_VBP ._.
-They_PRP need_VBP to_TO make_VB an_DT effort_NN to_TO make_VB the_DT service_NN end_NN of_IN the_DT experience_NN match_NN the_DT food_NN ._.

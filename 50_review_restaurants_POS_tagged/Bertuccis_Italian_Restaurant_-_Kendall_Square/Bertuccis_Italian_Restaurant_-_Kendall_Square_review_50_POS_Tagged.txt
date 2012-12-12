@@ -1,4 +1,0 @@
-I_PRP love_VBP bertucci_NN 's_POS ._.
-This_DT location_NN is_VBZ big_JJ with_IN the_DT MIT_NNP crowd_NN as_IN the_DT location_NN is_VBZ ideal_JJ for_IN lazy_JJ college_NN students_NNS ._.
-I_PRP love_VBP their_PRP$ pizzas_NNS -_: especially_RB the_DT simple_JJ margherita_NN pizza_NN ._.
-The_DT salad_NN and_CC fresh_JJ hot_JJ rolls_NNS -LRB-_-LRB- free_JJ with_IN lunch_NN orders_NNS I_PRP believe_VBP ,_, and_CC $_$ 2_CD extra_JJ for_IN the_DT salad_NN with_IN dinner_NN orders_NNS -RRB-_-RRB- -_: the_DT rolls_NNS are_VBP free_JJ of_IN course_NN -_: make_VB the_DT meal_NN even_RB more_RBR amazing_JJ ._.

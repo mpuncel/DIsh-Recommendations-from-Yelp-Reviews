@@ -1,5 +1,0 @@
-I_PRP want_VBP to_TO love_VB this_DT place_NN a_DT lot_NN ;_: Harlem_NNP needs_VBZ a_DT better_JJR restaurant_NN scene_NN ._.
-Comments_NNS others_NNS have_VBP made_VBN on_IN the_DT pizza_NN are_VBP true_JJ -LRB-_-LRB- thin_JJ crust_NN ,_, soggy_JJ middle_NN ,_, small_JJ compared_VBN to_TO the_DT price_NN ,_, good_JJ toppings_NNS -RRB-_-RRB- ,_, and_CC although_IN I_PRP think_VBP the_DT pizzas_NNS overall_JJ rate_NN high_JJ -LRB-_-LRB- for_IN thin-crust_NN -RRB-_-RRB- ,_, they_PRP are_VBP way_RB too_RB expensive_JJ ._.
-The_DT salad_NN we_PRP had_VBD was_VBD excellent_JJ though_IN simple_JJ ;_: light_JJ dressing_VBG with_IN flavourful_JJ greens_NNS ._.
-Service_NNP was_VBD very_RB good_JJ -LRB-_-LRB- we_PRP were_VBD in_IN late_JJ on_IN a_DT Sunday_NNP night_NN -RRB-_-RRB- ,_, and_CC the_DT decor_NN --_: although_IN sparse_JJ --_: seems_VBZ right_JJ for_IN the_DT neighborhood_NN ._.
-Hopefully_RB the_DT owners_NNS will_MD up_RB the_DT value_NN quotient_NN ._.

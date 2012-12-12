@@ -1,2 +1,0 @@
-la_DT comida_NN esta_NN grandiosa_NN ,_, buen_NN lugar_NN para_NN comer_NN pasta_NN ._.
-siempre_RB como_FW la_FW especial_FW ,_, por_NN que_NN todos_NNS esta_VBP bueno_NN ,_, loi_FW mejor_FW es_FW el_FW pan_VB !_.

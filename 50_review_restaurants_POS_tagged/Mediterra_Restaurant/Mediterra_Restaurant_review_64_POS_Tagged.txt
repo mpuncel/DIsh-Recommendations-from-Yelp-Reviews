@@ -1,8 +1,0 @@
-NYC_NNP lounge_NN vibe_NN with_IN NYC_NNP prices_NNS ._.
-The_DT sangria_NN is_VBZ amazing_JJ ._.
-The_DT bar_NN has_VBZ family_NN style_NN seating_VBG which_WDT is_VBZ slightly_RB odd_JJ and_CC offers_VBZ the_DT tapas_NNS menu_NN ._.
-The_DT tuna_NN ceviche_NN was_VBD great-very_JJ fresh_JJ ._.
-Since_IN it_PRP is_VBZ tapas_NNS ,_, portions_NNS are_VBP ,_, of_IN course_NN ,_, small_JJ ._.
-The_DT tuna_NN ceviche_NN came_VBD with_IN 2_CD pieces_NNS for_IN $_$ 6_CD ._.
-The_DT salumi_NN was_VBD delicious_JJ and_CC complemented_JJ our_PRP$ sangrias_NNS nicely_RB ._.
-Everything_NN off_IN the_DT tapas_NNS menu_NN tasted_VBD great_JJ ._.

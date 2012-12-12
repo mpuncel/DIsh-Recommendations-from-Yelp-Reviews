@@ -1,8 +1,0 @@
-Came_NNP here_RB on_IN St._NNP Patty_NNP 's_POS Day_NNP ._.
-The_DT place_NN is_VBZ really_RB big_JJ and_CC plenty_NN of_IN seating_NN ._.
-The_DT tables_NNS are_VBP bolted_VBN in_IN so_RB do_VBP n't_RB expect_VB to_TO push_VB a_DT couple_NN tables_NNS together_RB if_IN you_PRP have_VBP a_DT big_JJ group_NN ._.
-The_DT security_NN did_VBD a_DT pretty_RB good_JJ job_NN and_CC so_RB did_VBD all_PDT the_DT other_JJ workers_NNS ._.
-We_PRP ordered_VBD constant_JJ buzzes_VBZ and_CC green_JJ sangria_NN ._.
-I_PRP though_IN the_DT constant_JJ buzz_NN was_VBD so_RB delicious_JJ ._.
-The_DT green_JJ sangria_NN not_RB so_RB much_JJ ._.
-I_PRP would_MD n't_RB mind_VB coming_VBG back_RB on_IN a_DT day_NN where_WRB it_PRP is_VBZ n't_RB so_RB crowded_JJ ._.

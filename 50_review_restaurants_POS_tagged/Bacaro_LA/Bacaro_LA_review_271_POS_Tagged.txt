@@ -1,7 +1,0 @@
-This_DT is_VBZ my_PRP$ second_JJ time_NN back_RB here_RB and_CC it_PRP is_VBZ my_PRP$ favorite_JJ place_NN in_IN the_DT area_NN ._.
-Being_VBG a_DT student_NN at_IN USC_NNP ,_, this_DT is_VBZ the_DT perfect_JJ place_NN for_IN me_PRP to_TO kick_VB back_RP with_IN my_PRP$ friends_NNS ,_, have_VBP wine_NN and_CC great_JJ food_NN at_IN great_JJ prices_NNS ._.
-Quality_NNP of_IN food_NN ,_, service_NN ,_, ambience_NN is_VBZ superb_JJ ._.
--_: Ambience_NN is_VBZ great_JJ -_: Fabulous_NNP wines_NNS -_: small_JJ plates_NNS so_IN you_PRP can_MD order_VB a_DT lot_NN to_TO try_VB and_CC share_VB with_IN your_PRP$ friends_NNS I_PRP had_VBD :_: -_: bacaro_NN burger_NN :_: good_JJ meat_NN ,_, I_PRP like_VBP it_PRP with_IN the_DT fried_JJ egg_NN on_IN top_NN -_: pork_NN belly_RB skewers_VBZ :_: unreal_JJ ,_, but_CC I_PRP love_VBP pork_NN belly_RB so_RB its_PRP$ hard_JJ to_TO go_VB wrong_JJ for_IN me_PRP ._.
-Some_DT of_IN the_DT skewers_NNS were_VBD a_DT little_JJ overcooked_JJ -_: beets_NNS -_: cauliflower_NN :_: this_DT was_VBD my_PRP$ FAVORITE_NN !_.
-A_DT must_MD try_VB !_.
-Their_PRP$ house_NN sauce_NN is_VBZ to_TO DIE_VB for_IN !!_CD They_PRP bottle_VBP it_PRP up_RP now_RB and_CC sell_VB it_PRP there_RB ,_, Im_NNP going_VBG home_NN with_IN a_DT ton_NN of_IN it_PRP !!_SYM -_: did_VBD n't_RB try_VB any_DT deserts_NNS because_IN we_PRP were_VBD so_RB full_JJ ,_, but_CC the_DT desert_NN menu_NN looked_VBD amazing_JJ as_RB well_RB ._.

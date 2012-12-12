@@ -1,3 +1,0 @@
-The_DT food_NN is_VBZ good_JJ ,_, but_CC really_RB pricey_JJ -LRB-_-LRB- and_CC I_PRP am_VBP comparing_VBG to_TO SF_NNP standards_NNS !_. -RRB-_-RRB-
-,_, and_CC the_DT first_JJ -LRB-_-LRB- and_CC last_JJ -RRB-_-RRB- time_NN I_PRP went_VBD there_RB ,_, the_DT service_NN really_RB sucked_VBN ._.
-Bleh_NNP ._.

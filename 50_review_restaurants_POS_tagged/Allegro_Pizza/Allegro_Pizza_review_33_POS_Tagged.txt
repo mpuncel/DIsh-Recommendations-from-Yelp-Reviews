@@ -1,6 +1,0 @@
-Every_DT time_NN I_PRP come_VBP ,_, I_PRP think_VBP ,_, oh_UH wow_VB their_PRP$ pizza_NN is_VBZ better_JJR than_IN I_PRP remember_VBP !!_CD I_PRP guess_VBP my_PRP$ memory_NN sucks_VBZ ,_, or_CC have_VB low_JJ expectations_NNS every_DT time_NN ,_, but_CC mmm_NN favorites_NNS are_VBP their_PRP$ allegro_NN white_JJ -LRB-_-LRB- spinach_NN ,_, ricotta_NN ,_, tomatoes_NNS -RRB-_-RRB- ,_, buffalo_NN chicken_NN ,_, &_CC primavera_NN -LRB-_-LRB- broccoli_NNS ,_, spinach_NN ,_, tomatoes_NNS ,_, garlic_JJ sauce_NN mozzarella_NN -RRB-_-RRB- ._.
-Then_RB there_EX 's_VBZ their_PRP$ chicken_NN finger_NN platter_NN ,_, which_WDT is_VBZ super_JJ filling_VBG and_CC such_PDT a_DT treat_NN -LRB-_-LRB- get_VB the_DT honey_NN mustard_NN sauce_NN -RRB-_-RRB- !_.
-Good_JJ fries_NNS when_WRB they_PRP 're_VBP fresh_JJ too_RB ._.
-Large_JJ beer_NN selection_NN ,_, they_PRP can_MD card_NN pretty_RB hard_RB though_IN and_CC they_PRP 'll_MD take_VB your_PRP$ fake_NN ._.
-Filled_VBN with_IN drunk_JJ kids_NNS Thu-Sat_NNP night_NN and_CC well_RB maybe_RB even_RB Wed_VBD night_NN ._.
-Open_NNP late_RB Fri_NNP &_CC Sat_NNP ,_, which_WDT is_VBZ smart_JJ and_CC awesome_JJ for_IN everyone_NN involved_VBN ._.

@@ -1,8 +1,0 @@
-There_EX 's_VBZ no_DT doubt_NN that_IN the_DT pizza_NN here_RB is_VBZ tasty_JJ ,_, because_IN it_PRP is_VBZ ._.
-The_DT problem_NN is_VBZ that_IN I_PRP find_VBP it_PRP a_DT bit_NN overpriced_JJ ._.
-You_PRP basically_RB pay_VBP a_DT lot_NN more_JJR to_TO get_VB a_DT pizza_NN that_WDT tastes_VBZ just_RB a_DT bit_RB better_JJR than_IN if_IN you_PRP were_VBD to_TO order_VB out_RP ._.
-The_DT portions_NNS are_VBP smaller_JJR than_IN I_PRP would_MD have_VB liked_VBN as_RB well_RB ._.
-Is_VBZ it_PRP tasty_JJ ?_.
-Yes_UH Is_VBZ it_PRP worth_IN it_PRP ?_.
-Not_RB so_RB much_JJ I_PRP 've_VBP ordered_VBN cheese_NN bread_NN and_CC chicken_NN tenders_NNS as_RB well_RB ._.
-Neither_DT of_IN which_WDT are_VBP too_RB special_JJ ._.

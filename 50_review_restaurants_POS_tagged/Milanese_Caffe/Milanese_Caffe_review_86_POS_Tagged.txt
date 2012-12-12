@@ -1,4 +1,0 @@
-Pretty_NNP similar_JJ to_TO Gypsies_NNP but_CC I_PRP would_MD say_VB this_DT place_NN is_VBZ really_RB hit_VBN or_CC miss_VBP ._.
-Some_DT dishes_NNS look_VBP fantastic_JJ while_IN others_NNS seem_VBP like_IN very_RB basic_JJ plates_NNS a_DT drunk_JJ college_NN kid_NN can_MD make_VB ._.
-My_PRP$ seafood_NN plate_NN was_VBD pretty_RB good_JJ ._.
-Would_MD prefer_VB Gypsies_NNP given_VBN the_DT Calzone_NNP factor_NN but_CC MC_NNP is_VBZ not_RB bad_JJ for_IN a_DT college_NN eatery_NN ._.

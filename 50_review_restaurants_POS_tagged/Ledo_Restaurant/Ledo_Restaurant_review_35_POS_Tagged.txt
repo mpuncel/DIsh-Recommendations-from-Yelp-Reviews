@@ -1,9 +1,0 @@
-The_DT medium_NN ,_, bacon_NN ,_, jalapeño_NN pepper_NN and_CC black_JJ olive_JJ pizza_NN looked_VBD soooo_JJ promising_JJ --_: smothered_VBD in_IN bacon_NN ._.
-I_PRP thought_VBD it_PRP was_VBD going_VBG to_TO a_DT bacon-fest_JJ --_: unfortunately_RB the_DT bacon_NN was_VBD dry_JJ and_CC all_PDT the_DT savory_NN flavor_NN that_WDT should_MD be_VB in_IN bacon_NN was_VBD non-existent_JJ ._.
-The_DT pizza_NN crust_NN was_VBD hard_JJ and_CC crumbly_RB ._.
-It_PRP is_VBZ hard_JJ to_TO believe_VB people_NNS think_VB this_DT is_VBZ good_JJ pizza_NN --_: they_PRP obviously_RB have_VBP NOT_RB tried_VBN New_NNP Haven_NNP or_CC Chicago_NNP pizza_NN !_.
-I_PRP had_VBD a_DT Caesar_NNP salad_NN which_WDT also_RB was_VBD lacking_VBG something_NN ._.
-The_DT spicy_NN buffalo_NN wings_NNS however_RB were_VBD 4_CD stars_NNS ._.
-The_DT sauce_NN was_VBD rich_JJ ,_, spicy_NN and_CC meat_NN tender_NN ,_, and_CC the_DT only_JJ reason_NN I_PRP would_MD go_VB back_RB would_MD be_VB for_IN the_DT wings_NNS ._.
-The_DT fast_JJ and_CC prompt_JJ service_NN brought_VBD up_RP the_DT star_NN count_NN to_TO 3_CD ._.
-The_DT service_NN was_VBD impressive_JJ given_VBN that_IN I_PRP was_VBD part_NN of_IN a_DT party_NN of_IN over_IN 20_CD people_NNS during_IN the_DT dinner_NN rush_NN hour_NN and_CC I_PRP was_VBD able_JJ to_TO get_VB my_PRP$ food_NN within_IN 10_CD minutes_NNS after_IN it_PRP was_VBD ordered_VBN ._.

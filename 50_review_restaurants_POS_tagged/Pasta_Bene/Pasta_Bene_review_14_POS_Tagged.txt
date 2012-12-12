@@ -1,6 +1,0 @@
-Pasta_NN Bene_NNP is_VBZ a_DT nice_JJ little_JJ retreat_NN away_RB from_IN the_DT craziness_NN of_IN Telegraph_NNP Ave._NNP The_DT prices_NNS are_VBP great_JJ and_CC the_DT food_NN is_VBZ delicious_JJ ._.
-Family_NNP owned_VBD restaurant_NN ._.
-They_PRP care_VBP about_IN the_DT quality_NN of_IN their_PRP$ food_NN and_CC are_VBP very_RB sweet_JJ ._.
-Definitely_RB give_VB it_PRP a_DT try_NN !_.
-I_PRP found_VBD it_PRP on_IN Yelp_NNP and_CC am_VBP now_RB spreading_VBG the_DT word_NN ._.
-:_: -_: -RRB-_-RRB-

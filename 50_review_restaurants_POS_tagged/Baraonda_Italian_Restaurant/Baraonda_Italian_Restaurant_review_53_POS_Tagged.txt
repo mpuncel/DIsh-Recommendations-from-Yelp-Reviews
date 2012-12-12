@@ -1,2 +1,0 @@
-Great_NNP atmosphere_NN and_CC wine_NN selection_NN ._.
-Loved_VBD the_DT pizza_NN !_.

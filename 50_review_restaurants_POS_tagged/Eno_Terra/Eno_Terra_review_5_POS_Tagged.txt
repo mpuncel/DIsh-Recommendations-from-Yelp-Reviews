@@ -1,5 +1,0 @@
-Food_NNP is_VBZ good_JJ ,_, different_JJ and_CC fresh_JJ ._.
-The_DT best_JJS thing_NN I_PRP liked_VBD about_IN this_DT place_NN is_VBZ friendliness_NN ,_, Courtesy_NNP and_CC the_DT ambiance_NN ._.
-The_DT dessert_NN list_NN is_VBZ different_JJ and_CC quite_RB tempting_JJ ._.
-The_DT only_JJ neutral_JJ side_NN is_VBZ that_IN price_NN is_VBZ towards_IN higher_JJR side_NN with_IN respect_NN to_TO the_DT food_NN variety_NN and_CC choices_NNS of_IN dish_NN ._.
-Overall_RB ,_, I_PRP loved_VBD the_DT dinner_NN and_CC would_MD recommend_VB if_IN you_PRP are_VBP looking_VBG for_IN a_DT peaceful_JJ and_CC light_JJ environment_NN and_CC ready_JJ to_TO spend_VB little_RB more_JJR than_IN expected_VBN ._.

@@ -1,5 +1,0 @@
-Pretty_NNP much_RB where_WRB I_PRP go_VBP when_WRB I_PRP have_VBP those_DT carb_JJ cravings_NNS and_CC want_VB some_DT delicious_JJ ,_, unhealthy_JJ ,_, Italian_JJ food_NN ._.
-I_PRP used_VBD to_TO be_VB addicted_VBN to_TO the_DT Pollo_NNP con_NN Pesto_NNP but_CC I_PRP 've_VBP moved_VBN on_IN to_TO their_PRP$ Chicken_NNP Gnocci_NNP ._.
-I_PRP came_VBD here_RB every_DT week_NN with_IN my_PRP$ roommate_NN to_TO get_VB pizza_NN over_IN the_DT summer_NN -LRB-_-LRB- they_PRP make_VBP it_PRP pretty_RB similar_JJ to_TO the_DT real_JJ Italian_JJ pizza_NN in_IN Naples_NNP in_IN my_PRP$ opinion_NN -RRB-_-RRB- but_CC I_PRP 've_VBP had_VBD it_PRP a_DT few_JJ times_NNS recently_RB and_CC it_PRP 's_VBZ just_RB not_RB as_IN good_JJ as_IN it_PRP was_VBD then_RB ._.
-Maybe_RB they_PRP changed_VBD ingredients_NNS ?_.
-:_: -LRB-_-LRB-

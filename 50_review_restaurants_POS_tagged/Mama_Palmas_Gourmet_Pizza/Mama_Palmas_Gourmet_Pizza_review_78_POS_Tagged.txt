@@ -1,6 +1,0 @@
-On_IN the_DT weekends_NNS ,_, this_DT restaurant_NN can_MD get_VB crowded_VBN pretty_RB quickly_RB ._.
-They_PRP do_VBP n't_RB take_VB reservations_NNS so_IN it_PRP 's_VBZ best_JJS to_TO arrive_VB early_RB ._.
-They_PRP wo_MD n't_RB seat_NN until_IN your_PRP$ entire_JJ party_NN is_VBZ present_JJ ._.
-The_DT restaurant_NN does_VBZ serve_VB beer_NN ,_, but_CC you_PRP can_MD bring_VB your_PRP$ own_JJ wine_NN ._.
-The_DT pizza_NN is_VBZ delicious_JJ and_CC made_VBD quickly_RB ._.
-They_PRP only_RB accept_VB cash_NN as_IN a_DT form_NN of_IN payment_NN ._.

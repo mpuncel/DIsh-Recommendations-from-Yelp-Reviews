@@ -1,6 +1,0 @@
-This_DT restaurant_NN was_VBD great_JJ ._.
-Went_VBD here_RB with_IN a_DT group_NN and_CC everyone_NN loved_VBD their_PRP$ food_NN !_.
-I_PRP am_VBP very_RB picky_JJ about_IN giving_VBG a_DT 5_CD ,_, so_RB that_IN 's_VBZ why_WRB it_PRP gets_VBZ a_DT 4_CD ._.
-The_DT $_$ 24_CD pinot_NN grigio_NN is_VBZ a_DT great_JJ wine_NN ._.
-Also_RB try_VB the_DT salmon_NN and_CC polenta_NN !_.
-The_DT people_NNS at_IN the_DT next_JJ table_NN said_VBD it_PRP was_VBD their_PRP$ neighborhood_NN fave_SYM -_: I_PRP can_MD see_VB why_WRB !_.

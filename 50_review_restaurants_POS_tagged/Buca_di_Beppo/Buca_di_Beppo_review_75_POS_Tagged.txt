@@ -1,5 +1,0 @@
-excellent_JJ food_NN ,_, large_JJ portions_NNS ,_, great_JJ value_NN ._.
-great_JJ quality_NN Italian_JJ food_NN at_IN great_JJ prices_NNS ._.
-the_DT service_NN is_VBZ wonderful_JJ ._.
-one_CD of_IN my_PRP$ favorite_JJ pizza_NN places_NNS ._.
-i_FW was_VBD a_DT regular_JJ here_RB for_IN years_NNS and_CC i_FW was_VBD never_RB disappointed_VBN ._.

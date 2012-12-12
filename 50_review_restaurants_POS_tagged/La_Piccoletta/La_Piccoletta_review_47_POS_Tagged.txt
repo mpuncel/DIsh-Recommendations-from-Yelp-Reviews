@@ -1,4 +1,0 @@
-Small_JJ ._.
-Quaint_NNP ._.
-You_PRP might_MD think_VB you_PRP accidentally_RB walked_VBD in_IN the_DT back_JJ door_NN ,_, no_DT you_PRP did_VBD n't_RB ._.
-A_DT good_JJ place_NN for_IN something_NN out_IN of_IN the_DT ordinary_JJ ._.

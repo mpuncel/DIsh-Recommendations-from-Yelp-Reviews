@@ -1,5 +1,0 @@
-Fun_NN ,_, straight_JJ forward_RB ,_, relaxed_VBD ,_, friendly_JJ ,_, GREAT_JJ FOOD_NN !_.
-I_PRP loved_VBD the_DT selection_NN and_CC the_DT presentation_NN ._.
-Live_JJ jazz_NN outside_NN and_CC great_JJ cozy_JJ atmosphere_NN inside_IN ._.
-Wonderful_JJ service_NN ._.
-Ca_MD n't_RB wait_VB to_TO go_VB back_RB !_.

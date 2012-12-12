@@ -1,4 +1,0 @@
-I_PRP 'm_VBP hands_NNS down_IN a_DT fan_NN of_IN Terra_NNP Momo_NNP restaurant_NN group_NN ._.
-It_PRP makes_VBZ a_DT play_NN on_IN natural_JJ flavors_NNS without_IN lacking_VBG in_IN taste_NN ._.
-Staff_NNP is_VBZ well-versed_JJ in_IN food-speak_NN ,_, I_PRP often_RB ca_MD n't_RB make_VB out_RP what_WP they_PRP are_VBP saying_VBG ,_, but_CC it_PRP sounds_VBZ good_JJ !_.
-And_CC of_IN course_NN food_NN is_VBZ better_JJR when_WRB it_PRP champions_NNS a_DT cause_NN :_: Eno_NNP Terra_NNP supports_VBZ local_JJ businesses_NNS and_CC farms_NNS ,_, as_RB well_RB employing_VBG residents_NNS ._.

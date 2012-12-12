@@ -1,4 +1,0 @@
-Good_JJ selection_NN of_IN toppings_NNS ._.
-Decent_JJ pizza_NN ._.
-TOO_RB EXPENSIVE_JJ and_CC too_RB crowded_VBN ._.
-Enzo_NNP 's_POS is_VBZ still_RB the_DT best_JJS ._.

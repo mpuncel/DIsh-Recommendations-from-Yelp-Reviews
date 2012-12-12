@@ -1,5 +1,0 @@
-this_DT is_VBZ my_PRP$ favorite_JJ restaurant_NN in_IN my_PRP$ hometown_NN ._.
-perfectly_RB consistent_JJ ,_, perfectly_RB ambianced_JJ ,_, i_FW just_RB love_VB this_DT place_NN ._.
-i_FW get_VB homesick_NN for_IN it_PRP all_PDT the_DT time_NN ._.
-also_RB ,_, i_FW only_RB ever_RB order_NN one_CD thing_NN there_RB :_: penne_VB al_JJ telefono_NN ._.
-get_VB that_DT ,_, and_CC you_PRP wo_MD n't_RB be_VB disappointed_VBN ,_, ever_RB ._.

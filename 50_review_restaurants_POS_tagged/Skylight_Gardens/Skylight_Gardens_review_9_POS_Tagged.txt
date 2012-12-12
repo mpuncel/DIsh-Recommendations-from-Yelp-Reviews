@@ -1,5 +1,0 @@
-Great_JJ service_NN ._.
-Delicious_NNP food_NN ._.
-Homemade_NNP pasta_NN ._.
-Nice_JJ wine_NN selection_NN ._.
-Highly_NNP recommend_VB ._.

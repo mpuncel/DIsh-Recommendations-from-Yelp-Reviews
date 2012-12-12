@@ -1,4 +1,0 @@
-Love_NNP their_PRP$ specials_NNS ._.
-Accepts_VBZ credit_NN ._.
-Large_JJ portions_NNS ,_, served_VBD with_IN bread_NN and_CC garlic_NN ._.
-Do_VBP n't_RB order_VB when_WRB it_PRP 's_VBZ busy_JJ --_: long_JJ wait_NN and_CC the_DT quality_NN of_IN the_DT food_NN could_MD be_VB bad_JJ -LRB-_-LRB- not_RB flavorful_JJ and_CC overcooked_JJ pasta_NN -RRB-_-RRB- ._.

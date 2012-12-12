@@ -1,8 +1,0 @@
-Came_NNP to_TO the_DT place_NN for_IN lunch_NN with_IN a_DT friend_NN ,_, and_CC we_PRP got_VBD seated_VBN promptly_RB around_IN 12:40_CD ._.
-For_IN appetizer_NN we_PRP had_VBD Antipasto_NNP Misto_NNP ,_, with_IN a_DT nice_JJ variety_NN of_IN olives_NNS ,_, Salame_NNP ,_, prosciutto_NN ,_, cheese_NN ,_, and_CC jam_NN ._.
-The_DT portion_NN was_VBD bigger_JJR than_IN we_PRP expected_VBD ,_, so_IN we_PRP were_VBD almost_RB full_JJ after_IN eating_VBG this_DT platter_NN ._.
-For_IN entrees_NNS we_PRP shared_VBD two_CD pizzas_NNS :_: Fico_NNP -LRB-_-LRB- ricotta_NN ,_, calimyrna_NN fig_NN marmalade_NN ,_, organic_JJ smoked_JJ bacon_NN ,_, brie_NN -RRB-_-RRB- ,_, and_CC Chorizo_NNP -LRB-_-LRB- ground_NN plum_NN tomatoes_NNS ,_, organic_JJ brown_JJ egg_NN ,_, bell_NN peppers_NNS ,_, smoked_VBD mozzarella_NN -RRB-_-RRB- ._.
-The_DT two_CD pizzas_NNS actually_RB go_VBP very_RB well_RB together_RB ._.
-Chorizo_NNP is_VBZ strong_JJ ,_, smoky_JJ in_IN taste_NN and_CC juicy_NN in_IN texture_NN ._.
-Fico_NNP is_VBZ a_DT bit_NN sweet_JJ ,_, so_IN you_PRP do_VBP n't_RB get_VB bored_VBN eating_VBG just_RB one_CD kind_NN of_IN pizza_NN ._.
-We_PRP were_VBD too_RB full_JJ to_TO have_VB dessert_NN ,_, so_IN we_PRP will_MD leave_VB that_DT to_TO next_JJ time_NN :_: chocolate_NN hazelnut_NN pizza_NN ._. ._.

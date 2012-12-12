@@ -1,6 +1,0 @@
-An_DT old_JJ school_NN pizzeria_NN joint_NN that_WDT has_VBZ organic_JJ whole_JJ wheat_NN dough_JJ options_NNS ?_.
-``_`` WTF_NNP ?_. ''_''
-you_PRP say_VBP ._.
-And_CC it_PRP 's_VBZ not_RB just_RB healthy_JJ but_CC tastes_VBZ good_JJ too_RB ._.
-Not_RB too_RB many_JJ tables_NNS but_CC you_PRP can_MD bring_VB a_DT bottle_NN of_IN wine_NN so_IN it_PRP 's_VBZ a_DT great_JJ place_NN to_TO order_NN in_IN ._.
-The_DT salads_NNS are_VBP gigantic_JJ -LRB-_-LRB- in_IN a_DT will_MD ruin_VB your_PRP$ appetite_NN if_IN you_PRP order_VBP it_PRP as_IN an_DT appetizer_NN before_IN the_DT pizza_NN kind_NN of_IN way_NN -RRB-_-RRB- ._.

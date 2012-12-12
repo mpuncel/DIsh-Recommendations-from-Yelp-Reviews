@@ -1,6 +1,0 @@
-This_DT time_NN around_IN for_IN RW_NNP =_SYM just_RB as_IN lovely_JJ as_IN the_DT last_JJ time_NN ._.
-The_DT corn_NN chowder_NN with_IN crab_NN was_VBD divine_JJ ,_, the_DT grilled_JJ bluefish_NN was_VBD cooked_VBN to_TO perfection_NN ,_, and_CC the_DT cinnamon_NN popover_NN was_VBD seasonal_JJ and_CC tasty_JJ ._.
-Our_PRP$ waiter_NN was_VBD wonderful_JJ ,_, we_PRP had_VBD none_NN of_IN the_DT service_NN issues_NNS described_VBN in_IN recent_JJ Yelp_NNP reviews_NNS ,_, and_CC the_DT overall_JJ meal_NN was_VBD an_DT excellent_JJ experience_NN like_IN I_PRP 've_VBP come_VBN to_TO expect_VB from_IN Rialto_NNP ._.
-This_DT place_NN has_VBZ officially_RB made_VBN it_PRP to_TO my_PRP$ `_`` perfect_JJ expensive-but-worth-it_NN restaurants_NNS for_IN special_JJ occasions_NNS '_POS list_NN ,_, and_CC I_PRP will_MD definitely_RB keep_VB coming_VBG back_RB for_IN more_JJR ._.
--LRB-_-LRB- Note_NN :_: it_PRP was_VBD pretty_RB cold_JJ in_IN there_EX -_: thanks_NNS Yelpers_NNP for_IN the_DT heads_NNS up_IN !_.
--_: so_RB bring_VB a_DT sweater_NN ._. -RRB-_-RRB-

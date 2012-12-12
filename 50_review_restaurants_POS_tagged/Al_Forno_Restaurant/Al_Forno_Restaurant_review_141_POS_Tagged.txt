@@ -1,6 +1,0 @@
-Incredible_JJ food_NN and_CC an_DT extensive_JJ ,_, but_CC reasonable_JJ ,_, wine_NN list_NN ._.
-The_DT service_NN was_VBD spotty_JJ -_: Mark_NNP ,_, the_DT host_NN ,_, had_VBD a_DT major_JJ attitude_NN ,_, but_CC everyone_NN else_RB was_VBD great_JJ ._.
-Downstairs_NNP is_VBZ casual_JJ ,_, upstairs_NN is_VBZ more_RBR formal_JJ ._.
-No_DT reservations_NNS ._.
-Overall_RB ,_, very_RB reasonable_JJ ._.
-The_DT desserts_NNS are_VBP incredible_JJ but_CC have_VBP to_TO be_VB ordered_VBN with_IN dinner_NN since_IN everything_NN is_VBZ made_VBN to_TO order_NN and_CC extremely_RB fresh_JJ ._.

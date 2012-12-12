@@ -1,8 +1,0 @@
-We_PRP had_VBD the_DT pumpkin_NN ravioli_NNS -_: mousee_NN like_IN interior_JJ ,_, sprinkled_VBN with_IN walnuts_NNS ._.
-Sweet_NNP ,_, almost_RB like_IN dessert_NN ._.
-Four_CD came_VBD per_IN order_NN ,_, but_CC also_RB came_VBD with_IN soup\/salad_NN and_CC a_DT loaf_NN of_IN garlic_JJ bread_NN smeared_VBN with_IN marina_NN sauce_NN and_CC pesto_NN on_IN the_DT side_NN ._.
-Also_RB had_VBD the_DT sausage_NN pizza_NN ,_, piled_VBN high_JJ with_IN red_JJ roasted_JJ peppers_NNS and_CC roasted_JJ garlic_NN ._.
-Delicious_NNP ._.
-Crust_NN was_VBD a_DT bit_NN doughy_NN ._.
-Large_JJ selection_NN of_IN wines_NNS by_IN the_DT glass_NN ._.
-Though_IN the_DT peppy_JJ extensive_JJ definitions_NNS of_IN Merlot_NNP ,_, Syrah_NNP screamed_VBD ``_`` aimed_VBN toward_IN novice_NN wine_NN drinker_NN ''_''

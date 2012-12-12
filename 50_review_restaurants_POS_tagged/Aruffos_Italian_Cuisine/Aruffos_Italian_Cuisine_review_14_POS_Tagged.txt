@@ -1,8 +1,0 @@
-I_PRP give_VBP this_DT place_NN a_DT four_CD star_NN based_VBN on_IN service_NN and_CC food_NN ._.
-I_PRP think_VBP this_DT place_NN serves_VBZ basic_JJ ,_, simple_JJ Italian_JJ cuisines_NNS ._.
-One_CD of_IN the_DT reasons_NNS why_WRB I_PRP think_VBP their_PRP$ service_NN is_VBZ so_RB good_JJ is_VBZ because_IN this_DT place_NN has_VBZ never_RB been_VBN crowded_VBN ,_, or_CC had_VBD more_JJR than_IN two_CD or_CC three_CD other_JJ tables_NNS full_JJ when_WRB I_PRP 've_VBP visited_VBN the_DT restaurant_NN ._.
-I_PRP 've_VBP always_RB received_VBN reliable_JJ food_NN and_CC service_NN here_RB when_WRB I_PRP come_VBP here_RB ._.
-I_PRP just_RB wished_VBD it_PRP was_VBD a_DT bit_NN more_RBR busy_JJ ,_, because_IN sometimes_RB I_PRP feel_VBP like_IN it_PRP 's_VBZ a_DT little_JJ empty_JJ and_CC maybe_RB there_EX 's_VBZ a_DT reason_NN for_IN it_PRP ._.
-But_CC I_PRP have_VBP n't_RB figured_VBN that_IN out_RB ,_, yet_RB ._.
-I_PRP think_VBP it_PRP 's_VBZ simple_JJ ,_, tasty_JJ ,_, fresh_JJ Italian_JJ food_NN ._.
-No_DT complaints_NNS ._.

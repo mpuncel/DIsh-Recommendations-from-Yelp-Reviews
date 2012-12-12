@@ -1,6 +1,0 @@
-I_PRP could_MD give_VB this_DT restaurant_NN 5_CD stars_NNS if_IN their_PRP$ service_NN was_VBD decent_JJ ._.
-We_PRP waited_VBD 20_CD minutes_NNS until_IN our_PRP$ waitress_NN came_VBD to_TO our_PRP$ table_NN ._.
-I_PRP noticed_VBD that_IN our_PRP$ waitress_NN were_VBD taking_VBG care_NN of_IN more_JJR than_IN 5_CD tables_NNS ._.
-We_PRP understood_VBD that_IN she_PRP was_VBD trying_VBG her_PRP$ best_JJS ,_, but_CC we_PRP also_RB thought_VBD that_IN this_DT restaurant_NN service_NN could_MD be_VB improved_VBN by_IN simply_RB increasing_VBG the_DT number_NN of_IN waitress_NN ._.
-By_IN the_DT way_NN ,_, we_PRP waited_VBD 15_CD minutes_NNS until_IN I_PRP could_MD sip_VB my_PRP$ coffee_NN because_IN our_PRP$ waitress_NN forgot_VBD we_PRP ordered_VBD coffee_NN ._.
-Lastly_RB ,_, our_PRP$ waitress_NN did_VBD n't_RB bother_VB to_TO ask_VB me_PRP a_DT refil_NN for_IN coffee_NN ..._:

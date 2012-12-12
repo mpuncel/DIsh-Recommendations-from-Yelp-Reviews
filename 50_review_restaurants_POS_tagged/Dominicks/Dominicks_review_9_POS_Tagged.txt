@@ -1,6 +1,0 @@
-the_DT summers_NNS in_IN ann_NN arbor_NN are_VBP oppressively_RB hot_JJ ._.
-and_CC so_RB humid_JJ the_DT air_NN feels_VBZ like_IN a_DT blanket_NN suffocating_VBG you_PRP with_IN stale_JJ sweat_NN ._.
-i_FW spent_VBD one_CD summer_NN sitting_VBG next_JJ to_TO a_DT fan_NN eating_VBG flavor_NN ice_NN all_DT day_NN and_CC pretending_VBG that_DT was_VBD air_NN conditioning_NN ._.
-but_CC when_WRB it_PRP gets_VBZ that_IN oppressive_JJ ,_, there_EX is_VBZ only_RB one_CD thing_NN you_PRP can_MD do_VB ._.
-and_CC that_DT is_VBZ drink_NN sangria_NN out_IN of_IN mason_NN jars_NNS ._.
-and_CC there_EX is_VBZ only_RB one_CD place_NN you_PRP can_MD do_VB such_PDT a_DT thing_NN ,_, and_CC that_DT is_VBZ dominick_NN 's_POS

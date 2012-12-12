@@ -1,5 +1,0 @@
-Spent_VB a_DT couple_NN of_IN hours_NNS here_RB -_: eating_NN ,_, drinking_NN ,_, watching_VBG football_NN ,_, eating_VBG ,_, and_CC more_RBR drinking_NN ._.
-Great_NNP place_NN -_: Very_RB clean_JJ -_: uppity_NN place_NN for_IN a_DT University_NNP setting_NN ._.
-Experienced_VBN the_DT Deep_NNP Dish_NNP Pizza_NNP ,_, Cap'n_NNP -_: Cokes_NNP ,_, Mudslide_NNP ,_, and_CC more_RBR Cap'n_SYM -_: Cokes_NNP ._.
-Pizza_NNP was_VBD very_RB very_RB good_JJ ._.
-Will_MD definitely_RB be_VB back_RB to_TO this_DT place_NN !_.

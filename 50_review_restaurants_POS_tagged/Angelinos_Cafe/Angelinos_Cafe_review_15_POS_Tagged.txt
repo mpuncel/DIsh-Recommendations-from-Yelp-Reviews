@@ -1,2 +1,0 @@
-it_PRP is_VBZ amazing_JJ food_NN ,_, great_JJ service_NN ._.
-I_PRP think_VBP it_PRP is_VBZ the_DT best_JJS italian_JJ cafe_NN in_IN westwood_NN ._.

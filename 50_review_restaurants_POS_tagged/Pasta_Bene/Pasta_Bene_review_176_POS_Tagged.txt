@@ -1,3 +1,0 @@
-$_$ 5_CD lunch_NN specials_NNS from_IN 11-2pm_JJ !!!_CD The_DT pasta_NN is_VBZ n't_RB even_RB drenched_VBN in_IN butter_NN and_CC oil_NN like_IN Gypsy_NNP 's_POS !_.
-And_CC the_DT decor_NN is_VBZ classy_JJ !!_NN Also_RB they_PRP have_VBP beer_NN ._.
-Definitely_RB coming_VBG back_RB ._.

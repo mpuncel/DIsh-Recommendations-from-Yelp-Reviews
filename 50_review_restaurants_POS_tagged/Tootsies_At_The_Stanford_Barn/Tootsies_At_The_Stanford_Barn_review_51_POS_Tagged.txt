@@ -1,6 +1,0 @@
-Drove_NNP 30_CD minutes_NNS each_DT way_NN to_TO check_VB out_RP this_DT place_NN based_VBN on_IN a_DT recommendation_NN from_IN a_DT friend_NN and_CC it_PRP was_VBD worth_JJ it_PRP ._.
-I_PRP had_VBD the_DT ricotta_JJ pancakes_NN and_CC a_DT latte_NN ._.
-The_DT pancakes_NNS were_VBD light_JJ ,_, fluffy_JJ and_CC delicious_JJ ._.
-The_DT fruit_NN added_VBD some_DT flavor_NN but_CC they_PRP could_MD use_VB a_DT bit_NN more_RBR flavor_NN to_TO them_PRP ._.
-The_DT latte_NN was_VBD perfect_JJ and_CC the_DT service_NN was_VBD super_JJ friendly_JJ ._.
-I_PRP definitely_RB recommend_VB this_DT place_NN ._.

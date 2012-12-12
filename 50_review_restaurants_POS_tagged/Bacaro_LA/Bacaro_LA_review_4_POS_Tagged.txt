@@ -1,1 +1,0 @@
-New_NNP Hours_NNS :_: 4-10pm_JJ Sunday-Thursday_NNP 4-11pm_JJ Friday-Saturday_NNP They_PRP are_VBP no_RB longer_RB open_VB for_IN lunch_NN :_: -_: -LRB-_-LRB- Damn_RB it_PRP ,_, i_FW need_VBP to_TO find_VB a_DT new_JJ place_NN to_TO drink_VB wine_NN during_IN lunch_NN ._.

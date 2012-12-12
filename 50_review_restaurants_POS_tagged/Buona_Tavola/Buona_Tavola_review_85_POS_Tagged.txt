@@ -1,5 +1,0 @@
-Surprise_NNP find_VB when_WRB in_IN mood_NN for_IN pasta_NN ._.
-Great_NNP place_NN with_IN amazing_JJ authentic_JJ Italian_JJ pasta_NN dishes_NNS and_CC attentive_JJ service_NN !_.
-Nice_JJ variety_NN of_IN entrees_NNS mainly_RB ranging_VBG from_IN $_$ 15_CD -_: $_$ 35_CD ._.
-Has_VBZ outdoor_JJ and_CC indoor_JJ seating_NN ,_, pasta_NN noodles_NNS from_IN scratch_NN and_CC fresh_JJ seafood_NN !_.
-Highly_NNP recommended_VBD !_.

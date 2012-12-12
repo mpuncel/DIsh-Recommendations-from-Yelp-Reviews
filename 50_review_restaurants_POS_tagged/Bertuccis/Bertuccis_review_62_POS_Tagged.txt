@@ -1,6 +1,0 @@
-I_PRP visited_VBD this_DT place_NN for_IN my_PRP$ first_JJ meal_NN -LRB-_-LRB- lunch_NN -RRB-_-RRB- in_IN Boston_NNP ,_, and_CC it_PRP was_VBD a_DT wonderful_JJ experience_NN ._.
-Loved_VBD the_DT unlimited_JJ supply_NN of_IN warm_JJ ,_, fresh_JJ bread_NN -LRB-_-LRB- dipped_VBD in_IN olive_JJ oil_NN -RRB-_-RRB- and_CC the_DT large_JJ free_JJ salad_NN ._.
-I_PRP ordered_VBD the_DT Pasta_NNP Verdure_NNP as_IN an_DT entree_FW and_CC found_VBD that_IN it_PRP tasted_VBD both_DT good_JJ and_CC interesting_JJ ._.
-My_PRP$ bro-in-law_NN 's_POS individual_JJ sized_VBN pizza_NN was_VBD the_DT same_JJ --_: an_DT interesting_JJ combination_NN of_IN toppings_NNS on_IN each_DT slice_NN according_VBG to_TO the_DT different_JJ seasons_NNS of_IN the_DT year_NN ._.
-Our_PRP$ server_NN was_VBD a_DT bit_NN slow_JJ but_CC pretty_RB courteous_JJ and_CC helpful_JJ ._.
-Definitely_RB a_DT meal_NN that_WDT gave_VBD value_NN for_IN money_NN ,_, and_CC I_PRP 'd_MD go_VB there_RB again_RB ._.

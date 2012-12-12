@@ -1,9 +1,0 @@
-I_PRP do_VBP n't_RB know_VB why_WRB I_PRP 've_VBP been_VBN here_RB so_RB many_JJ times_NNS ,_, because_IN the_DT food_NN is_VBZ the_DT definition_NN of_IN mediocre_JJ ._.
-Every_DT time_NN I_PRP come_VBP ,_, I_PRP have_VBP to_TO spend_VB 10_CD minutes_NNS staring_VBG at_IN the_DT menu_NN --_: not_RB because_IN there_EX 's_VBZ so_RB many_JJ choices_NNS ,_, but_CC because_IN NOTHING_NNP ever_RB seems_VBZ interesting_JJ ._.
-Tonight_NNP I_PRP got_VBD the_DT Pollo_NNP Vecchia_NNP Usanza_NNP --_: chicken_NN with_IN artichokes_NNS and_CC mushrooms_NNS in_IN a_DT white_JJ wine_NN sauce_NN ._.
-It_PRP came_VBD with_IN some_DT flavorless_JJ steamed_JJ vegetables_NNS ,_, a_DT random_JJ pile_NN of_IN penne_NN with_IN some_DT boring_JJ marinara_NN ,_, and_CC a_DT couple_NN of_IN buttered_JJ rolls_NNS that_WDT needed_VBD some_DT salt_NN or_CC herbs_NNS or_CC ANYTHING_NN ._.
-The_DT chicken_NN seemed_VBD old_JJ --_: gamey_NN taste_NN ,_, too_RB tough_JJ to_TO cut_VB ,_, not_RB appetizing_JJ at_IN all_DT ._.
-The_DT sauce_NN was_VBD greasy_JJ ,_, and_CC it_PRP started_VBD to_TO separate_VB as_IN I_PRP ate_VBD ._.
-The_DT artichokes_NNS were_VBD fresh_JJ ..._: from_IN the_DT can_NN ._.
-Honestly_RB ,_, I_PRP ca_MD n't_RB see_VB why_WRB anyone_NN ,_, craving_NN pasta_NN at_IN USC_NNP ,_, would_MD choose_VB Pasta_NNP Roma_NNP over_IN Viztango_NNP ._.
-There_EX 's_VBZ just_RB a_DT block_NN that_WDT separates_VBZ the_DT locations_NNS ,_, but_CC they_PRP 're_VBP miles_NNS apart_RB when_WRB it_PRP comes_VBZ to_TO food_NN quality_NN ._.

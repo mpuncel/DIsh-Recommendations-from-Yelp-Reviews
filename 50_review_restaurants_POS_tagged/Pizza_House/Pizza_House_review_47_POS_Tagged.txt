@@ -1,6 +1,0 @@
-I_PRP was_VBD here_RB with_IN a_DT large_JJ group_NN ._.
-The_DT servers_NNS were_VBD friendly_JJ ._.
-The_DT food_NN was_VBD good_JJ ._.
-The_DT place_NN is_VBZ spacious_JJ ,_, clean_JJ ,_, and_CC has_VBZ a_DT warm_JJ feeling_NN to_TO it_PRP ._.
-Without_IN asking_VBG ,_, the_DT server_NN had_VBD split_VBN our_PRP$ checks_NNS and_CC took_VBD individual_JJ payments_NNS ._.
-They_PRP seem_VBP very_RB accommodating_VBG ._.

@@ -1,1 +1,0 @@
-PESTO_NNP CALZONE_NNP IS_VBZ THE_DT BEST_NNP !!!!!!!!_CD I_PRP have_VBP n't_RB had_VBD any_DT other_JJ item_NN here_RB ,_, but_CC based_VBN on_IN the_DT pesto_JJ calzone_NN 5_CD stars_NNS !!!!!_VBP It_PRP 's_VBZ that_IN flippin_NN good_JJ !!!!!!!!!_NN

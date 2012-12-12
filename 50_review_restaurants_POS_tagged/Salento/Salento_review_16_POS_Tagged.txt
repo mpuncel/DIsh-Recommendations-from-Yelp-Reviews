@@ -1,8 +1,0 @@
-I_PRP love_VBP ,_, love_VBP ,_, love_VBP ,_, love_VBP this_DT place_NN ..._: Can_MD you_PRP tell_VB I_PRP love_VBP it_PRP haha_NN ._.
-I_PRP go_VBP here_RB all_PDT the_DT time_NN with_IN my_PRP$ friend_NN Julie_NNP ._.
-I_PRP have_VBP had_VBN almost_RB everythign_NN on_IN the_DT menu_NN and_CC I_PRP 'm_VBP never_RB disappointed_VBN ._.
-We_PRP first_RB found_VBD this_DT place_NN a_DT year_NN ago_IN during_IN resturant_JJ week_NN and_CC have_VBP been_VBN going_VBG ever_RB since_IN ._.
-The_DT atmosphere_NN is_VBZ great_JJ and_CC feels_VBZ like_IN home_NN ._.
-The_DT staff_NN is_VBZ super_JJ friendly_JJ ._.
-Its_PRP$ a_DT BYO_NNP which_WDT is_VBZ always_RB great_JJ ._.
-I_PRP highly_RB recommend_VB this_DT place_NN !_.

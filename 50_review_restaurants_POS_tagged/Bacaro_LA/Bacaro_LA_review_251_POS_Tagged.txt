@@ -1,4 +1,0 @@
-They_PRP messed_VBD up_RP the_DT orders_NNS both_DT times_NNS I_PRP was_VBD here_RB ._.
-Once_RB they_PRP forgot_VBD to_TO put_VB in_RP any_DT of_IN the_DT food_NN ,_, and_CC the_DT kitchen_NN closed_VBD ,_, so_IN we_PRP walked_VBD away_RB hungry_JJ ._.
-Second_JJ time_NN they_PRP simply_RB ran_VBD out_IN of_IN a_DT dish_NN ._.
-The_DT food_NN is_VBZ good_JJ though_IN ,_, just_RB wish_VB the_DT service_NN was_VBD better_RB ._.

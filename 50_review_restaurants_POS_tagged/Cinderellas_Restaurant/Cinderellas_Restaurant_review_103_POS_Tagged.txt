@@ -1,4 +1,0 @@
-Pretty_NNP standard_JJ fare_NN ,_, so_IN it_PRP gets_VBZ three_CD stars_NNS ._.
-Ordered_VBD the_DT Hometown_NNP Pizza_NNP to_TO share_VB ,_, and_CC the_DT veggies_NNS and_CC all_DT were_VBD quite_RB fresh_JJ ._.
-Other_JJ than_IN that_DT ,_, nothing_NN exceptionally_RB special_JJ ._.
-Good_JJ service_NN ,_, open_JJ late_RB ,_, standard_JJ pizza_NN ._.

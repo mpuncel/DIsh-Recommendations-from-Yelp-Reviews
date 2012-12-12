@@ -1,6 +1,0 @@
-3_CD friends_NNS and_CC I_PRP got_VBD the_DT family_NN meal_NN of_IN 4_CD chicken_NN kabobs_NNS ,_, large_JJ salad_NN -LRB-_-LRB- half_DT Greek_JJ and_CC half_JJ avocado_NN -RRB-_-RRB- and_CC large_JJ half_NN rice_NN and_CC half_NN pilaf_NN ._.
-It_PRP was_VBD very_RB good_JJ !_.
-And_CC all_DT for_IN the_DT price_NN of_IN $_$ 29.99_CD ._.
-It_PRP was_VBD a_DT sizeable_JJ meal_NN ,_, and_CC we_PRP could_MD not_RB finish_VB it_PRP all_DT ._.
-Definitely_RB worth_IN the_DT price_NN ._.
-The_DT chicken_NN was_VBD not_RB dry_JJ ,_, and_CC it_PRP was_VBD cooked_VBN very_RB well_RB ._.

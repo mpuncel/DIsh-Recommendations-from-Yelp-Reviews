@@ -1,5 +1,0 @@
-Acceptable_JJ pizza_NN ,_, decent_JJ salads_NNS ,_, open_JJ late_JJ and_CC delivers_VBZ -LRB-_-LRB- see_VB campusfood.com_NN -RRB-_-RRB- ._.
-Better_RBR than_IN the_DT typical_JJ pizza_NN delivery_NN place_NN ,_, worse_JJR than_IN any_DT place_NN I_PRP 'd_MD go_VB in_IN person_NN ._.
-But_CC pasta_NN was_VBD cooked_VBN maybe_RB two_CD minutes_NNS past_IN al_JJ dente_NN ._.
-Yuck_NNP ._.
-Incompetent_JJ ._.

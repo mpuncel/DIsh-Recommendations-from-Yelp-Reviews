@@ -1,2 +1,0 @@
-Love_NNP the_DT food_NN ._. ._.
-Hate_VB the_DT Wait_VB ._. ._.

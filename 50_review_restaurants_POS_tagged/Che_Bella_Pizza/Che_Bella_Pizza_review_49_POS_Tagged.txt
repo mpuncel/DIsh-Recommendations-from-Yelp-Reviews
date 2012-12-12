@@ -1,4 +1,0 @@
-Tiny_NNP little_JJ Italian_JJ restaurant_NN tucked_VBN in_IN the_DT back_JJ streets_NNS of_IN Amsterdam_NNP ._.
-Very_RB tasty_JJ foccacia_NN sandwich_NN ._.
-Their_PRP$ salad_NN dressing_VBG is_VBZ a_DT little_JJ lacking_VBG ,_, and_CC nothing_NN compared_VBN to_TO the_DT neighbors_NNS ,_, but_CC their_PRP$ pizza_NN and_CC dough_NN is_VBZ amazing_JJ ._.
-Bonus_NN ,_, their_PRP$ credit_NN card_NN minimum_NN is_VBZ $_$ 5_CD ,_, a_DT very_RB reasonable_JJ price_NN for_IN lunch_NN ._.

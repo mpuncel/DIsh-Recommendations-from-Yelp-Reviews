@@ -1,7 +1,0 @@
-Well_RB ,_, there_EX 's_VBZ some_DT things_NNS here_RB that_WDT are_VBP OK_JJ but_CC the_DT core_NN of_IN the_DT dinner_NN --_: the_DT Pizza_NNP --_: was_VBD only_RB mediocre_JJ ._.
-Highlights_NNS :_: Friendly_RB waiters_NNS ,_, outside_JJ dining_NN in_IN the_DT the_DT Palo_NNP Alto_NNP evening_NN air_NN ,_, cucumber_NN salad_NN had_VBD a_DT nice_JJ acidic_JJ zing_NN to_TO it_PRP ,_, lemonade_NN is_VBZ tasty_JJ because_IN apparently_RB it_PRP 's_VBZ fresh_JJ and_CC unsweetened_JJ ._.
-Low_NNP moments_NNS :_: The_DT pizza_NN was_VBD greasy_JJ ,_, even_RB though_IN the_DT crust_NN was_VBD OK_JJ --_: mostly_RB because_IN the_DT cheese_NN seemed_VBD either_RB too_RB much_JJ or_CC lower_JJR quality_NN than_IN the_DT flour_NN in_IN the_DT crust_NN ._.
-Pepperoni_NNP sausage_NN had_VBD no_DT distinctive_JJ flavor_NN ._.
-The_DT great_JJ lemonade_NN is_VBZ n't_RB supplied_VBN with_IN a_DT dissolved_VBN sugar_NN solution_NN -LRB-_-LRB- under_IN barkeep_NN ,_, see_VB :_: simple_JJ syrup_NN -RRB-_-RRB- ;_: the_DT bill_NN was_VBD high_JJ -LRB-_-LRB- $_$ 40_CD for_IN two_CD with_IN one_CD pie_NN ,_, one_CD salad_NN ,_, two_CD lemonades_NNS ,_, no_DT liquor_NN -RRB-_-RRB- ._.
-Also_RB ,_, quite_RB strangely_RB ;_: on_IN the_DT Iphone_NNP mobile_JJ Yelp_NNP App_NNP ,_, this_DT place_NN does_VBZ n't_RB appear_VB ;_: maybe_RB ,_, with_IN only_RB three_CD stars_NNS ,_, Yelp_NNP Mobile_NNP was_VBD trying_VBG to_TO protect_VB me_PRP and_CC I_PRP did_VBD n't_RB know_VB it_PRP ._.
-Oh_UH well_UH ._.

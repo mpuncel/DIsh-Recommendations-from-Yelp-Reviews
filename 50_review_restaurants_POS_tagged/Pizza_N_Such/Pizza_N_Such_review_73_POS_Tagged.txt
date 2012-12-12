@@ -1,2 +1,0 @@
-Great_NNP pizza_NN and_CC subs_NNS ..._: consistently_RB good_JJ ,_, family_NN owned_VBN and_CC operated_VBN for_IN 30_CD years_NNS ._.
-Good_JJ service_NN and_CC well_RB run_VB ,_, great_JJ beer_NN selection_NN and_CC an_DT acceptable_JJ selection_NN of_IN wines_NNS ._.

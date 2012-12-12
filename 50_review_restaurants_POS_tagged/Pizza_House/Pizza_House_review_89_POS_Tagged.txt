@@ -1,4 +1,0 @@
-Pizza_NNP House_NNP seems_VBZ to_TO be_VB the_DT go-to_JJ place_NN on_IN South_NNP U._NNP for_IN large_JJ groups_NNS ._.
-There_EX 's_VBZ alcohol_NN ,_, soup_NN ,_, salad_NN ,_, pasta_NN ,_, sandwiches_NNS ,_, burgers_NNS ,_, and_CC pizza_NN ;_: all_DT simple_JJ and_CC adequate_JJ food_NN ,_, when_WRB you_PRP need_VBP to_TO accommodate_VB a_DT group_NN of_IN people_NNS with_IN a_DT range_NN of_IN food_NN preferences_NNS ._.
-Nothing_NN exciting_JJ ,_, but_CC this_DT place_NN gets_VBZ the_DT job_NN done_VBN ,_, and_CC everyone_NN is_VBZ guaranteed_VBN to_TO be_VB full_JJ of_IN carbs_NNS at_IN the_DT end_NN of_IN the_DT meal_NN ._.
-My_PRP$ recommendations_NNS :_: the_DT calamari_NN and_CC Portobello_NNP Al_NNP Forno_NNP !_.

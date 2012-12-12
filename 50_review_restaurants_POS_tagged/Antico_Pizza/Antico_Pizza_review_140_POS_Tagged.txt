@@ -1,8 +1,0 @@
-As_IN good_JJ as_IN it_PRP gets_VBZ ._.
-Taste_NN the_DT San_NNP Gennaro_NNP -LRB-_-LRB- spicy_NN meat_NN ,_, sweet_JJ peppers_NNS ,_, cipollini_NNS onions_NNS -RRB-_-RRB- and_CC you_PRP 'll_MD see_VB ._.
-Authentic_NNP Neapolitan_NNP pizza_NN ,_, the_DT best_JJS in_IN town_NN ,_, in_IN a_DT BYOB_NNP restaurant_NN with_IN family-style_JJ seating_NN ._.
-And_CC by_IN family_NN style_NN ,_, I_PRP mean_VBP that_IN there_EX 's_VBZ a_DT room_NN full_JJ of_IN school_NN cafeteria_NN tables_NNS if_IN there_EX 's_VBZ no_DT space_NN at_IN the_DT giant_JJ wooden_JJ table_NN in_IN the_DT windowed_VBN entrance_NN ._.
-I_PRP took_VBD a_DT date_NN on_IN my_PRP$ first_JJ visit_NN of_IN many_JJ ,_, and_CC we_PRP put_VBD our_PRP$ pizza_NN on_IN top_NN of_IN a_DT pile_NN of_IN cardboard_NN boxes_NNS while_IN leaning_VBG on_IN the_DT wall_NN and_CC splitting_NN a_DT bottle_NN of_IN $_$ 10_CD wine_NN ._.
-It_PRP was_VBD crowded_VBN and_CC loud_JJ and_CC joyful_JJ --_: adult_NN birthdays_NNS ,_, families_NNS with_IN kids_NNS ,_, dates_NNS like_IN mine_NN ._.
-Always_RB ,_, the_DT yelling_VBG of_IN orders_NNS and_CC the_DT fun_NN of_IN watching_VBG people_NNS work_VBP those_DT giant_JJ pizza_NN ovens_NNS ._.
-A_DT sink_NN with_IN plenty_NN of_IN soap_NN for_IN your_PRP$ wonderfully_RB happy_JJ ,_, greasy_JJ hands_NNS ._.

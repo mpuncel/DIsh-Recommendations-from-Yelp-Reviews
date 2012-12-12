@@ -1,6 +1,0 @@
-A_DT trip_NN to_TO Providence_NNP is_VBZ n't_RB complete_VB without_IN a_DT meal_NN at_IN Al_NNP Forno_NNP ._.
-The_DT only_JJ problem_NN with_IN the_DT place_NN is_VBZ that_IN they_PRP do_VBP n't_RB take_VB reservations_NNS and_CC it_PRP 's_VBZ a_DT popular_JJ spot_NN ,_, so_RB you_PRP might_MD find_VB yourself_PRP waiting_VBG for_IN a_DT while_NN on_IN a_DT Friday_NNP or_CC Saturday_NNP night_NN ,_, so_RB go_VB on_IN a_DT weeknight_NN if_IN you_PRP can_MD ._.
-Make_NNP sure_JJ you_PRP order_VBP a_DT pizza_NN ._.
-You_PRP 'll_MD be_VB sitting_VBG there_RB thinking_VBG ,_, I_PRP 'm_VBP at_IN a_DT nice_JJ restaurant_NN and_CC I_PRP want_VBP to_TO order_VB pizza_NN ?_.
-Yes_UH ,_, yes_UH you_PRP do_VBP ._.
-At_IN lest_IN get_VB it_PRP once_RB ,_, it_PRP 'll_MD be_VB some_DT of_IN the_DT best_JJS pizza_NN you_PRP 've_VBP ever_RB had_VBN ._.

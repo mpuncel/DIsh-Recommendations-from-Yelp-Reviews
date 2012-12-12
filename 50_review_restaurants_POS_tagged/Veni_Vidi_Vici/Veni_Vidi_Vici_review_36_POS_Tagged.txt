@@ -1,7 +1,0 @@
-Fancy_NNP dinner_NN experience_NN ._.
-Food_NNP was_VBD great_JJ ;_: love_VB the_DT duck_NN dish_NN and_CC the_DT ravioli_NNS appetizer_NN ._.
-Service-extraordinary_JJ nice_JJ and_CC patient_JJ ._.
-I_PRP guess_VBP we_PRP were_VBD sort_NN of_IN annoying_VBG as_IN a_DT group_NN -_: four_CD college_NN kids_NNS ,_, do_VBP n't_RB know_VB Italian_JJ ,_, would_MD like_VB a_DT family_NN style_NN dinner_NN ._.
-But_CC our_PRP$ water_NN did_VBD a_DT great_JJ job_NN and_CC we_PRP enjoyed_VBD every_DT moment_NN ,_, from_IN bread_NN to_TO dessert_NN ._.
-The_DT tables_NNS are_VBP pretty_RB close_RB ..._: well_RB it_PRP is_VBZ popular_JJ ._.
-Do_VBP n't_RB forget_VB to_TO reserve_VB a_DT table_NN ._.

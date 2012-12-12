@@ -1,6 +1,0 @@
-Order_NNP the_DT veal_NN sausage_NN and_CC veal_NN pizza_NN ..._: it_PRP is_VBZ out_IN of_IN this_DT world_NN !_.
-I_PRP also_RB stole_VBD a_DT slice_NN of_IN my_PRP$ sister_NN 's_POS bacon_NN and_CC goat_NN cheese_NN pizza_NN which_WDT was_VBD also_RB delicious_JJ !_.
-I_PRP 'm_VBP not_RB a_DT huge_JJ fan_NN of_IN polenta_NN but_CC the_DT owner\/manager_NN gave_VBD it_PRP to_TO us_PRP for_IN free_JJ so_IN I_PRP tried_VBD it_PRP ._.
-It_PRP was_VBD pretty_RB tasty_JJ ._.
-My_PRP$ only_JJ regret_NN was_VBD that_IN I_PRP did_VBD n't_RB get_VB to_TO try_VB more_JJR toppings_NNS ._.
-I_PRP 'll_MD definitely_RB be_VB going_VBG back_RB to_TO Mama_NNP Palma_NNP 's_POS ._.

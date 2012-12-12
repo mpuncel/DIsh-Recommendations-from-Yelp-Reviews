@@ -1,8 +1,0 @@
-I_PRP only_RB eat_VBP about_RB 4_CD dinners_NNS out_IN in_IN Princeton_NNP per_IN year_NN ._.
-I_PRP moved_VBD away_RB several_JJ years_NNS ago_RB and_CC only_RB go_VB back_RB once_RB in_IN a_DT while_NN ._.
-However_RB ,_, when_WRB I_PRP am_VBP in_IN town_NN ,_, Teresa_NNP 's_POS tops_NNS the_DT list_NN of_IN casual_JJ sit_VBP down_RP places_NNS I_PRP must_MD go_VB ._.
-Teresa_NNP 's_POS has_VBZ a_DT great_JJ energy_NN ._.
-It_PRP also_RB has_VBZ one_CD of_IN the_DT best_JJS locations_NNS in_IN town_NN -LRB-_-LRB- maybe_RB best_JJS -RRB-_-RRB- ._.
-There_EX can_MD be_VB a_DT wait_NN on_IN a_DT Friday_NNP night_NN ,_, but_CC it_PRP is_VBZ well_RB worth_JJ it_PRP ._.
-While_IN many_JJ out_IN of_IN towners_NNS like_IN this_DT place_NN ,_, Teresa_NNP 's_POS is_VBZ definitely_RB a_DT Princetonian_JJ favorite_NN -_: I_PRP see_VBP someone_NN I_PRP know_VBP everytime_JJ I_PRP go_VBP there_RB ._.
-Check_VB it_PRP out_RP !_.

@@ -1,8 +1,0 @@
-Ate_VBD there_EX last_JJ night_NN ._.
-WOW_NNP !_.
-Awesome_JJ food_NN !_.
-Great_JJ service_NN !_.
-Decent_JJ wine_NN list_NN ,_, although_IN they_PRP do_VBP a_DT lot_NN more_JJR bottles_NNS than_IN glasses_NNS ._.
-Heated_VBN back_RB patio_NN for_IN when_WRB it_PRP 's_VBZ chilly_JJ ._.
-Different_JJ cuisine_NN -LRB-_-LRB- Northern_NNP Italian_NNP -RRB-_-RRB- ,_, but_CC as_RB good_JJ as_IN Giuseppe_NNP 's_POS -LRB-_-LRB- Southern_NNP Italian_NNP -RRB-_-RRB- ._.
-Love_NNP them_PRP both_DT equally_RB ,_, but_CC the_DT prices_NNS are_VBP better_RB at_IN Buona_NNP Tavola_NNP ._.

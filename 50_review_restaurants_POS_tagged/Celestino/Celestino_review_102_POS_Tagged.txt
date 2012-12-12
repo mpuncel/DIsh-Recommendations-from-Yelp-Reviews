@@ -1,2 +1,0 @@
-Food_NNP okay_JJ ._.
-Service_NNP slow_JJ and_CC not_RB attentive_JJ ._.

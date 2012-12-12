@@ -1,5 +1,0 @@
-It_PRP 's_VBZ a_DT charming_JJ hipstery_NN college-student-popular_JJ type_NN hang_VBP out_RP ._.
-The_DT outside_JJ porch_NN seating_NN is_VBZ nice_JJ and_CC relaxing_JJ ._.
-But_CC the_DT food_NN is_VBZ only_RB mediocre_JJ in_IN my_PRP$ opinion_NN ._.
-It_PRP definitely_RB is_VBZ more_JJR of_IN a_DT scene_NN than_IN a_DT foodie_NN place_NN ._.
-Because_IN let_VB 's_POS face_VB it_PRP ,_, there_EX are_VBP so_RB many_JJ better_JJR pasta_NN places_NNS in_IN NYC_NNP ._.

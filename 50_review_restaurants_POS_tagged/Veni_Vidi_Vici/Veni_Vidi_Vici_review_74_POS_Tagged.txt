@@ -1,4 +1,0 @@
-This_DT has_VBZ got_VBN to_TO be_VB my_PRP$ all-time_JJ favorite_JJ restaraunt_NN in_IN the_DT metro_NN Atlanta_NNP area_NN !_.
-Hint_NN :_: try_VB the_DT fish_NN !!!_CD Our_PRP$ waitress_NN Vanessa_NNP was_VBD particularly_RB piquant_JJ and_CC very_RB knowledgeable_JJ about_IN the_DT specials_NNS of_IN the_DT day_NN ._.
-When_WRB we_PRP arrived_VBD there_EX was_VBD a_DT 10_CD minute_NN wait_NN ,_, but_CC we_PRP seated_VBD in_IN 2-3_CD minutes_NNS ._.
-I_PRP will_MD be_VB returning_VBG every_DT time_NN I_PRP visit_VBP Atlanta_NNP !_.

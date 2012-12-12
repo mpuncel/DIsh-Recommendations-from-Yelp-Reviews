@@ -1,2 +1,0 @@
-Great_NNP pizza_NN ,_, good_JJ deep_JJ dish_NN ._.
-Needs_NNS more_RBR topping_VBG options_NNS ._.

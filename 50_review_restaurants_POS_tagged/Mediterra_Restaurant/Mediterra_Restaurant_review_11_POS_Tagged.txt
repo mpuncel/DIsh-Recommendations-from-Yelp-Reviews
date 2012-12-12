@@ -1,5 +1,0 @@
-Huh_NNP ,_, reading_VBG the_DT other_JJ reviews_NNS ,_, I_PRP wonder_VBP if_IN my_PRP$ fondness_NN for_IN Mediterra_NNP has_VBZ to_TO do_VB with_IN the_DT homesick_NN feeling_NN whenever_WRB I_PRP travel_VBP from_IN California_NNP to_TO New_NNP Jersey_NNP ._.
-Medittera_NNP 's_POS decor_NN is_VBZ very_RB nice_JJ ,_, and_CC is_VBZ nicely_RB situated_VBN right_JJ next_JJ to_TO a_DT parking_NN garage_NN and_CC in_IN Palmer_NNP Square_NNP -LRB-_-LRB- I_PRP had_VBD to_TO google_VB that_DT one_CD !_. -RRB-_-RRB- ._.
-The_DT bread_NN basket_NN is_VBZ wonderful_JJ ,_, and_CC I_PRP 've_VBP never_RB had_VBN a_DT problem_NN with_IN service_NN ._.
-My_PRP$ dinners_NNS have_VBP always_RB been_VBN very_RB tasty_JJ ,_, and_CC dessert_NN was_VBD wonderful_JJ ._.
-Between_IN the_DT flavorful_JJ food_NN ,_, good_JJ service_NN ,_, and_CC nice_JJ interior_NN ,_, Mediterra_NNP is_VBZ a_DT wonderful_JJ restaurant_NN to_TO relax_VB after_IN a_DT days_NNS work_VBP ._.

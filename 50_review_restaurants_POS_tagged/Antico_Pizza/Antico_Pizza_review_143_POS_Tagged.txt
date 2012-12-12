@@ -1,6 +1,0 @@
-Antico_NNP has_VBZ some_DT of_IN the_DT best_JJS pizza_NN in_IN town_NN ._.
-It_PRP 's_VBZ also_RB got_VBD a_DT unique_JJ style_NN that_WDT makes_VBZ dining_VBG an_DT experience_NN ,_, rather_RB than_IN just_RB a_DT necessity_NN ._.
-their_PRP$ seating_VBG us_PRP not_RB ``_`` comfortable_JJ ,_, ''_'' but_CC it_PRP gives_VBZ you_PRP the_DT feeling_NN that_IN you_PRP are_VBP sitting_VBG in_IN the_DT kitchen_NN ,_, as_IN you_PRP watch_VBP the_DT pizzas_NNS being_VBG made_VBN ._.
-There_EX are_VBP few_JJ pizza_NN shops_NNS where_WRB you_PRP can_MD still_RB see_VB your_PRP$ pizza_NN dough_NN being_VBG tossed_VBD !_.
-Best_JJS part_NN is_VBZ that_IN it_PRP 's_VBZ BYOB_NNP -LRB-_-LRB- so_RB bring_VB a_DT cooler_NN and_CC have_VB a_DT picnic_NN !_. -RRB-_-RRB- ._.
-This_DT always_RB saves_VBZ us_PRP money_NN -LRB-_-LRB- so_IN you_PRP can_MD indulge_VB in_IN their_PRP$ cannoli_NN 's_POS and_CC gelato_JJ ,_, yeah_JJ !_. -RRB-_-RRB- ._.

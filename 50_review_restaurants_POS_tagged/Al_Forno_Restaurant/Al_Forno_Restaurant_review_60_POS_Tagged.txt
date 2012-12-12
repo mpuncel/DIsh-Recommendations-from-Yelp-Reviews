@@ -1,9 +1,0 @@
-Fabulous_NNP menu_NN for_IN all_DT taste-buds_NNS !_.
-Luscious_JJ appetizers_NNS ._.
-Crisp_NNP ,_, fresh_JJ salads_NNS ._.
-Fantastic_JJ pastas_NNS ,_, side_NN dishes_NNS ,_, and_CC main_JJ courses_NNS ._.
-All_DT with_IN hearty_NN ,_, down-to-earth_JJ flavors_NNS prepared_VBN with_IN the_DT utmost_JJ of_IN skill_NN and_CC care_NN ._.
-The_DT staff_NN is_VBZ wonderful_JJ ._.
-Martha_NNP makes_VBZ a_DT very_RB fine_JJ martini_NN and_CC Mark_NNP is_VBZ the_DT host_NN with_IN the_DT absolute_JJ most_RBS !_.
-Simple_NN ,_, yet_RB charming_JJ ,_, very_RB `_`` happening_VBG '_'' setting_VBG ._.
-A_DT ``_`` must_MD go_VB ''_'' for_IN special_JJ occasions_NNS ,_, dates_NNS and_CC dinner_NN with_IN friends_NNS ._.

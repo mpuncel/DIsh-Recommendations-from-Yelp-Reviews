@@ -1,8 +1,0 @@
-Yes_UH ,_, I_PRP have_VBP Cinderella_NNP 's_POS number_NN memorized_VBN ._.
-No_DT I_PRP do_VBP n't_RB feel_VB odd_JJ about_IN it_PRP ._.
-Yes_UH I_PRP love_VBP to_TO call_VB and_CC order_VB french_JJ fries_NNS late_RB into_IN the_DT night_NN ._.
-Sometimes_RB a_DT Tuna_NNP Salad_NNP Salad_NNP as_RB well_RB ._.
-They_PRP have_VBP enormous_JJ and_CC good_JJ BLTs_NNS and_CC subs_NNS of_IN all_DT kinds_NNS ._.
-Pizza_NNP is_VBZ kinda_JJ greasy_NN ,_, but_CC I_PRP like_VBP the_DT chicken_NN kabob_NN plate_NN -LRB-_-LRB- rice_NN pilaf_NN !_. -RRB-_-RRB-
-or_CC the_DT special_JJ fish_NN plate_NN ._.
-The_DT food_NN is_VBZ probably_RB really_RB bad_JJ for_IN me_PRP on_IN many_JJ levels_NNS ..._: But_CC I_PRP love_VBP it_PRP ._.

@@ -1,5 +1,0 @@
-I_PRP think_VBP that_IN by_IN standards_NNS of_IN quality_NN Italian_JJ food_NN ,_, Osteria_NNP Antica_NNP does_VBZ a_DT very_RB good_JJ job_NN of_IN main_JJ tining_VBG the_DT authenticity_NN of_IN its_PRP$ food_NN ._.
-I_PRP can_MD only_RB comment_VB on_IN the_DT Petti_NNP de_IN Pollo_NNP which_WDT I_PRP thought_VBD was_VBD good_JJ but_CC not_RB awesome_JJ ._.
-If_IN there_EX would_MD have_VB been_VBN a_DT less_JJR cream_NN cheese_NN flavor_NN and_CC more_JJR of_IN a_DT wine_NN saute_NN '_'' then_RB perhaps_RB i_FW would_MD give_VB the_DT food_NN another_DT star_NN ._.
-The_DT restaurant_NN was_VBD nice_JJ and_CC the_DT general_JJ ambiance_NN was_VBD welcoming_VBG ._.
-I_PRP would_MD recommend_VB this_DT restaurant_NN for_IN a_DT nice_JJ quiet_JJ couples_NNS dinner_NN ._.

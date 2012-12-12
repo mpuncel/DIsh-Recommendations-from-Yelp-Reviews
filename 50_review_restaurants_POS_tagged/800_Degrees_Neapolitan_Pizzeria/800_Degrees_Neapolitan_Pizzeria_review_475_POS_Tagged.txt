@@ -1,7 +1,0 @@
-I_PRP really_RB like_IN the_DT concept_NN behind_IN this_DT place_NN ._.
-It_PRP 's_VBZ like_IN chipotle_NN but_CC pizza_NN style_NN ._.
-It_PRP i_FW pretty_RB cheap_JJ and_CC I_PRP feel_VBP like_IN two_CD people_NNS can_MD share_VB and_CC be_VB satisfied_VBN ._.
-I_PRP like_VBP how_WRB you_PRP can_MD watch_VB them_PRP make_VB the_DT pizza_NN ._.
-I_PRP got_VBD the_DT margherita_NN pizza_NN with_IN some_DT chile_JJ and_CC garlic_JJ ._.
-The_DT garlic_NN was_VBD a_DT bit_NN overwhelming_JJ so_IN I_PRP do_VBP n't_RB I_PRP will_MD get_VB it_PRP on_IN my_PRP$ pizza_NN again_RB !_.
-Overall_RB a_DT really_RB cool_JJ place_NN ._.

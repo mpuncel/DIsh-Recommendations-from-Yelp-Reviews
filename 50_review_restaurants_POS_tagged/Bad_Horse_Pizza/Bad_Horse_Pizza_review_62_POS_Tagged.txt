@@ -1,4 +1,0 @@
-OMG_NNP !!_VBZ The_DT pizza_NN here_RB is_VBZ amazing_JJ !!!_CD The_DT prosciutto_NN pizza_NN is_VBZ my_PRP$ fave_NN !_.
-Nice_JJ thin_JJ crust_NN ._.
-I_PRP love_VBP the_DT rustic_JJ decor_NN and_CC the_DT casual_JJ atmosphere_NN ._.
-Of_IN course_NN it_PRP is_VBZ more_RBR expensive_JJ corner_NN store_NN shop_NN but_CC this_DT will_MD help_VB elevate_VB the_DT area_NN ._.

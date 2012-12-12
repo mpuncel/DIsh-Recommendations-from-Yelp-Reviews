@@ -1,8 +1,0 @@
-Waiter_NNP was_VBD good_JJ but_CC food_NN was_VBD the_DT pits_NNS ._.
-Unripe_JJ tomatoes_NNS for_IN a_DT $_$ 15_CD salad_NN !_.
-Risotto_NNP which_WDT was_VBD in_IN no_DT way_NN risotto_NN ,_, more_JJR like_IN rice_NN in_IN a_DT sauce_NN with_IN seafood_NN ._.
-Tomato_NNP sauce_NN on_IN spaghetti_NNS which_WDT seemed_VBD utterly_RB commercial_JJ ._.
-$_$ 84_CD for_IN one_CD starter_JJ ,_, two_CD mains_NNS and_CC a_DT kids_NNS bowl_NN of_IN pasta_NN with_IN no_DT drinks_NNS was_VBD outrageous_JJ ._.
-We_PRP will_MD never_RB be_VB hungry_JJ at_IN Stanford_NNP Shopping_NNP Center_NNP again_RB ._.
-Totally_RB empty_JJ but_CC they_PRP would_MD n't_RB give_VB us_PRP a_DT banquette_NN for_IN the_DT kids_NNS to_TO boot_NN ._.
-Did_VBD I_PRP mention_VB stale_JJ bread_NN ?_.

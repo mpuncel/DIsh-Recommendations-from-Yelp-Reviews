@@ -1,4 +1,0 @@
-Great_NNP pizza_NN ,_, though_IN a_DT bit_NN expensive_JJ ._.
-Try_VB to_TO goat_VB cheese_NN pizza_NN ,_, with_IN extra_JJ goat_NN cheese_NN ._.
-Yum_NN !_.
-Their_PRP$ salads_NNS are_VBP pretty_RB good_JJ too_RB ._.

@@ -1,7 +1,0 @@
-Antico_NNP has_VBZ one_CD of_IN the_DT finest_JJS pizzas_NNS I_PRP 've_VBP ever_RB eaten_VBN ._.
-We_PRP ordered_VBD the_DT San_NNP Gennero_NNP ._.
-My_PRP$ mouth_NN waters_NNS just_RB thinking_VBG about_IN it_PRP ._.
-Everything_NN was_VBD SO_RB FRESH_NNP ._.
-The_DT owner_NN ,_, Giovanni_NNP ,_, came_VBD to_TO our_PRP$ table_NN and_CC chatted_VBD for_IN a_DT while_NN ._.
-What_WP a_DT wonderful_JJ experience_NN ._.
-While_IN Atlanta_NNP has_VBZ many_JJ very_RB good_JJ pizza_NN houses_NNS ,_, Antico_NNP is_VBZ in_IN a_DT league_NN by_IN itself_PRP ._.

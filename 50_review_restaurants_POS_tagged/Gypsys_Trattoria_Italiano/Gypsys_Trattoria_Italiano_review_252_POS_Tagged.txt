@@ -1,4 +1,0 @@
-I_PRP love_VBP this_DT place_NN !_.
-It_PRP used_VBD to_TO be_VB my_PRP$ favorite_JJ when_WRB I_PRP went_VBD up_RB to_TO Berkeley_NNP to_TO visit_VB my_PRP$ ex_FW ._.
-My_PRP$ favorite_NN was_VBD the_DT Gnocci_NNP con_NN Pollo_NNP -LRB-_-LRB- I_PRP think_VBP that_DT is_VBZ what_WP it_PRP is_VBZ called_VBN -RRB-_-RRB- ._.
-Reletively_RB cheap_JJ as_RB well_RB ._.

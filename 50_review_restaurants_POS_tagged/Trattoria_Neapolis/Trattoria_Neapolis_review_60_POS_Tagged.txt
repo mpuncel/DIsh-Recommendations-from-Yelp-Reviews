@@ -1,5 +1,0 @@
-This_DT place_NN is_VBZ really_RB beautiful_JJ ,_, they_PRP did_VBD a_DT great_JJ job_NN on_IN the_DT interior_NN ._.
-Service_NNP was_VBD good_JJ and_CC friendly_JJ ._.
-As_IN for_IN the_DT food_NN ,_, I_PRP was_VBD very_RB disappointed_JJ ,_, pasta_NN was_VBD not_RB cooked_VBN enough_RB ,_, and_CC over_IN all_DT kind_NN of_IN bland_NN ._.
-We_PRP also_RB tried_VBD a_DT pizza_NN ,_, again_RB disappointing_JJ ,_, while_IN burnt_JJ on_IN the_DT top_NN and_CC bottom_NN was_VBD over_IN all_DT under_IN cooked_VBN ,_, very_RB doughy_JJ and_CC no_DT flavor_NN ._.
-So_RB much_JJ effort_NN it_PRP seem_VBP was_VBD put_VBN into_IN the_DT interior_NN ,_, they_PRP need_VBP to_TO refocus_VB now_RB on_IN the_DT food_NN before_IN this_DT place_NN goes_VBZ by_IN the_DT way_NN side_NN of_IN so_RB many_JJ other_JJ sub-par_JJ restaurants_NNS ._.

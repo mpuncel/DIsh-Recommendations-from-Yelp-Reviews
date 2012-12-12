@@ -1,4 +1,0 @@
-Stopped_VBN in_IN for_IN dinner_NN as_IN a_DT friend_NN lives_VBZ on_IN this_DT block_NN ._.
-Good_JJ food_NN ,_, friendly_JJ service_NN ,_, a_DT tab_NN bit_RB loud_JJ &_CC a_DT tad_NN bit_NN pricey_JJ ._.
-I_PRP had_VBD the_DT wild_JJ caught_VBN salmon_NN with_IN fava_NN beans_NNS &_CC fingerling_NN potatoes_NNS ,_, was_VBD well_RB cooked_VBN &_CC very_RB tasty_JJ ._.
-A_DT good_JJ neighborhood_NN spot_NN but_CC nothing_NN terribly_RB memorable_JJ ._.

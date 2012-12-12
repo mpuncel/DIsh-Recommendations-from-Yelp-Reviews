@@ -1,5 +1,0 @@
-I_PRP have_VBP eaten_VBN here_RB a_DT few_JJ times_NNS ,_, and_CC every_DT time_NN it_PRP is_VBZ mint_NN ._.
-My_PRP$ favorite_JJ meal_NN is_VBZ the_DT porkbelly_JJ dish_NN ._.
-It_PRP really_RB is_VBZ amazing_JJ ._.
-Wine_NN list_NN is_VBZ great_JJ ._.
-I_PRP suggest_VBP it_PRP to_TO anyone_NN !_.

@@ -1,7 +1,0 @@
-Meh_NNP ._.
-The_DT pizzas_NNS are_VBP pretty_RB good_JJ ._.
-However_RB ,_, I_PRP do_VBP prefer_VB Varasano_NNP 's_POS by_IN a_DT large_JJ margin_NN ._.
-sometimes_RB I_PRP wonder_VBP of_IN people_NNS who_WP like_VBP this_DT place_NN has_VBZ ever_RB been_VBN to_TO Varasano_NNP 's_POS ._.
-The_DT atmospheres_NNS here_RB is_VBZ ,_, well_RB ,_, lively_JJ ._.
-If_IN you_PRP want_VBP to_TO sit_VB at_IN a_DT large_JJ communal_JJ table_NN shouting_VBG at_IN your_PRP$ companions_NNS in_IN order_NN to_TO hear_VB each_DT other_JJ ,_, then_RB I_PRP guess_VBP this_DT place_NN is_VBZ fine_JJ ._.
-But_CC if_IN you_PRP just_RB want_VBP a_DT nice_JJ ,_, comfortable_JJ dining_VBG experience_NN ,_, where_WRB you_PRP can_MD relax_VB and_CC leisurely_JJ enjoy_VB your_PRP$ food_NN ,_, then_RB this_DT is_VBZ not_RB the_DT place_NN ._.

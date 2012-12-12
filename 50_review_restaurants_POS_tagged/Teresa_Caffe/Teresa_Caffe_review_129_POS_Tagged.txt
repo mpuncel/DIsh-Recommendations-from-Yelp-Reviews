@@ -1,4 +1,0 @@
-Long_NNP waits_VBZ at_IN lunch_NN ._. ._.
-Slowest_JJS service_NN I_PRP 've_VBP had_VBN in_IN my_PRP$ life_NN ._.
-Been_VBN here_RB 1_CD hr_NN still_RB no_DT food_NN ._.
-Food_NNP was_VBD tasty_JJ ,_, nothing_NN special_JJ

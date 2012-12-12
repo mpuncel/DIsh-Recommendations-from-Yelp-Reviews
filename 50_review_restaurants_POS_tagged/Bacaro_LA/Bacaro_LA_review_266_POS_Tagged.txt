@@ -1,1 +1,0 @@
-Amazing_JJ food_NN +_CD 1\/2_CD off_IN wine_NN on_IN Monday_NNP =_SYM win_VB !_.

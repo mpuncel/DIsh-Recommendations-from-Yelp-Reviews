@@ -1,3 +1,0 @@
-Ok_NNP ,_, really_RB people_NNS ?_.
-``_`` Food_NNP like_IN Applebee_NNP 's_POS ''_'' ``_`` I_PRP 've_VBP had_VBD better_JJR at_IN Bucca_NNP ''_'' ._.
-Yeah_UH ,_, like_IN someone_NN 's_POS going_VBG to_TO fall_VB for_IN that_DT ._.

@@ -1,7 +1,0 @@
-Best_JJS pizza_NN in_IN Atlanta_NNP ._.
-When_WRB a_DT place_NN closes_VBZ when_WRB the_DT dough_JJ runs_VBZ out_RP ,_, you_PRP know_VBP it_PRP 's_VBZ good_JJ ._.
-BYOB_NNP ,_, fast_JJ service_NN ,_, and_CC fresh_JJ ingredients_NNS make_VBP this_DT place_NN a_DT stand-out_NN ._.
-Parking_NN is_VBZ a_DT bit_NN tough_JJ to_TO find_VB during_IN busy_JJ hours_NNS and_CC there_EX is_VBZ almost_RB always_RB a_DT line_NN to_TO order_NN ,_, but_CC once_RB you_PRP get_VB your_PRP$ order_NN in_IN ,_, the_DT wait_NN for_IN your_PRP$ pizza_NN is_VBZ almost_RB nonexistent_JJ ._.
-Pizzas_NNP are_VBP a_DT bit_NN on_IN the_DT pricey_JJ side_NN but_CC I_PRP feel_VBP like_IN it_PRP 's_VBZ well_RB worth_JJ it_PRP for_IN the_DT quality_NN ._.
-As_IN far_RB as_IN the_DT seating_VBG area_NN goes_VBZ ,_, it_PRP can_MD get_VB packed_JJ and_CC noisy_JJ ._.
-Maybe_RB not_RB a_DT great_JJ place_NN for_IN a_DT first_JJ date_NN ,_, but_CC excellent_JJ for_IN group_NN get_VBP togethers_NNS ._.

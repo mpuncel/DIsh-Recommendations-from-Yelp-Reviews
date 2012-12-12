@@ -1,3 +1,0 @@
-Cute_JJ little_JJ place_NN !_.
-Love_NNP the_DT rotating_VBG lunch_NN menu_NN where_WRB you_PRP can_MD pick_VB a_DT certain_JJ number_NN of_IN items_NNS ._.
-Very_RB yummy_JJ food_NN --_: ca_MD n't_RB wait_VB to_TO eat_VB here_RB again_RB !_.

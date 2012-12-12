@@ -1,4 +1,0 @@
-We_PRP loved_VBD the_DT ambience_NN ._.
-The_DT food_NN was_VBD delicious_JJ ._.
-Our_PRP$ waiter_NN was_VBD very_RB pleasant_JJ -_: but_CC spaced-out_SYM -_: made_VBD two_CD mistakes_NNS on_IN our_PRP$ simple_JJ order_NN for_IN two_CD ._.
-Will_MD definitely_RB go_VB back_RB ._.

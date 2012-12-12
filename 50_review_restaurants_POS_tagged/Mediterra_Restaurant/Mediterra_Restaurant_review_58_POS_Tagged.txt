@@ -1,4 +1,0 @@
-For_IN girls_NNS '_POS dinner_NN ,_, we_PRP picked_VBD Mediterra_NNP ._.
-We_PRP ordered_VBD a_DT round_NN of_IN wine_NN and_CC two_CD of_IN the_DT three_CD of_IN us_PRP ordered_VBD the_DT delectable-sounding_JJ Pumpkin_NNP Seed_NN Crusted_NNP Branzino_NNP a_DT la_NNP Plancha_NNP ,_, which_WDT was_VBD a_DT nice_JJ fillet_NN of_IN fish_NN -LRB-_-LRB- rather_RB than_IN a_DT whole_JJ fish_NN as_IN branzino_NN typically_RB is_VBZ -RRB-_-RRB- ._.
-The_DT Crab_NNP Cakes_NNP a_DT la_NNP Plancha_NNP were_VBD disappointing_JJ with_IN a_DT limited_JJ amount_NN of_IN crab_NN meat_NN ._.
-While_IN the_DT meal_NN was_VBD fine_JJ ,_, I_PRP certainly_RB prefer_VBP the_DT sister_NN restaurant_NN Teresa_NNP Caffe_NNP ._.

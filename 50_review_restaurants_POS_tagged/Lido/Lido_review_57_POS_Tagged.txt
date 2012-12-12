@@ -1,5 +1,0 @@
-I_PRP had_VBD a_DT delightful_JJ brunch_NN at_IN Lido_NNP ._.
-The_DT service_NN was_VBD good_JJ ,_, the_DT food_NN was_VBD perfect_JJ ,_, the_DT prices_NNS were_VBD super_JJ reasonable_JJ ,_, and_CC the_DT place_NN is_VBZ great_JJ to_TO look_VB at_IN ._.
-Our_PRP$ table_NN ordered_VBD french_JJ toast_NN -LRB-_-LRB- looked_VBD amazing_JJ -RRB-_-RRB- ,_, baked_JJ eggs_NNS ,_, and_CC the_DT polenta_NN with_IN mushrooms_NNS and_CC a_DT poached_JJ egg_NN ._.
-We_PRP were_VBD all_DT very_RB happy_JJ with_IN our_PRP$ dishes_NNS ._.
-I_PRP 'm_VBP looking_VBG forward_RB to_TO going_VBG back_RB for_IN dinner_NN !_.

@@ -1,3 +1,0 @@
-Great_NNP place_NN !!!_NNP Delicious_NNP food_NN &_CC awesome_JJ customer_NN service_NN ._.
-Dino_NNP was_VBD the_DT coolest_JJS waiter_NN ._.
-Thanks_NNS Dino_NNP !!_IN

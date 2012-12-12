@@ -1,4 +1,0 @@
-I_PRP am_VBP not_RB a_DT huge_JJ fan_NN of_IN this_DT place_NN ,_, but_CC it_PRP is_VBZ not_RB bad_JJ ._.
-They_PRP have_VBP good_JJ pizza_NN and_CC delicious_JJ fries_NNS ._.
-I_PRP think_VBP the_DT only_JJ reason_NN I_PRP keep_VBP going_VBG back_RB is_VBZ that_IN they_PRP are_VBP open_JJ until_IN like_IN two_CD in_IN the_DT morning_NN and_CC they_PRP still_RB let_VB you_PRP inside_IN ._.
-That_DT beats_VBZ 24_CD hour_NN drive-thru_NN McDonalds_NNP anyday_NN !_.

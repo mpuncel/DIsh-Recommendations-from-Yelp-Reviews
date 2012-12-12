@@ -1,3 +1,0 @@
-LOVE_VB the_DT Gypsy_NNP 's_POS Chicken_NNP ,_, along_IN with_IN their_PRP$ side_NN of_IN garlic_JJ bread_NN ._.
-Their_PRP$ other_JJ plates_NNS are_VBP yummy_JJ too_RB ._.
-All_DT I_PRP gotta_VBP say_VB is_VBZ BOMB_NNP ._.

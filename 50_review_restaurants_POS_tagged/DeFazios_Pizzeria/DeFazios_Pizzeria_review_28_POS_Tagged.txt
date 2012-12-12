@@ -1,4 +1,0 @@
-Changed_VBN my_PRP$ review_NN from_IN a_DT four_CD to_TO five_CD star_NN ._.
-After_IN living_VBG in_IN Troy_NNP for_IN almost_RB two_CD years_NNS now_RB ,_, I_PRP rely_VBP on_IN DeFazio_NNP 's_POS for_IN my_PRP$ Italian_JJ cravings_NNS from_IN the_DT fresh_JJ groceries_NNS next_JJ door_NN to_TO the_DT pizza_NN ,_, calzone_NN and_CC salads_NNS ._.
-I_PRP 'm_VBP still_RB not_RB in_IN love_NN with_IN the_DT pasta_NN ,_, I_PRP think_VBP their_PRP$ style_NN will_MD always_RB be_VB a_DT little_JJ too_RB close_JJ to_TO al_VB dente_NN for_IN my_PRP$ tastes_NNS ,_, but_CC the_DT flavors_NNS are_VBP there_RB ._.
-The_DT calzone_NN is_VBZ worth_IN the_DT fifth_JJ star_NN though_IN !_.

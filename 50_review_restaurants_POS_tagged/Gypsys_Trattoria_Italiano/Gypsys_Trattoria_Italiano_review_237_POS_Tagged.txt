@@ -1,2 +1,0 @@
-the_DT best_JJS place_NN in_IN Berkeley_NNP period_NN ._.
-I_PRP could_MD not_RB have_VB survived_VBN in_IN berkeley_NN without_IN this_DT place_NN ._.

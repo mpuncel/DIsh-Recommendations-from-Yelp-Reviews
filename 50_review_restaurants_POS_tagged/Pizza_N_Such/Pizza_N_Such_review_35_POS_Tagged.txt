@@ -1,5 +1,0 @@
-This_DT place_NN is_VBZ overated_VBN and_CC overpriced_VBN !_.
-The_DT ingredients_NNS were_VBD good_JJ and_CC deserving_JJ of_IN 3_CD stars_NNS if_IN the_DT pizza_NN would_MD have_VB been_VBN cooked_VBN properly_RB ._.
-The_DT problem_NN here_RB seems_VBZ to_TO be_VB that_IN they_PRP do_VBP not_RB cook_VB the_DT pizza_NN long_RB enough_RB ,_, the_DT cheese_NN on_IN top_NN is_VBZ melted_VBN ,_, but_CC does_VBZ n't_RB have_VB that_DT tinge_NN of_IN brown_JJ to_TO it_PRP ,_, the_DT pepperoni_NN does_VBZ not_RB have_VB that_DT crispiness_NN around_IN the_DT edge_NN ,_, that_IN I_PRP love_VBP when_WRB cooked_VBN right_RB ._.
-This_DT is_VBZ not_RB the_DT first_JJ time_NN this_DT has_VBZ happened_VBN ._.
-The_DT upside_NN -_: the_DT girls_NNS were_VBD friendly_JJ and_CC helpfull_NN ,_, I_PRP put_VBP the_DT pizza_NN in_IN the_DT oven_NN at_IN home_NN for_IN another_DT 10_CD minutes_NNS and_CC it_PRP was_VBD much_RB better_JJR ._.

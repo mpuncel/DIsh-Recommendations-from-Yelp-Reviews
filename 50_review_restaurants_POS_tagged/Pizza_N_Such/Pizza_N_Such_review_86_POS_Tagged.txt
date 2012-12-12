@@ -1,2 +1,0 @@
-I_PRP love_VBP the_DT interior_NN and_CC exterior_NN of_IN the_DT building_NN ,_, but_CC the_DT food_NN is_VBZ expensive_JJ and_CC never_RB seems_VBZ quite_RB satisfying_JJ ._.
-I_PRP 'd_MD much_RB rather_RB get_VB my_PRP$ pizza_NN at_IN Warehouse_NNP ._.

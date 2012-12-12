@@ -1,3 +1,0 @@
-Had_VBD a_DT tasty_JJ healthy_JJ veggie_NN pizza_NN here_RB -_: wheat_NN crust_NN ,_, lowfat_NN cheese_NN ._.
-The_DT beer_NN special_NN was_VBD hoegarten_VBN -LRB-_-LRB- sp_VB ?_. -RRB-_-RRB-
-,_, a_DT great_JJ match_NN for_IN the_DT dinner_NN ._.

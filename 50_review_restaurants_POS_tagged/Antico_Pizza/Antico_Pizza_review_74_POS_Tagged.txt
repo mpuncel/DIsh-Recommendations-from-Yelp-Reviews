@@ -1,6 +1,0 @@
-Ok_NNP ,_, so_IN the_DT pizza_NN is_VBZ good_JJ ._.
-But_CC the_DT cannoli_NN is_VBZ to_TO die_VB for_IN ._.
-I_PRP had_VBD the_DT pistachio_NN and_CC could_MD not_RB put_VB it_PRP down_RP ._.
-Be_VB sure_JJ to_TO bring_VB your_PRP$ own_JJ beer_NN or_CC wine_NN ._.
-We_PRP did_VBD not_RB know_VB to_TO do_VB that_DT ._.
-Oh_UH ,_, well_RB there_EX 's_VBZ always_RB next_JJ time_NN ._.

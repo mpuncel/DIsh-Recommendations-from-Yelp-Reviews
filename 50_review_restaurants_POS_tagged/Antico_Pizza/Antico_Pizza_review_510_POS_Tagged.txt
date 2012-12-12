@@ -1,3 +1,0 @@
-Only_RB in_IN Atlanta_NNP ._.
-this_DT is_VBZ not_RB only_RB the_DT most_RBS expensive_JJ pizza_NN which_WDT does_VBZ n't_RB really_RB bother_VB me_PRP but_CC it_PRP is_VBZ so_RB lacking_VBG in_IN flavor_NN and_CC the_DT amount_NN of_IN ingredients_NNS is_VBZ insulting_JJ ._.
-All_DT hype_NN ,_, ,_, ,_, ,_, ,_, great_JJ sfugs_NNS but_CC the_DT pizza_NN is_VBZ lacking_VBG in_IN every_DT way_NN

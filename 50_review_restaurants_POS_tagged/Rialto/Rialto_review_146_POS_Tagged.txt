@@ -1,4 +1,0 @@
-Rialto_NNP was_VBD surprisingly_RB excellent_JJ --_: I_PRP was_VBD expecting_VBG average_NN at_IN best_JJS ._.
-They_PRP had_VBD no_DT problem_NN not_RB using_VBG chicken_NN stock_NN -LRB-_-LRB- since_IN I_PRP 'm_VBP a_DT vegetarian_NN -RRB-_-RRB- in_IN what_WP amounted_VBD to_TO a_DT wonderful_JJ risotto_NN for_IN dinner_NN ._.
-The_DT service_NN was_VBD spot_NN on_IN ._.
-She_PRP was_VBD very_RB knowledgeable_JJ about_IN the_DT menu_NN and_CC attentive_NN at_IN the_DT right_JJ times_NNS ._.

@@ -1,6 +1,0 @@
-Babbo_NNP 's_POS is_VBZ more_RBR like_IN 2.5_CD stars_NNS because_IN it_PRP 's_VBZ overpriced_VBN and_CC the_DT food_NN is_VBZ just_RB average_JJ ._.
-But_CC the_DT friendly_JJ waiters_NNS bumps_NNS it_PRP up_RP a_DT notch_NN ._.
-Babbo_NNP 's_POS is_VBZ never_RB busy_JJ like_IN Max_NNP 's_POS next_JJ door_NN ,_, so_IN it_PRP 's_VBZ okay_JJ if_IN you_PRP 're_VBP meeting_VBG others_NNS at_IN the_DT mall_NN and_CC you_PRP need_VBP a_DT quiet_JJ place_NN to_TO eat_VB at_IN your_PRP$ long-time_JJ leisure_NN ._.
-We_PRP were_VBD not_RB rushed_VBN even_RB though_IN we_PRP were_VBD at_IN Babbo_NNP 's_POS for_IN 2_CD hours_NNS catching_VBG up_RP among_IN friends_NNS ._.
-If_IN you_PRP want_VBP better_JJR tasting_NN food_NN at_IN better_JJR prices_NNS ,_, go_VB next_JJ door_NN to_TO Max_NNP 's_POS Cafe_NNP ._.
-If_IN you_PRP need_VBP a_DT quiet_JJ ,_, unrushed_JJ place_NN to_TO eat_VB and_CC you_PRP absolutely_RB can_MD not_RB drive_VB to_TO downtown_NN Palo_NNP Alto_NNP and_CC you_PRP must_MD eat_VB at_IN the_DT mall_NN ,_, then_RB I_PRP suppose_VBP Babbo_NNP 's_POS is_VBZ okay_JJ ._.

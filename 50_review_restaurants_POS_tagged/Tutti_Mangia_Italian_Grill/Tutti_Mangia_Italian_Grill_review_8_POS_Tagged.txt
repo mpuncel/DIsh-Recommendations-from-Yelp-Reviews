@@ -1,8 +1,0 @@
-I_PRP did_VBD not_RB pay_VB so_RB this_DT is_VBZ rated_VBN on_IN everything_NN EXCEPT_IN price_NN ..._: What_WP a_DT great_JJ place_NN this_DT is_VBZ ._.
-Very_RB good_JJ food_NN -LRB-_-LRB- albeit_IN a_DT bit_NN overly_RB adventuresome_JJ -_: did_VBD my_PRP$ pasta_NN really_RB need_VBP the_DT added_VBN crabmeat_NN ?_.
-..._: no_DT it_PRP was_VBD excellent_JJ without_IN it_PRP -RRB-_-RRB- ._.
-The_DT service_NN was_VBD excellent_JJ ._.
-The_DT decor_NN very_RB nice_JJ ._.
-The_DT other_JJ diners_NNS are_VBP a_DT bit_NN older_JJR and_CC dress_VB more_JJR formally_RB -LRB-_-LRB- many_JJ men_NNS in_IN sportcoats_NNS -RRB-_-RRB- ._.
-But_CC this_DT was_VBD a_DT very_RB good_JJ dinner_NN with_IN large_JJ portions_NNS ._.
-Fine_JJ dining_NN in_IN Claremont_NNP !_.

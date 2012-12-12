@@ -1,5 +1,0 @@
-GARLIC_NNP CHEESY_NNP ROLLS_NNS !_.
-That_DT 's_VBZ the_DT only_JJ reason_NN why_WRB I_PRP ever_RB ordered_VBD from_IN Italian_NNP Express_NNP ._.
-They_PRP 're_VBP good_JJ for_IN late_JJ night_NN delivery_NN !_.
-I_PRP 've_VBP had_VBD a_DT couple_NN other_JJ things_NNS from_IN here_RB and_CC they_PRP were_VBD alright_JJ ._.
-But_CC the_DT garlic_JJ cheesy_NN rolls_NNS are_VBP so_RB good_JJ !!!_NN

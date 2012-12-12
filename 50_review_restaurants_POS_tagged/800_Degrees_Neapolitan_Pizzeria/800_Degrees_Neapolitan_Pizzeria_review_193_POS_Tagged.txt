@@ -1,8 +1,0 @@
-I_PRP walked_VBD by_IN this_DT place_NN almost_RB daily_JJ -LRB-_-LRB- I_PRP live_VBP up_RP the_DT street_NN -RRB-_-RRB- and_CC would_MD simply_RB give_VB it_PRP puzzled_VBD looks_VBZ every_DT time_NN I_PRP saw_VBD a_DT long_JJ line_NN draping_VBG around_IN the_DT sidewalk_NN ._.
-Finally_RB went_VBD in_IN for_IN lunch_NN and_CC I_PRP can_MD now_RB understand_VB why_WRB people_NNS line_VBP up_RP for_IN their_PRP$ pizza_NN ._.
-Nothing_NN fancy_NN other_JJ than_IN fresh_JJ ingredients_NNS and_CC made_VBN just_RB the_DT way_NN you_PRP want_VBP it_PRP ._.
-Sort_NN of_IN like_IN a_DT better-grade_JJ Subway\/Chipotle_NNP for_IN pizza_NN ,_, if_IN you_PRP want_VBP it_PRP conduced_VBN to_TO a_DT simple_JJ description_NN ._.
-For_IN the_DT simple_JJ ,_, self-serve_JJ and_CC reasonable_JJ price_NN ,_, the_DT pizzas_NNS are_VBP delicious_JJ and_CC the_DT dough_NN is_VBZ perfectly_RB slightly_RB salted_VBN and_CC sweet_JJ ._.
-I_PRP tried_VBD their_PRP$ specialty_NN pizza_NN ,_, Carni_NNP -LRB-_-LRB- with_IN extra_JJ tomato_NN sauce_NN -RRB-_-RRB- and_CC the_DT Blanca_NNP built_VBN with_IN sweet_JJ Italian_JJ sausage_NN ,_, meatball_NN and_CC artichoke_NN ._.
-I_PRP personally_RB enjoyed_VBD the_DT self-built_JJ Blanca_NNP over_IN the_DT Carni_NNP ,_, mainly_RB because_IN the_DT latter_NN was_VBD slightly_RB drenched_VBN in_IN tomato_NN sauce_NN ._.
-But_CC then_RB again_RB ,_, I_PRP 'm_VBP sure_JJ if_IN the_DT Carni_NNP was_VBD ordered_VBN as_IN it_PRP is_VBZ listed_VBN on_IN the_DT menu_NN without_IN the_DT extra_JJ tomato_NN sauce_NN ,_, it_PRP probably_RB would_MD 've_VB been_VBN better_RB ._.

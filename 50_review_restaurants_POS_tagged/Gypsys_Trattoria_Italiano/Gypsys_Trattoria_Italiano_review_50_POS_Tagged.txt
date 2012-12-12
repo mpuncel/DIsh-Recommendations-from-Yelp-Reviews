@@ -1,8 +1,0 @@
-Gypsy_NNP 's_POS is_VBZ definitely_RB one_CD of_IN my_PRP$ favorite_JJ places_NNS to_TO eat_VB in_IN Berkeley_NNP ,_, and_CC I_PRP almost_RB always_RB get_VB the_DT same_JJ thing_NN ._.
-At_IN the_DT beginning_NN ,_, I_PRP always_RB got_VBD the_DT clam_NN sauce_NN linguine_NN ,_, but_CC I_PRP quickly_RB moved_VBD onto_IN the_DT pollo_NN con_NN pesto_NN dish_NN ._.
-What_WP I_PRP like_VBP about_IN Gypsy_NNP 's_POS is_VBZ they_PRP pretty_RB much_RB let_VB you_PRP choose_VB any_DT sauce_NN and_CC any_DT pasta_NN ,_, they_PRP just_RB do_VBP n't_RB outright_RB say_VB you_PRP can_MD ._.
-They_PRP mix_VBP the_DT pasta_NN right_NN behind_IN the_DT counter_NN ,_, so_IN it_PRP 's_VBZ really_RB easy_JJ to_TO see_VB when_WRB your_PRP$ order_NN will_MD be_VB up_RB ._.
-The_DT pollo_NN con_NN pesto_NN is_VBZ supposed_VBN come_VBN with_IN linguine_NN ,_, but_CC I_PRP always_RB substitute_VBP penne_NN because_IN it_PRP 's_VBZ my_PRP$ favorite_JJ ,_, and_CC oh_UH so_RB good_JJ with_IN the_DT pesto_NN ._.
-They_PRP also_RB give_VBP you_PRP fresh_JJ garlic_JJ bread_NN with_IN pieces_NNS of_IN fresh_JJ garlic_NN on_IN top_NN ,_, mMmm_NNP ._.
-I_PRP wish_VBP there_EX was_VBD a_DT place_NN like_IN Gypsy_NNP 's_POS near_IN me_PRP ,_, any_DT takeout_NN pasta_NN place_NN that_WDT 's_VBZ this_DT good_JJ and_CC this_DT decently_RB priced_VBN would_MD be_VB amazing_JJ ._.
-Love_NNP it_PRP !_.

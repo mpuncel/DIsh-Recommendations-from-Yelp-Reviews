@@ -1,4 +1,0 @@
-The_DT owner_NN is_VBZ super_JJ nice_JJ and_CC after_IN a_DT long_JJ day_NN of_IN work_NN there_EX 's_VBZ nothing_NN like_IN their_PRP$ ..._: Spaghetti_NNP Ala_NNP Carbonara_NNP :_: SERIOUSLY_NNP THIS_NNP STUFF_NNP IS_VBZ AMAZING_NNP ._.
-The_DT pasta_NN is_VBZ cooked_VBN al_JJ dente_NN and_CC it_PRP just_RB swims_VBZ in_IN this_DT decadent_JJ pink_JJ sauce_NN that_WDT has_VBZ huge_JJ fatty_JJ hunks_NNS of_IN bacon_NN and_CC mushrooms_NNS ._.
-It_PRP is_VBZ just_RB AMAZING_NNP and_CC definitely_RB satisfies_VBZ your_PRP$ cravings_NNS for_IN something_NN rich_JJ and_CC hearty_NN ._.
-Get_VB it_PRP !!_IN

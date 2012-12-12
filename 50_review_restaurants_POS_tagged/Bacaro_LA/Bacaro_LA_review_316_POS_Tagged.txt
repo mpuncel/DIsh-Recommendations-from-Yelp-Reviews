@@ -1,2 +1,0 @@
-Street_NNP Parking_NNP ._.
-Small_JJ Place_NNP -LRB-_-LRB- Banner_NNP is_VBZ hard_JJ to_TO miss_VB so_RB keep_VB on_IN the_DT look_NN out_IN -RRB-_-RRB- Cute_JJ seating_NN and_CC menu_NN board_NN =_SYM wall_NN Food_NN is_VBZ delicious_JJ but_CC can_MD be_VB small_JJ Totally_RB be_VB worth_JJ trying_VBG ,_, especially_RB during_IN happy_JJ hour_NN !_.

@@ -1,5 +1,0 @@
-This_DT has_VBZ to_TO be_VB one_CD of_IN my_PRP$ top_JJ three_CD favorite_JJ italian_JJ restaurants_NNS ._.
-I_PRP recommend_VBP the_DT crazy_JJ Alfredo_NNP ,_, the_DT shrimp_NN Alfredo_NNP or_CC any_DT of_IN their_PRP$ calzones_NNS !_.
-Their_PRP$ garlic_JJ bread_NN is_VBZ different_JJ but_CC still_RB so_RB good_JJ ._.
-It_PRP 's_VBZ fresh_JJ bread_NN with_IN a_DT slab_NN of_IN garlic_JJ halfway_NN melted_VBN on_IN it_PRP -LRB-_-LRB- atleast_NN when_WRB they_PRP give_VBP it_PRP to_TO me_PRP !_. -RRB-_-RRB-
-oh_UH &_CC friendly_JJ staff_NN too_RB !_.

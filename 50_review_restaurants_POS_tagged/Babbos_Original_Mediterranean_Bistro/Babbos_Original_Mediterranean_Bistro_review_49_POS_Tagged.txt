@@ -1,3 +1,0 @@
-The_DT seafood_NN puff_NN pastry_NN is_VBZ delicious_JJ !_.
-The_DT sauce_NN is_VBZ rich_JJ and_CC full_JJ of_IN flavor_NN and_CC the_DT shrimp_NN ,_, scallops_NNS ,_, and_CC mushroom_NN go_VBP perfectly_RB with_IN the_DT pastry_NN shell_NN !_.
-Do_VBP n't_RB waste_VB any_DT of_IN the_DT sauce_NN by_IN dipping_VBG the_DT focaccia_NN bread_NN they_PRP give_VBP you_PRP into_IN it_PRP !_.

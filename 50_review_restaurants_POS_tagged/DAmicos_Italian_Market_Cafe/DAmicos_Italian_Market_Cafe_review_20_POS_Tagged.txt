@@ -1,4 +1,0 @@
-Great_NNP little_JJ Italian_JJ spot_NN ._.
-Not_RB a_DT large_JJ place_NN ,_, but_CC a_DT perfect_JJ little_JJ get-away_NN ._.
-Food_NNP is_VBZ fantastic_JJ ._.
-Highly_NNP suggest_VBP the_DT weekday_NN lunch_NN deal_NN ._.

@@ -1,5 +1,0 @@
-Drove_NNP from_IN SF_NNP to_TO eat_VB their_PRP$ pasta_NN and_CC was_VBD not_RB disappointed_VBN ._.
-Agreed_VBN there_EX are_VBP other_JJ Italian_JJ places_NNS around_IN ,_, but_CC hang_VB on_IN ._. ._.
-this_DT cheap_JJ ?_.
-Nah_NNP ..._: Tried_VBD their_PRP$ ravioli_NNS and_CC it_PRP was_VBD smothered_VBN with_IN cheese_NN -LRB-_-LRB- and_CC more_JJR cheese_NN -RRB-_-RRB- and_CC a_DT cheese_NN lover_NN like_IN me_PRP could_MD know_VB no_DT bounds_NNS of_IN happiness_NN when_WRB I_PRP savored_VBD this_DT ._.
-Come_VBN here_RB for_IN a_DT quick_JJ and_CC cheap_JJ Italian_JJ fix_NN ._.

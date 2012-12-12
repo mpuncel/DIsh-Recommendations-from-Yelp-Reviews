@@ -1,5 +1,0 @@
-Service_NNP was_VBD slow_JJ ,_, but_CC the_DT Carne_NNP Estufada_NNP was_VBD excellent_JJ ._.
-Well_RB worth_IN the_DT wait_NN ,_, although_IN would_MD have_VB been_VBN even_RB better_RBR accompanied_VBN by_IN some_DT fresh_JJ baked_JJ bread_NN with_IN butter_NN ._.
-Salad_NN was_VBD a_DT bit_NN skimpy_JJ ._.
-Business_NN seems_VBZ to_TO be_VB good_JJ as_IN the_DT time_NN we_PRP sat_VBD there_EX was_VBD a_DT constant_JJ flow_NN of_IN people_NNS ._.
-Had_VBD a_DT nice_JJ out_IN of_IN the_DT ordinary_JJ selection_NN of_IN food_NN ._.

@@ -1,6 +1,0 @@
-3_CD stars_NNS overall_JJ in_IN comparison_NN to_TO Italian_JJ restaurants_NNS in_IN other_JJ cities_NNS ._.
-Good_JJ food_NN ,_, decent_JJ service_NN ,_, nice_JJ ambiance_NN ,_, and_CC good_JJ people_NNS watching_VBG ._.
-4_CD stars_NNS if_IN you_PRP 've_VBP ever_RB lived_VBN in_IN SLO_NNP before_IN 2000_CD when_WRB there_EX was_VBD absolutely_RB nothing_NN that_WDT really_RB catered_VBD to_TO its_PRP$ college_NN crowd_NN or_CC young_JJ professionals_NNS ._.
-And_CC ,_, if_IN it_PRP did_VBD the_DT food_NN was_VBD generally_RB mediocre_JJ at_IN best_JJS ,_, with_IN the_DT exception_NN of_IN a_DT few_JJ outstanding_JJ mainstays_NNS that_WDT survived_VBD the_DT recent_JJ downtown_NN SLO_NNP facelift_NN ._.
-Most_JJS ,_, if_IN not_RB all_DT ,_, Italian_JJ restaurants_NNS pre-2000_JJ looked_VBD like_IN your_PRP$ grandmother_NN 's_POS living_NN room_NN ..._: old_JJ ,_, tired_JJ ,_, and_CC smelled_VBD funny_JJ ._.
-So_IN it_PRP 's_VBZ refreshing_VBG to_TO see_VB SLO_NNP catching_VBG up_RP to_TO modern_JJ times_NNS ._.

@@ -1,4 +1,0 @@
-Nice_JJ patio_NN ,_, nice_JJ people_NNS ,_, good_JJ food_NN ,_, generous_JJ portions_NNS ._.
-I_PRP 'm_VBP a_DT sucker_NN for_IN any_DT pasta_NN with_IN meat_NN sauce_NN ._.
-I_PRP was_VBD originally_RB planning_VBG to_TO go_VB somewhere_RB else_RB but_CC did_VBD n't_RB feel_VB like_IN getting_VBG all_DT dressed_VBN up_RP ,_, so_IN I_PRP came_VBD here_RB instead_RB ._.
-To_TO the_DT owner_NN :_: I_PRP want_VBP your_PRP$ Fiat_NNP cinquecento_NN !_.

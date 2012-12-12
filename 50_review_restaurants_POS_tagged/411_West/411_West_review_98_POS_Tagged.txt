@@ -1,6 +1,0 @@
-Solid_JJ italian_JJ food_NN with_IN a_DT good_JJ wine_NN list_NN and_CC beer_NN and_CC cocktail_NN selection_NN ._.
-I_PRP 've_VBP had_VBD the_DT spaghetti_NNS marinara_NN and_CC the_DT cheese_NN lasagna_NN and_CC I_PRP would_MD recommend_VB both_DT ._.
-The_DT desserts_NNS are_VBP incredible_JJ ,_, as_IN is_VBZ the_DT herb_NN butter_NN served_VBD with_IN the_DT rolls_NNS ._.
-The_DT service_NN is_VBZ also_RB pretty_RB good_JJ ._.
-They_PRP accommodated_VBD our_PRP$ walk-in_JJ party_NN of_IN 8_CD at_IN 6_CD p.m._RB on_IN a_DT Friday_NNP night_NN with_IN a_DT minimal_JJ wait_NN ,_, even_RB though_IN the_DT restaurant_NN was_VBD crowded_VBN ._.
-I_PRP would_MD n't_RB call_VB the_DT food_NN spectacular_JJ ,_, but_CC it_PRP 's_VBZ a_DT safe_JJ choice_NN if_IN you_PRP 're_VBP looking_VBG for_IN Italian_JJ in_IN Chapel_NNP Hill_NNP ._.

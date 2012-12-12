@@ -1,5 +1,0 @@
-Che_NNP Bella_NNP is_VBZ one_CD of_IN the_DT best_JJS quick_JJ food_NN options_NNS around_IN Columbia_NNP ,_, in_IN my_PRP$ opinion_NN ._.
-Now_RB ,_, let_VB 's_POS be_VB real_JJ ,_, that_DT 's_VBZ not_RB saying_VBG much_JJ -LRB-_-LRB- I_PRP agree_VBP entirely_RB with_IN the_DT captive_JJ demographic_JJ theory_NN presented_VBN by_IN a_DT former_JJ reviewer_NN --_: if_IN you_PRP 're_VBP located_VBN around_IN Columbia_NNP ,_, people_NNS will_MD eat_VB your_PRP$ food_NN whether_IN it_PRP 's_VBZ good_JJ or_CC not_RB -RRB-_-RRB- ,_, but_CC it_PRP is_VBZ important_JJ to_TO note_VB ._.
-I_PRP 've_VBP only_RB had_VBD the_DT pizza_NN ,_, but_CC I_PRP 've_VBP always_RB been_VBN pretty_RB impressed_VBN by_IN it_PRP ._.
-The_DT sauce_NN is_VBZ especially_RB delicious_JJ ._.
-The_DT line_NN system_NN here_RB is_VBZ a_DT little_JJ strange_JJ in_IN terms_NNS of_IN ordering_VBG then_RB waiting_VBG for_IN your_PRP$ food_NN to_TO reach_VB the_DT cash_NN register_NN ,_, but_CC it_PRP usually_RB does_VBZ go_VB pretty_RB quickly_RB as_RB long_JJ as_IN you_PRP listen_VBP for_IN what_WP you_PRP ordered_VBD to_TO be_VB called_VBN ._.

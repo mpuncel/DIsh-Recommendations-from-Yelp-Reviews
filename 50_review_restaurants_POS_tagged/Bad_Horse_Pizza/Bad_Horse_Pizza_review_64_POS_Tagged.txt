@@ -1,3 +1,0 @@
-The_DT pizza_NN is_VBZ great_JJ but_CC I_PRP 'm_VBP docking_VBG two_CD stars_NNS because_IN it_PRP is_VBZ SO_RB overpriced_VBN ._.
-A_DT 10_CD ''_'' personal_JJ pizza_NN is_VBZ $_$ 19_CD bucks_NNS ._.
-Wowzers_NNS

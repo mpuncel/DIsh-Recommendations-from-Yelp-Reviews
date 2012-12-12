@@ -1,5 +1,0 @@
-First_JJ place_NN I_PRP think_VBP of_IN when_WRB I_PRP think_VBP Pizza_NNP !_.
-Great_NNP thick_JJ ,_, chewy_JJ crust_NN and_CC a_DT wide_JJ range_NN of_IN toppings_NNS ._.
-We_PRP always_RB split_VBD a_DT small_JJ salad_NN with_IN extra_JJ black_JJ olives_NNS and_CC creamy_JJ Italian_JJ dressing_VBG ._.
-Small_JJ selection_NN of_IN local_JJ beers_NNS and_CC some_DT nice_JJ wines_NNS ._.
-Friendly_RB ,_, quick_JJ service_NN and_CC lots_NNS of_IN support_NN for_IN area_NN activities_NNS ._.

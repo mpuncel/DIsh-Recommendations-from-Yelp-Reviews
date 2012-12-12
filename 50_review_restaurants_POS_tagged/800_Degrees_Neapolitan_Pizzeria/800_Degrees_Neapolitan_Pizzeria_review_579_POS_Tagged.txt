@@ -1,4 +1,0 @@
-this_DT place_NN is_VBZ so_RB absolutely_RB awesome_JJ ._.
-this_DT is_VBZ like_IN the_DT pizza_NN dinner_NN equivalent_NN of_IN Mendocino_NNP farms_NNS but_CC even_RB better_RBR ._.
-good_JJ prices_NNS ,_, fantastic_JJ pizza_NN ,_, great_JJ atmosphere_NN ._.
-Westwood_NNP needed_VBD this_DT !_.

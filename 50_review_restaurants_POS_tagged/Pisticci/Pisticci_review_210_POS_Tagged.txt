@@ -1,5 +1,0 @@
-Fabulous_NNP ..._: great_JJ pasta_NN ,_, amazing_JJ bread_NN and_CC olive_JJ oil_NN ,_, very_RB accommodating_VBG ._.
-for_IN kids_NNS ,_, although_IN not_RB a_DT kid_NN place_NN ..._: good_JJ music_NN ,_, wine_NN ,_, great_JJ cheesecake_NN and_CC coconut_NN cake_NN ._. ._.
-the_DT fig_NN salad_NN is_VBZ enough_RB just_RB to_TO move_VB in_IN ._.
-plus_IN a_DT cute_JJ waiter_NN ..._: 4_CD stars_NNS ._. ._.
-very_RB good_JJ !_.

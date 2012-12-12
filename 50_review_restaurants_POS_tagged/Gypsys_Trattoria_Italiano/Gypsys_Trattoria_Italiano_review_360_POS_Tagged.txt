@@ -1,7 +1,0 @@
-I_PRP come_VBP here_RB for_IN lunch_NN often_RB ._.
-Great_NNP location_NN near_IN campus_NN at_IN only_RB $_$ 8_CD a_DT plate_NN ._.
-Godfather_NNP 's_POS favorite_NN is_VBZ a_DT regular_JJ order_NN :_: -RRB-_-RRB- Gets_VBZ a_DT bit_NN heavy_JJ ,_, so_RB not_RB something_NN to_TO get_VB often_RB but_CC all_DT in_IN all_DT a_DT great_JJ place_NN ._.
-They_PRP have_VBP a_DT really_RB efficient_JJ system_NN of_IN getting_VBG food_NN to_TO you_PRP quick_JJ though_IN ._.
-Loses_VBZ a_DT star_NN for_IN presentation_NN of_IN the_DT restaurant_NN and_CC not_RB using_VBG compostable_JJ take-out_JJ boxes_NNS ._.
-This_DT place_NN needs_VBZ to_TO go_VB green_JJ !_.
-Especially_RB in_IN the_DT heart_NN of_IN Berkeley_NNP ._.

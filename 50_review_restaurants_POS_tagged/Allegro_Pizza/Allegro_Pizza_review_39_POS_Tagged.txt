@@ -1,5 +1,0 @@
-I_PRP do_VBP n't_RB hate_VB their_PRP$ pizza_NN ._.
-I_PRP just_RB do_VBP n't_RB like_VB being_VBG in_IN this_DT place_NN ._.
-I_PRP guess_VBP I_PRP only_RB like_IN this_DT pizza_NN when_WRB it_PRP 's_VBZ delivered_VBN for_IN a_DT work_NN function_NN ._.
-Otherwise_RB ,_, this_DT place_NN is_VBZ just_RB another_DT pizza_NN place_NN that_WDT sells_VBZ beer_NN too_RB ._.
-Oh_UH ,_, and_CC it_PRP 's_VBZ filled_VBN with_IN Penn_NNP students_NNS ._.

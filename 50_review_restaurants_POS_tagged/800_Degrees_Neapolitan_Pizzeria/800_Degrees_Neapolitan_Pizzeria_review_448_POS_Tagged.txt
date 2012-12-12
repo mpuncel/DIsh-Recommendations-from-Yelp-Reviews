@@ -1,5 +1,0 @@
-My_PRP$ friends_NNS and_CC colleagues_NNS describe_VBP the_DT pizza_NN as_IN ``_`` soggy_JJ ''_'' but_CC the_DT accurate_JJ description_NN is_VBZ ``_`` soft_JJ crust_NN ._. ''_''
-New_NNP York_NNP style_NN this_DT is_VBZ not_RB ._.
-The_DT ingredients_NNS are_VBP first-rate_JJ ,_, and_CC the_DT pizza_NN is_VBZ comparable_JJ to_TO what_WP you_PRP would_MD get_VB for_IN twice_RB the_DT price_NN -LRB-_-LRB- or_CC more_JJR -RRB-_-RRB- at_IN a_DT ``_`` sit-down_JJ ''_'' restaurant_NN with_IN table_NN service_NN ._.
-The_DT line_NN can_MD be_VB quite_RB long_JJ -_: it_PRP has_VBZ taken_VBN me_PRP up_RP to_TO an_DT hour_NN from_IN when_WRB I_PRP got_VBD in_IN line_NN to_TO when_WRB I_PRP got_VBD the_DT pizza_NN -_: so_RB good_JJ luck_NN !_.
-It_PRP is_VBZ best_RB to_TO go_VB for_IN an_DT early_JJ lunch_NN or_CC -LRB-_-LRB- very_RB -RRB-_-RRB- early_RB dinner_NN ._.

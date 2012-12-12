@@ -1,4 +1,0 @@
-Al_NNP Forno_NNP gave_VBD me_PRP a_DT seasonal_JJ pumpkin_NN pizza_NN and_CC it_PRP ruled_VBD ._.
-They_PRP did_VBD n't_RB slice_VB it_PRP for_IN me_PRP ,_, which_WDT is_VBZ fine_JJ because_IN I_PRP like_VBP to_TO cut_VB my_PRP$ pizza_NN slices_VBZ into_IN rhomboids_NNS and_CC silhouettes_NNS of_IN celebrities_NNS ._.
-This_DT is_VBZ serious_JJ pizza_NN ._.
-There_EX are_VBP other_JJ things_NNS on_IN the_DT menu_NN but_CC they_PRP are_VBP all_DT outshined_VBN by_IN this_DT pizza_NN ._.

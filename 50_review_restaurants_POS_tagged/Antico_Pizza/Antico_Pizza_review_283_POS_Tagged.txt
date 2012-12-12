@@ -1,7 +1,0 @@
-Pizza_NNP was_VBD authentic_JJ and_CC delicious_JJ straight_RB from_IN Italy_NNP ._.
-Seating_NN is_VBZ limited_VBN ,_, but_CC did_VBD not_RB have_VB to_TO wait_VB long_RB for_IN a_DT table_NN ._.
-Would_MD love_VB to_TO have_VB outside_JJ seating_NN on_IN a_DT beautiful_JJ afternoon_NN ._.
-The_DT cannoli_NN was_VBD incredible_JJ as_IN was_VBD the_DT tiramiasu_NN ._.
-The_DT only_JJ real_JJ criticism_NN is_VBZ that_IN the_DT pizza_NN and_CC deserts_NNS were_VBD rather_RB expensive_JJ ._.
-$_$ 51_CD for_IN two_CD pies_NNS and_CC two_CD cokes_NNS ._.
-Food_NNP was_VBD very_RB good_JJ though_IN ,_, so_IN a_DT definite_JJ must_MD if_IN you_PRP love_VBP pizza_NN ._.

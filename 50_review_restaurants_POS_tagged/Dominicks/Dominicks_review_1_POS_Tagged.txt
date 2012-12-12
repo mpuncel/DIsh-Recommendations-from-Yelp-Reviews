@@ -1,7 +1,0 @@
-I_PRP have_VBP loved_VBN the_DT place_NN since_IN college_NN ._.
-I_PRP know_VBP that_IN the_DT wait_NN is_VBZ a_DT pain_NN ,_, but_CC the_DT reward_NN is_VBZ some_DT of_IN the_DT best_JJS Sangria_NNP you_PRP can_MD get_VB ._.
-The_DT atmosphere_NN is_VBZ also_RB amazing_JJ will_NN of_IN the_DT outdoor_JJ seating_NN in_IN the_DT back_NN ._.
-It_PRP is_VBZ a_DT place_NN I_PRP still_RB stop_VB at_IN every_DT time_NN I_PRP am_VBP in_IN Ann_NNP Arbor_NNP for_IN just_RB a_DT quick_JJ glass_NN or_CC two_CD of_IN Sangria_NNP ._.
-As_IN for_IN the_DT food_NN ,_, there_EX is_VBZ much_RB better_JJR food_NN around_IN Ann_NNP Arbor_NNP ,_, but_CC the_DT atmosphere_NN and_CC drinks_NNS make_VBP it_PRP acceptable_JJ ._.
-It_PRP is_VBZ the_DT best_JJS place_NN to_TO spend_VB an_DT afternoon_NN on_IN campus_NN ,_, or_CC even_RB after_IN football_NN games_NNS ._.
-Just_RB be_VB aware_JJ ,_, it_PRP closes_VBZ early_RB every_DT night_NN ._.

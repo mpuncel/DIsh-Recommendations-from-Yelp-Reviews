@@ -1,4 +1,0 @@
-Authentic_NNP ,_, simple_JJ and_CC fresh_JJ Italian_JJ food_NN ._.
-Quick_NNP and_CC courteous_JJ service_NN and_CC a_DT beautiful_JJ location_NN with_IN a_DT large_JJ patio_NN ._.
-Def_NNP recommed_VBD !_.
-Shakerato_NNP is_VBZ so_RB good_JJ !_.

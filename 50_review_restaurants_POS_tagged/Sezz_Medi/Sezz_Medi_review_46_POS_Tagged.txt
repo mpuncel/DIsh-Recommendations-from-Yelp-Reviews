@@ -1,7 +1,0 @@
-My_PRP$ cousin_NN &_CC I_PRP met_VBD up_RP here_RB for_IN dinner_NN ._.
-The_DT food_NN was_VBD good_JJ ,_, the_DT service_NN was_VBD good_JJ ,_, and_CC the_DT ambience_NN was_VBD nice_JJ ._.
-Their_PRP$ appetizer_NN brown_JJ bread_NN is_VBZ very_RB good_JJ ._.
-I_PRP had_VBD a_DT salad_NN and_CC ordered_VBD it_PRP without_IN dressing_VBG ._.
-It_PRP came_VBD with_IN dressing_VBG which_WDT they_PRP kindly_RB remade_VB for_IN me_PRP without_IN a_DT fuss_NN ._.
-My_PRP$ cousin_NN had_VBD salmon_NN and_CC a_DT cream_NN sauce_NN which_WDT he_PRP said_VBD was_VBD tasty_JJ ._.
-Worth_JJ stopping_VBG in_IN ,_, if_IN you_PRP 're_VBP in_IN the_DT neighborhood_NN ._.

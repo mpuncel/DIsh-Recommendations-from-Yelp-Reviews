@@ -1,8 +1,0 @@
-Took_NNP wife_NN and_CC 8_CD year_NN daughter_NN on_IN a_DT Friday_NNP night_NN ._.
-Had_VBD reservations_NNS for_IN 7_CD and_CC we_PRP were_VBD seated_VBN quickly_RB at_IN a_DT nice_JJ table_NN ._.
-We_PRP beet_NN salad_NN with_IN duck_NN breast_NN ,_, fried_VBD calmari_NN ,_, and_CC seafood_NN salad_NN to_TO start_VB ._.
-All_DT were_VBD excellent_JJ ._.
-Dinner_NN was_VBD risotto_JJ with_IN squid_JJ ink_NN sauce_NN ,_, ravioli_NNS ,_, and_CC roasted_JJ rabbit_NN ._.
-The_DT special_JJ ravioli_NN was_VBD a_DT miss_VBP but_CC the_DT other_JJ two_CD dishes_NNS were_VBD excellent_JJ ._.
-Service_NNP was_VBD excellent_JJ all_DT around_RB ._.
-Would_MD go_VB back_RB ,_, very_RB soon_RB ._. ._.

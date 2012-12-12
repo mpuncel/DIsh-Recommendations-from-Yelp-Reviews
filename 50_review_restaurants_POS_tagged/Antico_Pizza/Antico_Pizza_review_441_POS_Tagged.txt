@@ -1,4 +1,0 @@
-The_DT food_NN ,_, the_DT enthusiasm_NN ,_, the_DT pure_JJ joy_NN in_IN the_DT making_NN of_IN pizza_NN ..._: What_WP else_RB is_VBZ there_EX ?_.
-You_PRP walk_VBP in_IN ,_, and_CC you_PRP feel_VBP like_IN family_NN ._.
-You_PRP eat_VBP ,_, and_CC you_PRP feel_VBP like_IN heaven_NN ._.
-There_EX are_VBP so_RB many_JJ little_JJ things_NNS that_WDT are_VBP so_RB ,_, so_RB right_RB ,_, but_CC the_DT big_JJ one_NN is_VBZ this_DT :_: Amazing_JJ pizza_NN ._.

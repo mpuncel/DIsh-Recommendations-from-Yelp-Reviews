@@ -1,7 +1,0 @@
-First_NNP off_RB ,_, I_PRP do_VBP n't_RB have_VB much_JJ feeling_NN about_IN this_DT place_NN ,_, and_CC I_PRP 'm_VBP writing_VBG this_DT mostly_RB to_TO tell_VB the_DT mighty_JJ Yelp_NNP god_NN I_PRP 'm_VBP alive_JJ and_CC well_RB ._.
-I_PRP went_VBD to_TO Babbo_NNP 's_POS with_IN two_CD friends_NNS ,_, one_CD who_WP 's_VBZ in_IN town_NN from_IN Germany_NNP for_IN a_DT 3-week_JJ SLAC_NNP internship_NN ,_, the_DT other_JJ arrived_VBN from_IN Germany_NNP just_RB months_NNS ago_IN performing_VBG her_PRP$ particle_NN bombardment_NN duties_NNS ._.
-It_PRP was_VBD n't_RB a_DT flawed_JJ dining_NN experience_NN ,_, but_CC neither_DT was_VBD it_PRP spectacular_JJ ._.
-Sitting_VBG in_IN a_DT busy_JJ corner_NN with_IN a_DT merlot_NN and_CC watching_VBG the_DT Stanford_NNP Mall_NNP shopping_NN crowd_NN swarming_VBG by_IN set_VBN a_DT semi-bourgeois_JJ tone_NN ;_: a_DT delicious_JJ smoked_JJ salmon_NN salad_NN completes_VBZ the_DT deal_NN ._.
-Mind_VB you_PRP ,_, this_DT is_VBZ the_DT Stanford_NNP Mall_NNP ,_, the_DT crown_NN jewel_NN of_IN strip_NN malls_NNS ,_, so_IN no_DT free_JJ bread_NN and_CC hummus_NN should_MD be_VB expected_VBN ,_, nor_CC was_VBD it_PRP offered_VBD ._.
-The_DT friendly_JJ waiter_NN deserves_VBZ high_JJ marks_NNS for_IN making_VBG my_PRP$ German-mannered_JJ company_NN feel_VB at_IN home_NN ._.
-It_PRP 's_VBZ understandably_RB pricey_JJ ,_, but_CC you_PRP do_VBP get_VB a_DT little_JJ bit_NN of_IN decadent_JJ pleasure_NN back_RB ._.

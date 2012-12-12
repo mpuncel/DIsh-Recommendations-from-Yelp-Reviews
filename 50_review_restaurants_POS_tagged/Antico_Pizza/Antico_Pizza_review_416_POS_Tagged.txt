@@ -1,6 +1,0 @@
-Came_NNP to_TO Antico_NNP ..._: Yes_UH ,_, It_PRP was_VBD good_JJ pizza_NN ..._: was_VBD it_PRP the_DT best_JJS pizza_NN I_PRP 've_VBP ever_RB eaten_VBN ..._: NO._NNP ._.
-The_DT crust_NN was_VBD too_RB doughy_JJ ._.
-I_PRP usually_RB like_VBP my_PRP$ pizza_NN dough_VBP a_DT little_JJ crispier_NN and_CC more_JJR flavorful_JJ ..._: basically_RB the_DT entire_JJ pizza_NN had_VBD no_DT flavor_NN ._.
-Just_RB lots_NNS of_IN gooey_NN cheese_NN and_CC dough_NN ._.
-They_PRP say_VBP you_PRP have_VBP to_TO eat_VB the_DT pizza_NN HOT_NNP to_TO enjoy_VB it_PRP ..._: but_CC when_WRB it_PRP was_VBD HOT_NNP it_PRP was_VBD a_DT gooey_NN mess_NN ._.
-Everyone_NN says_VBZ that_IN this_DT pizza_NN is_VBZ AUTHENTIC_NNP ITALIAN_NNP pizza_NN like_IN it_PRP 's_VBZ eaten_VBN in_IN Italy_NNP ..._: I_PRP would_MD love_VB to_TO visit_VB Italy_NNP one_CD day_NN BUT_NNP for_IN now_RB my_PRP$ taste_NN is_VBZ more_RBR accustom_JJ to_TO affordable_JJ pizza_NN ,_, with_IN more_JJR flavor_NN and_CC not_RB so_RB doughy_JJ crust_NN ,_, that_IN I_PRP can_MD sit_VB down_RB and_CC enjoy_VB ._.

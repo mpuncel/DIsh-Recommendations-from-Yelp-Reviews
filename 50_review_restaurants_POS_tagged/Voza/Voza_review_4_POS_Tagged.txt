@@ -1,5 +1,0 @@
-Nice_RB little_JJ romantic_JJ place_NN ._.
-The_DT chef_NN is_VBZ a_DT real_JJ nice_JJ guy_NN and_CC let_VB 's_POS you_PRP know_VBP the_DT deal_NN at_IN your_PRP$ table_NN ._.
-Food_NNP is_VBZ great_JJ ._.
-Solid_JJ fine_JJ dining_NN experience_NN ._.
-Not_RB too_RB expensive_JJ either_CC as_RB far_RB as_IN NYC_NNP goes_VBZ ._.

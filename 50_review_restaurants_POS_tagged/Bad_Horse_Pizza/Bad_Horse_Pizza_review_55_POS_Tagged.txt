@@ -1,2 +1,0 @@
-The_DT pizza_NN at_IN Bad_NNP Horse_NNP was_VBD good_JJ -LRB-_-LRB- because_IN of_IN the_DT fresh_JJ ingredients_NNS -RRB-_-RRB- but_CC not_RB great_JJ ._.
-It_PRP sucks_VBZ to_TO pay_VB $_$ 25_CD for_IN a_DT personal_JJ sized_VBN pie_NN that_WDT is_VBZ not_RB great_JJ ._.

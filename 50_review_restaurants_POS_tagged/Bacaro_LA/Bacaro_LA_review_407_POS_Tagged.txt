@@ -1,4 +1,0 @@
-I_PRP had_VBD a_DT great_JJ time_NN at_IN my_PRP$ first_JJ visit_NN ._.
-My_PRP$ friends_NNS had_VBD steak_NN and_CC delicious_JJ red_JJ wine_NN ._.
-We_PRP met_VBD the_DT charming_JJ owners_NNS and_CC really_RB enjoyed_VBD the_DT experience_NN ._.
-I_PRP will_MD be_VB back_RB in_IN the_DT Fall_NN for_IN a_DT Meetup_NNP event_NN that_IN I_PRP plan_VBP to_TO have_VB their_PRP$ since_IN I_PRP liked_VBD it_PRP so_RB much_RB !_.

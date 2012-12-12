@@ -1,3 +1,0 @@
-What_WP :_: Pasta_NNP Alfredo_NNP When_WRB :_: Lunch_NNP Food_NNP :_: 3_CD stars_NNS Service_NN :_: 4_CD stars_NNS Atmosphere_NNP :_: 3_CD stars_NNS Price_NN :_: 3_CD stars_NNS Note_VB :_: Nothing_NN special_JJ as_IN you_PRP go_VBP up_RB and_CC you_PRP order_VB your_PRP$ food_NN and_CC they_PRP 'll_MD bring_VB it_PRP out_RP to_TO you_PRP ._.
-It_PRP may_MD not_RB be_VB a_DT franchise_NN ,_, but_CC it_PRP definitely_RB felt_VBD like_IN one_CD ._.
-It_PRP 's_VBZ normal_JJ ,_, not_RB bad_JJ ,_, not_RB good_JJ ,_, just_RB right_RB in_IN the_DT middle_NN ._.

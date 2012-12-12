@@ -1,7 +1,0 @@
-Rialto_NNP during_IN restaurant_NN week_NN was_VBD amazing_JJ ._.
-Their_PRP$ fixed_VBN price_NN menu_NN revisited_VBD past_JJ dishes_NNS from_IN Rialto_NNP 's_POS early_JJ days_NNS and_CC was_VBD amazing_JJ ._.
-For_IN appetizers_NNS we_PRP had_VBD mussels_NNS with_IN angel_NN hair_NN -LRB-_-LRB- with_IN delicious_JJ broth_NN -RRB-_-RRB- and_CC prosciutto_NN with_IN arugula_NN ._.
-Our_PRP$ main_JJ courses_NNS were_VBD bluefish_JJ -LRB-_-LRB- very_RB light_JJ -RRB-_-RRB- and_CC pork_NN tenderloin_NN with_IN polenta_NN ,_, which_WDT was_VBD fabulous_JJ ._.
-To_TO top_VB it_PRP all_DT of_IN we_PRP had_VBD a_DT peach_NN corstata_NN and_CC profiterol_NN for_IN dessert_NN ._.
-Awesome_JJ meal_NN -_: great_JJ view_NN too_RB ,_, overlooking_VBG Harvard_NNP Square_NNP ._.
-Restaurant_NNP week_NN was_VBD a_DT great_JJ opportunity_NN to_TO check_VB out_RP Rialto_NNP ._.

@@ -1,4 +1,0 @@
-I_PRP 've_VBP been_VBN going_VBG to_TO Celestino_NNP for_IN years_NNS ._.
-I_PRP have_VBP not_RB had_VBN a_DT bad_JJ meal_NN here_RB ._.
-The_DT service_NN is_VBZ excellent_JJ ,_, it_PRP seems_VBZ like_IN all_DT of_IN the_DT waiters_NNS are_VBP Italian_JJ ..._: or_CC at_IN least_JJS have_VBP great_JJ fake_JJ Italian_JJ accents_NNS ._.
-I_PRP had_VBD the_DT risotto_JJ special_JJ the_DT last_JJ time_NN I_PRP dined_VBD at_IN Celestino_NNP ..._: it_PRP was_VBD wonderful_JJ and_CC rich_JJ and_CC the_DT arborio_NN rice_NN was_VBD just_RB the_DT right_JJ texture_NN with_IN a_DT nice_JJ creamy_JJ consistency_NN ._.

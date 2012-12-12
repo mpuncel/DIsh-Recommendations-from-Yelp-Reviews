@@ -1,1 +1,0 @@
-Pacci_NNP burger_NN gets_VBZ a_DT D_NNP -_: I_PRP 've_VBP had_VBD a_DT better_JJR burger_NN at_IN In-n-Out_NNP No_NNP utensils_VBZ provided_VBN Waiter_NNP never_RB asked_VBD us_PRP how_WRB our_PRP$ food_NN was_VBD

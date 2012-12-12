@@ -1,3 +1,0 @@
-Great_JJ date_NN environment_NN ,_, the_DT food_NN was_VBD amazing_JJ and_CC the_DT prices_NNS were_VBD reasonable_JJ ._.
-Got_NNP our_PRP$ table_NN quick_JJ with_IN reservations_NNS ,_, service_NN was_VBD great_JJ !_.
-very_RB pleased_JJ !_.

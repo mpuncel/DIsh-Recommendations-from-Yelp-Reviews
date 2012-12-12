@@ -1,5 +1,0 @@
-I_PRP had_VBD the_DT penne_NN pecorino_NN with_IN shrimp_NN and_CC scallops_NNS ._.
-Only_RB problem_NN is_VBZ HONEY_NNP THEY_NNP SHRUNK_NNP THE_DT SCALLOPS_NNS !_.
-About_IN the_DT size_NN of_IN a_DT pencil_NN eraser_NN ._.
-If_IN they_PRP want_VBP my_PRP$ five_CD stars_NNS they_PRP have_VBP to_TO put_VB in_RP real_JJ scallops_NNS lol_NN ._.
-Otherwise_RB was_VBD excellent_JJ just_RB like_IN the_DT other_JJ reviews_NNS said_VBD ._.

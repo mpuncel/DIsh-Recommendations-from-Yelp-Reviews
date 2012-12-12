@@ -1,9 +1,0 @@
-Gratzi_NNP 's_POS has_VBZ a_DT great_JJ birthday_NN deal_NN :_: when_WRB you_PRP go_VBP on_IN the_DT day_NN of_IN your_PRP$ birth_NN ,_, depending_VBG on_IN the_DT #_# of_IN people_NNS you_PRP dine_VBP with_IN ,_, you_PRP get_VBP your_PRP$ percentage_NN of_IN the_DT check_NN free_JJ !_.
--LRB-_-LRB- 2_CD people_NNS =_SYM 50_CD %_NN off_RB ,_, 3_CD people_NNS =_SYM 33_CD %_NN off_RB ,_, etc._FW -RRB-_-RRB- ._.
-It_PRP 's_VBZ one_CD of_IN the_DT best_JJS birthday_NN deals_NNS in_IN Ann_NNP Arbor_NNP ._.
-Their_PRP$ butternut_NN squash_NN ravioli_NNS is_VBZ THE_DT BEST_SYM -_: I_PRP have_VBP tried_VBN to_TO duplicate_VB it_PRP but_CC just_RB ca_MD n't_RB get_VB it_PRP right_RB ._.
-I_PRP think_VBP it_PRP is_VBZ usually_RB on_IN the_DT appetizers_NNS menu_NN ,_, but_CC I_PRP have_VBP heard_VBN you_PRP can_MD also_RB request_VB it_PRP as_IN an_DT entree_FW ._.
-While_IN the_DT food_NN has_VBZ never_RB disappointed_VBN ,_, my_PRP$ beef_NN with_IN Gratzi_NNP is_VBZ the_DT completely_RB pretentious_JJ service_NN ._.
-Without_IN fail_VBP ,_, every_DT time_NN I_PRP have_VBP dined_VBN there_EX everyone_NN is_VBZ so_RB uppity_JJ it_PRP makes_VBZ me_PRP feel_VB as_IN though_IN I_PRP am_VBP completely_RB inadequate_JJ because_IN I_PRP did_VBD n't_RB have_VB my_PRP$ limo_NN driver_NN drop_VB me_PRP off_RP ._.
-This_DT completely_RB does_VBZ not_RB make_VB sense_NN to_TO me_PRP ,_, as_IN Ann_NNP Arbor_NNP is_VBZ not_RB a_DT pretentious_JJ town_NN by_IN any_DT means_NNS -LRB-_-LRB- ok_NN ,_, leaving_VBG out_RP U_NNP of_IN M_NNP professors_NNS -_: haha_NN -RRB-_-RRB- and_CC the_DT servers_NNS are_VBP usually_RB students_NNS ._.
-So_RB ,_, going_VBG to_TO Gratzi_NNP has_VBZ become_VBN a_DT once_RB a_DT year_NN -LRB-_-LRB- or_CC less_JJR -RRB-_-RRB- tradition_NN ._.

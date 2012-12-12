@@ -1,5 +1,0 @@
-Love_NNP this_DT sweet_JJ bistro_NN ._.
-The_DT food_NN is_VBZ great_JJ ._.
-I_PRP had_VBD the_DT chicken_NN marsala_NN which_WDT was_VBD yummy_JJ and_CC perfectly_RB cooked_VBN ._.
-My_PRP$ server_NN ,_, Sam_NNP ,_, was_VBD friendly_JJ ,_, helpful_JJ and_CC attentive_JJ ._.
-It_PRP can_MD get_VB a_DT little_JJ loud_JJ and_CC I_PRP would_MD ask_VB for_IN a_DT table_NN away_RB from_IN the_DT hostess_NN station_NN and_CC front_NN of_IN bar_NN because_IN this_DT is_VBZ a_DT popular_JJ restaurant_NN and_CC quite_RB a_DT few_JJ customers_NNS gather_VBP around_IN the_DT front_NN ._.

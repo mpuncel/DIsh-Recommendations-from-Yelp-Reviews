@@ -1,8 +1,0 @@
-Great_NNP fun_NN ,_, good_JJ pizza_NN -_: liked_VBD the_DT choices_NNS and_CC the_DT price_NN was_VBD fair_JJ ._.
-It_PRP was_VBD basically_RB a_DT Chipotle_NNP for_IN pizza_NN -_: same_JJ uniforms_NNS ,_, same_JJ set_NN up\/atmosphere_NN and_CC same_JJ cost_NN ._.
-You_PRP get_VBP exactly_RB what_WP you_PRP want_VBP and_CC by_IN the_DT time_NN you_PRP are_VBP done_VBN paying_VBG ,_, your_PRP$ pizza_NN is_VBZ ready_JJ -_: hence_RB the_DT 800_CD degrees_NNS cooking_NN temp_NN ._.
-Problem_NNP is_VBZ the_DT line_NN ._.
-We_PRP arrived_VBD at_IN 8pm_CD and_CC left_VBD at_IN 8:45_CD ._.
-The_DT place_NN is_VBZ certainly_RB popular_JJ so_RB be_VB prepared_VBN to_TO wait_VB if_IN you_PRP want_VBP to_TO give_VB this_DT place_NN a_DT go_NN ..._: but_CC it_PRP was_VBD worth_JJ the_DT experience_NN ..._: I_PRP enjoyed_VBD it_PRP ._.
-I_PRP had_VBD basic_JJ style_NN with_IN mozzarella_NN and_CC tomato_NN sauce_NN -LRB-_-LRB- $_$ 6_CD -RRB-_-RRB- and_CC then_RB added_VBD bacon_NN ,_, mushrooms_NNS and_CC olives_NNS -LRB-_-LRB- $_$ 1_CD each_DT -RRB-_-RRB- ._.
-I_PRP would_MD recommend_VB -_: but_CC maybe_RB go_VB early_RB if_IN you_PRP want_VBP to_TO beat_VB the_DT late_JJ night_NN college_NN crowd_NN :_: -RRB-_-RRB-

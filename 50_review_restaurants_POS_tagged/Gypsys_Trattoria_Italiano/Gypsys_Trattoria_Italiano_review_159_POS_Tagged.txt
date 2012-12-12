@@ -1,6 +1,0 @@
-The_DT food_NN here_RB is_VBZ amazing_JJ ._.
-If_IN I_PRP am_VBP in_IN Berkley_NNP I_PRP try_VBP to_TO come_VB here_RB for_IN lunch_NN ._.
-It_PRP is_VBZ the_DT only_JJ place_NN where_WRB you_PRP can_MD get_VB Italian_JJ food_NN at_IN a_DT cheap_JJ price_NN ._.
-Not_RB to_TO mention_VB it_PRP tastes_VBZ great_JJ ._.
-The_DT fettuccine_NN pesto_NN is_VBZ amazing_JJ ._.
-A_DT must_MD try_VB ._.

@@ -1,3 +1,0 @@
-I_PRP had_VBD lunch_NN here_RB once_RB ,_, but_CC found_VBD the_DT meal_NN -LRB-_-LRB- a_DT chicken_NN panini_NN I_PRP think_VBP -RRB-_-RRB- very_RB bland_JJ and_CC have_VBP n't_RB returned_VBN since_IN ._.
-Some_DT co-workers_NNS complained_VBD of_IN under_IN cooked_VBN chicken_NN in_IN one_CD of_IN their_PRP$ sandwiches_NNS on_IN a_DT recent_JJ vist_NN ._.
-The_DT Teele_NNP Sq_NNP location_NN is_VBZ definitely_RB better_JJR than_IN this_DT one_CD ._.

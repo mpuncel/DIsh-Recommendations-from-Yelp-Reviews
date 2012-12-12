@@ -1,7 +1,0 @@
-Nothing_NN TOO_RB great_JJ ,_, but_CC pretty_RB decent_JJ Italian_JJ food_NN on_IN Telegraph_NNP ._.
-I_PRP had_VBD the_DT King_NNP Salmon_NNP ..._: the_DT fish_NN was_VBD dry_JJ ..._: the_DT pasta_NN was_VBD dry_JJ ._.
-It_PRP was_VBD n't_RB unbearable_JJ ,_, but_CC I_PRP 've_VBP had_VBD better_JJR Italian_JJ ._.
-Love_NNP the_DT clean_JJ interior_NN ._.
-It_PRP 's_VBZ a_DT very_RB home-y_JJ environment_NN ._.
-Employees_NNS are_VBP very_RB helpful_JJ and_CC friendly_JJ ._.
-I_PRP would_MD definitely_RB go_VB again_RB if_IN I_PRP happened_VBD to_TO be_VB in_IN that_DT area_NN of_IN Berkeley_NNP again_RB ._.

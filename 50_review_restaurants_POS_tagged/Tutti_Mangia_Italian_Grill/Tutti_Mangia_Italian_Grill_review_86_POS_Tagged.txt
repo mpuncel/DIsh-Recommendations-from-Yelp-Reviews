@@ -1,3 +1,0 @@
-Fine_NNP Dining_NNP ,_, great_JJ good_JJ ,_, amazing_JJ filet_NN migon_NN !_.
-Cant_NNP go_VB wrong_JJ with_IN any_DT dish_NN ..._: good_JJ professional_JJ service_NN ._.
-Great_JJ date_NN or_CC nice_JJ occasion_NN dinner_NN meal_NN ._.

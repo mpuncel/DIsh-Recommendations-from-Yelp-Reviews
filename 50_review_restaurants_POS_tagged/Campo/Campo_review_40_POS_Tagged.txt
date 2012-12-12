@@ -1,4 +1,0 @@
-So_RB so_RB food_NN ._.
-But_CC careful_JJ with_IN your_PRP$ credit_NN cards_NNS ._.
-I_PRP found_VBD -LRB-_-LRB- when_WRB I_PRP received_VBD my_PRP$ credit_NN card_NN statement_NN -RRB-_-RRB- that_WDT my_PRP$ server_NN charged_VBD my_PRP$ credit_NN card_NN for_IN more_JJR than_IN I_PRP signed_VBD for_IN ._.
-And_CC the_DT manager_NN ,_, Michael_NNP ,_, was_VBD less_JJR than_IN charming_JJ when_WRB I_PRP called_VBD to_TO complain_VB and_CC have_VB it_PRP removed_VBN ._.

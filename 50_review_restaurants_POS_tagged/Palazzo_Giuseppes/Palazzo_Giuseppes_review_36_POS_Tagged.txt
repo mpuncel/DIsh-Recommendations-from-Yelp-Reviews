@@ -1,9 +1,0 @@
-YUM_NNP !_.
-Great_NNP vibe_SYM -_: wonderful_JJ food_NN -_: helpful_JJ wait_NN staff_NN -_: love_VB it_PRP !_.
-Great_NNP place_NN to_TO meet_VB friends_NNS for_IN drinks_NNS and_CC dinner_NN ._.
-Loved_VBD the_DT pomegranate_JJ martini_NN ~_IN they_PRP put_VBP dry_JJ ice_NN in_IN it_PRP and_CC it_PRP looked_VBD like_IN a_DT pink_JJ volcano_NN ~_NN again_RB ,_, YUM_NNP ._.
-If_IN you_PRP want_VBP to_TO have_VB an_DT intimate_JJ conversation_NN ,_, I_PRP 'd_MD ask_VB for_IN outdoor_JJ seating_NN ._.
-Evening_VBG dinner_NN ,_, bring_VB something_NN to_TO throw_VB on_RP to_TO help_VB with_IN the_DT chill_NN in_IN the_DT air_NN ._.
-The_DT outdoor_JJ heat_NN lamps_NNS can_MD be_VB hit-or-miss_JJ ._.
-Everything_NN I_PRP 've_VBP ever_RB eaten_VBN there_EX was_VBD superb_NN ._.
-Give_VB it_PRP a_DT try_NN !_.

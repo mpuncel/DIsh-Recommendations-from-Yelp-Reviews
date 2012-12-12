@@ -1,7 +1,0 @@
-A_DT little_JJ pricey_JJ but_CC WELL_RB worth_JJ it_PRP ._.
-I_PRP personally_RB love_VBP the_DT eggplant_NN parm_NN ._.
-Their_PRP$ spaghetti_NNS and_CC meatballs_NNS and_CC ravioli_NNS are_VBP basic_JJ and_CC average_JJ at_IN best_JJS ._.
-Chicken_NNP prosciutto_NN ,_, chicken_NN cabanera_NN and_CC some_DT new_JJ spicy_NN chicken_NN pasta_NN dish_NN are_VBP delicious_JJ as_RB well_RB ._.
-Go_VB with_IN a_DT few_JJ people_NNS and_CC be_VB hungry_JJ ._.
-The_DT inside_NN is_VBZ amazing_JJ with_IN all_PDT the_DT pictures_NNS ,_, lights_NNS and_CC decorations_NNS ._.
-Quite_RB a_DT pleasant_JJ experience_NN ._.

@@ -1,6 +1,0 @@
-Came_NNP here_RB for_IN father_NN 's_POS day_NN dinner_NN ._.
-They_PRP have_VBP excellent_JJ soup_NN of_IN day_NN ,_, crab_NN bisque_NN ._.
-I_PRP ordered_VBD the_DT lobster_NN ravioli_NNS w\/pink_VBP sauce_NN ._.
-Very_RB tasty_JJ and_CC delicious_JJ ._.
-There_EX are_VBP so_RB many_JJ choices_NNS ._.
-I_PRP definitely_RB want_VBP to_TO come_VB back_RB to_TO try_VB their_PRP$ other_JJ dishes_NNS ._.

@@ -1,7 +1,0 @@
-This_DT place_NN is_VBZ great_JJ !_.
-Best_JJS fettucini_NNS alfredo_IN I_PRP 've_VBP ever_RB had_VBN !_.
-Waaay_NNP better_JJR than_IN any_DT fancy_JJ place_NN I_PRP 've_VBP been_VBN to_TO !_.
-The_DT sauce_NN was_VBD so_RB creamy_JJ and_CC well_RB seasoned_JJ !_.
-The_DT shrimp_NN portion_NN was_VBD generous_JJ ._.
-Loved_VBN that_IN it_PRP was_VBD open_JJ late_JJ ._.
-The_DT service_NN was_VBD fantastic_JJ and_CC everything_NN was_VBD fresh_JJ ,_, warm_JJ and_CC speedy_JJ !_.

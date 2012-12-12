@@ -1,6 +1,0 @@
-I_PRP absolutely_RB love_VBP this_DT place_NN !_.
-Every_DT dish_NN I_PRP 've_VBP tried_VBN is_VBZ pretty_RB much_JJ amazing_JJ ._.
-My_PRP$ favorites_NNS are_VBP the_DT Funghi_NNP -LRB-_-LRB- vegetarian_JJ -RRB-_-RRB- and_CC the_DT Godfather_NNP 's_POS Favorite_NNP -LRB-_-LRB- penne_NN with_IN chicken_NN ,_, bacon_NN ,_, cream_NN ,_, and_CC egg_NN -RRB-_-RRB- ._.
-The_DT calzones_NNS take_VBP longer_JJR but_CC are_VBP definitely_RB worth_JJ the_DT wait_NN ._.
-Gypsy_NNP 's_POS is_VBZ cheap_JJ ,_, quick_JJ ,_, and_CC extremely_RB popular_JJ =_SYM -RRB-_-RRB- The_DT only_JJ complaint_NN I_PRP have_VBP -LRB-_-LRB- and_CC thus_RB the_DT reason_NN I_PRP gave_VBD this_DT place_NN a_DT 4_CD instead_RB of_IN a_DT 5_CD -RRB-_-RRB- is_VBZ the_DT garlic_JJ bread_NN ,_, which_WDT is_VBZ pretty_RB much_RB a_DT piece_NN of_IN bread_NN with_IN a_DT hunk_NN of_IN roasted_JJ garlic_NN on_IN top_NN ._.
-Some_DT people_NNS like_IN it_PRP ,_, but_CC I_PRP ca_MD n't_RB stand_VB it_PRP and_CC usually_RB give_VBP it_PRP to_TO a_DT friend_NN who_WP can_MD ._.

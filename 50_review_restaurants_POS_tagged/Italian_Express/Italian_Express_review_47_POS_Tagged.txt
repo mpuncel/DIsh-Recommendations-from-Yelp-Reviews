@@ -1,2 +1,0 @@
-Greasy_NNP ,_, overpriced_VBD Italian_JJ food_NN ._.
-It_PRP might_MD be_VB good_JJ if_IN you_PRP are_VBP over-intoxicated_JJ ,_, but_CC not_RB just_RB buzzed_VBN ._.

@@ -1,8 +1,0 @@
-The_DT food_NN is_VBZ hit_VBN or_CC miss_VBP ._.
-I_PRP mostly_RB went_VBD to_TO get_VB a_DT drink_NN and_CC have_VBP some_DT warm_JJ rolls_NNS dipped_VBD in_IN oil_NN and_CC herbs_NNS ._.
-We_PRP got_VBD a_DT pizza_NN for_IN two_CD but_CC it_PRP did_VBD n't_RB have_VB much_JJ flavor_NN ._.
-The_DT tomato_NN ``_`` sauce_NN ''_'' was_VBD the_DT equivalent_NN of_IN dumping_VBG a_DT can_NN of_IN diced_JJ tomatoes_NNS on_IN top_NN of_IN the_DT crust_NN ._.
-The_DT crust_NN ,_, by_IN the_DT way_NN ,_, was_VBD burnt_JJ and_CC flavorless_JJ ._.
-The_DT one_CD thing_NN I_PRP definitely_RB liked_VBD was_VBD the_DT White_NNP Sangria_NNP ._.
-So_RB very_RB refreshing_JJ after_IN a_DT long_JJ stressful_JJ and_CC humid_JJ day_NN ._.
-That_DT is_VBZ worth_IN a_DT try_NN ,_, but_CC I_PRP would_MD n't_RB go_VB for_IN great_JJ Italian_JJ ._.

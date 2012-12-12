@@ -1,9 +1,0 @@
-We_PRP have_VBP been_VBN here_RB twice_RB ._.
-Both_DT times_NNS ,_, we_PRP had_VBD salads_NNS and_CC pizza_NN ._.
-The_DT first_JJ time_NN ,_, we_PRP recalled_VBD really_RB liking_VBG the_DT pizza_NN and_CC thinking_VBG that_IN the_DT salads_NNS were_VBD fine_JJ ._.
-The_DT pizza_NN reminded_VBD us_PRP of_IN the_DT thin_JJ crust_NN we_PRP ate_VBD in_IN Siena_NNP ._.
-This_DT last_JJ time_NN ,_, the_DT pizza_NN crust_NN was_VBD burnt_JJ ._.
-Some_DT people_NNS may_MD like_VB that_IN ,_, but_CC it_PRP overpowered_VBD the_DT other_JJ flavors_NNS ._.
-The_DT salads_NNS were_VBD tiny_JJ and_CC the_DT chicken_NN had_VBD no_DT flavor_NN at_IN all_DT ._.
-The_DT restaurant_NN feels_VBZ very_RB cosmopolitan_JJ and_CC the_DT wait-staff_NN is_VBZ professional_JJ ._.
-The_DT wait_NN for_IN a_DT table_NN can_MD be_VB extremely_RB long_RB ._.

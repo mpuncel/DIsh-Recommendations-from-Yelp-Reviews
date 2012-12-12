@@ -1,6 +1,0 @@
-This_DT place_NN has_VBZ one_CD of_IN the_DT most_RBS eclectic_JJ menus_NNS I_PRP 've_VBP seen_VBN in_IN Berkeley_NNP ._.
-You_PRP think_VBP ``_`` Milanese_JJ Caffe_NN ,_, they_PRP may_MD have_VB some_DT Italian_JJ food_NN ,_, cool_JJ !_. ''_''
-but_CC they_PRP have_VBP Italian_JJ food_NN ,_, pizza_NN ,_, burgers_NNS ,_, and_CC really_RB good_JJ breakfast_NN ._.
-The_DT portion_NN size_NN is_VBZ generous_JJ for_IN the_DT prices_NNS ,_, especially_RB with_IN the_DT breakfast_NN dishes_NNS ._.
-Every_DT time_NN I_PRP go_VBP ,_, i_FW try_VB to_TO get_VB something_NN different_JJ ,_, but_CC I_PRP usually_RB fall_VBP back_RB on_IN their_PRP$ Milanese_JJ burger_NN ,_, which_WDT is_VBZ served_VBN on_IN a_DT baguette_NN rather_RB than_IN a_DT traditional_JJ round_NN bun_NN ,_, plus_CC it_PRP comes_VBZ with_IN a_DT heaping_VBG pile_NN of_IN fries_NNS ,_, which_WDT I_PRP always_RB fills_VBZ me_PRP up_RP beyond_IN capacity_NN ._.
-I_PRP once_RB had_VBD their_PRP$ breakfast_NN dish_NN with_IN the_DT poached_JJ egg_NN and_CC pesto_NN :_: I_PRP definitely_RB recommend_VBP it_PRP ._.

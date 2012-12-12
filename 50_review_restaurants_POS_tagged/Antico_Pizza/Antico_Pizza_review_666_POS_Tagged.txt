@@ -1,2 +1,0 @@
-love_NN this_DT place_NN ,_, love_VBP the_DT bianca_NN ,_, love_VBP the_DT cannolis_NN ._.
-i_FW just_RB wish_VB they_PRP sold_VBN by_IN the_DT slice_NN ._.

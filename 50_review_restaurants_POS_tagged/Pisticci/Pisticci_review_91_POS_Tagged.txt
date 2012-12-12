@@ -1,7 +1,0 @@
-Great_JJ food_NN ._.
-Great_JJ service_NN ._.
-Wonderful_JJ atmosphere_NN ._.
-Been_VBN here_RB many_JJ times_NNS ._.
-My_PRP$ only_JJ two_CD nits_NNS :_: -LRB-_-LRB- 1_CD -RRB-_-RRB- Their_PRP$ menu_NN is_VBZ a_DT bit_NN limited_JJ ._.
-Could_MD use_VB a_DT few_JJ more_JJR choices_NNS ._.
--LRB-_-LRB- 2_LS -RRB-_-RRB- They_PRP do_VBP not_RB accept_VB American_NNP Express_NNP at_IN last_JJ check_NN ,_, but_CC it_PRP has_VBZ been_VBN a_DT good_JJ few_JJ months_NNS since_IN I_PRP 've_VBP been_VBN there_RB ._.

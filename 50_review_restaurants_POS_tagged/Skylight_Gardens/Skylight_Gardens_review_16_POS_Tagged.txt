@@ -1,4 +1,0 @@
-Yum_NNP Yum_NNP Yum_NNP ._.
-What_WP a_DT beautiful_JJ restaurant_NN and_CC the_DT food_NN and_CC service_NN are_VBP excellent_JJ ._.
-It_PRP 's_VBZ a_DT little_JJ pricey_JJ ,_, but_CC totally_RB worth_JJ it_PRP ._.
-I_PRP ca_MD n't_RB wait_VB to_TO go_VB back_RB !_.

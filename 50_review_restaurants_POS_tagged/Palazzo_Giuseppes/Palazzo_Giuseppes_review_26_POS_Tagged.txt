@@ -1,7 +1,0 @@
-I_PRP had_VBD to_TO try_VB a_DT piece_NN to_TO compare_VB to_TO the_DT lousy_JJ one_CD I_PRP had_VBD the_DT other_JJ day_NN ._.
-Not_RB hungry_JJ but_CC had_VBD to_TO do_VB the_DT taste_NN test_NN ._.
-I_PRP had_VBD a_DT slice_NN of_IN plain_JJ cheese_NN pizza_NN ._.
-The_DT sauce_NN was_VBD mild_JJ and_CC delicious_JJ ._.
-The_DT crust_NN was_VBD just_RB the_DT right_JJ density_NN and_CC cooked_VBD to_TO perfection_NN ._.
-The_DT cheese_NN was_VBD just_RB the_DT right_JJ amount_NN ._.
-There_EX absolutely_RB could_MD not_RB be_VB better_JJR pizza_NN in_IN the_DT central_JJ coast_NN ._.

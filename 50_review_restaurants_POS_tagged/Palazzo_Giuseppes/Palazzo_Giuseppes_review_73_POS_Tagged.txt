@@ -1,4 +1,0 @@
-Great_NNP ambiance_NN ,_, good_JJ soup_NN &_CC creative_JJ appetizers_NNS but_CC caveat_NN emptor_NN the_DT Timpano_NNP pasta_NN entree_FW -_: an_DT inedible_JJ baked_JJ bundt_NN cake_NN shaped_VBD pasta_NN filled_VBN with_IN more_JJR pasta_NN ,_, although_IN not_RB described_VBN that_DT way_NN on_IN the_DT menu_NN ._.
-Tasted_VBN as_IN gross_JJ as_IN it_PRP sounds_VBZ ._.
-It_PRP looked_VBD like_IN a_DT curled_VBN up_RP sleeping_VBG English_JJ Shepard_NNP ._.
-When_WRB we_PRP shared_VBD our_PRP$ feelings_NNS with_IN our_PRP$ server_NN who_WP asked_VBD how_WRB we_PRP liked_VBD it_PRP she_PRP just_RB smiled_VBD and_CC apologized_VBD ._.

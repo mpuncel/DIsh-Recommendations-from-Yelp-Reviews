@@ -1,5 +1,0 @@
-Came_NNP here_RB for_IN business_NN lunch_NN with_IN my_PRP$ boss_NN ._.
-Started_VBN with_IN prosciutto_JJ melon_NN ,_, which_WDT is_VBZ always_RB good_JJ ._.
-I_PRP got_VBD the_DT seafood_NN salad_NN ,_, could_MD have_VB been_VBN better_RB ,_, they_PRP did_VBD have_VB alot_NN seafood_NN but_CC it_PRP did_VBD n't_RB taste_VB too_RB fresh_JJ ._.
-Colleague_NN had_VBD the_DT special_JJ filet_NN Mignon_NNP ravioli_NNS ..._: it_PRP was_VBD delicious_JJ !!!!_CD Of_IN course_NN i_FW had_VBD to_TO have_VB pistachio_NN gelato_NN ._. ._.
-yummmy_NN

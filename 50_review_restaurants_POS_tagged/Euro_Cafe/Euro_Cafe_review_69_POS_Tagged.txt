@@ -1,6 +1,0 @@
-I_PRP am_VBP not_RB from_IN Claremont_NNP but_CC go_VB hiking_VBG on_IN the_DT loop_NN often_RB ._.
-After_IN I_PRP am_VBP done_VBN my_PRP$ favorite_JJ place_NN to_TO go_VB is_VBZ Euro_NNP Cafe_NNP to_TO re-fuel_VB ._.
-The_DT food_NN is_VBZ very_RB fresh_JJ and_CC tasty_JJ ._.
-They_PRP make_VBP you_PRP feel_VB very_RB welcome_JJ there_RB ._.
-My_PRP$ favorite_JJ thing_NN to_TO order_NN is_VBZ the_DT beef_NN dip_NN ._.
-Their_PRP$ chocolate_NN chip_NN cookies_NNS are_VBP to_TO die_VB for_IN !_.

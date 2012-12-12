@@ -1,4 +1,0 @@
-Decent_JJ pizza_NN ,_, lots_NNS of_IN variety_NN ,_, updated_VBN ``_`` A_NNP ''_'' rating_NN ._.
-Good_JJ Baklava_NNP and_CC great_JJ Nantucket_NNP Nectar_NNP selection_NN -LRB-_-LRB- Orange_NNP ,_, Guava_NNP ,_, Pineapple-yum_NN !_. -RRB-_-RRB- ._.
-It_PRP 's_VBZ close_JJ to_TO school_NN and_CC good_JJ in_IN a_DT pinch_NN ._.
-Still_RB looking_VBG for_IN that_DT perfect_JJ NY_NNP slice_NN without_IN having_VBG to_TO trek_VB for_IN miles_NNS ._.

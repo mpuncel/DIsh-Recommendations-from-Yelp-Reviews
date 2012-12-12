@@ -1,7 +1,0 @@
-Love_NNP the_DT concept_NN !_.
-Choose_VB your_PRP$ own_JJ toppings_NNS and_CC 5_CD minutes_NNS later_RB ,_, a_DT customized_VBN Neapolitan_NNP pizza_NN is_VBZ ready_JJ ._.
-However_RB ,_, the_DT sign_NN of_IN a_DT good_JJ Neapolitan_NNP pizza_NN is_VBZ all_DT about_IN the_DT crust_NN --_: it_PRP should_MD be_VB crispy_JJ all_PDT the_DT way_NN through_IN to_TO the_DT center_NN ,_, slightly_RB charred_VBD ,_, chewy_JJ yet_RB soft_JJ ._.
-My_PRP$ pizza_NN was_VBD soggy_JJ and_CC fell_VBD apart_RB in_IN the_DT middle_NN ,_, though_IN the_DT actual_JJ outer_JJ crust_NN tasted_VBD good_JJ ._.
-Still_RB ,_, as_IN far_RB as_IN Neapolitan_NNP pizzas_NNS go_VBP ,_, it_PRP should_MD NEVER_RB be_VB soggy_JJ ._.
-The_DT price_NN is_VBZ good_JJ though_IN ._.
-Go_VB late_JJ -LRB-_-LRB- 10pm_JJ and_CC after_IN -RRB-_-RRB- to_TO beat_VB the_DT long_JJ wait_NN ._.

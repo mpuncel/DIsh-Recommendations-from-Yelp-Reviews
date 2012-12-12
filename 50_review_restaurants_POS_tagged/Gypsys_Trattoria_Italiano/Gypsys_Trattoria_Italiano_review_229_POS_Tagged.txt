@@ -1,2 +1,0 @@
-Great_JJ food_NN !_.
-The_DT gypsy_NN chicken_NN is_VBZ awesome_JJ !_.

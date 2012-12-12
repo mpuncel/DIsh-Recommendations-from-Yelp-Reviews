@@ -1,8 +1,0 @@
-This_DT is_VBZ about_RB as_RB good_JJ as_IN you_PRP 're_VBP going_VBG to_TO do_VB within_IN a_DT few_JJ miles_NNS of_IN the_DT berkeley_NN campus_NN for_IN reasonably-priced_JJ Italian_JJ food_NN ._.
-It_PRP 's_VBZ far_RB better_JJR than_IN gypsy_NN 's_POS ._.
-Really_RB ,_, there_EX 's_VBZ no_DT comparison_NN ._.
-Gypsy_NNP 's_POS is_VBZ cheap_JJ ,_, cheesy_JJ ,_, fatty_JJ ,_, inauthentic_JJ Italian_JJ food_NN ._.
-Prices_NNS are_VBP super_JJ reasonable_JJ for_IN lunch_NN and_CC fair_JJ for_IN dinner_NN ._.
-I_PRP 've_VBP tried_VBD the_DT various_JJ pastas_NNS ,_, tortellini_NNS ,_, bolognese_NN ,_, the_DT lasagna_NN ,_, the_DT salmon_NN -_: all_DT were_VBD good_JJ ,_, pretty_RB comparable_JJ to_TO what_WP I_PRP 'd_MD expect_VB from_IN a_DT place_NN charging_VBG 50_CD %_NN more_JJR ._.
-Service_NNP is_VBZ good_JJ -_: I_PRP 'm_VBP a_DT voracious_JJ water_NN drinker_NN and_CC my_PRP$ cup_NN stays_VBZ full_JJ ._.
-The_DT atmosphere_NN is_VBZ simple_JJ but_CC clean_JJ and_CC modern_JJ ._.

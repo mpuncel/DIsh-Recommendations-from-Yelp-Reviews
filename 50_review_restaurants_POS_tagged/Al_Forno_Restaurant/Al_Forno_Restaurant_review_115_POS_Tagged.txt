@@ -1,3 +1,0 @@
-Al_NNP Forno_NNP is_VBZ my_PRP$ all-time_JJ favorite_NN in_IN the_DT world_NN ._.
-They_PRP make_VBP the_DT best_JJS grilled_JJ pizza_NN ,_, the_DT mashed_JJ potatoes_NNS are_VBP what_WP dreams_NNS are_VBP made_VBN of_IN ,_, and_CC the_DT vegetable_NN plate_NN is_VBZ the_DT most_RBS fun_NN you_PRP 'll_MD have_VB eating_JJ vegetables_NNS ._.
-Beware_VB ,_, they_PRP do_VBP n't_RB take_VB reservations_NNS ,_, but_CC if_IN you_PRP get_VBP there_RB early_RB you_PRP 're_VBP guaranteed_VBN a_DT seat_NN and_CC one_CD of_IN the_DT best_JJS meals_NNS of_IN your_PRP$ life_NN ._.

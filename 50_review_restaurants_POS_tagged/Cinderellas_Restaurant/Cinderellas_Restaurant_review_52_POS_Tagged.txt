@@ -1,4 +1,0 @@
-It_PRP is_VBZ hot_JJ as_IN hell_NN in_IN this_DT teeny_JJ tiney_NN place_NN ._.
-The_DT sandwiches_NNS are_VBP a_DT good_JJ value_NN and_CC the_DT service_NN is_VBZ fast_RB but_CC there_EX 's_VBZ not_RB a_DT lot_NN of_IN room_NN for_IN seating_VBG ._.
-I_PRP came_VBD with_IN a_DT group_NN from_IN the_DT tech_NN square_NN offices_NNS -LRB-_-LRB- small-only_JJ 5_CD people_NNS -RRB-_-RRB- and_CC the_DT whole_JJ thing_NN got_VBD uncomfortable_JJ pretty_RB quick_JJ ._.
-Still_RB the_DT food_NN seemed_VBD reliable_JJ and_CC they_PRP had_VBD a_DT lot_NN of_IN veggie_NN -LRB-_-LRB- but_CC not_RB vegan_VB -RRB-_-RRB- friendly_JJ foods_NNS ._.

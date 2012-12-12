@@ -1,9 +1,0 @@
-I_PRP 'd_MD give_VB this_DT place_NN a_DT 3.5_CD star_NN rating_NN ._.
-Came_NNP here_RB from_IN a_DT local_JJ recommendation_NN ,_, and_CC having_VBG skipped_VBN out_RP on_IN breakfast_NN ,_, any_DT food_NN was_VBD good_JJ ._.
-Parking_NN was_VBD limited_VBN ,_, but_CC so_RB is_VBZ everywhere_RB else_RB in_IN town_NN ._.
-I_PRP ordered_VBD the_DT Philly_NNP steak_NN sandwich_NN with_IN lettuce_NN ,_, onions_NNS ,_, and_CC mayonnaise_NN and_CC my_PRP$ friend_NN ordered_VBD the_DT Philly_NNP steak_NN wrap_NN with_IN fries_NNS ._.
-The_DT sandwich_NN was_VBD very_RB good_JJ ,_, soft_JJ ,_, flavorful_JJ ,_, and_CC filling_VBG ._.
-The_DT fries_NNS were_VBD pretty_RB good_JJ too_RB ,_, very_RB fresh_JJ and_CC almost_RB too_RB much_JJ to_TO eat_VB ._.
-The_DT seating_NN is_VBZ a_DT bit_NN limited_JJ it_PRP you_PRP 're_VBP coming_VBG with_IN more_JJR than_IN four_CD people_NNS ,_, but_CC the_DT service_NN behind_IN the_DT counter_NN was_VBD very_RB friendly_JJ ._.
-We_PRP had_VBD a_DT few_JJ friends_NNS from_IN Europe_NNP who_WP came_VBD to_TO eat_VB with_IN us_PRP ,_, and_CC their_PRP$ English_NNP was_VBD n't_RB the_DT best_JJS ,_, but_CC the_DT cashier_NN was_VBD very_RB patient_JJ in_IN helping_VBG them_PRP find_VB something_NN and_CC explaining_VBG the_DT menu_NN ._.
-I_PRP would_MD n't_RB mind_VB coming_VBG back_RB a_DT second_JJ time_NN ._.

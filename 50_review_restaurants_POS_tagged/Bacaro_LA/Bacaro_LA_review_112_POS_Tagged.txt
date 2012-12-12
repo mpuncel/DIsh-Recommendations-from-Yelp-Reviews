@@ -1,4 +1,0 @@
-Great_NNP happy_JJ hour_NN !_.
-Sangria_NNP and_CC food_NN has_VBZ always_RB been_VBN perfect_JJ !_.
-Sangria_NNP 's_POS so_RB popular_JJ that_IN 1\/2_CD the_DT time_NN it_PRP 's_VBZ out_RP before_IN I_PRP get_VBP there_RB ,_, but_CC that_DT 's_VBZ because_IN I_PRP 'm_VBP usually_RB late_JJ ._.
-It_PRP get_VBP crowded_VBN with_IN students_NNS ,_, and_CC I_PRP feel_VBP like_IN the_DT old_JJ one_CD sometimes_RB ,_, but_CC it_PRP does_VBZ n't_RB stop_VB the_DT great_JJ food\/drinks_NNS ._.

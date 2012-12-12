@@ -1,6 +1,0 @@
-I_PRP was_VBD told_VBN sooo_JJ much_JJ about_IN this_DT place_NN !_.
-The_DT environment_NN is_VBZ high_JJ end_NN comfy_NN ._.
-Service_NNP is_VBZ great_JJ ._.
-Menu_NNP great_JJ I_PRP wasnt_VBP blown_VBN away_RP by_IN the_DT dishes_NNS ,_, but_CC the_DT peach_NN pie_NN dessert_NN sure_JJ had_VBD me_PRP dreaming_VBG it_PRP again_RB ._.
-Dish_NN i_FW had_VBD was_VBD a_DT bit_NN too_RB spicy_NN in_IN my_PRP$ taste_NN ._.
-Otherwise_RB ,_, a_DT must_MD eat_VB at_IN place_NN for_IN seafood_NN and_CC great_JJ desserts_NNS !_.

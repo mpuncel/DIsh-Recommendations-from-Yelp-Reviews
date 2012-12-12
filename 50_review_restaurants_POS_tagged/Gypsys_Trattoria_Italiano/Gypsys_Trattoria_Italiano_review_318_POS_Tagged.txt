@@ -1,6 +1,0 @@
-as_RB far_RB as_IN cheap_JJ eats_VBZ goes_VBZ ,_, gypsy_NN 's_POS is_VBZ definitely_RB a_DT dependable_JJ ,_, to-go_JJ place_NN ._.
-most_RBS items_NNS are_VBP generally_RB quite_RB good_JJ ,_, though_IN tomato_NN based_VBN sauces_NNS tend_VBP to_TO be_VB a_DT tiny_JJ bit_NN bland_NN ._.
-drown_VB your_PRP$ pity_NN in_IN the_DT fake_JJ parmesan_NN cheese_NN and_CC red_JJ pepper_NN flakes_VBZ ,_, provided_VBN on_IN every_DT table_NN ._.
-extremely_RB cheap_JJ pizza_NN and_CC calzones_NNS as_RB well_RB ,_, all_DT freshly_RB baked_JJ ,_, and_CC good_JJ enough_RB to_TO make_VB you_PRP think_VB twice_RB about_RB eating_VBG at_IN blondies_NNS or_CC fat_JJ slice_NN ._.
-i_FW myself_PRP make_VBP frutti_NNS di_FW mare_NN a_DT regular_JJ meal_NN whenever_WRB here_RB ,_, the_DT chicken_NN dishes_NNS tend_VBP to_TO use_VB dry_JJ chicken_NN meat_NN ,_, but_CC the_DT pesto_NN and_CC cream_NN sauces_NNS are_VBP very_RB rich_JJ and_CC very_RB good_JJ indeed_RB ._.
-i_FW 'm_VBP on_IN a_DT diet_NN though_RB ,_, i_FW miss_VBP it_PRP all_DT ;_: \*_SYM -LRB-_-LRB-

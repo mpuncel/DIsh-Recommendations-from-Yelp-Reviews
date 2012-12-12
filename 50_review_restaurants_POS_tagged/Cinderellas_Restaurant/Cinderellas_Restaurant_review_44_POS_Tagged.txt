@@ -1,5 +1,0 @@
-The_DT seafood_NN pizza_NN is_VBZ pretty_RB good_JJ ,_, and_CC the_DT MIT_NNP special_NN was_VBD pretty_RB good_JJ ._.
-I_PRP tried_VBD a_DT pasta_NN that_WDT was_VBD fairly_RB mediocre_JJ -LRB-_-LRB- but_CC I_PRP do_VBP n't_RB remember_VB which_WDT one_NN -RRB-_-RRB- ._.
-The_DT side_NN of_IN vegetables_NNS was_VBD really_RB expensive_JJ for_IN some_DT reason_NN ._.
-Food_NNP overall_JJ is_VBZ fairly_RB reasonable_JJ ,_, and_CC not_RB too_RB bad_JJ ._.
-Veggie_NNP calzone_NN was_VBD n't_RB as_RB good_JJ as_IN it_PRP sounded_VBD ._.

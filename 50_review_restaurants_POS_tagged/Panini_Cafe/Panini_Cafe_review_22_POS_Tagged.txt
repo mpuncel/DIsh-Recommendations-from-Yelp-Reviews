@@ -1,8 +1,0 @@
-Panini_NNP Cafe_NNP ,_, are_VBP you_PRP the_DT Corner_NNP Bakery_NNP of_IN Mediterranean_NNP food_NN ?_.
-Fast_RB ,_, about_IN $_$ 10_CD for_IN lunch_NN ,_, and_CC delicious_JJ ?_.
-Maybe_RB they_PRP had_VBD their_PRP$ best_JJS foot_NN forward_RB ,_, being_VBG a_DT new_JJ restaurant_NN and_CC all_DT ,_, but_CC this_DT was_VBD a_DT great_JJ lunch_NN ._.
-When_WRB you_PRP look_VBP at_IN the_DT size_NN of_IN this_DT plate_NN ,_, use_VBP the_DT salt_NN &_CC pepper_NN shakers_NNS for_IN reference_NN ._.
-This_DT thing_NN was_VBD huge_JJ !_.
-http:\/\/www.yelp.com\/biz_photos\/z2hoWsyUq85P37EHvMw3rw?select=CtWZIOklPpj5UjLuIk8ADg_NNP Service_NNP was_VBD very_RB fast_RB ,_, and_CC they_PRP even_RB remove_VB the_DT skewer_NN from_IN the_DT kabobs_NNS ,_, so_RB that_IN you_PRP can_MD get_VB busy_JJ eating_NN ._.
-How_WRB thoughtful_JJ is_VBZ that_IN ?_.
-Next_JJ time_NN I_PRP 'll_MD probably_RB get_VB a_DT sandwich_NN and_CC post_NN more_RBR pics_NNS ,_, but_CC Panini_NNP Cafe_NNP is_VBZ definitely_RB added_VBN to_TO the_DT lunch_NN rotation_NN !_.

@@ -1,4 +1,0 @@
-Good_JJ food_NN ,_, tasty_JJ menu_NN ,_, not_RB expensive_JJ and_CC cute_JJ decor_NN ._.
-Service_NNP could_MD be_VB friendlier_JJ ,_, wine_NN by_IN the_DT glass_NN are_VBP hit_VBN or_CC miss_VBP -LRB-_-LRB- also_RB ,_, I_PRP like_VBP it_PRP best_JJS when_WRB waiters_NNS actually_RB bring_VBP the_DT bottle_NN to_TO your_PRP$ table_NN to_TO pour_VB you_PRP a_DT glass_NN instead_RB of_IN brining_VBG the_DT glass_NN already_RB full_JJ -RRB-_-RRB- ._.
-But_CC these_DT are_VBP details_NNS ._.
-Great_NNP choice_NN for_IN a_DT dinner_NN or_CC brunch_NN !_.

@@ -1,7 +1,0 @@
-I_PRP have_VBP worked_VBN in_IN Westwood_NNP for_IN almost_RB as_RB long_JJ as_IN this_DT restaurant_NN has_VBZ been_VBN open_JJ ._.
-I_PRP 've_VBP given_VBN it_PRP several_JJ chances_NNS because_IN the_DT food_NN actually_RB is_VBZ good_JJ ._.
-But_CC Archie_NNP who_WP runs_VBZ this_DT with_IN his_PRP$ wife_NN has_VBZ been_VBN rude_JJ to_TO me_PRP on_IN just_RB about_IN every_DT occasion_NN ._.
-I_PRP understand_VBP the_DT stress_NN of_IN a_DT busy_JJ restaurant_NN -LRB-_-LRB- I_PRP managed_VBD a_DT pizza_NN joint_NN when_WRB I_PRP was_VBD in_IN high_JJ school_NN and_CC did_VBD EVERYTHING_NNP my_PRP$ self_NN for_IN 4_CD hours_NNS from_IN phones_NNS to_TO cooking_NN to_TO cleaning_NN -RRB-_-RRB- and_CC there_EX 's_VBZ never_RB an_DT excuse_NN to_TO snap_VB at_IN a_DT customer_NN ._.
-At_IN one_CD point_NN we_PRP were_VBD ordering_VBG $_$ 300_CD worth_NN of_IN food_NN a_DT week_NN for_IN a_DT project_NN we_PRP were_VBD on_IN and_CC he_PRP was_VBD more_RBR annoyed_JJ than_IN thankful_JJ ._.
-I_PRP 'M_VBP DONE_NNP WITH_IN THIS_NNP PLACE_NNP ._.
-In_IN fact_NN ,_, I_PRP am_VBP so_RB angry_JJ at_IN this_DT guy_NN that_IN I_PRP signed_VBD up_RB and_CC delved_VBD into_IN the_DT world_NN of_IN Yelp_NNP JUST_RB so_RB i_FW can_MD tell_VB as_RB many_JJ people_NNS as_IN possible_JJ how_WRB awful_JJ he_PRP is_VBZ ._.

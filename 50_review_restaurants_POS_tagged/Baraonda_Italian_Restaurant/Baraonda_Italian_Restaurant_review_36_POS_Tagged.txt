@@ -1,4 +1,0 @@
-Excellent_JJ food_NN ._.
-Excellent_JJ service_NN ._.
-And_CC the_DT wine_NN list_NN is_VBZ superb_NN !_.
-Would_MD highly_RB recommend_VB :_: -_: -RRB-_-RRB-

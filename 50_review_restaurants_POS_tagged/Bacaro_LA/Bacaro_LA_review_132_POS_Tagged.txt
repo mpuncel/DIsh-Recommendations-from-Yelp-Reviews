@@ -1,5 +1,0 @@
-Average_JJ place_NN but_CC awesome_JJ food_NN ._.
-Friend_NN of_IN mine_NN and_CC myself_PRP ,_, we_PRP had_VBD a_DT great_JJ lunch_NN and_CC my_PRP$ first_JJ thoughts_NNS were_VBD wow_NN ._.
-Food_NNP is_VBZ really_RB rich_JJ in_IN flavor_NN and_CC looks_VBZ ._.
-Cook_NNP at_IN his_PRP$ best_JJS I_PRP would_MD say_VB ._.
-I_PRP recommend_VBP this_DT place_NN no_DT doubt_NN about_IN it_PRP ._.

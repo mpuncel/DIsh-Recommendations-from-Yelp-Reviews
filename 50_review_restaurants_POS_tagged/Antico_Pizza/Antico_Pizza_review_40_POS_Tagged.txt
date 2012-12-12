@@ -1,7 +1,0 @@
-Love_NNP at_IN first_JJ bite_NN !_.
-Fun_NN atmosphere_NN ,_, lightning_NN fast_RB service_NN ,_, amazing_JJ pizza_NN ._.
-BYOB_NNP to_TO top_VB it_PRP off_RP !_.
-Excellent_JJ !_.
-P.S._NNP Please_VB do_VB me_PRP a_DT favor_NN and_CC try_VB the_DT Lasagna_NNP Pizza_NNP ._.
-You_PRP will_MD not_RB be_VB disappointed_VBN ._.
-=_SYM -RRB-_-RRB-

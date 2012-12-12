@@ -1,4 +1,0 @@
-nice_JJ pizza_NN ._. ._.
-but_CC over_IN priced_VBN ..._: DONT_NNP EVER_NNP GET_VBP DELIVERY_NN ._.
-I_PRP paid_VBD more_RBR for_IN delivery_NN than_IN my_PRP$ pizza_NN ._.
-They_PRP charged_VBD me_PRP $_$ 45_CD for_IN delivery_NN

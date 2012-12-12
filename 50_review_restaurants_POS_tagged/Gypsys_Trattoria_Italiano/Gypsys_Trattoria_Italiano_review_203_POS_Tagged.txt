@@ -1,4 +1,0 @@
-The_DT greatest_JJS pastas_NNS in_IN the_DT Bay_NNP Area_NNP period_NN !_.
-The_DT guy_NN at_IN the_DT register_NN is_VBZ very_RB impatient_JJ but_CC friendly_JJ after_IN all_DT ._.
-The_DT food_NN is_VBZ incredibly_RB good_JJ and_CC the_DT prices_NNS are_VBP incredibly_RB low_JJ !_.
-Highly_NNP recommended_VBD :_: -RRB-_-RRB-

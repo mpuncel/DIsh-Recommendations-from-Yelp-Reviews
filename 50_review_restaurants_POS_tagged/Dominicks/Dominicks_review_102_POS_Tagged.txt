@@ -1,6 +1,0 @@
-Here_RB 's_VBZ the_DT truth_NN about_IN Dominick_NNP 's_POS :_: -_: It_PRP 's_VBZ only_RB open_JJ from_IN April\/May_NNP to_TO October_NNP -_: The_DT line_NN takes_VBZ FOREVER_RB on_IN a_DT hot_JJ summer_NN night_NN or_CC when_WRB law\/business_JJ students_NNS finish_VBP an_DT exam_NN -_: Beer_NNP and_CC sangria_NN are_VBP pricey_JJ for_IN a_DT college_NN student_NN 's_POS wallet_NN -_: They_PRP turn_VBP on_IN the_DT fire_NN alarm_NN at_IN 9:30_CD pm_NN to_TO get_VB everyone_NN out_IN -_: It_PRP closes_VBZ at_IN 10:00_CD pm_NN Why_WRB 5_CD stars_NNS ?_.
-Cause_VB it_PRP rocks_NNS ._.
-Dominick_NNP 's_POS has_VBZ a_DT long_JJ history_NN at_IN UofM_NNP and_CC it_PRP 's_VBZ not_RB going_VBG anywhere_RB ._.
-If_IN you_PRP get_VBP there_RB early_JJ and_CC snag_NN a_DT big_JJ table_NN on_IN the_DT balcony_NN or_CC in_IN the_DT back_JJ courtyard_NN ,_, you_PRP are_VBP guaranteed_VBN to_TO have_VB a_DT good_JJ time_NN ._.
-It_PRP 's_VBZ just_RB one_CD of_IN those_DT places_NNS you_PRP go_VBP to_TO ._.
-Period_NN ._.

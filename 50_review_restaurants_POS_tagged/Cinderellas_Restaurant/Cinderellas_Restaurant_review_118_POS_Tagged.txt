@@ -1,5 +1,0 @@
-Is_VBZ this_DT place_NN still_RB open_VB ?_.
-I_PRP used_VBD to_TO eat_VB here_RB a_DT lot_NN when_WRB I_PRP lived_VBD in_IN Cambridge_NNP ._.
-My_PRP$ favorite_NN was_VBD the_DT sub_NN sandwiches_NNS ._.
-Delish_JJ ._.
-And_CC it_PRP 's_VBZ open_JJ late_RB !_.

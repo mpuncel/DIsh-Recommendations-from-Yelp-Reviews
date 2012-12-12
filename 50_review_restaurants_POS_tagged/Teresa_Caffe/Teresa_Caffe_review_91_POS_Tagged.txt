@@ -1,4 +1,0 @@
-Love_NNP this_DT place_NN !_.
-Always_RB great_JJ food_NN and_CC great_JJ service_NN ._.
-I_PRP got_VBD the_DT penne_JJ arrabbiata_NN the_DT other_JJ day_NN and_CC it_PRP was_VBD delicious_JJ ._.
-Reasonably_RB priced_VBN ,_, convenient_JJ ,_, with_IN a_DT wine_NN selection_NN that_WDT is_VBZ good_JJ enough_RB for_IN me_PRP -LRB-_-LRB- and_CC staff_NN who_WP can_MD help_VB you_PRP pick_VB something_NN -RRB-_-RRB- ._.

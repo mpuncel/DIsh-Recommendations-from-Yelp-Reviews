@@ -1,9 +1,0 @@
-This_DT is_VBZ an_DT update_VB on_IN some_DT of_IN their_PRP$ food_NN ._.
-Their_PRP$ Gnocchi_NNP Sausage_NNP is_VBZ soo_JJ good_JJ ._.
-I_PRP think_VBP I_PRP just_RB fell_VBD in_IN love_NN ._.
-It_PRP 's_VBZ chewy_JJ yet_RB not_RB tough_JJ ._.
-The_DT sauce_NN is_VBZ not_RB watery_JJ ,_, but_CC not_RB too_RB thick_JJ either_CC ._.
-I_PRP also_RB had_VBD their_PRP$ Tropicana_NNP pizza_NN ,_, yum_NN !_.
-Crispy_JJ crust_NN ,_, and_CC awesome_JJ combination_NN of_IN toppings_NNS ._.
-The_DT Chicken_NNP Piccata_NNP is_VBZ also_RB great_JJ ,_, I_PRP love_VBP their_PRP$ lemon_NN and_CC caper_NN sauce_NN ._.
-OMG_NNP So_RB good_JJ !!!_CD Honorable_JJ mention_NN :_: Marco_NNP Polo_NNP ,_, Chicken_NNP Marsala_NNP ,_, and_CC the_DT King_NNP Salmon_NNP ._.

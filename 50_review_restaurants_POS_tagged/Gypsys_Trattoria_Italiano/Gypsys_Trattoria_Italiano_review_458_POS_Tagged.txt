@@ -1,5 +1,0 @@
-It_PRP is_VBZ good_JJ italian_JJ cheap_JJ food_NN on_IN the_DT corner_NN of_IN the_DT asian_JJ ghetto_NN ._.
-Mostly_RB a_DT student_NN hang_VB out_RP ._.
-Very_RB big_JJ portions_NNS and_CC yet_RB their_PRP$ are_VBP big_JJ windows_NNS of_IN floor_NN to_TO ceiling_NN glass_NN and_CC you_PRP look_VBP over_IN the_DT grimy_JJ neighborhood_NN and_CC homeless_JJ people_NNS outside_IN the_DT restaurant_NN digging_NN through_IN the_DT garbage_NN for_IN something_NN to_TO eat_VB ._.
-It_PRP sort_NN of_IN makes_VBZ gluttony_NN impossible_JJ ._.
-So_RB if_IN you_PRP want_VBP to_TO be_VB reminded_VBN socially_RB why_WRB to_TO remain_VB on_IN a_DT diet_NN -_: dine_NN here_RB ._.

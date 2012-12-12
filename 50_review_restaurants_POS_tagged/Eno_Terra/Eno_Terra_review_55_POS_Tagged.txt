@@ -1,4 +1,0 @@
-wow_NN !_.
-The_DT best_JJS !_.
-Homemade_NNP pasta_NN -_: great_JJ food_NN -_: romantic_JJ -_: and_CC great_JJ wine_NN list_NN !_.
-Love_NNP it_PRP

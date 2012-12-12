@@ -1,5 +1,0 @@
-Service_NNP was_VBD great_JJ ,_, and_CC the_DT food_NN was_VBD good_JJ ._.
-The_DT bread_NN at_IN the_DT beginning_NN was_VBD okay_JJ ._.
-For_IN the_DT price_NN ,_, I_PRP felt_VBD that_IN I_PRP should_MD have_VB been_VBN a_DT little_RB more_JJR impressed_JJ by_IN the_DT main_JJ entree_FW ._.
-it_PRP was_VBD n't_RB a_DT bad_JJ experience_NN overall_NN ._.
-I_PRP would_MD definitely_RB return_VB to_TO try_VB a_DT new_JJ dish_NN ._.

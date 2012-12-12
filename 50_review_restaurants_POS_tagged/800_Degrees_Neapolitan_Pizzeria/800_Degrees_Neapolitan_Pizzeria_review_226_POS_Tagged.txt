@@ -1,5 +1,0 @@
-I_PRP heard_VBD about_IN this_DT place_NN from_IN a_DT friend_NN and_CC it_PRP sounded_VBD like_IN a_DT great_JJ idea_NN ._.
-The_DT ``_`` subway_NN ''_'' of_IN Pizza_NNP ._.
-What_WP I_PRP loved_VBD about_IN it_PRP was_VBD the_DT full_JJ customization_NN and_CC the_DT pizza_NN was_VBD a_DT solid_JJ ``_`` 4_CD ._. ''_''
-Unfortunately_RB ,_, the_DT service_NN seemed_VBD a_DT bit_NN slow_JJ and_CC the_DT employees_NNS were_VBD n't_RB too_RB attentive_JJ to_TO timing_NN ._.
-My_PRP$ Pizza_NNP sat_VBD ready_JJ before_IN it_PRP was_VBD handed_VBN off_RP for_IN a_DT good_JJ five_CD minutes_NNS ,_, which_WDT allowed_VBD it_PRP to_TO cool_VB probably_RB more_RBR than_IN it_PRP should_MD have_VB ._.

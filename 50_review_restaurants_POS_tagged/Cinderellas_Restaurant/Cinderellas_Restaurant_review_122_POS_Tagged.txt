@@ -1,6 +1,0 @@
-Works_NNP in_IN a_DT pinch_NN ._.
-Open_NNP late_RB ._.
-Food_NNP is_VBZ ..._: meh_NN ..._: OK_UH ._.
-Good_JJ beer_NN ._.
-Service_NNP is_VBZ neutrally_RB friendly_JJ enough_RB ._.
-That_DT gets_VBZ you_PRP 3_CD stars_NNS in_IN my_PRP$ book_NN ._.

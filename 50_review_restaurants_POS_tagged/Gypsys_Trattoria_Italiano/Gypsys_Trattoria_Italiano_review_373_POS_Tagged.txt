@@ -1,8 +1,0 @@
-Fast_NNP Italian_JJ food_NN ._.
-Huge_JJ portions_NNS ._.
-Cheap_JJ ._.
-Gypsy_NNP 's_POS is_VBZ n't_RB your_PRP$ typical_JJ romantic_JJ Italian_JJ date_NN spot_NN ._.
-It_PRP 's_VBZ a_DT great_JJ place_NN for_IN groups_NNS -_: there_EX 's_VBZ seating_VBG both_DT indoors_NNS and_CC outdoors_NNS ._.
-It_PRP 's_VBZ also_RB a_DT great_JJ place_NN for_IN busy_JJ people_NNS who_WP want_VBP decent_JJ ,_, hearty_JJ Italian_JJ food_NN that_WDT is_VBZ quickly_RB made_VBN to_TO order_NN and_CC is_VBZ affordable_JJ ._.
-I_PRP can_MD easily_RB order_VB one_CD of_IN their_PRP$ pasta_NN entrees_NNS and_CC save_VB half_NN for_IN another_DT meal_NN -_: the_DT portions_NNS are_VBP THAT_WDT big_JJ ._.
-Plus_CC ,_, I_PRP love_VBP their_PRP$ toasted_VBN bread_NN with_IN the_DT smeared_JJ garlic_NN ._.

@@ -1,8 +1,0 @@
-This_DT is_VBZ why_WRB I_PRP love_VBP Restaurant_NNP Week_NNP !_.
-I_PRP spent_VBD what_WP an_DT entree_FW at_IN Rialto_NNP costs_NNS for_IN an_DT appetizer_NN ,_, entree_FW ,_, dessert_NN and_CC wine_NN !_.
-I_PRP really_RB enjoyed_VBD the_DT tomato_NN salad_NN -_: the_DT cheese_NN ,_, tomato_NN and_CC basil_NN oil_NN were_VBD paired_VBN perfectly_RB ._.
-The_DT Sicilian_NNP Spiced_NNP chicken_NN was_VBD tender_NN with_IN the_DT right_JJ amount_NN of_IN crusted_JJ spice_NN on_IN the_DT outer_JJ layer_NN ._.
-The_DT sorbet_NN was_VBD smooth_JJ and_CC the_DT mango_NN flavor_NN was_VBD lovely_JJ ._.
-My_PRP$ friends_NNS choices_NNS -LRB-_-LRB- salmon_NN ,_, espresso_NN torte_NN and_CC flan_NN -RRB-_-RRB- were_VBD also_RB tasty_JJ ._.
-I_PRP only_RB gave_VBD Rialto_NNP 4_CD stars_NNS because_IN I_PRP probably_RB would_MD n't_RB come_VB back_RB here_RB again_RB -_: the_DT prices_NNS are_VBP just_RB too_RB high_JJ and_CC I_PRP feel_VBP like_IN I_PRP could_MD get_VB a_DT fairly_RB similar_JJ dish_NN at_IN a_DT lower_JJR price_NN elsewhere_RB ._.
-I_PRP disagree_VBP about_IN the_DT atmosphere_NN though_RB ,_, it_PRP was_VBD n't_RB dark_JJ or_CC too_RB loud_JJ -_: sure_JJ the_DT noise_NN level_NN was_VBD high_JJ -_: but_CC its_PRP$ packed_JJ because_IN of_IN restaurant_NN week_NN !_.

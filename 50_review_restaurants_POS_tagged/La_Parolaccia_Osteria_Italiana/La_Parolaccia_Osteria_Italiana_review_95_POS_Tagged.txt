@@ -1,4 +1,0 @@
-A_DT medium_JJ sized_VBN Italian_JJ restaurants_NNS of_IN pastas_NNS and_CC pizzas_NNS ._.
-Quite_RB a_DT selection_NN ._.
-I_PRP 'm_VBP writing_VBG this_DT review_NN from_IN 9_CD months_NNS back_RB haha_VBP ..._: A_DT little_JJ on_IN the_DT pricey_JJ side_NN keeps_VBZ me_PRP from_IN coming_VBG back_RB here_RB ._.
-Portions_NNS are_VBP probably_RB not_RB good_JJ enough_RB for_IN sharing_NN ,_, unless_IN you_PRP 're_VBP a_DT light_JJ eater_NN ,_, then_RB ,_, the_DT portions_NNS are_VBP just_RB right_RB ._.

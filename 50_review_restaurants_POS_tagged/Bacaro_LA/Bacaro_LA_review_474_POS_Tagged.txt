@@ -1,4 +1,0 @@
-My_PRP$ colleagues_NNS and_CC I_PRP come_VBP here_RB all_PDT the_DT time_NN ._.
-It_PRP 's_VBZ an_DT awesome_JJ atmosphere_NN with_IN great_JJ service_NN ._.
-The_DT food_NN is_VBZ awesome_JJ and_CC the_DT drinks_NNS are_VBP awesome_JJ ._.
-Great_NNP unique_JJ place_NN around_IN USC_NNP ._.

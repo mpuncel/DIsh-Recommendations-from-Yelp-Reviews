@@ -1,4 +1,0 @@
-Delicious_NNP pizza_NN and_CC everything_NN else_RB is_VBZ good_JJ ._.
-I_PRP love_VBP the_DT restaurant_NN with_IN the_DT trains_NNS rolling_VBG by_IN overhead_NN ._.
-Everything_NN is_VBZ reasonably_RB priced_VBN ._.
-So_RB happy_JJ to_TO have_VB found_VBN it_PRP ._.

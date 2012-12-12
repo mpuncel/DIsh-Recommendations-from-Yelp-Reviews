@@ -1,4 +1,0 @@
-Referred_VBN by_IN a_DT friend_NN in_IN the_DT neighborhood_NN ..._: vibe_NN is_VBZ great_JJ ,_, food_NN is_VBZ great_JJ ,_, staff_NN is_VBZ great_JJ ._.
-I_PRP mean_VBP ,_, what_WP more_RBR do_VB you_PRP want_VB ?_.
-The_DT fact_NN that_IN it_PRP 's_VBZ Harlem_NNP is_VBZ a_DT plus_NN because_IN now_RB we_PRP do_VBP n't_RB have_VB to_TO go_VB all_PDT the_DT way_NN downtown_NN for_IN a_DT good_JJ Italian_JJ meal_NN ._.
-Highlights_NNS :_: \*_SYM Burrata_NNP \*_SYM Truffled_VBN gnocchi_NNS \*_SYM Lobster_NN risotto_NN \*_SYM Mixed_VBN drink_NN menu_NN

@@ -1,7 +1,0 @@
-Couple_NN things_NNS :_: Great_NNP pizza_NN ,_, fast_JJ service_NN ,_, great_JJ atmosphere_NN -LRB-_-LRB- yes_UH ,_, even_RB in_IN the_DT Udistrict_NNP with_IN all_PDT the_DT bums_NNS hanging_VBG out_RP front_NN -RRB-_-RRB- ._.
-I_PRP like_VBP this_DT one_CD in_IN particular_JJ for_IN all_PDT the_DT old_JJ movie_NN posters_NNS that_WDT are_VBP in_IN italian_JJ ._.
-It_PRP 's_VBZ pretty_RB sweet_JJ ._.
-It_PRP 's_VBZ also_RB relatively_RB clean_JJ and_CC the_DT people_NNS behind_IN the_DT counters_NNS are_VBP pretty_RB nice_JJ ._.
-Great_NNP Cheese_NNP and_CC Pepperoni_NNP pizzas_NNS and_CC the_DT pesto_JJ pasta_NN salad_NN is_VBZ amazing_JJ ._.
-Also_RB ,_, try_VBP their_PRP$ pizza_NN of_IN the_DT month_NN ..._: they_PRP have_VBP some_DT crazy_JJ things_NNS on_IN these_DT pies_NNS ,_, but_CC you_PRP 'd_MD be_VB surprised_VBN of_IN how_WRB good_JJ it_PRP is_VBZ !_.
-:_: -RRB-_-RRB-

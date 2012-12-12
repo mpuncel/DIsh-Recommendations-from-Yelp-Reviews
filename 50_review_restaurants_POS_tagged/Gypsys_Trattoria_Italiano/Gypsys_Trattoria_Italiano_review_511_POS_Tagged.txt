@@ -1,5 +1,0 @@
-Good_JJ ,_, affordable_JJ italian_JJ food_NN ._.
-I_PRP 've_VBP always_RB liked_VBN the_DT Godfather_NNP ,_, but_CC you_PRP better_RB plan_VBP a_DT workout_NN the_DT next_JJ morning_NN ._.
-Cream_VB sauce_NN with_IN bacon_NN and_CC other_JJ good_JJ bits_NNS ,_, heavy_JJ but_CC good_JJ ._.
-Calzones_NNS are_VBP good_JJ too_RB ._.
-It_PRP 's_VBZ a_DT Berkeley_NNP staple_NN ._.

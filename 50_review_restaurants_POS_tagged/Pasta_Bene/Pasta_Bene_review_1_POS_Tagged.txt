@@ -1,5 +1,0 @@
-Great_NNP portion_NN sizes_NNS ._.
-Friendly_RB service_NN ._.
-Ordered_NNP :_: -_: small_JJ salad_NN -LRB-_-LRB- awesome_JJ -RRB-_-RRB- -_: eggplant_NN Parmesan_NNP -LRB-_-LRB- awesome_JJ -RRB-_-RRB- -_: bruschetta_NN -LRB-_-LRB- awesome_JJ -RRB-_-RRB- -_: pasta_NN rustica_NN -LRB-_-LRB- awesome_JJ -RRB-_-RRB- Nice_NNP seating_VBG area_NN inside_IN ._.
-A_DT more_JJR senior_JJ employee_NN was_VBD training_VBG a_DT newer_JJR employee_NN and_CC was_VBD doing_VBG an_DT excellent_JJ job_NN of_IN remaining_VBG attentive_JJ to_TO customers_NNS while_IN explaining_VBG procedures_NNS to_TO the_DT new_JJ person_NN ._.
-Highly_NNP recommended_VBD ._.

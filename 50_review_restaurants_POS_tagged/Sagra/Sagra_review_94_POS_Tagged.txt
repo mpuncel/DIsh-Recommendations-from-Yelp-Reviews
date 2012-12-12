@@ -1,6 +1,0 @@
-Yum_NNP ,_, yum_NN ,_, yum_NN !_.
-Highly_NNP recommend_VB starting_VBG with_IN the_DT bruschetta_NN ._.
-It_PRP was_VBD the_DT best_JJS I_PRP have_VBP ever_RB had_VBN ._.
-I_PRP ca_MD n't_RB remember_VB the_DT official_JJ name_NN of_IN the_DT entree_FW I_PRP had_VBD ,_, but_CC it_PRP was_VBD baked_JJ macaroni_NNS with_IN chicken_NN and_CC spinach_NN in_IN a_DT cream_NN sauce_NN and_CC it_PRP was_VBD delicious_JJ ._.
-Lastly_RB ,_, and_CC the_DT thing_NN I_PRP 've_VBP been_VBN dreaming_VBG about_IN since_IN I_PRP had_VBD it_PRP -_: the_DT chocolate_NN torte_NN ._.
-Eat_VB only_RB half_NN of_IN your_PRP$ dinner_NN -_: because_IN you_PRP 're_VBP going_VBG to_TO want_VB to_TO save_VB room_NN for_IN dessert_NN !_.

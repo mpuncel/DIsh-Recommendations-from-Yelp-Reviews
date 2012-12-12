@@ -1,7 +1,0 @@
-It_PRP 's_VBZ a_DT nice_JJ ma-and-pa_NN type_NN of_IN place_NN to_TO eat_VB ._.
-It_PRP 's_VBZ pretty_RB small_JJ but_CC cozy-recommend_JJ a_DT seat_NN out_RP on_IN the_DT street_NN ._.
-The_DT food_NN is_VBZ relatively_RB cheap_JJ and_CC the_DT service_NN is_VBZ good_JJ enough_RB to_TO make_VB me_PRP want_VB to_TO come_VB back_RB again_RB !_.
-I_PRP would_MD highly_RB recommend_VB the_DT hamburger_NN and_CC fries_NNS ,_, only_RB $_$ 5.95_CD !_.
-I_PRP was_VBD in_IN a_DT party_NN of_IN 3_CD and_CC I_PRP was_VBD the_DT last_JJ to_TO get_VB my_PRP$ food_NN ,_, and_CC I_PRP jokingly_RB asked_VBD what_WP the_DT deal_NN was_VBD with_IN my_PRP$ burger_NN and_CC fries_NNS ._.
-The_DT lady_NN joked_VBD back_RB that_IN I_PRP had_VBD asked_VBN for_IN it_PRP to_TO be_VB well-done_JJ so_IN it_PRP takes_VBZ time_NN ._.
-And_CC the_DT next_JJ thing_NN I_PRP know_VBP ,_, the_DT chef_NN hand-delivered_JJ my_PRP$ order_NN and_CC tells_VBZ me_PRP that_IN he_PRP added_VBD a_DT special_JJ thousand_CD island_NN sauce_NN and_CC tells_VBZ me_PRP that_IN it_PRP will_MD be_VB very_RB good_JJ !_.

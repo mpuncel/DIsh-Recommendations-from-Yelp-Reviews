@@ -1,3 +1,0 @@
-Pizza_NNP is_VBZ delicious_JJ ,_, you_PRP must_MD try_VB the_DT San_NNP Grennaro_NNP -LRB-_-LRB- the_DT sweet_JJ peppers_NNS are_VBP to_TO DIE_VB for_IN -RRB-_-RRB- ._.
--1_CD pt_NN for_IN the_DT price_NN &_CC initial_JJ scornful_JJ service_NN -LRB-_-LRB- warmed_VBN up_RB later_RB ..._: but_CC hardly_RB -RRB-_-RRB- ._.
-It_PRP 's_VBZ BYOB_NNP ,_, and_CC since_IN it_PRP was_VBD my_PRP$ first_JJ time_NN ..._: I_PRP 'm_VBP still_RB not_RB sure_JJ what_WP happened_VBD after_IN we_PRP walked_VBD out_RP ..._:

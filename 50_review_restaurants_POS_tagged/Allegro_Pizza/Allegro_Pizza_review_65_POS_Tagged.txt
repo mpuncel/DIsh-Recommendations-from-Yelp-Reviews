@@ -1,4 +1,0 @@
-The_DT tomato_NN pie_NN is_VBZ delicious_JJ ,_, which_WDT is_VBZ why_WRB i_FW come_VB back_RB ._.
-Although_IN sometimes_RB they_PRP do_VBP not_RB have_VB very_RB many_JJ slices_NNS available_JJ and_CC tend_VB to_TO push_VB the_DT other_JJ more_RBR expensive_JJ pizzas_NNS ._.
-Also_RB ,_, a_DT convenient_JJ place_NN to_TO pick_VB up_RP beer_NN while_IN seeing_VBG a_DT show_NN at_IN pilam_NN -LRB-_-LRB- byobooz_NN -RRB-_-RRB- ._.
-They_PRP seem_VBP to_TO play_VB country_NN music_NN alot_NN ,_, which_WDT is_VBZ strange_JJ ,_, but_CC usually_RB there_EX 's_VBZ a_DT good_JJ sized_VBN crowd_NN watching_VBG the_DT tv_NN ._.

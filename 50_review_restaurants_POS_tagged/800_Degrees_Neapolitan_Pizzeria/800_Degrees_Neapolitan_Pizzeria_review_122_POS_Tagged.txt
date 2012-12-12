@@ -1,3 +1,0 @@
-Yet_RB another_DT pizza_NN place_NN in_IN LA_NNP that_WDT claims_VBZ it_PRP has_VBZ good_JJ pizza_NN ._.
-Wrong_JJ again_RB ._.
-Great_NNP gimmick_NN with_IN little_JJ taste_NN ._.

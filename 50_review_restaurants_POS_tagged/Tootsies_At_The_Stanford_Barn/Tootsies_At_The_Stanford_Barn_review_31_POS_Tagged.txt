@@ -1,3 +1,0 @@
-The_DT food_NN is_VBZ amazing_JJ ,_, the_DT atmosphere_NN is_VBZ perfect_JJ and_CC the_DT service_NN is_VBZ stellar_JJ ._.
-An_DT easy_JJ 5_CD stars_NNS and_CC a_DT great_JJ find_VBP ._.
-Thank_VB you_PRP Yelpers_NNPS !!!_SYM

@@ -1,5 +1,0 @@
-THIS_NNP RATING_NNP IS_VBZ ONLY_NNP FOR_IN THEIR_NNP PANINI_NNP 'S_POS !!!!!!!!!_CD Their_PRP$ panini_NN 's_POS are_VBP a_DT JOKE_NN ._.
-They_PRP take_VBP a_DT baguette_NN ,_, cut_VBD it_PRP in_IN half_DT so_IN it_PRP looks_VBZ like_IN you_PRP have_VBP 2_CD sandwiches_NNS to_TO eat_VB ._.
-They_PRP press_VBP the_DT baguettes_NNS in_IN a_DT panini_NN press_NN so_IN it_PRP makes_VBZ those_DT grill_JJ lines_NNS ._.
-And_CC pretty_RB much_RB the_DT entire_JJ sandwich_NN OTHER_NNP than_IN the_DT bread_NN is_VBZ COLD_NNP ._.
-NOT_RB EVEN_RB THE_DT CHEESE_NN WAS_VBD MELTED_NNP !!!!!!_CD I_PRP was_VBD extremely_RB disappointed_JJ and_CC I_PRP would_MD NEVERRRRRR_NNP go_VB there_RB for_IN their_PRP$ PANINI_NNP 's_POS EVERRRR_NNP again_RB ._.

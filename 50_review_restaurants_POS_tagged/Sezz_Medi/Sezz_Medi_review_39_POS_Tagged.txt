@@ -1,3 +1,0 @@
-Butternut_NNP squash_NN salad_NN w_NN arugula_NN ,_, pine_VB nuts_NNS &_CC parmesan_NN is_VBZ exquisite_JJ !_.
-Margherita_NNP pizza_NN ..._: simple_JJ &_CC delicious_JJ ._.
-Could_MD be_VB a_DT few_JJ bucks_NNS cheaper_JJR but_CC all_DT in_IN all_DT ,_, a_DT nice_JJ place_NN w_RB good_JJ service_NN ,_, decent_JJ atmosphere_NN -LRB-_-LRB- more_JJR space_NN than_IN usual_JJ in_IN this_DT neighborhood_NN -RRB-_-RRB- &_CC worth_JJ checking_VBG out_RP !_.

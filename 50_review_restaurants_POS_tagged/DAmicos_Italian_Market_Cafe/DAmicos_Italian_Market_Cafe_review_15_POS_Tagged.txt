@@ -1,4 +1,0 @@
-Love_NNP this_DT place_NN --_: feels_VBZ like_IN I_PRP 'm_VBP transported_VBN to_TO a_DT tiny_JJ ,_, authentic_JJ restaurant_NN in_IN Boston_NNP 's_POS little_JJ Italy_NNP ._.
-Ask_VB for_IN Rene_NNP or_CC Isaac_NNP --_: they_PRP are_VBP fantastic_JJ ._.
-Love_NNP the_DT antipasta_JJ plate_NN ,_, sauteed_VBN calamari_NNS ,_, crawfish_JJ ravioli_NNS ,_, fish_NN specials_NNS ,_, and_CC walnut_NN ravioli_NNS ._.
-Get_VB some_DT amaretti_NNS cookies_NNS to_TO go_VB ..._: great_JJ with_IN a_DT cup_NN of_IN coffee_NN or_CC sprinkled_VBN on_IN ice_NN cream_NN ._.

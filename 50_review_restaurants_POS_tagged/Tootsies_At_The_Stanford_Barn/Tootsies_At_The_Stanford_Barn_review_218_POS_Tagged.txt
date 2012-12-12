@@ -1,4 +1,0 @@
-Best_JJS breakfast_NN and_CC lunch_NN place_NN around_IN Stanford_NNP ._.
-The_DT menu_NN is_VBZ small_JJ ,_, great_JJ and_CC everything_NN tastes_NNS fabulous_JJ ._.
-Burger_NNP ,_, fries_NNS ,_, chips_NNS ,_, sandwiches_NNS and_CC salads_NNS are_VBP fresh_JJ and_CC home_NN made_VBN and_CC on_IN a_DT sunny_JJ day_NN you_PRP can_MD sit_VB outside_JJ ._.
-Every_DT morning_NN when_WRB I_PRP get_VBP my_PRP$ double_JJ shot_NN espresso_NN ,_, they_PRP make_VBP the_DT focaccia_NN and_CC the_DT sandwiches_NNS which_WDT makes_VBZ me_PRP wanna_VB skip_VB the_DT breakfast_NN and_CC get_VB lunch_NN right_RB away_RB ._.

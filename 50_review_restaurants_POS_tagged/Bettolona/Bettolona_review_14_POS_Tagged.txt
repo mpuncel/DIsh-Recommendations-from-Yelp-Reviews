@@ -1,6 +1,0 @@
-It_PRP took_VBD 15_CD minutes_NNS to_TO get_VB a_DT waiter_NN who_WP was_VBD less_JJR than_IN polite_JJ but_CC not_RB rude_JJ ._.
-The_DT specials_NNS board_NN was_VBD not_RB shown_VBN to_TO us_PRP ._.
-It_PRP took_VBD another_DT 15_CD minutes_NNS to_TO get_VB a_DT waiter_NN and_CC pay_NN to_TO leave_VB ._.
-The_DT caprese_NN and_CC quattro_NN pizza_NN were_VBD average_JJ ._.
-The_DT lasagna_NN verdi_NN was_VBD better_JJR than_IN average_JJ but_CC I_PRP think_VBP that_IN they_PRP really_RB just_RB need_VB more_JJR waiters_NNS and_CC a_DT host_NN or_CC hostess_NN ._.
-Overall_RB a_DT welcome_JJ addition_NN to_TO the_DT neighborhood_NN and_CC we_PRP hope_VBP to_TO give_VB them_PRP another_DT try_VBP someday_RB ._.

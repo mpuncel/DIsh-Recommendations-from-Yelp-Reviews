@@ -1,6 +1,0 @@
-Came_NNP here_RB to_TO have_VB lunch_NN with_IN a_DT friend_NN ._.
-It_PRP was_VBD a_DT slow_JJ and_CC lazy_JJ Saturday_NNP afternoon_NN ,_, service_NN was_VBD prompt_JJ and_CC friendly_JJ ._.
-The_DT food_NN was_VBD good_JJ ._.
-Why_WRB three_CD stars_NNS ?_.
-It_PRP was_VBD n't_RB stellar_JJ and_CC it_PRP was_VBD n't_RB awful_JJ ._.
-I_PRP would_MD totally_RB come_VB back_RB ._.

@@ -1,8 +1,0 @@
-Decent_JJ food_NN at_IN a_DT decent_JJ price_NN ._.
-I_PRP am_VBP a_DT fan_NN ._.
-However_RB ,_, this_DT is_VBZ where_WRB I_PRP realized_VBD I_PRP do_VBP n't_RB like_VB mushroom_NN soup_NN ,_, which_WDT was_VBD the_DT soup_NN of_IN the_DT day_NN ._.
-It_PRP was_VBD n't_RB creamy_JJ like_IN I_PRP expected_VBD ._.
-I_PRP took_VBD it_PRP home_NN since_IN I_PRP ca_MD n't_RB pour_VB money_NN down_IN the_DT drain_NN ._.
-Later_RB that_DT night_NN ,_, I_PRP cooked_VBD spaghetti_NNS noodles_NNS and_CC used_VBD the_DT soup_NN as_IN the_DT sauce_NN ._.
-That_DT actually_RB came_VBD out_RP delicious_JJ ._.
-Other_JJ than_IN that_DT ,_, everything_NN else_RB was_VBD pretty_RB good_JJ ._.

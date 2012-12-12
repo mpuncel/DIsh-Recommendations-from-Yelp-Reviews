@@ -1,8 +1,0 @@
-I_PRP really_RB wanted_VBD to_TO like_VB this_DT place_NN ._.
-Love_NNP the_DT concept_NN but_CC the_DT execution_NN needs_VBZ work_NN ._.
-Pizza_NNP is_VBZ soggy_JJ --_: so_RB soggy_JJ that_IN if_IN you_PRP pick_VBP up_RP a_DT piece_NN your_PRP$ toppings_NNS and_CC cheese_NN immediately_RB slide_VB off_RP ._.
-I_PRP asked_VBD the_DT manager_NN about_IN this_DT on_IN my_PRP$ second_JJ ,_, and_CC last_JJ ,_, visit_NN and_CC she_PRP said_VBD something_NN about_IN the_DT Neapolitan_NNP style_NN of_IN pizza_NN being_VBG ``_`` very_RB juicy_NN ._. ''_''
-OK_JJ --_: you_PRP call_VBP it_PRP ``_`` juicy_NN ''_'' and_CC I_PRP call_VBP it_PRP ``_`` soggy_JJ ._. ''_''
-Either_DT way_NN ,_, it_PRP 's_VBZ not_RB what_WP I_PRP want_VBP in_IN a_DT pizza_NN ._.
-In_IN other_JJ news_NN ..._: cool_JJ Coke_NNP machine_NN and_CC nice_JJ salads_NNS ._.
-Better_NNP pizza_NN available_JJ elsewhere_RB ._.

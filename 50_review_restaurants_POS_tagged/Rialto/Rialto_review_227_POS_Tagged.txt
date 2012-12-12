@@ -1,8 +1,0 @@
-Rialto_NNP is_VBZ one_CD of_IN the_DT best_JJS restaurants_NNS in_IN the_DT Boston_NNP area_NN ,_, hands_NNS down_RB ._.
-It_PRP has_VBZ earned_VBN its_PRP$ excellent_JJ reputation_NN ._.
-The_DT dishes_NNS are_VBP extremely_RB inventive_JJ ..._: an_DT expertly_RB conducted_VBN orchestra_NN of_IN flavors_NNS in_IN each_DT and_CC every_DT bite_NN ._.
-Have_VBP an_DT appetizer_NN ,_, main_JJ dish_NN ,_, and_CC if_IN you_PRP can_MD fit_VB it_PRP in_IN your_PRP$ stomach_NN ,_, definitely_RB have_VBP dessert_NN !!!_CD I_PRP had_VBD the_DT rabbit_NN in_IN pepper_NN ragout_NN -_: amazing_JJ !_.
-Dessert_NN :_: hot_JJ chocolate_NN cream_NN w_VB \/_RB basil_JJ infused_VBD pineapple_NN and_CC ginger_NN chili_NNS ice_NN cream_NN ._.
-This_DT is_VBZ definitely_RB their_PRP$ most_RBS popular_JJ dessert_NN and_CC quite_RB an_DT experience_NN ._.
-Our_PRP$ waiter_NN ,_, Eric_NNP ,_, -LRB-_-LRB- young_JJ guy_NN with_IN moustache_NN and_CC goatee_NN -RRB-_-RRB- was_VBD one_CD of_IN the_DT friendliest_JJS and_CC most_RBS knowledgeable_JJ waiters_NNS I_PRP 've_VBP ever_RB encountered_VBN ._.
-Head_NNP chef_NN ,_, Jody_NNP Adams_NNP ,_, YOU_PRP GO_VBP GIRL_NNP !!!_IN

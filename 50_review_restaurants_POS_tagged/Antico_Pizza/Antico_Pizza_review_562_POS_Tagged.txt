@@ -1,9 +1,0 @@
-What_WP a_DT fun_NN place_NN !_.
-BYOB_NNP ,_, so_RB come_VB prepared_JJ ._.
-Also_RB ,_, getting_VBG a_DT seat_NN for_IN a_DT group_NN can_MD be_VB tough_JJ ,_, so_RB send_VB one_CD person_NN to_TO order_NN ,_, and_CC another_DT to_TO get_VB a_DT seat_NN ._.
-Food_NNP is_VBZ great_JJ !_.
-I_PRP love_VBP garlic_JJ ,_, so_IN the_DT cups_NNS full_JJ of_IN garlic_JJ to_TO top_VB your_PRP$ pizza_NN are_VBP yummy_JJ !_.
-My_PRP$ husband_NN loves_VBZ the_DT spicy_NN peppers_NNS ,_, but_CC they_PRP are_VBP a_DT bit_NN too_RB hot_JJ for_IN me_PRP ._.
-Fun_NN atmosphere_NN !_.
-Nice_JJ people_NNS !_.
-Great_JJ food_NN !_.

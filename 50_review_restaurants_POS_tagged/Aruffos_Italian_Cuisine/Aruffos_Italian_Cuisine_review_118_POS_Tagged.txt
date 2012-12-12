@@ -1,6 +1,0 @@
-The_DT bread_NN here_RB is_VBZ delicious_JJ ._.
-Sneak_VB some_DT out_RP with_IN you_PRP ._.
-Prices_NNS for_IN entrees_NNS range_VBP around_IN $_$ 15_CD -_: $_$ 20_CD ._.
-Ragu_NNP sauce_NN is_VBZ always_RB a_DT bit_NN on_IN the_DT salty_NN side_NN ._.
-The_DT food_NN does_VBZ n't_RB come_VBN with_IN complex_JJ flavors_NNS ,_, very_RB straight_JJ forward_RB food_NN ._.
-It_PRP is_VBZ good_JJ for_IN poor_JJ college_NN students_NNS for_IN a_DT nice_JJ night_NN out_IN and_CC good_JJ for_IN left_JJ overs_NNS to_TO eat_VB the_DT next_JJ day_NN ._.

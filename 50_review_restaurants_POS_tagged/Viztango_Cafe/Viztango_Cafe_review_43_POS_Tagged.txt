@@ -1,7 +1,0 @@
-Homemade_NNP Fried_NNP Ravioli_NNP :_: These_DT were_VBD definitely_RB fried_VBN ._.
-Fried_NNP to_TO a_DT point_NN that_IN they_PRP do_VBP n't_RB even_RB look_VB like_IN Raviolis_NNP ._.
--LRB-_-LRB- see_VB the_DT picture_NN ._. -RRB-_-RRB-
-Thai_NNP Chicken_NNP Pizza_NNP :_: Drier_JJR then_RB Thai_NNP is_VBZ suppose_VB to_TO be_VB ._.
-Paradise_NNP Tea_NNP :_: Taste_NN like_IN cheap_JJ tea_NN bag_NN peach_NN tea_NN ._.
-Delivery_NN :_: He_PRP called_VBD to_TO say_VB he_PRP arrived_VBD even_RB though_IN I_PRP asked_VBD to_TO call_VB before_IN he_PRP left_VBD so_RB I_PRP could_MD be_VB waiting_VBG downstairs_NNS ._.
-The_DT security_NN door_NN to_TO my_PRP$ building_NN was_VBD open_JJ since_IN the_DT maintenance_NN man_NN was_VBD working_VBG above_IN the_DT door_NN ..._: People_NNS could_MD walk_VB under_IN the_DT ladder_NN to_TO come_VB and_CC go_VB but_CC the_DT delivery_NN guy_NN did_VBD n't_RB get_VB out_IN of_IN his_PRP$ car_NN until_IN I_PRP finally_RB walked_VBD outside_JJ and_CC asked_VBD him_PRP if_IN he_PRP was_VBD delivery_NN -_: lazy_JJ !_.

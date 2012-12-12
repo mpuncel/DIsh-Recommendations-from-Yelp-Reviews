@@ -1,7 +1,0 @@
-I_PRP was_VBD surprised_VBN that_IN this_DT place_NN was_VBD as_IN tasty_JJ as_IN it_PRP was_VBD ..._: it_PRP 's_VBZ pretty_RB unassuming_JJ looking_VBG and_CC unpretentious_JJ ._.
-I_PRP had_VBD one_CD of_IN their_PRP$ mini_NNS pizzas_NNS :_: the_DT sauce_NN was_VBD tangy_JJ and_CC not_RB sweet_JJ -LRB-_-LRB- just_RB as_IN I_PRP like_VBP it_PRP -RRB-_-RRB- ,_, and_CC the_DT crust_NN had_VBD a_DT lot_NN of_IN flavor_NN ._.
-Friends_NNPS '_POS reports_NNS :_: Minestrone_NNP is_VBZ a_DT little_JJ bland_NN -LRB-_-LRB- it_PRP looked_VBD pretty_RB fresh_JJ with_IN lots_NNS of_IN veggies_NNS though_IN -RRB-_-RRB- Lasagne_NNP is_VBZ a-ok_JJ --_: the_DT meat_NN had_VBD a_DT nice_JJ seasoning_NN in_IN it_PRP ._.
-Bonus_NN :_: garlic\/cheesy_JJ bread_NN on_IN the_DT side_NN for_IN free_JJ ._.
-We_PRP were_VBD kinda_JJ evil_NN and_CC brought_VBN in_RP coffee_NN drinks_NNS from_IN Peets_NNPS ,_, but_CC they_PRP did_VBD n't_RB yell_VB at_IN us_PRP ,_, which_WDT was_VBD nice_JJ ._.
-Service_NNP was_VBD a_DT little_JJ slow_JJ ._.
-Bathroom_NN was_VBD nice_JJ and_CC clean_JJ !_.

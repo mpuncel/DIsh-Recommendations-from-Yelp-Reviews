@@ -1,4 +1,0 @@
-My_PRP$ favorite_JJ Italian_JJ restaurant_NN on_IN the_DT Island_NNP ._.
-Absolutely_RB delicious_JJ food_NN at_IN very_RB decent_JJ prices_NNS and_CC a_DT very_RB cozy_JJ atmosphere_NN ,_, although_IN it_PRP can_MD quickly_RB get_VB crowded_VBN with_IN all_DT of_IN the_DT college_NN locals_NNS ._.
-They_PRP always_RB have_VBP very_RB interesting_JJ specials_NNS and_CC the_DT waitstaff_NN really_RB know_VB the_DT menu_NN inside_IN out_RB ._.
-Very_RB authentic_JJ deserts_NNS as_RB well_RB but_CC the_DT sauces_NNS are_VBP really_RB what_WP make_VB this_DT place_NN ,_, great_JJ Bolognese_JJ and_CC very_RB spicy_JJ Fra_NNP Diavolo_NNP Recommendations_NNP -_: the_DT home-made_JJ Lasagna_NNP and_CC anything_NN with_IN squid_JJ ink_NN pasta_NN ._.

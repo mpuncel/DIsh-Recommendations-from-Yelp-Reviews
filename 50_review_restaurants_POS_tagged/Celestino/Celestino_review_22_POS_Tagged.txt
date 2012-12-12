@@ -1,5 +1,0 @@
-Great_NNP restaurant_NN !_.
-Excellent_JJ food_NN and_CC service_NN !_.
-I_PRP went_VBD here_RB for_IN lunch_NN and_CC got_VBD the_DT seafood_NN risotto_NN special_JJ --_: it_PRP was_VBD delicious_JJ !!_NN Actually_RB ,_, ALL_NNP the_DT specials_NNS sounded_VBD great_JJ --_: it_PRP was_VBD so_RB hard_JJ to_TO decide_VB !!_CD Next_JJ time_NN I_PRP will_MD go_VB for_IN the_DT Filet_NNP Mignon_NNP Ravioli_NNP !_.
-I_PRP have_VBP never_RB been_VBN disappointed_VBN here_RB !_.
-Wine_NN selection_NN is_VBZ great_JJ too_RB !_.

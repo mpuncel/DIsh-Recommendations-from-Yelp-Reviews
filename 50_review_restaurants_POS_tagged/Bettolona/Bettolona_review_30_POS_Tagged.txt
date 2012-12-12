@@ -1,1 +1,0 @@
-Great_NNP place_NN for_IN classic_JJ Italian_JJ food_NN and_CC pizza_NN -LRB-_-LRB- made_VBD the_DT Naples_NNP way_NN -RRB-_-RRB- ._.

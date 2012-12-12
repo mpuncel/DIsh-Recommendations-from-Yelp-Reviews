@@ -1,9 +1,0 @@
-This_DT place_NN is_VBZ tiny_JJ -LRB-_-LRB- and_CC cute_JJ -RRB-_-RRB- !_.
-I_PRP came_VBD here_RB for_IN my_PRP$ birthday_NN a_DT couple_NN of_IN months_NNS ago_RB and_CC it_PRP was_VBD pretty_RB good_JJ ._.
-Some_DT of_IN the_DT items_NNS are_VBP hit_VBN or_CC miss_VBP ._.
-The_DT burger_NN with_IN the_DT fried_JJ egg_NN on_IN top_NN was_VBD very_RB good_JJ ,_, but_CC the_DT flat_JJ bread_NN pizza_NN was_VBD not_RB ._.
-They_PRP also_RB do_VBP bruschetta_JJ very_RB well_RB ,_, specifically_RB the_DT tomato_NN one_CD ._.
-It_PRP was_VBD fantastic_JJ ._.
-Some_DT of_IN the_DT portions_NNS ,_, like_IN the_DT salmon_NN plate_NN ,_, was_VBD very_RB small_JJ ,_, but_CC it_PRP is_VBZ a_DT tapas_JJ place_NN ,_, so_RB what_WP do_VBP you_PRP expect_VB ?_.
-I_PRP saw_VBD their_PRP$ happy_JJ hour_NN specials_NNS and_CC it_PRP seems_VBZ like_IN a_DT great_JJ deal_NN ,_, so_IN I_PRP will_MD be_VB returning_VBG some_DT day_NN soon_RB ._.
-For_IN a_DT small_JJ place_NN ,_, their_PRP$ wine_NN selection_NN was_VBD decent_JJ ._.

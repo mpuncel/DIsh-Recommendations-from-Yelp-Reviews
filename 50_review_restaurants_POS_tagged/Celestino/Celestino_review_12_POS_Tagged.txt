@@ -1,5 +1,0 @@
-I_PRP went_VBD here_RB for_IN dinner_NN with_IN my_PRP$ husband_NN ._.
-We_PRP ordered_VBD the_DT mushroom_NN soufflé_NN ,_, gnocchi_NNS ,_, and_CC t-bone_JJ steak_NN Florentine_NNP style_NN ._.
-The_DT only_JJ dish_NN that_WDT really_RB stood_VBD out_RP was_VBD the_DT gnoochi_NNS ._.
-It_PRP was_VBD light_JJ and_CC pillowy_JJ ,_, which_WDT went_VBD well_RB with_IN the_DT rich_JJ cheese_NN sauce_NN ._.
-Overall_RB the_DT food_NN was_VBD fine_JJ ,_, but_CC not_RB great_JJ ._.

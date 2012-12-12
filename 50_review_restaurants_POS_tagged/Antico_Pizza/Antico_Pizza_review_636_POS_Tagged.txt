@@ -1,3 +1,0 @@
-I_PRP am_VBP a_DT huge_JJ fan_NN of_IN this_DT place_NN ._.
-I_PRP highly_RB recommend_VBP the_DT Diavola_NNP pizza_NN and_CC the_DT Vesuvio_NNP Calzone_NNP ._.
-This_DT is_VBZ my_PRP$ favorite_JJ pizza_NN place_NN in_IN town_NN though_IN I_PRP have_VBP not_RB made_VBN it_PRP to_TO Verrazano_NNP 's_POS yet_RB ._.

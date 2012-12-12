@@ -1,7 +1,0 @@
-Stay_NNP away_RB !_.
-Bertucci_NNP 's_POS is_VBZ just_RB plain_JJ out_IN bad_JJ ._.
-Every_DT time_NN I_PRP try_VBP to_TO give_VB the_DT place_NN a_DT chance_NN I_PRP get_VBP disappointed_VBN ._.
-Food_NNP is_VBZ poor_JJ and_CC menu_NN is_VBZ uninspired_JJ ._.
-You_PRP are_VBP better_JJR off_IN cooking_NN a_DT frozen_JJ Bertolli_NNP bag_NN at_IN home_NN ._.
-Their_PRP$ pizzas_NNS are_VBP OK_JJ ,_, but_CC do_VBP you_PRP really_RB want_VBP to_TO go_VB to_TO a_DT Bertuccis_NNP when_WRB you_PRP can_MD visit_VB a_DT great_JJ local_JJ pizza_NN place_NN ._.
-Go_VB to_TO the_DT Olive_NNP Garden_NNP or_CC Caraba_NNP 's_POS if_IN you_PRP are_VBP looking_VBG for_IN chain_NN Italian_JJ food_NN ._.

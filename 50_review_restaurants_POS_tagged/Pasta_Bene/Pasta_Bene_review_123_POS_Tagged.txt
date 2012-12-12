@@ -1,2 +1,0 @@
-Love_NNP the_DT chicken_NN fettucini_NN alfredo_NN !_.
-cheap_RB ,_, fast_RB ,_, good_JJ portions_NNS and_CC delicious_JJ !_.

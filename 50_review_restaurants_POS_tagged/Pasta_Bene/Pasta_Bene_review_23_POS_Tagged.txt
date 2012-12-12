@@ -1,4 +1,0 @@
-This_DT place_NN is_VBZ a_DT great_JJ go-to_JJ place_NN for_IN higher-end_JJ affordable_JJ pasta_NN -LRB-_-LRB- compared_VBN to_TO gypsy_NN 's_POS !_. -RRB-_-RRB- ._.
-Especially_RB since_IN the_DT restaurant_NN is_VBZ very_RB well-kept_JJ and_CC clean_JJ ,_, so_IN it_PRP makes_VBZ a_DT nice_JJ place_NN to_TO sit_VB &_CC chat_VB with_IN friends_NNS ._.
-My_PRP$ favorite_JJ is_VBZ the_DT Marco_NNP Pollo_NNP and_CC the_DT Calamari_NNP is_VBZ also_RB good_JJ for_IN a_DT beginning_NN appetizer_NN ._.
-I_PRP love_VBP the_DT service_NN of_IN the_DT place_NN and_CC I_PRP definitely_RB think_VBP it_PRP is_VBZ a_DT step_NN up_RB from_IN many_JJ of_IN the_DT restaurants_NNS here_RB in_IN Berkeley_NNP !_.

@@ -1,8 +1,0 @@
-Bar_NNP none_NN ,_, my_PRP$ absolute_JJ favorite_JJ place_NN in_IN the_DT area_NN ._.
-It_PRP 's_VBZ fantastic_JJ ._.
-Their_PRP$ menu_NN is_VBZ extensive_JJ and_CC varied_JJ ,_, with_IN delicacies_NNS like_IN cioppino_NN ,_, pasta_NN primavera_NN ,_, etc._FW ._.
-There_EX are_VBP plenty_NN of_IN vegetarian_JJ options_NNS and_CC options_NNS for_IN those_DT with_IN pickier_JJR palates_NNS -_: the_DT pizza_NN is_VBZ great_JJ ._.
-The_DT waitstaff_NN are_VBP very_RB courteous_JJ as_RB well_RB ._.
-They_PRP have_VBP good_JJ advice_NN on_IN the_DT menu_NN ,_, as_RB well_RB as_IN suggestions_NNS for_IN the_DT wine_NN list_NN ,_, which_WDT is_VBZ very_RB good_JJ ._.
-While_IN the_DT atmosphere_NN is_VBZ n't_RB quite_RB as_IN good_JJ as_IN La_NNP Piccoleta_NNP or_CC Tutti_NNP Mangia_NNP 's_POS ,_, the_DT food_NN is_VBZ just_RB as_RB good_JJ ,_, if_IN not_RB better_JJR -_: and_CC the_DT price_NN is_VBZ better_RBR ,_, too_RB ._.
-La_NNP Parolaccia_NNP is_VBZ a_DT great_JJ place_NN to_TO go_VB right_RB before_IN a_DT movie_NN ,_, or_CC before_IN drinks_NNS at_IN Casa_NNP 425_CD ._.

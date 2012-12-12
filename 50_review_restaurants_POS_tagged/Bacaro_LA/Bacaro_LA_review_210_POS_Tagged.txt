@@ -1,2 +1,0 @@
-The_DT customer_NN service_NN is_VBZ so_RB ,_, so_RB ,_, so_RB bad_JJ ._.
-The_DT food_NN is_VBZ good_JJ ,_, but_CC it_PRP does_VBZ n't_RB matter_VB ,_, because_IN they_PRP 'll_MD never_RB bring_VB it_PRP to_TO you_PRP ._.

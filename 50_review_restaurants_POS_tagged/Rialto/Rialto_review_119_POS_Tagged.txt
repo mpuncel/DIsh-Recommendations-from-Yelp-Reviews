@@ -1,8 +1,0 @@
-I_PRP 'm_VBP surprised_JJ reading_VBG some_DT of_IN the_DT recent_JJ reviews_NNS because_IN I_PRP just_RB came_VBD for_IN restaurant_NN week_NN Saturday_NNP night_NN and_CC had_VBD a_DT really_RB good_JJ experience_NN ._.
-Had_VBD a_DT reservation_NN for_IN 6:45_CD pm_NN and_CC got_VBD seated_VBN right_RB away_RB ._.
-Our_PRP$ waitress_NN was_VBD really_RB friendly_JJ ,_, the_DT service_NN was_VBD really_RB quick_JJ ._.
-I_PRP was_VBD actually_RB a_DT little_JJ surprised_JJ how_WRB fast_JJ each_DT course_NN got_VBD out_RP ._.
-I_PRP started_VBD with_IN the_DT antipasti_NNS plate_NN ._.
-The_DT prosciutto_NN was_VBD really_RB fresh_JJ and_CC thinly_RB sliced_VBD ,_, but_CC overall_JJ I_PRP think_VBP it_PRP was_VBD probably_RB the_DT weakest_JJS link_NN in_IN my_PRP$ meal_NN ._.
-For_IN main_JJ course_NN I_PRP had_VBD the_DT sweet_JJ potato_NN ravioli_NNS ,_, which_WDT I_PRP thought_VBD were_VBD outstanding_JJ !_.
-Dessert_NN was_VBD the_DT chocolate_NN espresso_NN torta_NN ,_, which_WDT was_VBD dense_JJ ,_, rich_JJ and_CC yummy_JJ !_.

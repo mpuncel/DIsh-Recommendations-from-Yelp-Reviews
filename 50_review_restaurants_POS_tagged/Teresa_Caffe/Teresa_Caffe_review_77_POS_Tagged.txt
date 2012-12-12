@@ -1,5 +1,0 @@
-Love_NNP this_DT place_NN ._.
-The_DT food_NN is_VBZ great_JJ -_: portions_NNS are_VBP n't_RB huge_JJ which_WDT I_PRP like_VBP ,_, everything_NN is_VBZ fresh_JJ ,_, and_CC they_PRP have_VBP some_DT really_RB creative_JJ ,_, clean_JJ Italian_JJ dishes_NNS ._.
-We_PRP sat_VBD at_IN the_DT bar_NN ,_, enjoyed_VBD some_DT conversation_NN with_IN the_DT bartender_NN ,_, and_CC overall_RB ,_, just_RB had_VBD a_DT nice_JJ lunch_NN ._.
-It_PRP 's_VBZ very_RB clean_JJ and_CC the_DT inside_JJ decor_NN is_VBZ understated_VBN yet_RB classy_JJ ._.
-I_PRP would_MD definitely_RB bring_VB out_RP of_IN town_NN friends_NNS here_RB ._.

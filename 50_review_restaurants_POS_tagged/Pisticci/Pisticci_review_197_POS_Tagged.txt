@@ -1,7 +1,0 @@
-Steak_NN -LRB-_-LRB- sans_NNS mint_NN sauce_NN -RRB-_-RRB- is_VBZ great_JJ ._.
--LRB-_-LRB- Most_JJS of_IN ?_. -RRB-_-RRB-
-The_DT pasta_NN is_VBZ homemade_NN and_CC delicious_JJ ._.
-The_DT house_NN cocktails_NNS are_VBP unique_JJ and_CC fresh_JJ :_: cumcumber_NN something_NN and_CC spicy_NN margarita_NN thing_NN ._.
-Service_NNP is_VBZ great_JJ ._.
-I_PRP have_VBP had_VBN to_TO wait_VB every_DT time_NN I_PRP have_VBP gone_VBN ,_, but_CC it_PRP is_VBZ worth_JJ it_PRP ._.
-For_IN a_DT restaurant_NN in_IN the_DT Colmbia_NNP area_NN ,_, it_PRP is_VBZ one_CD of_IN the_DT few_JJ good_JJ ones_NNS ._.

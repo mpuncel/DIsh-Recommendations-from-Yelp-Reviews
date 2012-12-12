@@ -1,2 +1,0 @@
-Great_NNP place_NN -_: fun_NN ,_, loud_JJ ,_, tasty_JJ ._.
-I_PRP end_VBP up_RP there_EX every_DT time_NN there_EX 's_VBZ too_RB long_JJ of_IN a_DT line_NN at_IN a_DT place_NN I_PRP want_VBP to_TO try_VB ._.

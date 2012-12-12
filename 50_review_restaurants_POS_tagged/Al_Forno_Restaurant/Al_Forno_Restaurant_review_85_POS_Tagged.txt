@@ -1,4 +1,0 @@
-Al_NNP Forno_NNP is_VBZ my_PRP$ favorite_JJ restaurant_NN in_IN Providence_NNP ._.
-After_IN living_VBG in_IN LA_NNP when_WRB I_PRP attend_VBP this_DT restaurant_NN in_IN the_DT summer_NN I_PRP feel_VBP like_IN I_PRP am_VBP not_RB in_IN Rhode_NNP Island_NNP ._.
-The_DT patio_NN is_VBZ beautiful_JJ and_CC this_DT is_VBZ an_DT amazing_JJ place_NN to_TO bring_VB a_DT date_NN or_CC to_TO go_VB on_IN a_DT special_JJ occasion_NN ._.
-I_PRP recommend_VBP the_DT five_CD cheese_NN pasta_NN dish_NN and_CC the_DT margaritta_NN pizza_NN in_IN addition_NN to_TO fresh_JJ oysters_NNS and_CC the_DT dirty_JJ steak_NN ._.

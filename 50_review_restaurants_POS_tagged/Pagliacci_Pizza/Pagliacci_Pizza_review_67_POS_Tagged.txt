@@ -1,7 +1,0 @@
-Pagliacci_NNP is_VBZ good_JJ for_IN a_DT slice_NN on_IN the_DT go_NN ._.
-They_PRP usually_RB have_VBP a_DT few_JJ different_JJ varieties_NNS available_JJ for_IN by-the-slice_JJ action_NN ,_, ranging_VBG from_IN the_DT fancy_NN to_TO the_DT unhealthy_JJ ._.
-All_DT seem_VBP to_TO be_VB in_IN the_DT $_$ 2.50_CD range_NN ,_, which_WDT is_VBZ quite_RB reasonable_JJ if_IN you_PRP 're_VBP going_VBG for_IN a_DT quick_JJ meal_NN ._.
-I_PRP personally_RB enjoy_VBP the_DT double_JJ pepperoni_NNS ._.
-Sometimes_RB you_PRP just_RB need_VBP some_DT grease_NN ._.
-The_DT crust_NN is_VBZ great_JJ --_: soft_JJ inside_JJ and_CC crunchy_JJ on_IN the_DT outside_NN --_: and_CC it_PRP feels_VBZ like_IN a_DT classic_JJ pairing_NN with_IN tasty-but-simple_JJ cheese_NN and_CC sauce_NN ._.
-The_DT pepperoni_NNS can_MD get_VB greasy_JJ ,_, but_CC it_PRP 's_VBZ delicious_JJ ._.

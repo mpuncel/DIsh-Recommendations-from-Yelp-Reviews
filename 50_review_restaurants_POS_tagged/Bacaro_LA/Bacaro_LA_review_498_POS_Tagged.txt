@@ -1,4 +1,0 @@
-Casual_JJ ,_, unpretentious_JJ wine_NN bar_NN with_IN good_JJ ambiance_NN ,_, excellent_JJ food_NN ,_, and_CC affordable_JJ yummy_NN wine_NN selections_NNS ._.
-We_PRP had_VBD Noa_NNP 's_POS cauliflower_NN which_WDT was_VBD hands_NNS down_IN the_DT best_JJS cauliflower_NN either_DT of_IN us_PRP have_VBP ever_RB had_VBN ._.
-We_PRP also_RB had_VBD the_DT grilled_JJ eggplant_NN pizza_NN with_IN spicy_NN tomato_NN sauce_NN which_WDT was_VBD delicious_JJ ._.
-Worth_NNP a_DT drive_NN if_IN you_PRP do_VBP n't_RB live_VB nearby_JJ !_.

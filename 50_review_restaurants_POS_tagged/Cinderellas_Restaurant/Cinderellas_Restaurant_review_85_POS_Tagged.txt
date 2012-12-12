@@ -1,2 +1,0 @@
-Gross_NNP pizza_NN ,_, tastes_VBZ like_IN something_NN I_PRP can_MD get_VB at_IN the_DT supermarket_NN and_CC heat_NN up_RB in_IN the_DT toaster_NN oven_NN ._.
-Greasey_NNP ,_, too_RB much_JJ cheese_NN ,_, and_CC the_DT crust_NN is_VBZ icky_JJ ._.

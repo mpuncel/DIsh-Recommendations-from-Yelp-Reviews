@@ -1,3 +1,0 @@
-great_JJ food_NN ._.
-great_JJ staff_NN ._.
-a_DT little_JJ pricey_JJ ,_, but_CC you_PRP get_VBP what_WP you_PRP pay_VBP for_IN in_IN the_DT quality_NN of_IN the_DT food_NN and_CC service_NN ._.

@@ -1,3 +1,0 @@
-Staff_NNP is_VBZ very_RB friendly_JJ ._.
-Great_NNP place_NN if_IN you_PRP are_VBP looking_VBG for_IN upscale_JJ Italian_JJ dining_NN ._.
-I_PRP recommend_VBP the_DT prix_NN fixe_NN menu_NN for_IN first_JJ time_NN visitors_NNS as_IN it_PRP enable_VB you_PRP to_TO get_VB a_DT good_JJ flavor_NN for_IN the_DT menu_NN ._.

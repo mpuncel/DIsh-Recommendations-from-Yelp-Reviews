@@ -1,5 +1,0 @@
-This_DT is_VBZ a_DT great_JJ new_JJ addition_NN to_TO the_DT USC_NNP area_NN ._.
-I_PRP came_VBD here_RB tonight_RB and_CC was_VBD very_RB impressed_JJ ._.
-They_PRP have_VBP a_DT wide_JJ selection_NN of_IN draft_NN beers_NNS and_CC awesome_JJ pizza_NN ._.
-At_IN the_DT bar_NN Will_MD was_VBD very_RB helpful_JJ and_CC offered_VBD his_PRP$ recommendations_NNS and_CC samples_NNS of_IN some_DT beers_NNS I_PRP wanted_VBD to_TO try_VB ,_, our_PRP$ waiter_NN was_VBD Justin_NNP and_CC he_PRP was_VBD very_RB friendly_JJ and_CC you_PRP could_MD tell_VB he_PRP was_VBD an_DT experienced_JJ waiter_NN ._.
-I_PRP will_MD definitely_RB be_VB back_RB

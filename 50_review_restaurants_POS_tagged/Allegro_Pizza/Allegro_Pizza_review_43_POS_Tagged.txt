@@ -1,3 +1,0 @@
-The_DT pizza_NN is_VBZ SO_RB GOOD_VBN here_RB ._.
-It_PRP 's_VBZ also_RB pretty_RB reasonably_RB priced_VBN and_CC comes_VBZ with_IN many_JJ different_JJ toppings_NNS ._.
-I_PRP only_RB wish_VBP they_PRP had_VBD 1-person_JJ size_NN stromboli_NNS ..._:

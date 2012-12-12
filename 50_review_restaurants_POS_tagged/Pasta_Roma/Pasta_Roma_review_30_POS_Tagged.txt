@@ -1,3 +1,0 @@
-I_PRP suffered_VBD from_IN food_NN poisoning_NN after_IN eating_VBG here_RB ._.
-They_PRP catered_VBD a_DT USC_NNP event_NN I_PRP attended_VBD ._.
-The_DT servers_NNS were_VBD so_RB slow_JJ that_IN people_NNS were_VBD still_RB in_IN line_NN waiting_VBG for_IN food_NN near_IN the_DT end_NN of_IN the_DT 1.5_CD hour_NN event_NN ._.

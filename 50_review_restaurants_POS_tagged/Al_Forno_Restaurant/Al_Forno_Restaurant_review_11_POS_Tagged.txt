@@ -1,5 +1,0 @@
-just_RB a_DT yelp_JJ quicky_JJ --_: i_FW just_RB had_VBD my_PRP$ one_CD year_NN anniversary_NN dinner_NN here_RB ..._: the_DT staff_NN was_VBD able_JJ to_TO work_VB with_IN me_PRP on_IN setting_VBG up_RP a_DT flower_NN arrangement_NN ,_, so_IN it_PRP would_MD be_VB sitting_VBG at_IN our_PRP$ table_NN waiting_VBG for_IN us_PRP ..._: dinner_NN was_VBD slamming_VBG !_.
-we_PRP had_VBD the_DT Grilled_NNP Pizza_NNP Margarita_NNP ,_, Wood-Grilled_NNP Lamb_NNP Rib_NNP Chops_VBZ with_IN Salsa_NNP Verde_NNP ,_, Roasted_NNP Hot_NNP Italian_NNP Sausage_NNP and_CC Grapes_NNP ._.
-for_IN dessert_NN we_PRP had_VBD the_DT Native_JJ Caramelized_NNP Pumpkin_NNP Tart_NNP -LRB-_-LRB- for_IN 2_CD -RRB-_-RRB- ._.
-I_PRP also_RB had_VBD a_DT glass_NN of_IN barolo_NN ,_, ideal_JJ paring_VBG with_IN my_PRP$ Lamb_NNP ._.
-surprisingly_RB this_DT dinner_NN was_VBD n't_RB too_RB expensive_JJ ..._: the_DT flowers_NNS cost_VBP more_JJR ..._: LOL_NNP Flowers_NNS -LRB-_-LRB- $_$ 128.00_CD -RRB-_-RRB- Dinner_NN for_IN Two_CD -LRB-_-LRB- $_$ 121.00_CD -RRB-_-RRB-

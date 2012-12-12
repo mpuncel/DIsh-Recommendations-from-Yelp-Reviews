@@ -1,5 +1,0 @@
-The_DT bread_NN here_RB is_VBZ to_TO die_VB for_IN ._.
-I_PRP had_VBD the_DT lasagna_NN which_WDT was_VBD good_JJ ._.
-The_DT sauce_NN tasted_VBD homemade_NN and_CC was_VBD delicious_JJ ._.
-My_PRP$ mom_NN ordered_VBD a_DT salmon_NN dish_NN which_WDT she_PRP also_RB loved_VBD ._.
-I_PRP would_MD definitely_RB return_VB but_CC I_PRP do_VBP n't_RB know_VB that_IN i_FW would_MD order_VB anything_NN other_JJ than_IN the_DT lasagna_NN and_CC pizzas_NNS here_RB ._.

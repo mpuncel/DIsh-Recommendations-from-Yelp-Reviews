@@ -1,6 +1,0 @@
-Simple_NN ,_, easy_JJ ,_, honest_JJ food_NN ._.
-In_IN a_DT quaint_NN spot_NN in_IN the_DT Village_NNP -LRB-_-LRB- I_PRP think_VBP it_PRP use_VB to_TO be_VB an_DT ice_NN cream_NN shop_NN -RRB-_-RRB- ._.
-Is_VBZ it_PRP the_DT best_JJS Italian_JJ food_NN ?_.
-No_DT ,_, but_CC it_PRP consistently_RB good_JJ quality_NN fare_NN ._.
-The_DT service_NN was_VBD friendly_JJ and_CC casual_JJ ._.
-Working_VBG at_IN UCLA_NNP ,_, it_PRP makes_VBZ for_IN a_DT nice_JJ lunch_NN spot_NN ._.

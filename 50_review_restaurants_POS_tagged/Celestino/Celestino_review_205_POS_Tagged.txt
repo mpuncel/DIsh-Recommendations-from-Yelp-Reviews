@@ -1,7 +1,0 @@
-After_IN couple_JJ time_NN passing_VBG this_DT restaurant_NN I_PRP finally_RB decided_VBD to_TO try_VB this_DT place_NN ._.
-Came_NNP here_RB on_IN Saturday_NNP night_NN and_CC the_DT place_NN was_VBD very_RB busy_JJ ._.
-Lucky_JJ I_PRP made_VBD reservation_NN and_CC then_RB wait_VB was_VBD less_JJR then_RB 5_CD min_NN wait_NN ._.
-The_DT layout_NN and_CC the_DT ambiance_NN is_VBZ aesthetically_RB pleasing_VBG ,_, with_IN an_DT outdoor_JJ seating_NN and_CC in_IN door_NN dinning_NN ._.
-I_PRP was_VBD impressed_VBN with_IN the_DT attentive_JJ service_NN ._.
-The_DT bus_NN boys_NNS always_RB had_VBD our_PRP$ water_NN full_JJ ._.
-The_DT food_NN came_VBD out_RP hot_JJ and_CC taste_NN delicious_JJ ._.

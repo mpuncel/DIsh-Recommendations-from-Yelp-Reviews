@@ -1,5 +1,0 @@
-I_PRP think_VBP this_DT place_NN is_VBZ highly_RB overrated_VBN ._.
-While_IN the_DT food_NN is_VBZ okay_JJ ,_, they_PRP are_VBP not_RB good_JJ at_IN keeping_VBG reservations_NNS ._.
-I_PRP had_VBD a_DT reservation_NN for_IN a_DT party_NN of_IN six_CD and_CC they_PRP made_VBD us_PRP wait_VB for_IN an_DT hour_NN ..._: with_IN a_DT reservation_NN ._.
-They_PRP did_VBD give_VB our_PRP$ table_NN appetizers_NNS of_IN hummus_NN and_CC pita_NN on_IN the_DT house_NN ,_, but_CC we_PRP did_VBD wait_VB an_DT hour_NN ._.
-I_PRP like_VBP the_DT atmosphere_NN of_IN the_DT restaurant_NN and_CC they_PRP have_VBP a_DT crab_NN pasta_NN dish_NN I_PRP enjoy_VBP ,_, but_CC other_JJ then_RB that_IN its_PRP$ average_NN ._.

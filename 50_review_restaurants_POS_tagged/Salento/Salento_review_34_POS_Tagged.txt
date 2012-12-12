@@ -1,4 +1,0 @@
-Salento_NNP had_VBD awesome_JJ spaghetti_NNS ._.
-The_DT gnocchi_NN was_VBD pretty_RB good_JJ too_RB ._.
-We_PRP had_VBD a_DT kind_NN waiter_NN who_WP wishes_VBZ to_TO remain_VB unnamed_JJ ._.
-It_PRP is_VBZ a_DT romantic_JJ Italian_JJ restaurant_NN ._.

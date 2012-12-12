@@ -1,5 +1,0 @@
-Great_NNP and_CC cheap_JJ pizza_NN !_.
-This_DT is_VBZ not_RB a_DT place_NN to_TO get_VB authentic_JJ Italian_JJ thin_JJ crust_NN pizza_NN ..._: but_CC its_PRP$ delicious_JJ and_CC very_RB cheap_JJ !_.
-Open_NNP late_RB and_CC nice_JJ staff_NN ._.
-An_DT XL_NNP Cheese_NNP pizza_NN for_IN $_$ 10_CD !_.
-Cant_NNP beat_VBD that_IN in_IN westwood_NN ._.

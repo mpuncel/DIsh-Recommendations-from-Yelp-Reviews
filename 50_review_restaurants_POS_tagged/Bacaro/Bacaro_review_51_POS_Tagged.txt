@@ -1,5 +1,0 @@
-Expensive_JJ food_NN but_CC quite_RB delicious_JJ and_CC well_RB presented_VBN ._.
-Portions_NNS are_VBP a_DT bit_NN small_JJ ,_, but_CC if_IN you_PRP 're_VBP going_VBG with_IN appetizers_NNS and_CC dessert_NN the_DT amount_NN of_IN food_NN will_MD leave_VB you_PRP full_JJ and_CC happy_JJ without_IN being_VBG too_RB stuffed_VBN to_TO leave_VB your_PRP$ chair_NN ._.
-The_DT waitress_NN made_VBD a_DT great_JJ wine_NN selection_NN to_TO go_VB with_IN our_PRP$ food_NN ._.
-The_DT restaurant_NN is_VBZ n't_RB very_RB big_JJ ,_, the_DT decor_NN is_VBZ modern_JJ ._.
-A_DT good_JJ place_NN to_TO go_VB on_IN a_DT date_NN if_IN you_PRP 're_VBP willing_JJ to_TO spend_VB the_DT $_$ ._.

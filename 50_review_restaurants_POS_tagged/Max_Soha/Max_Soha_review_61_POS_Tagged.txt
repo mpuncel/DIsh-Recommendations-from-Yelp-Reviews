@@ -1,7 +1,0 @@
-I_PRP was_VBD just_RB here_RB for_IN lunch_NN ._.
-Cute_JJ space_NN and_CC not_RB too_RB crowded_JJ ,_, though_IN that_DT could_MD be_VB because_IN Columbia_NNP 's_POS out_RP for_IN the_DT summer_NN ._.
-The_DT wine_NN the_DT server_NN recommended_VBD was_VBD definitely_RB not_RB bad_JJ ._.
-The_DT grilled_JJ calamari_NN was_VBD tasty_JJ ,_, but_CC it_PRP was_VBD really_RB a_DT salad_NN though_IN not_RB advertised_VBN as_IN such_JJ ._.
-A_DT ton_NN of_IN lettuce_NN but_CC a_DT very_RB small_JJ portion_NN of_IN squid_NN ._.
-We_PRP both_DT had_VBD pasta_NN mains_NNS that_WDT were_VBD good_JJ enough_RB but_CC nothing_NN special_JJ ._.
-Service_NNP is_VBZ friendly_JJ if_IN hovering_VBG ._.

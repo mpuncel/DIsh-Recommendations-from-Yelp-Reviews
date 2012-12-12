@@ -1,9 +1,0 @@
-Make_VB it_PRP yourself_PRP pizza_NN ?_.
-reminds_VBZ me_PRP of_IN that_DT Seinfeld_NNP episode_NN where_WRB Kramer_NNP started_VBD his_PRP$ DIY_NNP pizza_NN place_NN -LRB-_-LRB- why_WRB ca_MD n't_RB I_PRP put_VBP cucumbers_NNS in_IN my_PRP$ pizza_NN ??_NN -RRB-_-RRB- This_DT place_NN is_VBZ owned_VBN by_IN the_DT guys_NNS who_WP started_VBD Umani_NNP Burger_NNP and_CC what_WP you_PRP get_VBP feels_VBZ like_IN a_DT Chipotle_NNP of_IN pizza_NN ,_, as_IN you_PRP move_VBP down_IN the_DT line_NN and_CC they_PRP ask_VBP you_PRP what_WP toppings_NNS you_PRP want_VBP ._.
-The_DT prices_NNS are_VBP cheap_JJ with_IN a_DT starting_VBG Margherita_NNP pie_NN at_IN only_RB 6_CD bucks_NNS ._.
-Each_DT additional_JJ topping_VBG costs_NNS a_DT dollar_NN unless_IN its_PRP$ something_NN fancy_NN like_IN rock_NN shrimp_NN ._.
-It_PRP only_RB takes_VBZ 1_CD minute_NN in_IN the_DT oven_CD and_CC your_PRP$ pizza_NN is_VBZ ready_JJ ._.
-My_PRP$ pie_NN tasted_VBD great_JJ ,_, the_DT size_NN is_VBZ more_RBR then_RB enough_RB to_TO fill_VB you_PRP up_RP for_IN lunch_NN and_CC the_DT crust_NN retained_VBD a_DT chewiness_NN even_RB though_IN it_PRP was_VBD under_IN a_DT 800_CD degree_NN oven_NN ._.
-They_PRP also_RB have_VBP gelato_NN and_CC one_CD of_IN those_DT coke_NN machines_NNS that_WDT has_VBZ a_DT million_CD different_JJ types_NNS of_IN combinations_NNS ._.
-Finding_VBG free_JJ parking_NN is_VBZ a_DT big_JJ tricky_JJ but_CC walking_VBG from_IN the_DT Broxton_NNP lot_NN is_VBZ only_RB a_DT couple_NN blocks_NNS away_RB ._.
-Looks_VBZ like_IN the_DT Umani_NNP guys_NNS have_VBP another_DT winner_NN ._.

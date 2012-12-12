@@ -1,4 +1,0 @@
-I_PRP really_RB like_IN this_DT place_NN -_: the_DT ingredients_NNS are_VBP top-notch_JJ and_CC fresh_JJ ._.
-It_PRP has_VBZ a_DT nice_JJ ,_, comfortable_JJ ambience_NN and_CC service_NN is_VBZ usually_RB pretty_RB friendly_JJ ._.
-Definitely_RB a_DT more_RBR affordable_JJ bet_NN than_IN some_DT of_IN the_DT other_JJ Terra_NNP Momo_NNP establishments_NNS ._.
-In_IN short_JJ ,_, tastes_NNS like_IN a_DT high_JJ quality_NN dining_VBG experience_NN but_CC at_IN a_DT more_RBR wallet-friendly_JJ price_NN ._.

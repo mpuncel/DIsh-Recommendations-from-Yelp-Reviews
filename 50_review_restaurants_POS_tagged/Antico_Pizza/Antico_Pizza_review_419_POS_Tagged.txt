@@ -1,5 +1,0 @@
-I_PRP 'm_VBP gonna_NNS keep_VB this_DT one_CD plain_NN and_CC simple_JJ --_: hands_NNS down_RB ,_, BEST_NNP PIZZA_NNP IN_IN ATLANTA_NNP ._.
-Superbly_RB fresh_JJ ingredients_NNS make_VBP for_IN one_CD delicious_JJ pie_NN ._.
-I_PRP did_VBD n't_RB think_VB good_JJ pizza_NN existed_VBD in_IN Atlanta_NNP ,_, and_CC after_IN many_JJ tries_NNS this_DT is_VBZ the_DT only_RB one_CD I_PRP have_VBP given_VBN the_DT ``_`` Tressi_NNP Seal_NNP of_IN Approval_NNP ''_'' ..._: haha_NN !_.
-One_CD suggestion_NN --_: eat_VB it_PRP there_RB ,_, hot_JJ ..._: and_CC order_NN dessert_NN so_IN you_PRP can_MD try_VB a_DT cup_NN of_IN their_PRP$ stovetop_NN espresso_NN !_.
-Heaven_NN !_.

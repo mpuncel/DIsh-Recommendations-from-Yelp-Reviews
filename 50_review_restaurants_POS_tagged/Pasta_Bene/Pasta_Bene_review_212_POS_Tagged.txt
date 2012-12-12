@@ -1,3 +1,0 @@
-This_DT restaurant_NN has_VBZ relatively_RB cheap_JJ Italian_JJ food_NN for_IN good_JJ value_NN ._.
-For_IN Cal_NNP Students_NNS ,_, all_DT you_PRP need_VBP to_TO know_VB is_VBZ this_DT :_: Better_RBR than_IN Gypsy_NNP 's_POS at_IN the_DT Asian_JJ Ghetto_NNP ._.
-It_PRP 's_VBZ worth_JJ it_PRP to_TO walk_VB a_DT few_JJ extra_JJ blocks_NNS down_IN Telegraph_NNP to_TO get_VB some_DT Italian_JJ cuisine_NN that_WDT tastes_VBZ great_JJ ._.

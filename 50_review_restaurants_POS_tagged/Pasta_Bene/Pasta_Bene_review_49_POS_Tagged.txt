@@ -1,5 +1,0 @@
-Pasta_NN is_VBZ cheap_JJ and_CC delicious_JJ ._.
-I_PRP loved_VBD the_DT chicken_NN Marsala_NNP ._.
-They_PRP wo_MD n't_RB let_VB you_PRP wait_VB for_IN a_DT table_NN when_WRB they_PRP 're_VBP full_JJ ._.
-You_PRP have_VBP to_TO get_VB your_PRP$ food_NN to-go_NN ._.
-Call_VB early_RB to_TO make_VB a_DT reservation_NN ._.

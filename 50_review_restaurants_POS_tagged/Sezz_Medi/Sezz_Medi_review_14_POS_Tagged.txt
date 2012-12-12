@@ -1,8 +1,0 @@
-I_PRP wanted_VBD to_TO like_VB this_DT place_NN ,_, but_CC I_PRP could_MD n't_RB -_: though_IN I_PRP could_MD imagine_VB liking_VBG this_DT place_NN if_IN I_PRP were_VBD still_RB in_IN college_NN ..._: maybe_RB ._.
-The_DT prices_NNS are_VBP a_DT bit_NN expensive_JJ ,_, and_CC our_PRP$ waiter_NN left_VBD us_PRP feeling_VBG like_IN he_PRP did_VBD n't_RB think_VB we_PRP deserved_VBD his_PRP$ attention_NN ._.
-We_PRP had_VBD to_TO keep_VB asking_VBG for_IN water_NN and_CC bread_NN ._.
-Though_IN I_PRP will_MD interject_VB here_RB that_IN the_DT bread_NN basket_NN is_VBZ damn_RB good_JJ ._.
-The_DT Ortolana_NNP pizza_NN did_VBD not_RB have_VB enough_RB of_IN anything_NN on_IN it_PRP ._.
-The_DT crust_NN needed_VBD more_RBR salt_NN ._.
-The_DT arugula_NN and_CC butternut_NN squash_NN salad_NN was_VBD too_RB dressed_VBN ._.
-A_DT special_JJ of_IN saffron_NN risotto_NN with_IN shrimp_NN was_VBD by_IN far_RB my_PRP$ favorite_JJ dish_NN on_IN the_DT table_NN ._.

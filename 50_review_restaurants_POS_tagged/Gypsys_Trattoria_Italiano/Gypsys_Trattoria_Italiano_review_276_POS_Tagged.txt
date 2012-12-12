@@ -1,3 +1,0 @@
-YUM_NNP ..._: ..._: omg_NN it_PRP 's_VBZ 2:40_CD am_VBP and_CC I_PRP could_MD really_RB go_VB for_IN a_DT CALZONE_NNP right_RB now_RB ,_, the_DT food_NN was_VBD great_JJ ,_, and_CC prices_NNS are_VBP fair_JJ as_RB well_RB ._.
-The_DT wait_NN was_VBD a_DT bit_NN long_RB ,_, but_CC hey_NN if_IN that_DT means_VBZ fresher_NN and_CC cooked_VBN on_IN the_DT spot_NN then_RB who_WP cares_VBZ ?_.
-:_: -RRB-_-RRB- Definitely_RB want_VBP to_TO go_VB back_RB again_RB !_.

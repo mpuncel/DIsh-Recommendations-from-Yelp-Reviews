@@ -1,4 +1,0 @@
-One_CD of_IN my_PRP$ favorite_JJ wine_NN bars_NNS in_IN LA._NNP ._.
-It_PRP 's_VBZ small_JJ but_CC they_PRP have_VBP such_JJ an_DT amazing_JJ menu_NN that_IN it_PRP 's_VBZ worth_JJ the_DT wait_NN ._.
-It_PRP gets_VBZ pretty_RB crowded_VBN during_IN USC_NNP games_NNS so_IN I_PRP 'd_MD try_VB to_TO go_VB when_WRB things_NNS are_VBP quieter_NN ,_, or_CC during_IN the_DT week_NN ._.
-They_PRP know_VBP a_DT lot_NN about_IN their_PRP$ cheeses_NNS and_CC wines_NNS ,_, which_WDT I_PRP respect_VBP ._.

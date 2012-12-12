@@ -1,1 +1,0 @@
-DOUGHY_NNP ,_, GARLICKY_NNP GOODNESS_NNP The_DT way_NN all_DT pizzas_NNS should_MD be_VB ._.

@@ -1,6 +1,0 @@
-This_DT place_NN is_VBZ very_RB overrated_VBN ._.
-So_RB noisy_JJ and_CC crowded_JJ ._.
-THey_NNP are_VBP trying_VBG to_TO be_VB too_RB many_JJ things_NNS to_TO too_RB many_JJ people_NNS ._.
-The_DT food_NN is_VBZ ``_`` mediterrean_JJ ''_'' and_CC includes_VBZ greek_NN ,_, middle_JJ eastern_JJ ,_, italian_JJ ,_, and_CC spanish_NN ._.
-Unfortunately_RB none_NN of_IN these_DT areas_NNS was_VBD represented_VBN well_RB ._.
-Especially_RB the_DT paella_NN -_: god_NN awful_JJ -_: please_VB do_VBP n't_RB touch_VB it_PRP ._.

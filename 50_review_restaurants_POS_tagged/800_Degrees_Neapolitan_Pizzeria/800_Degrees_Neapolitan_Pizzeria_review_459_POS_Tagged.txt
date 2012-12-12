@@ -1,5 +1,0 @@
-a_DT lot_NN of_IN hype_NN ._.
-a_DT lot_NN ._.
-thank_VB goodness_NN there_EX was_VBD n't_RB a_DT line_NN ._.
-not_RB sure_JJ how_WRB they_PRP handle_VBP the_DT crowds_NNS with_IN one_CD soda_NN machine_NN that_WDT requires_VBZ rebooting_VBG every_DT 30_CD minutes_NNS ._.
-someone_NN took_VBD our_PRP$ friend_NN 's_POS pizza_NN order_NN and_CC the_DT restaurant_NN did_VBD n't_RB offer_VB anything_NN in_IN return_NN ._.

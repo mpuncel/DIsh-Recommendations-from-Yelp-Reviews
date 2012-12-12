@@ -1,4 +1,0 @@
-Great_NNP tasting_NN Pizza_NNP made_VBD with_IN quality_NN ingredients_NNS ._.
-Rustic_JJ dining_NN as_IN you_PRP place_VBP your_PRP$ order_NN ,_, then_RB try_VB to_TO hunt_NN for_IN an_DT open_JJ table_NN to_TO sit_VB ._.
-Pizza_NNP comes_VBZ out_RP fast_RB as_IN they_PRP have_VBP 3_CD ovens_NNS working_VBG ._.
-We_PRP will_MD definitely_RB be_VB back_RB !_.

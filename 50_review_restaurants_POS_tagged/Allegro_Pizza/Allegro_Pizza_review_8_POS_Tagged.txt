@@ -1,8 +1,0 @@
-A_DT standard_JJ pizza_NN shop_NN with_IN an_DT outdoor_JJ seating_NN area_NN and_CC a_DT brunch_NN menu_NN ?_.
-I_PRP must_MD be_VB in_IN the_DT twilight_NN zone_NN -_: atleast_NN that_WDT 's_VBZ what_WP I_PRP was_VBD thinking_VBG when_WRB a_DT friend_NN recommended_VBD this_DT place_NN ._.
-I_PRP came_VBD with_IN a_DT hungry_JJ group_NN and_CC we_PRP ordered_VBD a_DT small_JJ feast_NN though_IN it_PRP did_VBD take_VB them_PRP a_DT lot_RB longer_JJR than_IN I_PRP would_MD expect_VB for_IN a_DT few_JJ riders_NNS of_IN egg_NN platters_NNS ._.
-Nonetheless_RB they_PRP were_VBD nice_JJ and_CC even_RB bought_VBD our_PRP$ food_NN to_TO the_DT table_NN though_IN this_DT is_VBZ an_DT order_NN at_IN the_DT counter_NN kind_NN of_IN place_NN ._.
-My_PRP$ friend_NN I_PRP 'd_MD attempt_VB to_TO get_VB true_JJ table_NN service_NN after_IN our_PRP$ plates_NNS were_VBD delivered_VBN by_IN requesting_VBG napkins_NNS ,_, forks_VBZ etc._FW ._.
-This_DT was_VBD countered_VBN with_IN a_DT blank_JJ stare_VB which_WDT kinda_NN made_VBD me_PRP belly_RB chuckle_VBP before_IN reminding_VBG her_PRP$ that_IN ,_, ``_`` dude_NN we_PRP 're_VBP not_RB at_IN a_DT restaurant_NN ,_, we_PRP 're_VBP at_IN the_DT pizza_NN shop_NN ''_'' ._.
-The_DT price_NN is_VBZ all_DT good_JJ ._.
-Stop_NN by_IN if_IN you_PRP 're_VBP in_IN the_DT nabe_NN ._.

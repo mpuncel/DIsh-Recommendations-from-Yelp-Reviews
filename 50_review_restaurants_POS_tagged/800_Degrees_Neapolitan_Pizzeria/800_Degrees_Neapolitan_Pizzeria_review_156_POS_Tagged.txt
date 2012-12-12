@@ -1,5 +1,0 @@
-Pizza_NNP does_VBZ not_RB get_VB much_RB more_RBR simple_JJ or_CC delicious_JJ than_IN at_IN 800_CD Degrees_NNS ._.
-The_DT Margherita_NNP is_VBZ simply_RB amazing_JJ ,_, especially_RB after_IN adding_VBG some_DT soppresata_NN ._.
-The_DT quattro_NN formaggi_NN was_VBD good_JJ ;_: however_RB ,_, the_DT lack_NN of_IN tomato_NN did_VBD n't_RB exactly_RB fit_VB my_PRP$ taste_NN buds_NNS ._.
-For_IN $_$ 5_CD or_CC $_$ 6_CD you_PRP will_MD not_RB find_VB a_DT better_JJR pizza_NN ,_, period_NN ._.
-Oh_UH ,_, and_CC their_PRP$ pop_NN machine_NN is_VBZ run_VBN by_IN a_DT touchscreen_NN and_CC has_VBZ an_DT unreal_JJ assortment_NN of_IN flavor_NN options_NNS ._.

@@ -1,6 +1,0 @@
-We_PRP had_VBD not_RB been_VBN to_TO Buona_NNP Tavola_NNP in_IN years_NNS ._.
-We_PRP were_VBD not_RB disappointed_JJ !_.
-We_PRP sat_VBD on_IN the_DT patio_NN under_IN accent_NN lighting_NN and_CC eventually_RB ,_, heaters_NNS ._.
-It_PRP was_VBD a_DT romantic_JJ experience_NN for_IN a_DT middle_JJ age_NN ,_, married_VBN many_JJ years_NNS couple_NN !_.
-Our_PRP$ waiter_NN was_VBD courteous_JJ ,_, the_DT food_NN tasty_JJ ,_, service_NN excellent_JJ ._.
-We_PRP are_VBP anxious_JJ to_TO return_VB ._.

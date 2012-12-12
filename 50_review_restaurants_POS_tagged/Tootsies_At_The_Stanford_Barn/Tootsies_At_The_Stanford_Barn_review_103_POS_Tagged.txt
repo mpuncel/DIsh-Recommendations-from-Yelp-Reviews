@@ -1,9 +1,0 @@
-order_NN your_PRP$ food_NN at_IN the_DT bar_NN ,_, grab_VB a_DT drink_NN from_IN the_DT fridge_NN ,_, and_CC then_RB go_VB find_VB a_DT seat_NN outside_NN ._.
-the_DT portions_NNS here_RB are_VBP really_RB good_JJ ,_, and_CC they_PRP have_VBP yummy_JJ bread_NN ._.
-i_FW had_VBD the_DT poached_JJ eggs_NNS over_IN toast_NN w_NN \/_NN celery_NN and_CC olives_NNS today_NN ._.
-it_PRP came_VBD w_RB \/_VB a_DT side_NN of_IN the_DT home_NN fries_NNS w_VBP \/_RB pancetta_NN ,_, and_CC it_PRP was_VBD delicious_JJ ._.
-the_DT eggs_NNS were_VBD super_JJ gooey_NN when_WRB poked_VBN and_CC ran_VBD all_DT over_IN the_DT buttery_NN toast_NN ._.
-yummy_NN !_.
-my_PRP$ friend_NN got_VBD the_DT breakfast_NN panino_NN ,_, which_WDT was_VBD gigantic_JJ and_CC came_VBD w_RB \/_VB a_DT side_NN of_IN the_DT home_NN fries_NNS AND_CC salad_NN ._.
-the_DT panino_NN had_VBD pancetta_NN ,_, spinach_NN ,_, and_CC TWO_CD over_IN easy_JJ eggs_NNS ._.
-i_FW am_VBP getting_VBG that_IN next_JJ time_NN !_.

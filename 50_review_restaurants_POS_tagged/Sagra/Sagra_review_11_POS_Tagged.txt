@@ -1,7 +1,0 @@
-Meh_NNP ._.
-I_PRP was_VBD expecting_VBG more_RBR ._.
-We_PRP went_VBD to_TO go_VB out_RP for_IN a_DT nice_JJ dinner_NN ._.
-So_IN I_PRP ordered_VBD the_DT wild_JJ boar_NN and_CC my_PRP$ companion_NN ordered_VBN hanger_NN steak_NN ._.
-They_PRP were_VBD both_DT pretty_RB darned_RB mediocre_JJ ._.
-I_PRP absolutely_RB will_MD not_RB go_VB here_RB again_RB ,_, unless_IN it_PRP 's_VBZ to_TO get_VB happy_JJ hour_NN pizza_NN and_CC drinks_NNS ._.
-I_PRP thought_VBD this_DT would_MD be_VB a_DT nice_JJ Italian_JJ restaurant_NN ,_, but_CC it_PRP is_VBZ n't_RB ._.

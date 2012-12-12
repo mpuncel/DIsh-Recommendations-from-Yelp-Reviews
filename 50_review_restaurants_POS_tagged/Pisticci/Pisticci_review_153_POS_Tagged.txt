@@ -1,5 +1,0 @@
-Pisticci_NNP is_VBZ solid_JJ and_CC needed_VBN for_IN upper_JJ Morningside_NNP Heights_NNP ._.
-The_DT food_NN is_VBZ consistently_RB good_JJ ,_, the_DT jazz_NN is_VBZ fun_NN and_CC sitting_VBG outside_JJ in_IN the_DT summer_NN can_MD be_VB great_JJ ._.
-The_DT downsides_NNS are_VBP the_DT service_NN is_VBZ distracted_VBN and_CC slow_JJ ._.
-I_PRP frequently_RB have_VBP to_TO remind_VB the_DT waitstaff_NN for_IN things_NNS ._.
-The_DT space_NN is_VBZ quite_RB tight_JJ for_IN parties_NNS of_IN more_JJR than_IN 4_CD ._.

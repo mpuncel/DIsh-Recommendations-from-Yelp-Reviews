@@ -1,8 +1,0 @@
-Sick_NN of_IN giving_VBG Atlanta_NNP restaurants_NNS 5_CD stars_NNS !_.
-Gourmet_NN pizza_NN ._.
-Weird_JJ seating_VBG arrangements_NNS -_: I_PRP carried_VBD out_RP ._.
-Had_VBD the_DT spicy_NN Diavola_NNP ._.
-Truly_RB fantastic_JJ ._.
-Fold_VB it_PRP ,_, eat_VB it_PRP -_: save_VB room_NN for_IN the_DT crust_NN ._.
-Buffalo_NNP mozzarella_NN could_MD stand_VB on_IN its_PRP$ own_JJ ._.
-Like_IN Mr._NNP Pibb_NNP and_CC Red_NNP Vines_NNPS :_: Crazy_NNP delicious_JJ !_.

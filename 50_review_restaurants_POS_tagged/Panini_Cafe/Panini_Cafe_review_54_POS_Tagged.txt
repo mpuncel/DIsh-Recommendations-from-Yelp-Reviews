@@ -1,9 +1,0 @@
-Pretty_NNP good_JJ !_.
-I_PRP came_VBD here_RB for_IN dinner_NN yesterday_NN ,_, and_CC I_PRP got_VBD the_DT salmon_NN panini_NN ..._: good_JJ sized_VBN portion_NN and_CC very_RB tasty_JJ ._.
-My_PRP$ friends_NNS both_DT got_VBD the_DT chicken_NN kabob_NN and_CC seemed_VBD to_TO like_VB it_PRP ._.
-Service_NNP was_VBD attentive_JJ ,_, although_IN it_PRP did_VBD take_VB a_DT long_JJ time_NN for_IN someone_NN to_TO take_VB our_PRP$ order_NN ..._: maybe_RB they_PRP thought_VBD we_PRP were_VBD too_RB busy_JJ talking_VBG ?_.
-Once_RB they_PRP did_VBD take_VB our_PRP$ order_NN ,_, they_PRP came_VBD back_RB to_TO check_VB on_IN us_PRP and_CC refilled_VBD our_PRP$ drinks_NNS frequently_RB ._.
-The_DT decor_NN has_VBZ a_DT bit_NN of_IN a_DT dated_JJ CPK_NNP look_NN to_TO it_PRP ,_, but_CC no_DT big_JJ deal_NN ._.
-It_PRP also_RB definitely_RB attracts_VBZ an_DT older_JJR crowd_NN -LRB-_-LRB- great_JJ example_NN :_: the_DT older_JJR man_NN at_IN the_DT table_NN next_IN to_TO us_PRP requested_VBD water_NN without_IN ice_NN ,_, but_CC was_VBD upset_VBN that_IN the_DT water_NN was_VBD cold_JJ when_WRB it_PRP came_VBD ..._: seriously_RB ?_.
-do_VB you_PRP want_VBP it_PRP boiling_VBG with_IN a_DT little_JJ salt_NN in_IN it_PRP or_CC what_WP ?_. -RRB-_-RRB- ._.
-Pricing_NN is_VBZ very_RB reasonable_JJ -_: about_IN $_$ 7-20_CD per_IN entree_FW ,_, but_CC most_JJS were_VBD around_IN $_$ 10_CD ._.

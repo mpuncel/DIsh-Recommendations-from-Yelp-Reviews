@@ -1,3 +1,0 @@
-Dinner_NN only_RB at_IN this_DT popular_JJ and_CC warm_JJ Italian_JJ restaurant_NN ._.
-The_DT stuffed_VBN ravioli_NNS for_IN appetizer_NN was_VBD delicious_JJ ._.
-The_DT menu_NN has_VBZ several_JJ options_NNS ,_, from_IN light_NN -LRB-_-LRB- less_RBR expensive_JJ -RRB-_-RRB- antipasto_NN ,_, penne_NN and_CC ravioli_NNS to_TO larger_JJR entrees_NNS like_IN tender_NN veal_NN and_CC lamb_NN chops_NNS -LRB-_-LRB- $_$ 15-22_CD -RRB-_-RRB- ._.

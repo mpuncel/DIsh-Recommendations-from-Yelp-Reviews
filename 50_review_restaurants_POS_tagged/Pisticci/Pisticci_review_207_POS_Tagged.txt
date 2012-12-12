@@ -1,7 +1,0 @@
-Wonderful_JJ neighborhood_NN Italian_JJ restaurant_NN ._.
-Ate_VBD there_EX with_IN a_DT party_NN of_IN 12_CD on_IN a_DT Saturday_NNP night_NN -LRB-_-LRB- Valentine_NNP 's_POS Day_NNP ,_, no_DT less_JJR -RRB-_-RRB- ;_: the_DT waitress_NN handled_VBD us_PRP with_IN good_JJ humor_NN and_CC charm_NN ,_, and_CC the_DT food_NN was_VBD excellent_JJ ._.
-I_PRP had_VBD the_DT chick_NN pea_NN salad_NN ,_, the_DT mussels_NNS &_CC sausage_NN antipasto_NN ,_, and_CC the_DT penne_NN with_IN a_DT light_JJ marinara_NN &_CC mozzarella_NN sauce_NN ._.
-All_DT were_VBD delicious_JJ ._.
-Dessert_NN was_VBD great_JJ too_RB ._.
-Warm_JJ ,_, cozy_JJ atmosphere_NN ._.
-We_PRP 'll_MD be_VB back_RB !_.

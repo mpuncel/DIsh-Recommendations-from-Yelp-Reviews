@@ -1,9 +1,0 @@
-I_PRP want_VBP to_TO like_VB this_DT place_NN more_RBR ._.
-I_PRP do_VBP ._.
-However_RB ,_, I_PRP ca_MD n't_RB rate_VB this_DT restaurant_NN any_DT higher_JJR because_IN of_IN its_PRP$ poor_JJ service_NN ._.
-It_PRP does_VBZ n't_RB matter_VB whether_IN you_PRP 're_VBP there_RB as_IN part_NN of_IN a_DT large_JJ group_NN or_CC having_VBG lunch_NN for_IN two_CD ,_, it_PRP 's_VBZ just_RB bad_JJ ._.
-On_IN various_JJ occasions_NNS ,_, we_PRP 've_VBP had_VBD checks_NNS thrown_VBN on_IN the_DT table_NN and_CC follow-ups_NNS to_TO see_VB if_IN we_PRP needed_VBD anything_NN were_VBD no_RB more_JJR than_IN walk-by_NN 's_POS with_IN no_DT eye_NN contact_NN as_IN if_IN it_PRP was_VBD expected_VBN that_IN everything_NN was_VBD great_JJ ._.
-Now_RB ,_, the_DT food_NN is_VBZ good_JJ ._.
-I_PRP usually_RB go_VBP for_IN salads_NNS and_CC pastas_NNS ,_, and_CC the_DT desserts_NNS I_PRP 've_VBP had_VBN are_VBP yummy_JJ ._.
-However_RB ,_, I_PRP ca_MD n't_RB get_VB past_IN the_DT poor_JJ service_NN ._.
-For_IN the_DT prices_NNS here_RB ,_, good_JJ ,_, or_CC at_IN least_JJS decent_JJ ,_, service_NN should_MD not_RB be_VB too_RB much_JJ to_TO ask_VB ._.

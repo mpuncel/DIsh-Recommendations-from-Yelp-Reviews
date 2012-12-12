@@ -1,5 +1,0 @@
-just_RB went_VBD for_IN happy_JJ hour_NN ._.
-pizza_NN was_VBD SUPER_NNP ._.
-basilica_NN drink_NN -LRB-_-LRB- with_IN gin_NN -RRB-_-RRB- was_VBD fabulous_JJ ._.
-the_DT young_JJ bartender_NN -LRB-_-LRB- 24_CD ?_. -RRB-_-RRB-
-was_VBD very_RB helpful_JJ ,_, friendly_JJ ,_, and_CC quite_RB talented_JJ ._.

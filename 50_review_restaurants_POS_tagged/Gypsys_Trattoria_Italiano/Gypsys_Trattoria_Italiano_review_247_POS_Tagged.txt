@@ -1,2 +1,0 @@
-this_DT place_NN is_VBZ awesome_JJ !_.
-i_FW ca_MD n't_RB say_VB that_IN it_PRP 's_VBZ RIDICULOUSLY_NNP good_JJ or_CC anything_NN ,_, but_CC the_DT food_NN is_VBZ VERY_RB delicious_JJ for_IN the_DT price_NN ,_, it_PRP 's_VBZ around_RB 6_CD -_: 8_CD dollars_NNS and_CC they_PRP give_VBP you_PRP very_RB big_JJ portions_NNS ,_, you_PRP will_MD for_IN sure_JJ be_VB satiated_VBN after_IN a_DT meal_NN from_IN this_DT place_NN

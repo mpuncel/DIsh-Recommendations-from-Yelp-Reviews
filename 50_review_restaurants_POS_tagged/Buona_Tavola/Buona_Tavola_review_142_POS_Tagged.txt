@@ -1,2 +1,0 @@
-this_DT place_NN holds_VBZ a_DT very_RB special_JJ place_NN in_IN my_PRP$ heart_NN ._.
-authentic_JJ italian_NN ,_, classy_JJ and_CC inviting_VBG environment_NN -LRB-_-LRB- the_DT main_JJ dining_NN room_NN is_VBZ a_DT little_RB tight_JJ ,_, but_CC the_DT back_JJ patio_NN is_VBZ wonderful_JJ -RRB-_-RRB- ,_, and_CC always_RB friendly_JJ service_NN ._.

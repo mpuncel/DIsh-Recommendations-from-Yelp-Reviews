@@ -1,2 +1,0 @@
-Delicious_NNP ,_, yet_RB limited_VBN food_NN menu_NN with_IN extensive_JJ wine_NN list_NN and_CC yummy_JJ cocktails_NNS !_.
-Reservations_NNS recommended_VBD ._.

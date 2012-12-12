@@ -1,5 +1,0 @@
-I_PRP 've_VBP been_VBN here_RB a_DT number_NN of_IN times_NNS and_CC tried_VBD to_TO call_VB a_DT day_NN before_IN for_IN a_DT large_JJ party_NN -LRB-_-LRB- of_IN seven_CD people_NNS -RRB-_-RRB- for_IN dinner_NN ._.
-The_DT receptionist_NN said_VBD that_IN she_PRP could_MD not_RB take_VB reservations_NNS more_JJR than_IN a_DT day_NN in_IN advance_NN ._.
-I_PRP explained_VBD to_TO her_PRP$ that_WDT tomorrow_NN is_VBZ exactly_RB one_CD day_NN in_IN advance_NN ._.
-She_PRP did_VBD n't_RB understand_VB this_DT concept_NN and_CC rudely_RB blew_VBD me_PRP off_RP ,_, telling_VBG me_PRP that_IN my_PRP$ party_NN would_MD have_VB to_TO come_VB in_IN there_RB and_CC then_RB wait_VB for_IN a_DT table_NN ._.
-I_PRP 'm_VBP not_RB going_VBG to_TO deal_VB with_IN that_DT for_IN a_DT business_NN meeting_NN for_IN seven_CD people_NNS ._.

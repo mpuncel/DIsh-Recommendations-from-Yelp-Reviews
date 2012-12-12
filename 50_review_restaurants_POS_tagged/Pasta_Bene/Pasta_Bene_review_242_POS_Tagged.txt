@@ -1,4 +1,0 @@
-Not_RB crowded_VBN Friday_NNP afternoon_NN ._.
-Got_VBD one_CD of_IN the_DT lunch_NN special_JJ deals_NNS ,_, and_CC it_PRP was_VBD just_RB decent_JJ ._.
-Probably_RB not_RB coming_VBG back_RB here_RB again_RB ._.
-Maybe_RB i_FW got_VBD the_DT wrong_JJ item_NN on_IN the_DT menu_NN but_CC this_DT place_NN just_RB did_VBD n't_RB cut_VB it_PRP for_IN me_PRP ._.

@@ -1,3 +1,0 @@
-I_PRP went_VBD here_RB for_IN dinner_NN with_IN my_PRP$ parents_NNS and_CC grandparents_NNS a_DT few_JJ times_NNS and_CC once_RB for_IN a_DT lab_NN group_NN lunch_NN ._.
-Food_NNP is_VBZ good_JJ and_CC I_PRP enjoy_VBP the_DT rolls_NNS they_PRP give_VBP you_PRP for_IN free_JJ ._.
-They_PRP can_MD make_VB vegan_JJ pizzas_NNS on_IN request_NN ._.

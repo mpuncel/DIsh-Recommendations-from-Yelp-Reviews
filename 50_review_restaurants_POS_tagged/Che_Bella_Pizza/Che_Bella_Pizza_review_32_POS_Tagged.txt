@@ -1,5 +1,0 @@
-Great_NNP pizza_NN --_: in_IN fact_NN ,_, it_PRP has_VBZ changed_VBN my_PRP$ life_NN it_PRP 's_VBZ so_RB amazing_JJ !_.
-We_PRP have_VBP always_RB ordered_VBN online_NN and_CC picked_VBD it_PRP up_RP ._.
-Try_VB the_DT large_JJ pepperoni_NNS ._.
-They_PRP have_VBP tables_NNS inside_IN but_CC most_JJS folks_NNS get_VBP slices_NNS or_CC pies_NNS to_TO go_VB ._.
-I_PRP have_VBP not_RB tried_VBN any_DT other_JJ food_NN than_IN the_DT pizza_NN ._.

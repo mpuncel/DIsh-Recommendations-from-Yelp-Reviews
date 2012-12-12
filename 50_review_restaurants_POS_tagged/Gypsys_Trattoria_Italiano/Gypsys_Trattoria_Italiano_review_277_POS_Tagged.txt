@@ -1,5 +1,0 @@
-5_CD stars_NNS ,_, why_WRB ?_.
-Simple_NN ._.
-It_PRP 's_VBZ open_JJ late_RB ,_, it_PRP 's_VBZ cheap_JJ and_CC their_PRP$ pasta_NN is_VBZ a_DT little_RB better_JJR than_IN above_JJ average_NN ._.
-The_DT food_NN is_VBZ n't_RB exactly_RB 5_CD star_NN quality_NN ,_, but_CC for_IN the_DT price_NN you_PRP pay_VBP ,_, it_PRP certainly_RB is_VBZ ._.
-It_PRP 's_VBZ a_DT great_JJ alternative_NN to_TO the_DT ``_`` food_NN ''_'' they_PRP serve_VBP in_IN the_DT dorms_NNS ._.

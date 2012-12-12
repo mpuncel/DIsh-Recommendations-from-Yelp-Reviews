@@ -1,3 +1,0 @@
-Good_JJ ,_, local_JJ restaurant_NN ._.
-They_PRP make_VBP a_DT surprisingly_RB nice_JJ Arabbiatta_NNP --_: the_DT service_NN ,_, however_RB ,_, is_VBZ painfully_RB slow_JJ ._.
-Still_RB ,_, a_DT good_JJ place_NN to_TO catch_VB lunch_NN with_IN friends_NNS --_: definetly_RB make_VBP reservations_NNS ._.

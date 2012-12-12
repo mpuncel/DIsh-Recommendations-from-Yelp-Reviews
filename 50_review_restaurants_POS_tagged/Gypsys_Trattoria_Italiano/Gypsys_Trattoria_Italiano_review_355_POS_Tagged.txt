@@ -1,3 +1,0 @@
-Pesto_NNP chicken_NN fettuccine_NN was_VBD my_PRP$ favorite_JJ dish_NN from_IN here_RB ._.
-For_IN some_DT reason_NN i_FW liked_VBD the_DT way_NN they_PRP made_VBD their_PRP$ pesto_JJ sauce_NN and_CC i_FW 've_VBP never_RB had_VBN pesto_JJ quite_RB like_IN it_PRP ever_RB since_IN ._.
-Their_PRP$ cal_JJ zone_NN are_VBP huge_JJ and_CC very_RB filling_VBG !_.

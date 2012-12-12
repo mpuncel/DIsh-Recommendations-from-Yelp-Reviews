@@ -1,7 +1,0 @@
-Rialto_NNP has_VBZ great_JJ atmosphere_NN ,_, service_NN and_CC food_NN ._.
-I_PRP love_VBP the_DT soft_JJ ,_, flowing_VBG decor_NN ._.
-It_PRP feels_VBZ very_RB chic_JJ ._.
-I_PRP would_MD recommend_VB trying_VBG to_TO be_VB seated_VBN in_IN the_DT main_JJ dining_NN room_NN as_IN it_PRP has_VBZ the_DT best_JJS atmosphere_NN ._.
-We_PRP sat_VBD in_IN one_CD of_IN the_DT back_NN rooms_NNS the_DT second_JJ time_NN we_PRP came_VBD and_CC it_PRP just_RB was_VBD n't_RB the_DT same_JJ ._.
-The_DT antipasto_NN ,_, tagliatelle_NN ,_, the_DT red_JJ wine_NN braised_VBN rabbit_NN are_VBP excellent_JJ ._.
-Attire_NNP :_: Business_NNP Casual_NNP to_TO Dressy_NNP ._.

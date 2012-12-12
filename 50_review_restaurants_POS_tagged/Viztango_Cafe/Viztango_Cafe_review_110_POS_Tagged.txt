@@ -1,3 +1,0 @@
-Viztango_NNP has_VBZ really_RB amazing_JJ food_NN and_CC a_DT great_JJ price_NN !_.
-I_PRP 've_VBP brought_VBN many_JJ colleagues_NNS and_CC friends_NNS and_CC they_PRP all_DT love_VBP the_DT great_JJ authentic_JJ pastas_NNS ,_, salads_NNS ,_, and_CC entrees_NNS ._.
-Their_PRP$ sandwiches_NNS are_VBP also_RB great_JJ ._.

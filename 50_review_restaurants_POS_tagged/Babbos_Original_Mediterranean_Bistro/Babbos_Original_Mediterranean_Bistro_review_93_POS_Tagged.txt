@@ -1,7 +1,0 @@
-It_PRP 's_VBZ listed_VBN as_IN a_DT pizzeria_NN in_IN the_DT mall_NN 's_POS directory_NN ,_, but_CC the_DT name_NN says_VBZ it_PRP 's_VBZ a_DT bistro_NN ._.
-Either_DT way_NN ,_, it_PRP also_RB has_VBZ nothing_NN to_TO do_VB with_IN Babbo_NNP in_IN NY_NNP ._.
-Perhaps_RB I_PRP should_MD have_VB tried_VBN their_PRP$ pizza_NN given_VBN the_DT name_NN ._.
-Instead_RB ,_, I_PRP had_VBD a_DT mediocre_JJ seafood_NN puff_NN pastry_NN for_IN $_$ 25_CD that_WDT was_VBD priced_VBN twice_RB what_WP it_PRP 's_VBZ worth_JJ even_RB with_IN scallops_NNS ,_, prawns_NNS and_CC mushrooms_NNS in_IN a_DT strong_JJ sherry_NN wine_NN sauce_NN ._.
-Service_NNP is_VBZ fast_RB and_CC friendly_JJ ._.
-The_DT ambiance_NN and_CC decor_NN has_VBZ nothing_NN special_JJ worth_JJ noting_VBG especially_RB outside_IN with_IN the_DT awkward_JJ seating_NN ._.
-Parking_NN is_VBZ tough_JJ in_IN the_DT lot_NN since_IN it_PRP 's_VBZ usually_RB packed_VBN ._.

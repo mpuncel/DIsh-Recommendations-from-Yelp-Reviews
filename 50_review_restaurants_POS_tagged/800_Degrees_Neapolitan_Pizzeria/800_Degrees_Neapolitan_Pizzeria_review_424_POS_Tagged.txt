@@ -1,3 +1,0 @@
-Holy_NNP ballz_NN ,_, this_DT place_NN is_VBZ amazing_JJ ._.
-They_PRP have_VBP Vegan_JJ cheese_NN for_IN all_DT us_PRP vegans_VBZ out_IN there_RB !_.
-:_: -RRB-_-RRB-

@@ -1,9 +1,0 @@
-Antico_NNP is_VBZ one_CD of_IN my_PRP$ favorite_JJ pizza_NN places_NNS in_IN Atlanta_NNP ._.
-They_PRP serve_VBP large_JJ Neopolitan-style_JJ pizzas_NNS ,_, and_CC the_DT people_NNS and_CC restaurant_NN feel_VBP authentically_RB Italian_JJ ._.
-There_EX is_VBZ n't_RB a_DT ton_NN of_IN room_NN -_: you_PRP basically_RB eat_VBP in_IN the_DT kitchen_NN at_IN a_DT large_JJ shared_VBN wooden_JJ table_NN or_CC stand_VB up_RP to_TO eat_VB ,_, but_CC that_DT 's_VBZ really_RB just_RB part_NN of_IN the_DT experience_NN ._.
-The_DT pizza_NN itself_PRP comes_VBZ out_RP quickly_RB -LRB-_-LRB- in_IN about_RB 60_CD seconds_NNS -RRB-_-RRB- from_IN large_JJ pizza_NN ovens_NNS that_WDT were_VBD imported_VBN from_IN Naples_NNP ._.
-The_DT crust_NN is_VBZ slightly_RB charred_VBN yet_RB chewy_JJ and_CC the_DT ingredients_NNS taste_VBP really_RB fresh_JJ ._.
-The_DT crust_NN is_VBZ floppy_JJ ,_, so_IN you_PRP 'll_MD probably_RB have_VB to_TO fold_VB it_PRP in_IN half_NN to_TO eat_VB it_PRP ._.
-The_DT desserts_NNS are_VBP all_DT made_VBN in-house_NN ,_, and_CC although_IN I_PRP have_VBP n't_RB tried_VBN it_PRP yet_RB ,_, my_PRP$ friend_NN said_VBD the_DT cannoli_NN was_VBD excellent_JJ ._.
-After_IN finishing_VBG my_PRP$ meal_NN there_RB ,_, I_PRP was_VBD offered_VBN an_DT espresso_NN -_: probably_RB the_DT first_JJ time_NN that_WDT 's_VBZ happened_VBN at_IN a_DT pizza_NN place_NN in_IN Atlanta_NNP ._.
-Highly_NNP recommended_VBD !_.

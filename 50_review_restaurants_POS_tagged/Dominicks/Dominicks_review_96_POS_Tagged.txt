@@ -1,4 +1,0 @@
-Ann_NNP Arbor_NNP staple_NN !_.
-An_DT absolute_JJ must_MD for_IN Ann_NNP Arbor_NNP in_IN the_DT Spring\/Summer_NNP ._.
-Mmm_NNP the_DT constant_JJ buzz_NN is_VBZ so_RB good_JJ ,_, I_PRP could_MD drink_VB a_DT pitcher_NN myself_PRP ._.
-Only_RB issues_NNS are_VBP that_IN they_PRP close_RB early_RB and_CC it_PRP is_VBZ difficult_JJ to_TO find_VB seating_VBG at_IN times_NNS ._.

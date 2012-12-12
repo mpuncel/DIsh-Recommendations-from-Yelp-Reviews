@@ -1,9 +1,0 @@
-Allegro_NNP ,_, allegro_NN ,_, $_$ 5_CD a_DT slice_NN is_VBZ weak_JJ ._.
-Large_JJ they_PRP may_MD be_VB ,_, with_IN chicken_NN in_IN barbecue_NN ,_, tomato_NN ,_, and_CC chee_NN ..._: but_CC I_PRP can_MD get_VB one_CD for_IN much_JJ cheaper_JJR elsewhere_RB ._.
-The_DT taste_NN was_VBD n't_RB half_JJ unsavory_JJ ,_, they_PRP gave_VBD me_PRP an_DT extra_JJ large_JJ bag_NN to_TO carry_VB my_PRP$ slice_NN ;_: I_PRP guess_VBP that_DT was_VBD their_PRP$ attempt_NN at_IN making_VBG the_DT price_NN to_TO quantity_NN ratio_NN close_RB to_TO one_CD to_TO one_CD ._.
-I_PRP appreciated_VBD the_DT casual_JJ insipidness_NN of_IN the_DT cashier_NN ,_, not_RB particularly_RB caring_VBG about_IN the_DT torn_VBN Lincoln_NNP I_PRP handed_VBD him_PRP ._.
-I_PRP suppose_VBP money_NN does_VBZ n't_RB talk_VB as_RB much_JJ as_IN others_NNS think_VBP it_PRP does_VBZ ._.
-I_PRP crossed_VBD the_DT room_NN filled_VBN with_IN many_JJ a_DT student_NN taking_VBG a_DT break_NN from_IN alumni_NNS weekend_NN festivities_NNS and_CC tomfoolery_NN ;_: I_PRP spoke_VBD with_IN acquaintances_NNS casually_RB sitting_VBG at_IN a_DT table_NN by_IN the_DT large_JJ windows_NNS facing_VBG Spruce_NNP St._NNP was_VBD a_DT homage_NN to_TO the_DT enthusiastic_JJ parle_NN conversed_VBN by_IN many_JJ a_DT transient_NN frat_NN head_NN ,_, his_PRP$ buddies_NNS from_IN Pi_NNP what-have-you_NN ._.
-This_DT is_VBZ a_DT story_NN that_WDT may_MD well_RB embody_VB your_PRP$ experience_NN at_IN Allegro_NNP so_RB remember_VB when_WRB you_PRP go_VBP ._.
-N.B._NNP ._.
-You_PRP can_MD generally_RB find_VB many_JJ hilarious_JJ stupefied_JJ characters_NNS ,_, toasting_VBG Bacchus_NNP ,_, in_IN media_NNS res_VBZ of_IN 40th_JJ and_CC spruce_VBP speaking_VBG goatishly_RB around_IN yellow_JJ jackets_NNS of_IN the_DT University_NNP of_IN Pennsylvania_NNP Security_NNP force_NN ._.

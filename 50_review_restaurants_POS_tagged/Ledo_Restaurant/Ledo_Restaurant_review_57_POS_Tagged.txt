@@ -1,8 +1,0 @@
-Ledo_NNP 's_POS is_VBZ not_RB the_DT greatest_JJS pizza_NN ,_, maybe_RB average_JJ at_IN best_JJS for_IN MD_NNP and_CC slightly_RB above_JJ average_NN for_IN PG_NNP county_NN ._.
-I_PRP compare_VBP their_PRP$ pizza_NN to_TO putting_VBG over-sized_JJ slices_NNS of_IN pepperoni_NNS on_IN a_DT cracker-like_JJ sized_VBN thin_JJ crust_NN with_IN a_DT tiny_JJ slice_NN of_IN mozz_NN &_CC a_DT stingy_JJ tea_NN spoon_NN of_IN tomato_NN sauce_NN ._.
-Not_RB much_JJ going_VBG on_IN with_IN it_PRP ,_, but_CC I_PRP like_VBP how_WRB it_PRP wishes_VBZ it_PRP could_MD have_VB the_DT hearty_NN qualities_NNS of_IN an_DT upstate_JJ NY_NNP sheet_NN pizza_NN because_IN it_PRP comes_VBZ in_IN rectangles_NNS and_CC is_VBZ cut_VBN into_IN squares_NNS ._.
-If_IN I_PRP ever_RB served_VBD this_DT pizza_NN to_TO my_PRP$ family_NN in_IN NY_NNP and_CC told_VBD them_PRP this_DT was_VBD good_JJ ,_, they_PRP 'd_MD would_MD 've_VB probably_RB cut_VBN me_PRP out_IN of_IN their_PRP$ wills_NNS ._.
-However_RB ,_, they_PRP have_VBP a_DT variety_NN of_IN good_JJ things_NNS to_TO make_VB up_RP for_IN it_PRP with_IN their_PRP$ specials_NNS ._.
-For_IN example_NN ,_, The_DT crab_NN dip_NN was_VBD good_JJ -_: it_PRP did_VBD n't_RB pretend_VB to_TO be_VB one_CD with_IN the_DT disguise_VB of_IN cheese_NN and_CC imitation_NN meat_NN like_IN alot_NN of_IN other_JJ places_NNS do_VBP in_IN Maryland_NNP ._.
-Their_PRP$ beer_NN is_VBZ cold_JJ ,_, reasonably_RB priced_VBN for_IN a_DT weekend_NN happy_JJ hour_NN for_IN the_DT area_NN ._.
-The_DT service_NN is_VBZ good_JJ as_RB well_RB ,_, you_PRP can_MD always_RB appreciate_VB an_DT attentive_JJ waitress_NN ._.

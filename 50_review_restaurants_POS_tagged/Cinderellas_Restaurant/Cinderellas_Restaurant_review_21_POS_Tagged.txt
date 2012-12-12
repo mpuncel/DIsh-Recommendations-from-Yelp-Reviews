@@ -1,6 +1,0 @@
-Awesome_JJ Chicken_NNP Alfredo_NNP Pizza_NNP ._.
-The_DT pizza_NN actually_RB comes_VBZ hot_JJ and_CC delicious_JJ right_NN to_TO your_PRP$ door_NN ._.
-I_PRP 've_VBP never_RB been_VBN in_IN the_DT actual_JJ restaurant_NN ,_, but_CC I_PRP know_VBP that_IN I_PRP love_VBP the_DT stuff_NN delivered_VBN to_TO me_PRP ._.
-=_SYM -RRB-_-RRB- They_PRP deliver_VBP Toscanini_NNP 's_POS Ice_NNP Cream_NNP !_.
-If_IN you_PRP have_VBP n't_RB had_VBD it_PRP ,_, order_NN it_PRP now_RB ._.
-The_DT cake_NN batter_NN flavor_NN is_VBZ amazing_JJ ..._: it_PRP 's_VBZ basically_RB like_IN eating_VBG flavored_JJ frozen_JJ cream_NN ..._: not_RB really_RB the_DT same_JJ as_IN just_RB ice_NN cream_NN ._.

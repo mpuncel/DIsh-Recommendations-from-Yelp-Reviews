@@ -1,4 +1,0 @@
-Pizza_NNP is_VBZ inconsistent_JJ ._.
-Sometimes_RB really_RB good_JJ other_JJ times_NNS really_RB awful_JJ !_.
-Also_RB ,_, here_RB is_VBZ a_DT tip_NN for_IN the_DT owners_NNS -_: perhaps_RB you_PRP should_MD n't_RB deal_VB with_IN the_DT public_JJ if_IN so_RB obviously_RB can_MD not_RB stand_VB people_NNS !_.
-Just_RB a_DT thought_NN ._.

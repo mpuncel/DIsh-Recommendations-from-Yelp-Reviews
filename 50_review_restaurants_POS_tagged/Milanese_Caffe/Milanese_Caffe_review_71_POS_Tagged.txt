@@ -1,6 +1,0 @@
-I_PRP tried_VBD this_DT place_NN for_IN breakfast_NN around_IN ``_`` brunch_NN ''_'' time_NN ._.
-Other_JJ than_IN the_DT food_NN being_VBG served_VBD quickly_RB and_CC at_IN a_DT good_JJ ,_, hot_JJ temperature_NN ,_, the_DT food_NN itself_PRP ranked_VBD average_NN in_IN taste_NN ._.
-I_PRP credit_VBP the_DT speediness_NN of_IN our_PRP$ meals_NNS to_TO the_DT emptiness_NN of_IN the_DT place_NN ,_, though_RB ._.
-The_DT pancakes_NN we_PRP had_VBD ordered_VBN were_VBD steaming_VBG hot_JJ and_CC really_RB great_JJ -_: blueberry_NN pancakes_NNS had_VBD real_JJ blueberries_NNS ._.
-We_PRP also_RB got_VBD an_DT egg_NN sandwich_NN ,_, which_WDT was_VBD a_DT generous_JJ portion_NN ,_, but_CC it_PRP tasted_VBD as_IN if_IN I_PRP could_MD have_VB made_VBN it_PRP myself_PRP ._.
-It_PRP 's_VBZ not_RB too_RB bad_JJ here_RB ,_, but_CC it_PRP 's_VBZ not_RB memorable_JJ ._.

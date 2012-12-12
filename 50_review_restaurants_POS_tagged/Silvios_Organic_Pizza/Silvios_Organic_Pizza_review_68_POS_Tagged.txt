@@ -1,2 +1,0 @@
-Great_NNP pizza_NN and_CC pasta_NN dishes_NNS and_CC half_NN off_IN all_DT beer_NN on_IN Wednesdays_NNS ._.
-What_WP could_MD be_VB better_JJR ?_.

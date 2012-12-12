@@ -1,8 +1,0 @@
-Be_VB patient_NN ._.
-Wait_VB ._.
-Breathe_NNP ._.
-Realize_VB that_DT what_WP looks_VBZ like_IN aloofness_NN of_IN the_DT waitstaff_NN is_VBZ actually_RB their_PRP$ way_NN of_IN saying_VBG to_TO you_PRP ..._: chill_NN ..._: relax_VB ..._: breathe_VB a_DT little_JJ ..._: close_VB your_PRP$ eyes_NNS and_CC imagine_VB you_PRP are_VBP in_IN Naples_NNP ,_, with_IN nothing_NN to_TO do_VB and_CC no_DT where_WRB to_TO go_VB ._.
-Then_RB ,_, and_CC only_RB then_RB ,_, what_WP annoys_VBZ other_JJ reviewers_NNS will_MD actually_RB become_VB charming_JJ ._.
-the_DT wait_NN ,_, the_DT slow_JJ food_NN ,_, the_DT too-loud_JJ jazz_NN band_NN ._.
-You_PRP will_MD look_VB at_IN those_DT around_IN you_PRP with_IN their_PRP$ faces_NNS of_IN discontent_NN an_DT their_PRP$ I-want-it-now_JJ attitude_NN and_CC you_PRP will_MD think_VB ..._: fools_NNS that_WDT do_VBP n't_RB know_VB how_WRB to_TO enjoy_VB a_DT slow_JJ meal_NN with_IN european_JJ service_NN ._.
-Then_RB your_PRP$ vegan_NN pizza_NN will_MD come_VB and_CC you_PRP will_MD put_VB a_DT piece_NN of_IN Italian_JJ heaven_NN in_IN your_PRP$ mouth_NN ._.

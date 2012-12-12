@@ -1,9 +1,0 @@
-Service_NNP :_: guy_NN on_IN the_DT phone_NN was_VBD n't_RB terribly_RB friendly_JJ ,_, but_CC my_PRP$ delivery_NN arrived_VBD a_DT few_JJ minutes_NNS earlier_RBR than_IN expected_VBN ._.
-Price_NN :_: went_VBD searching_VBG for_IN Italian_NNP Express_NNP menus_NNS online_VBP ,_, and_CC found_VBD 2_CD ._.
-One_CD said_VBD that_IN baked_JJ shells_NNS -LRB-_-LRB- I_PRP was_VBD craving_NN them_PRP ,_, what_WDT can_MD I_PRP say_VB -RRB-_-RRB- were_VBD $_$ 7_CD ,_, one_CD said_VBD that_IN they_PRP were_VBD $_$ 8_CD ,_, and_CC when_WRB i_FW called_VBN ,_, it_PRP turns_VBZ out_IN they_PRP 're_VBP $_$ 9_CD ._.
-So_RB beware_VB the_DT online_JJ menu_NN ._.
-Food_NNP :_: I_PRP 've_VBP had_VBD a_DT few_JJ items_NNS from_IN here_RB ,_, and_CC they_PRP were_VBD okay_JJ ._.
-The_DT shells_NNS were_VBD a_DT little_JJ tough_JJ on_IN the_DT bottom_NN ,_, but_CC the_DT cheese_NN and_CC sauce_NN were_VBD delicious_JJ ._.
-Spaghetti_NNP here_RB is_VBZ okay_JJ ,_, too_RB ._.
-The_DT garlic_JJ bread_NN must_MD have_VB changed_VBN ,_, because_IN I_PRP remembered_VBD it_PRP as_IN being_VBG the_DT traditional_JJ crispy_JJ French_JJ bread_NN with_IN butter_NN and_CC garlic_NN ,_, but_CC what_WP I_PRP got_VBD was_VBD a_DT sort_NN of_IN flatbread_NN cut_VBN into_IN squares_NNS ._.
-Which_WDT was_VBD actually_RB a_DT lot_NN better_JJR ..._: If_IN you_PRP 're_VBP craving_NN mediocre_JJ italian_NN late_RB at_IN night_NN ,_, go_VB for_IN it_PRP ._.

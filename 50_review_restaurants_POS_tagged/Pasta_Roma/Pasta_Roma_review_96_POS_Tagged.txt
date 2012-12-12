@@ -1,6 +1,0 @@
-This_DT is_VBZ n't_RB my_PRP$ favorite_JJ pasta_NN place_NN around_IN USC_NNP -_: it_PRP just_RB is_VBZ n't_RB AMAZING_NNP ._.
-For_IN that_DT ,_, visit_NN Viztango_NNP down_IN the_DT street_NN ..._: it_PRP 's_VBZ like_IN a_DT dollar_NN more_RBR per_IN dish_NN ,_, but_CC definitely_RB worth_JJ it_PRP ._.
-Any_DT pasta_NN order_NN comes_VBZ with_IN yummy_JJ garlic_JJ twists_NNS :_: -RRB-_-RRB- Avoid_VB the_DT carbonara_NN -_: it_PRP 's_VBZ really_RB schmorky_JJ and_CC unauthentic_JJ ._.
-I_PRP do_VBP enjoy_VB the_DT cheese_NN tortellini_NNS with_IN pesto_NN ,_, all_PDT the_DT pizza_NN -LRB-_-LRB- especially_RB pineapple_NN ,_, -RRB-_-RRB- penne_JJ pesto_NN with_IN chicken_NN ,_, and_CC linguine_NN with_IN mushrooms_NNS in_IN pink_JJ sauce_NN ._.
-The_DT food_NN and_CC prices_NNS are_VBP pretty_RB good_JJ ._.
-A_DT decent_JJ choice_NN for_IN lunch_NN or_CC dinner_NN ._.

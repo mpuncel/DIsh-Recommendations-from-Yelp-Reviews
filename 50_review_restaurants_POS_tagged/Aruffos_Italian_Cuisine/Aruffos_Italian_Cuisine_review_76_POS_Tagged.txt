@@ -1,3 +1,0 @@
-there_EX 's_VBZ neither_DT great_JJ highs_NNS nor_CC lows_NNS here_RB ._.
-Food_NNP ,_, prices_NNS ,_, menu_NN ,_, ambiance_NN ..._: all_DT above_JJ average_NN ,_, but_CC nothing_NN that_WDT should_MD amaze_VB you_PRP ._.
-Except_IN maybe_RB the_DT size_NN of_IN the_DT bread_NN loaf_NN they_PRP bring_VBP to_TO your_PRP$ table_NN when_WRB you_PRP get_VBP there_RB ._.

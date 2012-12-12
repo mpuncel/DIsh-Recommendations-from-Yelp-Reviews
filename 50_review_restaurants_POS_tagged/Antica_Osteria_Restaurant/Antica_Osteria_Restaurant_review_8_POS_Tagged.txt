@@ -1,7 +1,0 @@
-Pretty_NNP solid_JJ Italian_JJ restaurant_NN ._.
-The_DT menu_NN has_VBZ a_DT lot_NN variety_NN and_CC good_JJ wine_NN list_NN ._.
-I_PRP loved_VBD the_DT ``_`` PETTO_NNP D'ANATRA_NNP AL_NNP PEPE_NNP NERO_NNP ''_'' -LRB-_-LRB- Duck_NN Breast_NNP -RRB-_-RRB- -_: ordered_VBN it_PRP medium_JJ based_VBN on_IN the_DT recommendation_NN of_IN a_DT buddy_NN who_WP works_VBZ there_RB ._.
-It_PRP was_VBD scumptious_JJ and_CC mouth_NN watering_NN ._.
-Also_RB ,_, give_VBP the_DT dessert_NN vine_NN Pascena_NNP moscato_VBD a_DT shot_NN -_: hands_NNS down_IN one_CD of_IN the_DT best_JJS dessert_NN vines_VBZ I_PRP have_VBP ever_RB tasted_VBN ._.
-Some_DT tables_NNS feel_VBP crampy_JJ and_CC it_PRP might_MD take_VB some_DT time_NN to_TO get_VB to_TO your_PRP$ ``_`` reserved_VBN ''_'' table_NN when_WRB it_PRP gets_VBZ busy_JJ ._.
-Hey_NNP it_PRP 's_VBZ an_DT Italian_JJ restaurant_NN -_: what_WP did_VBD you_PRP expect_VB ?_.

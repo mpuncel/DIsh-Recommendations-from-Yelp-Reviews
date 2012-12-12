@@ -1,5 +1,0 @@
-The_DT food_NN was_VBD good_JJ ,_, but_CC not_RB outstanding_JJ ,_, priced_VBN for_IN its_PRP$ location_NN ._.
-But_CC it_PRP was_VBD nice_JJ to_TO sit_VB outside_JJ in_IN the_DT good_JJ weather_NN ._.
-We_PRP had_VBD the_DT gorgonzola_NN pear_NN salad_NN ,_, pizza_NN margherita_NN ,_, and_CC pizza_NN babbo_NN 's_POS ._.
-Again_RB ,_, good_JJ food_NN ,_, but_CC nothing_NN over_IN the_DT top_NN ._.
-Decent_JJ service_NN ._.

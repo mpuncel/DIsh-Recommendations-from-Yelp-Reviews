@@ -1,6 +1,0 @@
-The_DT salads_NNS here_RB are_VBP very_RB good_JJ --_: fresh_JJ produce_NN at_IN good_JJ prices_NNS ._.
--LRB-_-LRB- I_PRP think_VBP you_PRP can_MD get_VB a_DT personal_JJ pizza_NN there_RB for_IN about_RB $_$ 4.00_CD and_CC a_DT substantial_JJ salad_NN for_IN about_IN $_$ 7.00_CD -RRB-_-RRB- The_DT atmosphere_NN is_VBZ also_RB nice_JJ ._.
-It_PRP 's_VBZ a_DT bit_NN quieter_NN than_IN other_JJ neighborhood_NN restaurants_NNS ,_, so_IN it_PRP 's_VBZ easier_JJR to_TO read_VB or_CC study_VB ._.
-The_DT bathrooms_NNS are_VBP also_RB clean_JJ ._.
-This_DT is_VBZ a_DT new_JJ restaurant_NN ,_, I_PRP think_VBP ,_, and_CC they_PRP are_VBP still_RB working_VBG out_RP their_PRP$ service_NN model_NN ._.
-It_PRP 's_VBZ a_DT bit_NN of_IN a_DT walk_NN from_IN campus_NN ,_, but_CC I_PRP think_VBP the_DT quality_NN of_IN food_NN makes_VBZ the_DT extra_JJ few_JJ blocks_NNS worth_IN the_DT travel_NN ._.

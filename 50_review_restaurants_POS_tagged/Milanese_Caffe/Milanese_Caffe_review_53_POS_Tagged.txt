@@ -1,9 +1,0 @@
-Milanese_NNP Caffe_NNP is_VBZ an_DT awesome_JJ Italian_JJ restaurant_NN that_WDT has_VBZ excellent_JJ Italian_JJ food_NN in_IN the_DT Berkeley_NNP area_NN ._.
-I_PRP had_VBD their_PRP$ Carbonara_NNP and_CC other_JJ pasta_NN dishes_NNS ,_, and_CC I_PRP have_VBP to_TO say_VB :_: it_PRP 's_VBZ good_JJ !_.
-Their_PRP$ pasta_NN dishes_NNS come_VBP with_IN pizza_NN bread_NN and_CC garlic_JJ bread_NN ..._: as_IN if_IN your_PRP$ meal_NN was_VBD n't_RB large_JJ enough_RB ._.
-The_DT owner_NN is_VBZ really_RB nice_JJ ._.
-I_PRP remember_VBP the_DT last_JJ time_NN I_PRP came_VBD here_RB with_IN my_PRP$ friends_NNS ,_, and_CC he_PRP gave_VBD us_PRP free_JJ garlic_JJ chips_NNS for_IN attracting_VBG more_JJR customers_NNS to_TO the_DT place_NN ._.
-I_PRP do_VBP n't_RB know_VB about_IN you_PRP ,_, but_CC an_DT owner_NN who_WP does_VBZ this_DT deserves_VBZ an_DT award_NN or_CC something_NN like_IN that_DT !_.
-A_DT small_JJ qualm_NN about_IN the_DT place_NN is_VBZ that_IN the_DT food_NN takes_VBZ quite_RB a_DT while_NN to_TO cook_VB and_CC serve_VB ,_, especially_RB when_WRB ordering_VBG pasta_NN ._.
-I_PRP 've_VBP gotten_VBN to_TO go_VB once_RB ,_, and_CC I_PRP had_VBD to_TO wait_VB forever_RB to_TO get_VB my_PRP$ food_NN ._.
-Other_JJ than_IN that_DT ..._: I_PRP give_VBP this_DT place_NN two_CD thumbs_NNS up_RB !_.

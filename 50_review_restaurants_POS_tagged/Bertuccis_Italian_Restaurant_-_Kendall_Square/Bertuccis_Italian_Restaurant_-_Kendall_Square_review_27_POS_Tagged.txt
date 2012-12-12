@@ -1,4 +1,0 @@
-Great_NNP Pizza_NNP !_.
-Free_NNP delivery_NN ._.
-They_PRP have_VBP amazing_JJ roles_NNS and_CC pizza_NN and_CC are_VBP always_RB reliable_JJ and_CC quick_JJ to_TO deliver_VB ._.
-They_PRP are_VBP my_PRP$ go_VB too_RB pizza_NN spot_NN !_.

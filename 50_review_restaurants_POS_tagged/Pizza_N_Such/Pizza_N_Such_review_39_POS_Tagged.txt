@@ -1,2 +1,0 @@
-The_DT pizza_NN crust_NN is_VBZ pretty_RB damn_RB good_JJ ..._: toppings_NNS on_IN the_DT other_JJ hand_NN were_VBD flavorless_JJ ..._: they_PRP also_RB messed_VBD up_RP our_PRP$ pizza_NN order_NN -LRB-_-LRB- we_PRP ordered_VBD thin_JJ crust_NN -RRB-_-RRB- Spumoni_NNP was_VBD rather_RB bland_VB ..._: Service_NNP needs_VBZ work_NN ._. ._.
-who_WP the_DT hell_NN orders_NNS extra_JJ thick_JJ crust_NN on_IN a_DT pizza_NN ?_.

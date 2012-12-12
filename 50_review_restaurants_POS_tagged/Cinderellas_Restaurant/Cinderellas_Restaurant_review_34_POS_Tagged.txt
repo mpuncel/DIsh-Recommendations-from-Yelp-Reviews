@@ -1,2 +1,0 @@
-Chewy_NNP ,_, mediocre_JJ pizza_NN worthy_JJ of_IN two_CD stars_NNS ,_, but_CC the_DT delivery_NN guy_NN was_VBD surly_JJ and_CC late_JJ taking_VBG a_DT star_NN away_RB ._.
-Not_RB my_PRP$ first_JJ time_NN ordering_VBG from_IN them_PRP ,_, but_CC it_PRP will_MD be_VB my_PRP$ last_JJ ._.

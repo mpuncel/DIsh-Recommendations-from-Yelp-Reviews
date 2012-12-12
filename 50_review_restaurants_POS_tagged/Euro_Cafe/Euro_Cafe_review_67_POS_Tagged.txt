@@ -1,4 +1,0 @@
-I_PRP love_VBP Euro_NNP Cafe_NNP ._.
-I_PRP order_VBP the_DT Linguica_NNP panini_NN every_DT time_NN and_CC I_PRP am_VBP never_RB disappointed_VBN ._.
-My_PRP$ only_JJ complaint_NN is_VBZ how_WRB long_RB it_PRP takes_VBZ to_TO get_VB the_DT food_NN ._.
-I_PRP generally_RB get_VBP my_PRP$ food_NN to_TO go_VB so_RB I_PRP have_VBP to_TO make_VB sure_JJ I_PRP have_VBP plenty_NN of_IN time_NN for_IN lunch_NN before_IN I_PRP head_VBP over_RP ._.

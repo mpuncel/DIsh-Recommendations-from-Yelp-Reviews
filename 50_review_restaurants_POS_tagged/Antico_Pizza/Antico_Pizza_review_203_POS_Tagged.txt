@@ -1,6 +1,0 @@
-mmm_NN ,_, I_PRP have_VBP n't_RB had_VBD pizza_NN this_DT good_JJ in_IN a_DT long_JJ time_NN ._.
-We_PRP ordered_VBD the_DT pizza_NN with_IN cherry_JJ tomatoes_NNS and_CC basil_NN on_IN it_PRP ._.
-You_PRP could_MD tell_VB all_PDT the_DT ingredients_NNS were_VBD super_JJ fresh_JJ and_CC the_DT crust_NN was_VBD crispy_JJ and_CC smoky_JJ from_IN the_DT woodburning_NN oven_NN ._.
-It_PRP was_VBD a_DT little_JJ awkward_JJ to_TO eat_VB since_IN the_DT cherry_NN tomatoes_NNS kept_VBD falling_VBG off_RP ,_, but_CC if_IN you_PRP follow_VBP the_DT eating_VBG instructions_NNS painted_VBN on_IN the_DT wall_NN you_PRP will_MD be_VB fine_JJ ._.
-Someday_RB I_PRP want_VBP to_TO come_VB back_RB and_CC try_VB the_DT cannoli_NN ._.
-They_PRP fill_VBP them_PRP to_TO order_NN and_CC they_PRP look_VBP sooooo_JJ good_JJ ._.

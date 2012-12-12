@@ -1,1 +1,0 @@
-Cheap_JJ student_NN priced_VBN Huge_JJ Portions_NNS Legit_NNP Italian_JJ food_NN Recommend_VB :_: 1_LS -RRB-_-RRB- Fettucine_NNP Alfredo_NNP -_: A_NNP little_JJ rich_JJ on_IN the_DT sauce_NN but_CC still_RB delicious_JJ 2_CD -RRB-_-RRB- Pollo_NNP Pesto_NNP -_: for_IN the_DT pesto_JJ lover_NN like_IN myself_PRP

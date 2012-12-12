@@ -1,3 +1,0 @@
-A_DT little_JJ expensive_JJ ,_, but_CC excellent_JJ food_NN and_CC generous_JJ discounts_NNS for_IN USC_NNP students_NNS ._.
-My_PRP$ favorite_JJ is_VBZ the_DT home_NN made_VBD ravioli_NNS ._.
-Also_RB ,_, the_DT free_JJ bread_NN is_VBZ a_DT plus_NN ._.

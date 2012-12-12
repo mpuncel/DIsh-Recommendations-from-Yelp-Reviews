@@ -1,4 +1,0 @@
-i_FW had_VBD the_DT tuna_NN sandwich_NN ._.
-the_DT menu_NN makes_VBZ it_PRP sound_VB like_IN a_DT tuna_NN steak_NN ,_, but_CC it_PRP 's_VBZ actually_RB just_RB a_DT normal_JJ tuna_NN salad_NN sandwich_NN ._.
-minimal_JJ seating_NN for_IN groups_NNS ,_, went_VBD with_IN a_DT group_NN of_IN 10_CD and_CC we_PRP had_VBD to_TO find_VB some_DT random_JJ benches_NNS outside_IN ._.
-everybody_NN liked_VBD the_DT shoestring_NN fries_NNS ._.

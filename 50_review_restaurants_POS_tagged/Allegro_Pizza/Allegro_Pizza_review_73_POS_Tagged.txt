@@ -1,5 +1,0 @@
-I_PRP eat\/order_VBP from_IN this_DT place_NN at_IN least_JJS twice_RB a_DT week_NN ._.
-The_DT cheese_NN ravioli_NN is_VBZ great_JJ ._.
-The_DT spinach_NN and_CC tomato_NN white_JJ pizza_NN is_VBZ unreal_JJ ._.
-Best_JJS place_NN on_IN campus_NN for_IN drunk_JJ munchies_NNS ._.
-Not_RB bad_JJ when_WRB one_CD is_VBZ sober_JJ ._.

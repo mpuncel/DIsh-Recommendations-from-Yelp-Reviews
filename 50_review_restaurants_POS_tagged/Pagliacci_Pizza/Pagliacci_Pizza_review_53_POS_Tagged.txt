@@ -1,5 +1,0 @@
-The_DT pizza_NN -_: hot_JJ ,_, by_IN the_DT slice_NN ,_, and_CC ready_JJ to_TO go_VB -_: is_VBZ simply_RB the_DT best_JJS ._.
-Their_PRP$ signature_NN Pagliacci_NNP Salad_NNP is_VBZ wonderful_JJ ,_, too_RB ._.
-Top_JJ it_PRP off_RP with_IN a_DT Thomas_NNP Kemper_NNP root_NN beer_NN ,_, and_CC you_PRP 've_VBP got_VBD a_DT ton_NN of_IN food_NN at_IN a_DT tremendous_JJ value_NN ._.
-I_PRP love_VBP Pagliacci_NNP !_.
-Worth_NNP the_DT drive_NN ,_, or_CC order_NN for_IN delivery_NN ..._: either_DT way_NN ,_, you_PRP ca_MD n't_RB go_VB wrong_JJ !_.

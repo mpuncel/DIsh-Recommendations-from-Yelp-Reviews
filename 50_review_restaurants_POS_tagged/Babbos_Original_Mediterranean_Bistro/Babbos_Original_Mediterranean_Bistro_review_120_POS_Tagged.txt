@@ -1,5 +1,0 @@
-This_DT place_NN looks_VBZ cool_JJ from_IN the_DT outside_NN -_: a_DT nice_JJ change_NN from_IN the_DT chains_NNS floating_VBG around_RB ._.
-Our_PRP$ waiter_NN was_VBD horrible_JJ though_IN ,_, bringing_VBG cold_JJ food_NN ,_, never_RB checking_VBG up_RP or_CC bringing_VBG a_DT refill_NN ._.
-I_PRP had_VBD a_DT pizza_NN that_WDT was_VBD decent_JJ ,_, but_CC was_VBD probably_RB comparable_JJ to_TO a_DT Calif._NNP ._.
-Pizza_NNP Kitchen_NN creation_NN ._.
-Said_NNP pizza_NN -LRB-_-LRB- Babbo_NNP 's_POS Pizza_NNP -RRB-_-RRB- was_VBD overpriced_VBN by_IN about_RB $_$ 6_CD ._.

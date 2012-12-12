@@ -1,6 +1,0 @@
-This_DT place_NN is_VBZ great_JJ ._.
-I_PRP have_VBP called_VBN to_TO change_VB things_NNS on_IN my_PRP$ order_NN any_DT times_NNS and_CC they_PRP always_RB accommodate_VBP my_PRP$ order_NN ._.
-Also_RB ,_, the_DT pizza_NN arrives_VBZ quickly_RB ,_, and_CC still_RB hot_JJ !_.
-My_PRP$ personal_JJ favorite_NN is_VBZ the_DT Buffalo_NNP Chicken_NNP Pizza_NNP ._.
-This_DT is_VBZ basically_RB hot_JJ wings_NNS on_IN a_DT pizza_NN ,_, add_VB ranch_NN and_CC beer_NN and_CC you_PRP 're_VBP in_IN heaven_NN ._.
-These_DT guys_NNS do_VBP n't_RB mess_NN around_IN when_WRB it_PRP comes_VBZ to_TO pizza_NN ._.

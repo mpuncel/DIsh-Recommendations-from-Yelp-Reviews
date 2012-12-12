@@ -1,5 +1,0 @@
-Love_NNP the_DT four_CD cheese_NN thin_JJ crust_NN pizza_NN from_IN a_DT brick_NN oven_NN ._.
-And_CC there_EX is_VBZ validating_VBG parking_NN in_IN a_DT nearby_JJ garage_NN ._.
-As_IN someone_NN who_WP resents_VBZ handing_VBG my_PRP$ car_NN over_IN to_TO a_DT valet_NN ,_, that_IN alone_RB takes_VBZ this_DT pizzaria_NN above_IN the_DT rest_NN of_IN the_DT downtown_NN venues_NNS ._.
-I_PRP was_VBD intially_RB introduced_VBN to_TO Baraonda_NNP by_IN an_DT finicky_JJ Italian_JJ and_CC he_PRP compares_VBZ it_PRP favorably_RB to_TO places_NNS back_RB home_NN ._.
-Be_VB prepared_JJ for_IN a_DT wait_NN if_IN you_PRP go_VBP before_IN a_DT show_NN at_IN the_DT Fox_NNP is_VBZ about_IN to_TO start_VB ._.

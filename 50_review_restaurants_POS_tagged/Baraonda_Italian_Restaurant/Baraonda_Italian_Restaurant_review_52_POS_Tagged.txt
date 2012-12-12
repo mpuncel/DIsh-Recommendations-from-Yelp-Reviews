@@ -1,6 +1,0 @@
-Go_VB see_VB my_PRP$ buddy_NN Spencer_NNP the_DT bartender_NN ._.
-He_PRP is_VBZ hilarious_JJ ._.
-A_DT few_JJ glasses_NNS of_IN big_JJ ,_, bold_JJ ,_, red_JJ wine_NN and_CC a_DT thin_JJ crust_NN pizza_NN split_NN between_IN myself_PRP and_CC Spencer_NNP 's_POS wife_NN along_IN with_IN some_DT fabulously_RB fresh_JJ salad_NN made_VBN for_IN a_DT terrific_JJ evening_NN at_IN Baraonda_NNP ._.
-It_PRP goes_VBZ without_IN saying_VBG that_IN this_DT and_CC Bazaar_NNP are_VBP some_DT of_IN your_PRP$ best_JJS pre_SYM -_: and_CC post-Fox_NNP Theatre_NNP outings_NNS ._.
-But_CC Baraonda_NNP is_VBZ worth_IN the_DT trip_NN for_IN any_DT old_JJ day_NN as_RB well_RB ._.
-It_PRP has_VBZ consistently_RB served_VBN delicious_JJ food_NN ,_, atmosphere_NN and_CC wine_NN every_DT time_NN I_PRP have_VBP paid_VBN a_DT visit_NN ._.

@@ -1,7 +1,0 @@
-I_PRP 'm_VBP told_VBN this_DT is_VBZ healthy_JJ pizza_NN ?_.
-that_DT could_MD potentially_RB explain_VB why_WRB it_PRP tastes_VBZ so_RB bad_JJ and_CC costs_NNS so_RB much_RB ._.
-I_PRP very_RB much_RB doubt_VB it_PRP though_IN ._.
-Flavorless_JJ cheese_NN ,_, bland_NN sauce_NN -LRB-_-LRB- canned_JJ tomato_NN paste_NN and_CC ..._: what_WP else_RB ?_. -RRB-_-RRB-
-and_CC cheap_JJ toppings_NNS ._.
-Enzo_NNP 's_POS is_VBZ infinitely_RB better_JJR ._.
-Service_NNP was_VBD really_RB nice_JJ and_CC friendly_JJ though_IN

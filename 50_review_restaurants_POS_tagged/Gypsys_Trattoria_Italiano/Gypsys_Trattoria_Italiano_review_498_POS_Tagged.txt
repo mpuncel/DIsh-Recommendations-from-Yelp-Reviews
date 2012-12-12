@@ -1,6 +1,0 @@
-Such_JJ a_DT great_JJ bargain_NN for_IN Italian_JJ food_NN in_IN middle_NN of_IN Berkeley_NNP campus_NN ._.
-Portions_NNS are_VBP enormous_JJ and_CC prices_NNS are_VBP under_IN $_$ 10_CD ._.
-They_PRP got_VBD pasta_NN ,_, ravioli_NNS and_CC these_DT football-size_JJ cal_NN zones_NNS ._.
-This_DT place_NN is_VBZ always_RB packed_VBN with_IN CAL_NNP students_NNS so_RB sometimes_RB it_PRP 's_VBZ kind_NN of_IN hard_JJ to_TO find_VB a_DT table_NN ._.
-tip_NN :_: Go_VB eat_VB a_DT donut_NN from_IN King_NNP Pin_NNP 's_POS donuts_NNS across_IN the_DT alley_NN from_IN them_PRP afterwards_RB ._.
-best_JJS feeling_NN ever_RB ._.

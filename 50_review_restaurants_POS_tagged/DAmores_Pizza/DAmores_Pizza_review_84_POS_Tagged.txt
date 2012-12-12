@@ -1,3 +1,0 @@
-As_IN a_DT native_JJ New_NNP Yorker_NNP I_PRP love_VBP their_PRP$ thin_JJ crust_NN pizza_NN ._.
-It_PRP reminds_VBZ me_PRP of_IN Home_NN ._.
-:_: -RRB-_-RRB- TIP_NN :_: Try_VB the_DT Bianco_NNP and_CC the_DT Margarita_NNP slices_NNS ._.

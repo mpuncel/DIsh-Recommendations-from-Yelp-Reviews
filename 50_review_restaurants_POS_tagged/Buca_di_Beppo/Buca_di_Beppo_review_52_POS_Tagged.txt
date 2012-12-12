@@ -1,3 +1,0 @@
-Good_JJ food_NN ,_, loved_VBD the_DT apple_NN gorgonzola_NN salad_NN and_CC the_DT cheese_NN pizza_NN ._.
-Service_NNP is_VBZ good_JJ ,_, as_RB long_RB as_IN you_PRP 're_VBP not_RB there_RB on_IN the_DT weekend_NN when_WRB it_PRP gets_VBZ packed_VBN ._.
-The_DT larger_JJR parties_NNS get_VB better_JJR service_NN and_CC the_DT couples_NNS seem_VBP to_TO get_VB ignored_VBN ._.

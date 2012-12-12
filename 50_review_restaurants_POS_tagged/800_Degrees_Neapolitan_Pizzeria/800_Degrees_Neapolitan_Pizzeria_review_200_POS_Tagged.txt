@@ -1,7 +1,0 @@
-I_PRP really_RB dig_VB this_DT chipotle_JJ style_NN pizza_NN joint_NN ._.
-The_DT ingredients_NNS look_VBP fresh_JJ and_CC it_PRP 's_VBZ nice_JJ to_TO see_VB your_PRP$ pizza_NN being_VBG made_VBN from_IN start_NN to_TO finish_VB ._.
-My_PRP$ only_JJ complaint_NN would_MD be_VB that_IN the_DT middle_NN of_IN each_DT pie_NN does_VBZ n't_RB have_VB enough_JJ support_NN ,_, so_RB be_VB prepared_VBN to_TO eat_VB that_IN part_NN quickly_RB unless_IN you_PRP want_VBP your_PRP$ toppings_NNS to_TO fall_VB off_RP ._.
-If_IN you_PRP 're_VBP coming_VBG with_IN a_DT group_NN ,_, get_VB a_DT pie_NN each_DT ._.
-They_PRP 're_VBP not_RB as_IN filling_VBG as_IN you_PRP think_VBP and_CC they_PRP 're_VBP relatively_RB cheap_JJ -LRB-_-LRB- unless_IN you_PRP go_VBP buck_NN wild_JJ with_IN toppings_NNS -RRB-_-RRB- ._.
-The_DT line_NN looks_VBZ long_RB ,_, but_CC it_PRP moves_VBZ at_IN a_DT good_JJ pace_NN ._.
-Recommendation_NN :_: Add_VB extra_JJ garlic_NN ,_, oregano_NN and_CC peppers_NNS

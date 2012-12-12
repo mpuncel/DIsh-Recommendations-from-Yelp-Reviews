@@ -1,8 +1,0 @@
-I_PRP love_VBP Gypsy_NNP 's_POS !_.
-Everytime_NNP I_PRP 'm_VBP up_RP here_RB in_IN Berkeley_NNP ,_, I_PRP always_RB want_VBP to_TO stop_VB by_IN here_RB !_.
-I_PRP love_VBP their_PRP$ pastas_NNS because_IN they_PRP always_RB seem_VBP to_TO fill_VB me_PRP up_RP and_CC they_PRP 're_VBP good_JJ the_DT next_JJ day_NN ._.
-My_PRP$ friend_NN always_RB comes_VBZ here_RB for_IN their_PRP$ calzones_NNS ,_, but_CC i_FW never_RB realized_VBN how_WRB HUGE_NNP they_PRP were_VBD until_IN he_PRP showed_VBD me_PRP ._.
-Even_RB the_DT box_NN it_PRP came_VBD in_IN was_VBD fit_VBN for_IN a_DT cake_NN or_CC something_NN ._.
-This_DT is_VBZ the_DT kind_NN of_IN place_NN that_WDT gives_VBZ you_PRP a_DT generous_JJ amount_NN of_IN food_NN for_IN what_WP you_PRP pay_VBP ._.
-Just_RB a_DT block_NN away_RB from_IN UC_NNP Berkeley_NNP and_CC near_IN many_JJ other_JJ restaurants_NNS ._.
-Can_MD get_VB crowded_VBN at_IN times_NNS ,_, but_CC it_PRP 's_VBZ worth_JJ the_DT wait_NN ._.

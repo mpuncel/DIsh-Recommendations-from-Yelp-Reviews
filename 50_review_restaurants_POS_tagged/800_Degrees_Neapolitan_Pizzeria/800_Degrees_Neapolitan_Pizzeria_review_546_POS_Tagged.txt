@@ -1,2 +1,0 @@
-AMAZING_NNP ,_, I_PRP could_MD go_VB here_RB everyday_JJ ._.
-One_CD of_IN the_DT best_JJS pizzas_NNS Ive_VBP ever_RB had_VBN

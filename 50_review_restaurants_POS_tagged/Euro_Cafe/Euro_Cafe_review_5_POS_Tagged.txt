@@ -1,5 +1,0 @@
-Food_NNP is_VBZ spectacular_JJ ._.
-Great_NNP for_IN lunch_NN ._.
-Meals_NNS are_VBP prepared_JJ quickly_RB without_IN sacrificing_VBG quality_NN ._.
-Reasonable_JJ prices_NNS too_RB ._.
-Be_VB sure_JJ to_TO check_VB out_RP the_DT desserts_NNS ._.

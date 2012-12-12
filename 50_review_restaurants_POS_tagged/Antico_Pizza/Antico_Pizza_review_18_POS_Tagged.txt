@@ -1,2 +1,0 @@
-Great_NNP ,_, from_IN the_DT pizza_NN to_TO the_DT atmosphere_NN ._.
-They_PRP added_VBD more_RBR seats_NNS since_IN my_PRP$ last_JJ visit_NN &_CC my_PRP$ out_IN of_IN town_NN guests_NNS loved_VBD it_PRP ,_, not_RB a_DT place_NN to_TO linger_VB as_IN seats_NNS are_VBP limited_VBN ,_, so_IN everyone_NN pays_VBZ it_PRP forward_RB in_IN kind_NN ._.

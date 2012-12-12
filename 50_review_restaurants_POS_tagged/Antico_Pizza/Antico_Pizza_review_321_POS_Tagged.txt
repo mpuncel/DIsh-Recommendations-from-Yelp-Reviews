@@ -1,5 +1,0 @@
-Really_RB ,_, really_RB ,_, REALLY_RB good_JJ ._.
-A_DT complete_JJ no_DT brainer_NN ._.
-Go_VB ._.
-NOW_RB ._.
-That_DT is_VBZ all_DT ._.

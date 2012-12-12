@@ -1,8 +1,0 @@
-Gypsy_NNP 's_POS is_VBZ a_DT college_NN student_NN 's_POS dream_NN come_VBN true_JJ ._.
-Their_PRP$ food_NN is_VBZ delicious_JJ ,_, but_CC what_WP makes_VBZ it_PRP even_RB more_RBR appealing_JJ are_VBP the_DT large_JJ portions_NNS and_CC great_JJ prices_NNS ._.
-Every_DT time_NN I_PRP eat_VBP there_RB ,_, I_PRP get_VBP the_DT combo_NN which_WDT is_VBZ any_DT dish_NN ,_, a_DT small_JJ salad_NN ,_, and_CC a_DT small_JJ drink_NN for_IN just_RB a_DT little_JJ bit_NN more_JJR money_NN ._.
-To_TO say_VB this_DT is_VBZ a_DT steal_VBP would_MD be_VB an_DT understatement_NN ._.
-For_IN a_DT small_JJ girl_NN like_IN me_PRP ,_, the_DT ``_`` small_JJ ''_'' salad_NN is_VBZ perfect_JJ for_IN a_DT light_JJ lunch_NN ._.
-Then_RB I_PRP can_MD just_RB get_VB the_DT main_JJ dish_NN to_TO go_VB and_CC eat_VB that_DT for_IN dinner_NN :_: two_CD meals_NNS for_IN the_DT price_NN of_IN one_CD !_.
-I_PRP have_VBP yet_RB to_TO try_VB a_DT calzone_NN ,_, but_CC I_PRP hear_VBP those_DT are_VBP definitely_RB worth_JJ trying_VBG ._.
-If_IN I_PRP lived_VBD closer_JJR to_TO the_DT Asian_JJ Ghetto_NNP -LRB-_-LRB- say_VBP ,_, in_IN the_DT Units_NNS -RRB-_-RRB- I_PRP 'd_MD definitely_RB be_VB there_RB every_DT week_NN to_TO escape_VB the_DT boring_JJ food_NN at_IN the_DT Dining_NNP Commons_NNPS ._.

@@ -1,3 +1,0 @@
-Chicken_NNP tortellini_NNS was_VBD ok_RB ._.
-Sauce_NN was_VBD creamy_JJ and_CC cheesy_JJ ;_: sun_NN dried_VBD tomatoes_NNS were_VBD a_DT little_JJ old_JJ ;_: chicken_NN did_VBD n't_RB have_VB much_RB of_IN a_DT taste_NN at_IN all_DT ._.
-Ok_NNP place_NN if_IN in_IN a_DT hurry_NN ._.

@@ -1,5 +1,0 @@
-It_PRP is_VBZ hard_JJ to_TO find_VB good_JJ food_NN that_WDT is_VBZ n't_RB Mexican_JJ near_IN USC_NNP ._.
-And_CC in_IN general_JJ LA_NNP seems_VBZ to_TO be_VB lacking_VBG on_IN low_JJ priced_VBN pasta_NN joints_NNS ._.
-I_PRP like_VBP the_DT cafeteria_NN style_NN here_RB ,_, it_PRP is_VBZ a_DT nice_JJ place_NN to_TO hang_VB out_RP and_CC eat_VB ._.
-I_PRP recommend_VBP the_DT regular_JJ pastas_NNS ,_, not_RB lasagna_NN or_CC anything_NN fancy_JJ like_IN that_DT ._.
-It_PRP gets_VBZ crowded_VBN after_IN games_NNS in_IN the_DT Coliseum_NNP ._.

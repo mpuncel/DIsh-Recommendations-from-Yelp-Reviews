@@ -1,6 +1,0 @@
-proximity_NN to_TO the_DT Fox_NNP +_NN crispy_JJ thin_JJ za_NN +_NN kind_NN of_IN pudding-like_JJ tiramisu_NN =_SYM the_DT only_JJ place_NN I_PRP pre-game_JJ for_IN the_DT Fox_NNP ._.
-the_DT pizza_NN is_VBZ always_RB baked_JJ nicely_RB ._.
-the_DT ms._NN and_CC i_FW ordered_VBD the_DT specialita_NN sp_NN ?_.
-,_, cherry_NN tomatoes_NNS ,_, goat_NN cheese_NN ,_, and_CC arugula_NN ..._: yum_NN service_NN was_VBD decent_JJ ._.
-i_FW 'm_VBP not_RB a_DT big_JJ fan_NN of_IN dessert_NN but_CC I_PRP 've_VBP never_RB had_VBN a_DT pudding_NN consistency_NN tiramisu_NN ..._: most_RBS events_NNS at_IN the_DT fox_NN start_VB around_IN 8_CD ._.
-we_PRP got_VBD there_RB at_IN 630_CD and_CC were_VBD finish_NN in_IN time_NN to_TO be_VB early_RB ..._:

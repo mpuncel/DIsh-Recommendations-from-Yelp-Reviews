@@ -1,6 +1,0 @@
-I_PRP 'm_VBP a_DT big_JJ pizza_NN fiend_NN who_WP could_MD eat_VB pizza_NN days_NNS in_IN a_DT row_NN ._.
-Nice_JJ gourmet_NN pizza_NN with_IN a_DT great_JJ price_NN !_.
-Very_RB prompt_JJ and_CC friendly_JJ service_NN ._.
-It_PRP 's_VBZ pretty_RB cool_JJ how_WRB you_PRP get_VB your_PRP$ pizza_NN in_IN less_JJR than_IN minutes_NNS after_IN paying_VBG for_IN it_PRP ._.
-We_PRP ordered_VBD Margherita_NNP pizza_NN ,_, capricciosa_NN pizza_NN ,_, and_CC a_DT burrata_NN salad_NN with_IN pine_VB nuts_NNS and_CC caponata_NN ._.
-Delicious_NNP !_.

@@ -1,5 +1,0 @@
-good_JJ food_NN ._.
-good_JJ choices_NNS in_IN pizza_NN ._.
-kinda_NN pricey_JJ ,_, but_CC its_PRP$ fine_NN for_IN the_DT bloomfield_NN or_CC long_JJ island_NN ppl_NN ._.
-anyways_NNS ,_, nice_JJ and_CC chill_NN ..._: and_CC its_PRP$ open_JJ late_JJ !_.
-great_JJ for_IN finals_NNS or_CC partying_VBG ._.

@@ -1,8 +1,0 @@
-Gypsy_NNP 's_POS has_VBZ huge_JJ portions_NNS for_IN the_DT amount_NN of_IN money_NN you_PRP pay_VBP ._.
-That_DT 's_VBZ what_WP drew_VBD me_PRP there_EX initially_RB ._.
-Good_JJ eats_VBZ +_RB cheap_JJ prices_NNS =_SYM me_PRP as_IN a_DT repeat_NN customer_NN ._.
-They_PRP do_VBP simple_JJ pasta_NN dishes_NNS and_CC calzones_NNS well_RB ,_, and_CC their_PRP$ salads_NNS are_VBP n't_RB too_RB shabby_JJ ._.
-Gypsy_NNP 's_POS does_VBZ n't_RB shaft_VB you_PRP on_IN meat_NN and_CC sauce_NN on_IN any_DT of_IN its_PRP$ dishes_NNS ._.
-My_PRP$ personal_JJ favs_NNS are_VBP the_DT linguini_NN frutti_NNS di_FW mare_NN ,_, Gypsy_NNP 's_POS chicken_NN and_CC pesto_JJ pasta_NN ._.
-The_DT garlic_JJ bread_NN is_VBZ fantastic_JJ yet_RB simple_JJ ,_, just_RB a_DT couple_NN of_IN cloves_NNS of_IN buttery_NN soft_JJ roasted_JJ garlic_NN and_CC some_DT EVOO_NNP make_VB for_IN crunchy_JJ garlicy_NN goodness_NN ._.
-Coming_VBG from_IN Gilroy_NNP ,_, I_PRP know_VBP a_DT thing_NN or_CC two_CD about_IN garlic_JJ ,_, and_CC they_PRP do_VBP it_PRP right_RB ._.

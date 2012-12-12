@@ -1,1 +1,0 @@
-Great_NNP Location_NNP Good_NNP Prices_NNS Pasta_NNP is_VBZ great_JJ Calzones_NNS need_VBP work_NN -_: kinda_NN blah_NN Quick_NNP and_CC Filling_VBG

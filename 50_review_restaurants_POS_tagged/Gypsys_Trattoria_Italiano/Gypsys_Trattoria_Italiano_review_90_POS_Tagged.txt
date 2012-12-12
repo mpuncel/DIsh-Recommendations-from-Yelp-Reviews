@@ -1,5 +1,0 @@
-I_PRP love_VBP Gypsy_NNP 's_POS ._.
-I_PRP come_VBP here_RB every_DT time_NN I_PRP 'm_VBP visiting_VBG friends_NNS in_IN Berkeley_NNP ._.
-The_DT calzones_NNS hit_VBD the_DT spot_NN ..._: the_DT saucy_NN and_CC cheezy_JJ mix_NN of_IN marinara\/ricotta\/motz_NN never_RB fails_VBZ ._.
-I_PRP also_RB get_VBP -LRB-_-LRB- ca_MD n't_RB remember_VB the_DT name_NN -RRB-_-RRB- the_DT penne_NN with_IN marinara_NN ,_, meatballs_NNS ,_, and_CC italian_JJ sausage_NN ._.
-Ca_MD n't_RB be_VB beat_VBN for_IN cheap_JJ dining_NN and_CC huge_JJ portions_NNS ._.

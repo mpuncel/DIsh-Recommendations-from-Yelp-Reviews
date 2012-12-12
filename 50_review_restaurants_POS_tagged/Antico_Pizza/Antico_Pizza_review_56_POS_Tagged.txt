@@ -1,3 +1,0 @@
-Great_NNP ingredients_NNS near_IN perfect_JJ crust_NN traditional_JJ italian_JJ za_NN ._.
-Must_MD eat_VB right_RB away_RB though_RB because_IN the_DT crust_NN goes_VBZ limp_JJ quickly_RB as_IN it_PRP cools_VBZ ._.
-Seating_NN in_IN the_DT kitchen_NN is_VBZ cool_JJ ._.

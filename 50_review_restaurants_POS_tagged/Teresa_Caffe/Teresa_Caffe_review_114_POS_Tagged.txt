@@ -1,3 +1,0 @@
-Great_NNP !_.
-Although_IN one_CD time_NN the_DT berry_NN pizza_NN that_IN I_PRP got_VBD was_VBD fuzzy_JJ ._. ._.
-but_CC they_PRP do_VBP n't_RB even_RB offer_VB that_DT anymore_RB

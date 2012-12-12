@@ -1,8 +1,0 @@
-Bettolona_NNP is_VBZ my_PRP$ new_JJ favorite_JJ Italian_JJ in_IN New_NNP York_NNP !_.
-The_DT food_NN was_VBD delicious_JJ in_IN every_DT way_NN and_CC the_DT staff_NN was_VBD great_JJ ._.
-I_PRP had_VBD the_DT special_JJ which_WDT was_VBD ravioli_NNS with_IN goat_NN cheese_NN served_VBD with_IN a_DT light_JJ saffron_NN sauce_NN ._.
-I_PRP do_VBP n't_RB know_VB if_IN I_PRP 've_VBP ever_RB had_VBN anything_NN this_DT exquiste_NN ._.
-I_PRP do_VBP n't_RB even_RB know_VB if_IN I_PRP have_VBP words_NNS to_TO describe_VB how_WRB amazing_JJ it_PRP was_VBD ._.
-All_DT I_PRP can_MD say_VB is_VBZ ,_, I_PRP ate_VBD it_PRP all_DT and_CC my_PRP$ mouth_NN is_VBZ salivating_VBG just_RB writing_VBG this_DT ._.
-My_PRP$ friend_NN had_VBD the_DT special_JJ skirt_NN steak_NN with_IN mashed_JJ potatoes_NNS and_CC spinich_NN ._.
-How_WRB do_VBP you_PRP make_VB mashed_JJ potatoes_NNS so_RB incredible_JJ ?_.

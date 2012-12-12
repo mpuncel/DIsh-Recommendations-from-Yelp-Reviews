@@ -1,7 +1,0 @@
-Buona_NNP Tavola_NNP is_VBZ the_DT ultimate_JJ date_NN restaurant_NN ._.
-Firstly_RB because_IN it_PRP 's_VBZ Italian_JJ -LRB-_-LRB- and_CC how_WRB can_MD that_WDT NOT_RB bring_VBP to_TO mind_VB ``_`` Lady_NNP and_CC the_DT Tramp_NNP ?_. ''_'' -RRB-_-RRB-
-,_, but_CC also_RB because_IN it_PRP 's_VBZ damn_RB good_JJ Italian_JJ ,_, and_CC the_DT patio_NN area_NN is_VBZ simply_RB gorgeous_JJ ._.
-For_IN an_DT upscale_JJ restaurant_NN ,_, it_PRP 's_VBZ not_RB terribly_RB pricey_JJ either_CC ..._: if_IN I_PRP 'm_VBP remembering_VBG correctly_RB ,_, it_PRP 's_VBZ roughly_RB $_$ 12-18_CD an_DT entree_FW for_IN dinner_NN ,_, which_WDT is_VBZ about_IN what_WP the_DT other_JJ places_NNS -LRB-_-LRB- Giuseppe_NNP 's_POS ,_, Mamma_NNP 's_POS Meatball_NNP ,_, etc_NN -RRB-_-RRB- charge_NN ._.
-The_DT service_NN is_VBZ very_RB friendly_JJ and_CC polite_JJ ,_, the_DT atmosphere_NN is_VBZ charming_JJ and_CC romantic_JJ ,_, and_CC as_IN you_PRP 're_VBP gazing_VBG at_IN your_PRP$ beau_NN across_IN the_DT table_NN over_IN the_DT rim_NN of_IN your_PRP$ wineglass_NN with_IN a_DT plate_NN of_IN steaming_VBG hot_JJ deliciousness_NN in_IN front_NN of_IN you_PRP ,_, you_PRP 'll_MD feel_VB like_IN dancing_VBG slowly_RB on_IN a_DT rooftop_NN to_TO ``_`` Misty_NNP ''_'' as_IN the_DT moonlight_NN bathes_VBZ everything_NN in_IN a_DT silver_NN gleam_NN ._.
-Ok_NNP maybe_RB that_DT 's_VBZ a_DT bit_NN of_IN an_DT exaggeration_NN ._.
-But_CC seriously_RB though_RB ,_, this_DT place_NN is_VBZ awesome_JJ ,_, and_CC you_PRP should_MD go_VB there_RB ._.

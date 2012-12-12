@@ -1,4 +1,0 @@
-When_WRB I_PRP think_VBP about_IN what_WP I_PRP miss_VBP about_IN my_PRP$ time_NN at_IN UCB_NNP ,_, Gypsy_NNP 's_POS ALWAYS_RB comes_VBZ to_TO mind_VB ._.
-I_PRP LOVED_VBD the_DT gypsy_NN 's_POS chicken_NN !_.
-It_PRP was_VBD so_RB much_JJ food_NN I_PRP always_RB ate_VBD half_NN and_CC kept_VBD the_DT other_JJ half_NN for_IN my_PRP$ next_JJ meal_NN ._.
-I_PRP 've_VBP heard_VBN the_DT prices_NNS have_VBP gone_VBN up_RP since_IN my_PRP$ time_NN there_RB ,_, but_CC it_PRP was_VBD really_RB cheap_JJ when_WRB I_PRP was_VBD there_RB ._.

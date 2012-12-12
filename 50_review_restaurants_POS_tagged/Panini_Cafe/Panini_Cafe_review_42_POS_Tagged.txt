@@ -1,5 +1,0 @@
-Chicken_NNP Shishkabob_NNP was_VBD awesome_JJ ,_, Salad_NNP was_VBD fresh_JJ ,_, Rice_NNP pilaf_NN was_VBD great_JJ ._.
-I_PRP also_RB had_VBD the_DT lentil_NN soup_NN ,_, excellent_JJ ._.
-Could_MD n't_RB find_VB anything_NN wrong_JJ with_IN the_DT dish_NN ,_, presentation_NN scored_VBD high_JJ as_RB well_RB ._.
-Service_NNP was_VBD fast_RB and_CC friendly_JJ ._.
-Co-workers_NNS and_CC I_PRP will_MD probably_RB add_VB this_DT to_TO our_PRP$ available_JJ lunch_NN rotation_NN ._.

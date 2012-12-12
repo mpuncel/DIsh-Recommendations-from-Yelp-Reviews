@@ -1,8 +1,0 @@
-It_PRP 's_VBZ a_DT cute_JJ little_JJ Italian_JJ restaurant_NN with_IN an_DT ambiance_NN suitable_JJ for_IN both_DT casual_JJ meals_NNS as_RB well_RB as_IN dates_NNS ._.
-It_PRP 's_VBZ the_DT quality_NN of_IN food_NN that_WDT makes_VBZ this_DT place_NN so_RB worthwhile_JJ ._.
-On_IN top_NN of_IN that_DT ,_, the_DT prices_NNS are_VBP n't_RB too_RB high_JJ either_CC ._.
-Everything_NN seems_VBZ to_TO be_VB made_VBN with_IN fresh_JJ ,_, quality_NN ingredients_NNS ._.
-I_PRP 'd_MD definitely_RB recommend_VB the_DT Conchiglie_NNP Balsamico_NNP --_: that_IN dish_NN is_VBZ jam-packed_JJ with_IN flavor_NN ._.
-\*_SYM In_IN comparison_NN to_TO a_DT common_JJ italian_JJ chain_NN restaurant_NN such_JJ as_IN Olive_NNP Garden_NNP ,_, Teresa_NNP 's_POS Cafe_NNP would_MD definitely_RB be_VB a_DT step_NN up_RB from_IN that_DT in_IN their_PRP$ quality_NN &_CC the_DT prices_NNS are_VBP similar_JJ too_RB ._.
-The_DT only_JJ thing_NN I_PRP could_MD complain_VB about_RB is_VBZ the_DT wait_NN time_NN during_IN the_DT dinner_NN rush_NN --_: especially_RB on_IN Friday_NNP nights_NNS ._.
-And_CC if_IN that_DT 's_VBZ not_RB too_RB much_JJ of_IN an_DT issue_NN ,_, then_RB this_DT place_NN is_VBZ surely_RB worth_JJ your_PRP$ while_NN

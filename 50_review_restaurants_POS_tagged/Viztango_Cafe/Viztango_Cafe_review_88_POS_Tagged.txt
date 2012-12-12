@@ -1,8 +1,0 @@
-LA_NNP has_VBZ great_JJ Italian_JJ food_NN ,_, but_CC if_IN you_PRP are_VBP in_IN the_DT USC_NNP area_NN this_DT is_VBZ definetly_RB a_DT must_MD eat_VB location_NN ._.
-Food_NNP is_VBZ pretty_RB good_JJ ._.
-I_PRP work_VBP at_IN USC_NNP and_CC everytime_VB our_PRP$ office_NN orders_NNS food_NN this_DT is_VBZ where_WRB we_PRP order_VBP from_IN ._.
-I_PRP personally_RB love_VBP the_DT Linguini_NNP Seafood_NNP it_PRP comes_VBZ with_IN Shrimp_NNP ,_, Clams_NNP ,_, Mussels_NNP and_CC Calamari_NNP ._.
-The_DT Eggplant_NNP Ravioli_NNP Parmigiana_NNP is_VBZ also_RB great_JJ ._.
-If_IN you_PRP have_VBP 15_CD dollars_NNS to_TO spear_VB this_DT is_VBZ the_DT place_NN to_TO go_VB ._.
-Its_PRP$ a_DT little_JJ on_IN the_DT greasy_JJ side_NN but_CC if_IN you_PRP dont_VBP mind_NN feeling_VBG a_DT little_JJ stuff_NN this_DT is_VBZ the_DT place_NN to_TO go_VB !_.
-Dont_NNP forget_VB to_TO order_VB a_DT Cesar_NNP Salad_NNP !_.

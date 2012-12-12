@@ -1,8 +1,0 @@
-Solid_JJ ._.
-Simple_NN ._.
-Value_NNP ._.
-$_$ 50_CD Gaja_NNP ._.
-What_WP could_MD go_VB wrong_JJ ._.
-Fennel_NN salad_NN ,_, pesto_JJ pasta_NN ,_, no_DT cheese_NN ._.
-Great_JJ service_NN ._.
-Dad_NNP got_VBD lamb_JJ chops_NNS ,_, ,_, ,_, ,_, ,_, ,_, ,_, Will_MD go_VB back_RB ._.

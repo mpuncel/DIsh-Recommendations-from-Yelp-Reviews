@@ -1,3 +1,0 @@
-I_PRP never_RB understand_VBP who_WP it_PRP is_VBZ that_IN gives_VBZ this_DT place_NN 5_CD stars_NNS ._.
-The_DT food_NN is_VBZ good_JJ -_: just_RB like_IN it_PRP is_VBZ at_IN lots_NNS of_IN other_JJ places_NNS ._.
-It_PRP 's_VBZ very_RB expensive_JJ ,_, the_DT wines_NNS are_VBP overpriced_VBN and_CC the_DT waiters_NNS ARE_VBP attentive_JJ but_CC in_IN a_DT pesky_JJ salesperson_NN way_NN ._.

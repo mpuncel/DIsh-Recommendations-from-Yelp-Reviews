@@ -1,3 +1,0 @@
-A_DT great_JJ little_JJ Italian_JJ spot_NN next_IN to_TO the_DT Fremont_NNP Theater_NNP downtown_NN SLO_NNP ._.
-Food_NNP was_VBD truly_RB fantastic_JJ and_CC service_NN was_VBD very_RB friendly_JJ ._.
-Very_RB casual_JJ atmosphere_NN ._.

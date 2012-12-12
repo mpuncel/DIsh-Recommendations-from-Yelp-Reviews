@@ -1,7 +1,0 @@
-Pleasant_NNP Saturday_NNP morning_NN outdoor_JJ breakfast_NN !_.
-Sit_NNP outside_JJ and_CC relax_VB on_IN a_DT sunny_JJ day_NN ._.
-The_DT food_NN is_VBZ excellent_JJ and_CC the_DT coffee_NN pairs_NNS perfect_JJ ._.
-I_PRP will_MD definitely_RB return_VB ._.
-This_DT place_NN is_VBZ small_JJ and_CC cozy_JJ ._.
-You_PRP order_NN at_IN the_DT counter_NN and_CC then_RB select_VB a_DT indoor_JJ or_CC outdoor_JJ table_NN and_CC they_PRP deliver_VBP the_DT order_NN when_WRB ready_JJ ._.
-No_DT matter_NN what_WP you_PRP order_NN ,_, you_PRP 're_VBP sure_JJ to_TO be_VB happy_JJ ._.

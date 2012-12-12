@@ -1,4 +1,0 @@
-The_DT food_NN here_RB is_VBZ so_RB good_JJ ._.
-The_DT portions_NNS are_VBP huge_JJ and_CC every_DT dish_NN is_VBZ only_RB $_$ 5_CD -_: $_$ 7.50_CD !_.
-I_PRP love_VBP the_DT chicken_NN alfredo_NN ,_, linguine_NN with_IN clams_NNS ,_, and_CC futti_FW de_FW mare_NN ._.
-I_PRP always_RB get_VBP the_DT pasta_NN but_CC they_PRP also_RB have_VBP calzones_NNS ,_, pizza_NN ,_, salads_NNS ,_, and_CC sandwiches_NNS ._.

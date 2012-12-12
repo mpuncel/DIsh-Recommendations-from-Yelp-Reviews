@@ -1,7 +1,0 @@
-Los_NNP Angeles_NNP near_IN USC_NNP ._.
-You_PRP order_VBP the_DT pasta_NN from_IN the_DT counter_NN and_CC it_PRP is_VBZ delivered_VBN to_TO your_PRP$ table_NN ._.
-Great_JJ value_NN ._.
-Generous_JJ portions_NNS ._.
-Pasta_NN with_IN flavorful_JJ sauces_NNS ._.
-Chicken_NNP cacciatore_NN ._.
-Favorite_JJ for_IN USC_NNP students_NNS ._.

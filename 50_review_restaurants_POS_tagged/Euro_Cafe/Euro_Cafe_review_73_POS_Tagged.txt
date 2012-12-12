@@ -1,8 +1,0 @@
-YES_NNP !_.
-Everything_NN !_.
-Do_VBP n't_RB even_RB try_VB to_TO find_VB something_NN wrong_JJ with_IN EC_NNP ._.
-There_EX 's_VBZ nothing_NN ._.
-Fav_NNP ._.
-place_NN by_IN far_RB ._.
-Great_JJ people_NNS work_VBP there_RB ._.
-Keep_VB it_PRP up_RP EC_NNP !_.

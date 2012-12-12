@@ -1,7 +1,0 @@
-I_PRP really_RB do_VBP n't_RB know_VB why_WRB I_PRP 'm_VBP writing_VBG this_DT ._.
-If_IN you_PRP 're_VBP a_DT student_NN at_IN Cal_NNP ,_, you_PRP have_VBP eaten_VBN here_RB ._.
-Otherwise_RB ,_, you_PRP are_VBP probably_RB dead_JJ inside_IN ._.
-It_PRP 's_VBZ good_JJ when_WRB you_PRP 're_VBP hungover_NN from_IN gameday_NN and_CC it_PRP 's_VBZ cold_JJ ,_, and_CC it_PRP 's_VBZ good_JJ when_WRB you_PRP 're_VBP depressed_VBN from_IN being_VBG in_IN the_DT library_NN for_IN 8_CD hours_NNS ._.
-If_IN I_PRP 'm_VBP trying_VBG to_TO be_VB healthier_RBR ,_, I_PRP get_VBP the_DT shrimp_NN on_IN angel_NN hair_NN or_CC pomodoro_NN ._.
-If_IN I_PRP 'm_VBP feeling_VBG straight_RB up_IN terrible_JJ ,_, godfather_NN 's_POS favorite_JJ cures_NNS all_DT ._.
-Just_RB go_VB to_TO the_DT gym_NN a_DT little_JJ extra_JJ next_JJ time_NN ._.

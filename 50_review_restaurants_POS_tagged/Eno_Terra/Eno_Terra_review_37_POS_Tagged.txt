@@ -1,9 +1,0 @@
-The_DT food_NN here_RB is_VBZ local_JJ ,_, fresh_JJ ,_, and_CC fabulous_JJ ._.
-Definitely_RB try_VB the_DT beef_NN carpaccio_NN and_CC tuna_NN tartars_NNS in_IN the_DT appetizers_NNS section_NN ._.
-The_DT pasta_NN is_VBZ hand_NN cut_NN and_CC so_RB fresh_JJ and_CC delicious_JJ ._.
-The_DT lobster_NN spaghetti_NNS is_VBZ bursting_VBG with_IN flavor_NN and_CC incredibly_RB tender_NN ._.
-If_IN you_PRP like_IN a_DT meat-based_JJ sauce_NN ,_, the_DT bolognese_NN will_MD do_VB the_DT job_NN ._.
-The_DT braised_JJ short_JJ ribs_NNS are_VBP excellent_JJ as_RB well_RB and_CC cooked_VBN until_IN the_DT meat_NN is_VBZ fall-off-the_JJ bone_NN succulent_NN ._.
-Pair_NN it_PRP with_IN the_DT polenta_JJ side_NN ,_, which_WDT is_VBZ great_JJ with_IN the_DT accompanying_VBG collard_NN greens_NNS ._.
-Service_NNP is_VBZ very_RB attentive_JJ and_CC efficient_JJ ._.
-Definitely_RB one_CD of_IN my_PRP$ favorites_NNS around_IN campus_NN ._.

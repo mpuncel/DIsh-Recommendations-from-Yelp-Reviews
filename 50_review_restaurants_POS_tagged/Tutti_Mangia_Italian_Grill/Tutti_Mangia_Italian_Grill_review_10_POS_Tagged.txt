@@ -1,4 +1,0 @@
-I_PRP 've_VBP eaten_VBN at_IN this_DT place_NN at_IN least_JJS a_DT dozen_NN times_NNS over_IN the_DT last_JJ few_JJ years_NNS ._.
-We_PRP 've_VBP tried_VBD their_PRP$ lunch_NN and_CC dinner_NN ,_, and_CC have_VBP never_RB been_VBN disappointed_VBN ._.
-A_DT very_RB nice_JJ place_NN with_IN good_JJ service_NN and_CC reasonable_JJ prices_NNS ._.
-We_PRP love_VBP all_DT their_PRP$ dishes_NNS ,_, including_VBG chicken_NN ,_, lamb_NN ,_, fish_NN ,_, but_CC especially_RB the_DT pasta_NN dishes_NNS ._.

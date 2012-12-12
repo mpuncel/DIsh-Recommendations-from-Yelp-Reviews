@@ -1,4 +1,0 @@
-Love_NNP tootsie_NN 's_POS !_.
-The_DT staff_NN is_VBZ super_JJ nice_JJ and_CC they_PRP 've_VBP always_RB made_VBN a_DT really_RB big_JJ effort_NN to_TO get_VB me_PRP my_PRP$ to-go_NN orders_NNS as_RB quickly_RB as_IN possible_JJ ._.
-I_PRP 've_VBP had_VBD the_DT chicken_NN sandwich_NN and_CC the_DT spinach_NN salad_NN ,_, both_DT were_VBD great_JJ ._.
-I_PRP recommend_VBP this_DT restaurant_NN for_IN a_DT nice_JJ lunch_NN near_IN campus_NN ._.

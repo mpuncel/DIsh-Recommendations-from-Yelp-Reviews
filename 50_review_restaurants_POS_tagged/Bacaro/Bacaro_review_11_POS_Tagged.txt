@@ -1,4 +1,0 @@
-another_DT great_JJ experience_NN last_JJ night_NN at_IN Bacaro_NNP ._.
-Over_IN the_DT top_NN with_IN wine_NN and_CC interesting_JJ food_NN ._.
-I_PRP did_VBD the_DT chefs_NNS choice_NN starting_VBG with_IN an_DT incredible_JJ assortment_NN of_IN meats_NNS everything_NN from_IN house_NN cured_VBD proscuitto_NN to_TO blood_NN sausage_NN and_CC veal_NN sweetbreads_NNS ._.
-We_PRP moved_VBD on_IN to_TO a_DT great_JJ salad_NN of_IN raddichio_NN and_CC goat_NN cheese_NN with_IN hazelnuts_NNS ,_, a_DT few_JJ more_JJR really_RB incredible_JJ plates-A_JJ great_JJ atmosphere_NN with_IN friendly_JJ and_CC knowledgeable_JJ staff_NN

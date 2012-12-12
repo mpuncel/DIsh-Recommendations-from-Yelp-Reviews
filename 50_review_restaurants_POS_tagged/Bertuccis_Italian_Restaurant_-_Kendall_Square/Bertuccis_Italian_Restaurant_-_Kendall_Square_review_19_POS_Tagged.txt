@@ -1,4 +1,0 @@
-bertucci_NN 's_POS has_VBZ gone_VBN downhill_RB ._.
-overpriced_VBN and_CC bland_VBN ._.
-that_DT 's_VBZ all_DT i_FW 'll_MD say_VB ._.
-and_CC i_FW used_VBN to_TO like_VB it_PRP ._.

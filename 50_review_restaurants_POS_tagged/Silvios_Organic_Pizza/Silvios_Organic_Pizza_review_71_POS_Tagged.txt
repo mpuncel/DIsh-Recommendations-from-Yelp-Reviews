@@ -1,6 +1,0 @@
-Silvio_NNP 's_POS has_VBZ delicious_JJ food_NN ,_, however_RB the_DT service_NN is_VBZ TERRIBLE_NNP ._.
-I_PRP would_MD never_RB dine_VB in_IN again_RB ._.
-Recommended_VBN for_IN take_VB out_RP ._.
-The_DT calzones_NNS and_CC salads_NNS were_VBD good_JJ ,_, however_RB I_PRP was_VBD ignored_VBN by_IN the_DT wait_NN staff_NN and_CC was_VBD there_RB for_IN over_IN an_DT hour_NN for_IN lunch_NN ._.
-It_PRP was_VBD almost_RB as_IN if_IN I_PRP was_VBD invisible_JJ ._.
-I_PRP would_MD never_RB dine_VB in_IN again_RB ._.

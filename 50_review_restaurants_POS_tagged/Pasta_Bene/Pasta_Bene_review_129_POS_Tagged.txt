@@ -1,3 +1,0 @@
-Lasagna_NNP ,_, King_NNP Salmon_NNP ,_, and_CC Gamberoni_NNP are_VBP the_DT best_JJS things_NNS on_IN the_DT menu_NN -LRB-_-LRB- out_IN of_IN the_DT things_NNS I_PRP ``_`` ve_FW tried_VBD so_RB far_RB ._. -RRB-_-RRB-
-Was_VBD very_RB disappointed_VBN on_IN their_PRP$ Bolognese_JJ ,_, Pasta_NNP Bene_NNP and_CC some_DT veggie_NN pasta_NN ._.
-Definitely_RB a_DT good_JJ pasta_NN option_NN on_IN campus_NN but_CC if_IN I_PRP had_VBD a_DT car_NN ,_, not_RB the_DT best_JJS choice_NN for_IN italian_NN ._.

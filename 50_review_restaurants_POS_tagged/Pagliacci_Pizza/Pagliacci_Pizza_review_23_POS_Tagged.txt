@@ -1,8 +1,0 @@
-A_DT Seattle_NNP business_NN ,_, born_VBN and_CC bred_VBN ,_, this_DT is_VBZ the_DT original_JJ -_: store_NN number_NN one_CD !_.
-When_WRB I_PRP was_VBD a_DT kid_NN ,_, my_PRP$ dad_NN would_MD bring_VB my_PRP$ sister_NN and_CC I_PRP here_RB and_CC I_PRP was_VBD surprised_VBN by_IN the_DT pizza_NN ..._: we_PRP had_VBD n't_RB had_VBD this_DT style_NN before_IN ._.
-A_DT staple_NN of_IN hungry_JJ UW_NNP students_NNS for_IN over_IN 30_CD years_NNS ,_, it_PRP 's_VBZ nice_JJ that_IN Pagliacci_NNP 's_POS has_VBZ stayed_VBN on_IN the_DT Ave_NNP for_IN better_JJR or_CC worse_JJR ._.
-A_DT visiting_VBG alum_NN would_MD find_VB everything_NN pretty_RB much_RB the_DT same_JJ ._.
-You_PRP can_MD get_VB basic_JJ salads_NNS ,_, pastas_NNS and_CC calzones_NNS -_: but_CC the_DT main_JJ draw_NN is_VBZ the_DT pizza_NN ,_, which_WDT you_PRP can_MD get_VB by_IN the_DT slice_NN at_IN this_DT location_NN -_: or_CC the_DT whole_JJ pie_NN ._.
-There_EX 's_VBZ a_DT different_JJ special_JJ slice_NN every_DT day_NN ._.
-I_PRP love_VBP the_DT Pagliaccio_NNP salad_NN -LRB-_-LRB- $_$ 5_CD for_IN a_DT small_JJ -RRB-_-RRB- -_: an_DT Italian_JJ chopped_VBN salad_NN which_WDT you_PRP can_MD customize_VB since_IN they_PRP make_VBP it_PRP to_TO order_NN -_: and_CC the_DT pesto_JJ pizza_NN -LRB-_-LRB- about_IN $_$ 3-4_CD \/_CD slice_NN ,_, $_$ 18_CD for_IN a_DT small_JJ pie_NN -RRB-_-RRB- ;_: this_DT is_VBZ the_DT first_JJ place_NN I_PRP ever_RB had_VBD it_PRP !_.
-The_DT Ave_NNP is_VBZ not_RB the_DT safest_JJS place_NN ,_, so_IN I_PRP do_VBP n't_RB recommend_VB an_DT aimless_JJ stroll_VBP down_RP the_DT street_NN -_: but_CC if_IN you_PRP 're_VBP in_IN the_DT area_NN ,_, this_DT is_VBZ the_DT spot_NN to_TO get_VB a_DT solid_JJ slice_NN !_.

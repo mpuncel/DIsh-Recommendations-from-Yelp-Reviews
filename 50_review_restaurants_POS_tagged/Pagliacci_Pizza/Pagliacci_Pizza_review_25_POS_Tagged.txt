@@ -1,4 +1,0 @@
-Their_PRP$ pizza_NN is_VBZ delicious_JJ and_CC the_DT slices_NNS are_VBP affordable_JJ -LRB-_-LRB- $_$ 2.25_CD for_IN a_DT cheese_NN slice_NN -RRB-_-RRB- ._.
-Mostly_RB ,_, I_PRP 'm_VBP giving_VBG this_DT place_NN 4_CD stars_NNS because_IN the_DT staff_NN is_VBZ awesome_JJ and_CC are_VBP all_DT really_RB cool_JJ people_NNS ._.
-Please_VB tip_NN if_IN you_PRP can_MD afford_VB it_PRP ._.
-Also_RB ,_, they_PRP have_VBP a_DT sweet_JJ Amelie_NNP movie_NN poster_NN that_IN I_PRP want_VBP ._.

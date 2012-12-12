@@ -1,8 +1,0 @@
-This_DT place_NN is_VBZ fast_RB ._.
-It_PRP 's_VBZ affordable_JJ ._.
-It_PRP 's_VBZ delish_JJ ._.
-It_PRP 's_VBZ consistant_JJ ._.
-It_PRP 's_VBZ my_PRP$ go-to_JJ spot_NN when_WRB I_PRP want_VBP get_VB take-out_JJ before_IN getting_VBG to_TO piedmont_VB park_NN ._.
-The_DT telefono_NN sauce_NN is_VBZ cheesy_JJ -LRB-_-LRB- good_JJ cheesy_NN ,_, not_RB david_JJ hasselhoff_NN cheesy_NN -RRB-_-RRB- ._.
-If_IN you_PRP eat_VBP there_RB ,_, make_VBP sure_JJ to_TO sit_VB outside_JJ and_CC people_NNS watch_VBP ._.
-Good_JJ times_NNS ._.

@@ -1,4 +1,0 @@
-Food_NNP 3.5_CD Service_NNP 2.5_CD It_PRP is_VBZ a_DT little_JJ expensive_JJ ,_, and_CC also_RB cash_NN only_RB ._.
-I_PRP have_VBP to_TO admit_VB ,_, I_PRP enjoyed_VBD the_DT pizza_NN ,_, and_CC they_PRP have_VBP a_DT number_NN of_IN unique_JJ combinations_NNS and_CC fresh_JJ ingredients_NNS ._.
-I_PRP liked_VBD it_PRP better_JJR than_IN gusto_NN and_CC some_DT of_IN the_DT other_JJ nearby_JJ pizza_NN places_NNS ._.
-The_DT friend_NN that_IN I_PRP was_VBD meeting_NN was_VBD half_PDT an_DT hour_NN late_RB though_RB ,_, and_CC they_PRP were_VBD not_RB very_RB accommodating_VBG even_RB though_IN the_DT restaurant_NN was_VBD not_RB full_JJ they_PRP kept_VBD coming_VBG over_RB and_CC warning_VBG me_PRP that_IN I_PRP may_MD have_VB to_TO give_VB up_RP the_DT table_NN ._.

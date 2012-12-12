@@ -1,4 +1,0 @@
-We_PRP had_VBD two_CD entrees_NNS :_: Lamb_NNP Shank_NNP -_: 5_CD stars_NNS ,_, Chicken_NNP Scallopini_NNP -_: 3_CD stars_NNS ._.
-The_DT temperature_NN of_IN the_DT side_NN dish_NN that_WDT came_VBD with_IN both_DT entrees_NNS was_VBD off_RB ,_, but_CC got_VBD quickly_RB corrected_VBN ._.
-Ambience_NNP was_VBD quaint_JJ and_CC service_NN was_VBD just_RB right_RB ._.
-I_PRP will_MD without_IN doubt_NN return_NN ._.

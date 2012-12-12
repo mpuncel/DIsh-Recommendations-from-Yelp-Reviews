@@ -1,3 +1,0 @@
-The_DT Pizza_NNP here_RB is_VBZ average_JJ for_IN Ann_NNP Arbor_NNP ,_, but_CC far_RB subpar_JJ compared_VBN to_TO authentic_JJ Chicago_NNP style_NN pizza_NN ._.
-It_PRP 's_VBZ also_RB slightly_RB overpriced_VBN for_IN the_DT quality_NN of_IN food_NN you_PRP 're_VBP getting_VBG ._.
-However_RB ,_, if_IN you_PRP 're_VBP in_IN Michigan_NNP ,_, but_CC you_PRP 're_VBP craving_NN Chicago_NNP deep_JJ dish_NN ,_, this_DT is_VBZ probably_RB your_PRP$ best_JJS bet_NN ._.

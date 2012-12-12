@@ -1,9 +1,0 @@
-Sunday_NNP night_NN ,_, 12:30_CD straight_RB from_IN Logan_NNP ,_, I_PRP am_VBP famished_VBN and_CC there_EX is_VBZ nothing_NN open_JJ in_IN Central_NNP Square_NNP ._.
-I_PRP mean_VBP ..._: we_PRP 're_VBP supposed_VBN to_TO be_VB in_IN a_DT city_NN !_.
-And_CC then_RB we_PRP spotted_VBD Cinderella_NNP 's_POS ._.
-Open_NNP till_IN 1_CD am_VBP on_IN Sunday_NNP nights_NNS !_.
-Yay_NNP ._.
-And_CC not_RB only_RB was_VBD it_PRP open_JJ ,_, the_DT staff_NN was_VBD super_JJ courteous_JJ and_CC had_VBD a_DT big_JJ smile_NN on_IN their_PRP$ faces_NNS ._.
-The_DT pizza_NN was_VBD one_CD of_IN the_DT most_RBS delicious_JJ slices_NNS I_PRP 've_VBP ever_RB had_VBN and_CC the_DT greek_NN salad_NN was_VBD super_JJ fresh_JJ ._.
-A_DT small_JJ bottle_NN of_IN orangina_NN to_TO wash_VB it_PRP all_DT down_RP and_CC I_PRP was_VBD in_IN heaven_NN ._.
-I_PRP will_MD be_VB back_RB !_.

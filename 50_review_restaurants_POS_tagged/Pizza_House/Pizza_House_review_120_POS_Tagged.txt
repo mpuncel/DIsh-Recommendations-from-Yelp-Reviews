@@ -1,4 +1,0 @@
-Just_RB got_VBD back_RB from_IN lunch_NN at_IN the_DT Pizza_NNP House_NNP ._.
-It_PRP was_VBD very_RB good_JJ ,_, if_IN not_RB great_JJ ._.
-Lost_VBD a_DT star_NN because_IN of_IN the_DT slow_JJ service_NN which_WDT is_VBZ important_JJ if_IN you_PRP only_RB have_VBP an_DT hour_NN for_IN lunch_NN ._.
-Otherwise_RB ,_, I_PRP highly_RB recommend_VB this_DT place_NN for_IN a_DT wide_JJ variety_NN of_IN pizza_NN ,_, beer_NN and_CC atmosphere_NN ._.

@@ -1,3 +1,0 @@
-Family_NNP friendly_JJ ,_, very_RB good_JJ food_NN ,_, decent_JJ wines_NNS ,_, just_RB 2_CD ,_, mixed_JJ drinks_NNS are_VBP OK_JJ ._.
-The_DT food_NN and_CC the_DT tolerance_NN of_IN a_DT party_NN or_CC young_JJ kids_NNS is_VBZ key_JJ to_TO a_DT parent_NN ._.
-This_DT is_VBZ a_DT place_NN you_PRP can_MD take_VB the_DT bitch_NN ,_, I_PRP 'm_VBP sorry_JJ Mother_NNP in_IN law_NN ,_, to_TO and_CC the_DT kids_NNS and_CC not_RB be_VB embarrassed_VBN ,_, plus_CC get_VB a_DT decent_JJ meal_NN and_CC drink_NN till_IN you_PRP feel_VBP happy_JJ ._.

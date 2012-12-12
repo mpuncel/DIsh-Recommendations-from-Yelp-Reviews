@@ -1,7 +1,0 @@
-I_PRP used_VBD to_TO work_VB and_CC live_VB really_RB close_JJ to_TO Sagra_NNP but_CC have_VBP never_RB tried_VBN it_PRP !_.
-It_PRP 's_VBZ a_DT quaint_NN ,_, nice_JJ little_JJ place_NN and_CC pretty_RB refined_VBN inside_IN even_RB though_IN it_PRP 's_VBZ pretty_RB plain_RB on_IN the_DT outside_JJ -LRB-_-LRB- although_IN there_EX are_VBP nice_JJ red_JJ umbrellas_NNS !_. -RRB-_-RRB- ._.
-I_PRP walked_VBD here_RB with_IN a_DT coworker_NN for_IN lunch_NN and_CC we_PRP got_VBD 2_CD paninis_NNS ,_, the_DT Florentine_NNP and_CC the_DT Chicken_NNP which_WDT came_VBD with_IN salads_NNS on_IN the_DT side_NN ._.
-They_PRP were_VBD delicious_JJ ._.
-The_DT bread_NN is_VBZ awesome_JJ ,_, all_DT olive-oil_JJ buttered_NN ._.
-Lots_NNS of_IN sophisticated_JJ couples_NNS and_CC lunch_NN daters_NNS sitting_VBG inside_RB ,_, and_CC the_DT waiters_NNS and_CC host_NN were_VBD so_RB polite_JJ ._.
-Did_VBD n't_RB blow_VB my_PRP$ mind_NN ,_, but_CC regardless_RB was_VBD pretty_RB delish_JJ ._.

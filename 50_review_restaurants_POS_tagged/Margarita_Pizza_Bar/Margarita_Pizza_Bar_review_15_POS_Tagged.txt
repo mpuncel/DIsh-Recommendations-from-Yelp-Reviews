@@ -1,6 +1,0 @@
-This_DT is_VBZ a_DT new_JJ great_JJ restaurant_NN around_IN USC_NNP ._.
-Pizza_NNP is_VBZ good_JJ ._.
-Really_RB Love_NNP Salmon_NNP Portofino_NNP ._.
-It_PRP is_VBZ flavorful_JJ ._.
-The_DT owner_NN and_CC servers_NNS are_VBP friendly_JJ ._.
-I_PRP will_MD definitely_RB go_VB there_RB again_RB ._.

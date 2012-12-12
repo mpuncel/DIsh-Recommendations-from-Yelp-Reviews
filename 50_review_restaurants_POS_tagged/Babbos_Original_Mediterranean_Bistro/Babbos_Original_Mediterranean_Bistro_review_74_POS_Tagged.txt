@@ -1,8 +1,0 @@
-This_DT place_NN is_VBZ overpriced_VBN ._.
-That_DT being_VBG said_VBD ,_, the_DT food_NN is_VBZ amazing_JJ ._.
-They_PRP bake_VBP all_DT their_PRP$ bread_NN in_IN house_NN ._.
-We_PRP had_VBD the_DT pear_NN and_CC Gorgonzola_NNP salad_NN to_TO begin_VB with_IN which_WDT had_VBD a_DT perfect_JJ amount_NN of_IN dressing_VBG and_CC is_VBZ a_DT large_JJ enough_JJ portion_NN to_TO share_NN ._.
-We_PRP accompanied_VBD our_PRP$ salad_NN with_IN some_DT delicious_JJ home_NN made_VBD onion_JJ focaccia_NN bread_NN ._.
-For_IN our_PRP$ main_JJ course_NN ,_, we_PRP shared_VBD the_DT Mediterranean_NNP sea_NN bass_NN that_WDT was_VBD light_JJ and_CC delicious_JJ ._.
-The_DT owner_NN and_CC his_PRP$ wife_NN were_VBD there_RB to_TO oversee_VB the_DT whole_JJ operation_NN ._.
-They_PRP seemed_VBD to_TO be_VB very_RB involved_VBN with_IN guest_NN satisfaction_NN ._.

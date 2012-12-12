@@ -1,5 +1,0 @@
-Little_JJ restaurant_NN in_IN the_DT Stanford_NNP mall_NN ._.
-This_DT place_NN is_VBZ suppose_VB to_TO be_VB semi-high_JJ class_NN but_CC does_VBZ n't_RB really_RB make_VB it_PRP ._.
-The_DT food_NN is_VBZ good_JJ but_CC not_RB for_IN the_DT price_NN ._.
-I_PRP had_VBD a_DT seafood_NN puff_NN pastry_NN which_WDT had_VBD shrimp_NN and_CC scallops_NNS in_IN a_DT great_JJ ,_, rich_JJ cream_NN sauce_NN but_CC the_DT pastry_NN was_VBD soggy_JJ and_CC it_PRP did_VBD not_RB come_VBN with_IN any_DT sides_NNS ._.
-The_DT bread_NN they_PRP serve_VBP can_MD be_VB stale_JJ also_RB ,_, but_CC if_IN it_PRP 's_VBZ not_RB ,_, it_PRP 's_VBZ very_RB good_JJ foccacia_NN ._.

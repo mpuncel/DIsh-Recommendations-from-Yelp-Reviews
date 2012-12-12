@@ -1,4 +1,0 @@
-Bacaro_NN is_VBZ very_RB ``_`` hit_VB or_CC miss_VB ''_'' --_: there_EX have_VBP been_VBN times_NNS I_PRP have_VBP loved_VBN my_PRP$ food_NN ,_, and_CC other_JJ times_NNS where_WRB the_DT food_NN has_VBZ been_VBN average_JJ -LRB-_-LRB- but_CC has_VBZ been_VBN expensive_JJ !_. -RRB-_-RRB- ._.
-Overall_RB ,_, it_PRP is_VBZ a_DT consistently_RB good_JJ restaurant_NN in_IN terms_NNS of_IN service_NN ._.
-However_RB ,_, there_EX are_VBP certain_JJ dishes_NNS that_WDT are_VBP more_RBR tasty_JJ than_IN others_NNS ._.
-I_PRP would_MD definitely_RB recommend_VB trying_VBG Bacaro_NN at_IN least_JJS twice_RB in_IN an_DT attempt_NN to_TO determine_VB the_DT types_NNS of_IN dishes_NNS you_PRP like_IN and_CC do_VBP n't_RB like_VB ._.

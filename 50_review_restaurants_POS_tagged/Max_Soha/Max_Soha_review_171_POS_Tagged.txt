@@ -1,3 +1,0 @@
-If_IN you_PRP love_VBP pasta_NN ,_, this_DT is_VBZ an_DT excellent_JJ place_NN !_.
-My_PRP$ husband_NN loves_VBZ their_PRP$ lasagna_NN ._.
-I_PRP welcome_VBP a_DT restaurant_NN that_WDT serves_VBZ great_JJ food_NN &_CC wine_NN ,_, &_CC no_DT attitude_NN ._.

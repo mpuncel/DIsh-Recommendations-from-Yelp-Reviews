@@ -1,7 +1,0 @@
-We_PRP went_VBD there_RB for_IN a_DT birthday_NN dinner_NN ._.
-It_PRP 's_VBZ awesome_JJ ._.
-We_PRP had_VBD lentil_JJ soup_NN and_CC their_PRP$ special_JJ of_IN the_DT day_NN dish_NN ._.
-Their_PRP$ desserts_NNS are_VBP awesome_JJ ._.
-We_PRP tried_VBD the_DT Nata_NNP ,_, Coconut_NNP Nata_NNP ,_, and_CC Chocoflan_NNP ._.
-I_PRP love_VBP the_DT Nata_NNP -LRB-_-LRB- Portuguese_NNP Egg_NNP tart_JJ -RRB-_-RRB- the_DT most_JJS ._.
-They_PRP have_VBP many_JJ drink_VBP choice_NN ,_, from_IN wine_NN ,_, different_JJ Italian_JJ soda_NN ,_, coffee_NN ,_, etc._FW ._.

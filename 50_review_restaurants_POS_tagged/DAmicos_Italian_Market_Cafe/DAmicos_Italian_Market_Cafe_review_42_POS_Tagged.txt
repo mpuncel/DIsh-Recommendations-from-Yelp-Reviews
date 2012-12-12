@@ -1,4 +1,0 @@
-very_RB nice_JJ place_NN ,_, and_CC the_DT service_NN is_VBZ also_RB good_JJ ._.
-I_PRP ordered_VBD chicken_NN lasagna_NN ,_, delicious_JJ ._.
-There_EX also_RB are_VBP shelves_NNS for_IN Italian_JJ stuff_NN ._.
-I_PRP 'll_MD try_VB some_DT of_IN them_PRP next_JJ time_NN ._.

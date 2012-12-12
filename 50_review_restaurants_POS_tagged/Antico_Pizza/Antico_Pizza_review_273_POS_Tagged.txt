@@ -1,9 +1,0 @@
-I_PRP like_VBP this_DT pizza_NN ._.
-All_PDT the_DT ingredients_NNS tasted_VBD fresh_JJ and_CC light_JJ ._.
-It_PRP was_VBD not_RB as_IN heavy_JJ as_IN the_DT pizza_NN I_PRP 'm_VBP used_VBN to_TO eating_VBG from_IN national_JJ chains_NNS ._.
-The_DT crust_NN was_VBD crispy_JJ ,_, and_CC burnt_JJ around_IN the_DT edges_NNS ._.
-I_PRP prefer_VBP a_DT softer_JJR crust_NN ._.
-I_PRP did_VBD not_RB try_VB any_DT of_IN the_DT desserts_NNS but_CC the_DT cannolis_NN looked_VBD good_JJ ._.
-It_PRP was_VBD interesting_JJ sitting_VBG at_IN the_DT table_NN with_IN a_DT group_NN of_IN men_NNS who_WP ate_VBD two_CD pizzas_NNS between_IN them_PRP and_CC a_DT man_NN who_WP sat_VBD solo_NN at_IN the_DT edge_NN of_IN the_DT table_NN and_CC ate_VBD the_DT entire_JJ pie_NN but_CC the_DT crust_NN ._.
-With_IN one_CD pizza_NN pan_VB on_IN the_DT table_NN and_CC two_CD boxes_NNS ,_, there_EX was_VBD very_RB little_JJ room_NN at_IN the_DT table_NN ._.
-The_DT pizza_NN was_VBD expensive_JJ but_CC my_PRP$ brother_NN treated_VBN so_IN I_PRP enjoyed_VBD every_DT bite_NN !_.

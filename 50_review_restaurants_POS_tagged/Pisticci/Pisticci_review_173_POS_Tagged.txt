@@ -1,7 +1,0 @@
-Pisticci_NNP is_VBZ great_JJ !_.
-As_IN a_DT culinary_JJ student_NN ,_, my_PRP$ chefs_NNS always_RB told_VBD me_PRP that_IN the_DT best_JJS dishes_NNS are_VBP always_RB simple_JJ ,_, yet_RB surprisingly_RB delicious_JJ ._.
-That_DT 's_VBZ what_WP Pisticci_NNP 's_POS spaghetti_NNS meatballs_NNS are_VBP !_.
-Who_WP would_MD 've_VB thought_VBN that_IN a_DT basic_JJ Italian_JJ dish_NN like_IN that_DT could_MD bring_VB so_RB much_JJ wonders_NNS ?_.
-It_PRP 's_VBZ fresh_JJ ,_, it_PRP 's_VBZ not_RB marinara_JJ dressing_VBG from_IN a_DT jar_NN ,_, it_PRP 's_VBZ just_RB plain_JJ yummy_NN !_.
-And_CC the_DT price_NN is_VBZ totally_RB unbeatable_JJ ..._: Yeah_UH yeah_VBP you_PRP have_VBP to_TO spend_VB half_PDT an_DT hour_NN to_TO commute_NN to_TO this_DT place_NN but_CC I_PRP have_VBP plenty_NN of_IN reasons_NNS to_TO come_VB back_RB :_: the_DT food_NN ,_, the_DT atmosphere_NN ,_, the_DT price_NN ,_, wine_NN list_NN ,_, etc._FW ._. ._. !_.
-So_RB whenever_WRB you_PRP 're_VBP in_IN the_DT area_NN ,_, make_VBP sure_JJ to_TO drop_VB by_IN !_.

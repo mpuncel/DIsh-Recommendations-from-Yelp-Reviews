@@ -1,4 +1,0 @@
-I_PRP have_VBP had_VBN better_RBR pizza_NN in_IN other_JJ places_NNS in_IN the_DT city_NN ._.
-The_DT hot_JJ entrees_NNS are_VBP a_DT great_JJ deal_NN ._.
-The_DT food_NN is_VBZ seasoned_JJ well_RB and_CC they_PRP are_VBP HUGE_JJ portions_NNS for_IN the_DT price_NN ._.
-Skip_VB it_PRP for_IN pizza_NN but_CC definitely_RB consider_VB ordering_VBG hot_JJ entrees_NNS -LRB-_-LRB- especially_RB the_DT chicken_NN and_CC eggplant_NN parm_NN -RRB-_-RRB-

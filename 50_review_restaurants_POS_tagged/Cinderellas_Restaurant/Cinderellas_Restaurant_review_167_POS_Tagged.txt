@@ -1,5 +1,0 @@
-Pizza_NNP is_VBZ surprisingly_RB OK_JJ ._.
-Dough_NNP is_VBZ on_IN the_DT thick_JJ side_NN ,_, but_CC sauce_NN has_VBZ chunks_NNS of_IN tomato_NN and_CC cheese_NN is_VBZ flavorful_JJ ._.
-Pasta_NN is_VBZ not_RB good_JJ ._.
-Delivery_NN is_VBZ super_JJ quick_JJ ._.
-One_CD of_IN the_DT best_JJS delivery_NN places_NNS in_IN Cambridge\/Somerville_NNP for_IN drunken_JJ munchies_NNS -_: open_JJ till_IN 2am_CD on_IN weekends_NNS and_CC 1am_CD during_IN the_DT week_NN ._.

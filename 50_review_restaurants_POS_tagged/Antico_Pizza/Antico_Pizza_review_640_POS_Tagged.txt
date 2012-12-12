@@ -1,2 +1,0 @@
-Best_JJS restaurant_NN in_IN Atlanta_NNP !_.
-Amazing_JJ pizza_NN and_CC great_JJ atmosphere_NN ._.

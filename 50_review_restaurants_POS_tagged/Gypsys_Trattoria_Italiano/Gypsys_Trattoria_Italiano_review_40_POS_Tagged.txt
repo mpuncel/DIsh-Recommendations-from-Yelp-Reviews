@@ -1,7 +1,0 @@
-Clam_NNP linguine_NN in_IN white_JJ sauce_NN ._.
-It_PRP 's_VBZ awesome_JJ ,_, and_CC creamy_JJ ._.
-And_CC it_PRP taste_NN like_IN goodness_NN ._.
-The_DT wait_NN for_IN your_PRP$ food_NN is_VBZ pretty_RB long_RB ,_, but_CC only_RB because_IN there_EX is_VBZ a_DT constant_JJ flow_NN of_IN people_NNS ordering_VBG ._.
-Just_RB know_VB that_IN you_PRP 'll_MD be_VB the_DT last_JJ one_CD out_IN if_IN your_PRP$ buddies_NNS are_VBP ordering_VBG elsewhere_RB in_IN the_DT Asian_JJ Ghetto_NNP ._.
-Oh_UH ,_, their_PRP$ garlic_JJ bread_NN is_VBZ SO_RB good_JJ ._.
-It_PRP 's_POS real_JJ garlic_NN that_IN you_PRP mush_VBP and_CC spread_VBP onto_IN your_PRP$ bread_NN ,_, so_IN it_PRP taste_VB homemade_NN and_CC fabulous_JJ ._.

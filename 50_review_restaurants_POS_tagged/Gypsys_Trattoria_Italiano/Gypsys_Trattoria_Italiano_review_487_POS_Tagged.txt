@@ -1,6 +1,0 @@
-Gypsy_NNP 's_POS is_VBZ one_CD of_IN the_DT reasons_NNS why_WRB I_PRP miss_VBP Berkeley_NNP so_RB much_RB ._.
-Where_WRB else_RB can_MD you_PRP find_VB pasta_NN this_DT good_JJ for_IN this_DT cheap_JJ ?_.
-Sometimes_RB when_WRB I_PRP 'm_VBP daydreaming_VBG at_IN work_NN my_PRP$ mouth_NN starts_VBZ to_TO drool_VB because_IN I_PRP start_VBP thinking_VBG about_IN the_DT godfather_NN 's_POS special_JJ ._.
-Then_RB my_PRP$ heart_NN starts_VBZ racing_VBG because_IN it_PRP gets_VBZ scared_VBN when_WRB it_PRP hears_VBZ I_PRP want_VBP the_DT godfather_NN 's_POS ._.
-Yes_UH ,_, they_PRP do_VBP in_IN fact_NN toss_VB in_IN at_IN least_JJS half_PDT a_DT stick_NN of_IN butter_NN for_IN every_DT dish_NN ,_, I_PRP 've_VBP seen_VBN them_PRP do_VBP it_PRP ..._: but_CC ,_, if_IN you_PRP 're_VBP eating_VBG here_RB ,_, you_PRP -LRB-_-LRB- most_RBS likely_JJ -RRB-_-RRB- still_RB have_VBP a_DT metabolism_NN that_WDT can_MD fend_VB off_RP this_DT minor_JJ inconvenience_NN ._.
-Do_VBP yourself_PRP a_DT favor_NN and_CC eat_VB here_RB as_RB often_RB as_IN possible_JJ because_IN I_PRP guarantee_VBP that_IN you_PRP will_MD miss_VB it_PRP when_WRB you_PRP finally_RB have_VBP to_TO grow_VB up_RP and_CC leave_VB Berk_NNP ._.

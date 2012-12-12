@@ -1,6 +1,0 @@
-5_CD DOLLAR_NNP LUNCH_NNP SPECIAL_NNP that_WDT just_RB screams_VBZ ``_`` poor_JJ college_NN students_NNS ._. ''_''
-you_PRP can_MD choose_VB from_IN pasta_NN bene_NN ,_, spaghetti_NNS &_CC meatballs_NNS ,_, beef_NN lasagna_NN ,_, melanzane_NN ,_, or_CC the_DT cheese_NN ravioli_NNS ._.
-meat-lovers_NNS should_MD steer_VB clear_JJ of_IN the_DT melanzane_NN bc_NN it_PRP 's_VBZ basically_RB spaghetti_NNS with_IN eggplant_NN and_CC tomato_NN sauce_NN ._.
-i_FW recommend_VB the_DT tiramisu_NN if_IN you_PRP still_RB have_VBP space_NN in_IN your_PRP$ stomach_NN since_IN the_DT portions_NNS here_RB are_VBP pretty_RB good_JJ ._.
-Stay_NNP away_RB from_IN the_DT bruschetta_NN -_: two_CD slices_NNS of_IN toasted_VBN bread_NN topped_VBN with_IN olive_JJ oil_NN ,_, diced_VBD tomatoes_NNS and_CC cheese_NN ._.
-The_DT bread_NN tasted_VBD stale_JJ and_CC was_VBD not_RB crunchy_JJ at_IN all_DT ._.

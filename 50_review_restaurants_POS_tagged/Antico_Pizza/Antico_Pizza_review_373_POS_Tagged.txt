@@ -1,6 +1,0 @@
-I_PRP 'll_MD keep_VB this_DT one_CD short_JJ and_CC let_VB the_DT place_NN and_CC the_DT pizza_NN speak_VBP for_IN itself_PRP when_WRB you_PRP go_VBP ._.
-Awesome_JJ ,_, authentic_JJ pies_NNS ._.
-Superb_NNP crust_NN ._.
-So_RB good_JJ ._.
-Sweet_JJ cannolis_NNS and_CC tasty_JJ espresso_NN too_RB ._.
-Remember_VB ..._: BYOB_NNP ._.

@@ -1,8 +1,0 @@
-First_NNP :_: NO_UH LONGER_NNP BYOB_NNP -LRB-_-LRB- which_WDT i_FW learned_VBN after_IN packing_VBG a_DT purseful_JJ of_IN pino_NN -RRB-_-RRB- !!!_CD Second_JJ :_: The_DT food_NN is_VBZ delicious_JJ and_CC in_IN an_DT unexpected_JJ atmosphere_NN ._.
-Chef_NN Shaun_NNP is_VBZ a_DT lovely_JJ host_NN and_CC joyfully_RB overseas_RB the_DT preparation_NN of_IN delicious_JJ creations_NNS ,_, but_CC the_DT place_NN is_VBZ teeny_JJ tiny_JJ with_IN no_DT real_JJ chairs_NNS -_: stools_NNS and_CC a_DT few_JJ benches_NNS that_WDT line_VBP the_DT walls_NNS ._.
-It_PRP is_VBZ even_RB smaller_JJR than_IN my_PRP$ NYC_NNP bedroom_NN !_.
-But_CC the_DT food_NN make_VB up_RP for_IN the_DT space_NN ._.
-And_CC once_RB you_PRP go_VBP you_PRP can_MD say_VB that_IN you_PRP have_VBP truly_RB had_VBN a_DT NY_NNP experience_NN ._.
-With_IN some_DT small_JJ tweaking_NN and_CC more_JJR word_NN of_IN mouth_NN there_EX will_MD be_VB lines_NNS around_IN the_DT block_NN ._.
-Third_NNP :_: Go_VB ._.
-What_WP are_VBP you_PRP waiting_VBG for_IN ._.

@@ -1,2 +1,0 @@
-BEST_NNP PIZZA_NNP ever_RB !!!_VBD Most_JJS authentic_JJ pizza_NN you_PRP will_MD get_VB outside_IN of_IN Naples_NNP ._.
-Crust_NN is_VBZ perfectly_RB charred_VBN ..._: and_CC the_DT simple_JJ toppings_NNS of_IN fresh_JJ basil_NN ,_, san_NN marzano_NN tomatos_NNS and_CC buffalo_NN mozz_NN make_VB this_DT the_DT quintessential_JJ Neapolitan_NNP pizza_NN ._.

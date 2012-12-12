@@ -1,5 +1,0 @@
-This_DT is_VBZ a_DT GREAT_JJ pizza_NN ._.
-Homemade_NNP crust_NN ,_, wood-fired_JJ brick_NN oven_CD cooked_VBN with_IN all_DT top_JJ notch_NN ingredients_NNS and_CC toppings_NNS ._.
-Just_RB wow_NN ._.
-This_DT is_VBZ n't_RB the_DT pizza_NN you_PRP get_VBP for_IN the_DT big_JJ game_NN ,_, this_DT is_VBZ the_DT pizza_NN for_IN movie_NN night_NN with_IN the_DT wife_NN ._.
-The_DT restaurant_NN itself_PRP does_VBZ n't_RB have_VB a_DT lot_NN of_IN tables_NNS so_IN I_PRP keep_VBP it_PRP to_TO take_VB out_RP ._.

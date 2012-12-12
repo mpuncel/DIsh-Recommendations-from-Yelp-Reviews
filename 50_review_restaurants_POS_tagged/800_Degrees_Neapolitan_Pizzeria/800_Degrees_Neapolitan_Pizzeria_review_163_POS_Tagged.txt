@@ -1,9 +1,0 @@
-Fresh_JJ ingredients_NNS -LRB-_-LRB- esp_VB the_DT cheese_NN !_. -RRB-_-RRB- ._.
-Extra_JJ garlic_NN for_IN free_JJ ._.
-Your_PRP$ pizza_NN pie_NN handed_VBN to_TO you_PRP less_JJR than_IN a_DT minute_NN after_IN you_PRP pay_VBP ._.
-This_DT has_VBZ spoiled_VBN me_PRP because_IN when_WRB I_PRP had_VBD to_TO wait_VB for_IN 10_CD minutes_NNS for_IN my_PRP$ pizza_NN at_IN Little_NNP Caesar_NNP 's_POS a_DT few_JJ weeks_NNS after_IN ,_, I_PRP thought_VBD I_PRP was_VBD going_VBG to_TO die_VB of_IN hunger_NN ._.
-Minus_NNP one_CD star_NN because_IN it_PRP is_VBZ just_RB way_RB too_RB loud_JJ in_IN the_DT restaurant_NN ._.
-Do_VBP you_PRP really_RB need_VBP the_DT music_NN turned_VBD up_RP that_DT high_JJ ?_.
-I_PRP had_VBD to_TO shout_VB so_IN the_DT person_NN making_VBG my_PRP$ pizza_NN could_MD hear_VB what_WP I_PRP wanted_VBD -LRB-_-LRB- and_CC he_PRP still_RB missed_VBD parts_NNS of_IN it_PRP ,_, such_JJ as_IN my_PRP$ asking_VBG for_IN the_DT crust_NN extra_JJ crispy_JJ -RRB-_-RRB- ._.
-Also_RB ,_, some_DT pies_NNS end_VBP up_RP super_JJ salty_NN because_IN the_DT first_JJ person_NN in_IN the_DT assembly_NN line_NN sprinkles_VBZ too_RB much_JJ on_IN the_DT dough_NN ._.
-I_PRP would_MD suggest_VB asking_VBG for_IN less_JJR salt_NN just_RB to_TO be_VB safe_JJ since_IN your_PRP$ other_JJ toppings_NNS may_MD have_VB salt_NN and_CC you_PRP can_MD always_RB add_VB it_PRP yourself_PRP afterward_RB ._.

@@ -1,6 +1,0 @@
-This_DT is_VBZ a_DT really_RB solid_JJ Italian_JJ restaurant_NN ,_, and_CC it_PRP 's_VBZ right_JJ near_IN USC_NNP ._.
-I_PRP like_VBP the_DT cheese_NN ravioli_NNS and_CC the_DT fettuccini_NNS alfredo_NN ._.
-If_IN you_PRP want_VBP appetizers_NNS ,_, the_DT fried_JJ zucchini_NN and_CC the_DT mozzarella_NN sticks_NNS are_VBP both_DT delicious_JJ ._.
-And_CC ,_, of_IN course_NN ,_, the_DT garlic_JJ twists_NNS are_VBP awesome_JJ !_.
-You_PRP get_VBP a_DT lot_NN of_IN food_NN for_IN the_DT money_NN ,_, and_CC they_PRP 'll_MD deliver_VB for_IN free_JJ within_IN a_DT mile_NN and_CC a_DT half_NN -LRB-_-LRB- although_IN do_VBP n't_RB expect_VB the_DT food_NN to_TO be_VB really_RB warm_JJ if_IN that_DT 's_VBZ what_WP you_PRP choose_VBP to_TO do_VB -RRB-_-RRB- ._.
-Overall_RB ,_, this_DT is_VBZ a_DT great_JJ restaurant_NN choice_NN if_IN you_PRP 're_VBP looking_VBG for_IN a_DT carb_NN overload_NN ._.

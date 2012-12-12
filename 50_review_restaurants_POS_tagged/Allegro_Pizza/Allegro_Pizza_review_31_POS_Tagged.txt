@@ -1,4 +1,0 @@
-I_PRP 'm_VBP a_DT little_JJ surprised_JJ at_IN Alegro_NNP 's_POS lack_NN of_IN Yelps_NNP ._.
-I_PRP love_VBP this_DT place_NN !_.
-I_PRP used_VBD to_TO go_VB to_TO Alegro_NNP for_IN slices_NNS and_CC a_DT beer_NN and_CC sometimes_RB for_IN a_DT study_NN break_NN to_TO watch_VB a_DT bit_NN of_IN an_DT Eagles_NNPS game_NN ._.
-Given_VBN the_DT variety_NN of_IN quality_NN slices_NNS on_IN offer_NN ,_, the_DT reasonable_JJ beer_NN selection_NN ,_, and_CC the_DT fun_NN ,_, casual_JJ and_CC local_JJ atmosphere_NN ,_, I_PRP 'm_VBP almost_RB tempted_VBN to_TO give_VB Alegro_NNP that_IN coveted_JJ fifth_JJ star_NN !_.

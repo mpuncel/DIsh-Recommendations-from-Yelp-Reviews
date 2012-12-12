@@ -1,8 +1,0 @@
-WIFi_NNP is_VBZ very_RB fast_RB ._.
-Place_NNP was_VBD absolutely_RB clean_JJ and_CC accommodating_VBG staff_NN at_IN counter_NN ._.
-You_PRP 'll_MD feel_VB at_IN home_NN with_IN the_DT place_NN ._.
-Couches_NNS on_IN the_DT side_NN with_IN a_DT large_JJ mirror_NN hanging_VBG on_IN the_DT wall_NN ._.
-And_CC the_DT seating_VBG outside_NN is_VBZ perfect_JJ for_IN a_DT sunny_JJ weather_NN while_IN having_VBG a_DT Tiramisu_NNP !_.
-It_PRP is_VBZ a_DT must_MD try_VB !_.
-:_: -RRB-_-RRB- we_PRP had_VBD gnocchi_JJ sausage_NN and_CC tropicana_NN pizza_NN !_.
-Niiice_NNP

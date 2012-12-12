@@ -1,9 +1,0 @@
-MY_NNP NEW_NNP FAV_NNP PIZZA_NNP PLACE_NNP !!!!_VBD too_RB many_JJ good_JJ things_NNS about_IN this_DT place_NN 1_CD ._.
-affordable_JJ and_CC reasonably_RB priced_VBN 2_CD ._.
-extremely_RB fresh_JJ ,_, baked_JJ to_TO order_VB according_VBG to_TO how_WRB you_PRP want_VBP and_CC u_VBP can_MD see_VB them_PRP make_VB it_PRP -LRB-_-LRB- you_PRP can_MD add_VB garlic_JJ and_CC oregano_JJ flakes_NNS for_IN free_JJ if_IN you_PRP want_VBP -RRB-_-RRB- 3_LS ._.
-they_PRP 're_VBP open_JJ till_IN 2am_JJ !!_NN the_DT pizza_NN is_VBZ neopolitan_JJ style_NN -_: really_RB thin_JJ and_CC chewy_JJ ._. ._.
-not_RB crisp_JJ ._.
-the_DT margherita_NN ,_, a_DT basic_JJ pizza_NN with_IN marinara_NN sauce_NN ,_, mozzarella_NN ,_, basil_NN ,_, a_DT splash_NN of_IN evoo_NN is_VBZ so_RB good_JJ by_IN itself_PRP ._.
-I_PRP def_VBP want_VB to_TO come_VB back_RB and_CC try_VB their_PRP$ specialty_NN pizzas_NNS ..._: drool_NN ..._: they_PRP also_RB have_VBP a_DT lot_NN of_IN side_NN dishes_NNS and_CC salads_NNS to_TO choose_VB from_IN ._.
-there_EX are_VBP many_JJ pizza_NN places_NNS in_IN westwood_NN ..._: but_CC this_DT def_NN gets_VBZ my_PRP$ vote_NN for_IN best_JJS value_NN ,_, taste_NN ,_, and_CC for_IN being_VBG open_JJ so_RB late_JJ !_.
-gogogo_NN !_.

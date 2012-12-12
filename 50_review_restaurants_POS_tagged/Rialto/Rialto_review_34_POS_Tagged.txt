@@ -1,5 +1,0 @@
-Holy_NNP $_$ $_$ $_$ $_$ Batman_NNP !_.
-The_DT food_NN is_VBZ to_TO die_VB for_IN ,_, and_CC the_DT bar_NN is_VBZ very_RB romantic_JJ ,_, but_CC this_DT is_VBZ n't_RB the_DT place_NN to_TO go_VB if_IN you_PRP want_VBP to_TO find_VB the_DT young_JJ hip_NN crowd_NN that_IN you_PRP see_VBP all_DT over_IN Harvard_NNP Sq._NNP ._.
-This_DT is_VBZ def_NN ._.
-for_IN the_DT more_RBR refined_JJ diner_NN ._.
-But_CC a_DT great_JJ date_NN spot_NN !_.

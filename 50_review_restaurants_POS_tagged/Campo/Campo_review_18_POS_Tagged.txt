@@ -1,8 +1,0 @@
-I_PRP live_VBP a_DT block_NN away_RB from_IN this_DT italian_JJ restaurant_NN and_CC find_VB it_PRP a_DT great_JJ addition_NN to_TO the_DT neighborhood_NN ._.
-The_DT food_NN is_VBZ delicious_JJ ,_, you_PRP can_MD tell_VB it_PRP 's_VBZ all_DT very_RB very_RB fresh_JJ ._.
-It_PRP 's_VBZ also_RB not_RB entirely_RB the_DT same_JJ old_JJ italian_NN ,_, they_PRP put_VBP little_JJ twists_NNS on_IN the_DT classics_NNS to_TO make_VB it_PRP interesting_JJ ._.
-Everytime_NNP I_PRP 've_VBP come_VBN here_RB I_PRP 've_VBP been_VBN able_JJ to_TO get_VB a_DT table_NN right_RB away_RB ,_, even_RB though_IN it_PRP appears_VBZ pretty_RB full_JJ ._.
-I_PRP recommend_VBP the_DT mozzarella_NN and_CC heirloom_NN tomato_NN appetizer_NN ,_, the_DT vegetable_NN risotto_NN ,_, and_CC really_RB all_DT of_IN the_DT pastas_NNS ._.
-Menu_NN changes_NNS with_IN the_DT seasons_NNS ,_, ensuring_VBG fresh_JJ quality_NN of_IN ingredients_NNS ._.
-Wine_NNP menu_NN is_VBZ also_RB nice_JJ and_CC affordable_JJ ._.
-I_PRP 'm_VBP surprised_JJ there_EX are_VBP very_RB average_JJ reviews_NNS ,_, as_IN i_FW 'm_VBP pretty_RB picky_JJ ,_, especially_RB with_IN italian_JJ ,_, but_CC I_PRP 've_VBP had_VBD only_RB great_JJ experiences_NNS ._.

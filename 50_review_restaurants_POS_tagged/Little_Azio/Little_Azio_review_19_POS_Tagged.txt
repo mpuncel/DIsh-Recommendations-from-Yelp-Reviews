@@ -1,6 +1,0 @@
-This_DT review_NN covers_VBZ this_DT location_NN ,_, as_RB well_RB as_IN the_DT one_CD near_IN East_NNP Atlanta_NNP ,_, in_IN Ormewood_NNP ._.
-The_DT food_NN here_RB is_VBZ definitely_RB good_JJ ;_: if_IN you_PRP like_IN thin_JJ pizzas_NNS ._.
-They_PRP have_VBP beer_NN on_IN draft_NN ,_, and_CC lots_NNS of_IN outside_JJ seating_NN ._.
-The_DT food_NN is_VBZ reasonably_RB priced_VBN ,_, and_CC is_VBZ always_RB good_JJ and_CC fresh_JJ ._.
-It_PRP comes_VBZ out_RP fast_RB too_RB !_.
-The_DT BBQ_NNP chicken_NN pizza_NN is_VBZ my_PRP$ favorite_JJ !_.

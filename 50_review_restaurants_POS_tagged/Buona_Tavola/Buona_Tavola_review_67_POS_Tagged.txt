@@ -1,6 +1,0 @@
-The_DT pack_NN patio_NN -LRB-_-LRB- main_JJ seating_NN area_NN -RRB-_-RRB- is_VBZ quiet_JJ ,_, comfortable_JJ and_CC rather_RB intimate_JJ of_IN a_DT dining_NN environment_NN ._.
-At_IN night_NN they_PRP 've_VBP got_VBN light_JJ chains_NNS across_IN the_DT area_NN and_CC you_PRP 're_VBP sitting_VBG under_IN two_CD rather_RB large_JJ trees_NNS with_IN walls_NNS on_IN both_DT sides_NNS -LRB-_-LRB- no_DT pedestrians_NNS looking_VBG onto_IN your_PRP$ plate_NN -RRB-_-RRB- ;_: quite_RB nice_JJ ,_, much_JJ nicer_JJR actually_RB than_IN the_DT front_NN of_IN the_DT small_JJ building_NN would_MD make_VB you_PRP think_VB ._.
-The_DT food_NN is_VBZ quite_RB excellent_JJ ;_: our_PRP$ meals_NNS and_CC appetizer_NN tasted_VBD fresh_JJ and_CC natural_JJ ._.
-Flavors_NNS are_VBP neither_RB too_RB strong_JJ nor_CC too_RB subtle_JJ and_CC spices\/herds_NNS balance_NN perfectly_RB ._.
-The_DT dishes_NNS seem_VBP to_TO be_VB from_IN the_DT school_NN of_IN ``_`` simple_JJ and_CC well_RB done_VBN ,_, ''_'' i.e._FW the_DT traditional_JJ dishes_NNS you_PRP 'd_MD expect_VB done_VBN well_RB ._.
-What_WP I_PRP would_MD improve_VB :_: the_DT bread_NN was_VBD served_VBN cool_JJ ,_, not_RB warm_JJ ,_, and_CC without_IN the_DT oil\/vinegar_NN combination_NN I_PRP personally_RB like_IN ._.

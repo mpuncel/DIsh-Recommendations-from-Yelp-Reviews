@@ -1,7 +1,0 @@
-This_DT is_VBZ a_DT great_JJ little_JJ Italian_JJ place_NN ,_, that_WDT is_VBZ very_RB affordable_JJ ._.
-If_IN you_PRP 're_VBP ever_RB in_IN this_DT area_NN ,_, I_PRP would_MD have_VB to_TO choose_VB Paste_NNP Bene_NNP over_IN Gypsys_NNP for_IN multiple_JJ reasons_NNS :_: 1_LS ._.
-Pasta_NN Bene_NNP has_VBZ a_DT much_RB more_JJR comfortable_JJ setting_NN than_IN Gypsys_NNPS 2_LS ._.
-Pasta_NN Bene_NNP is_VBZ the_DT same_JJ price_NN ,_, if_IN not_RB cheaper_JJR ,_, than_IN Gypsys_NNPS 3_LS ._.
-Pasta_NN Bene_NNP has_VBZ tastier_JJR and_CC more_JJR elegant_JJ food_NN than_IN Gypsys_NNP After_IN saying_VBG that_IN though_RB ,_, if_IN you_PRP 're_VBP on_IN campus_NN ,_, making_VBG the_DT trip_NN out_RB to_TO Pasta_NNP Bene_NNP may_MD not_RB be_VB worth_JJ it_PRP ._.
-It_PRP is_VBZ the_DT further_JJ yet_RB better_JJR option_NN ,_, but_CC the_DT cost_NN of_IN the_DT time_NN traveled_VBD may_MD not_RB outweigh_VB the_DT benefit_NN of_IN the_DT better_JJR food_NN ._.
-So_RB 4_CD stars_NNS ,_, considering_VBG just_RB the_DT food_NN and_CC place_NN itself_PRP ._.

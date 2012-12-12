@@ -1,4 +1,0 @@
-It_PRP 's_VBZ a_DT Bertucci_NNP 's_POS okay_JJ ?_.
-You_PRP 're_VBP not_RB going_VBG to_TO get_VB swept_VBN into_IN the_DT spirit_NN of_IN the_DT old_JJ country_NN or_CC remember_VB it_PRP as_IN one_CD of_IN your_PRP$ epic_NN meals_NNS ._.
-But_CC if_IN you_PRP 're_VBP willing_JJ to_TO spend_VB thirty_CD bucks_NNS on_IN a_DT pizza_NN you_PRP can_MD have_VB them_PRP toss_VB a_DT half_NN dozen_NN toppings_NNS on_IN and_CC order_VB it_PRP with_IN rolls_NNS and_CC oil_NN -LRB-_-LRB- their_PRP$ pizza_NN dough_JJ rolls_NNS are_VBP sweet_JJ -RRB-_-RRB- and_CC you_PRP 'll_MD be_VB happy_JJ ._.
-Order_NNP the_DT pie_NN well_RB done_VBN ._.

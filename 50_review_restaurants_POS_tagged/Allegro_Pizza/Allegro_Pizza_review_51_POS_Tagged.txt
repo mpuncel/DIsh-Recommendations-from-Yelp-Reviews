@@ -1,7 +1,0 @@
-Allegro_NNP ,_, the_DT answer_NN to_TO my_PRP$ lazy_JJ Sundays_NNPS ,_, after-work_JJ hunger_NN pangs_NNS and_CC late_JJ night_NN munchies_NNS ,_, your_PRP$ delivery_NN service_NN is_VBZ top_JJ notch_NN ._.
-I_PRP heart_NN your_PRP$ wings_NNS ,_, white_JJ pizza_NN ,_, and_CC the_DT friendliness_NN of_IN your_PRP$ delivery_NN staff_NN ._.
-The_DT fact_NN that_IN I_PRP can_MD order_VB online_NN and_CC keep_VB my_PRP$ daily_JJ human_JJ interaction_NN at_IN a_DT minimum_JJ means_VBZ the_DT world_NN to_TO me_PRP ._.
-Your_PRP$ burgers_NNS are_VBP weak_JJ ,_, but_CC no_DT one_NN is_VBZ perfect_JJ ,_, right_JJ ?_.
-You_PRP 're_VBP about_IN the_DT wings_NNS ,_, pizza_NN ,_, pasta_NN ,_, oh_UH ,_, and_CC have_VBP I_PRP not_RB mentioned_VBD your_PRP$ Allegro_NNP House_NNP Fries_NNPS ?_.
-Ranch_NNP ,_, mozzarella_NN ,_, cheddar_NN ,_, bacon_NN ..._: good_JJ God_NNP ,_, how_WRB you_PRP toy_NN with_IN me_PRP ._.
-Beyond_IN your_PRP$ flaws_NNS ,_, I_PRP still_RB have_VBP a_DT soft_JJ spot_NN in_IN my_PRP$ heart_NN for_IN you_PRP ._.

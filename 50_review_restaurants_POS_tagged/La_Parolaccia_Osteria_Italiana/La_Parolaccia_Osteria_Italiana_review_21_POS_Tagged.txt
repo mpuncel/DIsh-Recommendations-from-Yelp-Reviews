@@ -1,7 +1,0 @@
-First_JJ time_NN here_RB -_: will_MD definitely_RB be_VB back_RB !_.
-Food_NNP was_VBD great_JJ &_CC piping_NN hot_JJ to_TO the_DT table_NN ._.
-Ordered_VBD a_DT pizza_NN ,_, nice_JJ crispy_JJ crust_NN ._.
-Husband_NN ordered_VBD a_DT calzone_NN -_: it_PRP was_VBD a_DT big_JJ portion_NN &_CC delish_NN ._.
-Mario_NNP was_VBD our_PRP$ server_NN &_CC we_PRP have_VBP no_DT complaints_NNS ._.
-Attentive_JJ at_IN the_DT right_JJ times_NNS ,_, the_DT wait_NN staff_NN moves_VBZ quick_JJ to_TO clear_JJ ur_NN dishes_NNS &_CC refill_NN drinks_NNS ._.
-Tiramisu_NNP was_VBD yummy_JJ ,_, reminds_VBZ me_PRP of_IN a_DT tiramisu_NN I_PRP had_VBD in_IN Rome_NNP ._.

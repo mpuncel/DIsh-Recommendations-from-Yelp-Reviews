@@ -1,8 +1,0 @@
-I_PRP WISH_VBP THIS_JJ PLACE_NN WAS_VBD CLOSER_NNP TO_TO CAMPUS_NNP !_.
-I_PRP ordered_VBD the_DT Bruchetta_NNP and_CC the_DT Melanzane_NNP ._.
-The_DT Bruchetta_NNP was_VBD a_DT little_JJ too_RB cold_JJ ,_, feels_VBZ like_IN they_PRP prepaid_VBD it_PRP and_CC just_RB took_VBD it_PRP out_IN of_IN the_DT fridge_NN ._.
-But_CC the_DT Melanzane_NNP was_VBD delicious_JJ !_.
-Beats_VBZ Gypsy_NNP 's_POS greasy_JJ oily-ness_NN ._.
-The_DT Tiramisu_NNP had_VBD raspberry_NN sauce_NN on_IN the_DT plate_NN ,_, and_CC it_PRP was_VBD the_DT perfect_JJ fluffiness_NN and_CC taste_NN of_IN coffee_NN ._.
-Definitely_RB coming_VBG back_RB again_RB for_IN their_PRP$ pasta_NN and_CC dessert_NN !_.
-c_NN :_:

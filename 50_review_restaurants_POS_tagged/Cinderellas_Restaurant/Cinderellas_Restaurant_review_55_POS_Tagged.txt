@@ -1,6 +1,0 @@
-Okay_UH food_NN ,_, but_CC the_DT great_JJ thing_NN is_VBZ the_DT late_JJ hours_NNS and_CC the_DT fast_JJ delivery_NN ._.
-Very_RB few_JJ places_NNS in_IN boston_NN are_VBP open_JJ until_IN 2am_JJ and_CC still_RB willing_JJ to_TO deliver_VB ._.
-Love_NNP their_PRP$ sandwiches_NNS esp_VBP ._.
-the_DT Harvard_NNP Special_JJ ._.
-Their_PRP$ pastas_NNS are_VBP unspectatular_JJ ._.
-Go_VB to_TO http:\/\/web.mit.edu\/afs\/athena.mit.edu\/user\/w\/c\/wchuang\/www\/menus\/menus\/Cinderella's.txt_NNP for_IN their_PRP$ menu_NN ._.

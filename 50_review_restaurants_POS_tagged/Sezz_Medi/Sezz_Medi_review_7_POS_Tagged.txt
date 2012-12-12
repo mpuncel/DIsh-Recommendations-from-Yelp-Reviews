@@ -1,2 +1,0 @@
-Great_NNP selection_NN of_IN qualiry_JJ fresh_JJ toppings_NNS --_: mozzarella_NN ,_, oregano_NN ,_, tomatoes_NNS ,_, and_CC anchovies_NNS makes_VBZ for_IN a_DT great_JJ pie_NN ._.
-Too_RB bad_JJ the_DT crust_NN is_VBZ usually_RB charred_VBN but_CC soggy_JJ

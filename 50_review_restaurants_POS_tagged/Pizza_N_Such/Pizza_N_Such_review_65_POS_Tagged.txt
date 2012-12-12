@@ -1,5 +1,0 @@
-good_JJ pizza_NN ,_, great_JJ N_NNP Such_JJ ._.
-The_DT eggplant_NN Parmesan_NNP sandwich_NN and_CC meatball_NN sandwiches_NNS are_VBP great_JJ !!_NN Good_JJ salads_NNS ._.
-Also_RB good_JJ beers_NNS on_IN tap_VBP ,_, friendly_JJ service_NN ,_, nice_JJ booths_NNS ,_, excellent_JJ location_NN on_IN a_DT corner_NN in_IN the_DT village_NN where_WRB the_DT pharmacy_NN used_VBN to_TO be_VB ._.
-I_PRP would_MD eat_VB there_RB all_PDT the_DT time_NN ,_, except_IN for_IN the_DT problem_NN that_WDT explains_VBZ why_WRB I_PRP did_VBD n't_RB give_VB another_DT star_NN :_: Prices_NNS are_VBP HIGH_NNP ._.
-Its_PRP$ very_RB good_JJ food_NN ,_, but_CC overpriced_VBD :_: -LRB-_-LRB-

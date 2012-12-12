@@ -1,6 +1,0 @@
-This_DT place_NN is_VBZ like_IN an_DT assembly_NN line_NN for_IN pizza_NN making_VBG ..._: -LRB-_-LRB- Henry_NNP Ford_NNP would_MD be_VB proud_JJ !_. -RRB-_-RRB-
-There_EX clean_JJ ,_, quick_JJ ,_, and_CC their_PRP$ menu_NN options_NNS are_VBP great_JJ !_.
-Make_VB your_PRP$ own_JJ pizza_NN or_CC choose_VB from_IN various_JJ options_NNS from_IN their_PRP$ menu_NN ._.
-I_PRP am_VBP the_DT creative_JJ type_NN ..._: or_CC so_IN I_PRP think_VBP ._.
-I_PRP decided_VBD to_TO build_VB my_PRP$ own_JJ ..._: and_CC to_TO my_PRP$ surprise_NN it_PRP was_VBD pretty_RB good_JJ !_.
-Very_RB affordable_JJ especially_RB given_VBN the_DT size_NN of_IN the_DT thing_NN !!_NN If_IN your_PRP$ in_IN the_DT area_NN check_NN this_DT place_NN ,_, you_PRP wont_VBP be_VB disappointed_VBN !_.

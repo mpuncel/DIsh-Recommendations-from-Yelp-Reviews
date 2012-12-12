@@ -1,6 +1,0 @@
-Simply_RB Divine_NNP ._.
-Not_RB only_RB is_VBZ it_PRP delicious_JJ ._.
-You_PRP can_MD get_VB by_IN the_DT slice_NN or_CC order_NN in_IN Larger_NNP portions_NNS ._.
-I_PRP am_VBP Gluten_NNP and_CC Wheat_NNP intolerant_JJ but_CC their_PRP$ Flour_NNP is_VBZ brought_VBN in_RP from_IN Italy_NNP and_CC has_VBZ a_DT low_JJ Gluten_NNP level_NN ._.
-I_PRP have_VBP never_RB been_VBN bothered_VBN by_IN this_DT flour_NN and_CC never_RB have_VBP felt_VBN the_DT need_NN to_TO order_VB Gluten_NNP free_JJ though_IN it_PRP is_VBZ an_DT available_JJ option_NN ._.
-Highly_NNP recommend_VB ._.

@@ -1,6 +1,0 @@
-+_RB The_DT pizza_NN is_VBZ fantastic_JJ ._.
-Hands_NNS down_IN the_DT best_JJS in_IN Atlanta_NNP ._.
-Get_VB the_DT margherita_NN pizza_NN and_CC be_VB sure_JJ to_TO BYOB_NNP ._.
--_: A_DT word_NN of_IN advice_NN -_: if_IN you_PRP 're_VBP the_DT type_NN of_IN person_NN where_WRB you_PRP demand_VBP good_JJ service_NN ,_, then_RB please_VB ,_, do_VBP n't_RB bother_VB coming_VBG ._.
-It_PRP 'll_MD make_VB more_JJR room_NN for_IN people_NNS who_WP are_VBP here_RB for_IN the_DT food_NN and_CC do_VBP n't_RB mind_VB the_DT so_RB called_VBN `_`` bad_JJ '_'' or_CC `_`` so-so_JJ '_'' service_NN -LRB-_-LRB- European_JJ service_NN really_RB -RRB-_-RRB- that_WDT many_JJ other_JJ Yelpers_NNS have_VBP complained_VBN about_IN ._.
-This_DT is_VBZ an_DT authentic_JJ ITALIAN_NNP pizzeria_NN after_IN all_DT !_.

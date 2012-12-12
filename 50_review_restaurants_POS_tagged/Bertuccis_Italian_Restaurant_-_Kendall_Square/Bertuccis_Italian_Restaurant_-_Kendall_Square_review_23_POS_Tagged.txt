@@ -1,5 +1,0 @@
-I_PRP like_VBP Bertuccis_NNP pretty_RB much_RB where_WRB ever_RB I_PRP am_VBP ,_, although_IN I_PRP 'm_VBP not_RB big_JJ on_IN chain_NN restaurants_NNS ,_, here_RB is_VBZ an_DT exception_NN ._.
-I_PRP like_VBP the_DT Chicken_NNP Ceasar_NNP Salad_NNP ,_, Margarita_NNP pizza_NN ,_, and_CC dessert_NN trio_NN ._.
-The_DT Espresso_NNP Martini_NNP and_CC Appletinis_NNP are_VBP alright_JJ ,_, not_RB worth_IN the_DT money_NN ,_, but_CC good_JJ enough_RB ._.
-It_PRP 's_VBZ a_DT fairly_RB busy_JJ location_NN ,_, and_CC it_PRP 's_VBZ good_JJ for_IN getting_VBG the_DT whole_JJ family_NN together_RB and_CC eating_VBG out_RP -_: although_IN if_IN you_PRP are_VBP not_RB the_DT big_JJ group_NN there_RB ,_, it_PRP sometimes_RB takes_VBZ a_DT while_NN for_IN you_PRP to_TO get_VB served_VBN ._.
-Also_RB ,_, I_PRP hope_VBP and_CC pray_VBP that_IN you_PRP do_VBP n't_RB get_VB the_DT one_CD old_JJ guy_NN waiter_NN ,_, VERY_RB very_RB nice_JJ guy_NN ,_, just_RB REALLY_RB really_RB slow_JJ ._.

@@ -1,8 +1,0 @@
-WORST_NNP DELIVERY_NNP SERIVCE_NNP !!!_VBZ The_DT delivery_NN guy_NN called_VBD me_PRP and_CC asked_VBD me_PRP to_TO come_VB downstair_NN to_TO get_VB my_PRP$ food_NN ._.
-i_FW told_VBD him_PRP to_TO deliver_VB the_DT food_NN to_TO my_PRP$ door_NN and_CC he_PRP said_VBD that_IN there_EX was_VBD no_DT parking_NN and_CC it_PRP would_MD be_VB faster_RBR if_IN i_FW came_VBD down_RB ._.
-i_FW went_VBD down_RB to_TO get_VB my_PRP$ food_NN ,_, he_PRP was_VBD n't_RB even_RB there_EX yet_RB and_CC there_RB was_VBD a_DT space_NN right_NN in_IN front_NN of_IN my_PRP$ building_NN ._.
-i_FW will_MD never_RB order_VB from_IN this_DT place_NN again_RB ._.
-there_RB pasta_NN is_VBZ soggy_JJ and_CC gross_JJ ._.
-the_DT mozzarella_NN sticks_NNS are_VBP straight_JJ out_IN of_IN a_DT freezer_NN and_CC were_VBD n't_RB even_RB hot_JJ ._.
-i_FW ordered_VBN coke_NN and_CC he_PRP brought_VBD me_PRP diet_NN coke_NN ;_: when_WRB i_FW called_VBD him_PRP to_TO complain_VB he_PRP told_VBD me_PRP that_IN he_PRP sent_VBD coke_NN not_RB diet_NN coke_NN and_CC did_VBD n't_RB believe_VB me_PRP ._.
-the_DT greek_NN salad_NN is_VBZ n't_RB bad_JJ ._.

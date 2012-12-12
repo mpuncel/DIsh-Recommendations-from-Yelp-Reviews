@@ -1,2 +1,0 @@
-Pizza_NNP N_NNP Such_JJ has_VBZ great_JJ food_NN ,_, and_CC a_DT great_JJ atmosphere_NN ._.
-Like_IN a_DT lot_NN of_IN italian_JJ restaraunts_NNS ,_, everything_NN is_VBZ a_DT little_JJ overpriced_JJ though_IN ._.

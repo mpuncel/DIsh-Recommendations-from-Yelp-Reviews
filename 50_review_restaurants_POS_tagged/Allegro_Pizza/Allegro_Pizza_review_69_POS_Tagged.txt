@@ -1,2 +1,0 @@
-the_DT pizza_NN is_VBZ too_RB dry_JJ ._.
-I_PRP think_VBP people_NNS who_WP live_VBP in_IN that_DT neighborhood_NN convince_VBP themselves_PRP it_PRP 's_VBZ good_JJ because_IN it_PRP 's_VBZ closer_JJR than_IN traveling_VBG downtown_NN to_TO get_VB good_JJ pizza_NN ._.

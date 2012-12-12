@@ -1,1 +1,0 @@
-Friendly_RB !!!_NNP Delicious_NNP !!!!!_NNP Quick_NNP !!!_NNP Clean_NNP !!!!_IN

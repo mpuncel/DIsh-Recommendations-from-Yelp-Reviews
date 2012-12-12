@@ -1,8 +1,0 @@
-While_IN we_PRP are_VBP locals_NNS we_PRP have_VBP not_RB dined_VBN here_RB as_IN knew_VBD it_PRP was_VBD pricey_JJ relative_JJ to_TO other_JJ SLO_NNP Italian_NNP restaurants_NNS ._.
-We_PRP enjoyed_VBD the_DT back_JJ patio_NN and_CC the_DT service_NN was_VBD excellent_JJ ._.
-We_PRP were_VBD both_DT disappointed_VBN in_IN the_DT lack_NN of_IN flavor_NN in_IN their_PRP$ pasta_NN specials_NNS and_CC Linguine_NNP Fradiavolo_NNP ._.
-Another_DT concern_NN was_VBD that_IN while_IN we_PRP could_MD have_VB asked_VBN ,_, our_PRP$ fault_NN ,_, we_PRP did_VBD not_RB get_VB the_DT prices_NNS for_IN the_DT 1\/2_CD litre_NN of_IN wine_NN ._.
-A_DT glass_NN of_IN house_NN chianti_NNS is_VBZ $_$ 6.00_CD but_CC our_PRP$ waiter_NN suggested_VBD the_DT 1\/2_CD litre_NN which_WDT we_PRP found_VBD on_IN our_PRP$ bill_NN was_VBD $_$ 26.00_CD and_CC not_RB very_RB good_JJ at_IN that_DT ._.
-Our_PRP$ pasta_NN dishes_NNS were_VBD $_$ 21_CD and_CC $_$ 22_CD and_CC a_DT shared_VBN salad_NN was_VBD $_$ 15.25_CD ._.
-Added_VBN together_RB we_PRP spent_VBD $_$ 111.00_CD with_IN tax_NN &_CC tip_NN for_IN a_DT marginal_JJ dinner_NN ._.
-I_PRP doubt_VBP we_PRP will_MD be_VB back_RB ._.

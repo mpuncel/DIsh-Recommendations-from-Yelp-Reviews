@@ -1,9 +1,0 @@
-This_DT is_VBZ my_PRP$ new_JJ favorite_JJ restaurant_NN ._.
-The_DT food_NN is_VBZ Oh_UH ._.
-My_PRP$ ._.
-God_NNP ._.
-The_DT chef_NN is_VBZ clearly_RB a_DT genius_NN ._.
-The_DT wine_NN list_NN is_VBZ excellent_JJ ._.
-The_DT staff_NN are_VBP friendly_JJ ._.
-The_DT prices_NNS are_VBP reasonable_JJ ._.
-If_IN they_PRP had_VBD a_DT jacuzzi_NN ,_, I_PRP 'd_MD never_RB leave_VB ._.

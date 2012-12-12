@@ -1,4 +1,0 @@
-Cheap_JJ ,_, dirty_JJ Italian_JJ food_NN that_WDT is_VBZ perfect_JJ for_IN a_DT cash-strapped_JJ ,_, hungry_JJ student_NN on_IN the_DT go_NN ._.
-Compared_VBN to_TO a_DT ``_`` fine-dining_NN ''_'' Italian_JJ restaurant_NN ,_, they_PRP are_VBP obviously_RB not_RB very_RB good_JJ ,_, but_CC you_PRP get_VBP what_WP you_PRP expect_VBP !_.
-Do_VBP n't_RB go_VB here_RB expecting_VBG good_JJ service_NN or_CC great_JJ food_NN ._.
-My_PRP$ only_JJ complaint_NN is_VBZ the_DT calzones_NNS are_VBP often_RB cold_JJ in_IN the_DT center_NN ._.

@@ -1,8 +1,0 @@
-living_VBG in_IN NewYork_NNP ,_, you_PRP find_VBP out_RP what_WP good_JJ pizza_NN tastes_NNS like_IN ._.
-well_RB ,_, i_FW thought_VBD Pagliacci_NNP 's_POS was_VBD pretty_RB damn_RB good_JJ ._.
-but_CC now_RB ..._: not_RB so_RB much_JJ ._.
-overpriced_VBN ,_, the_DT crust_NN is_VBZ bammer_NN ,_, and_CC the_DT menu_NN is_VBZ really_RB small_JJ and_CC not_RB much_JJ to_TO pick_VB from_IN ._.
-they_PRP do_VBP n't_RB even_RB deliver_VB in_IN certain_JJ streets_NNS even_RB though_IN it_PRP 's_VBZ nearby_JJ ._.
-like_IN literally_RB only_RB 8_CD blocks_NNS away_RB ._.
-some_DT of_IN their_PRP$ specialties_NNS are_VBP worth_JJ trying_VBG ,_, though_RB ._.
-the_DT regular_JJ cheese_NN pizzas_NNS ..._: i_FW would_MD skip_VB ._.

@@ -1,6 +1,0 @@
-Mmmm_NNP ,_, Tutti_NNP Mangia_NNP ._.
-It_PRP 's_VBZ pricey_JJ ,_, but_CC great_JJ ._.
-The_DT pasta_NN dishes_NNS are_VBP all_DT fantastic_JJ and_CC the_DT crab_NN cakes_NNS are_VBP not_RB too_RB shabby_JJ either_CC ._.
-They_PRP also_RB have_VBP this_DT really_RB great_JJ rosemary_JJ bread_NN ._.
-I_PRP 've_VBP sweet-talked_VBN the_DT waiters_NNS into_IN giving_VBG me_PRP and_CC extra_JJ loaf_NN to_TO take_VB home_NN a_DT couple_NN of_IN times_NNS ._.
-It_PRP 's_VBZ THAT_WDT good_JJ ._.

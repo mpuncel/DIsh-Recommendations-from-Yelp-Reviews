@@ -1,5 +1,0 @@
-This_DT place_NN is_VBZ CLOSED_VBN !_.
-Sadly_RB ..._: but_CC I_PRP wish_VBP it_PRP was_VBD n't_RB ._.
-Excellent_JJ sandwiches_NNS ,_, and_CC perfect_JJ for_IN people_NNS watching_VBG ._.
-An_DT ``_`` American_JJ ''_'' food_NN place_NN opened_VBD up_RP instead_RB -LRB-_-LRB- it_PRP was_VBD terrible_JJ -RRB-_-RRB- and_CC soon_RB closed_VBD also_RB ._.
-Now_RB a_DT Chinese_JJ restaurant_NN has_VBZ opened_VBN up_RP there_RB ._.

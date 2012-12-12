@@ -1,8 +1,0 @@
-The_DT restaurant_NN is_VBZ beautiful_JJ ._.
-The_DT food_NN gets_VBZ a_DT B_NNP +_NN ._.
-I_PRP loved_VBD my_PRP$ pasta_NN and_CC broccolini_NNS ._.
-The_DT peach_NN tiramisu_NN dessert_NN was_VBD wonderful_JJ ._.
-The_DT fish_NN dish_VB my_PRP$ friend_NN ordered_VBN was_VBD good_JJ ,_, but_CC nothing_NN special_JJ ._.
-The_DT appetizers_NNS we_PRP ordered_VBD were_VBD forgettable_JJ -LRB-_-LRB- salumi_FW platter_NN ,_, octopus_NN ,_, and_CC something_NN else_RB I_PRP ca_MD n't_RB remember_VB -RRB-_-RRB- ._.
-The_DT service_NN was_VBD attentive_JJ and_CC professional_JJ ._.
-Like_IN another_DT reviewer_NN mentioned_VBN ,_, I_PRP noticed_VBD the_DT owner_NN walking_VBG around_IN the_DT restaurant_NN ,_, sizing_VBG up_RP the_DT patrons_NNS ,_, then_RB selectively_RB chatting_VBG up_RP older_JJR ,_, wealthier-looking_JJ guests_NNS ._.

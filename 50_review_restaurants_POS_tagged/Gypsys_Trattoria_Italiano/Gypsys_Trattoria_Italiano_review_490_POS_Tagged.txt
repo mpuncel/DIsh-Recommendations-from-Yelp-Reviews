@@ -1,3 +1,0 @@
-The_DT Funghi_NNP is_VBZ my_PRP$ all-time_JJ favorite_JJ -LRB-_-LRB- smoked_JJ mozzarella_NN &_CC mushrooms_NNS galore_VBP -RRB-_-RRB- ;_: Gypsy_NNP 's_POS Chicken_NNP is_VBZ also_RB really_RB good_JJ ._.
-Good_JJ prices_NNS for_IN great_JJ food_NN !_.
-Was_VBD a_DT staple_NN in_IN college_NN and_CC I_PRP always_RB stop_VB by_IN for_IN a_DT meal_NN when_WRB I_PRP 'm_VBP in_IN Berkeley_NNP ._.

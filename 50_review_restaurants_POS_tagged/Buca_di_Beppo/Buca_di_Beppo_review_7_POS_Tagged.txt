@@ -1,2 +1,0 @@
-Great_NNP Family_NNP nite_JJ dinner_NN place_NN ._.
-They_PRP give_VBP you_PRP lots_NNS of_IN great_JJ food_NN and_CC you_PRP will_MD have_VB some_DT to_TO take_VB home_NN !_.

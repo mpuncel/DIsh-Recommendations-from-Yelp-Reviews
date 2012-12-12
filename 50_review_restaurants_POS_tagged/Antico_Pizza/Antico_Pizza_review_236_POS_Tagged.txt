@@ -1,4 +1,0 @@
-They_PRP 're_VBP closed_VBN on_IN Sundays_NNPS ,_, by_IN the_DT way_NN ._.
-Do_VBP you_PRP know_VB what_WP today_NN is_VBZ ?_.
-That_DT 's_VBZ right_NN ._.
-Today_NN is_VBZ a_DT Sunday_NNP ._.

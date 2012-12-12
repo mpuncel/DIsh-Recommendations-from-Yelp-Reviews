@@ -1,9 +1,0 @@
-A_DT favorite_JJ ._.
-Love_NNP the_DT pizza_NN and_CC the_DT atmosphere_NN ._.
-Several_JJ things_NNS to_TO know_VB before_IN you_PRP go_VBP :_: -_: It_PRP is_VBZ not_RB Pizza_NNP Hut_NNP ._.
-Order_NNP the_DT way_NN the_DT it_PRP is_VBZ on_IN the_DT menu_NN ._.
--_: Beware_VB the_DT Diablo_NNP ._.
-It_PRP is_VBZ SPICY_NNP ._.
--_: If_IN you_PRP want_VBP a_DT table_NN ,_, go_VB early_RB ._.
--_: If_IN you_PRP do_VBP n't_RB go_VB early_RB ,_, be_VB prepared_VBN to_TO stand_VB at_IN the_DT counter_NN to_TO eat_VB ._.
-But_CC do_VBP n't_RB let_VB any_DT of_IN that_DT keep_VB you_PRP from_IN going_VBG -_: love_NN this_DT place_NN ._.

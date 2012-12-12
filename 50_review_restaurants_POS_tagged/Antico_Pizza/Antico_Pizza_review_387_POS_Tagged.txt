@@ -1,3 +1,0 @@
-Antico_NNP is_VBZ one_CD of_IN the_DT few_JJ places_NNS that_WDT lives_VBZ up_RP to_TO the_DT hype_NN ._.
-I_PRP am_VBP from_IN New_NNP York_NNP City_NNP ,_, so_RB good_JJ pizza_NN is_VBZ in_IN my_PRP$ blood_NN ._.
-I_PRP have_VBP n't_RB had_VBD real_JJ pizza_NN in_IN Atlanta_NNP ,_, and_CC Antico_NNP is_VBZ it_PRP !_.

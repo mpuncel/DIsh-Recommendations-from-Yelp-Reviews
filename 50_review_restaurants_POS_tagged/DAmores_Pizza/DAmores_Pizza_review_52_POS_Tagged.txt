@@ -1,6 +1,0 @@
-I_PRP got_VBD a_DT combo_NN slice_NN here_RB as_IN I_PRP needed_VBD something_NN to_TO eat_VB with_IN my_PRP$ beer_NN ._.
-The_DT crust_NN was_VBD nice_JJ and_CC light_JJ ._.
-The_DT sliced_JJ had_VBD plenty_NN of_IN toppings_NNS and_CC it_PRP was_VBD flavorful_JJ ._.
-The_DT cheese_NN made_VBD its_PRP$ presence_NN felt_VBD for_IN the_DT rather_RB small_JJ amount_NN ._.
-I_PRP definitely_RB come_VBP back_RB ._.
-I_PRP will_MD hit_VB up_RP Enzo_NNP one_CD more_JJR time_NN and_CC determine_VB my_PRP$ pizza_NN spot_NN ._.

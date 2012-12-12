@@ -1,7 +1,0 @@
-Antico_NNP ..._: I_PRP 've_VBP been_VBN to_TO Sally_NNP 's_POS Apizza_NNP ,_, Frank_NNP Pepe_NNP 's_POS -LRB-_-LRB- both_DT in_IN New_NNP Haven_NNP -RRB-_-RRB- ,_, and_CC Pizza_NNP Bianco_NNP -LRB-_-LRB- Phoenix_NNP -RRB-_-RRB- ,_, and_CC Antico_NNP beats_VBZ all_DT of_IN them_PRP hands_NNS down_RB ._.
-Atmosphere_NN ,_, staff_NN are_VBP excellent_JJ but_CC the_DT pizza_NN ..._: that_DT is_VBZ something_NN special_JJ ._.
-The_DT Diavalo_NNP pizza_NN is_VBZ second_JJ to_TO none_NN ._.
-Top_JJ with_IN a_DT little_JJ of_IN the_DT chopped_VBN garlic_NN that_WDT 's_VBZ on_IN the_DT table_NN and_CC you_PRP will_MD never_RB forget_VB this_DT meal_NN ._.
-If_IN there_EX are_VBP any_DT downside_NN to_TO Antico_NNP is_VBZ that_IN I_PRP would_MD n't_RB recommend_VB taking_VBG the_DT pizza_NN away_RB ._.
-I_PRP think_VBP that_IN the_DT fresh_JJ ingredients_NNS can_MD sometime_RB make_VB the_DT crust_NN a_DT little_JJ wet_JJ depending_VBG on_IN the_DT pie_NN you_PRP get_VBP ._.
-Just_RB a_DT matter_NN of_IN time_NN before_IN this_DT is_VBZ considered_VBN in_IN the_DT top_JJ 5_CD pizza_NN places_NNS in_IN the_DT country_NN ._.

@@ -1,5 +1,0 @@
-I_PRP visited_VBD Skylight_NNP Gardens_NNP during_IN the_DT soft_JJ opening_NN and_CC was_VBD remarkably_RB impressed_VBN with_IN the_DT venue_NN ._.
-The_DT food_NN was_VBD good_JJ ,_, but_CC the_DT overall_JJ experience_NN was_VBD amazing_JJ ._.
-The_DT venue_NN is_VBZ beautiful_JJ with_IN multiple_JJ rooms_NNS and_CC an_DT astonishing_JJ decor_NN ._.
-The_DT service_NN was_VBD wonderful_JJ and_CC the_DT owners_NNS were_VBD eager_JJ to_TO cater_VB to_TO all_DT requests_NNS and_CC suggestions_NNS ._.
-I_PRP am_VBP looking_VBG forward_RB to_TO my_PRP$ next_JJ visit_NN !_.

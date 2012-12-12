@@ -1,6 +1,0 @@
-Celebrated_JJ our_PRP$ company_NN 's_POS 10_CD year_NN anniversary_NN here_RB on_IN a_DT Saturday_NNP night_NN in_IN January_NNP and_CC everyone_NN in_IN the_DT party_NN loved_VBD this_DT restaurant_NN ._.
-The_DT space_NN is_VBZ nice_JJ and_CC elegant_JJ ,_, but_CC not_RB stuffy_JJ ._.
-The_DT food_NN was_VBD delicious_JJ ._.
-We_PRP had_VBD a_DT slight_JJ delay_NN in_IN getting_VBG seated_VBN ,_, but_CC otherwise_RB the_DT service_NN was_VBD excellent_JJ ._.
-I_PRP would_MD n't_RB really_RB consider_VB it_PRP overpriced_VBN ,_, but_CC it_PRP is_VBZ not_RB inexpensive_JJ by_IN any_DT means_NNS ._.
-I_PRP 've_VBP been_VBN to_TO several_JJ fine_JJ restaurants_NNS in_IN Atlanta_NNP and_CC this_DT might_MD be_VB my_PRP$ favorite_JJ so_RB far_RB ._.

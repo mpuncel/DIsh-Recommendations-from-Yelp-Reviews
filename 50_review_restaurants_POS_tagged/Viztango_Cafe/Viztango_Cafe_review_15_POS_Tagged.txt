@@ -1,6 +1,0 @@
-Great_NNP little_JJ place_NN for_IN Italian_JJ food_NN ._.
-Everything_NN I_PRP have_VBP tried_VBN there_EX is_VBZ delicious_JJ and_CC I_PRP have_VBP gone_VBN through_IN most_JJS of_IN the_DT menu_NN ._.
-The_DT pizza_NN is_VBZ good_JJ and_CC the_DT pasta_NN 's_POS are_VBP great_JJ ._.
-Their_PRP$ Chinese_JJ chicken_NN salad_NN is_VBZ very_RB good_JJ ._.
-Great_NNP place_NN to_TO go_VB for_IN some_DT Italian_JJ if_IN you_PRP do_VBP n't_RB want_VB to_TO go_VB to_TO a_DT restaurant_NN ._.
-Hey_NNP they_PRP make_VBP better_JJR food_NN than_IN some_DT other_JJ more_RBR expensive_JJ Italian_JJ places_NNS I_PRP have_VBP tried_VBN ._.

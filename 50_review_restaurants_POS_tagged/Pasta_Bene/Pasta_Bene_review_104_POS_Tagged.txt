@@ -1,5 +1,0 @@
-I_PRP had_VBD the_DT Chicken_NNP Marsala_NNP ._.
-The_DT sauce_NN tasted_VBD weird_JJ and_CC it_PRP did_VBD n't_RB taste_VB as_RB good_JJ as_IN Gypsy_NNP 's_POS ._.
-It_PRP 's_VBZ also_RB pricier_JJR ,_, about_IN $_$ 11_CD including_VBG tip_NN ._.
-The_DT service_NN was_VBD n't_RB anything_NN to_TO write_VB home_NN about_IN either_DT ._.
-I_PRP 'm_VBP not_RB sure_JJ why_WRB everyone_NN loves_VBZ this_DT place_NN ._.

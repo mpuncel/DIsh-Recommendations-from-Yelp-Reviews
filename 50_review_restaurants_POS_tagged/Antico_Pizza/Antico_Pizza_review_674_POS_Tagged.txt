@@ -1,3 +1,0 @@
-This_DT restaurant_NN needs_VBZ little_JJ introduction_NN ._.
-Well-known_JJ as_IN the_DT pizzeria_NN that_WDT uses_VBZ the_DT highest_JJS of_IN quality_NN ingredients_NNS and_CC baked_JJ in_IN its_PRP$ one-of-a-kind_JJ ovens_NNS ,_, this_DT place_NN is_VBZ the_DT ``_`` it_PRP ''_'' place_NN when_WRB you_PRP 're_VBP craving_NN a_DT healthy_JJ dosage_NN of_IN Italian_JJ pizza_NN ._.
-And_CC how_WRB can_MD you_PRP not_RB love_VBP a_DT BYOB_NNP place_NN ._.

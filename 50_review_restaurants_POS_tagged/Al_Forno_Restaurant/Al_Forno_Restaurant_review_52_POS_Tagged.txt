@@ -1,6 +1,0 @@
-The_DT food_NN was_VBD very_RB good_JJ ._.
-Grilled_JJ pizza_NN --_: amazing_JJ ._.
-The_DT bar_NN staff_NN sucked_VBD !_.
-Waited_VBD 10_CD mins_NNS at_IN the_DT bar_NN before_IN they_PRP ask_VBP me_PRP if_IN I_PRP wanted_VBD a_DT drink_NN -_: another_DT 5_CD mins_NNS for_IN my_PRP$ wine_NN ._.
---_: they_PRP used_VBD a_DT hot_JJ watery_JJ glass_NN directly_RB from_IN the_DT dishwasher_NN ._.
---_: ruined_VBD my_PRP$ drink_NN !!_NN Then_RB I_PRP noticed_VBD the_DT bartender_NN removing_VBG a_DT fruit-fly_RB with_IN a_DT straw_NN and_CC then_RB serving_VBG the_DT glass_NN of_IN white_JJ wine_NN -LRB-_-LRB- the_DT wine_NN that_WDT had_VBD the_DT fruit_NN fly_NN -RRB-_-RRB- Do_VBP n't_RB sit_VB at_IN the_DT bar_NN !!!!!_NN

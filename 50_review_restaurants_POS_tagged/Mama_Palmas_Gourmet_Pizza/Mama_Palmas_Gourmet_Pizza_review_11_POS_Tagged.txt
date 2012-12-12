@@ -1,4 +1,0 @@
-We_PRP got_VBD take-out_JJ pizza_NN ,_, so_IN I_PRP did_VBD n't_RB run_VB into_IN many_JJ of_IN the_DT problems_NNS others_NNS on_IN here_RB have_VBP had_VBN with_IN bad_JJ service_NN in_IN the_DT restaurant_NN ,_, just_RB the_DT taste_NN of_IN the_DT wood_NN oven_CD pizza_NN that_WDT came_VBD out_RP ._.
-We_PRP ordered_VBD a_DT pizza_NN with_IN roasted_JJ red_JJ peppers_NNS ,_, garlic_JJ ,_, and_CC caramelized_VBD onions_NNS ._.
-It_PRP came_VBD to_TO something_NN like_IN $_$ 25_CD ,_, which_WDT seems_VBZ steepish_JJ for_IN a_DT pizza_NN here_RB ,_, but_CC it_PRP was_VBD delicious_JJ none-the-less_JJ ._.
-It_PRP did_VBD taste_NN like_IN a_DT $_$ 20_CD pizza_NN ._.

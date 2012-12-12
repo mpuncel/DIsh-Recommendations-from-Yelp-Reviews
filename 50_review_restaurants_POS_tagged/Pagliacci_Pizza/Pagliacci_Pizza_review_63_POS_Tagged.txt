@@ -1,3 +1,0 @@
-i_FW remember_VBP when_WRB this_DT was_VBD the_DT only_JJ pagliacci_NN Location_NNP ._.
-i_FW think_VB one_CD day_NN this_DT location_NN will_MD be_VB as_IN popular_JJ as_IN the_DT first_JJ starbucks_NNS in_IN the_DT market_NN ._.
-No_DT matter_NN where_WRB pagliacci_NN is_VBZ they_PRP seem_VBP to_TO do_VB a_DT good_JJ job_NN ,_, I_PRP really_RB like_IN the_DT AGOG_NNP pizza_NN and_CC the_DT pesto_JJ pasta_NN salad_NN ._.

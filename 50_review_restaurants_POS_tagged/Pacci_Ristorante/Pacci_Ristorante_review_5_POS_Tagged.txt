@@ -1,7 +1,0 @@
-Pacci_NNP is_VBZ solid_JJ ._.
-The_DT avocado_NN citrus_NN salad_NN and_CC artichoke_NN flat-bread_NN appetizer_NN were_VBD each_DT excellent_JJ ._.
-The_DT mushroom_NN risotto_NN was_VBD one_CD of_IN the_DT best_JJS I_PRP ever_RB had_VBD -_: feigning_VBG for_IN more_JJR now_RB ._.
-The_DT tiramusu_NN dessert_NN was_VBD like_IN a_DT birthday_NN party_NN -_: lemon_NN ,_, traditional_JJ and_CC banana_NN cream_NN tiramusu_NN ,_, damn_UH !_.
-Service_NNP was_VBD spot-on_JJ with_IN a_DT substantial_JJ wine_NN list_NN ._.
-The_DT ambiance_NN has_VBZ a_DT lot_NN to_TO add_VB as_RB well_RB ._.
-Give_VB it_PRP a_DT try_NN !_.

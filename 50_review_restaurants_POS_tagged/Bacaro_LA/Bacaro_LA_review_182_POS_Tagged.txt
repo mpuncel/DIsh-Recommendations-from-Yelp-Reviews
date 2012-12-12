@@ -1,9 +1,0 @@
-the_DT food_NN here_RB is_VBZ amazing_JJ ._.
-you_PRP would_MD never_RB think_VB that_IN a_DT hamburger_NN could_MD taste_VB this_DT good_JJ ._.
-every_DT entree_FW i_FW had_VBD was_VBD delicious_JJ !_.
-what_WP stood_VBD out_RP was_VBD the_DT scallops_NNS ,_, hamburger_NN ,_, steak_NN ,_, and_CC cheese_NN plate_NN ._.
-lots_NNS of_IN wine_NN to_TO choose_VB from_IN ,_, but_CC they_PRP are_VBP in_IN another_DT language_NN so_RB i_FW just_RB randomly_RB chose_VBD one_CD ._.
-small_JJ quaint_NN little_JJ place_NN and_CC decorated_VBN with_IN wine_NN bottles_NNS on_IN the_DT ceiling_NN ._.
-you_PRP could_MD walk_VB right_JJ past_IN it_PRP and_CC not_RB even_RB know_VB it_PRP was_VBD there_RB ._.
-it_PRP is_VBZ the_DT perfect_JJ place_NN for_IN a_DT date_NN or_CC even_RB a_DT birthday_NN party_NN ._.
-highly_RB recommended_VBN ._.

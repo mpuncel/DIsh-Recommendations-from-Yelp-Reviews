@@ -1,8 +1,0 @@
-I_PRP am_VBP an_DT occasional_JJ diner_NN at_IN Teresa_NNP 's_POS and_CC have_VBP never_RB been_VBN disappointed_VBN ._.
-Last_JJ night_NN was_VBD no_DT exception_NN ._.
-The_DT food_NN is_VBZ good_JJ ,_, hot_JJ and_CC healthy_JJ --_: using_VBG organic_JJ products_NNS in_IN the_DT dishes_NNS they_PRP serve_VBP ._.
-Prices_NNS are_VBP reasonable_JJ ,_, our_PRP$ waitress_NN was_VBD charming_JJ ,_, and_CC the_DT meal_NN from_IN start_NN to_TO finish_VB was_VBD terrific_JJ ._.
-The_DT reason_NN I_PRP am_VBP only_RB an_DT occasional_JJ diner_NN there_EX is_VBZ because_IN it_PRP is_VBZ so_RB popular_JJ --_: almost_RB too_RB popular_JJ ._.
-And_CC since_IN they_PRP do_VBP n't_RB take_VB reservations_NNS you_PRP can_MD end_VB up_RP waiting_VBG a_DT long_JJ time_NN for_IN a_DT table_NN ._.
-If_IN you_PRP do_VBP n't_RB want_VB to_TO wait_VB ,_, get_VB there_RB early_RB ,_, really_RB early_RB ._.
-I_PRP 'd_MD give_VB this_DT five_CD stars_NNS if_IN it_PRP were_VBD n't_RB for_IN the_DT wait_NN ._.

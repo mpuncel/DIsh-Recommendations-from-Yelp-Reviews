@@ -1,3 +1,0 @@
-Max_NNP Soha_NNP ,_, we_PRP love_VBP you_PRP ._.
-Delicious_NNP fresh_JJ pastas_NNS and_CC wine_NN ._.
-Cute_JJ Italian_JJ waiters_NNS ._.

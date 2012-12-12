@@ -1,4 +1,0 @@
-It_PRP 's_VBZ okay_JJ ._.
-a_DT standard_JJ cheap_JJ italian_JJ place_NN ._.
-ok_RB food_NN at_IN fairly_RB good_JJ prices_NNS ._.
-Don_NNP '_POS ;_: t_VB even_RB think_VB of_IN bringing_VBG a_DT date_NN here_RB -LRB-_-LRB- it_PRP 's_VBZ like_IN a_DT canteen_NN -RRB-_-RRB- ,_, but_CC fine_NN for_IN a_DT quick_JJ cheap_JJ lunch_NN or_CC dinner_NN ._.

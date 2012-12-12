@@ -1,5 +1,0 @@
-This_DT is_VBZ a_DT great_JJ place_NN if_IN you_PRP want_VBP to_TO have_VB a_DT great_JJ pizza_NN with_IN a_DT great_JJ ambiance_NN ._.
-Sure_RB ,_, the_DT prices_NNS are_VBP high_JJ ,_, and_CC it_PRP surprises_NNS me_PRP that_IN restaurant-wise_JJ the_DT prices_NNS are_VBP higher_JJR on_IN Frederick_NNP Douglass_NNP than_IN on_IN Broadway_NNP from_IN 110_CD through_IN 125_CD ,_, but_CC I_PRP guess_VBP that_DT is_VBZ the_DT pitfall_NN of_IN an_DT upcoming_JJ neighborhood_NN ._.
-If_IN you_PRP go_VBP in_IN a_DT group_NN of_IN 3_CD and_CC order_VB the_DT large_JJ ,_, then_RB it_PRP 's_VBZ just_RB perfect_JJ !_.
-The_DT wait_NN staff_NN is_VBZ attentive_JJ and_CC extremely_RB sweet_JJ and_CC the_DT pizza_NN was_VBD just_RB delicious_JJ ._.
-Try_VB and_CC finish_VB your_PRP$ pizza_NN though_IN as_IN it_PRP does_VBZ n't_RB taste_VB as_RB good_JJ when_WRB you_PRP re-heat_VBP it_PRP back_RB home_NN ._.

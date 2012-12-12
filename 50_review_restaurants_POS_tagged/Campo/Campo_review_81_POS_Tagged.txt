@@ -1,6 +1,0 @@
-I_PRP happened_VBD upon_IN Campo_NNP when_WRB I_PRP was_VBD looking_VBG for_IN an_DT outdoor_JJ place_NN for_IN brunch_NN ._.
-It_PRP happened_VBD to_TO be_VB Mother_NNP 's_POS Day_NNP ,_, so_IN I_PRP was_VBD surprised_VBN to_TO find_VB an_DT open_JJ table_NN ._.
-The_DT service_NN was_VBD stellar_JJ !_.
-The_DT meal_NN was_VBD done_VBN to_TO perfection_NN !_.
-I_PRP had_VBD their_PRP$ signature_NN Benedict_NNP which_WDT was_VBD on_IN grilled_JJ focacia_NN with_IN prosciutto_NN and_CC a_DT divine_JJ peppery_NN hollandaise_NN ._.
-The_DT meal_NN was_VBD completed_VBN with_IN their_PRP$ truffle_NN parmesan_NN fries_NNS which_WDT was_VBD the_DT crunchy_JJ indulgence_NN to_TO round_VB off_RP my_PRP$ savory_JJ meal_NN ._.

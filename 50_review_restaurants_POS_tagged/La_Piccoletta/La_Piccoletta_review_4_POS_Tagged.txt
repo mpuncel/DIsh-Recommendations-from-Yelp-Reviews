@@ -1,5 +1,0 @@
-Great_NNP little_JJ place_NN to_TO go_VB in_IN Claremont_NNP for_IN some_DT Italian_JJ food_NN ._.
-It_PRP was_VBD refreshing_VBG to_TO get_VB a_DT pasta_NN that_WDT was_VBD not_RB drenched_VBN in_IN some_DT sauce_NN to_TO rely_VB on_IN for_IN flavor_NN ._.
-I_PRP wish_VBP they_PRP expanded_VBD their_PRP$ seafood_NN options_NNS ,_, but_CC then_RB again_RB ._. ._.
-why_WRB mess_NN with_IN a_DT good_JJ thing_NN ._.
-Kind_NNP of_IN pricey_JJ ,_, but_CC good_JJ for_IN special_JJ occasions_NNS ._.

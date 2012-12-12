@@ -1,6 +1,0 @@
-Dear_RB Cinderella_NNP 's_POS ,_, Thank_VB you_PRP for_IN always_RB delivering_VBG my_PRP$ pizza_NN in_IN under_IN thirty_CD minutes_NNS ,_, no_DT matter_NN how_WRB late_JJ it_PRP is_VBZ or_CC how_WRB incoherent_JJ I_PRP sound_VBP over_IN the_DT phone_NN ._.
-Thank_VB you_PRP ,_, delivery_NN guys_NNS ,_, for_IN helping_VBG me_PRP to_TO chase_VB down_RP my_PRP$ cat_NN when_WRB she_PRP escapes_VBZ out_RP my_PRP$ open_JJ front_JJ door_NN while_IN I_PRP try_VBP to_TO sign_VB the_DT pizza_NN receipt_NN in_IN a_DT legible_JJ fashion_NN ._.
-Thanks_NNS for_IN meeting_NN me_PRP just_RB as_IN I_PRP get_VBP home_RB from_IN the_DT bar_NN ,_, and_CC in_IN fact_NN accepting_VBG that_IN I_PRP order_VBP pizza_NN FROM_IN the_DT bar_NN ,_, and_CC do_VB my_PRP$ best_JJS to_TO time_VB it_PRP right_RB ,_, though_IN usually_RB that_DT does_VBZ n't_RB work_VB out_RP ._.
-You_PRP never_RB seem_VBP to_TO mind_VB ..._: maybe_RB it_PRP 's_VBZ the_DT large_JJ drunken_JJ tips_NNS I_PRP shove_VBP at_IN you_PRP ..._: but_CC nevertheless_RB thanks_NNS for_IN never_RB skimping_VBG on_IN the_DT cheese_NN ,_, and_CC for_IN not_RB blacklisting_NN me_PRP after_IN the_DT night_NN I_PRP fell_VBD asleep_RB waiting_VBG for_IN my_PRP$ pizza_NN ._.
-I_PRP love_VBP you_PRP Cinderella_NNP 's_POS --_: see_VB you_PRP this_DT weekend_NN !_.
-Kate_NNP

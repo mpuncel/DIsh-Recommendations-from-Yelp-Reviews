@@ -1,1 +1,0 @@
-went_VBD there_RB with_IN group_NN from_IN work_NN ;_: service_NN great_JJ ,_, food_NN great_JJ ,_, food_NN kept_VBD coming_VBG ;_: every_DT single_JJ item_NN was_VBD great_JJ ,_, -LRB-_-LRB- OK_UH so_IN I_PRP did_VBD not_RB try_VB the_DT pasta_NN course_NN -RRB-_-RRB- so_RB many_JJ items_NNS I_PRP lost_VBD track_NN

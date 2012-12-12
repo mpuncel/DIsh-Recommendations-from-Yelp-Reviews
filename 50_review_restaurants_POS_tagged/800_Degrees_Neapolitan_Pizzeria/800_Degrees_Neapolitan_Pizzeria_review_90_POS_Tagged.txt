@@ -1,6 +1,0 @@
-5_CD Stars_NNP for_IN 800_CD degrees_NNS ._.
-This_DT is_VBZ a_DT fantastic_JJ concept_NN ._.
-Quick_NNP ,_, gourmet_NN toppings_NNS ,_, cheap_JJ ._.
-Thin_JJ crust_NN ,_, chewy_NN ,_, slighty_NN crispy_JJ towards_IN the_DT edges_NNS ._.
-The_DT only_JJ change_NN I_PRP would_MD make_VB is_VBZ to_TO possibly_RB keep_VB it_PRP in_IN a_DT few_JJ seconds\/minute_JJ longer_RBR so_IN it_PRP 's_VBZ more_JJR crisp_JJ and_CC less_RBR floppy_JJ ._.
-But_CC I_PRP definitely_RB will_MD come_VB back_RB when_WRB i_FW 'm_VBP on_IN the_DT westside_NN !_.

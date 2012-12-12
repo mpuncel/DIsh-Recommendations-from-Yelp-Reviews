@@ -1,2 +1,0 @@
-Really_RB good_JJ food_NN ..._: Service_NNP is_VBZ great_JJ ..._: I_PRP love_VBP the_DT chicken_NN kabob_NN ..._: yummmm_NN !!_NN My_PRP$ mom_NN loved_VBD their_PRP$ rice_NN ..._: salads_NNS are_VBP good_JJ 2_CD ..._: UCLA_NNP students_NNS get_VBP a_DT discount_NN !_.
-=_SYM -RRB-_-RRB-

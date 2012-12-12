@@ -1,5 +1,0 @@
-Gypsy_NNP 's_POS is_VBZ excellent_JJ ._.
-Tremendous_JJ pasta_NN ,_, very_RB affordable_JJ ._.
-I_PRP would_MD eat_VB there_RB every_DT day_NN if_IN carbs_NNS were_VBD the_DT new_JJ protein_NN ._.
-Do_VBP n't_RB go_VB here_RB if_IN you_PRP hate_VBP fresh_JJ bread_NN with_IN fresh_JJ roasted_JJ garlic_NN that_WDT comes_VBZ with_IN every_DT dish_NN ._.
-Might_NNP I_PRP recommend_VBP :_: Godfather_NNP 's_POS favorite_JJ Chicken_NNP Piccata_NNP Bronx_NNP Tale_NNP

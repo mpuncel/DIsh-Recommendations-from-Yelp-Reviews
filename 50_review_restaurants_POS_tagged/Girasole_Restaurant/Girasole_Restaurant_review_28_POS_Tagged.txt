@@ -1,2 +1,0 @@
-Tiny_NNP Italian_NNP place_NN in_IN Shadyside_NNP ,_, Girasole_NNP has_VBZ a_DT tiny_JJ menu_NN with_IN a_DT few_JJ notable_JJ items_NNS ._.
-Girasole_NNP is_VBZ worth_JJ it_PRP when_WRB one_CD craves_VBZ Italian_JJ fare_NN with_IN minimal_JJ fuss_NN ._.

@@ -1,7 +1,0 @@
-I_PRP had_VBD an_DT average_JJ experience_NN here_RB ._.
-The_DT lasagna_NN was_VBD 3_CD stars_NNS worthy_JJ ._.
-Service_NNP was_VBD nonexistent_JJ ._.
-I_PRP liked_VBD how_WRB I_PRP could_MD see_VB some_DT of_IN the_DT chefs_NNS prepare_VBP the_DT pasta_NN dishes_NNS in_IN the_DT kitchen_NN ._.
-My_PRP$ greatest_JJS complaint_NN would_MD be_VB how_WRB nasty_JJ the_DT left_VBN over_RP lasagna_NN tasted_VBD ._.
-I_PRP 'm_VBP eating_VBG it_PRP right_RB now_RB ._.
-:_: -LRB-_-LRB-

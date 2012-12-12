@@ -1,7 +1,0 @@
-This_DT is_VBZ probably_RB one_CD of_IN my_PRP$ favorite_JJ restaurants_NNS in_IN all_DT of_IN Berkeley_NNP ._.
-Even_RB though_IN it_PRP 's_VBZ hard_JJ to_TO understand_VB them_PRP through_IN their_PRP$ Italian_JJ accent_NN -LRB-_-LRB- I_PRP think_VBP ?_. -RRB-_-RRB-
-,_, they_PRP make_VBP every_DT item_NN on_IN their_PRP$ menu_NN with_IN perfection_NN ._.
-And_CC all_DT of_IN the_DT pastas_NNS come_VBP with_IN a_DT delicious_JJ slice_NN of_IN bread_NN ._.
-The_DT price_NN for_IN a_DT meal_NN is_VBZ around_IN $_$ 7_CD ,_, but_CC it_PRP is_VBZ really_RB worth_JJ every_DT dollar_NN ._.
-And_CC they_PRP just_RB got_VBD their_PRP$ seats_NNS and_CC tables_NNS refurnished_VBN ._.
-:_: -RRB-_-RRB-

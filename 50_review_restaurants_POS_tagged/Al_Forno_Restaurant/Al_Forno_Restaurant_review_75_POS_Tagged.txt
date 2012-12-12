@@ -1,4 +1,0 @@
-I_PRP saw_VBD the_DT Dumb_NNP and_CC Dumber_NNP Shaggin_NNP '_POS Wagon_NNP there_RB once_RB ._.
-Such_JJ great_JJ food_NN ._.
-Make_NNP sure_JJ to_TO check_VB out_RP their_PRP$ cookbooks_NNS ._.
-Everything_NN about_IN Al_NNP Forno_NNP is_VBZ amazing_JJ

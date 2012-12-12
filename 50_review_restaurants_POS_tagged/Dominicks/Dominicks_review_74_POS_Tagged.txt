@@ -1,4 +1,0 @@
-Dominick_NNP 's_POS serves_VBZ some_DT of_IN the_DT best_JJS sangria_NN in_IN town_NN and_CC a_DT mean_JJ cocktail_NN called_VBN Constant_JJ Buzz_NN ._.
-If_IN you_PRP like_IN a_DT sweet_JJ strawberry_NN cocktail_NN ,_, have_VBP the_DT Constant_JJ Buzz_NN ._.
-I_PRP 've_VBP never_RB really_RB eaten_VBN anything_NN here_RB so_RB ca_MD n't_RB say_VB much_JJ about_IN the_DT food_NN ._.
-I_PRP do_VBP think_VB its_PRP$ a_DT little_JJ expensive_JJ though_IN ._.

@@ -1,3 +1,0 @@
-Average_JJ food_NN and_CC great_JJ delivery_NN service_NN ._.
-Sometimes_RB is_VBZ the_DT only_JJ delivery_NN place_NN open_RB late_RB at_IN night_NN ._.
-It_PRP has_VBZ saved_VBN me_PRP a_DT couple_NN of_IN times_NNS ._.

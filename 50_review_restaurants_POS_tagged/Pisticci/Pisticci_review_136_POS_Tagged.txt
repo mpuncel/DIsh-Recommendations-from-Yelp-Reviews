@@ -1,4 +1,0 @@
-Cute_JJ restaurant_NN ._.
-Tasty_JJ and_CC affordable_JJ pasta_NN in_IN morningside_NN heights_NNS ._.
-Waitresses_NNS were_VBD very_RB friendly_JJ and_CC helpful_JJ with_IN suggestions_NNS for_IN food_NN on_IN the_DT menu_NN ._.
-Gives_NNP Max_NNP Soha_NNP a_DT run_NN for_IN its_PRP$ money_NN ._.

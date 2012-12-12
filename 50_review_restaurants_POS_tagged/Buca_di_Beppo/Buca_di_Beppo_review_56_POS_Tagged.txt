@@ -1,8 +1,0 @@
-Fun_NN place_NN to_TO dine_VB family_NN style_NN ._.
-Everyone_NN orders_NNS their_PRP$ favorite_NN ._.
-Unless_IN you_PRP are_VBP super_JJ famished_VBN or_CC want_VB take_VB home_NN food_NN for_IN days_NNS ,_, order_NN the_DT smaller_JJR size_NN ._.
-Will_MD still_RB satisfy_VB the_DT heartiest_JJS of_IN appetites_NNS when_WRB you_PRP afford_VBP to_TO do_VB the_DT simple_JJ carb_NN splurge_NN -LRB-_-LRB- I_PRP usually_RB make_VBP sure_JJ I_PRP 've_VBP pressed_VBN major_JJ weights_NNS at_IN least_JJS an_DT hour_NN or_CC two_CD in_IN advance_NN of_IN dining_VBG here_RB ,_, much_RB as_IN I_PRP would_MD 've_VB before_IN major_JJ holiday_NN feasts_NNS in_IN order_NN to_TO maximize_VB enjoyment_NN ,_, minimize_VBP weight_NN gain_NN &_CC guilt_NN -RRB-_-RRB- ._.
-Family_NNP favorites_NNS include_VBP garlic_JJ bread_NN ,_, apple_NN walnut_NN gorgonzola_NN salad_NN -LRB-_-LRB- largest_JJS on_IN both_DT of_IN these_DT -RRB-_-RRB- ,_, eggplant_JJ parmesan_NN ,_, spaghetti_NNS with_IN world_NN 's_POS largest_JJS meatball_NN ,_, pepperoni_NNS pizza_NN ,_, lasagna_NN ,_, bottle_NN of_IN chianti_NNS ._.
-Gather_VB favorite_JJ family_NN &_CC friends_NNS to_TO share_VB &_CC you_PRP 're_VBP certain_JJ to_TO let_VB the_DT good_JJ times_NNS roll_NN ._.
-Great_NNP catering_VBG service_NN as_RB well_RB !_.
-Everyone_NN goes_VBZ home_NN happy_JJ &_CC satiated_NN &_CC I_PRP get_VBP to_TO be_VB a_DT star_NN hostess_NN without_IN sweating_NN the_DT prep_NN &_CC cooking_NN !_.

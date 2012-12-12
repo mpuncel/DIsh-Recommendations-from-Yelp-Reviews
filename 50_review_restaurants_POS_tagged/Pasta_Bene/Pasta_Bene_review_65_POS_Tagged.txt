@@ -1,7 +1,0 @@
-It_PRP 's_VBZ a_DT nice_JJ little_JJ romantic_JJ Italian_JJ restaurant_NN ._.
-Not_RB pretentious_JJ ,_, and_CC pretty_RB casual_JJ ._.
-Great_NNP for_IN groups_NNS ._.
-Despite_IN being_VBG located_VBN in_IN the_DT university_NN section_NN of_IN the_DT city_NN ,_, the_DT clientèle_JJ range_NN from_IN college_NN students_NNS to_TO young_JJ professionals_NNS ._.
-The_DT food_NN is_VBZ great_JJ ._.
-Generous_JJ portions_NNS for_IN the_DT price_NN ,_, and_CC always_RB pleasing_VBG to_TO the_DT tongue_NN ._.
-All_DT in_IN all_DT ,_, a_DT place_NN to_TO go_VB for_IN a_DT casual_JJ date_NN night_NN ,_, or_CC with_IN a_DT group_NN of_IN friends_NNS ._.

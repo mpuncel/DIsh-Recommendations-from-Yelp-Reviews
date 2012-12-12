@@ -1,5 +1,0 @@
-We_PRP always_RB try_VBP to_TO eat_VB here_RB when_WRB we_PRP are_VBP in_IN town_NN !_.
-We_PRP love_VBP the_DT food_NN and_CC the_DT wine_NN ._.
-Nice_NNP Italian_NNP selections_NNS ,_, friendly_JJ servers_NNS ._.
-Try_VB sitting_VBG outside_IN when_WRB the_DT weather_NN is_VBZ nice_JJ ._.
-Great_NNP place_NN to_TO enjoy_VB some_DT seasonal_JJ favorites_NNS as_RB well_RB ._.

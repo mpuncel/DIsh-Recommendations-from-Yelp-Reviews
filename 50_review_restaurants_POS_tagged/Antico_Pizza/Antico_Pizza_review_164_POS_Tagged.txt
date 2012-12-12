@@ -1,5 +1,0 @@
-Ok_NNP Italians_NNPS I_PRP get_VBP it_PRP now_RB ._.
-Neapolitan_NNP pizza_NN is_VBZ the_DT best_JJS ._.
-While_IN your_PRP$ pizza_NN is_VBZ amazingly_RB good_JJ ``_`` the_DT hurry_NN up_IN eat_VB it_PRP already_RB ''_'' rush_NN and_CC crowded_JJ space_NN I_PRP think_VBP hurts_VBZ the_DT overall_JJ experience_NN ._.
-I_PRP 've_VBP been_VBN and_CC was_VBD nothing_NN short_JJ of_IN being_VBG blown_VBN away_RB ,_, but_CC I_PRP find_VBP it_PRP hard_JJ to_TO return_VB because_IN it_PRP 's_VBZ such_JJ a_DT production_NN ._.
-It_PRP 's_VBZ not_RB a_DT place_NN that_IN you_PRP can_MD just_RB pop_VB in_IN because_IN of_IN the_DT crowds_NNS so_RB unfortunately_RB my_PRP$ pizza_NN dollars_NNS do_VBP n't_RB return_VB as_RB often_RB as_IN they_PRP should_MD ._.

@@ -1,5 +1,0 @@
-Great_NNP place_NN for_IN a_DT bottle_NN of_IN wine_NN and_CC tapas_NNS ._.
-Great_JJ owners_NNS who_WP pay_VBP real_JJ attention_NN to_TO their_PRP$ patrons_NNS ._.
-Can_MD be_VB a_DT bit_NN loud_JJ during_IN the_DT school_NN year_NN but_CC absolutely_RB the_DT best_JJS place_NN to_TO be_VB during_IN summer_NN and_CC winter_NN break_NN ._.
-Highly_NNP recommended_VBD !_.
-Great_JJ prices_NNS too_RB ._.

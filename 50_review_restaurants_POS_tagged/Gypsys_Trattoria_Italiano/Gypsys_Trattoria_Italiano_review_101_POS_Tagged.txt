@@ -1,6 +1,0 @@
-first_RB and_CC foremost_RB ._.
-I_PRP heart_NN greasy_NN Italian_JJ food_NN ._.
-second_JJ ,_, i_FW love_VBP a_DT place_NN that_WDT gives_VBZ you_PRP a_DT big_JJ lump_NN of_IN garlic_NN on_IN their_PRP$ bread_NN ,_, its_PRP$ like_IN they_PRP know_VBP me_PRP ._.
-This_DT is_VBZ a_DT quality_NN college_NN food_NN stop_VB that_DT is_VBZ always_RB pretty_RB busy_JJ ._.
-Which_WDT is_VBZ my_PRP$ only_JJ knock_VBP -LRB-_-LRB- but_CC they_PRP ca_MD n't_RB help_VB it_PRP -RRB-_-RRB- some_DT times_NNS its_PRP$ kinda_NN a_DT long_JJ wait_NN for_IN the_DT food_NN ou_NN ,_, and_CC they_PRP should_MD serve_VB vino_NN still_RB a_DT winner_NN though_IN Chicken_NNP Parmesan_NNP ._.
-mmm_NN

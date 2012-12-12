@@ -1,2 +1,0 @@
-The_DT food_NN is_VBZ good_JJ ,_, pretty_JJ hearty_NN compared_VBN to_TO the_DT other_JJ Italian_JJ places_NNS around_IN ._.
-Service_NNP was_VBD kind_NN of_IN slow_JJ but_CC maybe_RB it_PRP 's_VBZ just_RB because_IN it_PRP 's_VBZ summer_NN time_NN ._.

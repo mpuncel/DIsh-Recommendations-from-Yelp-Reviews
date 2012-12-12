@@ -1,6 +1,0 @@
-I_PRP like_VBP coming_VBG here_RB for_IN my_PRP$ lunch_NN break_NN because_IN I_PRP need_VBP food_NN fast_RB ._.
-The_DT pizza_NN is_VBZ good_JJ and_CC the_DT employees_NNS are_VBP friendly_JJ ._.
-My_PRP$ favorite_JJ slices_NNS lately_RB have_VBP been_VBN their_PRP$ tomato_NN gorgonzola_NN and_CC the_DT crostata_NN ,_, which_WDT was_VBD a_DT summer_NN seasonal_JJ pizza_NN with_IN carmelized_JJ onions_NNS ._.
-The_DT tomato_NN sauce_NN here_RB is_VBZ really_RB nice_JJ ,_, just_RB a_DT tiny_JJ hint_NN of_IN spice_NN and_CC well_RB seasoned_JJ ._.
-It_PRP 's_VBZ got_VBN nice_JJ decor_NN -_: film_NN posters_NNS all_DT in_IN Italian_JJ and_CC fresh_JJ flowers_NNS on_IN the_DT tables_NNS ._.
-I_PRP 'm_VBP also_RB really_RB into_IN their_PRP$ magic_JJ soda_NN machine_NN ,_, which_WDT lets_VBZ you_PRP select_VBP weird_JJ combinations_NNS of_IN soda_NN -LRB-_-LRB- raspberry_NN coke_NN ,_, peach_NN sprite_NN ,_, vanilla_NN root_NN beer_NN ,_, etc._FW -RRB-_-RRB- ._.

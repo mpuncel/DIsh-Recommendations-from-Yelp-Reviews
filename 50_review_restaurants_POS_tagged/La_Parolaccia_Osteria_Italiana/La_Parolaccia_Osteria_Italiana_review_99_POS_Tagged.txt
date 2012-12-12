@@ -1,8 +1,0 @@
-Have_NNP visited_VBD 4_CD times_NNS but_CC now_RB sworn_VBN off_RP for_IN good_JJ ._.
-Very_RB variable_JJ but_CC never_RB great_JJ and_CC overall_JJ very_RB bed_NN ._.
-Food_NNP ranges_VBZ from_IN ok_NN but_CC not_RB worth_JJ the_DT price_NN to_TO really_RB ,_, really_RB bad_JJ ._.
-Last_JJ time_NN they_PRP brought_VBD a_DT different_JJ meal_NN than_IN we_PRP ordered_VBD ._.
-On_IN questioning_VBG ,_, never_RB quite_RB admitted_VBD it_PRP and_CC said_VBD that_IN what_WP we_PRP were_VBD brought_VBN was_VBD better_RBR so_IN they_PRP had_VBD updated_VBN the_DT dish_NN ._.
-The_DT dish_NN as_IN served_VBN was_VBD like_IN bad_JJ chef_NN boyardie_NN ._.
-I_PRP would_MD think_VB some_DT sort_NN of_IN admission_NN and_CC apology_NN would_MD be_VB in_IN order_NN ,_, but_CC nothing_NN ._.
-In_IN sum_NN ,_, still_RB have_VBP a_DT bad_JJ taste_NN in_IN my_PRP$ mouth_NN from_IN both_DT the_DT food_NN ,_, mostly_RB ,_, and_CC the_DT service_NN too_RB ._.

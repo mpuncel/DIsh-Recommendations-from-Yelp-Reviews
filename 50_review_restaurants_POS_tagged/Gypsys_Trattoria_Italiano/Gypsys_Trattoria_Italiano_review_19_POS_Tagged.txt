@@ -1,7 +1,0 @@
-I_PRP wish_VBP San_NNP Francisco_NNP had_VBD a_DT place_NN like_IN Gypsy_NNP 's_POS !_.
-A_DT friend_NN brought_VBD me_PRP here_RB after_IN rock_NN climbing_VBG ,_, swearing_NN that_IN the_DT combination_NN of_IN price_NN and_CC quality_NN was_VBD unbeatable_JJ ._.
-We_PRP both_DT had_VBD Gypsy_NNP 's_POS Chicken_NNP by_IN his_PRP$ recommendation_NN ._.
-Penne_NNP ,_, cream_NN sauce_NN ,_, mushroom_NN ,_, garlic_JJ and_CC chicken_NN ._.
-Amazing_JJ !_.
-The_DT garlic_JJ bread_NN was_VBD awesome_JJ ,_, too_RB -_: actual_JJ roasted_JJ garlic_NN on_IN bread_NN ._.
-I_PRP 'll_MD be_VB coming_VBG back_RB to_TO Gypsy_NNP 's_POS anytime_RB I_PRP 'm_VBP in_IN Berkeley_NNP !_.

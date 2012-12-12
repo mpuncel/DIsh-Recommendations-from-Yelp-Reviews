@@ -1,4 +1,0 @@
-Terrible_JJ service_NN for_IN my_PRP$ friend_NN 's_POS birthday_NN ,_, food_NN took_VBD about_RB three_CD hours_NNS to_TO arrive_VB for_IN a_DT table_NN of_IN 20_CD ,_, even_RB when_WRB it_PRP was_VBD a_DT private_JJ room_NN with_IN two_CD waiters_NNS ``_`` serving_VBG ''_'' us_PRP ._.
-Check_VB was_VBD overpriced_VBN because_IN they_PRP were_VBD charging_VBG for_IN food_NN that_IN never_RB arrived_VBN ,_, and_CC service_NN throughout_IN was_VBD just_RB awful_JJ ..._: they_PRP were_VBD blaming_VBG other_JJ customers_NNS for_IN being_VBG ``_`` busy_JJ ''_'' to_TO explain_VB the_DT lack_NN of_IN food_NN -LRB-_-LRB- besides_IN bread_NN and_CC water_NN -RRB-_-RRB- and_CC customer_NN attention_NN ._.
-Really_RB ,_, really_RB pathetic_JJ and_CC very_RB rude_JJ staff_NN ._.
-They_PRP waited_VBD an_DT hour_NN just_RB to_TO get_VB the_DT check_NN ._.

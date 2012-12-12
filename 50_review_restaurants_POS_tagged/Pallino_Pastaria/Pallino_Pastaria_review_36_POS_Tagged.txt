@@ -1,3 +1,0 @@
-The_DT Neopolitan_NNP style_NN margherita_NN pizza_NN was_VBD exactly_RB what_WP I_PRP was_VBD craving_NN ._.
-The_DT chocolate_NN gelato_NN was_VBD decadently_RB delicious_JJ !_.
-I_PRP will_MD definitely_RB be_VB back_RB !_.

@@ -1,6 +1,0 @@
-I_PRP should_MD start_VB out_RP by_IN stating_VBG that_IN I_PRP grew_VBD up_RP in_IN NYC_NNP so_IN my_PRP$ expectancy_NN for_IN Italian_JJ food_NN is_VBZ a_DT rather_RB high_JJ bar_NN ._.
-My_PRP$ father_NN and_CC I_PRP went_VBD to_TO this_DT restaurant_NN on_IN a_DT whim_NN and_CC I_PRP was_VBD not_RB impressed_VBN at_IN all_DT ._.
-The_DT food_NN was_VBD average_JJ at_IN best_JJS ._.
-I_PRP have_VBP read_VBN a_DT few_JJ of_IN the_DT reviews_NNS and_CC people_NNS are_VBP taking_VBG about_RB how_WRB cute_JJ it_PRP is_VBZ that_IN they_PRP have_VBP European_JJ stuff_NN in_IN the_DT front_NN of_IN the_DT place_NN ._.
-That_DT is_VBZ all_DT esthetics_NNS to_TO me_PRP and_CC all_PDT that_DT really_RB matters_VBZ is_VBZ the_DT quality_NN of_IN the_DT food_NN ._.
-The_DT food_NN was_VBD nothing_NN to_TO write_VB home_NN about_IN ,_, and_CC certainly_RB not_RB memorable_JJ ._.

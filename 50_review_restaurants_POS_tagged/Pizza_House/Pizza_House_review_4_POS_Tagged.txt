@@ -1,3 +1,0 @@
-Great_NNP PIzza_NNP !!_NNP The_NNP crust_NN texture_NN is_VBZ perfect_JJ as_IN is_VBZ the_DT sauce_NN ._.
-The_DT Sicilian_NNP style_NN is_VBZ also_RB amazing_JJ ._.
-In_IN fact_NN I_PRP just_RB ate_VBD there_EX again_RB and_CC it_PRP might_MD be_VB even_RB better_RBR !_.

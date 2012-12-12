@@ -1,1 +1,0 @@
-Food_NNP is_VBZ good_JJ but_CC the_DT service_NN is_VBZ crap_NN ._.

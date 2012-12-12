@@ -1,6 +1,0 @@
-I_PRP had_VBD the_DT Margherita_NNP base_NN with_IN roasted_JJ garlic_NN ._.
-Meh_NNP ._.
-As_IN one_CD commentor_NN stated_VBN ,_, it_PRP was_VBD salty_NN ,_, and_CC as_RB many_JJ have_VBP mentioned_VBN ,_, the_DT crust_NN somewhat_RB soggy_JJ ._.
-Along_IN with_IN the_DT mediocre_JJ pizza_NN ,_, I_PRP ordered_VBD a_DT chopped_VBN salad_NN ._.
-It_PRP was_VBD terrible_JJ !_.
-I_PRP expected_VBD fresh_JJ chopped_VBN veggies_NNS like_IN ,_, tomatoes_NNS ,_, red_JJ onions_NNS ,_, romaine_NN ,_, cucumber_NN ,_, but_CC it_PRP was_VBD basically_RB lettuce_NN ,_, chick_NN peas_NNS and_CC sliced_VBD pepperoni_NNS ._.

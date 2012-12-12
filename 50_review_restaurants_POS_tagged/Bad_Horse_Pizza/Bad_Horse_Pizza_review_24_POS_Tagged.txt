@@ -1,9 +1,0 @@
-How_WRB this_DT place_NN is_VBZ still_RB in_IN business_NN while_IN charging_VBG 18_CD dollars_NNS for_IN a_DT four_CD slice_NN 10_CD ''_'' pizza_NN -LRB-_-LRB- with_IN only_RB cheese_NN -RRB-_-RRB- makes_VBZ no_DT sense_NN to_TO me_PRP ._.
-I_PRP 'd_MD possibly_RB give_VB it_PRP a_DT pass_NN if_IN the_DT food_NN was_VBD anywhere_RB near_IN as_RB good_JJ as_IN Roberta_NNP 's_POS or_CC Motorino_NNP or_CC even_RB L'asso_NNP ,_, but_CC it_PRP 's_VBZ not_RB ._.
-even_RB ._.
-close_RB ._.
-While_IN I_PRP thought_VBD the_DT parmesan\/red_VBN pepper\/oregano_NN shakers_NNS were_VBD placed_VBN on_IN the_DT table_NN with_IN some_DT irony_NN ,_, I_PRP later_RB realized_VBD that_IN this_DT faux_JJ artisan_JJ pizza_NN needed_VBN any_DT help_NN it_PRP could_MD get_VB ._.
-The_DT last_JJ time_NN I_PRP used_VBD industrial_JJ grade_NN parmesan_NN on_IN a_DT pizza_NN was_VBD a_DT dollar_NN slice_NN at_IN 2Bros_NNS and_CC I_PRP must_MD say_VB I_PRP enjoyed_VBD their_PRP$ food_NN much_RB more_RBR than_IN here_RB ._.
-The_DT wait_NN time_NN for_IN any_DT pizza_NN is_VBZ ~_CD 25_CD minutes_NNS ,_, which_WDT is_VBZ a_DT great_JJ opportunity_NN for_IN them_PRP to_TO up-sell_VB you_PRP a_DT salad_NN ,_, appetizer_NN or_CC more_JJR drinks_NNS -LRB-_-LRB- and_CC they_PRP will_MD try_VB -RRB-_-RRB- ._.
-I_PRP know_VBP West_NNP Harlem_NNP is_VBZ struggling_VBG to_TO maintain_VB decent_JJ quality_NN ,_, family_NN friendly_JJ restaurants_NNS ,_, but_CC Bad_NNP Horse_NNP is_VBZ trying_VBG very_RB hard_JJ to_TO capitalize_VB on_IN the_DT lack_NN of_IN decent_JJ local_JJ options_NNS at_IN their_PRP$ customers_NNS expense_NN ._.
-This_DT place_NN is_VBZ a_DT joke_NN ,_, and_CC the_DT joke_NN is_VBZ on_IN you_PRP ._.

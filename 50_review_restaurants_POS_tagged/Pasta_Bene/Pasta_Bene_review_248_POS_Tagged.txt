@@ -1,7 +1,0 @@
-Customer_NN service_NN is_VBZ obviously_RB not_RB one_CD of_IN Pasta_NNP Bene_NNP 's_POS priorities_NNS ._.
-They_PRP want_VBP your_PRP$ money_NN and_CC want_VB you_PRP to_TO get_VB out_RP as_RB soon_RB as_IN possible_JJ ._.
-The_DT angry_JJ cashier_NN assumed_VBD my_PRP$ party_NN of_IN 5_CD was_VBD with_IN the_DT group_NN of_IN 15_CD other_JJ Asians_NNPS that_WDT came_VBD in_IN before_IN us_PRP ,_, and_CC tried_VBD to_TO charge_VB us_PRP a_DT 20_CD %_NN gratuity_NN ._.
-She_PRP threw_VBD a_DT fit_NN when_WRB we_PRP told_VBD her_PRP that_IN we_PRP were_VBD a_DT separate_JJ group_NN and_CC reluctantly_RB gave_VBD us_PRP our_PRP$ money_NN back_RB ._.
-As_IN far_RB as_IN the_DT food_NN goes_VBZ ,_, it_PRP 's_VBZ nothing_NN you_PRP ca_MD n't_RB get_VB at_IN any_DT other_JJ cheap_JJ Italian_JJ take_VBP out_RP place_NN like_IN Gypsy_NNP 's_POS ._.
-Standard_NNP pasta_NN ,_, standard_JJ prices_NNS ._.
-Pros_NNS :_: -_: Noodles_NNS cooked_VBD well_RB -_: Lasagna_NNP Cons_NNPS :_: -_: Service_NNP -_: Mediocre_JJ dishes_NNS -_: Joseph_NNP

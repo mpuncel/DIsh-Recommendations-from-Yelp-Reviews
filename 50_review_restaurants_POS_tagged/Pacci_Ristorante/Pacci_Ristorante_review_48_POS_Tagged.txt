@@ -1,8 +1,0 @@
-I_PRP admit_VBP it_PRP :_: I_PRP love_VBP hotel_NN restaurants_NNS ._.
-They_PRP 're_VBP often_RB artfully_RB decorated_VBN ,_, the_DT service_NN is_VBZ almost_RB always_RB phenomenal_JJ ,_, they_PRP 're_VBP open_JJ all_DT day_NN long_RB ,_, and_CC they_PRP usually_RB do_VBP n't_RB mind_VB if_IN you_PRP linger_VBP longer_JJR than_IN the_DT average_JJ diner_NN ._.
-And_CC yeah_JJ ,_, these_DT are_VBP some_DT of_IN the_DT reasons_NNS I_PRP love_VBP Pacci_NNP ._.
-I_PRP 've_VBP stopped_VBN in_RP for_IN a_DT variety_NN of_IN reasons_NNS :_: quickie_NN drinks_NNS at_IN the_DT bar_NN ,_, a_DT full_JJ dinner_NN ,_, a_DT bite_NN of_IN breakfast_NN ,_, and_CC they_PRP 've_VBP never_RB failed_VBN to_TO deliver_VB ._.
-The_DT menu_NN and_CC concept_NN is_VBZ innovative_JJ without_IN being_VBG overly_RB trendy_JJ ,_, with_IN various_JJ kinds_NNS of_IN carpaccio_NN -LRB-_-LRB- even_RB a_DT fruit_NN carpaccio_NN in_IN the_DT AM_NNP hours_NNS -RRB-_-RRB- ,_, Justin_NNP Timberlake_NNP look-a-like_JJ waiters_NNS -LRB-_-LRB- when_WRB he_PRP was_VBD in_IN his_PRP$ vest_NN and_CC tie_VB phase_NN -RRB-_-RRB- ,_, and_CC a_DT soaring_VBG space_NN that_WDT does_VBZ n't_RB feel_VB at_IN all_DT corporate_JJ or_CC cookie-cutter_NN ._.
-It_PRP 's_VBZ the_DT perfect_JJ spot_NN for_IN an_DT intimate_JJ date_NN ,_, a_DT power_NN lunch_NN ,_, or_CC some_DT gourmet_NN granola_NN as_IN you_PRP scour_VBP the_DT morning_NN 's_POS headlines_NNS ._.
-A_DT great_JJ addition_NN to_TO Midtown_NNP for_IN locals_NNS and_CC tourists_NNS alike_RB ._.
-#yelp_JJ 365 15\/365_NNS

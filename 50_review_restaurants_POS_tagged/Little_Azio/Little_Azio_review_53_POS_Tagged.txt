@@ -1,4 +1,0 @@
-Yummy_NNP ,_, quick_JJ ,_, inexpensive_JJ ,_, and_CC conveniently_RB located_VBN in_IN Midtown_NNP ._.
-Little_NNP Azio_NNP is_VBZ not_RB deserving_JJ of_IN a_DT rave_VB review_NN -LRB-_-LRB- my_PRP$ standards_NNS for_IN authentic_JJ Italian_JJ are_VBP too_RB high_JJ -RRB-_-RRB- but_CC nice_JJ for_IN a_DT quick_JJ lunch_NN -_: whether_IN you_PRP are_VBP in_IN the_DT mood_NN for_IN salad_NN ,_, pizza_NN ,_, or_CC a_DT panini_NN ._.
-I_PRP usually_RB sit_VBP outside_JJ and_CC order_NN a_DT cheese_NN pizza_NN ._.
-No_DT complaints_NNS here_RB ._.

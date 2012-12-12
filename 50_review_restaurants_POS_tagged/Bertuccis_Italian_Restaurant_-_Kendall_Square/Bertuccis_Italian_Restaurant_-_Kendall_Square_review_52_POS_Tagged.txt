@@ -1,2 +1,0 @@
-Great_NNP for_IN American_NNP chain_NN fare_NN ._.
-Fresh_JJ food_NN ,_, reliable_JJ service_NN ._.

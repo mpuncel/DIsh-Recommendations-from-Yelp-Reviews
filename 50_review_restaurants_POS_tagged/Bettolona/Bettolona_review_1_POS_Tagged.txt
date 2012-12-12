@@ -1,6 +1,0 @@
-A_DT gem_NN tucked_VBD between_IN Morningside_NNP Heights_NNP and_CC Harlem_NNP -LRB-_-LRB- across_IN the_DT street_NN from_IN the_DT subway_NN station_NN -RRB-_-RRB- ._.
-The_DT decor_NN is_VBZ intimate_JJ and_CC comfortable_JJ ._.
-I_PRP felt_VBD immediately_RB welcomed_VBN by_IN the_DT owner_NN ._.
-He_PRP brought_VBD an_DT entire_JJ chalkboard_NN over_IN to_TO our_PRP$ table_NN to_TO show_VB us_PRP the_DT specials_NNS and_CC seemed_VBD genuinely_RB concerned_VBN about_IN our_PRP$ wellbeing_NN and_CC comfort_NN ._.
-The_DT calamari_NN was_VBD delicious_JJ ,_, as_RB well_RB as_IN our_PRP$ pasta_NN dishes_NNS ._.
-Pair_NN your_PRP$ dish_NN with_IN a_DT glass_NN of_IN wine_NN ,_, and_CC you_PRP 've_VBP got_VBD the_DT perfect_JJ dinner_NN -LRB-_-LRB- at_IN least_JJS around_IN this_DT area_NN -RRB-_-RRB- without_IN breaking_VBG the_DT bank_NN ._.

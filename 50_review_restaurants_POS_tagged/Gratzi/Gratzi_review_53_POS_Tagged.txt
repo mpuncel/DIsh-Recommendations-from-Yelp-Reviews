@@ -1,2 +1,0 @@
-Fabulous_NNP food_NN ._.
-Would_MD highly_RB recommend_VB it_PRP ._.

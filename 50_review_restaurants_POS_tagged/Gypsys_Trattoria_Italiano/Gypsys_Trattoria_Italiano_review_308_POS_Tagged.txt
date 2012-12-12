@@ -1,4 +1,0 @@
-i_FW love_NN gypsy_NN 's_POS ._.
-ever_RB since_IN I_PRP bought_VBD my_PRP$ first_JJ pollo_NN con_NN pesto_NN back_RB in_IN 1999_CD ,_, i_FW have_VBP gone_VBN to_TO gypsy_NN 's_POS every_DT time_NN i_FW visit_NN berkeley_NN ._.
-it_PRP 's_VBZ cheap_JJ ,_, the_DT portions_NNS are_VBP great_JJ ,_, and_CC it_PRP 's_VBZ fast_RB ._.
-what_WP more_RBR could_MD you_PRP ask_VB for_IN ?_.

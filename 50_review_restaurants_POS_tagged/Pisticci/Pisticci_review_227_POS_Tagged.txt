@@ -1,5 +1,0 @@
-My_PRP$ favorite_JJ restaurant_NN in_IN the_DT city_NN !_.
-I_PRP always_RB order_VBP the_DT specials_NNS -LRB-_-LRB- they_PRP 're_VBP more_RBR interesting_JJ than_IN the_DT regular_JJ menu_NN items_NNS --_: I_PRP highly_RB recommend_VBP the_DT fig_NN salad_NN -RRB-_-RRB- ._.
-I_PRP love_VBP the_DT cozy_JJ interior_NN ._.
-Some_DT servers_NNS are_VBP a_DT little_JJ spacey_NN ,_, but_CC most_JJS are_VBP super_JJ friendly_JJ ._.
-It_PRP 's_VBZ a_DT little_RB more_RBR expensive_JJ than_IN I_PRP usually_RB pay_VBP for_IN dinner_NN -LRB-_-LRB- peril_NN of_IN being_VBG a_DT student_NN -RRB-_-RRB- ,_, but_CC when_WRB I_PRP want_VBP really_RB fantastic_JJ food_NN ,_, I_PRP always_RB go_VBP to_TO Pisticci_NNP ._.

@@ -1,5 +1,0 @@
-Giving_VBG five_CD stars_NNS based_VBN on_IN pizza_NN taste_NN ,_, not_RB atmoshphere\/service_RB ._.
-The_DT pizza_NN is_VBZ delicious_JJ ._.
-If_IN you_PRP like_IN Neapolitan_NNP pizza_NN you_PRP must_MD try_VB this_DT place_NN ._.
-There_EX is_VBZ n't_RB much_JJ room_NN to_TO eat_VB and_CC it_PRP gets_VBZ packed_VBN around_IN lunch_NN ,_, but_CC the_DT pizzas_NNS still_RB come_VBP out_RP really_RB quickly_RB ._.
-Not_RB a_DT great_JJ date_NN place_NN ,_, but_CC definitely_RB a_DT great_JJ pizza_NN place_NN ._.

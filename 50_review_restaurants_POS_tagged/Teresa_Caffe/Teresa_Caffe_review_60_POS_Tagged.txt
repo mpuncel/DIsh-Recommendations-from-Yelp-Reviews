@@ -1,6 +1,0 @@
-My_PRP$ favorite_JJ restaurant_NN in_IN Princeton_NNP ._.
-Interesting_JJ twist_NN on_IN Italian_JJ food_NN ._.
-During_IN the_DT fall_NN they_PRP offer_VBP a_DT pumpkin_NN linguine_NN that_WDT is_VBZ truly_RB a_DT gem_NN ._.
-Not_RB too_RB heavy_JJ ,_, balanced_JJ flavors_NNS ,_, and_CC interesting_JJ choice_NN of_IN toppings_NNS -LRB-_-LRB- walnuts_NNS -RRB-_-RRB- ._.
-Lasgna_NNP is_VBZ a_DT GREAT_JJ staple_NN ,_, but_CC I_PRP recommend_VBP getting_VBG the_DT specials_NNS !!_VBP Also_RB ,_, save_VB room_NN for_IN dessert_NN --_: NUTELLA_NNP PIZZA_NN !_.
-Beware_VB of_IN sitting_VBG close_JJ to_TO the_DT Pizza_NNP Oven_NNP because_IN it_PRP can_MD get_VB a_DT little_JJ toasty_NN ._.

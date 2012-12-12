@@ -1,5 +1,0 @@
-The_DT food_NN here_RB is_VBZ surprisingly_RB good_JJ ._.
-You_PRP ca_MD n't_RB tell_VB by_IN the_DT way_NN it_PRP looks_VBZ ,_, and_CC the_DT long_JJ line_NN just_RB might_MD indicate_VB that_IN college_NN students_NNS ca_MD n't_RB afford_VB to_TO eat_VB anything_NN else_RB ,_, but_CC that_DT 's_VBZ not_RB the_DT case_NN ._.
-Large_JJ portions_NNS ,_, and_CC really_RB good_JJ tasting_NN pasta_NN ._.
-I_PRP 've_VBP had_VBN like_IN 4_CD different_JJ dishes_NNS ,_, and_CC they_PRP were_VBD all_DT really_RB good_JJ ._.
-Add_VB to_TO that_IN the_DT low_JJ price_NN of_IN about_IN $_$ 6_CD -_: $_$ 8_CD for_IN a_DT plate_NN ,_, -LRB-_-LRB- which_WDT beats_VBZ paying_VBG $_$ 17_CD -_: $_$ 19_CD at_IN some_DT trendy_JJ little_JJ Italian_JJ place_NN -RRB-_-RRB- ,_, and_CC it_PRP makes_VBZ this_DT place_NN a_DT winner_NN

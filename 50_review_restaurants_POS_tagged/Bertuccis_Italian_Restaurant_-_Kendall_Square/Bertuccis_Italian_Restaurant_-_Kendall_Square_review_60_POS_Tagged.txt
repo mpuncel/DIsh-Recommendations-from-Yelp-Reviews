@@ -1,7 +1,0 @@
-Ordered_VBN from_IN Bertucci_NNP 's_POS Kendall_NNP tonight_NN from_IN my_PRP$ job_NN ._.
-Never_RB been_VBN so_RB disappointed_JJ ._.
-They_PRP took_VBD almost_RB 2_CD hours_NNS ._.
-The_DT food_NN came_VBD and_CC it_PRP was_VBD cold_JJ ,_, and_CC had_VBD items_NNS missing_VBG ._.
-They_PRP did_VBD come_VB back_RB but_CC that_DT was_VBD someones_JJ dinner_NN they_PRP had_VBD to_TO wait_VB another_DT 40_CD minutes_NNS ._.
-The_DT staff_NN was_VBD very_RB nice_JJ ,_, maybe_RB they_PRP were_VBD just_RB overwhelmed_VBN on_IN this_DT particular_JJ Wednesday_NNP ._.
-I_PRP was_VBD hoping_VBG the_DT food_NN would_MD be_VB better_JJR considering_VBG the_DT price_NN and_CC the_DT wait_NN ..._: this_DT is_VBZ n't_RB the_DT first_JJ time_NN I_PRP had_VBD a_DT bad_JJ experience_NN with_IN Bertucci_NNP 's_POS ._.

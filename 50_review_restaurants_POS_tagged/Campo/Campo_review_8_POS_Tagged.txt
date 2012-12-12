@@ -1,4 +1,0 @@
-I_PRP 'm_VBP a_DT fan_NN of_IN their_PRP$ lunch_NN special_JJ ,_, tell_VB ya_PRP what_WP !_.
-$_$ 10_CD gets_VBZ you_PRP a_DT small_JJ soup_NN or_CC salad_NN -LRB-_-LRB- get_VB the_DT soup_NN -RRB-_-RRB- ,_, an_DT entree_FW from_IN a_DT selection_NN of_IN ,_, let_VB 's_POS say_VB ,_, 10_CD that_WDT includes_VBZ sweet_JJ and_CC savory_JJ options_NNS ,_, and_CC a_DT teeny_JJ tiny_JJ dessert_NN -LRB-_-LRB- get_VB the_DT tiramisu_NN unless_IN you_PRP 're_VBP getting_VBG coffee_NN ,_, then_RB the_DT zeppole_NN might_MD be_VB good_JJ for_IN dipping_VBG ._. -RRB-_-RRB-
-I_PRP have_VBP been_VBN exceedingly_RB happy_JJ with_IN the_DT spaghetti_NNS and_CC meatballs_NNS and_CC the_DT blueberry_NN pancakes_VBZ ,_, whereas_IN my_PRP$ friends_NNS have_VBP liked_VBN the_DT sandwiches_NNS and_CC pizza_NN and_CC burgers_NNS ._.
-So_RB everyone_NN 's_VBZ a_DT winner_NN !_.

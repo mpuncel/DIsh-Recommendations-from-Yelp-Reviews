@@ -1,4 +1,0 @@
-Full_NNP of_IN Penn_NNP kids_NNS ,_, I_PRP dropped_VBD in_IN to_TO grab_VB a_DT bite_NN because_IN it_PRP was_VBD convenient_JJ ._.
-It_PRP is_VBZ pretty_RB average_JJ ,_, but_CC cheap_JJ pizza_NN and_CC hoagies_NNS and_CC beer_NN is_VBZ college_NN kid_NN 's_POS wet_JJ dream_NN ._.
-I_PRP was_VBD surprised_VBN by_IN their_PRP$ Philly_NNP steak_NN being_VBG not_RB half_JJ bad_JJ ._.
-I_PRP remember_VBP Billy_NNP Bobs_NNP was_VBD near_IN here_RB ,_, and_CC grabbing_VBG a_DT forty_NN and_CC a_DT steak_NN was_VBD the_DT best_JJS ,_, but_CC after_IN that_DT closed_VBD ,_, this_DT was_VBD the_DT next_JJ closest_JJS thing_NN to_TO my_PRP$ bro_NN 's_POS place_NN ._.

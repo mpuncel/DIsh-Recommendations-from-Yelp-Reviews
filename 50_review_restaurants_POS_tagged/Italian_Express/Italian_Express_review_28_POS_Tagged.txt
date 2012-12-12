@@ -1,5 +1,0 @@
-Ordered_VBD a_DT Greek_JJ Salad_NN and_CC a_DT Large_JJ Pizza_NNP with_IN Mushrooms_NNPS ._.
-Both_DT the_DT olives_NNS on_IN the_DT Greek_JJ and_CC the_DT mushrooms_NNS on_IN the_DT `_`` za_NN came_VBD from_IN a_DT can_NN ._.
-Dressing_VBG was_VBD largely_RB uninspiring_JJ ._.
-The_DT crust_NN on_IN the_DT `_`` za_NN tasted_VBD like_IN burnt_JJ pancakes_NNS ._.
-I_PRP will_MD not_RB be_VB eating_VBG here_RB again_RB ._.

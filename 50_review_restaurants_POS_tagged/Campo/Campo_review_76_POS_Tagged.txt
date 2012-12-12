@@ -1,8 +1,0 @@
-food_NN fair_NN to_TO average_NN ._. ._.
-service_NN was_VBD terribly_RB neglectful_JJ ._. ._.
-went_VBD on_IN sat_VBD ._.
-night_NN around_IN 9:00_CD pm_NN ,_, place_NN was_VBD near_IN empty_JJ ,_, and_CC ._. ._.
-besides_IN pizza_NN ,_, main_JJ courses_NNS up_IN to_TO 24_CD $_$ ._. ._.
-not_RB worth_IN it_PRP ._. ._.
-pasta_NN was_VBD soggy_JJ ,_, salmon_NN was_VBD mediocre_JJ ..._: go_VB to_TO V&T_NNP if_IN in_IN neighborhood_NN ._. ._.
-at_IN least_JJS it_PRP 's_VBZ consistently_RB okay_JJ ._. ._.

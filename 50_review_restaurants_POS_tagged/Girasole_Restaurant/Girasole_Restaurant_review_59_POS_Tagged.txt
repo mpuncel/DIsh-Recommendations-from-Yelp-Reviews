@@ -1,9 +1,0 @@
-Girasole_NNP is_VBZ probably_RB my_PRP$ favorite_JJ restaurant_NN in_IN the_DT Walnut_NNP St._NNP corridor_NN ._.
-I_PRP specifically_RB want_VBP to_TO talk_VB about_IN their_PRP$ salad_NN ._.
-I_PRP know_VBP this_DT charming_JJ and_CC cozy_JJ Italian_JJ restuarnt_NN is_VBZ not_RB a_DT one_CD trick_NN pony_NN -LRB-_-LRB- their_PRP$ various_JJ Raviolis_NNP being_VBG especially_RB exceptional_JJ -RRB-_-RRB- but_CC their_PRP$ signature_NN Girasole_NNP Salad_NNP is_VBZ really_RB something_NN special_JJ ._.
-In_IN Italian_JJ the_DT word_NN ``_`` Girsole_NNP ''_'' means_VBZ ``_`` Sunflower_NNP ,_, ''_'' a_DT flavor_NN that_WDT really_RB comes_VBZ through_IN in_IN this_DT salad_NN ._.
-Not_RB only_RB is_VBZ the_DT salad_NN sprinkled_VBD in_IN sunflowers_NNS ,_, the_DT dressing_VBG is_VBZ made_VBN of_IN some_DT blend_VB of_IN sunflower_NN oil_NN and_CC vinegar_NN and_CC really_RB makes_VBZ the_DT salad_NN stand_VBP out_RP from_IN its_PRP$ peers_NNS ._.
-I_PRP have_VBP thought_VBN this_DT dressing_VBG so_RB deliciously_RB tangy_JJ and_CC unique_JJ ,_, I_PRP 've_VBP bought_VBN it_PRP from_IN the_DT restaurant_NN in_IN a_DT bottle_NN on_IN more_JJR than_IN one_CD occasion_NN ._.
-Served_VBN in_IN a_DT generous_JJ helping_VBG ,_, you_PRP can_MD order_VB the_DT salad_NN with_IN chicken_NN or_CC shrimp_NN ,_, which_WDT are_VBP always_RB tender_NN and_CC succulent_NN ._.
-Red_NNP onions_NNS and_CC gorgonzola_NN really_RB complete_VB the_DT flavor_NN experience_NN ._.
-Really_RB ,_, it_PRP 's_VBZ the_DT number_NN one_CD salad_NN in_IN town_NN ._.

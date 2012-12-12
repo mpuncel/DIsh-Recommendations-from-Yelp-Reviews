@@ -1,4 +1,0 @@
-Pizza_NNP House_NNP was_VBD a_DT good_JJ place_NN to_TO go_VB if_IN it_PRP was_VBD nice_JJ out_RB --_: you_PRP sit_VBP on_IN the_DT balcony_NN and_CC hang_VB out_RP with_IN beer_NN and_CC pizza_NN and_CC breadsticks_NNS ._.
-A_DT good_JJ place_NN for_IN a_DT group_NN to_TO go_VB ._.
-People_NNS used_VBD to_TO go_VB crazy_JJ for_IN the_DT chipatis_NN -LRB-_-LRB- especially_RB the_DT sauce_NN -RRB-_-RRB- ,_, but_CC I_PRP never_RB did_VBD get_VB one_CD ._.
-Great_NNP breadsticks_NNS ._.

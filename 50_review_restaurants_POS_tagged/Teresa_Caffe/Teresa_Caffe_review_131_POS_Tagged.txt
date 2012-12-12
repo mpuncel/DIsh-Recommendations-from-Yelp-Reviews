@@ -1,5 +1,0 @@
-nice_JJ place_NN ._.
-great_JJ atmosphere_NN ._.
-menu_NN is_VBZ limited_VBN but_CC the_DT food_NN is_VBZ good_JJ ._.
-great_JJ breads_NNS to_TO get_VB started_VBN ._.
-worth_JJ trying_VBG ._.

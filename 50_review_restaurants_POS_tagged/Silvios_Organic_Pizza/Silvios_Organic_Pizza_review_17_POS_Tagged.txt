@@ -1,8 +1,0 @@
-I_PRP do_VBP n't_RB understand_VB how_WRB my_PRP$ review_NN is_VBZ the_DT lowest_JJS of_IN the_DT group_NN as_IN of_IN yet_RB ._.
-I_PRP ate_VBD here_RB twice_RB ,_, and_CC was_VBD really_RB underwhelmed_VBN both_DT times_NNS ._.
-The_DT first_JJ experience_NN was_VBD when_WRB they_PRP just_RB opened_VBD up_RP ,_, and_CC had_VBD these_DT really_RB cute_JJ fliers_NNS ._.
-And_CC I_PRP really_RB really_RB like_IN good_JJ pizza_NN ._.
-Anyhow_NNP ,_, the_DT pizza_NN -_: which_WDT is_VBZ not_RB cheap_JJ -_: tasted_VBN like_IN greasy_JJ cardboard_NN ._.
-The_DT second_JJ experience_NN -_: simply_RB there_RB because_IN a_DT friend_NN likes_VBZ the_DT place_NN -_: was_VBD no_RB better_RB ._.
-I_PRP give_VBP Silvio_NNP molto_JJ credit_NN though_IN :_: putting_VBG ``_`` organic_JJ ''_'' in_IN your_PRP$ restaurant_NN 's_POS name_NN has_VBZ to_TO draw_VB lots_NNS of_IN Ann_NNP Arborites_NNP ._.
-Bravo_NNP ._.

@@ -1,9 +1,0 @@
-Pretty_NNP good_JJ food_NN ..._: but_CC I_PRP 'm_VBP exceptionally_RB picky_JJ when_WRB it_PRP comes_VBZ to_TO good_JJ Italian_JJ food_NN that_WDT 's_VBZ worth_JJ the_DT price_NN ._.
-Pisticci_NNP 's_POS is_VBZ n't_RB overwhelmingly_RB expensive_JJ but_CC I_PRP dropped_VBD 30_CD +_NN for_IN some_DT okay_JJ salmon_NN ceviche_NN and_CC ravioli_NNS ._.
-We_PRP got_VBD the_DT special_JJ -_: salmon_NN ceviche_NN -_: for_IN appetizers_NNS and_CC they_PRP do_VBP give_VB you_PRP a_DT hearty_NN serving_VBG of_IN salmon_NN ._.
-But_CC it_PRP was_VBD a_DT little_JJ too_RB sour_JJ ._.
-The_DT ravioli_NN was_VBD quite_RB good_JJ as_RB well_RB ,_, but_CC ended_VBD up_RP tasting_NN bland_NN and_CC boring_NN after_IN a_DT couple_NN of_IN bites_VBZ ._.
-Boohoo_NNP ._.
-We_PRP got_VBD our_PRP$ appetizers\/ravioli_NNS wayyyyyyyyyy_RB after_IN we_PRP ordered_VBD !_.
-We_PRP were_VBD sitting_VBG outside_JJ and_CC while_IN we_PRP waited_VBD we_PRP :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- saw_VBD the_DT sunset_NN -LRB-_-LRB- 2_LS -RRB-_-RRB- realized_VBD that_IN it_PRP was_VBD a_DT mistake_NN to_TO sit_VB outside_JJ because_IN we_PRP started_VBD getting_VBG cold_JJ and_CC lonely_JJ -LRB-_-LRB- 3_LS -RRB-_-RRB- watched_VBN everyone_NN else_RB get_VB food_NN before_IN us_PRP ._.
-The_DT waitress_NN barely_RB apologized_VBN for_IN the_DT delay_NN and_CC dumped_VBD the_DT dishes_NNS on_IN our_PRP$ table_NN before_IN scurrying_VBG back_RB into_IN the_DT warmth_NN of_IN the_DT restaurant_NN ._.

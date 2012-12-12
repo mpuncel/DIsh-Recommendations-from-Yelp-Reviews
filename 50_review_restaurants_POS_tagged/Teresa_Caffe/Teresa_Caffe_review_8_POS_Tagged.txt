@@ -1,6 +1,0 @@
-Last_JJ night_NN I_PRP had_VBD a_DT whole_JJ wheat_NN pasta_NN and_CC an_DT anchovy_JJ pizza_NN ._.
-Total_NNP was_VBD ~_CD $_$ 32_CD ,_, including_VBG 20_CD %_NN tip_NN $_$ 40_CD ._.
-I_PRP had_VBD -LRB-_-LRB- nicely_RB -RRB-_-RRB- asked_VBD for_IN the_DT fourth_JJ slice_NN of_IN pizza_NN plus_CC the_DT remaining_VBG bread_NN on_IN the_DT table_NN to_TO be_VB taken_VBN with_IN me_PRP ._.
-Right_RB now_RB it_PRP is_VBZ 1:30_CD am_VBP and_CC i_FW 'm_VBP hungry_JJ and_CC there_EX 's_VBZ no_DT bread_NN in_IN the_DT paper_NN bag_NN ._.
-I_PRP 'm_VBP not_RB a_DT fussy_JJ diner_NN but_CC that_DT means_VBZ details_NNS like_IN these_DT are_VBP kind_NN of_IN critical_JJ for_IN practical_JJ reasons_NNS ._.
-If_IN the_DT staff_NN ca_MD n't_RB grant_VB certain_JJ requests_NNS ,_, they_PRP really_RB need_VBP to_TO say_VB so_RB ._.

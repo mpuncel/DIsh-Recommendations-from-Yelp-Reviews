@@ -1,5 +1,0 @@
-It_PRP 's_VBZ a_DT greasy_JJ pizza_NN joint_NN -_: it_PRP 's_VBZ exactly_RB what_WP it_PRP should_MD be_VB !_.
-Cool_JJ guys_NNS behind_IN the_DT counter_NN ,_, quick_JJ service_NN ,_, typical_JJ fare_NN ._.
-Love_NNP the_DT margharita_NN pizza_NN 's_POS ,_, chicken_NN parm_NN sandwiches_NNS ,_, and_CC the_DT sausage_NN and_CC peppers_NNS ._.
-Chicken_NNP parm_NN dinner_NN is_VBZ enough_RB for_IN 2_CD plus_CC leftovers_NNS !_.
-Seating_NN can_MD be_VB a_DT little_JJ tight_JJ at_IN times_NNS ,_, but_CC people_NNS move_VBP in_IN and_CC out_IN pretty_RB quickly_RB ._.

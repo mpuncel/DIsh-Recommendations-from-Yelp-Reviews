@@ -1,5 +1,0 @@
-Since_IN I_PRP live_VBP nearby_RB ,_, I_PRP come_VBP pretty_RB often_RB ._.
-The_DT lunch_NN special_JJ deal_NN is_VBZ really_RB nice_JJ ,_, although_IN it_PRP used_VBD to_TO be_VB cheaper_JJR ._.
-The_DT portions_NNS are_VBP just_RB right_RB and_CC the_DT ingredients_NNS are_VBP very_RB fresh_JJ !_.
-The_DT staff_NN is_VBZ also_RB super_JJ friendly_JJ and_CC nice_JJ ._.
-The_DT restaurant_NN is_VBZ a_DT nice_JJ ,_, peaceful_JJ place_NN to_TO study_VB since_IN it_PRP 's_VBZ in_IN the_DT less_JJR busy_JJ area_NN of_IN Telegraph_NNP ._.

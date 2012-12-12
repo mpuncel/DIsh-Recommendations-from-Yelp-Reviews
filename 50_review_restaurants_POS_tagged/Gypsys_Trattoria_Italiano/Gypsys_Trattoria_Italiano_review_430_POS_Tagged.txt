@@ -1,3 +1,0 @@
-Taste_NN :_: 3_CD Value_NN :_: 4_CD Service_NN :_: 3_CD I_PRP always_RB get_VBP either_CC the_DT combination_NN calzone_NN or_CC Godfather_NNP 's_POS favorite_JJ ._.
-The_DT food_NN is_VBZ so-so_JJ ,_, and_CC the_DT prices_NNS are_VBP pretty_RB cheap_JJ ._.
-I_PRP do_VBP n't_RB come_VBN here_RB very_RB often_RB anymore_RB ,_, especially_RB since_IN there_EX are_VBP better_JJR places_NNS in_IN Southside_NNP ._.

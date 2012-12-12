@@ -1,6 +1,0 @@
-My_PRP$ favorite_JJ restaurant_NN in_IN Princeton_NNP !_.
-Their_PRP$ calamari_NN is_VBZ fantastic_JJ ._.
-It_PRP 's_VBZ a_DT really_RB interesting_JJ mix_NN of_IN squid_NN ,_, golden_JJ raisins_NNS ,_, pine_VB nuts_NNS ,_, hearts_NNS of_IN celery_NN ,_, peperoncino_NN and_CC plum_NN tomatoes_NNS ._.
-I_PRP was_VBD expecting_VBG it_PRP to_TO be_VB fried_VBN -LRB-_-LRB- I_PRP obviously_RB did_VBD not_RB take_VB the_DT time_NN to_TO read_VB its_PRP$ menu_NN description_NN more_RBR carefully_RB -RRB-_-RRB- ,_, but_CC I_PRP was_VBD still_RB pleasantly_RB surprised_VBN by_IN how_WRB delicious_JJ it_PRP was_VBD ._.
-I_PRP had_VBD the_DT Conchiglie_NNP Balsalmico_NNP pasta_NN as_IN my_PRP$ entrée_NN ,_, which_WDT was_VBD just_RB as_IN amazing_JJ ._.
-There_EX 's_VBZ something_NN about_IN the_DT combination_NN of_IN balsamic_JJ and_CC cream_NN that_WDT just_RB makes_VBZ your_PRP$ mouth_NN water_NN ._.

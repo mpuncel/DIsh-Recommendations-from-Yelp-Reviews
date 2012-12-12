@@ -1,6 +1,0 @@
-wonderful_JJ little_JJ italian_JJ cafe_NN ._.
-fresh_JJ breads_NNS ,_, vegetables_NNS ,_, cheeses_VBZ great_JJ ,_, wonderful_JJ ._.
-can_MD not_RB wait_VB for_IN wine_NN in_IN the_DT afternoon_NN ._.
-delightful_JJ staff_NN and_CC sweet_JJ settings_NNS ._.
-need_NN umbrellas_NNS outside_IN for_IN shade_NN !_.
-otherwise_RB ,_, goodbye_NN california_NN cafe_NN ._.

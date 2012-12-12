@@ -1,4 +1,0 @@
-Nice_NNP ,_, cute_JJ restaurant_NN with_IN good_JJ food_NN ._.
-Would_MD n't_RB call_VB any_DT aspect_NN of_IN the_DT experience_NN `_`` spectacular_JJ '_'' but_CC would_MD definitely_RB recommend_VB this_DT spot_NN if_IN you_PRP feel_VBP like_IN eating_VBG Italian_JJ in_IN a_DT relaxed_VBN ,_, uncrowded_JJ environment_NN ._.
-Service_NNP was_VBD great_JJ ._.
-If_IN you_PRP want_VBP to_TO eat_VB spectacular_JJ Italian_JJ in_IN this_DT area_NN ,_, pisticci_NN 's_POS is_VBZ definitely_RB the_DT best_JJS -LRB-_-LRB- although_IN you_PRP will_MD probably_RB have_VB to_TO wait_VB 20-30_JJ minutes_NNS to_TO get_VB a_DT table_NN and_CC they_PRP do_VBP n't_RB take_VB reservations_NNS -RRB-_-RRB- ._.

@@ -1,6 +1,0 @@
-Line_NNP out_IN the_DT door_NN at_IN 2_CD p.m._NN on_IN a_DT Saturday_NNP was_VBD a_DT good_JJ sign_NN ._.
-The_DT line_NN moved_VBD faster_RBR than_IN I_PRP expected_VBD and_CC the_DT results_NNS were_VBD pretty_RB good_JJ ._.
-There_EX has_VBZ to_TO be_VB some_DT way_NN to_TO solve_VB the_DT soggy_JJ center_NN problem_NN with_IN the_DT pizzas_NNS ,_, tho_NN ._.
-I_PRP rolled_VBD my_PRP$ slices_NNS into_IN something_NN like_IN a_DT burrito_NN in_IN order_NN to_TO eat_VB them_PRP without_IN all_DT of_IN the_DT toppings_NNS sliding_VBG off_RP ._.
-Tasty_JJ ,_, nonetheless_RB ._.
-The_DT green_JJ salad_NN dressed_VBN with_IN olive_JJ oil_NN ,_, lemon_VB juice_NN and_CC parmesan_NN cheese_NN was_VBD great_JJ ._.

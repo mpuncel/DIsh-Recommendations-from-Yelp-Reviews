@@ -1,5 +1,0 @@
-How_WRB do_VBP I_PRP not_RB have_VBP a_DT review_NN of_IN this_DT place_NN already_RB ?_.
-3.5_CD stars_NNS officially_RB ..._: I_PRP really_RB like_IN this_DT place_NN even_RB though_IN there_EX is_VBZ a_DT line_NN for_IN dinner_NN even_RB if_IN you_PRP call_VBP ahead_RB ._.
-They_PRP do_VBP a_DT great_JJ job_NN with_IN the_DT chicken_NN making_VBG it_PRP moist_JJ which_WDT many_JJ restaurants_NNS do_VBP n't_RB do_VB such_PDT a_DT great_JJ job_NN of_IN that_DT ._.
-I_PRP wish_VBP they_PRP had_VBD better_JJR apps_NNS and_CC desserts_NNS ._.
-The_DT service_NN could_MD be_VB faster_RBR ..._: but_CC for_IN that_DT niche_NN in_IN the_DT market_NN the_DT quality_NN and_CC pricing_NN is_VBZ great_JJ ._.
