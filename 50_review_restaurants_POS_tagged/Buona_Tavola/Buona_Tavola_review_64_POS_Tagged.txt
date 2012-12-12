@@ -1,0 +1,7 @@
+This_DT is_VBZ wedged_VBN between_IN a_DT county_NN government_NN building_NN and_CC the_DT Fremont_NNP theater_NN ._.
+We_PRP went_VBD for_IN dinner_NN fare_NN and_CC it_PRP was_VBD $_$ 70_CD for_IN two_CD with_IN adult_NN drinks_NNS ._.
+Had_VBD lamb_NN steak_NN ,_, potatoes_NNS ,_, spinach_NN and_CC carrots_NNS all_DT very_RB good_JJ ._.
+Also_RB the_DT shrimp_NN risotto_NN with_IN garlic_JJ bread_NN and_CC was_VBD very_RB tasty_JJ ._.
+I_PRP saw_VBD them_PRP selling_VBG at_IN the_DT Thursday_NNP night_NN farmers_NNS market_NN with_IN bbq_NN fare_NN ._.
+Good_JJ service_NN and_CC the_DT outside_JJ garden_NN patio_NN is_VBZ cozy_JJ ._.
+Just_RB bring_VB some_DT extra_JJ dollars_NNS ._.

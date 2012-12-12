@@ -1,0 +1,4 @@
+I_PRP only_RB had_VBD the_DT Pasta_NNP Alfredo_NNP here_RB ._.
+However_RB ,_, it_PRP was_VBD good_JJ ._.
+So_RB was_VBD the_DT desert_NN wine_NN -LRB-_-LRB- my_PRP$ first_JJ time_NN having_VBG it_PRP -RRB-_-RRB- ._.
+No_DT rush_NN to_TO return_VB ._.

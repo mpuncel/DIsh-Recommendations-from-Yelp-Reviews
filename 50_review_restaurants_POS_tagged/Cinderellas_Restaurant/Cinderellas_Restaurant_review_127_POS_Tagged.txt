@@ -1,0 +1,5 @@
+Their_PRP$ calzones_NNS are_VBP yummy_JJ ..._: they_PRP have_VBP ricotta_NN in_IN their_PRP$ calzones_NNS in_IN addition_NN to_TO mozzarella_NN -LRB-_-LRB- as_IN previously_RB mentioned_VBN -RRB-_-RRB- and_CC it_PRP 's_VBZ very_RB delicious_JJ ._.
+The_DT salad_NN I_PRP had_VBD there_RB once_RB was_VBD fairly_RB simple_JJ but_CC good_JJ ..._: which_WDT was_VBD what_WP I_PRP wanted_VBD at_IN the_DT time_NN ._.
+The_DT guy_NN who_WP waited_VBD on_IN me_PRP the_DT other_JJ night_NN was_VBD really_RB nice_JJ ._.
+They_PRP sell_VBP Toscanini_NNP 's_POS -LRB-_-LRB- the_DT ice_NN cream_NN place_NN next_JJ door_NN -RRB-_-RRB- by_IN the_DT pint_NN in_IN their_PRP$ restaurant_NN ,_, but_CC not_RB by_IN the_DT scoop_NN ._.
+He_PRP let_VB my_PRP$ friends_NNS go_VBP next_JJ door_NN and_CC buy_VB scoops_VBZ and_CC eat_VB it_PRP in_IN the_DT restaurant_NN ,_, which_WDT I_PRP thought_VBD was_VBD unusually_RB kind_NN ._.

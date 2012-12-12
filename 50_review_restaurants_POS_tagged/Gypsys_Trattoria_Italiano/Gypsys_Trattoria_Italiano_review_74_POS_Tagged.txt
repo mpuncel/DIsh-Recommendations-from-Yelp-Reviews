@@ -1,0 +1,21 @@
+Yay_NN !_.
+Love_NNP this_DT place_NN !_.
+They_PRP are_VBP open_JJ late_RB ._.
+They_PRP accept_VBP cash_NN and_CC credit_NN card_NN ._.
+-LRB-_-LRB- credit_NN cards_NNS they_PRP charge_VBP a_DT little_JJ extra_JJ though_IN -RRB-_-RRB- ._.
+Their_PRP$ portions_NNS are_VBP huge_JJ !_.
+And_CC their_PRP$ quick_JJ !_.
+Super_NNP close_RB to_TO Cal_NNP ,_, so_RB after_IN class_NN I_PRP would_MD just_RB hop_VB on_IN over_IN ._.
+Service_NNP :_: It_PRP 's_VBZ a_DT order_NN and_CC sit_VB down_RP place_NN ._.
+All_PDT the_DT guys_NNS working_VBG there_RB pretty_RB friendly_JJ ._.
+I_PRP never_RB had_VBD a_DT problem_NN with_IN it_PRP ._.
+Food_NNP :_: The_DT food_NN is_VBZ awesome_JJ for_IN the_DT price_NN ._.
+Alfredo_NNP Fettuccine_NNP with_IN mushroom_NN -_: Loved_VBD it_PRP ._.
+The_DT pasta_NN was_VBD al_JJ dente_NN ,_, which_WDT I_PRP loved_VBD because_IN most_JJS ``_`` fast_RB ''_'' place_NN always_RB over_IN cook_NN the_DT pasta_NN ._.
+Cannoli_NNP -_: Yummy_NNP ._.
+It_PRP fixes_NNS my_PRP$ sugar_NN craving_NN ._.
+Calzone_NNP -_: Super_NNP huge_JJ !_.
+But_CC it_PRP 's_VBZ worth_JJ it_PRP !_.
+It_PRP can_MD actually_RB be_VB split_VBN into_IN two_CD ._.
+To_TO share_VB or_CC to_TO have_VB for_IN lunch_NN and_CC dinner_NN !_.
+Good_JJ bread_NN :_: toppings_NNS ratio_NN =_SYM -RRB-_-RRB- Overall_JJ :_: I_PRP would_MD definitely_RB recommend_VB this_DT place_NN ._.

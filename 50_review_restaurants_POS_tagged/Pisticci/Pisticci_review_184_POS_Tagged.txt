@@ -1,0 +1,7 @@
+Good_JJ bargain_NN for_IN simple_JJ ,_, flavorful_JJ Italian_JJ food_NN ._.
+Atmosphere_NN is_VBZ cozy_JJ chic_JJ ,_, but_CC not_RB too_RB pretentious_JJ ._.
+Never_RB had_VBD a_DT bad_JJ meal_NN ._.
+Portions_NNS are_VBP ``_`` european_JJ ''_'' -LRB-_-LRB- small_JJ -RRB-_-RRB- which_WDT forces_VBZ you_PRP to_TO buy_VB more_JJR courses_NNS ._.
+Chef_NN is_VBZ great_JJ and_CC uses_VBZ very_RB fresh_JJ ingredients_NNS ;_: much_RB of_IN the_DT pasta_NN is_VBZ homemade_NN ._.
+Staff_NNP is_VBZ friendly_JJ but_CC some_DT are_VBP a_DT little_JJ clueless_JJ ._.
+FINALLY_RB accept_VB credit_NN cards_NNS and_CC recently_RB opened_VBD a_DT full_JJ bar_NN -LRB-_-LRB- they_PRP annexed_VBD the_DT former_JJ Tigrai_NNP Ethiopian_JJ Self-Help_NNP Center_NNP -RRB-_-RRB- ._.

@@ -1,0 +1,4 @@
+Good_JJ food_NN ,_, nice_JJ service_NN ,_, not_RB too_RB pricey_JJ -LRB-_-LRB- except_IN for_IN the_DT specials_NNS -RRB-_-RRB- ,_, and_CC a_DT great_JJ atmosphere_NN ._.
+My_PRP$ favorite_JJ place_NN in_IN the_DT neighborhood_NN !_.
+Btw_NNP ,_, you_PRP should_MD definitely_RB try_VB the_DT tiramisu_NN !_.
+..._: it_PRP 's_VBZ amazing_JJ !_.

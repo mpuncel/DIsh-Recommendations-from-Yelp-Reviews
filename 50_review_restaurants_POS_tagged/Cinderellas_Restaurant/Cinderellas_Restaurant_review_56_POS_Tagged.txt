@@ -1,0 +1,5 @@
+How_WRB many_JJ beers_NNS does_VBZ it_PRP take_VB to_TO make_VB a_DT calzone_NN taste_NN awesome_JJ at_IN Cinderella_NNP 's_POS ?_.
+Clearly_RB more_JJR than_IN one_CD and_CC a_DT half_NN ._.
+When_WRB you_PRP only_RB drink_VBP one_CD beer_NN ,_, you_PRP havent_VBP donned_VBN those_DT beer_NN glasses_NNS ,_, and_CC you_PRP can_MD still_RB see_VB that_DT calzone_NN for_IN what_WP it_PRP is_VBZ ,_, which_WDT is_VBZ a_DT somewhat_RB bland_JJ ,_, bready_JJ alcohol_NN sponge_NN ._.
+However_RB ,_, you_PRP should_MD order_VB the_DT bread_NN that_WDT is_VBZ topped_VBN with_IN cheese_NN and_CC pesto_NN ._.
+Because_IN it_PRP 's_VBZ warm_JJ ,_, tasty_JJ and_CC awesome_JJ -_: whether_IN you_PRP are_VBP sober_JJ or_CC not_RB ._.

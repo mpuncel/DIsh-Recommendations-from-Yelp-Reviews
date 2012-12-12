@@ -1,0 +1,3 @@
+Great_NNP spot_NN ._.
+Drinks_NNS are_VBP served_VBN in_IN ball_NN jars_NNS ,_, pasta_NN is_VBZ always_RB spot_NN on_IN ,_, and_CC the_DT atmosphere_NN is_VBZ just_RB shy_JJ of_IN homey_NN ._.
+Best_JJS Columbia_NNP first_JJ date_NN spot_NN I_PRP 've_VBP found_VBN to_TO date_NN -LRB-_-LRB- ha_NN -RRB-_-RRB-

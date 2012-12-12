@@ -1,0 +1,4 @@
+Pasta_NN Bene_NNP ,_, you_PRP are_VBP awesome_JJ ._.
+I_PRP think_VBP you_PRP were_VBD made_VBN just_RB for_IN me_PRP ._.
+The_DT best_JJS time_NN to_TO come_VB here_RB is_VBZ around_IN three_CD when_WRB the_DT lunch_NN special_JJ ends_NNS -LRB-_-LRB- order_NN some_DT $_$ 5_CD pasta_NN and_CC enjoy_VB -RRB-_-RRB- and_CC happy_JJ hour_NN begins_VBZ -LRB-_-LRB- hello_UH ,_, $_$ 10_CD pitcher_NN of_IN beer_NN -RRB-_-RRB- ._.
+It_PRP 's_VBZ perfection_NN ._.

@@ -1,0 +1,3 @@
+Good_JJ traditional_JJ veggie_NN pizza_NN by_IN the_DT slice_NN -_: plus_CC it_PRP 's_VBZ 6_CD x_SYM 's_POS less_JJR caloric_JJ than_IN Costco_NNP 's_POS veggie_NN by_IN the_DT slice_NN ._.
+Friendly_RB and_CC efficient_JJ service_NN ._.
+Not_RB bad_JJ !_.

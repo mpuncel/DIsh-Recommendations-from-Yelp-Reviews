@@ -1,0 +1,2 @@
+The_DT concept_NN is_VBZ brilliant_JJ --_: Subway_NNP makes_VBZ sandwiches_NNS the_DT way_NN you_PRP want_VBP it_PRP ,_, and_CC 800_CD degrees_NNS makes_VBZ pizzas_NNS the_DT way_NN you_PRP want_VBP it_PRP ._.
+Please_VB do_VB n't_RB hold_VB up_RP the_DT line_NN --_: there_EX is_VBZ always_RB a_DT line_NN ..._:

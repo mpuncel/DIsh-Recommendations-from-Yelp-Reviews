@@ -1,0 +1,4 @@
+The_DT food_NN was_VBD fairly_RB good_JJ ,_, though_IN I_PRP expected_VBD more_RBR based_VBN on_IN experiences_NNS with_IN other_JJ Guiseppe_NNP 's_POS locations_NNS ,_, and_CC for_IN what_WP we_PRP paid_VBD ._.
+Still_RB -_: drinks_NNS were_VBD good_JJ ,_, home-made_JJ limoncello_NN was_VBD excellent_JJ ,_, and_CC the_DT location_NN is_VBZ nice_JJ ._.
+Not_RB a_DT bad_JJ choice_NN if_IN you_PRP are_VBP downtown_NN and_CC seeking_VBG Italian_JJ food_NN ._.
+I_PRP prefer_VBP the_DT main_JJ location_NN in_IN Pismo_NNP ,_, or_CC their_PRP$ take-out_JJ location_NN ,_, also_RB in_IN Pismo_NNP ._.

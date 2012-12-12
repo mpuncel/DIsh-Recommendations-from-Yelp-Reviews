@@ -1,0 +1,9 @@
+Gypsy_NNP 's_POS is_VBZ really_RB hit_VBN or_CC miss_VB for_IN me_PRP ._.
+Their_PRP$ pizzas_NNS are_VBP really_RB good_JJ ,_, based_VBN on_IN the_DT few_JJ times_NNS I_PRP 've_VBP had_VBD them_PRP ._.
+Their_PRP$ Calzones_NNS ,_, especially_RB the_DT pesto_NN ,_, are_VBP delicious_JJ ,_, and_CC huge_JJ to_TO boot_NN ._.
+Their_PRP$ pasta_NN ,_, however_RB ,_, is_VBZ very_RB inconsistent_JJ ._.
+I_PRP remember_VBP really_RB loving_VBG their_PRP$ gnocchi_NNS ,_, but_CC the_DT last_JJ time_NN I_PRP went_VBD it_PRP was_VBD completely_RB bland_VBN ._.
+I_PRP also_RB had_VBD their_PRP$ chicken_NN parmesan_NN recently_RB ,_, and_CC the_DT chicken_NN tasted_VBD like_IN week_NN old_JJ leftovers_NNS that_WDT had_VBD just_RB been_VBN microwaved_VBN ._.
+It_PRP was_VBD very_RB rubbery_JJ and_CC it_PRP tasted_VBD that_DT way_NN ,_, too_RB ._.
+When_WRB Gypsy_NNP 's_POS is_VBZ good_JJ ,_, it_PRP 's_VBZ good_JJ ._.
+But_CC sometimes_RB their_PRP$ pasta_NN leaves_VBZ a_DT lot_NN to_TO be_VB desired_VBN ._.

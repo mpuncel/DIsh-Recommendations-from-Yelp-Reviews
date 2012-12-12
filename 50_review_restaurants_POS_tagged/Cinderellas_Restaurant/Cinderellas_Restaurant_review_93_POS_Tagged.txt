@@ -1,0 +1,1 @@
+Scale_NNP of_IN 1-10_CD -LRB-_-LRB- single_JJ visit_NN -RRB-_-RRB- :_: 8_CD Food_NNP 9_CD Service_NNP 9_CD Atmosphere_NN 8_CD Value_NN

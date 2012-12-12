@@ -1,0 +1,3 @@
+Al_NNP Forno_NNP would_MD have_VB a_DT much_RB lower_JJR reputation_NN if_IN it_PRP were_VBD in_IN Federal_NNP Hill_NNP ._.
+Thought_NNP he_PRP cuisine_NN is_VBZ not_RB directly_RB comparable_JJ ,_, CAV_NNP and_CC Rue_NNP De_NNP L'espoir_NNP but_CC show_VB much_RB more_RBR creativity_NN in_IN their_PRP$ menu_NN ._.
+Al_NNP Forno_NNP has_VBZ simple_JJ dishes_NNS that_WDT are_VBP sometimes_RB good_JJ ,_, but_CC usually_RB lack_VBP any_DT distinctive_JJ spark_VB ._.

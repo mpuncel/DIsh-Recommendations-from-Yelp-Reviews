@@ -1,0 +1,4 @@
+Quite_RB descent_NN little_JJ Italian_JJ place_NN ._.
+Ate_VBD there_EX with_IN my_PRP$ Columbia_NNP friends_NNS ._.
+Cheap_JJ everything_NN and_CC descent_NN food_NN ._.
+Wine_NN was_VBD especially_RB cheap_JJ -LRB-_-LRB- and_CC not_RB totally_RB bad_JJ -RRB-_-RRB- ._.

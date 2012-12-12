@@ -1,0 +1,5 @@
+I_PRP 've_VBP noticed_VBN a_DT correlation_NN between_IN Yelpers_NNP who_WP rate_NN this_DT place_NN as_IN less-than-4-stars_NNS and_CC Yelpers_NNS who_WP ,_, for_IN some_DT reason_NN incomprehensible_NN to_TO me_PRP ,_, order_NN chicken_NN ._.
+Of_IN course_NN your_PRP$ food_NN was_VBD n't_RB zomg_VB amazing_JJ --_: it_PRP was_VBD chicken_NN ._.
+Maybe_RB if_IN you_PRP had_VBD tried_VBN something_NN that_WDT is_VBZ actually_RB delicious_JJ ,_, like_IN the_DT salmon_NN kebabs_NNS or_CC moussaka_NN ,_, you_PRP would_MD have_VB a_DT more_RBR accurate_JJ opinion_NN of_IN Panini_NNP Cafe_NNP ._.
+This_DT is_VBZ my_PRP$ favorite_JJ lunch_NN spot_NN in_IN Westwood_NNP --_: which_WDT ,_, granted_VBN ,_, does_VBZ n't_RB say_VB much_RB ,_, but_CC Panini_NNP Cafe_NNP is_VBZ great_JJ ._.
+Huge_JJ portion_NN sizes_NNS ,_, nice_JJ to_TO students_NNS -LRB-_-LRB- and_CC people_NNS who_WP are_VBP n't_RB actually_RB students_NNS but_CC have_VBP a_DT Bruin_NNP card_NN ..._: -RRB-_-RRB- ,_, a_DT classier_JJR dining_NN experience_NN than_IN most_JJS other_JJ lunchtime_JJ options_NNS in_IN Westwood_NNP ,_, delicious_JJ food_NN --_: what_WP 's_VBZ not_RB to_TO love_VB ?_.

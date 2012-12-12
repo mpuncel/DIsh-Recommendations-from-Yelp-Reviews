@@ -1,0 +1,3 @@
+Great_JJ food_NN ,_, drink_NN selection_NN ,_, service_NN ,_, and_CC atmosphere_NN ._.
+My_PRP$ only_JJ complaint_NN ?_.
+Why_WRB did_VBD they_PRP open_VB right_JJ \*_SYM after_IN \*_SYM I_PRP graduated_VBD ?!_NN

@@ -1,0 +1,4 @@
+A_DT gem_NN in_IN Westwood_NNP Village_NNP !_.
+Great_NNP portions_NNS and_CC great_JJ taste_NN as_IN EVERYTHING_NN tasted_VBD fresh_JJ ._.
+If_IN they_PRP have_VBP the_DT spinach_NN ravioli_NNS as_IN a_DT special_JJ ,_, GET_VB IT_PRP !_.
+The_DT sauce_NN is_VBZ awesome_JJ !_.

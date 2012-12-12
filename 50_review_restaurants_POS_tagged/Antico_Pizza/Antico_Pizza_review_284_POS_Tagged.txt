@@ -1,0 +1,10 @@
+Ok_NNP ,_, well_RB ,_, I_PRP think_VBP everything_NN is_VBZ overrated_VBN and_CC this_DT is_VBZ no_DT exception_NN !_.
+I_PRP have_VBP decided_VBN to_TO implement_VB a_DT new_JJ rule_NN ;_: when_WRB everybody_NN seems_VBZ to_TO be_VB raving_VBG over_IN a_DT place_NN ,_, I_PRP will_MD not_RB set_VB my_PRP$ expectations_NNS high_JJ as_IN I_PRP will_MD be_VB surely_RB -LRB-_-LRB- and_CC sorely_RB -RRB-_-RRB- be_VB disappointed_VBN ._.
+I_PRP was_VBD expecting_VBG this_DT to_TO be_VB amazing_JJ ,_, but_CC it_PRP was_VBD average_JJ at_IN best_JJS ._.
+The_DT crust_NN was_VBD great_JJ ,_, but_CC the_DT rest_NN of_IN the_DT pizza_NN was_VBD not_RB striking_JJ in_IN any_DT way_NN ._.
+The_DT service_NN was_VBD fast_RB ,_, but_CC it_PRP was_VBD the_DT not_RB the_DT small_JJ quaint_NN and_CC warm_JJ place_NN I_PRP envisioned_VBD with_IN warm_JJ Italian_JJ folks_NNS speaking_VBG Italian_JJ ._.
+Like_IN I_PRP said_VBD ,_, average_NN at_IN best_JJS ._.
+Go_VB to_TO Fellinis_NNP ._.
+Or_CC Jac_NNP 's_POS pizza_NN in_IN Inman_NNP Park_NNP ._.
+Or_CC order_VB it_PRP from_IN Pizza_NNP Hut_NNP ._.
+They_PRP deliver_VBP ._.

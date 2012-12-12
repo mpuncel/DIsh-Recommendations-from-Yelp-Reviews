@@ -1,0 +1,4 @@
+I_PRP had_VBD a_DT roast_NN beef_NN panini_NNS and_CC it_PRP was_VBD delicious_JJ !_.
+I_PRP loved_VBD the_DT service_NN and_CC the_DT atmosphere_NN ._.
+Way_NN better_JJR than_IN going_VBG to_TO Starbucks_NNP ._.
+Bom_NNP dia_NN

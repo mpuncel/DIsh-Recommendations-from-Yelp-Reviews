@@ -1,0 +1,2 @@
+Good_JJ pizza_NN ,_, good_JJ dinner_NN rolls_NNS ._.
+A_DT fav_NN of_IN mine_NN in_IN Harvard_NNP Square_NNP ._.

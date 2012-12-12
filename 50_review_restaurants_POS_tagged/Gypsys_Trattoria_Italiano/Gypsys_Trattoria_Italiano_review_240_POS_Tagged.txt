@@ -1,0 +1,10 @@
+Gypsy_NNP 's_POS is_VBZ reasonably_RB priced_VBN ,_, filling_VBG ,_, yummy_NN ,_, and_CC carbilicious_JJ -_: its_PRP$ sure_JJ to_TO make_VB your_PRP$ tummy_JJ feel_NN warm_JJ and_CC happy_JJ ._.
+I_PRP 've_VBP left_VBN Gypsy_NNP 's_POS with_IN a_DT smile_NN on_IN my_PRP$ face_NN every_DT single_JJ time_NN ._.
+Their_PRP$ calzones_NNS are_VBP huge_JJ and_CC you_PRP can_MD easily_RB share_VB -LRB-_-LRB- unless_IN you_PRP 're_VBP feeling_VBG greedy_JJ -RRB-_-RRB- and_CC their_PRP$ servings_NNS are_VBP enough_JJ to_TO feed_VB two_CD people_NNS or_CC for_IN two_CD servings_NNS -LRB-_-LRB- lunch_NN &_CC dinner_NN if_IN you_PRP 're_VBP low_JJ on_IN $_$ -RRB-_-RRB- ._.
+My_PRP$ favorite_JJ is_VBZ the_DT Pollo_NNP Con_NN Pesto_NNP ._.
+Yay_NNP pesto_NN !_.
+I_PRP love_VBP how_WRB they_PRP serve_VBP their_PRP$ garlic_JJ bread_NN with_IN oven_CD baked_JJ garlic_JJ pieces_NNS ._.
+Mmmm_NNP ._.
+The_DT only_JJ thing_NN that_WDT bothers_VBZ me_PRP is_VBZ the_DT long_JJ line_NN and_CC crowded_VBN restaurant_NN but_CC waiting_VBG is_VBZ never_RB a_DT huge_JJ problem_NN ._.
+They_PRP try_VBP to_TO get_VB order_NN ready_JJ as_IN fast_RB as_IN they_PRP can_MD !_.
+I_PRP know_VBP I_PRP will_MD enjoy_VB going_VBG to_TO Gypsy_NNP 's_POS for_IN tasty_JJ Italian_JJ food_NN throughout_IN my_PRP$ years_NNS in_IN college_NN !_.

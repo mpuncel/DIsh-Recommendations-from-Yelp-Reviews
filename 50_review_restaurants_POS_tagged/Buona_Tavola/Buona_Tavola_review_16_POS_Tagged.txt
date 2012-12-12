@@ -1,0 +1,3 @@
+Excellent_JJ Tuscany_NNP Italian_JJ food_NN ._.
+Great_NNP for_IN a_DT business_NN lunch_NN ,_, a_DT romantic_JJ date_NN or_CC a_DT family_NN gathering_NN ._.
+The_DT back_JJ courtyard_NN is_VBZ very_RB charming_JJ ,_, the_DT meats_NNS and_CC pasta_NN are_VBP top_JJ rate_NN ,_, and_CC plus_CC unique_JJ specialties_NNS ._.

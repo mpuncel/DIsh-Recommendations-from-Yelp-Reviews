@@ -1,0 +1,4 @@
+Pizza_NNP =_SYM greasy_RB good_JJ ._.
+Subs_NNS =_SYM ehhh_NN ,_, there_EX are_VBP too_RB many_JJ other_JJ decent_JJ places_NNS that_WDT will_MD do_VB it_PRP better_JJR Delivery_NN service_NN to_TO an_DT office_NN during_IN lunch_NN time_NN =_SYM do_VBP n't_RB even_RB bother_VB !_.
+The_DT driver_NN got_VBD lost_VBN coming_VBG to_TO my_PRP$ office_NN building_NN and_CC decided_VBD it_PRP 'd_MD be_VB ok_JJ not_RB to_TO show_VB up_RP AND_CC not_RB to_TO call_VB us_PRP ._.
+Grrrrr_NNP

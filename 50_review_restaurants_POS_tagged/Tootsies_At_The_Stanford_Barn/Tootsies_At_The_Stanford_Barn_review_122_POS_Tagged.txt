@@ -1,0 +1,5 @@
+I_PRP ordered_VBD a_DT Tootsie_NNP burger_NN and_CC my_PRP$ wife_NN ordered_VBD a_DT Tuna_NNP pannini_NN ._.
+Her_PRP$ Tuna_NN pannini_NN was_VBD ok_JJ but_CC I_PRP find_VBP my_PRP$ Tootsie_NNP burger_NN tasted_VBD a_DT little_JJ funny_JJ ._.
+First_NNP of_IN all_DT ,_, the_DT meat_NN was_VBD too_RB dry_JJ ._.
+Second_NNP ,_, Tootsie_NNP added_VBD some_DT funny_JJ spice_NN within_IN the_DT pattie_NN and_CC tasted_VBD a_DT little_JJ weird_JJ ._.
+I_PRP do_VBP n't_RB think_VB I_PRP will_MD go_VB back_RB again_RB ._.

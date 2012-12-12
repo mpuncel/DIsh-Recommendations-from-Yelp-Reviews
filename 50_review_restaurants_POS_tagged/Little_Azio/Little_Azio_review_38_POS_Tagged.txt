@@ -1,0 +1,5 @@
+The_DT food_NN here_RB is_VBZ great_JJ and_CC cheap_JJ !_.
+The_DT pizza_NN is_VBZ thin_JJ crust_NN ,_, and_CC yummy_NN ._.
+My_PRP$ favorite_JJ thing_NN here_RB has_VBZ to_TO be_VB the_DT cuban_JJ panino_NN or_CC the_DT panino_NN con_NN pollo_NN ._.
+These_DT sandwiches_NNS come_VBP with_IN a_DT little_JJ taste_NN of_IN the_DT pasta_NN salad_NN as_RB well_RB ._.
+The_DT hummus_NN dip_NN is_VBZ great_JJ too_RB ._.

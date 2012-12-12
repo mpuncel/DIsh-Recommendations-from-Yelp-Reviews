@@ -1,0 +1,17 @@
+Scale_NNP 1_CD =_SYM poor_JJ ,_, 5_CD =_SYM outstanding_JJ CUSTOMER_NNP SERVICE_NNP :_: 3_LS ._.
+No_DT reservations_NNS for_IN under_IN 6_CD folks_NNS ,_, but_CC host_NN was_VBD nice_JJ and_CC they_PRP 'll_MD fetch_VB you_PRP in_IN the_DT bar_NN ._.
+Waitress_NN was_VBD super_JJ young_JJ and_CC had_VBD minimal_JJ knowledge_NN of_IN food_NN and_CC wine_NN -_: she_PRP could_MD bring_VB you_PRP samples_NNS ,_, that_DT 's_VBZ about_IN it_PRP ._.
+FOOD_NN :_: 4_LS ._.
+I_PRP thought_VBD it_PRP was_VBD a_DT 3_CD ,_, my_PRP$ wife_NN thought_VBD it_PRP was_VBD a_DT 5_CD ._.
+Definitely_RB tasty_JJ ._.
+I_PRP had_VBD the_DT corn_NN fritters_NNS app_VBP w_FW \/_FW spicy_FW mayo_FW -_: not_RB sure_JJ what_WP i_FW was_VBD expecting_VBG ,_, but_CC they_PRP were_VBD just_RB OK_JJ ._.
+My_PRP$ wife_NN had_VBD the_DT roasted_JJ beet_NN salad_NN and_CC said_VBD it_PRP was_VBD ``_`` lovely_JJ ''_'' ._.
+For_IN an_DT app_NN i_FW had_VBD the_DT bread_NN gnocchi_NN with_IN spicy_NN sausage_NN red_JJ sauce_NN which_WDT was_VBD tasty_JJ but_CC not_RB ``_`` good_JJ lord_NN i_FW have_VBP to_TO have_VB this_DT again_RB ''_'' ._.
+My_PRP$ wife_NN had_VBD the_DT pappardelle_NN with_IN a_DT tomato_NN ,_, basil_NN ,_, and_CC corn_NN chowder_NN and_CC is_VBZ ``_`` still_RB craving_NN it_PRP ''_'' ._.
+AMBIANCE_NNP :_: 4_LS ._.
+It_PRP 's_VBZ in_IN sort_NN of_IN an_DT industrial_JJ wasteland_NN portion_NN of_IN Providence_NNP -_: near_IN but_CC not_RB on_IN the_DT water_NN ._.
+But_CC they_PRP have_VBP their_PRP$ own_JJ parking_NN lot_NN -LRB-_-LRB- free_JJ -RRB-_-RRB- ._.
+Inside_IN the_DT place_NN is_VBZ definitely_RB cute_JJ -_: outdoor_JJ patio_NN was_VBD great_JJ ,_, and_CC inside_RB is_VBZ nice_JJ too_RB ._.
+VALUE_NN :_: 3_LS ._.
+About_IN what_WP you_PRP 'd_MD expect_VB --_: pricey_JJ ,_, but_CC great_JJ food_NN ._.
+This_DT is_VBZ probably_RB in_IN reality_NN a_DT 3.5_CD which_WDT is_VBZ why_WRB overall_JJ they_PRP get_VBP the_DT 4_CD stars_NNS ._.

@@ -1,0 +1,4 @@
+San_NNP Genaro_NNP is_VBZ one_CD of_IN their_PRP$ best_JJS ,_, but_CC all_DT of_IN the_DT pizza_NN 's_POS are_VBP worth_JJ trying_VBG ._.
+The_DT wait_NN can_MD be_VB significant_JJ ,_, but_CC definitely_RB worth_JJ it_PRP ._.
+Authentic_JJ atmosphere_NN ,_, nice_JJ staff_NN and_CC BYOB_NNP ._.
+The_DT cannolis_NNS are_VBP already_RB excellent_JJ ,_, especially_RB the_DT pistachio_NN ._.

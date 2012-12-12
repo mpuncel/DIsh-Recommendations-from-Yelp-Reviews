@@ -1,0 +1,10 @@
+The_DT overall_JJ atmosphere_NN ,_, wine_NN bar_NN ,_, and_CC professional_JJ service_NN earned_VBD 5_CD stars_NNS from_IN me_PRP ._.
+The_DT food_NN was_VBD excellent_JJ =_SYM superior_JJ to_TO the_DT others_NNS in_IN the_DT Momo_NNP group_NN and_CC most_JJS restaurants_NNS in_IN the_DT area_NN ._.
+The_DT portions_NNS were_VBD surprisingly_RB small_JJ ,_, although_IN that_DT evolved_VBN from_IN the_DT post-Irene_JJ renovations_NNS ._.
+The_DT prices_NNS reflected_VBD this_DT change_NN and_CC were_VBD noticeably_RB lower_JJR ._.
+Some_DT of_IN the_DT dishes_NNS were_VBD better_JJR than_IN others_NNS ,_, and_CC dessert_NN was_VBD a_DT little_JJ disappointing_JJ ._.
+But_CC I_PRP give_VBP the_DT restaurant_NN an_DT ``_`` A_NN ''_'' for_IN effort_NN for_IN pulling_VBG itself_PRP together_RB after_IN the_DT devastating_JJ floods_NNS ._.
+And_CC I_PRP much_RB prefer_VBP the_DT smaller_JJR portions_NNS and_CC reduced_VBN price_NN -LRB-_-LRB- I_PRP had_VBD dined_VBN at_IN Eno_NNP Terra_NNP with_IN the_DT higher_JJR price_NN =_SYM large_JJ portions_NNS -RRB-_-RRB- ._.
+If_IN I_PRP could_MD give_VB 4.5_CD stars_NNS I_PRP would_MD ._.
+Deductions_NNS are_VBP made_VBN for_IN the_DT ``_`` global_JJ wines_NNS ''_'' --_: it_PRP would_MD be_VB nice_JJ to_TO see_VB more_JJR local_JJ vineyards_NNS represented_VBN -LRB-_-LRB- for_IN ecological_JJ reasons_NNS -RRB-_-RRB- since_IN they_PRP 're_VBP trying_VBG to_TO be_VB ``_`` green_JJ ''_'' ._.
+And_CC the_DT desserts_NNS have_VBP some_DT room_NN for_IN improvement_NN ._.

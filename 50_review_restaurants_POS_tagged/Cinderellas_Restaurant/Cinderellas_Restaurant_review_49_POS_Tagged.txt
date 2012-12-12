@@ -1,0 +1,4 @@
+Decent_JJ pizza_NN ,_, salad_NN ,_, soup_NN ,_, and_CC sandwiches_NNS at_IN decent_JJ prices_NNS ._.
+I_PRP 've_VBP been_VBN satisfied_VBN with_IN everything_NN I_PRP 've_VBP had_VBN here_RB ._.
+Plus_CC the_DT quick_JJ and_CC free_JJ delivery_NN makes_VBZ it_PRP a_DT good_JJ last_JJ minute_NN lunch_NN order_NN when_WRB you_PRP 're_VBP already_RB starving_VBG ._.
+One_CD of_IN my_PRP$ regulars_NNS when_WRB I_PRP 'm_VBP working_VBG in_IN Kendall_NNP Square_NNP ._.

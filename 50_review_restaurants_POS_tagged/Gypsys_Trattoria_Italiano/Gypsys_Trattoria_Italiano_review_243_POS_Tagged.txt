@@ -1,0 +1,10 @@
+My_PRP$ absolute_JJ favorite_JJ Italian_JJ place_NN in_IN Berkeley_NNP ._.
+Maybe_RB it_PRP 's_VBZ because_IN I_PRP started_VBD eating_VBG there_RB when_WRB I_PRP was_VBD in_IN college_NN ,_, but_CC I_PRP love_VBP this_DT place_NN ._.
+It_PRP has_VBZ excellent_JJ prices_NNS ._.
+Also_RB ,_, it_PRP has_VBZ amazing_JJ food_NN ._.
+Everything_NN I_NN ,_, or_CC anyone_NN I_PRP 've_VBP eaten_VBN with_IN ,_, has_VBZ gotten_VBN has_VBZ been_VBN delicious_JJ ._.
+And_CC they_PRP are_VBP very_RB good_JJ about_IN making_VBG the_DT order_NN exactly_RB as_IN you_PRP want_VBP it_PRP -LRB-_-LRB- meaning_NN holding_VBG some_DT items_NNS -RRB-_-RRB- ,_, even_RB if_IN it_PRP is_VBZ a_DT bit_NN strange_JJ ._.
+My_PRP$ absolute_JJ favorite_JJ dish_NN is_VBZ the_DT Crazy_NNP Alfredo_NNP ._.
+Each_DT dish_NN also_RB comes_VBZ with_IN a_DT slice_NN of_IN toasted_VBN bread_NN with_IN garlic_JJ on_IN it_PRP ._.
+It_PRP does_VBZ take_VB a_DT little_JJ while_NN for_IN orders_NNS to_TO come_VB up_RP ,_, but_CC it_PRP is_VBZ worth_IN the_DT wait_NN ._.
+Although_IN I_PRP am_VBP a_DT bit_NN bummed_VBN they_PRP started_VBD charging_VBG extra_JJ for_IN credit_NN card_NN transactions_NNS ,_, I_PRP will_MD still_RB keep_VB going_VBG ,_, because_IN the_DT employees_NNS are_VBP so_RB nice_JJ and_CC the_DT food_NN is_VBZ so_RB great_JJ !_.

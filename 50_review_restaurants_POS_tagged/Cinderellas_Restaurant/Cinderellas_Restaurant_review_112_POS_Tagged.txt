@@ -1,0 +1,3 @@
+EW_NNP EW_NNP EW_NNP I_PRP just_RB got_VBD my_PRP$ chicken_NN kabob_NN plate_NN and_CC it_PRP was_VBD complete_JJ with_IN an_DT already_RB opened_VBN and_CC used_VBN ketchup_NN packet_NN ._.
+here_RB is_VBZ the_DT script_NN from_IN my_PRP$ phone_NN call_NN :_: me_PRP :_: ``_`` Uh_NNP yeah_NN ,_, I_PRP found_VBD an_DT already-open_JJ and_CC used_JJ ketchup_NN packet_NN in_IN my_PRP$ lunch_NN ''_'' Cinderellas_NNPS :_: ``_`` Oh_UH sorry_RB ,_, would_MD you_PRP like_VB more_RBR ketchup_VB ?_. '_''
+I_PRP 'm_VBP nauseous_JJ ._.

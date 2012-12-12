@@ -1,0 +1,7 @@
+Bad_JJ Horse_NNP is_VBZ BAD_NNP in_IN that_DT negative_JJ word_NN awesome_JJ experience_NN kind_NN of_IN way_NN ._.
+This_DT is_VBZ really_RB really_RB good_JJ thin_JJ crust_NN pizza_NN ._.
+The_DT type_NN that_WDT neither_CC scorches_VBZ the_DT ingredients_NNS nor_CC makes_VBZ them_PRP goopy_JJ ._.
+You_PRP pick_VBP up_RP a_DT slice_NN and_CC bite_VB into_IN it_PRP and_CC a_DT crunch_NN of_IN flavors_NNS ._.
+The_DT service_NN was_VBD amazing_JJ ._.
+I_PRP was_VBD not_RB happy_JJ they_PRP did_VBD not_RB have_VB Peroni_NNP ,_, but_CC the_DT waiter_NN suggested_VBD a_DT Belgian_JJ beer_NN that_WDT surprisingly_RB ,_, was_VBD actually_RB better_JJR ._.
+Scusate_NNP i_FW miei_FW amici_FW italiani_FW ._.

@@ -1,0 +1,7 @@
+Romantic_JJ Italian_JJ restaurant_NN ._.
+Great_NNP wine_NN selection_NN and_CC wonderful_JJ service_NN ._.
+Try_VB to_TO make_VB a_DT reservation_NN ahead_RB of_IN time_NN ._.
+Very_RB quaint_NN ,_, quiet_JJ restaurant_NN -LRB-_-LRB- what_WP used_VBD to_TO be_VB a_DT former_JJ home_NN -RRB-_-RRB- ._.
+Very_RB private_JJ and_CC intimate_JJ setting_NN ._.
+A_DT great_JJ place_NN to_TO take_VB a_DT date_NN ._.
+I_PRP ordered_VBD the_DT veal_NN --_: very_RB good_JJ ._.

@@ -1,0 +1,4 @@
+This_DT is_VBZ the_DT only_JJ place_NN i_FW will_MD buy_VB pizza_NN !_.
+It_PRP truely_RB is_VBZ heavenly_RB the_DT server_NN mario_NN is_VBZ always_RB a_DT delight_NN !_.
+Takes_VBZ care_NN of_IN us_PRP everytime_VB me_PRP and_CC my_PRP$ boyfriend_NN have_VBP been_VBN there_RB !_.
+The_DT lasagna_NN there_EX is_VBZ to_TO die_VB for_IN as_RB well_RB I_PRP havent_VB had_VBD anything_NN off_IN the_DT menu_NN i_FW did_VBD not_RB like_IN !_.

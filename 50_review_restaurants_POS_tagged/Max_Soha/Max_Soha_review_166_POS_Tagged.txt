@@ -1,0 +1,5 @@
+Works_NNP for_IN me_PRP for_IN hassle-free_JJ Italian_JJ food_NN this_DT far_JJ uptown_NN ._.
+Salads_NNS are_VBP very_RB good_JJ ,_, and_CC the_DT gnocchi_NNS ordered_VBN was_VBD done_VBN to_TO perfection_NN ._.
+The_DT service_NN is_VBZ rather_RB brusque_JJ ,_, but_CC very_RB efficient_JJ and_CC decidedly_RB NOT_RB rude_JJ ._.
+It_PRP seemed_VBD as_IN though_IN they_PRP simply_RB wanted_VBD to_TO get_VB their_PRP$ jobs_NNS done_VBN ._.
+Careful_JJ when_WRB ordering_VBG anything_NN containing_VBG truffle_JJ oil_NN ,_, though_RB --_: they_PRP tend_VBP to_TO use_VB too_RB much_RB ,_, which_WDT makes_VBZ sauces_NNS way_NN too_RB rich_JJ ._.

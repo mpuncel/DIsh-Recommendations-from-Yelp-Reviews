@@ -1,0 +1,4 @@
+We_PRP like_IN this_DT place_NN ._.
+Friendly_RB service_NN and_CC good_JJ food_NN ._.
+It_PRP 's_VBZ not_RB stellar_JJ ,_, but_CC it_PRP 's_VBZ good_JJ ,_, and_CC there_EX are_VBP some_DT nice_JJ renditions_NNS of_IN traditional_JJ dishes_NNS along_IN with_IN some_DT new_JJ ones_NNS ,_, and_CC the_DT prices_NNS are_VBP reasonable_JJ ._.
+If_IN you_PRP have_VBP been_VBN to_TO a_DT relatively_RB small_JJ tratorria_NN in_IN a_DT small_JJ or_CC medium_JJ size_NN town_NN in_IN italy_RB ,_, you_PRP know_VBP what_WP I_PRP am_VBP talking_VBG about_IN ._.

@@ -1,0 +1,3 @@
+This_DT Italian_JJ restaurant_NN lies_VBZ a_DT little_JJ north_NN of_IN Columbia_NNP ,_, tucked_VBD away_RB from_IN busy_JJ Broadway_NNP ._.
+The_DT warm_JJ ,_, colorful_JJ décor_NN evokes_VBZ the_DT homemade_NN feel_NN of_IN the_DT food_NN --_: a_DT mix_NN of_IN classic_JJ and_CC specialty_NN dishes_NNS ._.
+With_IN an_DT emphasis_NN on_IN fresh_JJ ingredients_NNS and_CC fresh_JJ living_NN ,_, the_DT restaurant_NN is_VBZ also_RB 100_CD %_NN carbon_NN neutral_JJ ._.

@@ -1,0 +1,6 @@
+I_PRP really_RB loved_VBD the_DT pizza_NN we_PRP ordered_VBD ,_, the_DT Pig_NNP &_CC Goat_NNP ,_, which_WDT had_VBD goat_VBN cheese_NN ,_, prosciutto_NN ,_, and_CC roasted_JJ red_JJ peppers_NNS ._.
+The_DT combination_NN was_VBD delicious_JJ ,_, and_CC the_DT crust_NN here_RB was_VBD delightfully_RB thin_JJ and_CC crispy_JJ ._.
+It_PRP is_VBZ ,_, however_RB ,_, a_DT bit_NN expensive_JJ for_IN pizza_NN -LRB-_-LRB- for_IN two_CD beers_NNS and_CC this_DT pizza_NN ,_, the_DT bill_NN came_VBD to_TO $_$ 42_CD with_IN tip_NN ,_, though_IN we_PRP did_VBD have_VB two_CD slices_NNS leftover_RBR for_IN lunch_NN the_DT next_JJ day_NN -RRB-_-RRB- ._.
+The_DT service_NN was_VBD very_RB attentive_JJ ,_, and_CC they_PRP left_VBD a_DT nice_JJ ,_, if_IN bizarre_JJ note_NN on_IN the_DT back_NN of_IN the_DT receipt_NN thanking_VBG us_PRP ,_, which_WDT I_PRP always_RB like_VBP ._.
+The_DT decor_NN is_VBZ simple_JJ ,_, but_CC nice_JJ for_IN a_DT pizza-place_NN ,_, and_CC I_PRP really_RB loved_VBD the_DT big_JJ wooden_JJ shutters_NNS around_IN the_DT back_JJ windows_NNS ._.
+I_PRP 'd_MD be_VB back_RB ,_, but_CC I_PRP think_VBP it_PRP would_MD be_VB for_IN the_DT happy_JJ hour_NN special_JJ -_: plain_RB large_JJ pie_NN and_CC two_CD beers_NNS for_IN $_$ 20_CD ._.

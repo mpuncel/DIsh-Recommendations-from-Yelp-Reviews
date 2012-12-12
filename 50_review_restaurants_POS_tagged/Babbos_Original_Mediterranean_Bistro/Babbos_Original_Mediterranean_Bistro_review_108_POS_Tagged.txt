@@ -1,0 +1,5 @@
+This_DT is_VBZ a_DT great_JJ little_JJ restaurant_NN in_IN Stanford_NNP Shopping_NNP Center_NNP ._.
+The_DT food_NN is_VBZ so_RB fresh_JJ and_CC is_VBZ made_VBN behind_IN a_DT bar_NN so_IN you_PRP can_MD see_VB the_DT chefs_NNS working_VBG right_RB in_IN front_NN of_IN you_PRP ._.
+The_DT owner_NN ,_, Babbo_NNP ,_, is_VBZ usually_RB walking_VBG around_RB and_CC twice_RB has_VBZ come_VBN to_TO my_PRP$ table_NN to_TO chat_VB ,_, ask_VB how_WRB the_DT food_NN is_VBZ and_CC talk_VB about_IN his_PRP$ skiing_NN days_NNS in_IN Europe_NNP ._.
+The_DT decor_NN is_VBZ fun_NN and_CC quaint_NN and_CC the_DT lighting_NN is_VBZ very_RB dim_RB ._.
+It_PRP is_VBZ a_DT little_JJ expensive_JJ but_CC the_DT service_NN is_VBZ intimate_JJ and_CC the_DT food_NN is_VBZ always_RB delicious_JJ ._.

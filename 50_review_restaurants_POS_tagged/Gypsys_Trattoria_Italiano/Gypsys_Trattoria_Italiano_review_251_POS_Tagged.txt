@@ -1,0 +1,9 @@
+Great_NNP cheap_RB ,_, Italian_JJ food_NN ._.
+Best_JJS in_IN Berkeley_NNP by_IN far_RB ._.
+I_PRP miss_VBP this_DT place_NN so_RB much_RB after_IN moving_VBG away_RB ._.
+The_DT pastas_NNS and_CC calzones_NNS are_VBP tasty_JJ ._.
+The_DT garlic_JJ bread_NN that_WDT comes_VBZ with_IN most_JJS food_NN items_NNS is_VBZ n't_RB very_RB good_JJ ._.
+In_IN fact_NN ,_, the_DT garlic_NN on_IN top_NN of_IN the_DT bread_NN is_VBZ especially_RB lame_JJ ._.
+The_DT pizzas_NNS are_VBP terrible_JJ ._.
+Minus_NNP one_CD star_NN for_IN bad_JJ pizza_NN tacky_JJ garlic_JJ bread_NN ._.
+However_RB ,_, if_IN you_PRP enjoy_VBP huge_JJ servings_NNS of_IN cheap_JJ pasta_NN and_CC calzones_NNS ,_, then_RB this_DT is_VBZ the_DT place_NN for_IN you_PRP ._.

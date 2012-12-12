@@ -1,0 +1,4 @@
+Burger_NNP with_IN egg_NN is_VBZ solid_JJ ._.
+Fav_NNP wine_NN :_: moscato_VB d'asti_NNS ._.
+They_PRP have_VBP other_JJ good_JJ small_JJ tapas_NNS style_NN plates_VBZ ._.
+Good_JJ chill_NN out_IN place_NN for_IN USC_NNP kids_NNS ._. ._.

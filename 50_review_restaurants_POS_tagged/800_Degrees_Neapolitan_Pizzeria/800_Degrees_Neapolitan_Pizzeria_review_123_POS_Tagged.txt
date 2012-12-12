@@ -1,0 +1,6 @@
+yum_NN !_.
+tried_VBD the_DT pizza_NN margherita_NN with_IN meatballs_NNS ,_, broccolini_NNS and_CC chilis_NNS ._.
+pizza_NN was_VBD so_RB delicious_JJ and_CC crust_NN was_VBD the_DT perfect_JJ thickness_NN for_IN me_PRP ._.
+love_NN the_DT assembly_NN line_NN set_VBN up_RP and_CC it_PRP 's_VBZ amazing_JJ how_WRB quickly_RB your_PRP$ pizza_NN is_VBZ ready_JJ ._.
+prices_NNS are_VBP super_JJ reasonable_JJ too_RB ._.
+awesome_JJ lunch_NN spot_NN !_.

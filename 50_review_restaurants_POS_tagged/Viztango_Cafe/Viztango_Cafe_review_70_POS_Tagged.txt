@@ -1,0 +1,3 @@
+Cool_NNP ._.
+A_DT picture_NN of_IN Matt_NNP Leinert_NNP endorsing_VBG this_DT place_NN along_IN with_IN a_DT quote_NN saying_VBG that_IN he_PRP likes_VBZ No_DT Doubt_NN ._.
+Next_JJ ._.

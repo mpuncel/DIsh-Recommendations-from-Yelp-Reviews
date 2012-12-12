@@ -1,0 +1,5 @@
+The_DT correlating_VBG star_NN review_NN of_IN :_: Meh_NNP ._.
+I_PRP 've_VBP experienced_VBN better_JJR is_VBZ exactly_RB my_PRP$ sentiment_NN ._.
+My_PRP$ group_NN had_VBD the_DT mussels_NNS ,_, pesto_JJ pizza_NN ,_, and_CC squash_JJ lasagna_NN ,_, each_DT of_IN which_WDT were_VBD better_JJR at_IN other_JJ local_JJ restaurants_NNS ._.
+While_IN the_DT food_NN was_VBD not_RB terrible_JJ by_IN any_DT means_NNS ,_, there_EX also_RB was_VBD n't_RB anything_NN special_JJ about_IN it_PRP as_RB well_RB ._.
+However_RB as_IN a_DT caveat_NN to_TO this_DT review_NN ,_, I_PRP have_VBP to_TO point_VB out_RP that_IN the_DT evening_NN I_PRP went_VBD was_VBD also_RB the_DT first_JJ evening_NN they_PRP were_VBD trying_VBG a_DT new_JJ menu_NN ._.

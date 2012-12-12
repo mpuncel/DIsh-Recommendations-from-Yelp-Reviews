@@ -1,0 +1,4 @@
+Great_NNP Food_NNP ESPECIALLY_NNP the_DT Tiramisu_NNP !_.
+RIDICULOUS_JJ prices_NNS so_RB i_FW 'll_MD just_RB get_VB my_PRP$ pizza_NN else_RB where_WRB and_CC just_RB get_VB a_DT $_$ 7_CD Tiramisu_NNP ._.
+One_CD star_NN for_IN great_JJ tiramisu_NN ._.
+Thats_VBZ the_DT only_JJ reason_NN ._.

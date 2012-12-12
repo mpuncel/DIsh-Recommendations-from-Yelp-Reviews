@@ -1,0 +1,6 @@
+Bacaro_NNP LA_NNP Beefsteak_NNP Sunday_NNP is_VBZ amazing_JJ ._.
+The_DT service_NN is_VBZ excellent_JJ ,_, the_DT onion_JJ rings_NNS are_VBP so_RB crisp_JJ ,_, the_DT meat_NN is_VBZ tender_NN ,_, the_DT bread_NN is_VBZ soft_JJ ,_, and_CC the_DT potatoes_NNS are_VBP delicious_JJ !_.
+I_PRP do_VBP n't_RB have_VB one_CD complaint_NN ._.
+Your_PRP$ glasses_NNS will_MD be_VB full_JJ and_CC your_PRP$ stomachs_NNS satisfied_JJ !_.
+Make_VB a_DT reservation_NN for_IN this_DT and_CC enjoy_VB a_DT wonderful_JJ Sunday_NNP dinner_NN ._.
+This_DT event_NN is_VBZ only_RB the_DT first_JJ Sunday_NNP of_IN every_DT month_NN so_RB book_NN soon_RB ._.

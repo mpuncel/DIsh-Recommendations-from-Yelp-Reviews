@@ -1,0 +1,8 @@
+Excellent_JJ sandwiches_NNS ,_, awesome_JJ place_NN to_TO have_VB lunch_NN especially_RB when_WRB it_PRP 's_VBZ warm_JJ and_CC sunny_JJ outside_NN ._.
+There_EX 's_VBZ plenty_NN of_IN patio_NN seating_NN and_CC umbrellas_NNS ._.
+I_PRP went_VBD Yelp-less_JJ on_IN this_DT one_CD and_CC had_VBD a_DT Tootsie_NNP 's_POS burger_NN ,_, which_WDT is_VBZ essential_JJ a_DT burger_NN with_IN a_DT veal_NN patty_NN -LRB-_-LRB- YES_NNP veal_NN ,_, instead_RB of_IN a_DT traditional_JJ patty_NN -RRB-_-RRB- -_: delicious_JJ !_.
+I_PRP usually_RB prefer_VBP having_VBG anything_NN over_IN a_DT burger_NN ,_, but_CC Tootsie_NNP 's_POS is_VBZ an_DT exception_NN ._.
+Highly_NNP recommended_VBD ._.
+It_PRP 's_VBZ pretty_RB close_RB to_TO Stanford_NNP shopping_NN center_NN and_CC literally_RB few_JJ steps_NNS from_IN the_DT hospital_NN ._.
+PHOTO_NN :_: http:\/\/www.yelp.com\/biz_photos\/3XwVZr6Jj2DnZ8B2W3RboQ_NNS ?_.
+select_JJ =_SYM eIuwL_GcYgCSi6eh3ugxsw_NNS

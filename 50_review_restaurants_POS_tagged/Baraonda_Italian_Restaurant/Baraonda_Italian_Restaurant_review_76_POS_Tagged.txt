@@ -1,0 +1,2 @@
+The_DT pizzas_NNS are_VBP good_JJ -_: Fritti_NNP is_VBZ better_RBR ._.
+But_CC ,_, the_DT lamb_NN chops_NNS here_RB were_VBD awesome_JJ !!_NN

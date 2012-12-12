@@ -1,0 +1,3 @@
+Gypsy_NNP 's_POS is_VBZ a_DT great_JJ place_NN for_IN pasta_NN ,_, calzones_NNS ,_, pizza_NN and_CC sandwiches_NNS close_RB to_TO the_DT campus_NN ._.
+They_PRP have_VBP a_DT pretty_RB broad_JJ menu_NN for_IN those_DT that_WDT love_VBP variety_NN ._.
+I_PRP used_VBD to_TO try_VB their_PRP$ different_JJ calzones_NNS -LRB-_-LRB- ~_CD $_$ 6_CD -RRB-_-RRB- ,_, and_CC the_DT serving_VBG sizes_NNS are_VBP huge_JJ ,_, aka_FW lunch_NN ,_, dinner_NN ,_, and_CC breakfast_NN the_DT next_JJ morning_NN ._.

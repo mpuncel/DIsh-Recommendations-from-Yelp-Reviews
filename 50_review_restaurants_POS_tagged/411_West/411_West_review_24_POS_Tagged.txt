@@ -1,0 +1,5 @@
+My_PRP$ favorite_JJ restaurant_NN in_IN Chapel_NNP Hill_NNP ._.
+Food_NNP is_VBZ always_RB good_JJ and_CC the_DT dinner_NN specials_NNS are_VBP constantly_RB changing_VBG ._.
+Took_NNP my_PRP$ wife_NN on_IN our_PRP$ first_JJ date_NN here_RB 8_CD years_NNS ago_RB ,_, am_VBP a_DT frequent_JJ customer_NN ,_, and_CC have_VBP never_RB had_VBN a_DT bad_JJ meal_NN ._.
+THe_NNP servers_NNS are_VBP friendly_JJ and_CC hte_JJ atmosphere_NN is_VBZ great_JJ ._.
+The_DT beef_NN tenderloin_NN and_CC the_DT shrimp_NN and_CC polenta_NN are_VBP my_PRP$ favorites_NNS ._.

@@ -1,0 +1,4 @@
+This_DT Ledo_NNP 's_POS is_VBZ sort_NN of_IN pricey_JJ for_IN lunch_NN -LRB-_-LRB- 12-15_CD pp_NN -RRB-_-RRB- and_CC if_IN you_PRP do_VBP not_RB get_VB there_RB early_RB there_EX will_MD be_VB a_DT wait_NN ._.
+I_PRP guess_VBP they_PRP had_VBD to_TO make_VB up_RP for_IN moving_VBG from_IN their_PRP$ University_NNP location_NN to_TO this_DT new_JJ space_NN ._.
+One_CD thing_NN I_PRP hate_VBP about_IN going_VBG to_TO restaurants_NNS by_IN the_DT University_NNP is_VBZ that_IN you_PRP have_VBP to_TO pay_VB for_IN parking_NN ._.
+Carry_JJ quarters_NNS with_IN you_PRP to_TO feed_VB the_DT meters_NNS ._.

@@ -1,0 +1,4 @@
+For_IN a_DT place_NN called_VBN Pizza_NNP House_NNP ,_, I_PRP do_VBP n't_RB think_VB their_PRP$ pizzas_NNS are_VBP all_DT that_DT special_JJ ._.
+This_DT is_VBZ a_DT great_JJ place_NN to_TO go_VB with_IN big_JJ groups_NNS though_IN ,_, especially_RB late_RB at_IN night_NN ._.
+If_IN you_PRP ever_RB find_VBP yourself_PRP here_RB and_CC do_VBP n't_RB feel_VB like_IN eating_VBG pizza_NN ,_, try_VBP their_PRP$ chipatis_NNS ._.
+They_PRP 're_VBP so_RB good_JJ !_.

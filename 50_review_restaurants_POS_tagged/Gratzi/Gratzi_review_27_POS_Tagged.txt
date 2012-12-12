@@ -1,0 +1,5 @@
+Good_JJ ,_, fresh_JJ italian_JJ food_NN ._.
+Also_RB ,_, the_DT prices_NNS are_VBP competitive_JJ with_IN Olive_NNP Garden_NNP ,_, so_IN it_PRP is_VBZ definitely_RB a_DT good_JJ deal_NN for_IN freshly_RB made_VBN bread_NN and_CC pasta_NN ._.
+Sadly_RB the_DT service_NN can_MD be_VB hit_VBN or_CC miss_VBP as_IN of_IN late_JJ -LRB-_-LRB- past_JJ year_NN or_CC so_RB -RRB-_-RRB- ._.
+I_PRP just_RB went_VBD back_RB for_IN my_PRP$ birthday_NN -LRB-_-LRB- which_WDT is_VBZ a_DT great_JJ deal_NN by_IN the_DT way_NN ,_, 50_CD %_NN off_IN two_CD person_NN check_NN and_CC free_JJ dessert_NN -RRB-_-RRB- ,_, and_CC we_PRP finally_RB had_VBD good_JJ service_NN after_IN a_DT string_NN of_IN misses_VBZ ._.
+Ask_VB for_IN Walter_NNP ._.

@@ -1,0 +1,5 @@
+We_PRP need_VBP more_JJR of_IN the_DT unexpected_JJ in_IN the_DT USC_NNP University_NNP Park_NNP Neighborhood_NNP -_: and_CC this_DT was_VBD definitely_RB different_JJ ._.
+Moderately_RB priced_VBN wine_NN and_CC beer_NN in_IN a_DT understated_VBN but_CC hip_NN and_CC somehow_RB elegant_JJ atmosphere_NN ._.
+Tapas_NNP and_CC more_JJR tapas_NNS to_TO sample_NN ._.
+The_DT owners_NNS and_CC chefs_NNS coming_VBG right_RB to_TO your_PRP$ table_NN to_TO disagree_VB with_IN you_PRP about_IN which_WDT wine_NN you_PRP 're_VBP drinking_VBG is_VBZ the_DT best_JJS ._.
+And_CC after_IN a_DT leisurely_JJ two_CD and_CC a_DT half_JJ hour_NN lunch_NN ,_, you_PRP realize_VBP you_PRP 'll_MD never_RB be_VB able_JJ to_TO go_VB there_RB on_IN your_PRP$ lunch_NN break_NN again_RB but_CC you_PRP loved_VBD the_DT pace_NN anyway_RB ._.

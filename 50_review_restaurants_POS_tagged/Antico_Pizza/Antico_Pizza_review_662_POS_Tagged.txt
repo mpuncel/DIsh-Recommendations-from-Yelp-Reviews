@@ -1,0 +1,7 @@
+Perfect_NNP pizzas_NNS ._.
+Brilliant_JJ pastries_NNS ._.
+Smart_NNP sodas_NNS ._.
+No_DT attitude_NN ._.
+Gorgeous_JJ food_NN ._.
+Get_VB it_PRP and_CC eat_VB it_PRP in_IN your_PRP$ car_NN with_IN a_DT bottle_NN of_IN Sangiovese_NNP and_CC risk_VB the_DT ticket_NN ._.
+Now_RB ,_, if_IN there_EX were_VBD just_RB a_DT means_NN to_TO add_VB a_DT douchebag-filter_NN to_TO the_DT clientele_NN in_IN Dockers_NNPS and_CC Banana_NNP Republic_NNP it_PRP 'd_MD be_VB perfect_JJ ._.

@@ -1,0 +1,3 @@
+Great_NNP atmosphere_NN ,_, delicious_JJ food_NN ._.
+The_DT $_$ 29_CD three-course_JJ meal_NN was_VBD perfect_JJ portion_NN ,_, and_CC delicious_JJ ._.
+Having_VBG a_DT reservation_NN on_IN the_DT weekend_NN certainly_RB helped_VBD ._.

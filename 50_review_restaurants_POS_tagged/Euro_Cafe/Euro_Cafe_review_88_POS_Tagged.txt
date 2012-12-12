@@ -1,0 +1,8 @@
+1_LS ._.
+Great_NNP coffee_NN !_.
+2_LS ._.
+Dessert_NN offerings_NNS :_: napoleon_NN ,_, cookies_NNS ,_, and_CC pastries_NNS ..._: 3_LS ._.
+Paninis_NNP :_: interesting_JJ combinations_NNS including_VBG ham_NN ,_, brie_NN ,_, fig_NN jam_NN ,_, turkey_NN ..._: etc._FW ._. ._.
+4_LS ._.
+soups_NNS :_: flavorful_JJ ..._: 5_CD ._.
+pastas_NNS :_: staples_NNS and_CC interesting_JJ combinations_NNS will_MD be_VB frequenting_VBG this_DT place_NN ..._:

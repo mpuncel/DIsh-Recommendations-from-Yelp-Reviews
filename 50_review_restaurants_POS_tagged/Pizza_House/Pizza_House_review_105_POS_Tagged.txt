@@ -1,0 +1,5 @@
+Ok_NNP ,_, ok_NN ._.
+I_PRP was_VBD a_DT little_JJ too_RB harsh_JJ on_IN Pizza_NNP House_NNP ._.
+All_DT in_IN all_DT it_PRP deserves_VBZ another_DT star_NN ._.
+After_IN a_DT late-night_JJ delivery_NN of_IN a_DT mediterranean_JJ personal_JJ pizza_NN -LRB-_-LRB- the_DT crust_NN was_VBD flaky_JJ ,_, the_DT peppers_NNS and_CC feta_NNS were_VBD perfect_JJ -RRB-_-RRB- and_CC some_DT breadsticks_NNS ,_, I_PRP realized_VBD that_IN with_IN the_DT right_JJ order_NN ,_, Pizza_NNP House_NNP does_VBZ hit_VB the_DT spot_NN ._.
+Sure_RB ,_, it_PRP 's_VBZ a_DT bit_NN more_RBR expensive_JJ than_IN I_PRP wish_VBP it_PRP was_VBD ,_, but_CC really_RB ,_, if_IN you_PRP choose_VBP wisely_RB ,_, you_PRP can_MD end_VB up_RP with_IN a_DT pretty_RB darn_RB good_JJ pie_NN brought_VBD right_JJ to_TO your_PRP$ door_NN 'til_RB 4_CD !_.

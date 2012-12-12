@@ -1,0 +1,4 @@
+Cheap_JJ ,_, fast_RB ,_, convenient_JJ ,_, and_CC delicious_JJ enough_RB ._.
+I_PRP had_VBD the_DT carbonara_NN and_CC my_PRP$ friends_NNS had_VBD the_DT pesto_JJ chicken_NN fettuccine_NN and_CC the_DT ``_`` bronx_NN tail_NN ''_'' ._.
+The_DT sauces_NNS were_VBD all_DT heavy_JJ and_CC creamy_JJ and_CC the_DT prices_NNS were_VBD great_JJ ._.
+Great_NNP place_NN to_TO grab_VB a_DT quick_JJ bite_NN ,_, service_NN is_VBZ fast_RB ,_, and_CC the_DT system_NN is_VBZ quick_JJ and_CC simple_JJ ._.

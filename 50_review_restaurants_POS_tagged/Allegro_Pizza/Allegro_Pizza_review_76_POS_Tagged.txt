@@ -1,0 +1,3 @@
+In_IN my_PRP$ opinion_NN ,_, the_DT best_JJS pizza_NN in_IN UC_NNP ._.
+It_PRP 's_VBZ a_DT little_JJ on_IN the_DT pricey_JJ side_NN -_: 2_CD slices_NNS and_CC a_DT Coke_NNP will_MD run_VB you_PRP about_IN $_$ 7_CD ._.
+Still_RB ,_, this_DT has_VBZ been_VBN my_PRP$ quick_JJ on-the-go-dinner_JJ spot_NN for_IN a_DT while_NN ,_, and_CC is_VBZ always_RB good_JJ for_IN a_DT laid-back_JJ time_NN ,_, eating_VBG pizza_NN and_CC watching_VBG TV_NN ._.

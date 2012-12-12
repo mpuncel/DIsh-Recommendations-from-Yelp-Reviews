@@ -1,0 +1,8 @@
+If_IN I_PRP can_MD give_VB negative_JJ stars_NNS I_PRP would_MD ._.
+Where_WRB did_VBD this_DT place_NN get_VB their_PRP$ stars_NNS ?_.
+First_RB ,_, their_PRP$ sangria_NN is_VBZ from_IN CVS_NNP or_CC Costco_NNP ._.
+The_DT kind_NN you_PRP buy_VBP at_IN a_DT grocery_NN store_NN pre-made_JJ ._.
+Then_RB they_PRP cut_VBD up_RP some_DT orange_JJ slices_NNS and_CC that_DT 's_VBZ it_PRP ._.
+Their_PRP$ brie_NN cheese_NN is_VBZ cold_JJ and_CC nasty_JJ ._.
+Crackers_NNS are_VBP the_DT kind_NN you_PRP eat_VBP when_WRB you_PRP are_VBP pregnant_JJ or_CC feeling_NN sea_NN sick_JJ ._.
+This_DT place_NN is_VBZ a_DT joke_NN ._.

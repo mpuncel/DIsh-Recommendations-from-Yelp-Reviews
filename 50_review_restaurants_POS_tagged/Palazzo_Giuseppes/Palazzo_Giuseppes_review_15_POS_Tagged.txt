@@ -1,0 +1,6 @@
+Man_NN ,_, I_PRP have_VBP to_TO say_VB this_DT place_NN was_VBD NOT_RB worth_JJ the_DT price_NN at_IN all_DT ._.
+As_IN a_DT former_JJ East_NNP Coaster_NNP ,_, it_PRP just_RB did_VBD n't_RB taste_VB like_IN hearty_JJ good_JJ Italian_JJ ._.
+And_CC it_PRP was_VBD so_RB expensive_JJ ._.
+I_PRP could_MD tell_VB that_IN the_DT quality_NN of_IN the_DT food_NN was_VBD very_RB good_JJ ._.
+And_CC the_DT food_NN was_VBD inventive_JJ ,_, but_CC it_PRP just_RB was_VBD n't_RB delicious_JJ ._.
+The_DT service_NN was_VBD very_RB good_JJ ._.

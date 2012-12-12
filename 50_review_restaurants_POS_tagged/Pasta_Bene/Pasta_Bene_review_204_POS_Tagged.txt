@@ -1,0 +1,5 @@
+Cashier_NN was_VBD super_JJ friendly_JJ ._.
+Food_NNP was_VBD good_JJ ,_, and_CC cheap_JJ too_RB ._.
+This_DT place_NN is_VBZ made_VBN for_IN students_NNS who_WP are_VBP on_IN low_JJ budgets_NNS ._.
+Happy_JJ Hour_NN is_VBZ from_IN 3-7pm_JJ ,_, $_$ 3_CD for_IN a_DT pint_NN of_IN beer_NN ,_, what_WP more_RBR can_MD you_PRP ask_VB for_IN ?_.
+Great_NNP hang_VB out_RP place_NN for_IN a_DT group_NN of_IN friend_NN =_SYM -RRB-_-RRB-

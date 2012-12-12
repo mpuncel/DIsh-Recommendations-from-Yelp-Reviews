@@ -1,0 +1,3 @@
+If_IN you_PRP want_VBP AUTHENTIC_NNP italian_JJ pizza_NN -_: look_VB no_DT further_JJ ._.
+My_PRP$ wife_NN and_CC I_PRP love_VBP this_DT place_NN ._.
+I_PRP have_VBP been_VBN to_TO Italy_NNP a_DT few_JJ times_NNS and_CC this_DT is_VBZ as_RB close_JJ as_IN you_PRP will_MD get_VB anywhere_RB in_IN Atlanta_NNP ._.

@@ -1,0 +1,5 @@
+Dominick_NNP 's_POS !_.
+You_PRP 're_VBP right_JJ Nick_NNP ,_, there_EX is_VBZ nothing_NN better_JJR than_IN a_DT summer_NN day_NN spent_VBD at_IN Dominick_NNP 's_POS ._.
+The_DT sangria_NN is_VBZ top-notch_JJ ,_, they_PRP carry_VBP great_JJ Michigan_NNP beers_NNS like_IN Oberon_NNP ,_, and_CC the_DT constant_JJ buzz_NN will_MD definitely_RB get_VB you_PRP buzzed_VBN ;_: but_CC watch_VBP out_RP for_IN that_DT brain_NN freeze_NN !_.
+I_PRP would_MD n't_RB recommend_VB any_DT food_NN here_RB ;_: it_PRP 's_VBZ ok_NN for_IN what_WP it_PRP 's_VBZ worth_JJ ,_, but_CC you_PRP 're_VBP better_JJR off_IN filling_VBG up_RP on_IN drinks_NNS here_RB ._.
+Luckily_RB it_PRP 's_VBZ only_RB a_DT trip_NN and_CC a_DT stumble_NN away_RB from_IN the_DT Law_NNP School_NNP ,_, so_RB you_PRP can_MD definitely_RB make_VB it_PRP back_RB to_TO class_NN on_IN time_NN ._.

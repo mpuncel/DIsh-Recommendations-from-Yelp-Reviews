@@ -1,0 +1,4 @@
+Delicious_NNP !!!!_NNP Excellent_JJ service_NN ..._: ALL_NNP the_DT servers_NNS were_VBD friendly_JJ and_CC helpful_JJ ._. ._.
+This_DT was_VBD my_PRP$ first_JJ dining_NN experience_NN there_RB and_CC certainly_RB will_MD not_RB be_VB my_PRP$ last_JJ !_.
+The_DT penne_JJ pasta_NN w\/pesto_NN &_CC sun_NN dried_VBD tomatoes_NNS was_VBD excellent_JJ !_.
+Looking_VBG forward_RB to_TO dining_VBG there_RB again_RB very_RB soon_RB !_.

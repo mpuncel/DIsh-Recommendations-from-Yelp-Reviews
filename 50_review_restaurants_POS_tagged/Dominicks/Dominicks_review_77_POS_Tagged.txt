@@ -1,0 +1,8 @@
+Let_NNP 's_POS state_NN the_DT obvious_JJ -_: the_DT food_NN is_VBZ so-so_JJ at_IN best_JJS and_CC this_DT place_NN has_VBZ got_VBN some_DT nerve_NN charging_VBG what_WP they_PRP do_VBP for_IN booze_NN ._.
+If_IN you_PRP 're_VBP looking_VBG for_IN economic_JJ value_NN or_CC haute_NN cuisine_NN ,_, you_PRP 're_VBP not_RB going_VBG to_TO Doms_NNP ._.
+Why_WRB are_VBP you_PRP going_VBG there_RB ?_.
+Because_IN people_NNS get_VBP drunk_JJ here_RB ._.
+Groups_NNS of_IN friends_NNS meet_VBP to_TO sit_VB in_IN the_DT sun_NN and_CC get_VB wasted_VBN ,_, so_IN that_IN when_WRB the_DT sirens_NNS go_VBP off_RP at_IN 10_CD you_PRP can_MD go_VB drink_VB more_JJR somewhere_RB else_RB ._.
+They_PRP come_VBP to_TO have_VB fun_NN ,_, and_CC fun_NN they_PRP have_VBP ._.
+Sure_RB the_DT place_NN is_VBZ a_DT labyrinth_NN ,_, the_DT bathrooms_NNS frustrating_VBG and_CC its_PRP$ always_RB crowded_VBN when_WRB the_DT weather_NN 's_POS nice_JJ and_CC students_NNS are_VBP in_IN town_NN ._.
+But_CC when_WRB you_PRP really_RB want_VBP to_TO sit_VB outside_JJ and_CC down_IN a_DT few_JJ ice_NN cold_JJ Oberons_NNPS or_CC sip_VB some_DT Sangria_NNP ,_, there_EX 's_VBZ really_RB no_RB better_JJR place_NN to_TO go_VB ._.

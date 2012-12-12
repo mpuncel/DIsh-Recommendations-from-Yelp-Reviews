@@ -1,0 +1,3 @@
+The_DT host_NN started_VBD the_DT meal_NN badly_RB by_IN seating_VBG us_PRP at_IN a_DT bad_JJ table_NN when_WRB there_EX were_VBD several_JJ good_JJ tables_NNS available_JJ ._.
+The_DT food_NN was_VBD overpriced_VBN for_IN the_DT quality_NN and_CC service_NN ._.
+I_PRP would_MD avoid_VB if_IN you_PRP can_MD find_VB something_NN else_RB ._.

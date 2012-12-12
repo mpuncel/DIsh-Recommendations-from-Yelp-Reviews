@@ -1,0 +1,10 @@
+Alright_NNP ,_, New_NNP Restaurant_NNP Row_NNP ..._: why_WRB did_VBD n't_RB you_PRP exist_VBP when_WRB I_PRP lived_VBD in_IN this_DT neighborhood_NN ??_NN Lido_NNP is_VBZ a_DT good_JJ Italian_JJ restaurant_NN in_IN South_NNP Harlem_NNP ._.
+It_PRP has_VBZ fresh_JJ flavors_NNS ,_, not_RB too_RB heavy_JJ ,_, and_CC an_DT interesting_JJ variety_NN of_IN dishes_NNS ._.
+I_PRP came_VBD for_IN a_DT late_JJ brunch_NN ,_, so_IN I_PRP ordered_VBD off_RP the_DT lunch_NN section_NN of_IN their_PRP$ brunch_NN menu_NN ._.
+They_PRP did_VBD have_VB a_DT good_JJ selection_NN of_IN egg_NN dishes_NNS ,_, though_RB ,_, for_IN all_DT you_PRP breakfasty_JJ types_NNS ._.
+The_DT ricotta_NN ravioli_NN was_VBD tasty_JJ and_CC unique_JJ ,_, replacing_VBG expected_VBN flavors_NNS with_IN the_DT unexpected_JJ -LRB-_-LRB- mint_NN instead_RB of_IN basil_NN or_CC oregano_NN and_CC a_DT whole_JJ lot_NN of_IN lemon_NN zest_NN -RRB-_-RRB- ._.
+The_DT weekday_NN lunch_NN prix-fixe_JJ looks_NNS like_IN a_DT great_JJ deal_NN too_RB ,_, but_CC unfortunately_RB my_PRP$ weekday_NN lunchtimes_NNS are_VBP generally_RB occupied_VBN by_IN work_NN ._.
+The_DT ambiance_NN ,_, especially_RB on_IN a_DT nice_JJ day_NN ,_, is_VBZ really_RB great_JJ ._.
+If_IN you_PRP get_VBP a_DT chance_NN ,_, sit_VB at_IN one_CD of_IN the_DT open_JJ tables_NNS right_RB by_IN the_DT outside_NN ._.
+It_PRP 's_VBZ very_RB breezy_JJ and_CC cute_JJ ._.
+Lido_NNP is_VBZ definitely_RB worth_JJ a_DT try_NN if_IN you_PRP are_VBP in_IN the_DT area_NN ._.

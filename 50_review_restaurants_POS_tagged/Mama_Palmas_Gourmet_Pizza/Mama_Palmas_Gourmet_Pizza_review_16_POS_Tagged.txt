@@ -1,0 +1,7 @@
+This_DT is_VBZ some_DT of_IN the_DT better_JJR gourmet_NN pizza_NN within_IN the_DT city_NN grids_NNS ._.
+I_PRP love_VBP the_DT Fitler_NNP Square_NNP neighborhood_NN ,_, especially_RB in_IN warmer_JJR weather_NN ,_, when_WRB you_PRP can_MD chill_NN in_IN the_DT park_NN before_IN or_CC after_IN your_PRP$ meal_NN ._.
+I_PRP think_VBP some_DT of_IN the_DT pies_NNS ,_, e.g._FW Peking_FW Duck_NN ,_, are_VBP a_DT bit_NN of_IN a_DT reach_NN ._.
+But_CC I_PRP 've_VBP sampled_VBN some_DT of_IN these_DT reaches_NNS ,_, and_CC they_PRP 're_VBP good_JJ ._.
+I_PRP just_RB like_IN the_DT ambiance_NN of_IN this_DT place_NN ._.
+They_PRP have_VBP some_DT interesting_JJ imports_NNS too_RB ,_, and_CC make_VB very_RB underrated_JJ Panini_NNP ._.
+This_DT place_NN is_VBZ great_JJ contemporary_JJ casual_JJ dining_NN ,_, with_IN some_DT flare_NN ._.

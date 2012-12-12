@@ -1,0 +1,4 @@
+Second-best_JJ food_NN in_IN the_DT inaccurately_RB named_VBN Asian_NNP Ghetto_NNP -_: and_CC fewer_JJR flies_VBZ than_IN Thai_NNP Basil_NNP ._.
+Usually_RB get_VB one_CD of_IN the_DT chicken_NN pastas_NNS -LRB-_-LRB- the_DT calzone_NN is_VBZ better_JJR but_CC I_PRP do_VBP n't_RB have_VB the_DT patience_NN to_TO wait_VB that_DT long_JJ -RRB-_-RRB- ._.
+Pasta_NN is_VBZ too_RB saucy_JJ ,_, but_CC at_IN least_JJS the_DT sauce_NN has_VBZ some_DT taste_NN ._.
+Sure_RB ,_, there_EX are_VBP ten_CD million_CD better_JJR places_NNS ,_, but_CC there_EX are_VBP twenty_CD million_CD worse_JJR places_NNS ._.

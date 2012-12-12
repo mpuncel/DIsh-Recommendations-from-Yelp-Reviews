@@ -1,0 +1,11 @@
+Delivery_NN on_IN Sunday_NNP night_NN through_IN foodler.com_NN came_VBD in_IN 45_CD min_NN ._.
+3_CD stars_NNS for_IN the_DT steak_NN and_CC cheese_NN sub_NN ._.
+It_PRP had_VBD high_JJ quality_NN steak_NN ,_, not_RB just_RB your_PRP$ average_JJ steak-ums_NNS ._.
+But_CC there_EX was_VBD n't_RB enough_RB of_IN it_PRP ,_, or_CC of_IN the_DT cheese_NN ,_, and_CC way_NN way_NN way_NN too_RB much_JJ bread_NN ._.
+2_CD stars_NNS for_IN the_DT chicken_NN parm_NN sub_NN ._.
+Enough_NNP chicken_NN ,_, but_CC again_RB not_RB enough_JJ cheese_NN or_CC sauce_NN ._.
+1_CD star_NN for_IN the_DT small_JJ pizza_NN ._.
+Tasted_VBN like_IN cafeteria_NN pizza_NN to_TO me_PRP ._.
+0_CD stars_NNS for_IN the_DT cheese_NN fries_NNS ._.
+$_$ 5_CD for_IN a_DT handful_NN of_IN fries_NNS and_CC ,_, once_RB again_RB ,_, barely_RB any_DT cheese_NN ._.
+Cinderella_NNP 's_POS is_VBZ a_DT one-and-done_NN for_IN me_PRP ._.

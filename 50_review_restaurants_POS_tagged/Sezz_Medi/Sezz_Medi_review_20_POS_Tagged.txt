@@ -1,0 +1,3 @@
+Food_NNP was_VBD OK_JJ ._.
+kind_NN of_IN salty_NN ._.
+What_WP really_RB ticked_VBD me_PRP off_RP was_VBD there_RB to_TO go_VB menu_NN was_VBD 20_CD %_NN less_JJR than_IN the_DT regular_JJ menu_NN ..._: Watch_NNP your_PRP$ pocket_NN book_NN

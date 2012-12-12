@@ -1,0 +1,6 @@
+My_PRP$ go-to_JJ place_NN for_IN inexpensive_JJ pasta_NN in_IN Berkeley_NNP !_.
+The_DT food_NN quality_NN is_VBZ great_JJ ,_, and_CC the_DT portions_NNS are_VBP pretty_RB big_JJ !_.
+The_DT entrees_NNS also_RB come_VBP with_IN this_DT super_JJ light_NN and_CC yummy_JJ bread_NN !_.
+I_PRP wish_VBP I_PRP could_MD just_RB order_VB a_DT basket_NN of_IN that_DT stuff_NN ,_, haha_NN ._.
+I_PRP usually_RB get_VBP their_PRP$ meat_NN lasagna_NN ,_, or_CC chicken_NN marsala_NN ,_, which_WDT totally_RB fills_VBZ me_PRP up_RP but_CC is_VBZ n't_RB horribly_RB heavy_JJ ._.
+I_PRP 've_VBP come_VBN multiple_JJ times_NNS with_IN both_DT big_JJ groups_NNS and_CC small_JJ ,_, and_CC I_PRP 've_VBP never_RB had_VBN a_DT problem_NN with_IN the_DT food_NN or_CC the_DT service_NN ._.

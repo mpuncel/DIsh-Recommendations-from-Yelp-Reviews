@@ -1,0 +1,6 @@
+Viztango_NNP is_VBZ the_DT best_JJS Italian_JJ place_NN in_IN LA._NNP ._.
+For_IN a_DT casual_JJ dinner_NN or_CC lunch_NN it_PRP ca_MD n't_RB be_VB beat_VBN ._.
+They_PRP serve_VBP great_JJ fresh_JJ bread_NN with_IN Oil_NNP &_CC Vinegar_NNP while_IN you_PRP wait_VB for_IN your_PRP$ food_NN which_WDT is_VBZ so_RB good_JJ ._.
+The_DT Farfalle_NNP pesto_NN is_VBZ their_PRP$ classic_JJ as_IN anyone_NN who_WP went_VBD to_TO USC_NNP will_MD tell_VB you_PRP ._.
+The_DT Penne_NNP Puttanesca_NNP is_VBZ a_DT close_JJ second_JJ if_IN you_PRP 're_VBP not_RB in_IN the_DT mood_NN for_IN pesto_NN ,_, best_JJS Puttanesca_NNP I_PRP 've_VBP ever_RB had_VBN ._.
+Definitely_RB a_DT required_JJ stop_NN any_DT time_NN you_PRP visit_VBP USC_NNP or_CC downtown_NN ._.

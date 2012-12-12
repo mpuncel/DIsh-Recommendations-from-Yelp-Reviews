@@ -1,0 +1,4 @@
+Bettolona_NNP is_VBZ a_DT wonderful_JJ addition_NN to_TO the_DT neighborhood_NN !_.
+The_DT food_NN is_VBZ delicious_JJ !_.
+The_DT ambiance_NN is_VBZ casual_JJ and_CC welcoming_VBG --_: it_PRP really_RB has_VBZ a_DT great_JJ vibe_NN ._.
+We_PRP also_RB like_IN the_DT owner_NN very_RB much_RB --_: that_IN man_NN really_RB loves_VBZ what_WP he_PRP does_VBZ and_CC it_PRP shows_VBZ !_.

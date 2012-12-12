@@ -1,0 +1,5 @@
+Nice_JJ italian_JJ restaurant_NN ,_, but_CC I_PRP 'm_VBP afraid_JJ it_PRP underdelivered_VBD when_WRB it_PRP came_VBD to_TO all_PDT the_DT hype_NN ._.
+There_EX are_VBP far_RB so_RB many_JJ wonderful_JJ choices_NNS for_IN italian_NN in_IN Boston_NNP ,_, that_IN Rialto_NNP does_VBZ n't_RB really_RB seem_VB to_TO be_VB much_JJ of_IN a_DT standout_NN ._.
+Pleasant_NNP staff_NN ,_, although_IN service_NN was_VBD a_DT little_JJ slow_JJ and_CC portions_NNS were_VBD small_JJ ._.
+All_DT in_IN all_DT ,_, a_DT solid_JJ experience_NN but_CC not_RB a_DT very_RB memorable_JJ one_CD ._.
+Why_WRB spend_VBP a_DT fortune_NN and_CC trek_VB out_RP to_TO Cambridge_NNP for_IN `_`` average_JJ '_'' when_WRB you_PRP can_MD get_VB superior_JJ italian_NN in_IN both_DT the_DT north_NN and_CC south_JJ end_NN ?_.

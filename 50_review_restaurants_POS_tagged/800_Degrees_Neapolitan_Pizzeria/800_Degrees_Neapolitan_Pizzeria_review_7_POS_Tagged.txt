@@ -1,0 +1,4 @@
+First_NNP you_PRP wait_VB in_IN line_NN somewhat_RB like_IN a_DT cafeteria_NN style_NN to_TO order_VB your_PRP$ pizza_NN etc._FW ._.
+Now_RB in_IN a_DT just_RB a_DT few_JJ minutes_NNS you_PRP get_VB your_PRP$ pizza_NN -LRB-_-LRB- ala_FW 800_CD degree_NN oven_VBN -RRB-_-RRB- ._.
+The_DT problem_NN is_VBZ when_WRB it_PRP does_VBZ not_RB bake_VB for_IN long_RB enough_RB at_IN any_DT temperature_NN all_DT your_PRP$ toppings_NNS fall_VB off_RP when_WRB you_PRP try_VBP to_TO pick_VB up_RP a_DT slice_NN ._.
+The_DT prices_NNS are_VBP fair_JJ and_CC the_DT quality_NN of_IN toppings_NNS are_VBP pretty_RB good_JJ as_RB well_RB ,_, It_PRP is_VBZ a_DT hectic_JJ situation_NN going_VBG thru_NN the_DT process_NN to_TO get_VB a_DT pizza_NN then_RB it_PRP is_VBZ hard_JJ to_TO eat_VB it_PRP ._.

@@ -1,0 +1,1 @@
+The_DT Bacaro_NNP burger_NN is_VBZ my_PRP$ favorite_JJ !!_NN Love_NNP the_DT eggs_NNS with_IN beef_NN cooked_VBD medium_JJ rare_JJ ._.

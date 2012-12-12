@@ -1,0 +1,14 @@
+Good_JJ food_NN ,_, but_CC this_DT place_NN is_VBZ really_RB tight_JJ ._.
+Our_PRP$ food_NN was_VBD barely_RB able_JJ to_TO fit_VB on_IN the_DT small_JJ table_NN ._.
+Bacaro_NN burger_NN was_VBD by_IN far_RB the_DT most_RBS favorite_JJ item_NN on_IN the_DT menu_NN ._.
+We_PRP ordered_VBD 2_CD of_IN these_DT with_IN the_DT runny_JJ egg_NN of_IN course_NN ._.
+Their_PRP$ sauce_NN is_VBZ a_DT perfect_JJ match_NN for_IN the_DT burger_NN ._.
+Panini_NNP w_NNP \/_NNP Roast_NNP Beef_NN ,_, Black_NNP Forest_NNP Ham_NNP &_CC Mozzarella_NNP --_: simple_JJ ,_, but_CC crispy_JJ and_CC good_JJ ._.
+Cheesy_NNP ,_, yet_RB not_RB overly_RB rich_JJ because_IN we_PRP told_VBD them_PRP to_TO skip_VB the_DT butter_NN ._.
+Petite_JJ Fillet_NNP --_: beef_NN was_VBD tender_NN ,_, but_CC lacked_VBD flavor_NN compared_VBN to_TO the_DT bacaro_NN burger_NN ._.
+Lemon_NNP Grilled_NNP Chicken_NNP Breast_NNP --_: way_NN too_RB sour_JJ and_CC the_DT jalapeno_JJ &_CC lemon_NN sauce_NN just_RB did_VBD n't_RB work_VB for_IN me_PRP ._.
+The_DT chicken_NN was_VBD tender_NN and_CC risotto_NN cake_NN was_VBD one-of-a-kind_JJ ._.
+Garlic_NNP Pizza_NNP --_: delicious_JJ ,_, thin_JJ ,_, and_CC packed_VBD with_IN garlic_JJ flavor_NN ._.
+We_PRP like_VBP ._.
+I_PRP would_MD love_VB to_TO hit_VB this_DT place_NN up_RB during_IN happy_JJ hours_NNS to_TO get_VB $_$ 5_CD plates_NNS ._.
+That_DT would_MD be_VB awesome_JJ ._.

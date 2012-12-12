@@ -1,0 +1,4 @@
+Good_JJ thin_JJ crust_NN pizza_NN ..._: i_FW 'm_VBP not_RB typically_RB a_DT fan_NN of_IN thin_JJ crust_NN but_CC the_DT crust_NN was_VBD not_RB too_RB thin_JJ ,_, the_DT portion_NN was_VBD large_JJ ,_, and_CC the_DT ingredients_NNS fresh_JJ ._.
+We_PRP also_RB had_VBD the_DT grilled_JJ calimari_NN and_CC meatball_NN appetizer_NN ,_, which_WDT were_VBD fine_JJ ._.
+The_DT restaurant_NN itself_PRP is_VBZ comfortable_JJ \/_NN cozy_JJ ._.
+I_PRP would_MD n't_RB search_VB this_DT place_NN out_RB ,_, ciming_VBG from_IN another_DT neighborhood_NN ,_, but_CC if_IN i_FW were_VBD in_IN the_DT area_NN and_CC in_IN the_DT mood_NN for_IN pizza_NN ,_, i_FW 'd_MD definitely_RB come_VB again_RB -_: and_CC of_IN course_NN happily_RB recommend_VB this_DT place_NN ._.

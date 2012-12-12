@@ -1,0 +1,6 @@
+Yummy_NNP !_.
+I_PRP Love_NNP the_DT peperoni_NNS pizza_NN !_.
+And_CC the_DT chicken_NN tenders_NNS !_.
+We_PRP always_RB get_VBP it_PRP to_TO go_VB but_CC the_DT place_NN is_VBZ very_RB quaint_JJ and_CC clean_JJ and_CC in_IN a_DT cute_JJ lil_NN city_NN too_RB !_.
+And_CC top_JJ it_PRP off_RP with_IN icecream_NN on_IN the_DT corner_NN !_.
+A_DT real_JJ treat_NN !!_NN

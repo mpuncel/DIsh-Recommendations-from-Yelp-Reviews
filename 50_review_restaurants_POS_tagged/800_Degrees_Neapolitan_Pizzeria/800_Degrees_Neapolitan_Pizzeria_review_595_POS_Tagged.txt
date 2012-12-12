@@ -1,0 +1,5 @@
+Open_NNP til_NN 2_CD A.M._NNP -_: Yes_UH ._.
+This_DT place_NN is_VBZ great_JJ ._.
+Customizable_JJ pizzas_NNS for_IN a_DT fair_JJ price_NN and_CC soon_RB to_TO come_VB ,_, beer_NN and_CC wine_NN ._.
+The_DT crust_NN is_VBZ thin_JJ but_CC not_RB crispy_JJ ,_, a_DT pretty_RB doughy_JJ style_NN ._.
+It_PRP 's_VBZ a_DT nice_JJ pizza_NN place_NN to_TO have_VB around_RP UCLA_NNP ,_, I_PRP think_VBP it_PRP 'll_MD do_VB well_RB here_RB ._.

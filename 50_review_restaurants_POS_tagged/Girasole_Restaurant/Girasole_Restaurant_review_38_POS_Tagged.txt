@@ -1,0 +1,22 @@
+Girasole_NNP is_VBZ a_DT small_JJ Italian_JJ restaurant_NN off_IN Walnut_NNP Street_NNP that_IN serves_VBZ up_RP decent_JJ Italian_JJ food_NN ._.
+I_PRP 've_VBP only_RB been_VBN to_TO Girasole_NNP during_IN dinnertime_NN ,_, with_IN my_PRP$ last_JJ visit_NN being_VBG last_JJ night_NN ._.
+Most_JJS patrons_NNS appear_VBP to_TO be_VB late_JJ 20_NNP 's_POS \/_NN early_RB 30_CD 's_POS to_TO older_JJR patrons_NNS in_IN the_DT late_JJ 40_CD 's_POS \/_NN early_RB 50_CD 's_POS as_RB well_RB as_IN some_DT college_NN students_NNS here_RB and_CC there_RB ._.
+The_DT restaurant_NN itself_PRP is_VBZ pretty_RB cramped_VBN and_CC ridiculously_RB loud_JJ ._.
+Tables_NNS are_VBP close_RB together_RB and_CC patrons_NNS are_VBP all_DT basically_RB shouting_VBG to_TO talk_VB to_TO each_DT other_JJ or_CC awkwardly_RB sitting_VBG in_IN silence_NN ._.
+I_PRP 'm_VBP a_DT loud_JJ guy_NN who_WP 's_VBZ at_IN college_NN and_CC loud_JJ noises_NNS typically_RB do_VBP n't_RB bother_VB me_PRP ,_, but_CC something_NN about_IN the_DT acoustics_NNS of_IN the_DT room_NN ..._: noises_VBZ just_RB bounce_VB around_IN instead_RB of_IN getting_VBG absorbed_VBN and_CC the_DT metal_NN tables_NNS do_VBP n't_RB help_VB either_RB ._.
+Anyways_NNP ,_, on_IN with_IN the_DT food_NN ._.
+Their_PRP$ menu_NN is_VBZ seasonal_JJ with_IN slight_JJ changes_NNS in_IN their_PRP$ pasta_NN throughout_IN the_DT year_NN ._.
+Everyday_JJ they_PRP have_VBP a_DT fresh_JJ poultry_NN ,_, a_DT fresh_JJ fish_NN ,_, and_CC a_DT fresh_JJ meat_NN of_IN the_DT day_NN ._.
+Their_PRP$ fresh_JJ fish_NN was_VBD a_DT grilled_JJ mako_NN shark_NN ,_, but_CC alas_UH they_PRP were_VBD out_RB for_IN the_DT night_NN already_RB -LRB-_-LRB- we_PRP got_VBD there_EX before_IN 6:30_CD PM_NNP -RRB-_-RRB- ._.
+All_DT entrees_NNS come_VBP with_IN a_DT choice_NN of_IN soup_NN or_CC salad_NN ._.
+I_PRP ended_VBD up_RP ordering_VBG their_PRP$ house_NN ribeye_NN medium_NN rare_JJ along_IN with_IN a_DT cup_NN of_IN their_PRP$ wedding_NN soup_NN ._.
+While_IN we_PRP waited_VBD ,_, we_PRP munched_VBD on_IN bread_NN from_IN their_PRP$ bread_NN basket_NN ._.
+Butter_NN comes_VBZ with_IN the_DT bread_NN ,_, but_CC they_PRP also_RB have_VBP balsamic_JJ and_CC olive_JJ oil_NN at_IN each_DT table_NN too_RB ._.
+The_DT wedding_NN soup_NN was_VBD pretty_RB good_JJ ;_: it_PRP was_VBD n't_RB overly_RB salty_NN and_CC there_EX was_VBD a_DT reasonably_RB amount_NN of_IN sausage_NN ._.
+I_PRP picked_VBD soup_NN over_IN their_PRP$ salad_NN because_IN my_PRP$ past_JJ experience_NN with_IN their_PRP$ salads_NNS are_VBP that_IN they_PRP are_VBP swimming_VBG in_IN dressing_VBG and_CC I_PRP do_VBP n't_RB like_VB my_PRP$ salads_NNS soggy_JJ ._.
+The_DT ribeye_NN came_VBD topped_VBN with_IN a_DT pesto_NN ,_, diced_VBD tomatoes_NNS and_CC served_VBD with_IN roasted_JJ potatoes_NNS ._.
+It_PRP was_VBD cooked_VBN to_TO medium_NN as_IN opposed_VBN to_TO medium_JJ rare_JJ ,_, but_CC for_IN a_DT steak_NN under_IN $_$ 30_CD bucks_NNS I_PRP 'm_VBP not_RB going_VBG to_TO make_VB a_DT big_JJ deal_NN out_IN of_IN it_PRP ._.
+The_DT pesto_NN was_VBD flavorful_JJ but_CC the_DT roasted_JJ potatoes_NNS were_VBD a_DT bit_NN overcooked_JJ ._.
+The_DT steak_NN itself_PRP had_VBD a_DT beautiful_JJ char_NN and_CC cooked_VBD well_RB as_IN a_DT medium_NN steak_NN ._.
+I_PRP 've_VBP had_VBD their_PRP$ pasta_NN in_IN the_DT past_NN and_CC they_PRP 're_VBP of_IN pretty_RB good_JJ quality_NN and_CC cooked_VBD perfectly_RB ,_, but_CC the_DT portions_NNS have_VBP gotten_VBN smaller_JJR over_IN time_NN and_CC I_PRP do_VBP n't_RB think_VB the_DT $_$ 3-5_CD dollar_NN upcharge_NN from_IN the_DT lunch_NN menu_NN is_VBZ really_RB worth_JJ it_PRP for_IN dinner_NN anymore_RB ._.
+I_PRP would_MD probably_RB recommend_VB Lydia_NNP 's_POS over_IN Girasole_NNP ,_, but_CC it_PRP might_MD be_VB worth_JJ a_DT shot_NN for_IN lunch_NN when_WRB it_PRP wo_MD n't_RB be_VB as_RB loud_JJ and_CC there_EX probably_RB would_MD n't_RB be_VB a_DT wait_NN either_RB ._.

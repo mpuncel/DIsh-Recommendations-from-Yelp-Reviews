@@ -1,0 +1,4 @@
+Another_DT good_JJ place_NN to_TO have_VB italian_JJ paninis_NNS or_CC salads_NNS on_IN a_DT nice_JJ day_NN ,_, but_CC finding_VBG parking_NN during_IN prime_JJ time_NN around_IN here_RB is_VBZ a_DT PITA_NNP ._.
+I_PRP tried_VBD their_PRP$ burger_NN ,_, which_WDT was_VBD full_JJ of_IN herbs_NNS and_CC oregano_NN ._.
+It_PRP was_VBD definitely_RB tasty_JJ ,_, but_CC I_PRP wished_VBD I_PRP ordered_VBD the_DT perfetto_JJ italian_JJ sausage_NN panini_NNS instead_RB ._.
+Their_PRP$ shoe_NN string_NN fries_NNS were_VBD nice_JJ and_CC crispy_JJ ._.

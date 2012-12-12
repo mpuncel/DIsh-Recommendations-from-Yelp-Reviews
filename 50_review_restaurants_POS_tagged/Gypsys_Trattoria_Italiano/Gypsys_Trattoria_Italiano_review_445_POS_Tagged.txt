@@ -1,0 +1,4 @@
+just_RB mehh_NN ..._: I_PRP am_VBP in_IN the_DT middle_NN of_IN my_PRP$ chicken_NN parm_NN sandwich_NN ._.
+It_PRP was_VBD very_RB cheap_JJ ,_, coming_VBG in_IN at_IN 5.45_CD I_PRP think_VBP ,_, but_CC I_PRP can_MD taste_VB that_IN the_DT sandwich_NN coasts_VBZ less_RBR ._.
+The_DT sauce_NN is_VBZ bad_JJ quality_NN and_CC tastes_NNS like_IN canned_VBN ragu_NN ._.
+Not_RB so_RB good_JJ ,_, but_CC fulfilled_VBD my_PRP$ need_NN for_IN a_DT chicken_NN parm_NN sub_NN ..._: Id_NN get_VB it_PRP again_RB in_IN a_DT pinch_NN ,_, but_CC think_VBP that_IN ill_JJ find_VB a_DT cafe_NN makes_VBZ a_DT better_JJR chic_JJ parm_NN

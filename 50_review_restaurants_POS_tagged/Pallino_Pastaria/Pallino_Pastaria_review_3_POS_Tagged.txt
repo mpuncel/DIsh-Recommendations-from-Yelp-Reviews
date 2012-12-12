@@ -1,0 +1,5 @@
+The_DT food_NN here_RB is_VBZ good_JJ but_CC a_DT bit_NN pricey_JJ for_IN the_DT amount_NN of_IN food_NN you_PRP get_VBP ._.
+If_IN you_PRP go_VBP here_RB ,_, make_VBP sure_JJ to_TO get_VB the_DT Cheesy_NNP Flatbread_NNP as_IN a_DT starter_JJ !_.
+All_DT of_IN the_DT entrees_NNS sound_JJ delicious_JJ -_: my_PRP$ friend_NN got_VBD the_DT pesto_JJ pasta_NN and_CC it_PRP was_VBD amazing_JJ ._.
+I_PRP got_VBD the_DT tuna_NN melt_VB and_CC it_PRP was_VBD n't_RB quite_RB as_IN good_JJ as_IN I_PRP 'd_MD hoped_VBN ._.
+The_DT description_NN said_VBD that_IN there_EX were_VBD onions_NNS and_CC capers_NNS in_IN it_PRP ,_, but_CC I_PRP only_RB found_VBD a_DT few_JJ capers_NNS and_CC a_DT couple_NN slivers_NNS of_IN onions_NNS in_IN mine_NN ._.

@@ -1,0 +1,4 @@
+Food_NNP quality_NN always_RB exceeds_VBZ my_PRP$ expectations_NNS ._.
+They_PRP take_VBP reservations_NNS ._.
+There_EX are_VBP nice_JJ fireplaces_NNS if_IN you_PRP can_MD get_VB a_DT seat_NN near_IN one_CD -LRB-_-LRB- only_RB relevant_JJ in_IN winter_NN -RRB-_-RRB- ._.
+For_IN a_DT campus_NN area_NN place_NN ,_, much_RB better_JJR than_IN average_NN ._.

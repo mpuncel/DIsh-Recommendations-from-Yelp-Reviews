@@ -1,0 +1,7 @@
+Great_NNP ,_, authentic_JJ ,_, Italian_JJ food_NN for_IN as_RB cheap_JJ as_IN it_PRP gets_VBZ ._.
+This_DT is_VBZ a_DT whole_NN in_IN the_DT wall_NN place_NN ,_, but_CC the_DT food_NN is_VBZ quality_NN ._.
+We_PRP ordered_VBD a_DT calzone_NN combo_NN with_IN salad_NN and_CC a_DT soda_NN for_IN only_RB $_$ 8.95_CD ._.
+The_DT calzone_NN was_VBD as_RB big_JJ as_IN a_DT football_NN !_.
+It_PRP was_VBD so_RB good_JJ and_CC filled_VBD two_CD of_IN us_PRP for_IN the_DT entire_JJ day_NN !_.
+The_DT pastas_NN looked_VBD delicious_JJ and_CC the_DT salad_NN was_VBD fresh_JJ ._.
+Definitely_RB going_VBG back_RB here_RB soon_RB ._.

@@ -1,0 +1,4 @@
+Tiny_NNP so_RB cramped_JJ seating_NN ,_, but_CC last_JJ time_NN I_PRP went_VBD ,_, we_PRP -LRB-_-LRB- four_CD -RRB-_-RRB- were_VBD seated_VBN at_IN the_DT corner_NN spot_NN on_IN the_DT terrace_NN over_IN the_DT sidewalk_NN --_: it_PRP was_VBD LOVELY_NNP ._.
+Nobody_NN I_PRP 've_VBP ever_RB taken_VBN has_VBZ n't_RB liked_VBD the_DT food_NN ._.
+Service_NNP is_VBZ good_JJ ,_, not_RB super_JJ friendly_JJ ,_, but_CC hey_NN ,_, how_WRB much_RB can_MD one_CD expect_VB ?_.
+Definitely_RB prompt_JJ and_CC definitely_RB functional_JJ ._.

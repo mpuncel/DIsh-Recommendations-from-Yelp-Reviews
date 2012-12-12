@@ -1,0 +1,5 @@
+As_IN I_PRP recall_VBP ,_, the_DT food_NN was_VBD really_RB good_JJ ._.
+But_CC also_RB ,_, and_CC it_PRP pains_NNS me_PRP to_TO sound_VB so_RB much_RB like_IN my_PRP$ parents_NNS when_WRB I_PRP say_VBP this_DT ,_, it_PRP was_VBD so_RB dark_JJ in_IN there_EX I_PRP could_MD barely_RB see_VB my_PRP$ plate_NN ._.
+And_CC usually_RB ,_, as_IN a_DT rule_NN ,_, I_PRP like_VBP to_TO look_VB at_IN my_PRP$ food_NN before_IN I_PRP eat_VBP it_PRP ._.
+There_EX 's_VBZ a_DT fine_JJ line_NN between_IN ``_`` mood_NN lighting_NN ''_'' and_CC ``_`` pitch_NN black_JJ ''_'' ,_, and_CC Max_NNP is_VBZ on_IN the_DT wrong_JJ side_NN of_IN the_DT fence_NN ._.
+I_PRP 'd_MD suggest_VB going_VBG before_IN sun-down_NN ._.

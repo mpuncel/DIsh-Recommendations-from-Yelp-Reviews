@@ -1,0 +1,6 @@
+Great_NNP place_NN for_IN some_DT pink_JJ sauce_NN ravioli_NNS ._.
+The_DT establishment_NN is_VBZ family_NN run_NN and_CC pretty_RB good_JJ overall_NN ._.
+Have_VBP n't_RB gone_VBN there_RB as_RB often_RB lately_RB ._.
+Maybe_RB because_IN it_PRP is_VBZ pretty_RB small_JJ and_CC sometimes_RB hard_JJ to_TO find_VB a_DT seat_NN ._.
+Also_RB because_IN pasta_NN can_MD be_VB heavy_JJ during_IN lunch_NN and_CC there_EX are_VBP too_RB many_JJ other_JJ lighter_JJR options_NNS that_WDT are_VBP a_DT bit_NN cheaper_JJR ._.
+Good_JJ place_NN over_IN all_DT ._.

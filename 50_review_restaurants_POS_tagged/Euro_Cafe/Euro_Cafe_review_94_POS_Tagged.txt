@@ -1,0 +1,6 @@
+Great_NNP for_IN a_DT hearty_NN breakfast_NN ._.
+I_PRP 've_VBP made_VBN a_DT habit_NN of_IN coming_VBG here_RB after_IN going_VBG on_IN a_DT morning_NN hike_NN in_IN the_DT wilderness_NN park_NN ._.
+I_PRP always_RB order_VBP the_DT vegetarian_JJ omelette_NN with_IN potatoes_NNS ,_, rye_NN toast_NN ,_, and_CC coffee_NN ._.
+On_IN a_DT few_JJ occasions_NNS ,_, the_DT food_NN has_VBZ seemed_VBN a_DT little_JJ bland_NN ,_, but_CC it_PRP 's_VBZ nothing_NN a_DT little_JJ pepper_NN and_CC hot_JJ sauce_NN ca_MD n't_RB enliven_VB ._.
+I_PRP would_MD stick_VB to_TO breakfast_NN ,_, though_RB ._.
+The_DT few_JJ times_NNS I_PRP 've_VBP ordered_VBN lunch_NN have_VBP been_VBN disappointing_JJ and_CC more_RBR expensive_JJ ,_, such_JJ as_IN the_DT pasta_NN ,_, which_WDT was_VBD good_JJ ,_, but_CC I_PRP could_MD have_VB made_VBN it_PRP at_IN home_NN ._.

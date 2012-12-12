@@ -1,0 +1,14 @@
+It_PRP 's_VBZ like_IN a_DT Subway_NNP or_CC Quiznos_NNP for_IN pizza_NN ._.
+You_PRP have_VBP 3_CD basic_JJ pizzas_NNS to_TO choose_VB from_IN -LRB-_-LRB- margherita_NN ,_, bianca_NN &_CC marinara_NN -RRB-_-RRB- as_IN your_PRP$ base_NN or_CC you_PRP can_MD pick_VB a_DT pizza_NN from_IN their_PRP$ favorites_NNS ._.
+Toppings_NNS are_VBP additional_JJ $_$ 1\/topping_CD ._.
+One_CD person_NN flattens_VBZ the_DT dough_NN while_IN another_DT puts_VBZ all_PDT the_DT sauces_NNS on_IN the_DT dough_NN ._.
+Then_RB it_PRP moves_VBZ down_RP the_DT assembly_NN line_NN to_TO where_WRB the_DT toppings_NNS are_VBP added_VBN on_IN ._.
+The_DT plain_JJ margherita_NN pizza_NN is_VBZ delicious_JJ if_IN you_PRP 're_VBP craving_NN something_NN simple_JJ ._.
+The_DT sausage_NN &_CC peppers_NNS pizza_NN is_VBZ really_RB good_JJ as_RB well_RB ._.
+I_PRP LOVE_VBP the_DT peppadews_NNS on_IN the_DT pizza_NN !_.
+The_DT prosciutto_NN pizza_NN is_VBZ good_JJ as_RB well_RB especially_RB with_IN the_DT arugula_NN on_IN top_NN ._.
+The_DT price_NN of_IN the_DT pizza_NN is_VBZ very_RB reasonable_JJ considering_VBG it_PRP 's_VBZ made_VBN to_TO order_NN and_CC the_DT ingredients_NNS are_VBP fresh_JJ -LRB-_-LRB- fresh_JJ mozzarella_NN !_. -RRB-_-RRB-
+This_DT is_VBZ one_CD of_IN my_PRP$ go_VB to_TO places_NNS in_IN Westwood_NNP now_RB ._.
+Tip_NNP :_: DO_VB NOT_RB go_VB during_IN lunch_NN hours_NNS -LRB-_-LRB- 12-1pm_JJ -RRB-_-RRB- ._.
+The_DT line_NN will_MD be_VB out_IN the_DT door_NN and_CC nowhere_RB to_TO sit_VB ._.
+Come_VBN before_IN noon_NN or_CC after_IN 1pm_CD ._.

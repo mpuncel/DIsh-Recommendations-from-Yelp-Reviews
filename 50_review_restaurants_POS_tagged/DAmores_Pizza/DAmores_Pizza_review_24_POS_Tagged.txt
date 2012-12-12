@@ -1,0 +1,5 @@
+I_PRP stopped_VBD in_RP for_IN a_DT quick_JJ early_JJ dinner_NN and_CC will_MD not_RB be_VB going_VBG back_RB ._.
+I_PRP got_VBD their_PRP$ lunch_NN ``_`` special_JJ ''_'' which_WDT included_VBD a_DT slice_NN ,_, salad_NN and_CC drink_NN ,_, and_CC it_PRP was_VBD almost_RB $_$ 10_CD !_.
+That_DT is_VBZ not_RB a_DT special_JJ price_NN ._.
+Their_PRP$ pizza_NN was_VBD fine_JJ ,_, but_CC nothing_NN extraordinary_JJ and_CC their_PRP$ salad_NN was_VBD very_RB cheap_JJ -_: nothing_NN fresh_JJ except_IN the_DT iceberg_NN lettuce_NN ._.
+Go_VB to_TO Enzo_NNP 's_POS instead_RB ._.

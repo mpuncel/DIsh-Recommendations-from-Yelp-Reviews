@@ -1,0 +1,7 @@
+I_PRP 'm_VBP giving_VBG this_DT place_NN a_DT 3.5_CD \/_NN 5_CD rounded_VBD up_RP ._.
+If_IN this_DT place_NN were_VBD in_IN NYC_NNP ,_, I_PRP 'd_MD give_VB it_PRP a_DT 3\/5_CD ._.
+The_DT bread_NN basket_NN was_VBD a_DT standout_NN ..._: amazing_JJ variation_NN and_CC the_DT olive_JJ oil_NN was_VBD great_JJ ._.
+The_DT waiter_NN was_VBD very_RB polite_JJ ._.
+We_PRP had_VBD to_TO wait_VB longer_JJR than_IN expected_VBN ,_, and_CC did_VBD so_RB outside_JJ under_IN the_DT overhead_JJ tarp_NN ,_, avoiding_VBG the_DT slightly_RB wet_JJ seats_NNS from_IN prior_JJ rain_NN ._.
+I_PRP had_VBD the_DT salmon_NN entree_FW ,_, which_WDT was_VBD fantastic_JJ though_IN not_RB as_RB good_JJ as_IN at_IN Lahiere_NNP 's_POS or_CC Blue_JJ Point_NNP Grille_NNP -LRB-_-LRB- just_RB taking_VBG how_WRB the_DT salmon_NN itself_PRP was_VBD cooked_VBN into_IN consideration_NN ..._: not_RB the_DT sauces_NNS or_CC garnish_NN -RRB-_-RRB- ._.
+We_PRP had_VBD white_JJ wine_NN ,_, unfortunately_RB I_PRP forget_VB what_WP it_PRP was_VBD ,_, but_CC it_PRP was_VBD n't_RB memorable_JJ overall_JJ ._.

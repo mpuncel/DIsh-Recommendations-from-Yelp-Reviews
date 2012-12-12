@@ -1,0 +1,4 @@
+The_DT food_NN is_VBZ definitely_RB heavy_JJ and_CC unhealthy_JJ ,_, but_CC very_RB delicious_JJ ._.
+The_DT restaurant_NN gives_VBZ you_PRP a_DT very_RB generous_JJ amount_NN of_IN food_NN ,_, and_CC you_PRP always_RB leave_VBP full_JJ and_CC happy_JJ ._.
+The_DT price_NN is_VBZ also_RB very_RB ,_, very_RB good_JJ for_IN the_DT amount_NN of_IN tasty_JJ food_NN that_IN they_PRP give_VBP you_PRP ._.
+I_PRP always_RB try_VBP to_TO go_VB to_TO Gypsy_NNP 's_POS when_WRB I_PRP 'm_VBP in_IN the_DT area_NN ._.

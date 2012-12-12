@@ -1,0 +1,10 @@
+Business_NNP lunch_NN ,_, 3ppl_CD ,_, 12_CD noon_NN !_.
+One_CD of_IN the_DT guests_NNS is_VBZ a_DT regular_JJ for_IN lunch_NN ,_, do_VBP to_TO the_DT proximity_NN of_IN his_PRP$ office_NN !_.
+He_PRP was_VBD referred_VBN to_TO by_IN name_NN !_.
+Impressive_JJ !_.
+I_PRP can_MD now_RB see_VB why_WRB he_PRP comes_VBZ here_RB !_.
+The_DT service_NN was_VBD first_JJ class_NN !_.
+The_DT space_NN is_VBZ designed_VBN well_RB !_.
+The_DT bread_NN basket_NN was_VBD amazing_JJ !_.
+The_DT Sole_NNP special_NN was_VBD perfect_JJ in_IN every_DT way_NN !_.
+I_PRP 'll_MD need_VB to_TO come_VB back_RB for_IN dinner_NN to_TO do_VB a_DT more_RBR extensive_JJ review_NN !_.

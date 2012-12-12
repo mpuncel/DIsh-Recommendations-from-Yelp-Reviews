@@ -1,0 +1,5 @@
+upscale_JJ restaurant_NN with_IN excellent_JJ food_NN ._.
+i_FW was_VBD a_DT regular_JJ here_RB a_DT few_JJ years_NNS back_RB and_CC the_DT food_NN is_VBZ amazing_JJ ._.
+they_PRP used_VBD to_TO have_VB a_DT Gorgonzola_NNP burger_NN which_WDT was_VBD absolutely_RB amazing_JJ ._.
+the_DT food_NN is_VBZ very_RB high_JJ quality_NN and_CC the_DT prices_NNS are_VBP great_JJ ._.
+its_PRP$ a_DT must_MD try_VB for_IN Italian_JJ food_NN lovers_NNS ._.

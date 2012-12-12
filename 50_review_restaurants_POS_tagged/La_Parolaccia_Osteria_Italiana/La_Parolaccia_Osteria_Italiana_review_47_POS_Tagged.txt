@@ -1,0 +1,6 @@
+My_PRP$ family_NN has_VBZ found_VBN a_DT new_JJ favorite_JJ place_NN !_.
+The_DT pizza_NN is_VBZ as_RB close_JJ to_TO real_JJ Italian_JJ as_IN possible_JJ ._.
+The_DT portions_NNS are_VBP large_JJ and_CC really_RB delicious_JJ ._.
+We_PRP were_VBD pleasantly_RB surprised_JJ and_CC to_TO be_VB honest_JJ were_VBD not_RB expecting_VBG such_JJ good_JJ food_NN ._.
+The_DT staff_NN was_VBD very_RB nice_JJ and_CC attentive_JJ -_: the_DT server_NN brought_VBD us_PRP the_DT wrong_JJ pizza_NN ,_, but_CC she_PRP quickly_RB corrected_VBD the_DT mistake_NN and_CC gave_VBD us_PRP both_DT pizzas_NNS and_CC only_RB charged_VBD us_PRP for_IN one_CD ._.
+Would_MD love_VB to_TO visit_VB this_DT location_NN again_RB !_.

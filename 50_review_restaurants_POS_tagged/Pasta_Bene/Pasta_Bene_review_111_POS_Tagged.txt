@@ -1,0 +1,6 @@
+Very_NNP Casual_NNP -_: This_DT nice_JJ sweet_JJ restaurant_NN appeals_NNS to_TO students_NNS and_CC yet_RB food_NN was_VBD very_RB good_JJ and_CC inexpensive_JJ ._.
+It_PRP is_VBZ the_DT pay_NN at_IN the_DT counter_NN and_CC get_VB a_DT number_NN for_IN your_PRP$ table_NN kind_NN of_IN place_NN ._.
+Very_RB nice_JJ employees_NNS ._.
+Telegraph_NNP is_VBZ a_DT funky_JJ area_NN of_IN town_NN and_CC yet_RB I_PRP would_MD go_VB back_RB for_IN a_DT simple_JJ Italian_JJ meal_NN ._.
+It_PRP has_VBZ a_DT modern_JJ twist_NN and_CC it_PRP is_VBZ light_JJ on_IN ambiance_NN ._.
+Sat_NNP outside_JJ and_CC got_VBD some_DT creepy_JJ stares_NNS and_CC cat_NN calls_VBZ so_IN I_PRP will_MD be_VB sure_JJ sit_VBP inside_IN next_JJ time_NN ._.

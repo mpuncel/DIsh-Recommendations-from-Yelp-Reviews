@@ -1,0 +1,2 @@
+Babbo_NNP 's_POS while_IN small_JJ ,_, and_CC in_IN a_DT mall_NN ,_, has_VBZ service_NN refined_VBN ,_, and_CC prices_NNS just_RB fine_JJ ._.
+Between_IN you_PRP and_CC me_PRP ,_, the_DT cucumber_NN salad_NN 's_POS sublime_JJ ._.

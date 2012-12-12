@@ -1,0 +1,4 @@
+Great_NNP place_NN for_IN dinner_NN ,_, very_RB intimate_JJ and_CC dark_JJ ._.
+I_PRP enjoyed_VBD their_PRP$ pizza_NN -LRB-_-LRB- many_JJ different_JJ kinds_NNS to_TO choose_VB from_IN -RRB-_-RRB- and_CC wine_NN ._.
+It_PRP was_VBD n't_RB too_RB busy_JJ when_WRB we_PRP got_VBD there_EX around_IN 7PM_NNP ,_, but_CC it_PRP definitely_RB picked_VBD up_RB later_RB with_IN only_RB standing_VBG room_NN available_JJ ._.
+I_PRP would_MD recommend_VB reservations_NNS if_IN possible_JJ ._.

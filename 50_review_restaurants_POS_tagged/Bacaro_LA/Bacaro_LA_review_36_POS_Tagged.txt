@@ -1,0 +1,10 @@
+Bacaro_NNP L.A._NNP provides_VBZ something_NN different_JJ in_IN the_DT LA_NNP food_NN scene_NN ._.
+Italian_JJ tapas_NNS and_CC wine_NN at_IN reasonable_JJ prices_NNS ._.
+The_DT ambiance_NN is_VBZ nice_JJ with_IN an_DT eclectic_JJ crowd_NN that_IN you_PRP would_MD not_RB expect_VB in_IN this_DT area_NN of_IN town_NN ._.
+The_DT place_NN however_RB is_VBZ easy_JJ to_TO miss_VB if_IN you_PRP do_VBP not_RB have_VB a_DT GPS_NNP device_NN to_TO pinpoint_VB the_DT exact_JJ location_NN !_.
+The_DT food_NN ,_, was_VBD good_JJ ,_, nothing_NN over_IN the_DT top_NN ._.
+The_DT PAN_NNP SEARED_NNP SCALLOPS_NNP would_MD be_VB my_PRP$ favorite_JJ ._.
+The_DT Bacaro_NNP Burger_NNP was_VBD good_JJ ,_, provided_VBN on_IN a_DT half_NN bun_NN ,_, which_WDT was_VBD unfortunately_RB burnt_JJ ,_, as_IN was_VBD the_DT eggplant_NN pizza_NN ._.
+My_PRP$ major_JJ complaint_NN was_VBD that_IN the_DT tables_NNS were_VBD extremely_RB small_JJ and_CC our_PRP$ seats_NNS had_VBD no_DT backrest_NN ._.
+Also_RB since_IN the_DT tables_NNS are_VBP small_JJ I_PRP would_MD have_VB expected_VBN the_DT waiter_NN to_TO have_VB the_DT foresight_NN to_TO bring_VB the_DT dishes_NNS out_RP at_IN a_DT moderate_JJ pace_NN ,_, instead_RB of_IN all_DT at_IN once_RB !_.
+We_PRP had_VBD to_TO wolf_VB down_RP most_JJS of_IN the_DT food_NN in_IN order_NN to_TO clear_JJ space_NN for_IN the_DT next_JJ dishes_NNS !_.

@@ -1,0 +1,9 @@
+A_DT very_RB nice_JJ ,_, comfortable_JJ ``_`` bistro_NN ''_'' type_NN atmosphere_NN ._.
+Tables_NNS are_VBP pretty_RB close_RB together_RB but_CC we_PRP were_VBD n't_RB uncomfortable_JJ ._.
+Had_VBD dinner_NN for_IN two_CD on_IN a_DT Thursday_NNP night_NN in_IN early_JJ April_NNP ._.
+I_PRP had_VBD a_DT salad_NN and_CC the_DT penne_NN with_IN seafod_NN ._.
+Really_RB nice_JJ ,_, fresh_JJ well-prepared_JJ food_NN without_IN too_RB much_JJ salt_NN or_CC heavy_JJ sauces_NNS ._.
+My_PRP$ dinner_NN companion_NN had_VBD the_DT Grilled_JJ chicken_NN pizzette_NN -_: I_PRP stole_VBD a_DT slice_NN ._.
+Very_RB good_JJ quality_NN as_RB well_RB ._.
+A_DT nice_JJ glass_NN of_IN reasonably_RB priced_VBN Montepulciano_NNP rounded_VBD out_RP the_DT meal_NN ._.
+A_DT very_RB good_JJ choice_NN for_IN dinner_NN in_IN Princetown_NNP in_IN a_DT lively_JJ ,_, classy_JJ but_CC still_RB comfortably_RB casual_JJ -LRB-_-LRB- suit_NN or_CC jeans_NNS -RRB-_-RRB- setting_NN ._.

@@ -1,0 +1,16 @@
+Great_NNP decor_NN ._.
+Indoor_JJ patio_NN with_IN communal_JJ table_NN is_VBZ bright_JJ and_CC airy_JJ ._.
+Booths_NNS in_IN main_JJ dining_NN room_NN have_VBP metropolitan_JJ \/_NN euro_NN style_NN ._.
+Seating_VBG upstairs_NN is_VBZ more_RBR intimate_JJ ._.
+Friendly_RB and_CC accommodating_VBG staff_NN ._.
+Food_NNP is_VBZ a_DT bit_RB hit_VBN or_CC miss_VBP ._.
+We_PRP liked_VBD the_DT Bagna_NNP Cauda_NNP salad_NN ,_, the_DT Margherita_NNP pizza_NN and_CC the_DT Pollo_NNP main_JJ course_NN ._.
+The_DT San_NNP Daniele_NNP pizza_NN and_CC Bolognese_JJ were_VBD OK_UH ._.
+Did_VBD n't_RB like_IN the_DT Panzanella_NN salad_NN ._.
+We_PRP were_VBD expecting_VBG more_JJR based_VBN on_IN ``_`` homemade_NN ''_'' pasta_NN ._.
+Kids_NNS enjoyed_VBD their_PRP$ food_NN -_: spaghetti_NNS and_CC meatballs_NNS ._.
+For_IN those_DT who_WP like_VBP to_TO drink_VB ,_, the_DT selection_NN of_IN cocktails_NNS ,_, beers_NNS and_CC wines_NNS was_VBD good_JJ ._.
+Cocktails_NNS were_VBD inventive_JJ ._.
+Beers_NNP on_IN tap_VB are_VBP all_DT local_JJ breweries_NNS and_CC wines_NNS are_VBP mix_NN of_IN CA_NNP and_CC Italian_NNP ._.
+Desert_NNP was_VBD OK_JJ ._.
+Crostata_NNP -LRB-_-LRB- Summer_NNP Plum_NNP Rustic_NNP Tart_NNP -RRB-_-RRB- better_JJR than_IN the_DT Cioccolato_NNP -LRB-_-LRB- Warm_JJ Chocolate_NNP Pudding_NNP Cake_NNP -RRB-_-RRB- ._.

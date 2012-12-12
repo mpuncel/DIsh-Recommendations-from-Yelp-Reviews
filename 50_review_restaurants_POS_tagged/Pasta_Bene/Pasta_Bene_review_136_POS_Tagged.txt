@@ -1,0 +1,3 @@
+Amazing_JJ Italian_JJ Restaurant_NNP ._.
+Everything_NN here_RB is_VBZ made_VBN from_IN scratch_NN ._.
+I_PRP think_VBP it_PRP seems_VBZ to_TO be_VB out_IN of_IN place_NN ,_, since_IN the_DT prices_NNS are_VBP way_NN beyond_IN what_WP college_NN student_NN can_MD afford_VB on_IN a_DT daily_JJ basis_NN ._.

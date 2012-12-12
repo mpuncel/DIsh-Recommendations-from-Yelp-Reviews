@@ -1,0 +1,6 @@
+went_VBD here_RB on_IN valentine_NN 's_POS day_NN ._.
+the_DT food_NN was_VBD great_JJ but_CC it_PRP was_VBD kind_NN of_IN a_DT madhouse_NN ._.
+thankfully_RB we_PRP had_VBD reservations_NNS ._.
+i_FW had_VBD salmon_NN with_IN buckwheat_NN pasta_NN ._.
+it_PRP was_VBD yum_NN ._.
+also_RB their_PRP$ house_NN cab_NN is_VBZ tasty_JJ !_.

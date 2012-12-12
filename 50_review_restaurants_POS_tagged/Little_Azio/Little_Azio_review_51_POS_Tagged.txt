@@ -1,0 +1,18 @@
+Meh_NNP ,_, Little_NNP Azio_NNP 's_POS is_VBZ OK_JJ ._.
+I_PRP 'd_MD best_RB compare_VB it_PRP to_TO an_DT Italian_JJ version_NN of_IN Subway_NNP restaurants_NNS ._.
+The_DT food_NN is_VBZ OK_JJ ,_, but_CC so_RB plain_JJ and_CC simple_JJ and_CC lifeless_JJ ._.
+I_PRP went_VBD to_TO the_DT midtown_NN location_NN via_IN my_PRP$ Scoutmob_NNP app_NN ,_, so_RB that_IN made_VBD it_PRP worth_IN the_DT money_NN ._.
+I_PRP ordered_VBD the_DT tri-colored_JJ tortellinis_NNS in_IN a_DT cream_NN sauce_NN with_IN chicken_NN ._.
+The_DT pasta_NN was_VBD pretty_RB good_JJ ,_, it_PRP seemed_VBD rather_RB fresh_JJ ._.
+But_CC the_DT cream_NN sauce_NN was_VBD gross_JJ ,_, way_NN too_RB thick_JJ ,_, and_CC flavorless_JJ ._.
+Also_RB ,_, the_DT chicken_NN was_VBD obviously_RB frozen_VBN and_CC seemed_VBN like_IN it_PRP was_VBD cut_VBN by_IN a_DT machine_NN ,_, not_RB a_DT person_NN ._.
+It_PRP came_VBD with_IN a_DT little_JJ stick_NN of_IN bread_NN that_WDT also_RB tasted_VBD like_IN it_PRP had_VBD previously_RB been_VBN frozen_VBN ._.
+The_DT staff_NN here_RB was_VBD nice_JJ and_CC my_PRP$ food_NN came_VBD out_RP promptly_RB ._.
+Also_RB ,_, the_DT facility_NN was_VBD clean_JJ and_CC well-lit_JJ ._.
+Not_RB a_DT bad_JJ deal_NN when_WRB it_PRP 's_VBZ half-off_NN with_IN my_PRP$ ScoutMob_NNP ,_, and_CC they_PRP have_VBP a_DT special_JJ deal_NN every_DT day_NN that_WDT makes_VBZ for_IN an_DT affordable_JJ meal_NN ._.
+I_PRP do_VBP n't_RB eat_VB fast_JJ food_NN ,_, so_RB this_DT is_VBZ a_DT good_JJ option_NN if_IN I_PRP need_VBP a_DT quick_JJ ,_, cheap_JJ meal_NN on_IN the_DT go_NN ._.
+It_PRP 's_VBZ reliable_JJ ,_, for_IN sure_JJ ._.
+And_CC again_RB ,_, being_VBG on_IN a_DT budget_NN it_PRP 's_VBZ nice_JJ to_TO get_VB decent_JJ quality_NN food_NN but_CC only_RB having_VBG to_TO pay_VB for_IN counter_JJ service_NN ._.
+I_PRP do_VBP n't_RB have_VB a_DT problem_NN refilling_VBG my_PRP$ own_JJ drink_NN and_CC clearing_NN my_PRP$ own_JJ plate_NN ._.
+Overall_JJ decent_JJ food_NN and_CC decent_JJ atmosphere_NN ._.
+Nothing_NN special_JJ or_CC fancy_JJ or_CC unique_JJ but_CC a_DT fair_JJ value_NN ._.

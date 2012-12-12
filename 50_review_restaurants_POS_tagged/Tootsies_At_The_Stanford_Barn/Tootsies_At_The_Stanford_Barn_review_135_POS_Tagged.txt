@@ -1,0 +1,5 @@
+Great_NNP location_NN ,_, decent_JJ prices_NNS ,_, and_CC pregnant_JJ women_NNS everywhere_RB ._.
+I_PRP saw_VBD 4_CD of_IN them_PRP ,_, including_VBG the_DT owner_NN ,_, in_IN a_DT matter_NN of_IN 30_CD minutes_NNS !_.
+I_PRP ordered_VBD the_DT breaded_VBN chicken_NN sandwich_NN and_CC it_PRP was_VBD wonderful_JJ :_: flavorful_JJ and_CC hot_JJ ._.
+The_DT endive_JJ slaw_NN on_IN the_DT bottom_NN of_IN it_PRP gave_VBD it_PRP an_DT extra_JJ depth_NN to_TO what_WP would_MD have_VB been_VBN a_DT normal_JJ chicken_NN sandwich_NN ._.
+Also_RB ,_, they_PRP stop_VBP serving_VBG breakfast_NN at_IN 11am_CD and_CC be_VB sure_JJ to_TO come_VB early_RB because_IN the_DT parking_NN can_MD be_VB limited_VBN and_CC a_DT line_NN starts_VBZ to_TO form_VB in_IN sunny_JJ weather_NN ._.

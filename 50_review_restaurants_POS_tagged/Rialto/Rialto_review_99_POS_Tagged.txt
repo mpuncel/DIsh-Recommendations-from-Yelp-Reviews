@@ -1,0 +1,10 @@
+Went_VBD here_RB for_IN Restaurant_NNP Week_NNP last_JJ week_NN ,_, and_CC the_DT food_NN was_VBD very_RB good_JJ -_: I_PRP had_VBD mushroom_NN soup_NN for_IN my_PRP$ first_JJ course_NN ,_, sweet_JJ potato_NN ravioli_NNS for_IN my_PRP$ second_JJ course_NN ,_, and_CC an_DT orange_NN panna_NN cotta_NN for_IN my_PRP$ third_JJ course_NN ._.
+Others_NNS at_IN the_DT table_NN had_VBD a_DT beet_NN salad_NN ,_, grilled_JJ mussels_NNS ,_, antipasto_JJ plate_NN ,_, trout_NNS ,_, mackerel_NN ,_, and_CC a_DT chocolate_NN torta_NN ._.
+Everyone_NN enjoyed_VBD the_DT food_NN they_PRP ordered_VBD ,_, though_IN the_DT wine_NN was_VBD not_RB as_IN well-liked_JJ ._.
+The_DT ambiance_NN was_VBD nice_JJ and_CC cozy_JJ ,_, with_IN beautiful_JJ decor_NN and_CC a_DT fairly_RB low_JJ noise_NN level_NN that_WDT made_VBD it_PRP easy_JJ to_TO converse_VB ._.
+The_DT service_NN was_VBD very_RB smooth_JJ ,_, with_IN everyone_NN being_VBG very_RB polite_JJ from_IN the_DT hostess_NN to_TO the_DT waitstaff_NN ._.
+We_PRP were_VBD seated_VBN early_RB -LRB-_-LRB- 10_CD minutes_NNS before_IN our_PRP$ reservation_NN -RRB-_-RRB- on_IN a_DT Monday_NNP night_NN ,_, and_CC were_VBD asked_VBN multiple_JJ times_NNS if_IN they_PRP could_MD take_VB our_PRP$ coats_NNS ._.
+The_DT only_JJ slightly_RB odd_JJ thing_NN was_VBD the_DT lack_NN of_IN bread_NN plates_NNS ;_: we_PRP ended_VBD up_RP with_IN quite_RB a_DT few_JJ breadcrumbs_NNS on_IN the_DT tablecloth_NN ,_, only_RB some_DT of_IN which_WDT were_VBD swept_VBN away_RB when_WRB dessert_NN was_VBD served_VBN ._.
+Oh_UH well_UH ,_, I_PRP guess_VBP it_PRP 's_VBZ ok_NN to_TO leave_VB with_IN some_DT breadcrumbs_NNS on_IN my_PRP$ elbows_NNS !_.
+I_PRP would_MD go_VB back_RB sometime_RB for_IN another_DT fancy_JJ meal_NN ,_, maybe_RB for_IN a_DT special_JJ occasion_NN ._.
+It_PRP 's_VBZ definitely_RB not_RB cheap_JJ ;_: the_DT food_NN is_VBZ very_RB high_JJ quality_NN ,_, though_IN I_PRP 'm_VBP not_RB sure_JJ if_IN the_DT wine_NN is_VBZ worth_JJ those_DT prices_NNS ._.

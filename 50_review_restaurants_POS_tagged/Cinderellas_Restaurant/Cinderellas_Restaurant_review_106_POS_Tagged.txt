@@ -1,0 +1,6 @@
+I_PRP dig_VBP Cinderella_NNP 's_POS pizza_NN a_DT lot_NN ._.
+I_PRP find_VBP it_PRP 's_VBZ consistent_JJ ,_, fresh_JJ tasting_NN and_CC ..._: good_JJ ._.
+I_PRP always_RB forget_VB this_DT place_NN though_RB ._.
+Apparently_RB they_PRP 're_VBP open_JJ late_JJ and_CC I_PRP know_VBP they_PRP deliver_VBP ,_, I_PRP just_RB do_VBP n't_RB have_VB a_DT menu_NN ._.
+I_PRP 've_VBP had_VBD to_TO look_VB it_PRP up_RP online_NN in_IN obscure_JJ texts_NNS on_IN MIT_NNP student_NN webspace_NN before_IN ..._: what_WP 's_VBZ that_IN about_IN ?_.
+UPDATE_VB :_: They_PRP mailed_VBD me_PRP a_DT menu_NN &_CC you_PRP can_MD totally_RB get_VB them_PRP to_TO deliver_VB Toscanini_NNP 's_POS Ice_NNP Cream_NNP !_.

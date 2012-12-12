@@ -1,0 +1,4 @@
+Love_NNP ,_, Love_NNP ,_, Love_NNP them_PRP !_.
+Very_RB down_RB to_TO earth_NN ,_, great_JJ food_NN with_IN good_JJ natural_JJ flavor_NN !_.
+I_PRP have_VBP never_RB gotten_VBN anything_NN there_RB that_IN I_PRP did_VBD not_RB like_IN ,_, and_CC I_PRP 've_VBP gone_VBN there_RB for_IN years_NNS ._.
+Very_RB reasonably_RB priced_VBN for_IN the_DT food_NN you_PRP get_VBP and_CC their_PRP$ pasta_NN compares_VBZ to_TO Osteria_NNP Mozza_NNP -LRB-_-LRB- no_DT joke_NN !_. -RRB-_-RRB- ._.

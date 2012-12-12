@@ -1,0 +1,4 @@
+Their_PRP$ garlic_JJ bread_NN is_VBZ to_TO die_VB for_IN ._.
+This_DT is_VBZ all_DT you_PRP should_MD come_VB here_RB for_IN ._.
+Their_PRP$ pasta_NN was_VBD average_JJ and_CC a_DT weird_JJ mix_NN of_IN watery_JJ but_CC also_RB too_RB creamy_JJ ._.
+GET_VB THE_DT GARLIC_NNP BREAD_NNP ._.

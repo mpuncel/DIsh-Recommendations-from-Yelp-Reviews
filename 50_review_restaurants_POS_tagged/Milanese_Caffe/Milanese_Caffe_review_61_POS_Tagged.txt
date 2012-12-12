@@ -1,0 +1,6 @@
+The_DT food_NN quality_NN is_VBZ okay_JJ and_CC the_DT portions_NNS are_VBP not_RB that_IN worth_JJ it_PRP in_IN my_PRP$ opinion_NN ._.
+I_PRP 've_VBP only_RB gotten_VBN the_DT pasta_NN here_RB ._.
+$_$ 10_CD for_IN pasta_NN that_IN I_PRP could_MD get_VB at_IN a_DT better_JJR price_NN and_CC at_IN a_DT better_JJR quality_NN at_IN Gypsy_NNP 's_POS ._.
+That_DT 's_VBZ an_DT example_NN ._.
+This_DT place_NN is_VBZ n't_RB anything_NN special_JJ and_CC I_PRP do_VBP n't_RB think_VB it_PRP 's_VBZ worth_JJ it_PRP ._.
+The_DT only_RB good_JJ thing_NN is_VBZ that_IN you_PRP can_MD pay_VB for_IN your_PRP$ food_NN at_IN the_DT beginning_NN so_IN you_PRP do_VBP n't_RB have_VB to_TO worry_VB about_IN splitting_NN the_DT bill_NN with_IN your_PRP$ friends_NNS later_RB on_IN ._.

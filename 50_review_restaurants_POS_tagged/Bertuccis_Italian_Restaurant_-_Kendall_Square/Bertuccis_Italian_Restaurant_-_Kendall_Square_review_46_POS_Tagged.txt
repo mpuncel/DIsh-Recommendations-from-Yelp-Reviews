@@ -1,0 +1,4 @@
+Very_RB reliable_JJ brick_NN oven_CD pizza_NN ._.
+Nice_JJ location_NN just_RB outside_IN of_IN Central_NNP Square_NNP ._.
+My_PRP$ favorite_JJ is_VBZ the_DT bread_NN and_CC the_DT melenzzana_NN pizza_NN ._.
+Yum_NNP ._.

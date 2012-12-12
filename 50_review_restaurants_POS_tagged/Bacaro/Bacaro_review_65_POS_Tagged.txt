@@ -1,0 +1,4 @@
+Would_MD not_RB recommend_VB ._.
+It_PRP 's_VBZ the_DT kind_NN of_IN place_NN where_WRB if_IN you_PRP 're_VBP a_DT regular_JJ you_PRP get_VBP seated_VBN quickly_RB ,_, and_CC even_RB if_IN you_PRP 're_VBP not_RB ,_, regardless_RB of_IN having_VBG a_DT reservation_NN ,_, you_PRP wait_VBP ..._: Food_NNP is_VBZ good_JJ ,_, but_CC not_RB great_JJ in_IN comparison_NN to_TO other_JJ fine_JJ italian_JJ restaurants_NNS -LRB-_-LRB- like_IN al_JJ forno_NN -RRB-_-RRB- ._.
+Atmosphere_NN is_VBZ a_DT little_JJ noisy_JJ but_CC otherwise_RB is_VBZ very_RB nice_JJ ._.
+Menu_NN is_VBZ seasonal_JJ with_IN many_JJ options_NNS ,_, but_CC overall_RB ,_, service_NN is_VBZ hit_VBN or_CC miss_VBP ..._:

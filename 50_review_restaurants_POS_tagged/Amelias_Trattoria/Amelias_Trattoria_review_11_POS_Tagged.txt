@@ -1,0 +1,3 @@
+Skip_VB it_PRP ._.
+Limited_JJ menu_NN -_: coupled_VBN with_IN items_NNS listed_VBN on_IN menu_NN but_CC not_RB available_JJ ._.
+Bland_NNP food_NN ,_, bland_NN service_NN ,_, bland_NN location_NN and_CC way_NN too_RB high_JJ prices_NNS ..._:

@@ -1,0 +1,9 @@
+Carbonara_NNP :_: In_IN the_DT first_JJ few_JJ bites_VBZ ,_, the_DT cream_NN is_VBZ pleasantly_RB thick_JJ and_CC creamy_JJ ,_, but_CC the_DT after_IN taste_NN is_VBZ unpleasant_JJ and_CC CLOYING_NNP ._.
+Pesto_NNP Chicken_NNP Pasta_NNP :_: Pesto_NNP sauce_NN is_VBZ way_RB too_RB creamy_JJ and_CC too_RB rich_JJ on_IN the_DT whole_NN ._.
+The_DT sauce_NN is_VBZ too_RB thick_JJ ._.
+Not_RB refreshing_VBG ._.
+The_DT chicken_NN :_: Totally_RB flavorless_JJ and_CC tasted_JJ plastic_NN ._.
+Okay_UH ,_, this_DT is_VBZ not_RB a_DT fine_JJ dining_NN restaurant_NN ._.
+So_RB do_VBP n't_RB expect_VB a_DT sophisticated_JJ tasting_NN and_CC dining_VBG experience_NN ._.
+But_CC even_RB so_RB ,_, the_DT price_NN is_VBZ ridiculous_JJ for_IN the_DT quality_NN of_IN food_NN you_PRP get_VBP ._.
+I_PRP 'd_MD rather_RB go_VB to_TO Thai_NNP Basil_NNP or_CC that_DT Chinese_JJ restaurant_NN next_JJ door_NN if_IN I_PRP were_VBD to_TO fork_VB out_RP the_DT same_JJ amount_NN of_IN $_$ ._.

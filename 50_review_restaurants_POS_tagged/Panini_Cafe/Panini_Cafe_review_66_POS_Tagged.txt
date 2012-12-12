@@ -1,0 +1,6 @@
+YUM_NNP !_.
+Fav_NNP new_JJ lunch_NN spot_NN in_IN Westwood_NNP ._.
+I_PRP 've_VBP had_VBD panini_NNS -LRB-_-LRB- SPECIFY_NNP you_PRP want_VBP the_DT entire_JJ thing_NN grilled_JJ or_CC they_PRP just_RB grill_VBP the_DT bread_NN and_CC put_VBD stuff_NN on_IN afterwards_RB cold_JJ -RRB-_-RRB- and_CC the_DT mousaka_NN ._.
+Mousaka_NNP was_VBD really_RB yummy_JJ although_IN I_PRP 've_VBP never_RB had_VBN it_PRP anywhere_RB before_RB ._.
+Last_JJ time_NN I_PRP went_VBD every_DT table_NN was_VBD full_JJ so_IN you_PRP know_VBP others_NNS like_IN it_PRP too_RB !_.
+Only_RB complaint_NN about_IN that_DT is_VBZ the_DT order_NN comes_VBZ out_RP a_DT bit_NN slower_JJR --_: then_RB again_RB ,_, what_WP do_VB you_PRP expect_VBP if_IN you_PRP are_VBP n't_RB eating_VBG fast_JJ food_NN ?_.

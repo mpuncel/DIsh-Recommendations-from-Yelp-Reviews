@@ -1,0 +1,5 @@
+Great_NNP ambiance_NN ,_, great_JJ service_NN ,_, great_JJ food_NN &_CC moderate_JJ prices_NNS ._.
+One_CD of_IN my_PRP$ favorite_JJ things_NNS on_IN the_DT menu_NN is_VBZ a_DT salad_NN called_VBN Gamberetti_NNP Alla_NNP Griglia_NNP ._.
+This_DT is_VBZ one_CD of_IN the_DT best_JJS salads_NNS I_PRP have_VBP ever_RB had_VBN ._.
+Totally_RB worth_IN the_DT price_NN you_PRP pay_VBP ._.
+It_PRP is_VBZ a_DT family_NN run_NN business_NN and_CC it_PRP shows_VBZ ._.

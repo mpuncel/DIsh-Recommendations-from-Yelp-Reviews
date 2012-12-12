@@ -1,0 +1,5 @@
+Location_NNP -_: Food_NNP -_: Service_NNP -_: check_NN -_: check_NN -_: check_NN ._.
+Excellent_JJ food_NN and_CC wine_NN list_NN ._.
+Handled_VBN our_PRP$ larger_JJR party_NN of_IN 15_CD well_RB -_: and_CC even_RB stayed_VBD open_JJ past_JJ normal_JJ closing_NN to_TO accomodate_VB us_PRP ._.
+Additional_JJ charm_NN is_VBZ the_DT outside_JJ patio_NN dining_VBG area_NN -_: which_WDT they_PRP have_VBP PLENTY_NN of_IN heat_NN warmers_NNS if_IN needed_VBN ._.
+Ca_MD n't_RB go_VB wrong_JJ here_RB !_.

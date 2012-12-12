@@ -1,0 +1,5 @@
+This_DT is_VBZ a_DT gem_NN !_.
+Hidden_VBN away_RB in_IN a_DT little_JJ neighborhood_NN near_IN USC_NNP ,_, this_DT wine_NN bar_NN offers_VBZ a_DT sophisticated_JJ selection_NN of_IN wine_NN ,_, beers_NNS ,_, and_CC small_JJ savory_JJ dishes_NNS ._.
+It_PRP is_VBZ an_DT excellent_JJ place_NN to_TO bring_VB friends_NNS and_CC co-workers_NNS and_CC they_PRP have_VBP a_DT great_JJ happy-hour_NN !_.
+The_DT inside_NN is_VBZ small_JJ and_CC funky_JJ ,_, but_CC it_PRP really_RB has_VBZ a_DT great_JJ atmosphere_NN ._.
+Well_RB worth_JJ visiting_VBG !_.

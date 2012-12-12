@@ -1,0 +1,5 @@
+This_DT is_VBZ currently_RB my_PRP$ fav_NN ._.
+bar_NN in_IN Ann_NNP Arbor_NNP ._.
+It_PRP reminds_VBZ me_PRP of_IN Latin_NNP America_NNP with_IN it_PRP 's_VBZ plastic_JJ folding_JJ tables_NNS ,_, folding_JJ metal_NN chairs_NNS ,_, and_CC giant_JJ jars_NNS of_IN sangria_NN in_IN which_WDT you_PRP pour_VBP yourself_PRP a_DT class_NN of_IN in_IN a_DT smaller_JJR jar_NN ._.
+Perfect_NNP place_NN when_WRB the_DT weather_NN is_VBZ nice_JJ to_TO chill_NN with_IN a_DT group_NN and_CC just_RB enjoy_VB the_DT HUGE_NNP porches_NNS ._.
+Only_RB complaint_NN :_: Why_WRB do_VBP you_PRP close_RB at_IN 10PM_CD ?_.

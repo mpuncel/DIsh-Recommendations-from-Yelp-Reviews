@@ -1,0 +1,8 @@
+Came_NNP here_RB with_IN a_DT friend_NN last_JJ night_NN ._.
+The_DT food_NN was_VBD very_RB tasty_JJ ,_, although_IN the_DT portions_NNS were_VBD small_JJ ._.
+Once_RB we_PRP ordered_VBD ,_, the_DT food_NN was_VBD served_VBN quickly_RB ._.
+The_DT lobster_NN arancini_NN was_VBD tasty_JJ !_.
+Then_RB we_PRP split_VBD the_DT lamb_NN sausage_NN pizza_NN and_CC the_DT pasta_NN vongole_NN ._.
+The_DT sausage_NN on_IN the_DT pizza_NN was_VBD amazing_JJ ,_, very_RB fresh_JJ ._.
+The_DT clam_NN pasta_NN was_VBD tasty_JJ ,_, but_CC had_VBD too_RB many_JJ pancetta_NN pieces_NNS in_IN it_PRP for_IN a_DT seafood_NN pasta_NN ._.
+Overall_RB ,_, it_PRP was_VBD a_DT delicious_JJ meal_NN !_.

@@ -1,0 +1,6 @@
+Girasole_NNP is_VBZ a_DT trendy_JJ little_JJ Italian_JJ restaurant_NN in_IN Shadyside_NNP ._.
+This_DT place_NN has_VBZ potential_JJ to_TO be_VB a_DT good_JJ restaurant_NN ,_, but_CC they_PRP really_RB need_VBP to_TO improve_VB the_DT food_NN quality_NN ._.
+The_DT sauce_NN and_CC chicken_NN was_VBD cooked_VBN properly_RB ,_, but_CC both_DT needed_VBN seasoning_NN ._.
+The_DT rest_NN of_IN our_PRP$ meal_NN was_VBD delicious_JJ ._.
+The_DT staff_NN was_VBD friendly_JJ and_CC the_DT service_NN was_VBD prompt_JJ ._.
+I_PRP 'll_MD probably_RB come_VB back_RB again_RB if_IN they_PRP work_VBP on_IN improving_VBG the_DT food_NN quality_NN ._.

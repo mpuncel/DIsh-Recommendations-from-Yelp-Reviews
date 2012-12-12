@@ -1,0 +1,10 @@
+In_IN a_DT word_NN :_: bizarre_JJ ._.
+It_PRP 's_VBZ a_DT cheap-o_JJ Italian_JJ restaurant_NN with_IN an_DT entirely_RB Latino_JJ staff_NN who_WP can_MD make_VB better_JJR Italian_JJ food_NN than_IN the_DT Italians_NNPS at_IN Palermo_NNP 's_POS -_: check_NN ._.
+They_PRP serve_VBP beer_NN and_CC ``_`` wine_NN ''_'' and_CC are_VBP literally_RB a_DT block_NN from_IN USC_NNP -_: check_NN ._.
+When_WRB you_PRP order_VB your_PRP$ food_NN ,_, they_PRP give_VBP you_PRP a_DT small_JJ stuffed_VBN animal_NN to_TO keep_VB at_IN your_PRP$ table_NN instead_RB of_IN a_DT plastic_JJ number_NN identifier_NN -_: check_NN ._.
+Pictures_NNS of_IN food_NN not_RB just_RB on_IN the_DT menus_NNS bit_NN literally_RB lining_VBG half_NN of_IN their_PRP$ entire_JJ restaurant_NN -_: check_NN ._.
+Always_RB a_DT cop_NN eating_VBG there_RB ._.
+Always_NNP -_: check_NN ._.
+So_RB much_JJ bread_NN is_VBZ offered_VBN before_RB ,_, during_IN ,_, and_CC after_IN your_PRP$ meal_NN -LRB-_-LRB- yes_UH bread_NN for_IN dessert_NN -_: not_RB bread_NN pudding_NN -_: bread_NN -RRB-_-RRB- that_IN you_PRP are_VBP guaranteed_VBN to_TO hate_VB yourself_PRP upon_IN leaving_VBG -_: check_NN ._.
+I_PRP wo_MD n't_RB go_VB out_IN of_IN my_PRP$ way_NN to_TO eat_VB here_RB ,_, but_CC having_VBG just_RB worked_VBN on_IN some_DT NO_UH ON_IN PROP_NNP 8_CD commercials_NNS that_WDT shot_VBD near_RB USC_NNP I_PRP have_VBP to_TO say_VB I_PRP was_VBD glad_JJ I_PRP suggested_VBD that_IN the_DT crew_NN eat_VB here_RB -_: it_PRP 's_VBZ incredibly_RB mediocre_JJ but_CC entirely_RB inoffensive_JJ and_CC cheap_JJ ._.
+This_DT is_VBZ where_WRB poor_JJ college_NN students_NNS come_VBP to_TO get_VB fat_JJ and_CC drunk_JJ and_CC god_NN bless_VBP them_PRP -_: check_NN ._.

@@ -1,0 +1,8 @@
+This_DT is_VBZ one_CD of_IN Telegraph_NNP Ave_NNP 's_POS gems_NNS ._.
+Clean_JJ ,_, comfortable_JJ ,_, friendly_JJ ,_, GOOD_NNP FOOD_NN and_CC friendly_JJ people_NNS !_.
+And_CC easy_JJ prices_NNS ._.
+I_PRP often_RB like_VBP to_TO go_VB for_IN just_RB a_DT coffee_NN ._.
+Or_CC coffee_NN AND_CC a_DT breakfast_NN ._.
+There_EX 's_VBZ a_DT nice_JJ little_JJ outdoor_JJ ``_`` patio_NN ''_'' section_NN ,_, and_CC my_PRP$ laptop_NN cord_NN reaches_VBZ nicely_RB through_IN their_PRP$ large_JJ sliding_VBG windows_NNS in_IN to_TO a_DT plug_NN ._.
+Those_DT windows_NNS are_VBP also_RB nice_JJ when_WRB open_JJ on_IN the_DT -LRB-_-LRB- rare_JJ this_DT year_NN -RRB-_-RRB- sunny_JJ ,_, hot_JJ days_NNS ._.
+Try_VB their_PRP$ custom_NN made_VBD tater_JJ chips_NNS ._.

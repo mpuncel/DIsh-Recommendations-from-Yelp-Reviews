@@ -1,0 +1,7 @@
+I_PRP found_VBD my_PRP$ meal_NN -LRB-_-LRB- Saturday_NNP brunch_NN -RRB-_-RRB- at_IN Tootsie_NNP 's_POS to_TO be_VB underwhelming_VBG ._.
+It_PRP was_VBD n't_RB bad_JJ ,_, but_CC I_PRP do_VBP n't_RB get_VB what_WP all_PDT the_DT hype_NN is_VBZ about_RB ._.
+-_: bomboloni_NN :_: 3_CD stars_NNS -_: the_DT ones_NNS at_IN the_DT Ferry_NNP Building_NNP cart_NN are_VBP much_RB better_JJR -_: zeppole_NN :_: 3.5_CD stars_NNS -_: decent_JJ ,_, but_CC they_PRP 're_VBP 75_CD cents_NNS a_DT pop_NN !_.
+-_: breakfast_NN panino_NN :_: 4_CD stars_NNS -_: great_JJ crusty_JJ bread_NN ,_, but_CC my_PRP$ pancetta_NN was_VBD 75_CD %_NN fat_NN ._.
+plus_CC ,_, the_DT side_NN of_IN potatoes_NNS was_VBD really_RB boring_JJ :_: not_RB much_JJ flavor_NN &_CC no_DT crunch_NN factor_NN either_CC ..._: but_CC then_RB the_DT mixed-in_JJ meat_NN chunks_NNS were_VBD super_JJ salty_NN ._.
+-_: burger_NN :_: 3.5_CD stars_NNS -_: not_RB bad_JJ ,_, but_CC nothing_NN to_TO write_VB home_NN about_IN ._.
+the_DT shoestring_NN potatoes_NNS were_VBD delicious_JJ though_IN -_: super_JJ crunchy_NN !_.

@@ -1,0 +1,3 @@
+I_PRP 've_VBP eaten_VBN here_RB a_DT few_JJ times_NNS ,_, none_NN too_RB recent_JJ ._.
+I_PRP 've_VBP always_RB had_VBN some_DT sort_NN of_IN pasta_NN ,_, and_CC it_PRP 's_VBZ always_RB good_JJ ._.
+Nice_JJ ambiance_NN ._.

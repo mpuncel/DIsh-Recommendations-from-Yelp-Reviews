@@ -1,0 +1,3 @@
+Had_VBD a_DT great_JJ dinner_NN here_RB ._.
+Delicious_NNP gnocchi_NNS with_IN saffron_NN cream_NN sauce_NN !_.
+Enjoyed_VBN all_PDT the_DT pasta_NN dishes_NNS and_CC great_JJ service_NN '_''

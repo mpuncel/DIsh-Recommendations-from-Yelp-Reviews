@@ -1,0 +1,12 @@
+Calzones_NNS ?_.
+Pasta_NN ?_.
+Pizzza_NNP ?_.
+Cheap_JJ prices_NNS ?_.
+A_DT block_NN away_RB from_IN campus_NN ?_.
+Grrrrrrrrrrrahhh_NNP !!_NNP This_DT place_NN has_VBZ been_VBN an_DT all-time_JJ favorite_NN for_IN years_NNS ._.
+The_DT Gypsy_NNP 's_POS chicken_NN is_VBZ superb_JJ ,_, and_CC the_DT calzones_NNS -_: especially_RB the_DT ham_NN and_CC the_DT sausage_NN -_: are_VBP filling_VBG and_CC well_RB done_VBN ._.
+Service_NNP is_VBZ quick_JJ ._.
+Staff_NNP is_VBZ not_RB the_DT friendliest_JJS ,_, but_CC the_DT important_JJ thing_NN is_VBZ they_PRP get_VB your_PRP$ orders_NNS right_RB and_CC move_VB the_DT food_NN along_IN ._.
+Can_MD be_VB hard_JJ to_TO find_VB a_DT table_NN during_IN peak_NN hours_NNS with_IN all_DT of_IN the_DT Cal_JJ students_NNS ,_, but_CC there_EX is_VBZ always_RB outside_JJ tables_NNS or_CC can_MD just_RB take_VB it_PRP to_TO go_VB and_CC walk_VB yourself_PRP back_RB to_TO campus_NN in_IN less_JJR than_IN 2_CD min_NN ._.
+Is_VBZ a_DT great_JJ break_NN from_IN studying_VBG ,_, and_CC nice_JJ to_TO visit_VB during_IN the_DT weekend_NN before_IN football_NN games_NNS ._.
+Overall_JJ :_: One_CD of_IN the_DT best_JJS deals_NNS near_IN UC_NNP Berkeley_NNP campus_NN and_CC delicious_JJ Italian_JJ food_NN that_WDT keeps_VBZ you_PRP coming_VBG back_RB again_RB and_CC again_RB ._.

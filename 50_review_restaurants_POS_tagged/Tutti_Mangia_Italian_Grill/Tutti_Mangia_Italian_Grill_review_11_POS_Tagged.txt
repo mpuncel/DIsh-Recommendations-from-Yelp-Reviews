@@ -1,0 +1,5 @@
+Jan._NNP 2008_CD :_: -LRB-_-LRB- 2.5_CD stars_NNS -RRB-_-RRB- Nice_VBP place_NN ..._: Too_NNP crowded_VBD ..._: Service_NNP was_VBD aweful_JJ -LRB-_-LRB- the_DT service-staff_NN was_VBD nice_JJ enough_RB ,_, it_PRP just_RB took_VBD too_RB long_JJ -RRB-_-RRB- -_: took_VBD well_RB over_IN 10_CD minutes_NNS just_RB to_TO get_VB our_PRP$ drinks_NNS after_IN we_PRP had_VBD ordered_VBN ._.
+They_PRP were_VBD out_IN of_IN many_JJ good_JJ -LRB-_-LRB- typical_JJ -RRB-_-RRB- single-malt_JJ scotches_NNS ._.
+The_DT food_NN took_VBD forever_RB to_TO arrive_VB ..._: almost_RB an_DT hour_NN ._.
+To_TO be_VB honest_JJ ,_, I_PRP can_MD not_RB even_RB recall_VB whether_IN it_PRP was_VBD all_DT that_DT good_JJ ..._: so_IN I_PRP suppose_VBP it_PRP was_VBD pretty_RB forgetful_JJ ._.
+Perhaps_RB a_DT bit_NN far_RB to_TO go_VB for_IN italian_JJ food_NN ._.

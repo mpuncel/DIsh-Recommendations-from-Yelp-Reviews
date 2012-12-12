@@ -1,0 +1,6 @@
+Best_JJS pizza_NN in_IN the_DT area_NN ._.
+And_CC by_IN ``_`` area_NN ''_'' I_PRP mean_VBP ``_`` world_NN ._. ''_''
+Super_NNP delicious_JJ pizza_NN ._.
+Thin_JJ crust_NN ,_, not_RB super_JJ greasy_NN ,_, not_RB super_JJ doughy_NN ._.
+Perfect_NNP Pizza_NNP ._.
+Plus_CC ,_, heckof_VBP a_DT nice_JJ owner_NN !_.

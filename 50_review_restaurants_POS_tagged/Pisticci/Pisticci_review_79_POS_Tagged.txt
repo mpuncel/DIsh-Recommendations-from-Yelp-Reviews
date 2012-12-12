@@ -1,0 +1,5 @@
+Food_NNP -_: good_JJ Device_NN -_: good_JJ Ambiance_NNP -_: great_JJ -_: I_PRP would_MD hire_VB the_DT person_NN who_WP decor_NN this_DT place_NN good_JJ taste_NN ._.
+Tilapia_NNP with_IN broccoli_JJ rabe_NN -_: Not_RB impressed_JJ with_IN it_PRP ,_, kind_NN of_IN blend_VB ,_, the_DT broccoli_NNS was_VBD good_JJ ._.
+Fettuccine_NNP with_IN baccon_NN pancetta_NN -_: Was_VBD nice_JJ with_IN a_DT good_JJ punch_NN ._.
+Flying_NNP Dog_NNP Beer_NNP -_: Good_JJ dark_JJ and_CC strong_JJ ,_, i_FW will_MD have_VB to_TO find_VB a_DT strong_JJ tasting_NN meal_NN to_TO complement_VB that_DT ._.
+I_PRP will_MD go_VB back_RB and_CC try_VB more_JJR because_IN it_PRP looks_VBZ promising_JJ ._.

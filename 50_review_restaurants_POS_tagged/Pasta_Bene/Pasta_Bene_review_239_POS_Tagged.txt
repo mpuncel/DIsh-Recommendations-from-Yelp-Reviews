@@ -1,0 +1,9 @@
+5_CD Bucks_NNPS !_.
+WOW_NNP ..._: lunch_NN special_NN of_IN top_JJ pasta_NN dishes_NNS freshly_RB cooked_VBD ._.
+The_DT dishes_NNS were_VBD delicious_JJ ._.
+Pasta_NN are_VBP well_RB done_VBN with_IN excellent_JJ flavor_NN ._.
+Lots_NNS of_IN vegetarian_JJ options_NNS and_CC great_JJ for_IN large_JJ party_NN ._.
+This_DT is_VBZ a_DT gem_NN of_IN casual_JJ Italian_JJ restaurant_NN in_IN Berkeley_NNP ._.
+Great_JJ pricing_NN and_CC excellent_JJ Italian_JJ food_NN ,_, including_VBG a_DT good_JJ selection_NN of_IN Pizza_NNP ._.
+Stop_NN by_IN if_IN you_PRP would_MD like_VB a_DT great_JJ meal_NN lunch_NN or_CC dinner_NN ._.
+I_PRP think_VBP you_PRP will_MD agree_VB ..._: this_DT place_NN is_VBZ a_DT great_JJ catch_NN for_IN food_NN at_IN a_DT decent_JJ price_NN ._.

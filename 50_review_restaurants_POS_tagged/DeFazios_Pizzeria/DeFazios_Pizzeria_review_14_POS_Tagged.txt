@@ -1,0 +1,5 @@
+4.5_CD stars_NNS ._.
+I_PRP had_VBD the_DT BBQ_NNP Chicken_NNP Pie_NNP and_CC the_DT Sausage_NNP ,_, Peppers_NNP and_CC Onions_NNP ._.
+It_PRP 's_VBZ OBVIOUS_NNP the_DT ingredients_NNS are_VBP of_IN great_JJ quality_NN ._.
+Both_DT pies_NNS were_VBD delicious_JJ but_CC would_MD 've_VB been_VBN 5_CD stars_NNS if_IN the_DT crust_NN was_VBD more_RBR crispy_JJ ._.
+Crust_NN was_VBD nice_JJ and_CC thin_JJ though_RB ._.

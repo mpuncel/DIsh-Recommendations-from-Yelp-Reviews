@@ -1,0 +1,5 @@
+Hole_NNP in_IN the_DT wall_NN Italian_JJ place_NN ,_, it_PRP 's_VBZ no_DT Pasta_NNP Pomodoro_NNP or_CC Caffe_NNP Del_NNP Stelle_NNP but_CC it_PRP gets_VBZ the_DT job_NN done_VBN ._.
+I_PRP ordered_VBD the_DT Chicken_NNP Parmigano_NNP ,_, and_CC it_PRP was_VBD pretty_RB good_JJ for_IN what_WP it_PRP is_VBZ ,_, if_IN not_RB cooked_VBN in_IN butter_NN and_CC with_IN a_DT ton_NN of_IN cheese_NN baked_JJ on_IN it_PRP ._.
+But_CC for_IN $_$ 8_CD with_IN a_DT side_NN salad_NN and_CC a_DT soda_NN ,_, it_PRP 's_VBZ not_RB a_DT bad_JJ deal_NN ._.
+Strangely_RB enough_RB ,_, it_PRP 's_VBZ in_IN a_DT food_NN court_NN by_IN Cal_NNP that_WDT is_VBZ mostly_RB Asian_JJ dominated_VBN ._.
+It_PRP 's_VBZ a_DT nice_JJ contrast_NN ._.

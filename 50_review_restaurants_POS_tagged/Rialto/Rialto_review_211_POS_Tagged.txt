@@ -1,0 +1,4 @@
+Really_RB outstanding_JJ date_NN night_NN the_DT other_JJ day_NN ._.
+Delicious_NNP Duck_NN and_CC Risotto_NNP to_TO die_VB for_IN ._.
+The_DT wine_NN was_VBD fantastic_JJ and_CC the_DT service_NN was_VBD great_JJ ._.
+I_PRP 'll_MD definatley_RB be_VB back_RB !_.

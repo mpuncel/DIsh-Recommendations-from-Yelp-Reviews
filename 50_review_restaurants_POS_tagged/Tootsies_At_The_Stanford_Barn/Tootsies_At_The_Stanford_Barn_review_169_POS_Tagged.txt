@@ -1,0 +1,4 @@
+My_PRP$ most_RBS favorite_JJ starting_VBG in_IN order_NN -_: Toostie_NNP 's_POS burger_NN ,_, pollone_NN and_CC tuna_NN panino_NN ._.
+The_DT burger_NN is_VBZ juicy_NN and_CC the_DT pollone_NN is_VBZ nice_JJ and_CC crispy_JJ ._.
+The_DT food_NN is_VBZ fresh_JJ and_CC made_VBN to_TO order_NN ,_, so_IN it_PRP can_MD take_VB a_DT while_NN ._.
+It_PRP can_MD get_VB busy_JJ during_IN lunch_NN hour_NN on_IN warm_JJ sunny_JJ days_NNS ._.

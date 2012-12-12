@@ -1,0 +1,5 @@
+it_PRP was_VBD good_JJ ._.
+food_NN was_VBD tasty_JJ in_IN the_DT moment_NN but_CC forgettable_JJ a_DT week_NN later_RB ._.
+it_PRP does_VBZ its_PRP$ job_NN ._.
+the_DT challenge_NN is_VBZ its_PRP$ location_NN ..._: not_RB the_DT ``_`` best_JJS ''_'' neighborhood_NN for_IN a_DT lone_JJ lady_NN to_TO be_VB traipsing_VBG around_IN ..._: but_CC the_DT interior_NN is_VBZ clean_JJ and_CC modern_JJ ._.
+when_WRB we_PRP went_VBD late_RB last_JJ year_NN on_IN a_DT cold_JJ winter_NN 's_POS night_NN the_DT place_NN was_VBD BUSTLING_VBG on_IN a_DT Thursday_NNP night_NN for_IN happy_JJ hour_NN ._.

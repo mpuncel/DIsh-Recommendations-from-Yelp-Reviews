@@ -1,0 +1,3 @@
+This_DT place_NN gets_VBZ good_JJ reviews_NNS because_IN it_PRP 's_VBZ mostly_RB college_NN students_NNS that_WDT patronize_VBP it_PRP ._.
+Those_DT in_IN the_DT know_VBP ,_, who_WP have_VBP experienced_VBN many_JJ different_JJ Italian_JJ restaurants_NNS will_MD think_VB it_PRP 's_VBZ just_RB OK_JJ ._.
+The_DT price_NN is_VBZ really_RB cheap_JJ and_CC it_PRP 's_VBZ definitely_RB a_DT good_JJ value_NN but_CC go_VB elsewhere_RB if_IN you_PRP only_RB care_VBP about_IN taste_NN ._.

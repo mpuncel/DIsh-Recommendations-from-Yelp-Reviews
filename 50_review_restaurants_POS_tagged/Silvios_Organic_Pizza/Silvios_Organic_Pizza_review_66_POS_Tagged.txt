@@ -1,0 +1,4 @@
+Silvio_NNP 's_POS is_VBZ my_PRP$ favorite_JJ pizza_NN in_IN Ann_NNP Arbor_NNP :_: good_JJ toppings_NNS -LRB-_-LRB- in_IN appropriate_JJ quantities_NNS -RRB-_-RRB- and_CC great_JJ crusts_NNS ._.
+The_DT crusts_NNS are_VBP what_WP make_VBP the_DT pizza_NN ,_, the_DT the_DT amount_NN of_IN toppings_NNS used_VBN do_VBP n't_RB overpower_VB the_DT crust_NN or_CC leave_VB you_PRP covered_VBN in_IN grease_NN ._.
+Silvio_NNP 's_POS also_RB offers_VBZ pastas_NNS and_CC calzones_NNS ,_, but_CC I_PRP have_VBP yet_RB to_TO be_VB persuaded_VBN to_TO try_VB them_PRP --_: I_PRP am_VBP plenty_JJ happy_JJ with_IN the_DT pizza_NN ._.
+I_PRP have_VBP had_VBD some_DT of_IN their_PRP$ baked_JJ goods_NNS ,_, and_CC find_VB them_PRP to_TO be_VB quite_RB good_JJ ._.

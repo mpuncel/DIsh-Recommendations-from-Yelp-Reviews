@@ -1,0 +1,17 @@
+At_IN a_DT fine_JJ dine_NN restaurant_NN ,_, ~_RB this_DT is_VBZ the_DT approximate_JJ pricing_NN I_PRP usually_RB come_VBP across_RP ._.
+Vintner_NNP 's_POS Table_NNP :_: $_$ 65_CD -_: $_$ 150_CD up_IN \/_CD per_IN person_NN Chef_NN 's_POS Table_NNP $_$ 85_CD ~_CD 150_CD up\/person_NN Omakase_NNP :_: $_$ 35_CD ~_CD 300_CD up_IN \/_CD person_NN Vintner_NNP 's_POS Table_NNP :_: 1_CD Appetizer_NNP 1_CD entrée_NN ,_, 1_CD dessert_NN Chef_NN 's_POS table_NN :_: 6_CD courses_NNS ~_VBP 12_CD courses_NNS Omakase_NNP :_: depends_VBZ ..._: but_CC usually_RB ~_VBP 6\/20_CD small_JJ dishes_NNS as_RB well_RB At_IN Bacaro_NN :_: $_$ 28_CD per_IN person_NN -LRB-_-LRB- Including_VBG drink\/tax\/tip_NN -RRB-_-RRB- $_$ 19_CD \/_NN 3_CD tapas_NNS -LRB-_-LRB- pretty_RB big_JJ portion_NN for_IN tapas_NNS -RRB-_-RRB- $_$ 5_CD \/_CD dessert_NN We_PRP all_DT hate_VBP reading_VBG the_DT menu_NN ..._: So_IN we_PRP asked_VBD the_DT awesome_JJ waiter_NN to_TO bring_VB us_PRP ANY_NNP tapas_NNS ,_, that_IN he_PRP thinks_VBZ we_PRP 'd_MD like_VB ..._: -LRB-_-LRB- Omakase_NNP style_NN ,_, but_CC choice_NN by_IN the_DT waiter_NN instead_RB of_IN the_DT chef_NN -RRB-_-RRB- ._.
+Group_NNP of_IN 5_CD hungry_JJ \/_NN epicurean_NN \/_NN spoiled_VBD food_NN bloggers_NNS ._.
+All_DT got_VBD a_DT round_NN of_IN fabulous_JJ awesome_JJ choice_NN of_IN wine_NN \/_CD beer_NN ,_, Shared_VBN 10_CD plates_NNS of_IN tapas_NNS -LRB-_-LRB- pizzas_NNS ,_, etc_FW -RRB-_-RRB- +_SYM Desserts_NNPS ._.
+..._: 1_LS ._.
+Ambiance_NNP is_VBZ fun_NN \/_NN cozy_JJ \/_NN interesting_JJ ._.
+2_LS ._.
+Food_NNP quality_NN \/_NN creativity_NN is_VBZ amazing_JJ ,_, 3_CD ._.
+Portion_NN is_VBZ just_RB right_RB for_IN hungry_JJ kids_NNS in_IN their_PRP$ 20s_NNS ._.
+4_LS ._.
+Service_NNP is_VBZ up_RB to_TO par_NN ,_, 5_CD ._.
+Parking_NN is_VBZ GREAT_JJ -LRB-_-LRB- even_RB though_IN it_PRP 's_VBZ in_IN the_DT HOOD_NNP ,_, PLENTY_NNP of_IN street_NN parking_NN available_JJ -RRB-_-RRB- 6_CD ._.
+And_CC the_DT highlight_NN ..._: the_DT Price_NN ..._: is_VBZ just_RB unbelievable_JJ ._.
+We_PRP all_DT walked_VBD out_RP happy_JJ \/_NN Full_NNP \/_NNP buzzed_VBD \/_CD and_CC a_DT satisfied_JJ vegetarian_NN from_IN the_DT group_NN ._.
+P._NNP S_NNP :_: Special_JJ Props_NNS to_TO Brother_NNP Simonster_NNP for_IN recommending_VBG this_DT venue_NN ._.
+Mr._NNP Simonstelier_NNP !_.
+I_PRP officially_RB Nominate_VB you_PRP as_IN the_DT guru_NN of_IN all_PDT the_DT awesome_JJ wine_NN bars_NNS in_IN LA._NNP ._.

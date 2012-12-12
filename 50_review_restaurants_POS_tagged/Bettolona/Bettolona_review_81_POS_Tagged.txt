@@ -1,0 +1,4 @@
+I_PRP base_VBP this_DT score_NN solely_RB on_IN the_DT quality_NN of_IN the_DT pizza_NN ,_, which_WDT is_VBZ amazing_JJ ._.
+It_PRP is_VBZ very_RB true_JJ to_TO the_DT pizza_NN I_PRP ate_VBD around_IN Italy_NNP ,_, something_NN which_WDT is_VBZ surprisingly_RB hard_JJ to_TO find_VB in_IN the_DT States_NNPS ._.
+The_DT Fumicata_NNP -LRB-_-LRB- smoked_VBN mozzarella_NN ,_, cherry_NN tomatoes_NNS ,_, and_CC sausage_NN -RRB-_-RRB- just_RB might_MD be_VB one_CD of_IN the_DT best_JJS pizzas_NNS I_PRP 've_VBP ever_RB had_VBN ._.
+Period_NN ._.

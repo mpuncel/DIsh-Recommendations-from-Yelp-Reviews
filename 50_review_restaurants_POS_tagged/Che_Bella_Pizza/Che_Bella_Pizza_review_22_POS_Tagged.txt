@@ -1,0 +1,2 @@
+This_DT pizza_NN place_NN is_VBZ close_JJ to_TO the_DT Columbia_NNP campus_NN ,_, is_VBZ that_IN reason_NN enough_RB to_TO increase_VB the_DT prices_NNS every_DT couple_NN months_NNS ?_.
+I_PRP think_VBP not_RB !!_VB ~_CD BBQ_NNP chicken_NN pizza_NN is_VBZ great_JJ ,_, but_CC i_FW 'm_VBP not_RB sure_JJ if_IN it_PRP is_VBZ worth_IN the_DT 4.25_CD !_.

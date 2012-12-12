@@ -1,0 +1,13 @@
+Aruffo_NNP 's_POS Italian_JJ Cuisine_NNP ,_, located_VBN in_IN the_DT charming_JJ city_NN of_IN Claremont_NNP ,_, is_VBZ the_DT place_NN to_TO go_VB for_IN an_DT exceptional_JJ dining_NN experience_NN ._.
+Valerie_NNP &_CC Tom_NNP Aruffo_NNP opened_VBD this_DT gem_NN in_IN 1985_CD ,_, and_CC have_VBP crafted_VBN Aruffo_NNP 's_POS into_IN a_DT sophisticated_JJ ,_, successful_JJ restaurant_NN known_VBN for_IN an_DT extensive_JJ menu_NN of_IN stellar_JJ dishes_NNS ,_, including_VBG homemade_NN Italian_JJ pastas_NNS ,_, Angus_NNP steaks_NNS ,_, fresh_JJ seafood_NN ,_, free-range_JJ poultry_NN ,_, and_CC an_DT array_NN of_IN heavenly_RB desserts_VBZ ._.
+The_DT impressive_JJ drink_NN menu_NN features_VBZ an_DT extensive_JJ wine_NN list_NN ,_, champagne_NN &_CC sparkling_JJ wine_NN ,_, cappuccino_NN &_CC espresso_NN ,_, cappuccino_NN liqueurs_NNS ,_, and_CC various_JJ before_IN and_CC after_IN drinks_NNS ._.
+The_DT choices_NNS are_VBP practically_RB endless_JJ ._.
+One_CD of_IN many_JJ outstanding_JJ dishes_NNS is_VBZ the_DT Spinach_NNP Aglio_NNP E_NNP Olio_NNP ._.
+The_DT various_JJ flavors_NNS fuse_NN together_RB to_TO create_VB a_DT quite_RB heavenly_RB experience_NN ._.
+Spaghetti_NNP pasta_NN is_VBZ tossed_VBN with_IN fresh_JJ garlic_NN and_CC then_RB sautéed_VBD golden_JJ brown_JJ with_IN extra_JJ virgin_JJ olive_JJ oil_NN ,_, tomatoes_NNS ,_, and_CC a_DT generous_JJ helping_VBG of_IN fresh_JJ spinach_NN ._.
+The_DT complementary_JJ flavors_NNS of_IN these_DT wonderful_JJ ingredients_NNS come_VBP together_RB to_TO create_VB a_DT simple_JJ ,_, yet_RB refined_VBN dish_NN ._.
+You_PRP will_MD be_VB grateful_JJ that_IN the_DT portion_NN sizes_NNS at_IN Aruffo_NNP 's_POS are_VBP so_RB generous_JJ ,_, since_IN you_PRP wo_MD n't_RB be_VB able_JJ to_TO get_VB enough_RB of_IN this_DT marvelous_JJ dish_NN after_IN the_DT first_JJ bite_NN ._.
+The_DT desserts_NNS are_VBP prepared_JJ fresh_JJ daily_JJ and_CC are_VBP fabulous_JJ ._.
+The_DT Chocolate_NNP Ganache_NNP is_VBZ incredibly_RB rich_JJ and_CC decadent_JJ ._.
+Your_PRP$ taste_NN buds_NNS will_MD not_RB be_VB the_DT same_JJ after_IN they_PRP are_VBP bathed_VBN in_IN the_DT velvety_NN texture_NN and_CC flavors_NNS of_IN this_DT fine_JJ dessert_NN ._.
+Treat_VB yourself_PRP and_CC check_VB out_RP Aruffo_NNP 's_POS !_.

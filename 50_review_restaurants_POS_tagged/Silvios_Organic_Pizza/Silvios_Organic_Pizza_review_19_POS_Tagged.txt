@@ -1,0 +1,4 @@
+Outstanding_JJ authentic_JJ Italian_JJ pizza_NN --_: crusty_JJ but_CC not_RB too_RB much_JJ dough_NN ,_, fresh_JJ simple_JJ ingredients_NNS in_IN perfect_JJ combination_NN ,_, and_CC desserts_VBZ to_TO die_VB for_IN ._.
+Vegetarian_NNP ,_, vegan_NN ,_, meat_NN lovers_NNS ..._: truffle_JJ oil_NN ..._: Whatever_WDT your_PRP$ heart_NN desires_NNS ._.
+Silvio_NNP is_VBZ a_DT great_JJ guy_NN too_RB ,_, and_CC this_DT is_VBZ a_DT small_JJ ,_, family-run_JJ operation_NN ._.
+Try_VB the_DT vegan_JJ whole-wheat_NN cookies_NNS !!_VBP

@@ -1,0 +1,8 @@
+Chain_NNP restaurant_NN ,_, needed_VBD a_DT quick_JJ place_NN to_TO eat_VB and_CC get_VB out_IN of_IN the_DT rainy_NN weather_NN ._.
+A_DT cute_JJ coffeeshop_NN cafe_NN was_VBD nearby_RB ,_, I_PRP should_MD go_VB there_RB next_JJ time_NN I_PRP 'm_VBP in_IN the_DT area_NN ._.
+Our_PRP$ waitress_NN was_VBD prompt_JJ and_CC took_VBD our_PRP$ order_NN quickly_RB ._.
+My_PRP$ friend_NN and_CC I_PRP were_VBD n't_RB hungry_JJ ,_, but_CC we_PRP knew_VBD we_PRP should_MD eat_VB so_IN we_PRP split_VBD a_DT lunch_NN option_NN ._.
+The_DT waitress_NN brought_VBD out_RP complimentary_JJ hot_JJ rolls_NNS with_IN a_DT plate_NN of_IN olive_JJ oil_NN ,_, then_RB the_DT free_JJ iceberg_NN lettuce_NN salad_NN that_WDT came_VBD with_IN the_DT lunch_NN option_NN ._.
+Our_PRP$ main_JJ course_NN ,_, cheese_NN ravioli_NNS arrived_VBN shortly_RB thereafter_RB ._.
+That_DT ravioli_NN was_VBD just_RB $_$ 8_CD ,_, but_CC they_PRP charged_VBD $_$ 2_CD for_IN ice_NN tea_NN !_.
+TWO_CD DOLLARS_NNPS ?!?_VBP I_PRP have_VBP got_VBN to_TO get_VB used_VBN to_TO the_DT higher_JJR cost_NN of_IN living_VBG here_RB ._.

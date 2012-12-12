@@ -1,0 +1,3 @@
+Great_NNP little_JJ place_NN for_IN take_VB out_RP ._.
+I_PRP had_VBD the_DT chicken_NN parmesan_NN and_CC I_PRP tried_VBD some_DT of_IN their_PRP$ penne_NN as_RB well_RB ._.
+Everything_NN was_VBD really_RB tasty_JJ and_CC if_IN you_PRP just_RB want_VBP to_TO take_VB out_RP some_DT simple_JJ italian_JJ food_NN ,_, this_DT is_VBZ the_DT place_NN ._.

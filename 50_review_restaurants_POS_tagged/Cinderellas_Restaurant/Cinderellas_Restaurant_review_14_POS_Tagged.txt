@@ -1,0 +1,1 @@
+I_PRP think_VBP this_DT is_VBZ just_RB ok_VB for_IN Boston_NNP standard_NN -LRB-_-LRB- below_IN national_JJ standard_NN -RRB-_-RRB- ._.

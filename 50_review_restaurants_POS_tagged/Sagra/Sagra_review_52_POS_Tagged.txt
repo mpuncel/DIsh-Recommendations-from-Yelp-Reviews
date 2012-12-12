@@ -1,0 +1,7 @@
+Gabe_NNP ,_, our_PRP$ waiter_NN ,_, was_VBD so_RB chill_NN ,_, attentive_JJ and_CC helpful_JJ ._.
+Very_RB helpful_JJ in_IN fact_NN ._.
+Tuesday_NNP evening_NN was_VBD both_DT relaxing_VBG and_CC comfortable_JJ sitting_VBG outside_NN ._.
+Food_NNP was_VBD decent_JJ ,_, not_RB A-mazing_JJ ,_, but_CC good_JJ ._.
+We_PRP especially_RB enjoyed_VBD the_DT entirely_RB Italian_JJ wine_NN list_NN and_CC chose_VBD a_DT bottle_NN of_IN vino_NN appropriately_RB ._.
+Also_RB ,_, I_PRP am_VBP surprised_VBN at_IN all_PDT the_DT emails_NNS for_IN special_JJ offers_NNS they_PRP send_VBP ._.
+Too_RB bad_JJ we_PRP do_VBP n't_RB take_VB advantage_NN of_IN them_PRP ._.

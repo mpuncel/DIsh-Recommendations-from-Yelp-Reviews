@@ -1,0 +1,16 @@
+Have_NNP eaten_VBN here_RB 3_CD times_NNS in_IN 2_CD years_NNS ,_, most_RBS recently_RB several_JJ nights_NNS ago_RB ._.
+Would_MD say_VB that_IN 60_CD %_NN of_IN what_WP they_PRP serve_VBP is_VBZ very_RB good_JJ ,_, 40_CD %_NN is_VBZ ordinary_JJ ._.
+My_PRP$ most_RBS recent_JJ meal_NN there_EX is_VBZ a_DT microcosm_NN of_IN my_PRP$ good_JJ and_CC not-so-good_JJ experiences_NNS there_RB ._.
+Had_VBD a_DT veal_NN chop_VB special_JJ ,_, properly_RB cooked_VBN to_TO medium_JJ rare_JJ ._.
+Wonderful_JJ flavor_NN and_CC well_RB prepared_JJ ._.
+Good_JJ quality_NN meat_NN ._.
+Sides_NNS were_VBD spinach_JJ and_CC butternut_JJ squash_NN --_: very_RB ordinary_JJ and_CC not_RB very_RB flavorful_JJ ._.
+This_DT was_VBD a_DT $_$ 40_CD entree_FW --_: seemed_VBD about_IN $_$ 10-15_CD overpriced_VBN for_IN what_WP you_PRP actually_RB got_VBD ._.
+Also_RB shared_VBN ravioli_NNS de_IN funghi_NNS --_: ricotta\/herb-stuffed_JJ ravioli_NNS served_VBD with_IN a_DT variety_NN of_IN quality_NN mushrooms_NNS ,_, ruined_VBN by_IN a_DT sickeningly_RB sweet_JJ brown_JJ sauce_NN -LRB-_-LRB- a_DT poor_JJ red_JJ wine_NN reduction_NN ,_, perhaps_RB ?_. -RRB-_-RRB- ._.
+Actually_RB might_MD have_VB been_VBN delicious_JJ with_IN just_RB a_DT little_JJ olive_JJ oil_NN instead_RB of_IN the_DT sauce_NN ._.
+Had_VBD panna_NN cotta_NN for_IN dessert_NN --_: excellent_JJ as_IN always_RB ._.
+-LRB-_-LRB- It_PRP 's_VBZ the_DT same_JJ as_IN they_PRP serve_VBP at_IN Trevisio_NNP in_IN the_DT medical_JJ center_NN ,_, which_WDT is_VBZ run_VBN by_IN the_DT same_JJ chef_NN ._. -RRB-_-RRB-
+Decor_NN is_VBZ just_RB a_DT hair_NN on_IN the_DT dated_JJ side_NN for_IN a_DT restaurant_NN of_IN this_DT quality_NN --_: maybe_RB it_PRP 's_VBZ the_DT neon_NN sign_NN in_IN the_DT window_NN that_WDT ruins_NNS the_DT effect_NN ?_.
+Service_NNP this_DT last_JJ time_NN was_VBD adequate_JJ but_CC alternated_VBN between_IN too_RB fast_JJ -LRB-_-LRB- to_TO try_VB to_TO take_VB our_PRP$ order_NN the_DT first_JJ time_NN -RRB-_-RRB- and_CC too_RB slow_JJ -LRB-_-LRB- to_TO take_VB our_PRP$ order_NN the_DT next_JJ time_NN -RRB-_-RRB- ._.
+In_IN sum_NN ..._: pretty_RB good_JJ but_CC not_RB consistently_RB outstanding_JJ ._.
+Would_MD recommend_VB Tracy_NNP Vaught_NNP 's_POS other_JJ restaurants_NNS -LRB-_-LRB- Backstreet_NNP Cafe_NNP ,_, Hugo_NNP 's_POS -RRB-_-RRB- over_IN this_DT one_CD ._.

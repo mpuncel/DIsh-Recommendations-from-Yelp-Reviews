@@ -1,0 +1,3 @@
+Friendly_RB staff_NN ,_, Good_JJ Food_NNP ,_, Try_VB the_DT Calamari_NNP ,_, it_PRP 's_VBZ tender_NN and_CC lightly_RB breaded_VBN ._.
+Not_RB a_DT large_JJ beer_NN selection_NN but_CC you_PRP can_MD probably_RB find_VB something_NN you_PRP like_VBP in_IN a_DT pinch_NN ._.
+Like_IN the_DT Peroni_NNP ,_, or_CC Abita_NNP Jackamo_NNP ._.

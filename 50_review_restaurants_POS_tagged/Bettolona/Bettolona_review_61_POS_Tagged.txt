@@ -1,0 +1,3 @@
+I_PRP just_RB had_VBD pizza_NN ,_, but_CC it_PRP was_VBD very_RB good_JJ ._.
+Thin_JJ crust_NN ,_, classic_JJ brick_NN oven_CD taste_NN ,_, fairly_RB good_JJ mozzarella_NN ._.
+It_PRP could_MD get_VB another_DT star_NN with_IN better_JJR mozzarella_NN

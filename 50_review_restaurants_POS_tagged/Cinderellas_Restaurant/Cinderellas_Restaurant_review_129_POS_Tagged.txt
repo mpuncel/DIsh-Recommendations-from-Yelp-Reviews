@@ -1,0 +1,7 @@
+In_IN order_NN to_TO cast_VB the_DT Banish_JJ Hunger_NN spell_NN you_PRP must_MD perform_VB these_DT three_CD seemingly_RB impossible_JJ tasks_NNS ._.
+1_LS -RRB-_-RRB- Obtain_VB and_CC have_VB in_IN your_PRP$ possession_NN at_IN least_JJS 1000_CD pennies_NNS ,_, 100_CD dimes_NNS ,_, 10_CD one_CD dollar_NN bills_NNS or_CC 1\/2_CD of_IN a_DT twenty_CD dollar_NN bill_NN ._.
+You_PRP must_MD procure_VB these_DT in_IN a_DT good-lawful_JJ ,_, or_CC evil-chaotic_JJ fashion_NN ._.
+2_LS -RRB-_-RRB- Recite_VB the_DT words_NNS Italian_JJ Sub_NNP ,_, Lamb_NNP Calzone_NNP ,_, and_CC Gyro_NNP within_IN earshot_NN of_IN a_DT Cinderellan_NNP ._.
+3_LS -RRB-_-RRB- Perform_VB a_DT proficiency_NN check_NN with_IN a_DT d20_NN ._.
+You_PRP must_MD roll_VB above_IN a_DT 2_CD ._.
+If_IN these_DT three_CD things_NNS are_VBP completed_VBN you_PRP will_MD have_VB successfully_RB banished_VBN the_DT Demon_NN of_IN Hunger_NNP ._.

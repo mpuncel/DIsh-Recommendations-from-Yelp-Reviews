@@ -1,0 +1,8 @@
+Nice_NNP ,_, cozy_JJ place_NN for_IN good_JJ Italian_JJ food_NN ._.
+Went_VBD there_EX with_IN my_PRP$ partner_NN and_CC a_DT friend_NN on_IN a_DT Friday_NNP evening_NN ._.
+The_DT place_NN was_VBD packed_VBN ,_, but_CC we_PRP only_RB had_VBD to_TO wait_VB about_IN 10_CD minutes_NNS to_TO be_VB seated_VBN ._.
+Service_NNP was_VBD good_JJ ._.
+I_PRP ordered_VBD the_DT Chicken_NNP Braciolentini_NNP ,_, and_CC it_PRP was_VBD SO_RB good_JJ ._.
+My_PRP$ partner_NN had_VBD the_DT Fetuccine_NNP Alfredo_NNP with_IN chicken_NN ,_, and_CC he_PRP said_VBD it_PRP was_VBD dried-out_JJ ,_, as_IN if_IN it_PRP had_VBD sat_VBN out_IN for_IN awhile_RB -LRB-_-LRB- maybe_RB waiting_VBG for_IN my_PRP$ Chicken_NNP Braciolentini_NNP to_TO finish_VB ?_. -RRB-_-RRB- ._.
+Our_PRP$ friend_NN had_VBD the_DT Chicken_NNP Armando_NNP ,_, and_CC I_PRP do_VBP n't_RB think_VB she_PRP was_VBD very_RB impressed_JJ with_IN it_PRP ,_, but_CC it_PRP looked_VBD tasty_JJ to_TO me_PRP ,_, although_IN maybe_RB a_DT little_JJ dry_JJ ._.
+Altogether_RB a_DT good_JJ place_NN to_TO try_VB if_IN you_PRP 're_VBP in_IN the_DT mood_NN for_IN Italian_JJ ._.

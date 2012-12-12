@@ -1,0 +1,5 @@
+Jack_NNP had_VBD big_JJ number_NN 10_CD Bday_NNP here_RB and_CC cleaned_VBD house_NN on_IN carpacio_NN and_CC pasta_NN ._.
+Great_JJ food_NN and_CC family_NN atmosphere_NN ._.
+A_DT few_JJ dishes_NNS from_IN their_PRP$ other_JJ L.A._NNP restaurants_NNS is_VBZ nice_JJ bonus_NN ._.
+Owner_NNP is_VBZ hands_NNS on_IN and_CC waiting_VBG tables_NNS while_IN managing_VBG the_DT kitchen_NN ._.
+A_DT must_MD when_WRB in_IN Pasadena_NNP ._.

@@ -1,0 +1,3 @@
+i_FW dont_FW dig_NN the_DT atmosphere_NN here_RB -_: it_PRP is_VBZ not_RB trendy_JJ -_: very_RB basic_JJ but_CC nice_JJ ._.
+however_RB ,_, their_PRP$ food_NN is_VBZ great_JJ ._.
+the_DT gnocchi_NN is_VBZ some_DT of_IN the_DT best_JJS i_FW have_VBP had_VBN

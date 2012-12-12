@@ -1,0 +1,6 @@
+Great_NNP Sunday_NNP hangout_NN spot_NN ._.
+Mediocre_JJ food_NN !_.
+The_DT salad_NN I_PRP had_VBD was_VBD okay_JJ for_IN 9.50_CD The_DT focaccia_NN came_VBD with_IN it_PRP was_VBD tasteless_JJ and_CC cakey_NN !_.
+Quite_RB terrible_JJ !_.
+Coffee_NNP was_VBD not_RB bad_JJ ._.
+-LRB-_-LRB- I_PRP am_VBP spoiled_VBN by_IN Philz_NNP ,_, BlueBottle_NNP and_CC CBTL_NNP -RRB-_-RRB-

@@ -1,0 +1,6 @@
+This_DT week_NN ,_, a_DT late_JJ night_NN Yogurtland_NNP run_VBP gone_VBN wrong_JJ ended_VBN up_RP in_IN D'Amores_NNP Pizza_NNP -LRB-_-LRB- mostly_RB because_IN I_PRP suddenly_RB decided_VBD I_PRP DID_VBD NOT_RB want_VB dessert_NN and_CC instead_RB wanted_VBD PIZZA_NNP and_CC D'Amores_NNP was_VBD right_JJ across_IN the_DT street_NN -RRB-_-RRB- ._.
+I_PRP 'm_VBP glad_JJ my_PRP$ yogurt_NN craving_NN turned_VBD into_IN a_DT pizza_NN craving_NN ,_, because_IN this_DT place_NN serves_VBZ up_RP some_DT very_RB tasty_JJ food_NN !_.
+A_DT slice_NN of_IN combo_NN pizza_NN put_VBD me_PRP back_RP about_IN $_$ 4_CD ,_, which_WDT is_VBZ a_DT leetle_NN more_RBR than_IN I_PRP would_MD like_VB to_TO pay_VB -LRB-_-LRB- especially_RB since_IN I_PRP was_VBD sober_JJ -RRB-_-RRB- ,_, but_CC the_DT slice_NN was_VBD huge_JJ ,_, fresh_JJ ,_, and_CC loaded_VBN with_IN delicious_JJ toppings_NNS ._.
+The_DT crust_NN was_VBD wonderfully_RB thin_JJ ,_, and_CC had_VBD a_DT nice_JJ crispy-floppy_JJ thing_NN going_VBG on_IN ._.
+The_DT shop_NN was_VBD manned_VBN by_IN a_DT solo_NN employee_NN who_WP was_VBD friendly_JJ and_CC efficient_JJ ._.
+The_DT place_NN seemed_VBD reasonably_RB clean_JJ and_CC spacious_JJ ,_, and_CC I_PRP will_MD definitely_RB be_VB back_RB here_RB again_RB ._.

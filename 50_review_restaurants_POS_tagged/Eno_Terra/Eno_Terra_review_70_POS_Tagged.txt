@@ -1,0 +1,6 @@
+I_PRP had_VBD a_DT wonderful_JJ waiter_NN ,_, real_JJ good_JJ food_NN -LRB-_-LRB- braised_VBN beef_NN with_IN polenta_NN -RRB-_-RRB- and_CC a_DT fantastic_JJ desert_NN -LRB-_-LRB- red_JJ velvet_NN cake_NN -RRB-_-RRB- !_.
+The_DT portions_NNS are_VBP what_WP I_PRP am_VBP used_VBN to_TO ._.
+Coming_VBG from_IN Europe_NNP I_PRP know_VBP I_PRP wo_MD n't_RB get_VB a_DT load_NN on_IN my_PRP$ plate_NN so_IN I_PRP can_MD bring_VB doggy_JJ bags_NNS home_NN ._.
+But_CC I_PRP get_VBP enough_RB to_TO not_RB leave_VB hungry_JJ and_CC I_PRP can_MD taste_VB the_DT quality_NN !_.
+The_DT restaurant_NN is_VBZ very_RB cozy_JJ and_CC stylish_JJ and_CC everybody_NN is_VBZ vey_JJ friendly_JJ and_CC well_RB mannered_JJ here_RB !_.
+Will_MD definitely_RB come_VB again_RB !_.

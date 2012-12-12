@@ -1,0 +1,7 @@
+If_IN you_PRP 're_VBP looking_VBG for_IN the_DT classic_JJ college_NN town_NN restaurant_NN -_: cheap_JJ eats_VBZ and_CC large_JJ ,_, filling_VBG portions_NNS -_: Gypsy_NNP 's_POS is_VBZ pretty_RB much_RB it_PRP for_IN the_DT Italian_JJ variety_NN of_IN food_NN ._.
+They_PRP have_VBP a_DT decent_JJ variety_NN of_IN pasta_NN dishes_NNS ,_, and_CC absolutely_RB humongous_JJ calzones_NNS ._.
+Most_JJS of_IN the_DT dishes_NNS are_VBP heavy_JJ on_IN the_DT sauce_NN -_: very_RB filling_VBG food_NN that_IN 'll_MD last_VB you_PRP for_IN a_DT good_JJ while_NN ._.
+The_DT dishes_NNS are_VBP mostly_RB well-cooked_JJ as_RB well_RB -_: even_RB if_IN the_DT flavor_NN is_VBZ somewhat_RB masked_VBN over_RP by_IN the_DT sauce_NN ,_, the_DT pasta_NN is_VBZ cooked_VBN right_RB and_CC the_DT meats_NNS are_VBP pretty_RB savory_JJ -LRB-_-LRB- sometimes_RB heavy_JJ on_IN the_DT oil_NN -RRB-_-RRB- ._.
+Definitely_RB not_RB overcooked_JJ or_CC rubbery_NN like_IN some_DT of_IN the_DT other_JJ Berkeley_NNP places_NNS that_WDT sell_VBP Italian_JJ food_NN ._.
+The_DT one_CD knock_VBP on_IN their_PRP$ food_NN -LRB-_-LRB- aside_RB from_IN not_RB being_VBG suited_VBN for_IN lighter_JJR eaters_NNS who_WP ca_MD n't_RB handle_VB lots_NNS of_IN sauce\/oil_NN -RRB-_-RRB- ,_, is_VBZ their_PRP$ ``_`` garlic_JJ bread_NN ''_'' ._.
+Just_RB a_DT plain_JJ piece_NN of_IN a_DT roll_NN ,_, but_CC with_IN this_DT scoop_NN of_IN gross_JJ garlic_JJ paste_NN slapped_VBD on_IN top_NN ._.

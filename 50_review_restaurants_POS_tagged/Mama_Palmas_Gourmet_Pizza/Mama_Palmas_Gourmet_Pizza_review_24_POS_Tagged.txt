@@ -1,0 +1,5 @@
+I_PRP ordered_VBD their_PRP$ pizza_NN about_IN 10_CD days_NNS ago_IN ..._: I_PRP am_VBP not_RB particularly_RB picky_JJ when_WRB it_PRP comes_VBZ to_TO pizza_NN because_IN I_PRP will_MD eat_VB pizza_NN from_IN steak_NN and_CC sub_NN shops_NNS if_IN I_PRP 'm_VBP hungry_JJ enough_RB ._.
+But_CC ,_, if_IN I_PRP 'm_VBP ordering_VBG gourmet_NN ,_, expecting_VBG gourment_NN ,_, or_CC quality_NN on_IN par_NN with_IN Zavino_NNP ,_, Stella_NNP ,_, I_PRP should_MD get_VB it_PRP ._.
+I_PRP did_VBD not_RB at_IN Mama_NNP Palma_NNP 's_POS ._.
+Judging_VBG by_IN their_PRP$ menu_NN ,_, there_EX 's_VBZ no_DT doubt_NN they_PRP 're_VBP authentic_JJ and_CC know_VB what_WP they_PRP 're_VBP doing_VBG ,_, it_PRP 's_VBZ just_RB way_NN overpriced_VBN for_IN the_DT size_NN and_CC quality_NN I_PRP received_VBD ._.
+I_PRP think_VBP Mama_NNP Palma_NNP 's_POS would_MD benefit_VB from_IN lower_JJR prices_NNS ._.

@@ -1,0 +1,4 @@
+We_PRP had_VBD a_DT bday_NN dinner_NN here_RB ._.
+There_EX were_VBD about_RB 16_CD of_IN us_PRP ._.
+The_DT waitress_NN was_VBD very_RB nice_JJ and_CC made_VBD sure_JJ our_PRP$ orders_NNS were_VBD correct_JJ ._.
+The_DT food_NN is_VBZ great_JJ !_.

@@ -1,0 +1,5 @@
+My_PRP$ daughter_NN and_CC I_PRP had_VBD dinner_NN here_RB a_DT few_JJ weeks_NNS ago_RB ._.
+The_DT service_NN was_VBD good_JJ ,_, the_DT food_NN -_: not_RB that_IN great_JJ ._.
+I_PRP ordered_VBD the_DT chicken_NN marsala_NN ,_, which_WDT I_PRP thought_VBD was_VBD alright_NN ._.
+My_PRP$ daughter_NN had_VBD the_DT beef_NN tenderloin_NN which_WDT had_VBD so_RB much_JJ grissle_NN ,_, she_PRP could_MD not_RB eat_VB it_PRP ._.
+The_DT restaurant_NN seemed_VBD nice_JJ ,_, I_PRP just_RB wish_VBP that_IN food_NN was_VBD as_IN nice_JJ as_IN the_DT atmosphere_NN ._.

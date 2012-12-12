@@ -1,0 +1,12 @@
+Lido_NNP serves_VBZ up_RP some_DT great_JJ Italian_JJ fare_NN in_IN Harlem_NNP ._.
+Much_JJ improved_VBN from_IN the_DT previous_JJ venue_NN ._.
+The_DT bar_NN is_VBZ now_RB on_IN the_DT other_JJ side_NN with_IN a_DT much_JJ improved_JJ seating_NN area_NN and_CC fully_RB stocked_VBN for_IN making_VBG any_DT type_NN of_IN potion_NN ._.
+Bartender_NNP was_VBD friendly_JJ and_CC serves_VBZ up_RP a_DT variety_NN of_IN interesting_JJ cocktails_NNS ._.
+I_PRP ordered_VBD the_DT El_NNP Tigre_NNP -_: Bourbon_NN with_IN a_DT citrus_NN mix_NN ._.
+Very_RB tasty_JJ ._.
+Entrees_NNS hit_VBD the_DT mark_NN ._.
+Fusilli_NNP pasta_NN with_IN sweet_JJ Italian_JJ sausage_NN was_VBD the_DT perfect_JJ meal_NN for_IN a_DT rainy_NN Sunday_NNP night_NN ._.
+Service_NNP was_VBD friendly_JJ ._.
+Waiter_NNP was_VBD quite_RB knowledgable_JJ on_IN the_DT menu_NN ._.
+It_PRP did_VBD take_VB awhile_RB for_IN the_DT second_JJ course_NN to_TO arrive_VB ._.
+Hopefully_RB this_DT improves_VBZ the_DT next_JJ time_NN we_PRP go_VBP ._.

@@ -1,0 +1,4 @@
+Nice_RB little_JJ place_NN on_IN Amsterdam_NNP in_IN what_WP used_VBN to_TO be_VB a_DT run_VBN down_RP area_NN ._.
+Restaurants_NNS like_IN this_DT are_VBP changing_VBG the_DT neighborhood_NN ._.
+The_DT meatloaf_NN was_VBD a_DT real_JJ winner_NN here_RB ._.
+A_DT little_JJ cramped_JJ but_CC not_RB unlike_IN any_DT other_JJ restaurant_NN on_IN the_DT UWS_NNP or_CC Morningside_NNP in_IN terms_NNS of_IN space_NN ._.

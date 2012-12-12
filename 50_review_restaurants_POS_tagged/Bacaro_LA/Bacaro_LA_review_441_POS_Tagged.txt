@@ -1,0 +1,5 @@
+A_DT new_JJ friend_NN took_VBD me_PRP here_RB last_JJ night_NN -_: I_PRP do_VBP n't_RB think_VB it_PRP gets_VBZ any_RB better_JJR than_IN this_DT ._.
+Amazing_JJ wine_NN selection_NN ,_, food_NN is_VBZ to_TO die_VB for_IN -_: The_DT service_NN was_VBD impeccable_JJ and_CC we_PRP the_DT last_JJ to_TO leave_VB -_: The_DT food_NN was_VBD so_RB good_JJ we_PRP almost_RB ate_VBD the_DT plates_NNS ._.
+Easy_NNP off_IN the_DT freeway_NN access_NN for_IN us_PRP west_RB side_NN beachers_NNS ..._: I_PRP will_MD return_VB here_RB soon_RB -_: Very_RB soon_RB ._.
+I_PRP recommend_VBP the_DT eggplant_NN dish_NN and_CC the_DT bread_NN pudding_NN desert_NN ._.
+It_PRP was_VBD also_RB nice_JJ because_IN the_DT owner_NN is_VBZ there_RB and_CC was_VBD very_RB friendly_JJ -_: There_EX are_VBP not_RB many_JJ places_NNS in_IN LA_NNP like_IN this_DT one_CD ._.

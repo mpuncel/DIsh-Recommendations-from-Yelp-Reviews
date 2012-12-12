@@ -1,0 +1,11 @@
+Pretty_NNP good_JJ Italian_JJ restaurant_NN ._.
+Great_NNP location_NN ,_, good_JJ prices_NNS -LRB-_-LRB- less_JJR than_IN $_$ 8_CD -RRB-_-RRB- ,_, and_CC pretty_RB good_JJ hours_NNS -LRB-_-LRB- open_JJ later_RB than_IN some_DT of_IN the_DT family_NN owned_VBD places_NNS on_IN South_NNP Side_NN -RRB-_-RRB- ._.
+The_DT calzones_NNS are_VBP excellent_JJ !_.
+They_PRP have_VBP both_DT veggie_NN and_CC meat_NN ._.
+The_DT pastas_NNS and_CC pizzas_NNS are_VBP only_RB so-so_JJ ,_, but_CC I_PRP have_VBP n't_RB tried_VBN all_DT of_IN them_PRP ._.
+Out_IN of_IN the_DT pastas_NNS gnocchi_NNS -LRB-_-LRB- some_DT potato_NN pasta_NN -RRB-_-RRB- is_VBZ a_DT pretty_RB good_JJ one_NN -LRB-_-LRB- you_PRP can_MD also_RB order_VB marinara_NN instead_RB of_IN the_DT normal_JJ sauce_NN to_TO go_VB with_IN the_DT gnocchi_NNS -RRB-_-RRB- ,_, but_CC the_DT calzones_NNS are_VBP generally_RB considered_VBN to_TO be_VB better_JJR ._.
+Protip_NNP :_: The_DT extra_JJ 50_CD cents_NNS or_CC so_RB for_IN the_DT combo_NN calzone_NN vs._IN a_DT chicken_NN or_CC steak_NN one_CD is_VBZ worth_JJ it_PRP ._.
+I_PRP ca_MD n't_RB put_VB my_PRP$ finger_NN on_IN it_PRP ,_, but_CC having_VBG a_DT combination_NN of_IN meat_NN versus_CC just_RB one_CD kind_NN makes_VBZ it_PRP that_IN much_RB better_JJR ._.
+Protip_NNP 2_CD :_: Calzones_NNS take_VBP a_DT long_JJ time_NN to_TO make_VB -LRB-_-LRB- ~_CD 10-15_CD minutes_NNS -RRB-_-RRB- ,_, so_RB you_PRP should_MD definitely_RB call_VB in_IN beforehand_RB ._.
+Protip_NNP 3_CD :_: The_DT older_JJR guy_NN with_IN glasses_NNS and_CC a_DT mustache_NN who_WP owns_VBZ the_DT places_NNS is_VBZ actually_RB pretty_RB funny_JJ ._.
+If_IN you_PRP go_VBP in_IN late_JJ at_IN night_NN -LRB-_-LRB- right_JJ before_IN closing_VBG -RRB-_-RRB- and_CC it_PRP 's_VBZ not_RB too_RB busy_JJ he_PRP sometimes_RB talks_VBZ to_TO customers_NNS and_CC is_VBZ entertaining_JJ and_CC funny_JJ ._.

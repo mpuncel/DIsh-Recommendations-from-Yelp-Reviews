@@ -1,0 +1,2 @@
+Love_NNP this_DT place_NN ._.
+Has_VBZ some_DT of_IN the_DT best_JJS pasta_NN for_IN a_DT reasonable_JJ price_NN ._.

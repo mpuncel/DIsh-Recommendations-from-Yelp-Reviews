@@ -1,0 +1,3 @@
+Love_NNP this_DT place_NN ,_, very_RB tasty_JJ entrees_NNS ,_, good_JJ salads_NNS and_CC an_DT excellent_JJ choice_NN of_IN good_JJ wines_NNS ._.
+The_DT pizza_NN and_CC wine_NN tasting_NN on_IN Mondays_NNP is_VBZ a_DT treat_NN ._.
+Wait_VB staff_NN is_VBZ well_RB informed_VBN and_CC pleasant_JJ ._.

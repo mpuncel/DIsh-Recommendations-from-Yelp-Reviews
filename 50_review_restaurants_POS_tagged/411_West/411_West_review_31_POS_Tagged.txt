@@ -1,0 +1,6 @@
+I_PRP 'm_VBP surprised_VBN by_IN the_DT low-end_JJ reviews_NNS !_.
+I_PRP 've_VBP had_VBD several_JJ wonderful_JJ meals_NNS here_RB ._.
+The_DT atmosphere_NN is_VBZ great_JJ ,_, and_CC there_EX are_VBP white_JJ tablecloths_NNS and_CC a_DT nice_JJ decor_NN ,_, but_CC the_DT prices_NNS are_VBP so_RB reasonable_JJ ._.
+Pasta\/pizza_NNP \/_RB smaller_JJR entrees_VBZ all_DT under_IN 15_CD bucks_NNS ._.
+They_PRP have_VBP a_DT gorgeous_JJ greenhouse_NN like_IN room_NN in_IN the_DT back_NN ._.
+And_CC the_DT dessert_NN list_NN is_VBZ so_RB good_JJ ._.

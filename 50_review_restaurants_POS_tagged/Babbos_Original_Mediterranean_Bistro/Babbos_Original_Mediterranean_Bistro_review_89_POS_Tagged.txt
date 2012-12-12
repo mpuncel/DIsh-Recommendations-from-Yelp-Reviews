@@ -1,0 +1,2 @@
+So-so_JJ ._.
+Valdostana_NNP Pizza_NNP -_: good_JJ Focaccia_NNP Babbo_NNP -_: a_DT bit_NN dry_JJ ,_, very_RB average_JJ tasting_NN Lamb_NNP Shank_NNP -_: juicy_NN and_CC tender_NN ,_, but_CC the_DT flavor_NN was_VBD a_DT bit_NN overpowering_VBG ._.

@@ -1,0 +1,4 @@
+I_PRP love_VBP this_DT restaurant_NN ._.
+We_PRP 've_VBP gone_VBN twice_RB on_IN a_DT lunch_NN break_NN from_IN taking_VBG a_DT seminar_NN at_IN Columbia_NNP ._.
+The_DT food_NN is_VBZ fresh_JJ and_CC delicious_JJ ._.
+Definitely_RB get_VB a_DT couple_NN things_NNS to_TO share_VB ._.

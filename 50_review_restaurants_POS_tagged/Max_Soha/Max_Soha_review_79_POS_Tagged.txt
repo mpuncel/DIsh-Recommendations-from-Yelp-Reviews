@@ -1,0 +1,5 @@
+Max_NNP Soha_NNP is_VBZ the_DT coziest_JJS and_CC most_RBS reasonably_RB priced_VBN Italian_JJ place_NN in_IN Morningside_NNP Heights_NNP ._.
+Where_WRB else_RB can_MD you_PRP get_VB a_DT delicious_JJ bowl_NN of_IN homemade_NN spaghetti_NNS lamb_VBP ragu_NN -LRB-_-LRB- the_DT best_JJS thing_NN on_IN the_DT menu_NN -RRB-_-RRB- for_IN $_$ 9.95_CD ?_.
+Pair_NN the_DT lamb_NN ragu_NN with_IN a_DT glass_NN of_IN red_JJ ,_, and_CC I_PRP guarantee_VBP you_PRP 'll_MD be_VB in_IN a_DT food_NN coma_NN for_IN a_DT while_NN ._.
+Their_PRP$ gnocchi_NN is_VBZ decent_JJ ,_, ravioli_NNS with_IN cream_NN sauce_NN is_VBZ not_RB bad_JJ either_RB ._.
+Great_NNP place_NN for_IN anyone_NN looking_VBG for_IN student_NN approved_VBN food_NN ._.

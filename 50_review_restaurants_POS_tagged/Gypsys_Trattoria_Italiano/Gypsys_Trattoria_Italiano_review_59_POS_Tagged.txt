@@ -1,0 +1,3 @@
+their_PRP$ spaghetti_NNS and_CC meatballs_NNS is_VBZ so_RB disgusting_JJ ._.
+the_DT pasta_NN is_VBZ overcooked_VBN and_CC bland_VBN ._.
+the_DT meatballs_NNS are_VBP literally_RB blocks_NNS of_IN rectangular_JJ meat_NN and_CC taste_NN like_IN cat_NN ._.

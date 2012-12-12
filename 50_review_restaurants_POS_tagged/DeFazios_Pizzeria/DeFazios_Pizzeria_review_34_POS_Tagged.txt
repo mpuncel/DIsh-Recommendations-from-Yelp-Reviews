@@ -1,0 +1,6 @@
+De_NNP Fazio_NNP 's_POS is_VBZ the_DT best_JJS pizza_NN by_IN far_RB in_IN the_DT Capitol_NNP Region_NNP ._.
+The_DT crust_NN is_VBZ great_JJ ,_, both_DT chewy_NN and_CC crunchy_NN ._.
+The_DT sauce_NN is_VBZ equally_RB good_JJ having_VBG both_DT hints_NNS of_IN sweetness_NN and_CC spiciness_NN ._.
+Most_JJS Capitol_NNP region_NN pizzerias_NNS miss_VBP both_DT of_IN these_DT marks_NNS ._.
+DeFazio_NNP 's_POS is_VBZ a_DT reason_NN to_TO head_VB to_TO Troy_NNP ._.
+It_PRP is_VBZ simply_RB the_DT best_JJS ._.

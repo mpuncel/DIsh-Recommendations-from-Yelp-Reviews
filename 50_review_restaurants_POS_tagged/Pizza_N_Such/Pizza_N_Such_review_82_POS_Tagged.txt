@@ -1,0 +1,5 @@
+Pizza_NNP n_NNP Such_JJ is_VBZ a_DT signature_NN Claremont_NNP Village_NNP place_NN to_TO eat_VB ._.
+They_PRP started_VBD out_RP in_IN this_DT small_JJ hole_NN in_IN the_DT wall_NN place_NN ,_, but_CC moved_VBD into_IN what_WP I_PRP believe_VBP was_VBD the_DT old_JJ pharmacy_NN building_NN ._.
+So_IN you_PRP actually_RB have_VBP room_NN to_TO sit_VB down_RB and_CC its_PRP$ a_DT lot_NN nicer_JJR on_IN the_DT inside_NN ._.
+All_DT their_PRP$ pizzas_NNS are_VBP yummy_JJ ._.
+It_PRP 's_VBZ a_DT good_JJ place_NN to_TO come_VB for_IN a_DT meal_NN ,_, and_CC kick_NN back_RB and_CC chat_VB with_IN your_PRP$ friends_NNS ._.

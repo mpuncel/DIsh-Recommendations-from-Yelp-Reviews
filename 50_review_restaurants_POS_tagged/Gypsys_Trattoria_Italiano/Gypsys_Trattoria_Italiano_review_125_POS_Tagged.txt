@@ -1,0 +1,3 @@
+great_JJ pizza_NN and_CC awesome_JJ pasta_NN and_CC salad_NN for_IN very_RB little_JJ money_NN ._.
+Wife_NN said_VBD the_DT cannoli_NN was_VBD delicious_JJ ._.
+Open_NNP late_RB -LRB-_-LRB- a_DT relief_NN for_IN those_DT of_IN us_PRP used_VBD to_TO places_NNS closing_VBG at_IN 10pm_CD -RRB-_-RRB- ._.

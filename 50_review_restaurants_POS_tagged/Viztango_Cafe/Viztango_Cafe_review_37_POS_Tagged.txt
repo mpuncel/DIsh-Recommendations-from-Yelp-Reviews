@@ -1,0 +1,10 @@
+Occasion_NN :_: Dinner_NN with_IN friends_NNS after_IN my_PRP$ last_JJ final_JJ What_WP I_PRP Had_VBD :_: Farfalle_NNP Pesto_NNP -LRB-_-LRB- $_$ 8.75_CD -RRB-_-RRB- Food_NNP Review_NNP :_: Definitely_RB like_IN their_PRP$ pasta_NN better_JJR than_IN Pasta_NNP Roma_NNP ._.
+Their_PRP$ fast_JJ food_NN pasta_NN has_VBZ less_JJR oil_NN ,_, and_CC just_RB as_RB much_JJ for_IN each_DT portion_NN ._.
+They_PRP have_VBP chicken_NN in_IN their_PRP$ bow_NN tie_NN farfalle_NN pesto_NN ,_, too_RB !_.
+And_CC they_PRP do_VBP n't_RB mix_VB their_PRP$ different_JJ noodles_NNS accidentally_RB ,_, so_IN no_DT surprise_NN fettuccine_NN ._.
+Service_NNP Review_NNP :_: Nothing_NN in_IN particular_JJ about_IN the_DT service_NN ._.
+My_PRP$ order_NN came_VBD out_RP within_IN 10_CD minutes_NNS ,_, which_WDT was_VBD a_DT lot_NN faster_JJR than_IN at_IN Pasta_NNP Roma_NNP ._.
+Venue_NNP Review_NNP :_: The_DT restaurant_NN is_VBZ small_JJ ,_, but_CC has_VBZ lots_NNS of_IN indoor_JJ seating_NN ._.
+They_PRP also_RB have_VBP parking_NN in_IN the_DT lot_NN outside_IN the_DT restaurant_NN ._.
+Overall_JJ Impression_NN :_: Much_JJ better_JJR food_NN ,_, service_NN ,_, and_CC atmosphere_NN than_IN Pasta_NNP Roma_NNP ._.
+If_IN I_PRP 'm_VBP looking_VBG for_IN good_JJ fast_JJ food_NN pasta_NN ,_, Viztango_NNP gets_VBZ my_PRP$ business_NN ._.

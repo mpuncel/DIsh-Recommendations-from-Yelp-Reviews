@@ -1,0 +1,8 @@
+We_PRP have_VBP come_VBN back_RB for_IN dinner_NN ._.
+They_PRP now_RB have_VBP a_DT liquor_NN license_NN ._.
+The_DT entrees_NNS were_VBD excellent_JJ ._.
+We_PRP took_VBD the_DT waiter_NN 's_POS recommendation_NN for_IN glasses_NNS of_IN red_JJ wine_NN ._.
+The_DT choice_NN was_VBD excellent_JJ ,_, and_CC the_DT owner_NN comped_VBD us_PRP for_IN the_DT remainder_NN of_IN the_DT wine_NN bottle_NN ._.
+Prices_NNS were_VBD slightly_RB higher_JJR than_IN for_IN brunch_NN ._.
+The_DT wait_NN service_NN was_VBD excellent_JJ ,_, and_CC the_DT manager_NN came_VBD by_IN to_TO ask_VB how_WRB we_PRP were_VBD doing_VBG ._.
+He_PRP remembered_VBD us_PRP from_IN our_PRP$ last_JJ visit_NN ._.

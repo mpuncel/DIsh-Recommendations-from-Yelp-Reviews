@@ -1,0 +1,4 @@
+Review_NNP is_VBZ strictly_RB for_IN Sunday_NNP afternoons_NNS ._.
+Excellent_JJ guitar_NN player_NN ._.
+Service_NNP and_CC food_NN OK_UH ._.
+Pretty_NNP expensive_JJ ,_, but_CC it_PRP 's_VBZ the_DT best_JJS place_NN in_IN the_DT area_NN that_WDT 's_VBZ open_JJ on_IN Sunday_NNP afternoon_NN -_: we_PRP found_VBD eating_VBG at_IN Brian_NNP O'Neill_NNP 's_POS to_TO be_VB a_DT false_JJ economy_NN and_CC fled_VBD to_TO back_VB to_TO Prego_NNP ._.

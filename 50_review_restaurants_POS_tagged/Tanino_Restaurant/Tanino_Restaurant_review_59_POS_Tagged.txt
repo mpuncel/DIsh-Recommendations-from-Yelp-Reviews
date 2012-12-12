@@ -1,0 +1,8 @@
+This_DT quaint_NN Italian_JJ restaurant_NN has_VBZ all_PDT the_DT ambiance_NN of_IN a_DT 5-star_JJ but_CC I_PRP 'm_VBP always_RB disappointed_VBN by_IN the_DT food_NN ._.
+And_CC I_PRP 've_VBP only_RB eaten_VBN here_RB as_IN a_DT place_NN for_IN work_NN so_IN the_DT food_NN has_VBZ been_VBN free_JJ ._.
+Even_RB free_JJ ,_, I_PRP would_MD try_VB other_JJ restaurants_NNS before_IN returning_VBG ._.
+The_DT best_JJS thing_NN I_PRP 've_VBP eaten_VBN are_VBP the_DT lamb_NN chops_NNS ,_, prepared_JJ medium_NN rare_JJ ._.
+Today_NN I_NNP had_VBD the_DT special_JJ which_WDT was_VBD a_DT grilled_JJ sole_NN on_IN top_NN of_IN a_DT bed_NN of_IN lima_NN beans_NNS ,_, wild_JJ mushroms_NNS ,_, tomatoes_NNS ,_, and_CC a_DT tart_JJ sauce_NN with_IN mixed_JJ greens_NNS as_IN a_DT garnish_NN ._.
+The_DT fish_NN was_VBD slightly_RB overcooked_VBN and_CC there_EX was_VBD an_DT disproportionate_JJ amount_NN of_IN mushrooms_NNS to_TO tomatoes_NNS ._.
+The_DT service_NN is_VBZ always_RB top_JJ notch_NN here_RB ._.
+It_PRP 's_VBZ a_DT nice_JJ place_NN but_CC for_IN the_DT cost_NN ,_, it_PRP 's_VBZ not_RB worth_JJ it_PRP ._.

@@ -1,0 +1,4 @@
+The_DT soups_NNS here_RB are_VBP awesome_JJ ,_, along_IN with_IN everything_NN else_RB !_.
+For_IN a_DT nice_JJ dinner_NN out_RP ,_, go_VB here_RB ..._: Def_NNP ._.
+my_PRP$ favorite_JJ restaurant_NN in_IN Claremont_NNP ._.
+However_RB ,_, keep_VB in_IN mind_NN that_IN this_DT delicious_JJ food_NN is_VBZ accompanied_VBN by_IN high_JJ prices_NNS ._.

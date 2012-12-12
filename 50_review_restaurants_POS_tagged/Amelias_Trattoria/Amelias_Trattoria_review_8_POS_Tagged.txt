@@ -1,0 +1,4 @@
+Good_JJ ,_, not_RB great_JJ ._.
+Amelia_NNP 's_POS is_VBZ close_RB ,_, but_CC the_DT execution_NN is_VBZ just_RB not_RB what_WP I_PRP would_MD expect_VB from_IN their_PRP$ beautiful_JJ site_NN ,_, and_CC their_PRP$ relatively_RB high_JJ price_NN point_NN ._.
+The_DT bread_NN should_MD warm_VB -LRB-_-LRB- its_PRP$ in_IN the_DT details_NNS -RRB-_-RRB- and_CC the_DT pasta_NN was_VBD a_DT little_JJ over_IN cooked_VBN ,_, though_IN it_PRP was_VBD homemade_NN ._.
+I_PRP can_MD forgive_VB them_PRP for_IN running_VBG out_IN of_IN the_DT fusilli_NNS ,_, and_CC I_PRP would_MD be_VB willing_JJ to_TO try_VB them_PRP again_RB ,_, but_CC for_IN now_RB ,_, disappointed_JJ ._.

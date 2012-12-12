@@ -1,0 +1,4 @@
+One_CD of_IN Atlanta_NNP 's_POS best_JJS upscale_NN restaurants_NNS !_.
+Need_VBN somewhere_RB to_TO meet_VB Ted_NNP Turner_NNP or_CC the_DT folk_NN from_IN Coke_NNP or_CC CNN_NNP -_: then_RB book_NN a_DT table_NN at_IN Veni_NNP Vidi_NNP Vici_NNP ._.
+This_DT place_NN is_VBZ both_DT polished_JJ and_CC trendy_JJ and_CC it_PRP has_VBZ a_DT great_JJ menu_NN that_WDT will_MD impress_VB everyone_NN and_CC anyone_NN ._.
+Insiders_NNS note_VBP :_: try_VB the_DT duck_NN

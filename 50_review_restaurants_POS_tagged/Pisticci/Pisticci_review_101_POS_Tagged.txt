@@ -1,0 +1,7 @@
+Pisticci_NNP is_VBZ a_DT great_JJ little_JJ oasis_NN of_IN Italian_JJ food_NN on_IN the_DT upper_JJ ,_, upper_JJ west_NN side_NN ._.
+It_PRP 's_VBZ rustic_JJ and_CC simple_JJ ,_, but_CC the_DT food_NN is_VBZ very_RB good_JJ and_CC the_DT place_NN is_VBZ cozy_JJ ._.
+They_PRP 've_VBP recently_RB expanded_VBN and_CC almost_RB doubled_VBD their_PRP$ seating_NN capacity_NN ,_, but_CC the_DT chances_NNS are_VBP still_RB good_JJ you_PRP will_MD end_VB up_RP sharing_VBG a_DT long_JJ dining_NN table_NN with_IN other_JJ customers_NNS ._.
+The_DT Matagliati_NNP is_VBZ a_DT personal_JJ fave_NN ,_, but_CC their_PRP$ usual_JJ seafood_NN specials_NNS are_VBP always_RB something_NN to_TO jump_VB at_IN -LRB-_-LRB- the_DT mussels_NNS are_VBP very_RB good_JJ -RRB-_-RRB- ._.
+The_DT fig_NN salad_NN and_CC house_NN made_VBD iced_JJ tea_NN are_VBP two_CD of_IN my_PRP$ wife_NN 's_POS favorite_JJ choices_NNS ,_, though_IN they_PRP are_VBP a_DT little_JJ heavy_JJ for_IN me_PRP ._.
+The_DT service_NN can_MD sometimes_RB be_VB brusque_JJ ,_, but_CC that_DT just_RB adds_VBZ to_TO the_DT feeling_NN that_IN you_PRP are_VBP in_IN a_DT little_JJ trattoria_NN across_IN the_DT sea_NN ._.
+Ultimately_RB ,_, this_DT is_VBZ great_JJ little_JJ `_`` hidden_JJ '_'' spot_NN in_IN West_NNP Harlem_NNP that_WDT 's_VBZ worth_JJ a_DT try_NN if_IN you_PRP live_VBP around_IN the_DT corner_NN or_CC at_IN the_DT other_JJ end_NN of_IN the_DT island_NN ._.

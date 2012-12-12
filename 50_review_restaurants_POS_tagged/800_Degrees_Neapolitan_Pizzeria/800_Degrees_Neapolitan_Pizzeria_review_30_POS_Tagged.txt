@@ -1,0 +1,4 @@
+Love_NNP it_PRP ,_, love_VBP it_PRP ,_, love_VBP it_PRP ._.
+Fresh_JJ ingredients_NNS ,_, delicious_JJ sauce_NN &_CC crust_NN ,_, fast_RB and_CC cheap_RB ._.
+The_DT only_RB down_RB side_NN are_VBP the_DT incredibly_RB long_JJ lines_NNS ._.
+Even_RB with_IN the_DT relatively_RB fast_JJ service_NN ,_, it_PRP is_VBZ often_RB a_DT 15-20_JJ minute_NN wait_VB to_TO get_VB your_PRP$ order_NN taken_VBN ._.

@@ -1,0 +1,5 @@
+A_DT really_RB good_JJ chill_NN pizza_NN place_NN near_IN the_DT Uw_NNP campus_NN ._.
+You_PRP can_MD buy_VB by_IN the_DT slice_NN from_IN a_DT choice_NN of_IN 4_CD different_JJ pizzas_NNS ._.
+Also_RB the_DT minestrone_NN is_VBZ really_RB good_JJ here_RB and_CC comes_VBZ with_IN a_DT breadstick_NN ._.
+Very_RB cheap_JJ but_CC good_JJ food_NN ._.
+Finally_RB free_JJ refills_NNS to_TO give_VB it_PRP a_DT 5_CD star_NN

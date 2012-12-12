@@ -1,0 +1,5 @@
+Had_VBD the_DT price-fixed_JJ lunch_NN offering_NN --_: fantastic_JJ lentil_NN soup_NN and_CC ahi_NN tuna_NN coated_VBN with_IN tomato_JJ sauce_NN and_CC servied_VBD with_IN green_JJ beans_NNS and_CC potatoes_NNS ._.
+Fresh_JJ and_CC nicely_RB blended_JJ ._.
+The_DT bruschetta-style_JJ topping_VBG for_IN bread_NN was_VBD excellent_JJ as_RB well_RB ._.
+Service_NNP was_VBD outstanding_JJ ._.
+Overall_RB ,_, a_DT highly_RB enjoyable_JJ lunch_NN with_IN creative_JJ menu_NN offerings_NNS ._.

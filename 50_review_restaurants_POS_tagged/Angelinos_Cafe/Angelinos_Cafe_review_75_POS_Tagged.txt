@@ -1,0 +1,2 @@
+The_DT food_NN is_VBZ great_JJ ,_, but_CC the_DT portions_NNS could_MD be_VB bigger_JJR for_IN the_DT price_NN ._.
+With_IN that_DT said_VBD ,_, I_PRP will_MD come_VB back_RB here_RB again_RB as_RB long_JJ as_IN I_PRP 'm_VBP in_IN the_DT area_NN ._.

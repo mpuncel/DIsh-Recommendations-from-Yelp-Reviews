@@ -1,0 +1,3 @@
+Dominick_NNP 's_POS has_VBZ the_DT best_JJS sangria_NN ever_RB ._.
+The_DT food_NN is_VBZ n't_RB anything_NN special_JJ ,_, but_CC it_PRP 's_VBZ the_DT perfect_JJ place_NN to_TO go_VB with_IN friends_NNS and_CC have_VBP a_DT few_JJ drinks_NNS ._.
+But_CC make_VB sure_JJ you_PRP get_VBP the_DT sangria_NN ._.

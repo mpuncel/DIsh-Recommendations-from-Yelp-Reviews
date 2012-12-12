@@ -1,0 +1,6 @@
+ambiance_NN \/_VBD \/_CD \*\*\*\*_CD spacious_JJ ._.
+large_JJ windows_NNS ._.
+high_JJ ceilings_NNS !_.
+service_NN \/_VBP \/_CD \*\*\*\*_CD super_JJ nice_JJ an_DT efficient_JJ ..._: i_FW asked_VBD to_TO swap_VB out_RP my_PRP$ pasta_NN and_CC they_PRP gave_VBD me_PRP every_DT choice_NN out_IN there_RB !_.
+food_NN \/_CD \/_CD \*\*_SYM the_DT food_NN in_IN iteself_NN was_VBD alright_JJ ..._: a_DT good_JJ deal_NN for_IN what_WP you_PRP pay_VBP for_IN ~_CD \*_SYM ~_RB cheap_JJ eat_VBP for_IN a_DT uni_NN student_NN ..._: but_CC not_RB for_IN the_DT foodie_NN snobs_VBZ we_PRP came_VBD here_RB because_IN maoz_NN shut_VBN down_RP !_.
+=_SYM -LRB-_-LRB-

@@ -1,0 +1,1 @@
+ONE_CD WORD_NN :_: PIZZA_NNP !!!!!_CD This_DT is_VBZ the_DT most_RBS delectable_JJ ,_, delicious_JJ ,_, delightful_JJ pizza_NN ,_, end_NN of_IN story_NN ._.

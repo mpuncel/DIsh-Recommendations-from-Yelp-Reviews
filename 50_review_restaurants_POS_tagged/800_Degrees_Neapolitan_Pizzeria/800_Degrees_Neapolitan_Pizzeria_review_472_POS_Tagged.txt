@@ -1,0 +1,18 @@
+My_PRP$ first_JJ visit_NN was_VBD 5_CD stars_NNS ._.
+The_DT second_NN was_VBD 3_CD stars_NNS ._.
+For_IN now_RB ,_, 800_CD Degrees_NNPS Pizzeria_NNP is_VBZ 4_CD stars_NNS ._.
+The_DT price_NN is_VBZ right_JJ for_IN getting_VBG a_DT fresh_JJ pizza_NN for_IN under_IN $_$ 10_CD ._.
+I_PRP like_VBP the_DT Bianca_NNP Pizza_NNP with_IN cherry_JJ tomatoes_NNS and_CC extra_JJ basil_NN ,_, garlic_JJ ,_, and_CC chile_NN ._.
+The_DT first_JJ time_NN I_PRP ordered_VBD this_DT it_PRP had_VBD too_RB much_JJ olive_JJ oil_NN ,_, but_CC was_VBD full_JJ of_IN garlic_JJ chile_JJ flavor_NN ._.
+The_DT second_JJ time_NN ,_, they_PRP messed_VBD up_RP the_DT pizza_NN and_CC remade_VB it_PRP without_IN asking_VBG me_PRP ._.
+It_PRP came_VBD out_RP without_IN the_DT extra_JJ garlic_NN ,_, any_DT chile_NN ,_, and_CC no_DT basil_NN ._.
+It_PRP only_RB had_VBD the_DT cherry_NN tomatoes_NNS ._.
+When_WRB I_PRP complained_VBD they_PRP gave_VBD me_PRP two_CD containers_NNS of_IN chile_JJ i_FW could_MD add_VB on_IN top_NN ._.
+It_PRP helped_VBD ,_, but_CC was_VBD n't_RB what_WP I_PRP ordered_VBD and_CC did_VBD n't_RB taste_VB the_DT same_JJ ._.
+The_DT pesto_NN and_CC tomato_NN burrata_NN is_VBZ good_JJ ,_, too_RB ._.
+I_PRP love_VBP fresh_JJ mozzarella_NN cheese_NN ._.
+Parking_NN is_VBZ meters_NNS on_IN the_DT street_NN ._.
+Good_JJ luck_NN ._.
+You_PRP 'll_MD need_VB that_IN luck_NN when_WRB looking_VBG for_IN a_DT seat_NN ,_, too_RB ._.
+During_IN lunch_NN or_CC dinner_NN ,_, plan_NN 20-40_CD minutes_NNS for_IN the_DT line_NN ._.
+A_DT third_JJ visit_NN is_VBZ needed_VBN to_TO find_VB out_RP if_IN 800_CD Degrees_NNS equals_VBZ 3_CD stars_NNS or_CC more_JJR ._.

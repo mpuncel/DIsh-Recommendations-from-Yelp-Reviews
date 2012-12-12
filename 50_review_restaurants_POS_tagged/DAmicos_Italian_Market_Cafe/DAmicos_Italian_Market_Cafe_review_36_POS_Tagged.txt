@@ -1,0 +1,13 @@
+This_DT is_VBZ an_DT Italian-styled_JJ restaurant_NN ._.
+They_PRP serve_VBP so-so_JJ bread_NN with_IN olive_JJ oil_NN while_IN you_PRP wait_VB for_IN your_PRP$ server_NN ._.
+I_PRP had_VBD the_DT tortellini_NNS genovese_VBP ._.
+This_DT is_VBZ basically_RB a_DT spinach_NN ravioli_NNS with_IN chicken_NN and_CC spring_NN onions_NNS -LRB-_-LRB- i_FW think_VB -RRB-_-RRB- ._.
+The_DT base_NN is_VBZ creamy_JJ cheese_NN sauce_NN with_IN bits_NNS of_IN prosciuttto_NN -LRB-_-LRB- ?_. -RRB-_-RRB- ._.
+The_DT food_NN is_VBZ quite_RB ordinary_JJ ._.
+The_DT ravioli_NNS filling_VBG is_VBZ dry_JJ and_CC texture-wise_JJ ,_, it_PRP 's_VBZ not_RB very_RB appetizing_JJ ._.
+I_PRP also_RB tried_VBD the_DT crab_NN legs_NNS with_IN some_DT kind_NN of_IN clam_NN sauce_NN for_IN appetizer_NN ._.
+Also_RB quite_RB ordinary_JJ ._.
+Probably_RB the_DT best_JJS thing_NN was_VBD the_DT gelato_NN ._.
+My_PRP$ son_NN had_VBD the_DT chocolate_NN one_CD ._.
+It_PRP looked_VBD quite_RB yummy_JJ -LRB-_-LRB- and_CC my_PRP$ son_NN finished_VBD it_PRP -RRB-_-RRB- ._.
+The_DT service_NN was_VBD slow_JJ ._.

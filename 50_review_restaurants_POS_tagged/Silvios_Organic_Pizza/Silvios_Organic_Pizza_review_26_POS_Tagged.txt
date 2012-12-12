@@ -1,0 +1,4 @@
+Their_PRP$ pizza_NN is_VBZ frickin_JJ good_JJ ._.
+Crust_NN was_VBD amazing_JJ --_: a_DT fresh_JJ crispy_JJ sourdough_NN ._.
+Neat_JJ toppings_NNS ._.
+Wee_NNP bit_NN pricey_JJ ,_, so_RB not_RB an_DT everyday_JJ thing_NN ._.

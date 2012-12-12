@@ -1,0 +1,5 @@
+I_PRP am_VBP not_RB a_DT chain_NN restaurant_NN kind_NN of_IN girl_NN ._.
+Some_DT may_MD deem_VB that_IN a_DT character_NN flaw_NN of_IN mine_NN ._.
+But_CC Bertucci_NNP 's_POS is_VBZ my_PRP$ exception_NN to_TO the_DT rule_NN !_.
+I_PRP love_VBP the_DT focaccia_NN app_NN and_CC the_DT Carmine_NNP and_CC Margarita_NNP pizzas_NNS ._.
+They_PRP are_VBP consistent_JJ and_CC the_DT service_NN is_VBZ always_RB good_JJ enough_RB for_IN me_PRP ._.

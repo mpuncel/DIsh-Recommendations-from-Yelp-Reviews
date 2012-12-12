@@ -1,0 +1,4 @@
+Gypsy_NNP 's_POS is_VBZ a_DT good_JJ destination_NN if_IN you_PRP 're_VBP looking_VBG for_IN tasty_JJ but_CC cheap_JJ italian_JJ food_NN ._.
+I_PRP highly_RB recommend_VBP the_DT Crazy_NNP Alfredo_NNP ._.
+It_PRP 's_VBZ one_CD of_IN the_DT best_JJS items_NNS on_IN their_PRP$ menu_NN ._.
+It_PRP 's_VBZ often_RB crowded_VBN ,_, but_CC they_PRP have_VBP extra_JJ seating_NN outside_NN ._.

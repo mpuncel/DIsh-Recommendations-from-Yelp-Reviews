@@ -1,0 +1,5 @@
+Great_NNP selection_NN of_IN apps_NNS salumeria_NN was_VBD great_JJ ._.
+I_PRP got_VBD the_DT veal_NN rigitoni_NN bolonese_NN ,_, was_VBD unimpressed_JJ ,_, it_PRP was_VBD bland_JJ and_CC could_MD have_VB been_VBN any_DT meat_NN ._.
+Wine_NN and_CC cocktails_NNS were_VBD top_JJ notch_NN and_CC desert_NN was_VBD great_JJ ._.
+Service_NNP was_VBD spacey_NN ._.
+Was_VBD a_DT little_JJ over_IN priced_VBN for_IN my_PRP$ taste_NN ._.

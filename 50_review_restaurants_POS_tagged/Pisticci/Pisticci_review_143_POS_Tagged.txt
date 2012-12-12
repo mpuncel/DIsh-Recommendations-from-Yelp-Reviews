@@ -1,0 +1,2 @@
+Squisito_NNP !_.
+Delicious_NNP food_NN and_CC a_DT charming_JJ ,_, intimate_JJ atmosphere_NN make_VB this_DT restaurant_NN a_DT great_JJ place_NN to_TO go_VB for_IN a_DT date_NN ,_, business_NN dinner_NN or_CC even_RB a_DT quiet_JJ night_NN out_RP by_IN yourself_PRP ._.

@@ -1,0 +1,5 @@
+I_PRP 've_VBP never_RB recommended_VBN a_DT restaurant_NN as_IN highly_RB as_IN I_PRP do_VBP Salento_NNP ._.
+I_PRP 've_VBP dined_VBN there_RB at_IN least_JJS a_DT dozen_NN times_NNS in_IN the_DT last_JJ year_NN and_CC a_DT half_NN ,_, and_CC I_PRP continue_VBP to_TO urge_VB others_NNS to_TO do_VB so_RB ._.
+It_PRP is_VBZ the_DT best_JJS pasta_NN I_PRP have_VBP ever_RB eaten_VBN --_: and_CC I_PRP 've_VBP lived_VBN in_IN Italy_NNP !_.
+The_DT staff_NN is_VBZ extremely_RB hospitable_JJ ,_, and_CC they_PRP always_RB greet_VBP me_PRP by_IN name_NN --_: I_PRP 've_VBP never_RB had_VBN to_TO wait_VB more_JJR than_IN 3_CD minutes_NNS ._.
+It_PRP is_VBZ a_DT charming_JJ ,_, unassuming_JJ ,_, BYO_NNP --_: a_DT delicious_JJ mediterranean_JJ restaurant_NN without_IN the_DT haute_NN fluff_NN of_IN Stephen_NNP Starr_NNP ,_, and_CC the_DT better_JJR for_IN it_PRP ._.

@@ -1,0 +1,16 @@
+Cute_JJ little_JJ spot_NN ._.
+Easy_NNP ,_, casual_JJ ,_, and_CC good_JJ tapas_NNS style_NN food_NN ._.
+Beefsteak_NNP Sundays_NNP -_: disappointing_JJ ._.
+Went_VBD on_IN Sunday_NNP to_TO check_VB out_RP their_PRP$ all-you-can-eat-and-drink_JJ and_CC was_VBD bummed_VBN at_IN the_DT lack_NN of_IN options_NNS ._.
+All_DT you_PRP can_MD eat_VB consisted_VBN of_IN small_JJ pieces_NNS of_IN steak_NN on_IN baguettes_NNS and_CC potato_NN wedges_NNS ._.
+That_DT 's_VBZ it_PRP ._.
+Plates_NNS and_CC plates_NNS and_CC plates_NNS of_IN it_PRP -_: but_CC no_DT variety_NN ,_, which_WDT was_VBD a_DT disappointment_NN given_VBN that_IN they_PRP do_VBP have_VB a_DT decent_JJ menu_NN ._.
+And_CC only_RB one_CD wine_NN choice_NN -_: a_DT red_JJ syrah_NN at_IN every_DT table_NN which_WDT was_VBD fine_JJ ._.
+But_CC no_DT white_JJ wine_NN ,_, unless_IN you_PRP order_VBP it_PRP separately_RB ._.
+So_IN it_PRP 's_VBZ all_DT you_PRP can_MD eat_VB of_IN one_CD dish_NN ._.
+And_CC all_DT you_PRP can_MD drink_VB of_IN one_CD selection_NN of_IN wine_NN ._.
+Also_RB ,_, some_DT of_IN the_DT servers_NNS are_VBP a_DT bit_NN clueless_JJ ._.
+Felt_VBN like_IN we_PRP had_VBD frat_JJ boys_NNS that_WDT were_VBD in_IN between_IN jobs_NNS waiting_VBG on_IN us_PRP ._.
+Nonetheless_RB ,_, I_PRP like_VBP this_DT place_NN ._.
+I_PRP 'd_MD go_VB back_RB ._.
+But_CC I_PRP 'd_MD skip_VB the_DT beefsteak_NN Sunday_NNP unless_IN I_PRP 'm_VBP ready_JJ to_TO overload_NN on_IN red_JJ meat_NN and_CC bread_NN ._.

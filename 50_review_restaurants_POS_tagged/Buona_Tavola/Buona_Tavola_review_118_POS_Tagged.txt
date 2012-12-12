@@ -1,0 +1,6 @@
+Disappointing_JJ ._.
+Bland_NNP ,_, boring_JJ food_NN ._.
+Good_JJ service_NN ._.
+Olive_NNP tapenade_NN wierd_NN flavor_NN ._.
+Caesar_NNP fresh_JJ &_CC ok_NN but_CC not_RB very_RB much_JJ flavor_NN ._.
+Pasta_NN heavy_NN and_CC very_RB bland_RB ._.

@@ -1,0 +1,14 @@
+Love_NNP this_DT place_NN !_.
+I_PRP 've_VBP been_VBN coming_VBG here_RB for_IN years_NNS on_IN and_CC off_IN ._.
+Food_NNP is_VBZ consistently_RB great_JJ ._.
+Service_NNP is_VBZ always_RB attentive_JJ ._.
+I_PRP love_VBP the_DT ambiance_NN ._.
+They_PRP have_VBP great_JJ selection_NN of_IN beers_NNS and_CC wines_NNS ._.
+Out_IN of_IN appetizers_NNS grilled_JJ eggplant_NN and_CC grilled_JJ portobello_NN are_VBP my_PRP$ favorites_NNS ._.
+Love_NNP their_PRP$ polenta_NN !_.
+It_PRP 's_VBZ probably_RB my_PRP$ favorite_JJ there_EX !_.
+Rosemary_NNP potatoes_NNS are_VBP great_JJ ._.
+All_DT pasta_NN dishes_NNS I_PRP 've_VBP tried_VBN were_VBD consistently_RB good_JJ ._.
+Salmon_VB is_VBZ always_RB great_JJ and_CC so_RB is_VBZ tilapia_NN ._.
+Sometimes_RB wait_VB is_VBZ long_RB ,_, but_CC we_PRP usually_RB get_VBP a_DT drink_NN at_IN the_DT bar_NN --_: it_PRP 's_VBZ pleasant_JJ ._.
+One_CD of_IN my_PRP$ favorite_JJ places_NNS !_.

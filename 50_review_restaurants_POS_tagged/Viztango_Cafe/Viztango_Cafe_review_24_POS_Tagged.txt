@@ -1,0 +1,8 @@
+Fast_NNP Food_NNP Italian_NNP Just_RB East_NNP of_IN Frat_NNP Row_NNP Near_IN USC_NNP Looking_VBG for_IN a_DT quick_JJ salad_NN ,_, pizza_NN ,_, or_CC meatball_NN sandwich_NN ?_.
+Only_RB have_VB $_$ 8_CD ?_.
+Want_VBD a_DT pitcher_NN of_IN beer_NN with_IN that_DT ?_.
+And_CC this_DT is_VBZ Matt_NNP Leinert_NNP 's_POS favorite_JJ restuarant_NN -LRB-_-LRB- yeah_JJ ,_, right_JJ -RRB-_-RRB- ._.
+Hey_NNP ,_, this_DT place_NN is_VBZ for_IN you_PRP ._.
+Seating_NN is_VBZ uncomfortable_JJ ,_, the_DT food_NN is_VBZ at_IN best_JJS average_NN and_CC one_CD of_IN our_PRP$ group_NN got_VBD sick_JJ ._.
+I_PRP will_MD say_VB the_DT salad_NN was_VBD cheap_JJ ,_, fast_JJ and_CC filling_VBG and_CC the_DT soup_NN appeared_VBD to_TO be_VB home_NN made_VBN ._.
+I_PRP 'd_MD have_VB to_TO be_VB pretty_RB desparate_VB to_TO go_VB back_RB ._.

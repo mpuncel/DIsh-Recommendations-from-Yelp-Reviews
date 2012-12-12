@@ -1,0 +1,4 @@
+The_DT taste_NN is_VBZ not_RB bad_JJ ,_, on_IN the_DT cheap_JJ side_NN -LRB-_-LRB- around_IN $_$ 12_CD for_IN large_JJ pizza_NN with_IN 2_CD toppings_NNS ,_, I_PRP think_VBP -RRB-_-RRB- ,_, but_CC the_DT customer_NN service_NN is_VBZ pretty_RB bad_JJ ._.
+-LRB-_-LRB- Our_PRP$ waitress_NN threw_VBD a_DT menu_NN on_IN our_PRP$ table_NN -RRB-_-RRB- It_PRP is_VBZ located_VBN very_RB close_RB to_TO the_DT campus_NN ,_, so_RB that_IN is_VBZ nice_JJ ._.
+As_IN previous_JJ reviewers_NNS mentioned_VBN ,_, it_PRP is_VBZ pretty_RB thick_JJ ,_, so_IN it_PRP is_VBZ really_RB fulfilling_VBG ._.
+If_IN you_PRP wonder_VBP which_WDT size_NN to_TO order_NN ,_, then_RB go_VB for_IN the_DT smaller_JJR size_NN ._.

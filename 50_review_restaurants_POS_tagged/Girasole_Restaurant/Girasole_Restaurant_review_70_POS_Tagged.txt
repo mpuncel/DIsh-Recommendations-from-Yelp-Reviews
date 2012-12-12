@@ -1,0 +1,7 @@
+Girasole_NNP is_VBZ a_DT great_JJ ,_, little_JJ restaurant_NN just_RB off_RB Walnut_NNP ._.
+I_PRP love_VBP the_DT cozy_JJ atmosphere_NN and_CC the_DT decor_NN ._.
+I_PRP LOVE_VBP the_DT salad_NN and_CC escarole_NN &_CC beans_NNS ._.
+Perfect_NNP !_.
+Vito_NNP ,_, the_DT owner\/waiter_NN is_VBZ awesome_JJ ._.
+They_PRP do_VBP a_DT great_JJ job_NN ._.
+I_PRP think_VBP you_PRP can_MD have_VB parties_NNS there_RB on_IN Monday_NNP evenings_NNS -LRB-_-LRB- that_IN take_VB up_RP the_DT whole_JJ space_NN -RRB-_-RRB- ,_, FYI_NNP ._.

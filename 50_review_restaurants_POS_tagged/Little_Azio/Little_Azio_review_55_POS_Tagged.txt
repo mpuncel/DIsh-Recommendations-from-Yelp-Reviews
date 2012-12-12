@@ -1,0 +1,7 @@
+Pizza_NNP is_VBZ 3_CD stars_NNS ,_, crust_NN and_CC sauces_NNS are_VBP lacking_VBG ._.
+The_DT pasta_NN I_PRP have_VBP had_VBN are_VBP pretty_RB good_JJ ._.
+3.5_CD stars_NNS ._.
+Service_NNP ,_, is_VBZ quick_JJ and_CC to_TO the_DT point_NN ._.
+Outdoor_JJ seating_NN in_IN midtown_NN off_IN the_DT main_JJ street_NN is_VBZ a_DT nice_JJ plus_NN ._.
+I_PRP guess_VBP I_PRP would_MD go_VB with_IN the_DT current_JJ 3.5_CD star_NN average_JJ review_NN ._.
+I_PRP will_MD be_VB back_RB ._.

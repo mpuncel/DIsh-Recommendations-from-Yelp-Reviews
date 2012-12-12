@@ -1,0 +1,11 @@
+Pretty_NNP cool_JJ location_NN ._.
+I_PRP love_VBP the_DT building_NN that_IN it_PRP 's_VBZ in_IN ._.
+The_DT food_NN was_VBD pretty_RB bland_RB ._.
+Perhaps_RB I_PRP should_MD have_VB stuck_VBN with_IN the_DT pizza_NN ,_, but_CC every_DT time_NN I_PRP go_VBP to_TO an_DT Italian_JJ restaurant_NN ,_, I_PRP 'm_VBP always_RB tempted_VBN to_TO get_VB some_DT sort_NN of_IN pasta_NN ._.
+This_DT time_NN I_PRP ordered_VBD the_DT fettuccine_NN alfredo_NN ,_, again_RB it_PRP was_VBD bland_JJ and_CC the_DT alfredo_NN sauce_NN was_VBD a_DT little_JJ too_RB thin_JJ ._.
+The_DT chicken_NN was_VBD chewy_JJ ._.
+Overall_JJ I_PRP did_VBD not_RB enjoy_VB my_PRP$ meal_NN :_: -LRB-_-LRB- The_DT service_NN could_MD be_VB a_DT little_JJ better_JJR ._.
+The_DT waitress_NN kept_VBD forgetting_VBG something_NN or_CC kept_VBD giving_VBG us_PRP the_DT wrong_JJ plates_NNS ._.
+I_PRP 'd_MD recommend_VB trying_VBG another_DT establishment_NN in_IN the_DT surrounding_VBG area_NN ._.
+Hopefully_RB ,_, should_MD you_PRP decide_VB to_TO stop_VB by_IN ,_, your_PRP$ experience_NN and_CC food_NN will_MD be_VB much_RB better_JJR ._.
+Good_JJ luck_NN and_CC happy_JJ yelping_NN !_.

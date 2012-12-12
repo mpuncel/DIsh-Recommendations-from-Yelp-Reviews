@@ -1,0 +1,5 @@
+Super_NNP cute_JJ place_NN ._.
+Food_NNP is_VBZ good_JJ but_CC the_DT prices_NNS are_VBP a_DT bit_NN high_JJ ._.
+Really_RB 3.5_CD stars_NNS but_CC I_PRP love_VBP their_PRP$ apricot_NN house_NN ice_NN tea_NN ..._: Deeelish_JJ !_.
+Love_NNP how_WRB the_DT wait_NN staff_NN pronounces_VBZ the_DT Italian_JJ perfectly_RB ,_, even_RB if_IN they_PRP are_VBP not_RB Ita_NNP Ian_NNP in_IN the_DT least_JJS bit_NN ._.
+Try_VB the_DT garlic_JJ bread_NN with_IN the_DT goat_NN cheese_NN ,_, just_RB no_DT make_VB out_RP session_NN after_IN that_DT ok_NN ?_.

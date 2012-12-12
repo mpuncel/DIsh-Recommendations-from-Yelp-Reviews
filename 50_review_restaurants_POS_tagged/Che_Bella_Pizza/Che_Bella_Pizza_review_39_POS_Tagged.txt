@@ -1,0 +1,6 @@
+Che_NNP Bella_NNP puts_VBZ the_DT ``_`` fast_JJ ''_'' in_IN fast_JJ food_NN ,_, but_CC what_WP makes_VBZ it_PRP special_JJ is_VBZ some_DT of_IN the_DT less-chosen_JJ menu_NN items_NNS ._.
+Sure_RB ,_, the_DT pizza_NN here_RB is_VBZ good_JJ ,_, but_CC not_RB necessarily_RB exceptional_JJ -LRB-_-LRB- you_PRP 'd_MD have_VB to_TO venture_VB a_DT little_JJ further_JJ for_IN that_IN -RRB-_-RRB- ._.
+I_PRP like_VBP the_DT Sicilian_NNP slices_NNS ;_: they_PRP 're_VBP nice_JJ and_CC chewy_JJ just_RB the_DT way_NN they_PRP should_MD be_VB ._.
+What_WP 's_VBZ REALLY_NNP fantastic_JJ however_RB is_VBZ the_DT falafel_NN sandwich_NN ._.
+They_PRP 'll_MD fry_NN a_DT hefty_JJ amount_NN of_IN falafel_NN in_IN front_NN of_IN you_PRP ,_, layer_NN on_IN fresh_JJ tomatoes_NNS and_CC lettuce_NN ,_, put_VBN on_IN white_JJ sauce_NN ,_, and_CC wrap_VB it_PRP ,_, hot_JJ and_CC fresh_JJ ,_, in_IN a_DT pita_NN ._.
+My_PRP$ recommendation_NN is_VBZ to_TO ask_VB for_IN extra_JJ sauce_NN ,_, then_RB dig_NN in_IN and_CC enjoy_VB !_.

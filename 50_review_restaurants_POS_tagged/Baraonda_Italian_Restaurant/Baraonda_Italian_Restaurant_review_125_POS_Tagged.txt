@@ -1,0 +1,3 @@
+Food_NNP was_VBD tastey_JJ but_CC the_DT service_NN was_VBD lacking_VBG ..._: in_IN fact_NN I_PRP felt_VBD our_PRP$ server_NN was_VBD quite_RB rude_JJ ._.
+Enjoyed_VBN the_DT gorgonzola_NN salad_NN and_CC the_DT ravioli_NNS of_IN the_DT day_NN was_VBD very_RB good_JJ but_CC the_DT overall_JJ experience_NN was_VBD just_RB not_RB good_JJ ,_, unfortunately_RB ._.
+Again_RB ,_, the_DT server_NN ,_, just_RB rude_JJ ._.

@@ -1,0 +1,4 @@
+Food_NNP Poisoning_NNP ._.
+When_WRB I_PRP was_VBD living_VBG in_IN shared_VBN housing_NN ._.
+Not_RB fun_NN ._.
+I_PRP will_MD spare_VB you_PRP the_DT gruesome_JJ details_NNS ,_, but_CC I_PRP have_VBP n't_RB been_VBN back_RB since_IN ._.

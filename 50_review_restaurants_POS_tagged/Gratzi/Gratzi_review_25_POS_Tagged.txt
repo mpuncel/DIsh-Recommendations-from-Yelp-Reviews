@@ -1,0 +1,4 @@
+The_DT water_NN was_VBD always_RB full_JJ ._.
+There_EX was_VBD more_RBR bread_NN than_IN we_PRP could_MD eat_VB ._.
+The_DT service_NN was_VBD great_JJ and_CC the_DT food_NN was_VBD outstanding_JJ ._.
+We_PRP all_DT had_VBD steak_NN and_CC they_PRP where_WRB great_JJ ._.

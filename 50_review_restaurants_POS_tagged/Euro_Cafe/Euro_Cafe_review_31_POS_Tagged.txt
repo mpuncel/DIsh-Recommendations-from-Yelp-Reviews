@@ -1,0 +1,2 @@
+I_PRP like_VBP this_DT place_NN ._.
+Always_RB eat_VB sandwiches_NNS here_RB even_RB though_IN I_PRP hate_VBP sandwiches_NNS ._.

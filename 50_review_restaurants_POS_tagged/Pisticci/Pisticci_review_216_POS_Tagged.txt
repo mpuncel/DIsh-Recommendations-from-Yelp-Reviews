@@ -1,0 +1,6 @@
+Pisticci_NNP has_VBZ the_DT best_JJS Italian_JJ food_NN I_PRP 've_VBP ever_RB had_VBN in_IN the_DT states_NNS ._.
+Everything_NN was_VBD amazing_JJ ,_, well_RB ,_, except_IN for_IN the_DT polenta_NN ._.
+It_PRP was_VBD good_JJ but_CC they_PRP could_MD n't_RB make_VB it_PRP grilled_JJ like_IN how_WRB I_PRP wanted_VBD ,_, and_CC there_EX are_VBP no_DT substitutions_NNS in_IN the_DT kitchen_NN ._.
+Oh_UH well_UH ,_, like_IN I_PRP said_VBD ,_, the_DT food_NN is_VBZ amazing_JJ ._.
+The_DT bartenders_NNS are_VBP awesome_JJ ,_, the_DT drinks_NNS are_VBP great_JJ ,_, and_CC once_RB again_RB ,_, the_DT food_NN ..._: it_PRP 's_VBZ the_DT best_JJS ._.
+Oh_UH and_CC their_PRP$ desserts_NNS are_VBP worth_JJ the_DT extra_JJ cash_NN so_IN save_IN room_NN or_CC force_NN yourself_PRP to_TO eat_VB dessert_NN ._.

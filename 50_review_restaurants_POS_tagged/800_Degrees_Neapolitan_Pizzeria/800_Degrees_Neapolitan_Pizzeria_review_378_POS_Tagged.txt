@@ -1,0 +1,1 @@
+Cool_JJ pizza_NN place_NN and_CC pizza_NN idea_NN ,_, as_IN a_DT matter_NN of_IN fact_NN I_PRP have_VBP tge_NN same_JJ idea_NN but_CC this_DT guy_NN did_VBD it_PRP first_RB ,_, good_JJ job_NN

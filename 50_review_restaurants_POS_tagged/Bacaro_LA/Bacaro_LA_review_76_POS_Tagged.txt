@@ -1,0 +1,5 @@
+quaint_NN little_JJ place_NN to_TO grab_VB some_DT friends_NNS ,_, a_DT bottle_NN of_IN wine_NN and_CC chat_VB the_DT evening_NN away_RB ._.
+This_DT place_NN is_VBZ small_JJ and_CC has_VBZ chalkboard_VBN walls_NNS all_DT around_IN that_DT features_VBZ the_DT menu_NN ._.
+Cute_JJ ._.
+Lots_NNS of_IN USC_NNP kids_NNS as_IN campus_NN is_VBZ just_RB down_IN the_DT street_NN ._.
+They_PRP have_VBP a_DT pretty_RB good_JJ selection_NN of_IN beer_NN and_CC wine_NN ._.

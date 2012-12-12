@@ -1,0 +1,3 @@
+Not_RB very_RB refined_JJ food_NN ,_, to_TO be_VB sure_JJ ,_, but_CC if_IN you_PRP need_VBP some_DT basic_JJ hunks_NNS of_IN meatballs_NNS and_CC a_DT boatload_NN of_IN pasta_NN in_IN a_DT hurry_NN and\/or_CC late_RB at_IN night_NN ,_, it_PRP does_VBZ n't_RB get_VB any_DT better_JJR in_IN the_DT entire_JJ city_NN of_IN Berkeley_NNP ._.
+The_DT food_NN is_VBZ good_JJ quality_NN and_CC ample_JJ ,_, but_CC the_DT place_NN lacks_VBZ any_DT sort_NN of_IN cozy_JJ atmosphere_NN ._.
+Yet_RB ,_, I_PRP give_VBP it_PRP 5_CD stars_NNS for_IN saving_VBG me_PRP from_IN passing_VBG out_RP on_IN a_DT street_NN after_IN a_DT long_JJ set_NN of_IN classes_NNS ._.

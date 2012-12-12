@@ -1,0 +1,4 @@
+Great_NNP place_NN ._.
+Nice_JJ service_NN ,_, delicious_JJ Clams_NNP Vongole_NNP -LRB-_-LRB- they_PRP make_VBP it_PRP better_JJR than_IN any_DT other_JJ place_NN i_FW have_VBP been_VBN to_TO -RRB-_-RRB- ._.
+Its_PRP$ great_JJ to_TO go_VB for_IN lunch_NN because_IN the_DT prices_NNS are_VBP a_DT little_RB less_JJR and_CC you_PRP pretty_RB much_RB get_VB the_DT same_JJ amount_NN for_IN dinner_NN ._.
+Out_IN of_IN the_DT places_NNS in_IN Princeton_NNP ,_, it_PRP is_VBZ consistently_RB good_JJ ._.

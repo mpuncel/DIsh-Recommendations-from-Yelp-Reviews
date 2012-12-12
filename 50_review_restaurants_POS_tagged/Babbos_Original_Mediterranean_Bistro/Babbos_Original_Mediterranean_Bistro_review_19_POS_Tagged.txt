@@ -1,0 +1,9 @@
+Ate_VBD lunch_NN outside_IN on_IN a_DT great_JJ summer_NN day_NN ._.
+Table_NNP was_VBD very_RB uneven_JJ -LRB-_-LRB- on_IN a_DT bit_NN of_IN a_DT drain_NN slope_NN in_IN the_DT brickwork_NN -RRB-_-RRB- to_TO the_DT point_NN of_IN being_VBG distracting_VBG ._.
+Tables_NNS are_VBP way_NN too_RB close_RB together_RB for_IN anything_NN other_JJ than_IN casual_JJ conversation_NN ._.
+Menu_NN selection_NN was_VBD sufficient_JJ ,_, but_CC a_DT bit_NN limited_JJ ._.
+I_PRP ended_VBD up_RP with_IN a_DT gorgonzola_NN &_CC pear_NN salad_NN that_WDT was_VBD good_JJ ._.
+The_DT gorgonzola_NN was_VBD mild_JJ and_CC very_RB creamy_JJ --_: great_JJ play_NN off_IN the_DT pears_NNS ._.
+The_DT Baked_JJ Goat_NNP Cheese_NNP Salad_NNP was_VBD good_JJ ,_, but_CC huge_JJ --_: no_DT way_NN to_TO eat_VB all_DT of_IN it_PRP nor_CC to_TO really_RB manage_VB the_DT size_NN of_IN the_DT goat_NN cheese_NN chunk_NN ._.
+Limited_JJ menu_NN ,_, adequate_JJ service_NN ,_, a_DT bit_NN pricey_JJ for_IN what_WP you_PRP get_VBP ._.
+Not_RB bad_JJ for_IN stopping_VBG to_TO eat_VB while_IN shopping_NN ,_, but_CC definitely_RB not_RB a_DT destination_NN restaurant_NN ._.

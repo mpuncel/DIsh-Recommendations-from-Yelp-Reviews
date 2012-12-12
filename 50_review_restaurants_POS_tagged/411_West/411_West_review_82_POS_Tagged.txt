@@ -1,0 +1,4 @@
+I_PRP have_VBP to_TO say_VB ,_, I_PRP have_VBP n't_RB ever_RB had_VBD a_DT good_JJ meal_NN here_RB ._.
+My_PRP$ friends_NNS love_VBP it_PRP ,_, the_DT atmosphere_NN is_VBZ alright_JJ ,_, but_CC for_IN all_PDT the_DT hype_NN -_: its_PRP$ just_RB not_RB that_IN great_JJ ._.
+The_DT pasta_NN is_VBZ usually_RB overcooked_VBN and_CC mushy_JJ and_CC the_DT vegetables_NNS have_VBP tasted_VBN like_IN they_PRP were_VBD frozen_VBN ._.
+I_PRP like_VBP the_DT location_NN and_CC the_DT convenience_NN so_IN I_PRP 've_VBP gone_VBN back_RB ,_, but_CC I_PRP ca_MD n't_RB say_VB I_PRP 've_VBP been_VBN impressed_VBN ._.

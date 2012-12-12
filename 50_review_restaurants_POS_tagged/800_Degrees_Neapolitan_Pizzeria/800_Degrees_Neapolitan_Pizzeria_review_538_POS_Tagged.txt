@@ -1,0 +1,5 @@
+Super_NNP YUM_NNP !_.
+Great_NNP pizza_NN ,_, nice_JJ fancy_JJ toppings_NNS and_CC good_JJ system_NN to_TO get_VB food_NN in_IN a_DT timely_JJ manner_NN ._.
+This_DT place_NN gets_VBZ pretty_RB busy_JJ at_IN the_DT lunch_NN hour_NN -LRB-_-LRB- and_CC probably_RB dinner_NN -RRB-_-RRB- so_RB get_VB here_RB early_RB if_IN you_PRP can_MD ._.
+I_PRP love_VBP the_DT soda_NN machine_NN -_: you_PRP can_MD mix_VB flavors_NNS to_TO create_VB something_NN delicious_JJ !_.
+Parking_NN 's_POS a_DT little_JJ hard_JJ since_IN it_PRP 's_VBZ in_IN Westwood_NNP ,_, but_CC worst_JJS case_NN ,_, you_PRP can_MD park_VB in_IN the_DT Broxton_NNP lot_NN and_CC just_RB walk_VB over_RB ._.

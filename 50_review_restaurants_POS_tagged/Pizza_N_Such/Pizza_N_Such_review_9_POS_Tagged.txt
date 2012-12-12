@@ -1,0 +1,3 @@
+Tasty_JJ pizza_NN ,_, with_IN number_NN of_IN house_NN specialties_NNS and_CC plenty_JJ o_NN '_'' toppings_NNS to_TO choose_VB from_IN in_IN order_NN to_TO make_VB your_PRP$ own_JJ ._.
+Tasty_JJ beer_NN ,_, including_VBG the_DT local_JJ brew_NN Pomona_NNP Queen_NNP and_CC Newcastle_NNP on_IN tap_VBP ._.
+Top_JJ it_PRP all_DT off_RP with_IN the_DT cozy_JJ atmosphere_NN and_CC friendly_JJ service_NN ,_, and_CC you_PRP have_VBP what_WP is_VBZ probably_RB one_CD of_IN the_DT best_JJS places_NNS in_IN the_DT Claremont_NNP Village_NNP to_TO grab_VB a_DT bite_NN and_CC a_DT brew_NN ._.

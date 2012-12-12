@@ -1,0 +1,4 @@
+This_DT place_NN is_VBZ simply_RB Campo_NNP with_IN a_DT new_JJ name_NN ._.
+Food_NNP is_VBZ nothing_NN special_JJ ,_, but_CC it_PRP 's_VBZ a_DT nice_JJ place_NN to_TO sit_VB outside_JJ on_IN a_DT nice_JJ night_NN ._.
+I_PRP had_VBD the_DT risotto_NN which_WDT was_VBD n't_RB anything_NN special_JJ ,_, but_CC my_PRP$ companion_NN had_VBD excellent_JJ sirloin_NN tips_NNS ._.
+Service_NNP was_VBD efficient_JJ and_CC friendly_JJ ._.

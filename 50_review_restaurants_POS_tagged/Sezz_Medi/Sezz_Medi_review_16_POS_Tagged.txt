@@ -1,0 +1,5 @@
+This_DT was_VBD the_DT first_JJ restaurant_NN I_PRP went_VBD to_TO when_WRB I_PRP moved_VBD to_TO NYC_NNP ._.
+I_PRP moved_VBD here_RB in_IN August_NNP '_POS 08_CD ,_, so_RB the_DT weather_NN was_VBD slightly_RB humid_JJ and_CC rainy_NN ._.
+My_PRP$ boyfriend_NN and_CC I_PRP were_VBD seated_VBN near_IN the_DT window_NN and_CC I_PRP think_VBP they_PRP were_VBD open_JJ because_IN I_PRP distinctly_RB remember_VBP hearing_VBG the_DT rain_NN fall_NN as_IN we_PRP munched_VBD on_IN some_DT kind_NN of_IN delicious_JJ cheesy_NN appetizer_NN and_CC then_RB a_DT freshly_RB brick-oven_JJ pizza_NN ._.
+The_DT atmosphere_NN is_VBZ cozy_JJ and_CC the_DT staff_NN is_VBZ great_JJ ._.
+Overall_RB ,_, this_DT is_VBZ not_RB a_DT cheap_JJ place_NN to_TO eat_VB ,_, but_CC the_DT food_NN and_CC ambiance_NN are_VBP well_RB worth_JJ it_PRP !_.

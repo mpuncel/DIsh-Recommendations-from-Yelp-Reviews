@@ -1,0 +1,1 @@
+Excellent_JJ BBQ_NNP Chicken_NNP pizza_NN and_CC open_JJ late_JJ for_IN dine-in_NN or_CC take-out_NN -LRB-_-LRB- 4am_CD -RRB-_-RRB- ._.

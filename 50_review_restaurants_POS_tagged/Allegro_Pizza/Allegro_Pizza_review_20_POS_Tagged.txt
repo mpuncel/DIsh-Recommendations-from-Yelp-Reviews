@@ -1,0 +1,7 @@
+This_DT is_VBZ what_WP Philadelphia_NNP food_NN is_VBZ about_RB --_: a_DT corner_NN restaurant_NN with_IN great_JJ pizza_NN and_CC great_JJ hoagies_NNS ._.
+My_PRP$ wife_NN is_VBZ a_DT pizza_NN connoisseur_NN and_CC she_PRP loved_VBD the_DT Allegro_NNP pizza_NN ._.
+The_DT hoagie_NN was_VBD far_RB better_JJR than_IN the_DT cheese_NN steak_NN I_PRP had_VBD ingested_VBN on_IN South_NNP Street_NNP the_DT previous_JJ day_NN ._.
+The_DT manager_NN was_VBD friendly_JJ and_CC helpful_JJ -LRB-_-LRB- could_MD this_DT be_VB Philly_NNP ?_. -RRB-_-RRB-
+and_CC the_DT cooks_NNS were_VBD friendly_JJ ._.
+The_DT prices_NNS were_VBD low_JJ and_CC they_PRP had_VBD fountain_NN soft_JJ drinks_NNS ._.
+What_WP 's_VBZ not_RB to_TO like_VB ?_.

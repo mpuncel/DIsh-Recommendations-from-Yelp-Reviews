@@ -1,0 +1,4 @@
+My_PRP$ favorite_JJ place_NN in_IN Providence_NNP ._.
+I_PRP love_VBP their_PRP$ grilled_JJ pizza_NN ,_, baked_JJ pasta_NN and_CC made_VBD to_TO order_VB desserts_NNS ._.
+The_DT staff_NN is_VBZ very_RB attentive_JJ and_CC extremely_RB helpful_JJ in_IN recommending_VBG a_DT wine_NN ._.
+The_DT place_NN has_VBZ been_VBN there_RB for_IN ever_RB and_CC the_DT wait_NN can_MD annoy_VB some_DT but_CC a_DT must_MD if_IN stopping_VBG in_IN Providence_NNP ._.

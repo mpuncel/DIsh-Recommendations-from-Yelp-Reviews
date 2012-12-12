@@ -1,0 +1,4 @@
+40_CD great_JJ beers_NNS on_IN tap_VBP !_.
+Decent_JJ food_NN ._.
+Prices_NNS on_IN the_DT higher_JJR end_NN of_IN reasonable_JJ ._.
+I_PRP will_MD def_VB be_VB back_RB ._.

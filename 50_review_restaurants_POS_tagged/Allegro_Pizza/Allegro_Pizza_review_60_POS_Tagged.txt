@@ -1,0 +1,6 @@
+On_IN U_NNP Penn_NNP 's_POS campus_NN ._.
+Open_NNP late_RB ,_, and_CC sells_VBZ beer_NN ._.
+The_DT pizza_NN I_PRP have_VBP eaten_VBN here_RB is_VBZ not_RB so_RB good_JJ ,_, the_DT pizza_NN is_VBZ fine_JJ for_IN a_DT quick_JJ dinner_NN or_CC snack_NN ._.
+Mostly_RB I_PRP came_VBD here_RB for_IN beer_NN ,_, they_PRP have_VBP a_DT decent_JJ selection_NN and_CC thier_JJR prices_NNS are_VBP not_RB too_RB high_JJ ._.
+I_PRP like_VBP a_DT place_NN where_WRB you_PRP can_MD buy_VB fancier_JJR microbrews_NNS and_CC colt_NN 45_CD in_IN the_DT same_JJ place_NN ._.
+One_CD plus_CC is_VBZ they_PRP allow_VBP you_PRP to_TO open_VB your_PRP$ beer_NN in_IN the_DT restaurant_NN ,_, so_RB you_PRP can_MD have_VB a_DT really_RB inexpensive_JJ dinner_NN with_IN your_PRP$ choice_NN of_IN beer_NN ._.

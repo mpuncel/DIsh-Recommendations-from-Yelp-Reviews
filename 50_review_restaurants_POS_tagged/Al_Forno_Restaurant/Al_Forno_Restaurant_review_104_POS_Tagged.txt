@@ -1,0 +1,5 @@
+I_PRP am_VBP only_RB giving_VBG three_CD things_NNS on_IN the_DT menu_NN five_CD stars_NNS ;_: the_DT pizza_NN ,_, the_DT cookie_NN platter_NN ,_, and_CC the_DT beets_NNS and_CC frites_NNS salad_NN ._.
+The_DT rest_NN of_IN the_DT items_NNS are_VBP three_CD to_TO four_CD stars_NNS ._.
+Few_JJ tips_NNS :_: Eat_VB at_IN the_DT bar_NN --_: the_DT typical_JJ wait_NN for_IN table_NN is_VBZ over_IN an_DT hour_NN ._.
+Go_VB super_JJ early_JJ or_CC at_IN around_IN 10pm_CD ._.
+Watch_NNP for_IN celebs_NNS ._.

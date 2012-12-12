@@ -1,0 +1,12 @@
+Gypsy_NNP 's_POS is_VBZ a_DT decent_JJ italian_JJ place_NN ,_, i_FW 'd_MD say_VB the_DT main_JJ appeal_NN is_VBZ the_DT price_NN and_CC the_DT portion_NN size_NN ._.
+Their_PRP$ pasta_NN dishes_NNS are_VBP okay_JJ ,_, for_IN pasta_NN dishes_NNS ._.
+They_PRP taste_VBP good_JJ because_IN the_DT sauces_NNS are_VBP normally_RB creamy_JJ and_CC the_DT portions_NNS are_VBP huge_JJ ,_, and_CC everything_NN comes_VBZ with_IN garlic_JJ bread_NN ._.
+although_IN the_DT garlic_JJ bread_NN is_VBZ really_RB just_RB plain_JJ white_JJ bread_NN with_IN a_DT dallop_NN of_IN garlic_JJ sauce_NN ._.
+Their_PRP$ calzones_NNS are_VBP huge_JJ ,_, and_CC they_PRP taste_VBP okay_JJ ,_, and_CC they_PRP are_VBP really_RB fresh_JJ ,_, you_PRP see_VBP them_PRP making_VBG them_PRP ._.
+the_DT calzones_NNS are_VBP pretty_JJ average_NN ,_, but_CC they_PRP 're_VBP huge_JJ ,_, so_IN that_DT 's_VBZ the_DT main_JJ appeal_NN ._.
+the_DT salads_NNS are_VBP okay_JJ ,_, i_FW mean_VB they_PRP 're_VBP nothing_NN special_JJ ,_, but_CC they_PRP 're_VBP good_JJ and_CC fresh_JJ and_CC have_VB good_JJ dressing_VBG ._.
+Gypsy_NNP 's_POS looks_VBZ a_DT little_JJ bit_NN dingy_NN ,_, and_CC the_DT food_NN is_VBZ just_RB okay_JJ ,_, nothing_NN extra_JJ special_JJ ;_: I_PRP 've_VBP had_VBD much_RB better_JJR italian_JJ food_NN in_IN the_DT area_NN ,_, and_CC it_PRP was_VBD n't_RB super_JJ pricey_JJ ._.
+I_PRP 'd_MD say_VB gypsy_NN 's_POS is_VBZ just_RB always_RB crowded_VBN because_IN it_PRP 's_VBZ so_RB close_JJ to_TO the_DT dorms_NNS ,_, and_CC it_PRP is_VBZ so_RB cheap_JJ and_CC serves_VBZ up_RP such_JJ large_JJ portions_NNS ._.
+The_DT pasta_NN 's_POS do_VBP n't_RB taste_VB that_DT special_JJ ,_, honestly_RB ,_, some_DT of_IN the_DT sauces_NNS taste_VBP like_IN they_PRP could_MD be_VB out_IN of_IN a_DT can\/jar_NN ,_, i_FW 'm_VBP not_RB saying_VBG they_PRP are_VBP ,_, but_CC they_PRP do_VBP n't_RB taste_VB like_IN anything_NN special_JJ ._.
+Gypsy_NNP 's_POS is_VBZ good_JJ if_IN you_PRP want_VBP fast_RB cheap_JJ italian_JJ food_NN ,_, or_CC you_PRP want_VBP somewhere_RB cheap_JJ to_TO go_VB with_IN friends_NNS ._.
+A_DT warning_VBG though_RB ,_, at_IN busy_JJ times_NNS -LRB-_-LRB- like_IN dinner_NN time_NN any_DT day_NN -RRB-_-RRB- the_DT indoor_JJ seating_NN tends_VBZ to_TO get_VB really_RB full_JJ ._.

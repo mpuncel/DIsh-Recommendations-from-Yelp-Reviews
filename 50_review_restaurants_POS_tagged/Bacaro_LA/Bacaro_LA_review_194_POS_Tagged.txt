@@ -1,0 +1,5 @@
+Caught_NNP Happy_JJ Hour_NN there_RB -LRB-_-LRB- ends_VBZ at_IN 7pm_CD -RRB-_-RRB- ._.
+All_PDT the_DT dishes_NNS were_VBD $_$ 5_CD !_.
+Lamb_NNP sliders_NNS special_JJ was_VBD twitterific_JJ ._.
+Garlic_NNP and_CC white_JJ bean_NN bruschettas_NNS ,_, scallops_NNS ,_, steak_NN ,_, and_CC cheeses_NNS on_IN bread_NN were_VBD great_JJ ._.
+Great_NNP different_JJ date_NN spot_NN ._.

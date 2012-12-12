@@ -1,0 +1,6 @@
+K.I.S.S._NNP Keep_VB It_PRP Simple_NN Stupid_NNP ._.
+Pizza_NNP was_VBD intended_VBN to_TO taste_VB fresh_JJ and_CC simple_JJ ._.
+If_IN you_PRP come_VBP to_TO this_DT spot_NN order_NN a_DT simple_JJ Margherita_NNP Pizza_NNP and_CC add_VB 1_CD ,_, MAX_NNP 2_CD toppings_NNS ._.
+And_CC think_VB about_IN the_DT how_WRB the_DT flavors_NNS meld_VBP together_RB as_RB well_RB ._.
+Next_JJ time_NN I_PRP come_VBP here_RB I_PRP wil_VBP get_VB 1_CD topping_VBG and_CC no_DT more_JJR ._.
+The_DT pizza_NN is_VBZ n't_RB as_IN crispy_JJ as_IN I_PRP like_VBP but_CC they_PRP use_VBP fresh_JJ ingredients_NNS and_CC reminds_VBZ me_PRP of_IN pizza_NN I_PRP had_VBD in_IN Naples_NNP ._.

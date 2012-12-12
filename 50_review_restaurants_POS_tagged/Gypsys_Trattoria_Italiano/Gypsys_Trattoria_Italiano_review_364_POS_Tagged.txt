@@ -1,0 +1,34 @@
+Located_VBN in_IN Berkeley_NNP 's_POS ``_`` Ghetto_NNP food_NN court_NN ''_'' ,_, Gypsy_NNP 's_POS is_VBZ a_DT favorite_JJ amongst_IN Berkeley_NNP students_NNS ,_, especially_RB undergrads_NNS ,_, due_JJ to_TO its_PRP$ convenient_JJ ,_, fast_JJ food_NN style_NN ,_, entree_FW variety_NN and_CC above_IN average_JJ quality_NN relative_JJ to_TO cost_NN ._.
+-LRB-_-LRB- Scales_NNS are_VBP 1-5_CD ,_, same_JJ as_IN Yelp_NNP ratings_NNS -RRB-_-RRB- Atmosphere_NNP :_: 2_CD The_DT place_NN gets_VBZ very_RB busy_JJ during_IN lunch_NN and_CC dinner_NN on_IN most_JJS days_NNS ,_, especially_RB on_IN weekends_NNS ._.
+If_IN you_PRP want_VBP to_TO eat_VB in_IN ,_, try_VB doing_VBG it_PRP before_IN or_CC around_IN 6_CD pm_NN for_IN dinner_NN and_CC before_IN 12_CD or_CC after_IN 1:30_CD `_`` ish_VB for_IN lunch_NN ._.
+Otherwise_RB ,_, prepare_VB for_IN a_DT long_JJ line_NN -LRB-_-LRB- which_WDT ,_, to_TO their_PRP$ credit_NN ,_, goes_VBZ fast_RB -RRB-_-RRB- and_CC difficult_JJ to_TO find_VB seating_NN ._.
+This_DT is_VBZ not_RB a_DT great_JJ sit_VBP down_RP restaurant_NN ._.
+It_PRP caters_VBZ to_TO college_NN students_NNS who_WP come_VBP in_IN ,_, talk_VB loud_JJ ,_, answer_VB their_PRP$ cell_NN phones_NNS in_IN a_DT obnoxious_JJ and_CC pretentious_JJ manner_NN and_CC eat_VB fast_RB ._.
+The_DT cooks_NNS call_VBP out_RP your_PRP$ number_NN and_CC you_PRP pick_VBP it_PRP up_RP and_CC bring_VB it_PRP to_TO your_PRP$ table_NN ._.
+You_PRP dont_VBP bus_NN your_PRP$ own_JJ dishes_NNS ,_, as_IN someone_NN typically_RB comes_VBZ out_RP every_DT so_RB often_RB to_TO clean_VB up_RP tables_NNS ._.
+There_EX is_VBZ seating_VBG outside_JJ -LRB-_-LRB- available_JJ to_TO all_DT Ghetto_NNP food_NN court_NN restaurants_NNS -RRB-_-RRB- ._.
+,_, but_CC the_DT tables_NNS are_VBP usually_RB dirty_JJ ._.
+I_PRP normally_RB avoid_VBP eating_VBG in_IN -LRB-_-LRB- and_CC this_DT is_VBZ true_JJ for_IN all_PDT the_DT restaurants_NNS in_IN the_DT food_NN court_NN -RRB-_-RRB- ._.
+Take_VB out_RP and_CC eat_VB at_IN Sproul_NNP ._.
+At_IN least_JJS you_PRP can_MD people_NNS watch_VBP there_RB without_IN feeling_NN cramped_VBN ._.
+Service_NN :_: 3.5_CD The_DT service_NN is_VBZ relatively_RB quick_JJ ._.
+They_PRP dont_VBP go_VB out_IN of_IN their_PRP$ way_NN to_TO serve_VB you_PRP ,_, but_CC there_EX are_VBP no_DT real_JJ problems_NNS with_IN the_DT service_NN ._.
+The_DT guy_NN taking_VBG orders_NNS is_VBZ difficult_JJ to_TO understand_VB at_IN times_NNS ._.
+When_WRB you_PRP eat_VBP in_IN ,_, you_PRP pick_VBP up_RP the_DT food_NN from_IN the_DT counter_NN ._.
+And_CC sometimes_RB they_PRP take_VBP a_DT tad_NN too_RB long_RB to_TO bus_NN dishes_NNS and_CC clean_VB the_DT tables_NNS ._.
+They_PRP also_RB close_RB late_JJ for_IN those_DT who_WP need_VBP a_DT late_JJ dinner_NN ._.
+Food_NNP :_: 4_CD I_PRP 've_VBP tasted_VBN only_RB 3-4_CD entrees_NNS ,_, but_CC plan_NN on_IN trying_VBG out_RP a_DT few_JJ others_NNS in_IN the_DT future_NN ._.
+I_PRP really_RB like_VBP their_PRP$ Godfather_NNP 's_POS favorite_JJ dish_NN -LRB-_-LRB- penne_JJ pasta_NN with_IN thick_JJ white_JJ cream_NN sauce_NN -RRB-_-RRB- ._.
+Their_PRP$ other_JJ pasta_NN dishes_NNS are_VBP fine_JJ ._.
+The_DT dishes_NNS are_VBP filling_VBG ,_, come_VB with_IN bread_NN and_CC are_VBP big_JJ in_IN quantity_NN ._.
+I_PRP tried_VBD their_PRP$ calzones_NNS once_RB and_CC did_VBD not_RB find_VB it_PRP especially_RB appealing_VBG ._.
+I_PRP would_MD say_VB the_DT quantity_NN and_CC quality_NN are_VBP a_DT notch_NN above_IN something_NN like_IN pasta_NN pomodoro_NN but_CC lower_JJR than_IN a_DT nice_JJ dine_NN in_IN Italian_JJ restaurant_NN you_PRP would_MD fine_VB in_IN North_NNP Beach_NNP ._.
+Cost_NN :_: 4_CD Ca_MD n't_RB complain_VB about_IN the_DT cost_NN ._.
+It_PRP is_VBZ relatively_RB cheap_JJ for_IN good_JJ quantity_NN and_CC quality_NN ._.
+The_DT restaurant_NN caters_VBZ to_TO college_NN students_NNS ,_, so_IN the_DT cost_NN of_IN a_DT decent_JJ size_NN meal_NN matches_VBZ the_DT budget_NN of_IN its_PRP$ regular_JJ customers_NNS ._.
+Pros_NNS :_: Cheap_JJ but_CC good_JJ quantity_NN and_CC quality_NN ._.
+Closes_VBZ late_RB ._.
+Cons_NNS :_: Dont_JJ come_VBN here_RB for_IN the_DT dining_NN experience_NN ._.
+Long_JJ lines_NNS ,_, loud_JJ students_NNS and_CC limited_JJ seating_NN makes_VBZ this_DT place_NN more_JJR of_IN a_DT take_NN out_RP type_NN restaurant_NN ._.
+Best_JJS Entree_NNP :_: Godfather_NNP 's_POS Favorite_NNP ._.
+Worst_RBS Entree_NNP :_: Calzone_NNP Sample_NNP Size_NN :_: I_PRP have_VBP eaten_VBN here_RB over_IN a_DT dozen_NN times_NNS ._.

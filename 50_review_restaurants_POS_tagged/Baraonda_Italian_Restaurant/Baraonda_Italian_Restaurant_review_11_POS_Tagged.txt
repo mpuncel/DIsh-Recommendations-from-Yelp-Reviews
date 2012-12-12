@@ -1,0 +1,4 @@
+I_PRP love_VBP to_TO swing_VB in_IN here_RB after_IN a_DT show_NN at_IN the_DT Fox_NNP ._.
+I_PRP 've_VBP had_VBD quite_RB a_DT few_JJ different_JJ pizzas_NNS here_RB and_CC I_PRP 've_VBP enjoyed_VBN them_PRP all_DT ._.
+Good_JJ drinks_NNS ,_, great_JJ wine_NN list_NN ,_, and_CC the_DT atmosphere_NN is_VBZ cozy_JJ with_IN dim_NN lighting_NN ._.
+I_PRP do_VBP have_VB to_TO say_VB that_IN during_IN one_CD of_IN our_PRP$ visits_NNS ,_, we_PRP had_VBD to_TO suffer_VB through_IN service_NN that_WDT was_VBD sub-par_JJ ,_, but_CC overall_JJ I_PRP 've_VBP had_VBD great_JJ experiences_NNS at_IN Baraonda_NNP ._.

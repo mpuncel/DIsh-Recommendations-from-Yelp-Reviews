@@ -1,0 +1,4 @@
+Okay_UH ,_, I_PRP 'm_VBP not_RB witting_VBG a_DT book_NN like_IN everybody_NN else_RB here_RB ..._: Jeez_NN !_.
+What_WP you_PRP need_VBP to_TO know_VB :_: This_DT place_NN is_VBZ good_JJ ._.
+Food_NNP and_CC drinks_NNS ._.
+Price_NN is_VBZ reasonable_JJ ,_, ambiance_NN is_VBZ pleasant_JJ ,_, service_NN is_VBZ okay_JJ ,_, not_RB great_JJ ,_, not_RB bad_JJ ._.

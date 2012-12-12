@@ -1,0 +1,3 @@
+Chicken_NNP Parm_NNP Sandwich_NNP :_: DO_NNP NOT_NNP ORDER_NNP THIS_NNP EVER_RB ._.
+The_DT chicken_NN did_VBD not_RB taste_VB fresh_JJ at_IN all_DT ,_, the_DT cheese_NN was_VBD gross_JJ ,_, and_CC the_DT bread_NN was_VBD a_DT little_JJ stale_JJ ._.
+The_DT pasta_NN dishes_NNS are_VBP decent_JJ tho_NN !_.

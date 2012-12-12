@@ -1,0 +1,3 @@
+The_DT food_NN was_VBD ok_JJ but_CC the_DT service_NN was_VBD very_RB bad_JJ ._.
+The_DT waiter_NN treated_VBD us_PRP like_IN an_DT inconvenience_NN or_CC interruption_NN in_IN his_PRP$ day_NN ._.
+There_EX is_VBZ much_RB better_JJR Italian_JJ food_NN ,_, with_IN significantly_RB better_JJR service_NN ,_, right_RB up_IN Peachtree_NNP at_IN Cucina_NNP Asselina_NNP ._.

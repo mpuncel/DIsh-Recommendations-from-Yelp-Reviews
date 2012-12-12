@@ -1,0 +1,6 @@
+GREAT_JJ Authentic_JJ Italian_JJ style_NN pizza_NN ..._: Not_RB NYC_NNP style_NN ..._: It_PRP was_VBD my_PRP$ girlfriends_NNS and_CC my_PRP$ first_JJ time_NN there_RB ._.
+Until_IN now_RB ,_, Fellini_NNP 's_POS was_VBD our_PRP$ favorite_NN ._.
+We_PRP are_VBP both_DT from_IN NYC_NNP and_CC Fellini_NNP 's_POS is_VBZ closest_JJS to_TO the_DT pizza_NN there_RB ._.
+I_PRP have_VBP been_VBN to_TO Italy_NNP and_CC can_MD say_VB this_DT is_VBZ the_DT closest_JJS to_TO true_JJ Italian_JJ pizza_NN that_IN I_PRP have_VBP ever_RB had_VBN ._.
+The_DT ingredients_NNS were_VBD fresh_JJ and_CC tasy_JJ and_CC the_DT crust_NN was_VBD soft_JJ -LRB-_-LRB- except_IN for_IN a_DT bit_NN of_IN scorching_VBG around_IN the_DT outside_NN -RRB-_-RRB- ..._: Brick_NNP oven_CD style_NN baking_VBG !!!_CD ..._: Loved_VBD it_PRP ..._: My_PRP$ only_JJ complaints_NNS are_VBP the_DT selection_NN of_IN beverages_NNS ,_, the_DT limit_NN on_IN toppings_NNS -LRB-_-LRB- I_PRP could_MD n't_RB add_VB sausage_NN to_TO my_PRP$ pepperoni_NNS pie_NN -RRB-_-RRB- and_CC they_PRP did_VBD n't_RB sell_VB by_IN the_DT slice_NN ..._: Oh_UH ..._: the_DT girl_NN at_IN the_DT register_NN could_MD have_VB been_VBN a_DT bit_NN friendlier_NN ._.
+If_IN you_PRP have_VBP n't_RB been_VBN there_RB ,_, you_PRP MUST_VBP at_IN least_JJS try_VB it_PRP ._.

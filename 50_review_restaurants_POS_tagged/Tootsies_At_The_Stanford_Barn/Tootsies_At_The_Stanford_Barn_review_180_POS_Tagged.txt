@@ -1,0 +1,4 @@
+Hidden_NNP gem_NN at_IN Stanford_NNP -_: Authentic_NNP and_CC charming_JJ Italian_JJ cafe_NN ._.
+Friendly_RB service_NN ,_, excellent_JJ coffee_NN and_CC food_NN ._.
+Must_MD try_VB the_DT Zeppole_NNP ._.
+Bravo_NNP !_.

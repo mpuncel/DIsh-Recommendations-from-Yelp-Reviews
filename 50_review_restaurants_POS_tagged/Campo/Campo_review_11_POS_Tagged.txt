@@ -1,0 +1,3 @@
+Our_PRP$ holiday_NN party_NN was_VBD here_RB ,_, and_CC the_DT food_NN was_VBD okay_JJ -_: rice_NN balls_NNS ,_, some_DT saladas_NNS ,_, pizza_NN ,_, tiramasu_NN ,_, and_CC the_DT drinks_NNS were_VBD happy_JJ hour_NN until_IN 7pm_SYM -_: but_CC they_PRP lacked_VBD alcohol_NN ,_, their_PRP$ house_NN white_JJ wine_NN was_VBD just_RB all_DT right_RB ,_, nothing_NN too_RB special_JJ ,_, and_CC their_PRP$ bartender_NN was_VBD extremely_RB slow_JJ ._.
+I_PRP suggest_VBP trying_VBG another_DT spot_NN ,_, honestly_RB ._.
+If_IN it_PRP were_VBD n't_RB for_IN my_PRP$ holiday_NN party_NN ,_, I_PRP would_MD have_VB not_RB been_VBN here_RB on_IN a_DT Monday_NNP night_NN ._.

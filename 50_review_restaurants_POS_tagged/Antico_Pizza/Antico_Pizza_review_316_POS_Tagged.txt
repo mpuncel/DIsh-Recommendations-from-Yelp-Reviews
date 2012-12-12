@@ -1,0 +1,5 @@
+Yum_NNP The_NNP owner_NN has_VBZ given_VBN us_PRP free_JJ drinks_NNS ,_, free_JJ food_NN and_CC recipes_NNS ._.
+He_PRP usually_RB walks_VBZ around_RB and_CC talks_VBZ to_TO the_DT people_NNS making_VBG them_PRP feel_VB at_IN home_NN ._.
+The_DT pizza_NN is_VBZ easily_RB the_DT best_JJS pizza_NN in_IN the_DT US_NNP ._.
+The_DT ovens_NNS ,_, flour_NN ,_, tomatoes_NNS ,_, everything_NN is_VBZ imported_VBN from_IN Italy_NNP -_: make_VB a_DT trip_NN out_RB and_CC see_VB it_PRP ._.
+Highest_JJS recommendation_NN

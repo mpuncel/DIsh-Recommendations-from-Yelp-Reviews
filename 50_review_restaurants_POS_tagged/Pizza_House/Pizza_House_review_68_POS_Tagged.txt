@@ -1,0 +1,1 @@
+Food_NNP is_VBZ alright_JJ ,_, but_CC average_NN for_IN the_DT price_NN ._.

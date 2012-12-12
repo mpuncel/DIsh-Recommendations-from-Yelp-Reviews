@@ -1,0 +1,7 @@
+Sezz_NNP Medi_NNP is_VBZ a_DT good_JJ Neapolitan_NNP restaurant_NN that_WDT specializes_VBZ in_IN individual_JJ ,_, Italian-style_JJ -LRB-_-LRB- as_IN opposed_VBN to_TO Italian-American_JJ -RRB-_-RRB- ,_, brick-oven_JJ pizzas_NNS ._.
+The_DT place_NN is_VBZ cozy_JJ ,_, the_DT owner_NN is_VBZ cool_JJ and_CC the_DT service_NN is_VBZ cordial_JJ and_CC efficient_JJ ._.
+The_DT food_NN is_VBZ tasty_JJ and_CC the_DT all_PDT the_DT ingredients_NNS very_RB good_JJ ._.
+I_PRP only_RB give_VBP them_PRP three_CD stars_NNS ,_, however_RB ,_, because_IN every_DT time_NN I_PRP have_VBP been_VBN there_RB the_DT thin-crust_JJ pizzas_NNS ,_, though_IN tasty_JJ ,_, have_VBP been_VBN a_DT bit_NN soggy_JJ and_CC under-done_JJ ._.
+If_IN they_PRP left_VBD them_PRP in_IN that_DT pretty_JJ oven_CD a_DT little_RB longer_RBR I_PRP think_VBP it_PRP would_MD make_VB a_DT real_JJ difference_NN !_.
+Periodically_RB closes_VBZ down_RP for_IN no_DT apparent_JJ reason_NN for_IN extended_JJ periods_NNS ,_, so_RB a_DT little_JJ iffy_JJ in_IN that_DT way_NN too_RB ._.
+Otherwise_RB ,_, a_DT dependable_JJ neighborhood_NN spot_NN and_CC good_JJ for_IN take-out_JJ if_IN you_PRP 're_VBP living_VBG nearby_RB ._.

@@ -1,0 +1,6 @@
+Pros_NNS :_: You_PRP know_VBP what_WP ,_, I_PRP like_VBP Bertucci_NNP 's_POS ,_, okay_JJ ?_.
+It_PRP has_VBZ great_JJ bread_NN ,_, pretty_RB good_JJ food_NN -LRB-_-LRB- best_JJS bets_NNS :_: the_DT Salmon_NNP Florentine_NNP ,_, a_DT Caesar_NNP Salad_NNP ,_, or_CC maybe_RB an_DT all_DT right-ish_JJ pizza_NN -RRB-_-RRB- ,_, and_CC wine_NN ._.
+What_WP 's_VBZ your_PRP$ beef_NN ?_.
+Cons_NNS :_: Noisy_NNP ,_, noisy_JJ ,_, noisy_JJ and_CC a_DT tad_NN cramped_VBD ._.
+Balance_NN :_: PROS_NNS BOTTOM_VBP LINE_NN :_: Yes_UH ,_, it_PRP 's_VBZ a_DT chain_NN -LRB-_-LRB- so_RB ,_, believe_VBP it_PRP or_CC not_RB ,_, are_VBP many_JJ of_IN your_PRP$ favorite_JJ restaurants_NNS in_IN Boston_NNP -RRB-_-RRB- ._.
+But_CC for_IN Harvard_NNP Square_NNP ,_, when_WRB you_PRP need_VBP some_DT place_NN familiar_JJ that_DT 's_VBZ more_JJR formal_JJ than_IN Bartley_NNP 's_POS and_CC more_JJR casual_JJ than_IN Henrietta_NNP 's_POS ,_, this_DT is_VBZ a_DT good_JJ bet_NN ._.

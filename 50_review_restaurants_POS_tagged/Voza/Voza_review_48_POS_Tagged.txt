@@ -1,0 +1,3 @@
+This_DT tiny_JJ new_JJ neighborhood_NN restaurant_NN features_VBZ a_DT cozy_JJ atmosphere_NN with_IN heavy_JJ doses_NNS of_IN wood_NN and_CC exposed_VBN brick_NN ,_, and_CC a_DT small_JJ decorative_JJ loft_NN ._.
+Nearly_RB everything_NN about_IN the_DT place_NN is_VBZ perfect_JJ -_: wonderful_JJ service_NN ,_, extremely_RB reasonable_JJ prices_NNS -_: except_IN the_DT food_NN itself_PRP ,_, which_WDT tends_VBZ to_TO be_VB a_DT bit_NN on_IN the_DT bland_JJ side_NN ._.
+I_PRP 'm_VBP hoping_VBG that_IN the_DT cuisine_NN gets_VBZ better_RB with_IN time_NN ;_: until_IN then_RB ,_, I_PRP still_RB consider_VBP it_PRP worth_JJ stopping_VBG by_IN now_RB and_CC then_RB for_IN the_DT full_JJ experience_NN of_IN dining_VBG here_RB ._.

@@ -1,0 +1,6 @@
+One_CD of_IN my_PRP$ favorite_JJ restaurants_NNS in_IN Berkeley_NNP ._.
+Great_JJ prices_NNS ._.
+Great_NNP portions_NNS ._.
+Great_JJ food_NN ._.
+The_DT Calzones_NNP ,_, pizza_NN ,_, and_CC pasta_NN are_VBP all_DT good_JJ ._.
+My_PRP$ favorite_JJ is_VBZ the_DT meatball_NN calzone_NN ..._: put_VBD some_DT siracha_NN on_IN there_RB and_CC its_PRP$ simply_RB superb_JJ =_SYM D_NNP

@@ -1,0 +1,7 @@
+I_PRP live_VBP near_IN Ledos_NNP ,_, and_CC I_PRP love_VBP their_PRP$ pizza_NN ._.
+If_IN only_RB it_PRP did_VBD n't_RB take_VB so_RB long_RB to_TO get_VB it_PRP ._.
+Friday_NNP night_NN carryout_NN :_: 50-60_CD minutes_NNS ._.
+Wednesday_NNP night_NN dine_NN in_IN ,_, about_IN the_DT same_JJ ._.
+Crust_NN is_VBZ not_RB always_RB thin_JJ &_CC crispy_NN ._.
+Depends_NNS on_IN who_WP 's_VBZ cooking_NN ._.
+I_PRP prefer_VBP the_DT pizza_NN at_IN the_DT Ledos_NNP franchises_NNS ,_, which_WDT may_MD not_RB be_VB ``_`` authentic_JJ ''_'' but_CC is_VBZ consistently_RB good_JJ ._.

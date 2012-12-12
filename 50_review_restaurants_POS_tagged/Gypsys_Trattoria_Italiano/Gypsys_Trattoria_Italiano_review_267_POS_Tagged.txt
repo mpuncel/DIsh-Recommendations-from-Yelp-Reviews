@@ -1,0 +1,5 @@
+Love_NNP their_PRP$ special_JJ :_: House_NNP Salad_NNP with_IN choice_NN of_IN dressing_VBG +_CD ANY_NNP MENU_NNP ITEM_NNP +_NN drink_NN =_SYM $_$ 8_CD and_CC some_DT change_NN !_.
+Big_JJ portions_NNS ._.
+Always_RB more_JJR than_IN enough_RB so_IN I_PRP end_VBP up_RP having_VBG to_TO take_VB the_DT leftovers_NNS for_IN home_NN ._.
+Although_IN there_EX 's_VBZ a_DT $_$ 0.50_CD refill_NN and_CC the_DT staff_NN does_VBZ n't_RB always_RB smile_VB ..._: it_PRP 's_VBZ no_DT big_JJ deal_NN ._.
+The_DT food_NN is_VBZ great_JJ &_CC I_PRP 'd_MD come_VB back_RB again_RB ._.

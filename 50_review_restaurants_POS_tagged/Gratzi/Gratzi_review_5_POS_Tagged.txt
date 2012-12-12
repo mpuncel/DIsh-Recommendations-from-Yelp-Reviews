@@ -1,0 +1,4 @@
+I_PRP do_VBP n't_RB have_VB a_DT basis_NN for_IN comparison_NN locally_RB ,_, but_CC when_WRB compared_VBN to_TO italian_JJ restaurants_NNS near_IN Chicago_NNP at_IN the_DT same_JJ price_NN point_NN ,_, Gratzi_NNP is_VBZ very_RB underwhelming_JJ ._.
+Three_CD meals_NNS complete_JJ with_IN only_RB two_CD beers_NNS and_CC no_DT dessert_NN was_VBD $_$ 110.00_CD ._.
+In_IN general_JJ we_PRP found_VBD the_DT Ann_NNP Arbor_NNP restaurant_NN scene_NN a_DT little_JJ pretentious_JJ and_CC certainly_RB overpriced_VBN for_IN what_WP you_PRP could_MD get_VB ._.
+The_DT staff_NN was_VBD nice_JJ and_CC attentive_JJ ,_, but_CC do_VBP n't_RB expect_VB anyone_NN to_TO pronounce_VB the_DT name_NN of_IN the_DT entree_FW correctly_RB ._.

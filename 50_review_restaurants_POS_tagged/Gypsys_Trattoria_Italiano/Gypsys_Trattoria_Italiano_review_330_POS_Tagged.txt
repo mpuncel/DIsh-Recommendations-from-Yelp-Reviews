@@ -1,0 +1,3 @@
+Ate_VBD there_EX with_IN a_DT friend_NN a_DT few_JJ years_NNS ago_IN -_: there_EX was_VBD a_DT moth_NN in_IN her_PRP$ salad_NN ._.
+No_DT joke_NN -_: a_DT moth_NN ._.
+Enough_NNP said_VBD ._.

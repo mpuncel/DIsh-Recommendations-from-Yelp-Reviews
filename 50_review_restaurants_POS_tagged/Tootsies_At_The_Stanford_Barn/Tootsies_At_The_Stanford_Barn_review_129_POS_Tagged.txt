@@ -1,0 +1,3 @@
+Showed_VBN up_RP at_IN 9am_CD for_IN breakfast_NN on_IN a_DT Saturday_NNP when_WRB passing_VBG thru_NN Palo_NNP Alto_NNP ._.
+Had_VBD to_TO go_VB to_TO Joanies_NNP instead_RB ._.
+WTF_NNP Kind_NNP of_IN breakfast_NN place_NN does_VBZ n't_RB open_VB until_IN 10am_JJ ???_NN

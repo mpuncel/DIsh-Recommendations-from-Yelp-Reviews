@@ -1,0 +1,8 @@
+It_PRP all_DT started_VBD when_WRB a_DT movie-watching_JJ companion_NN suggested_VBD pizza_NN ._.
+I_PRP thought_VBD I_PRP would_MD try_VB Pizza_NNP House_NNP instead_RB of_IN my_PRP$ usual_JJ choice_NN of_IN Silvio_NNP 's_POS Organic_NNP ._.
+Our_PRP$ pepperoni_NNS and_CC mushroom_NN pizza_NN arrived_VBD within_IN the_DT 30-minute_JJ time_NN frame_NN ,_, which_WDT I_PRP appreciated_VBD ,_, but_CC the_DT flavor_NN especially_RB ``_`` meh_FW ._. ''_''
+I_PRP 've_VBP had_VBD better_RBR ;_: I_PRP 've_VBP had_VBD worse_JJR ._.
+The_DT pie_NN lacked_VBD sauce_NN ,_, and_CC the_DT crust_NN shared_VBD the_DT cardboard_NN flavor_NN of_IN the_DT box_NN ._.
+It_PRP was_VBD disappointing_JJ ,_, especially_RB since_IN I_PRP wanted_VBD my_PRP$ friend_NN to_TO try_VB something_NN specific_JJ to_TO Ann_NNP Arbor_NNP -LRB-_-LRB- and_CC Domino_NNP 's_POS and_CC Cottege_NNP Inn_NNP ,_, despite_IN their_PRP$ corporate_JJ presence_NN in_IN the_DT city_NN ,_, do_VBP n't_RB count_VB -RRB-_-RRB- ._.
+Perhaps_RB the_DT appeal_NN of_IN Pizza_NNP House_NNP resides_VBZ in_IN the_DT non-pizza_JJ options_NNS available_JJ for_IN delivery_NN when_WRB you_PRP want_VBP food_NN to_TO come_VB to_TO you_PRP with_IN little_JJ effort_NN but_CC you_PRP do_VBP n't_RB really_RB want_VB pizza_NN ._.
+Fortunately_RB ,_, there_EX was_VBD wine_NN to_TO make_VB up_RP for_IN the_DT disappointing_JJ taste_NN ._.

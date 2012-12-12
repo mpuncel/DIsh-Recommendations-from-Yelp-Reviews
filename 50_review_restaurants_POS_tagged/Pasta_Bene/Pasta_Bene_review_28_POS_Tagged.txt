@@ -1,0 +1,5 @@
+Fresh_JJ ,_, light_JJ ,_, and_CC tasty_JJ is_VBZ how_WRB I_PRP would_MD describe_VB their_PRP$ Italian_JJ food_NN ._.
+Got_VBD a_DT cesar_NN salad_NN ,_, tried_VBD the_DT bruschetta_NN ,_, and_CC had_VBD some_DT of_IN the_DT ham_NN pineapple_NN pizza_NN ._.
+Everything_NN was_VBD awesome_JJ ,_, and_CC I_PRP loved_VBD the_DT service_NN and_CC decor_NN ._.
+Very_RB relaxing_VBG ,_, modern_JJ ,_, and_CC peaceful_JJ ._.
+If_IN you_PRP are_VBP looking_VBG for_IN a_DT nice_JJ place_NN to_TO sit_VB down_RB and_CC relax_VB in_IN Berkeley_NNP ,_, which_WDT is_VBZ sometimes_RB hard_JJ to_TO find_VB ,_, I_PRP would_MD definitely_RB recommend_VB this_DT place_NN ._.

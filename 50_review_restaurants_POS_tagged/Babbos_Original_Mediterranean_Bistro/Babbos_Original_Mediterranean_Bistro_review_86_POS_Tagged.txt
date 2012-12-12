@@ -1,0 +1,5 @@
+Food_NNP and_CC service_NN are_VBP poor_JJ and_CC the_DT price_NN is_VBZ unjustifiable_JJ ._.
+The_DT prosciutto_NN e_SYM melone_FW for_IN $_$ 15_CD was_VBD 3_CD pieces_NNS of_IN unripe_JJ melon_NN with_IN a_DT piece_NN of_IN store_NN bought_VBD prosciutto_NN around_IN each_DT ._.
+The_DT pizza_NN crust_NN is_VBZ too_RB thick_JJ and_CC chewy_JJ for_IN a_DT real_JJ thin_JJ crust_NN pizza_NN and_CC the_DT pasta_NN is_VBZ far_RB from_IN al_JJ dente_NN ._.
+Our_PRP$ waiter_NN made_VBD was_VBD inattentive_JJ and_CC either_RB clueless_JJ or_CC downright_RB rude_JJ in_IN the_DT way_NN he_PRP addressed_VBD us_PRP ._.
+Will_MD not_RB be_VB going_VBG back_RB ._.

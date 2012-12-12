@@ -1,0 +1,7 @@
+800_CD Degrees_NNPS is_VBZ The_DT Counter_NNP of_IN pizza_NN places_NNS ._.
+Except_IN The_DT Counter_NNP has_VBZ fantastic_JJ burgers_NNS ,_, while_IN 800_CD Degrees_NNS has_VBZ OK_JJ pizza_NN ._.
+There_EX are_VBP tons_NNS of_IN options_NNS to_TO customize_VB your_PRP$ pizza_NN here_RB ._.
+But_CC be_VB careful_JJ ,_, too_RB many_JJ options_NNS and_CC your_PRP$ crust_NN does_VBZ n't_RB rise_VB well_RB and_CC comes_VBZ out_RP a_DT bit_NN soggy_JJ and_CC flimsy_JJ ._.
+You_PRP go_VBP for_IN the_DT gimmick_NN of_IN seeing_VBG a_DT pizza_NN cook_NN in_IN 60_CD seconds_NNS and_CC the_DT customizable_JJ options_NNS ._.
+I_PRP recommend_VBP that_IN people_NNS try_VBP this_DT once_RB ,_, for_IN sure_JJ ._.
+But_CC after_IN having_VBG been_VBN twice_RB ,_, there_EX is_VBZ just_RB better_JJR pizza_NN in_IN L.A._NNP

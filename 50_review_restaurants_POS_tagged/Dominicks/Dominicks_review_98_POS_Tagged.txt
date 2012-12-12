@@ -1,0 +1,10 @@
+Nice_JJ weather_NN +_NN Sangria_NNP =_SYM Patio_NNP season_NN at_IN Dominick_NNP 's_POS ._.
+While_IN visiting_VBG Ann_NNP Arbor_NNP the_DT weather_NN was_VBD n't_RB that_IN great_JJ but_CC on_IN our_PRP$ last_JJ day_NN in_IN the_DT city_NN ,_, the_DT sun_NN was_VBD blazing_VBG and_CC we_PRP had_VBD circled_VBN the_DT downtown_NN core_NN multiple_JJ times_NNS and_CC were_VBD looking_VBG for_IN something_NN else_RB to_TO do_VB ._.
+Then_RB a_DT light_JJ bulb_NN went_VBD off_RB and_CC i_FW remembered_VBD reading_VBG about_IN this_DT place_NN on_IN Yelp_NNP ,_, and_CC apparently_RB we_PRP werent_VBP the_DT only_JJ ones_NNS craving_NN sangria_NN ._.
+2_CD pm_NN at_IN Dominicks_NNP the_DT place_NN was_VBD packed_VBN ,_, the_DT crowd_NN was_VBD basically_RB all_DT twenty_CD somethings_NNS ,_, there_EX was_VBD great_JJ energy_NN ._.
+Probably_RB about_IN 80_CD percent_NN of_IN its_PRP$ occupants_NNS were_VBD guzzling_VBG sangria_NN ,_, which_WDT happens_VBZ to_TO be_VB my_PRP$ fav_NN summer_NN time_NN drink_NN ._.
+We_PRP both_DT ordered_VBD a_DT pint_NN size_NN glass_NN ,_, it_PRP was_VBD so_RB cheap_JJ and_CC absolutely_RB delicious_JJ ._.
+It_PRP was_VBD a_DT red_JJ wine_NN based_VBN sangria_NN ,_, and_CC i_FW love_NN how_WRB they_PRP literally_RB fill_VBP the_DT jar_NN to_TO the_DT rim_NN with_IN sangria_NN ,_, they_PRP do_VBP not_RB skimp_VB ._.
+As_IN we_PRP were_VBD drinking_VBG and_CC enjoying_VBG the_DT patio_NN ,_, we_PRP were_VBD on_IN the_DT verge_NN of_IN becoming_VBG day_NN wasted_VBN ,_, so_IN we_PRP ordered_VBD a_DT pizza_NN ._.
+We_PRP pretty_RB much_RB had_VBD low_JJ expectations_NNS for_IN the_DT pizza_NN ,_, but_CC it_PRP was_VBD great_JJ ,_, i_FW loved_VBD the_DT sauce_NN and_CC the_DT crust_NN tasted_VBD homemade_NN ._.
+Overall_JJ Dominicks_NNPS is_VBZ a_DT great_JJ spot_NN for_IN drinks_NNS and_CC bar_NN food_NN with_IN a_DT really_RB great_JJ vibe_NN ._.

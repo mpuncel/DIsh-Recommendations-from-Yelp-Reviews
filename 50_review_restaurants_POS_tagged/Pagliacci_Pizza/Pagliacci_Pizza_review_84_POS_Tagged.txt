@@ -1,0 +1,4 @@
+The_DT pizza_NN is_VBZ good_JJ -_: thin_JJ crust_NN ,_, tasty_JJ toppings_NNS and_CC not_RB too_RB heavy_JJ ._.
+I_PRP enjoy_VBP the_DT pepperoni_NNS or_CC meat-laden_JJ slices_NNS or_CC whole_JJ pizzas_NNS although_IN the_DT mushroom_NN supreme_NN is_VBZ pretty_RB good_JJ too_RB ._.
+The_DT Pagliacci_NNP salad_NN is_VBZ actually_RB really_RB tasty_JJ too_RB ._.
+Good_JJ fast_JJ service_NN ._.

@@ -1,0 +1,5 @@
+Food_NNP is_VBZ delicious_JJ ._.
+Owner_NNP is_VBZ proud_JJ of_IN his_PRP$ establishment_NN and_CC takes_VBZ pains_NNS to_TO deliver_VB utmost_JJ quality_NN in_IN food_NN and_CC service_NN ._.
+Wonderful_JJ ambiance_NN with_IN outdoor_JJ seating_NN ._.
+I_PRP only_RB wish_VBP it_PRP were_VBD open_JJ for_IN more_JJR hours_NNS in_IN the_DT day_NN !_.
+Simply_RB outstanding_JJ ._.

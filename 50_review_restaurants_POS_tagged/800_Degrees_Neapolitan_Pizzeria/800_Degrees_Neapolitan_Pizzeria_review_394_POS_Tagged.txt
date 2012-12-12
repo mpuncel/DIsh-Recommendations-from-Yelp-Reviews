@@ -1,0 +1,7 @@
+The_DT pizza_NN is_VBZ OK_JJ ,_, I_PRP 've_VBP had_VBD worse_JJR ,_, I_PRP 've_VBP had_VBD better_RBR ._.
+2.5_CD stars_NNS would_MD be_VB more_RBR accurate_JJ ,_, but_CC 800_CD degrees_NNS has_VBZ a_DT nice_JJ concept_NN and_CC atmosphere_NN to_TO eat_VB at_IN ._.
+The_DT pizza_NN comes_VBZ very_RB fast_RB and_CC it_PRP is_VBZ at_IN a_DT good_JJ price_NN with_IN a_DT good_JJ selection_NN of_IN toppings_NNS ._.
+However_RB ,_, being_VBG a_DT pizza_NN connoisseur_NN ,_, 800_CD degrees_NNS passes_VBZ ,_, but_CC barely_RB ._.
+The_DT crust_NN doughy_NN ,_, the_DT cheese_NN was_VBD gooey_JJ and_CC each_DT slice_NN took_VBD a_DT long_JJ time_NN to_TO chew_VB ._.
+I_PRP found_VBD some_DT ,_, but_CC not_RB a_DT whole_JJ lot_NN ,_, of_IN flavor_NN to_TO the_DT pizza_NN ._.
+I_PRP 'll_MD probably_RB be_VB back_RB ,_, if_IN I_PRP 'm_VBP in_IN a_DT hurry_NN for_IN pizza_NN ,_, but_CC it_PRP 's_VBZ not_RB a_DT place_NN I_PRP 'd_MD go_VB out_IN of_IN my_PRP$ way_NN to_TO ._.

@@ -1,0 +1,8 @@
+Two_CD words_NNS :_: BEEFSTEAK_NNP SUNDAY_NNP ._.
+Seriously_RB --_: all_RB you_PRP can_MD eat_VB and_CC drink_VB for_IN $_$ 25_CD ?_.
+Deal_NNP ._.
+The_DT ambiance_NN is_VBZ great_JJ ,_, and_CC despite_IN the_DT smallish_JJ size_NN of_IN the_DT interior_NN ,_, Bacaro_NNP is_VBZ a_DT super_JJ awesome_JJ place_NN to_TO go_VB with_IN friends_NNS ._.
+My_PRP$ boyfriend_NN and_CC his_PRP$ friends_NNS live_VBP across_IN the_DT street_NN ,_, and_CC it_PRP 's_VBZ definitely_RB their_PRP$ #_# 1_CD hangout_NN spot_NN --_: especially_RB on_IN Beefsteak_NNP days_NNS ._.
+The_DT food_NN is_VBZ delicious_JJ ,_, and_CC there_EX 's_VBZ an_DT ungodly_JJ amount_NN of_IN wine_NN to_TO choose_VB from_IN ._.
+I_PRP 'm_VBP a_DT wine_NN junkie_NN ,_, so_RB naturally_RB ,_, when_WRB I_PRP go_VBP to_TO Bacaro_NNP I_PRP 'm_VBP in_IN heaven_NN ._.
+The_DT staff_NN is_VBZ also_RB really_RB amazing_JJ ._.

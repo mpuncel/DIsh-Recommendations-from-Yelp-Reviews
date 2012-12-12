@@ -1,0 +1,7 @@
+We_PRP arrived_VBD Saturday_NNP April_NNP 4_CD ,_, 2009_CD at_IN 5:15_CD pm_NN ._.
+Ledo_NNP 's_POS was_VBD less_JJR than_IN half_DT full_JJ ,_, but_CC it_PRP took_VBD exactly_RB one_CD hour_NN before_IN we_PRP got_VBD our_PRP$ pizzas_NNS ._.
+The_DT service_NN was_VBD crappy_JJ ,_, and_CC we_PRP never_RB received_VBD an_DT explanation_NN or_CC an_DT apology_NN ._.
+How_WRB was_VBD the_DT pizza_NN ?_.
+If_IN you_PRP like_IN thick_JJ crust_NN pizza_NN ,_, you_PRP 'll_MD hate_VB this_DT type_NN ._.
+It_PRP 's_VBZ thin_JJ crust_NN ,_, hard_RB ,_, and_CC burnt_JJ on_IN the_DT bottom_NN ._.
+I_PRP 'll_MD never_RB go_VB there_RB again_RB !_.

@@ -1,0 +1,11 @@
+Food_NNP :_: Very_RB good_JJ ._.
+Came_NNP here_RB with_IN my_PRP$ friend_NN after_IN drooling_VBG over_IN Italian_JJ cooking_NN shows_NNS for_IN two_CD hours_NNS ._.
+We_PRP ordered_VBD the_DT meat_NN and_CC cheese_NN plate_NN -LRB-_-LRB- very_RB good_JJ -RRB-_-RRB- ,_, marinated_VBN mushrooms_NNS -LRB-_-LRB- good_JJ -RRB-_-RRB- ,_, eggplant_NN -LRB-_-LRB- kind_NN of_IN strange_JJ -_: tasted_VBN like_IN chopped_VBN up_RP balsamic-soaked_JJ nothing_NN -RRB-_-RRB- ,_, marinated_VBN olives_NNS -LRB-_-LRB- standard_NN -RRB-_-RRB- ,_, farfalle_NN with_IN sausage_NN and_CC broccoli_NNS rabe_VBP -LRB-_-LRB- very_RB good_JJ -RRB-_-RRB- ,_, tiramisu_NN -LRB-_-LRB- excellent_JJ -RRB-_-RRB- and_CC capuccinos_NNS -LRB-_-LRB- also_RB great_JJ -RRB-_-RRB- ._.
+While_IN there_EX were_VBD a_DT few_JJ misses_VBZ ,_, most_JJS of_IN it_PRP was_VBD exactly_RB what_WP we_PRP were_VBD craving_NN ,_, and_CC I_PRP love_VBP that_IN they_PRP allow_VBP you_PRP to_TO order_VB antipasti_NNS like_IN it_PRP 's_VBZ sushi_NN ,_, with_IN a_DT paper_NN menu_NN and_CC pencil_NN on_IN each_DT table_NN ._.
+Service_NNP :_: I_PRP was_VBD n't_RB expecting_VBG it_PRP to_TO be_VB great_JJ after_IN reading_VBG the_DT reviews_NNS ,_, but_CC we_PRP had_VBD excellent_JJ service_NN ._.
+Everyone_NN was_VBD attentive_JJ and_CC polite_JJ ,_, always_RB removing_VBG dishes_NNS and_CC refilling_VBG water_NN ._.
+The_DT only_JJ small_JJ thing_NN that_WDT was_VBD off_RB was_VBD the_DT timing_NN of_IN antipasti_NNS vs_NNS main_JJ course_NN ,_, which_WDT came_VBD out_RP before_IN we_PRP were_VBD even_RB close_JJ to_TO making_VBG a_DT dent_NN in_IN our_PRP$ cheese_NN ._.
+Ambiance_NNP :_: Great_NNP ,_, we_PRP came_VBD here_RB on_IN a_DT Saturday_NNP and_CC it_PRP was_VBD n't_RB too_RB crowded_JJ ,_, but_CC still_RB had_VBD some_DT groups_NNS celebrating_VBG and_CC families_NNS dining_VBG together_RB ._.
+The_DT decor_NN and_CC lighting_NN was_VBD nice_JJ ._.
+I_PRP would_MD definitely_RB come_VB here_RB again_RB ,_, maybe_RB to_TO try_VB our_PRP$ brunch_NN ?_.
+Now_RB I_PRP know_VBP where_WRB to_TO go_VB when_WRB I_PRP get_VBP carried_VBN away_RB watching_VBG cooking_NN shows_NNS again_RB ..._:

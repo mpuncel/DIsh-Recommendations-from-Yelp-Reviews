@@ -1,0 +1,2 @@
+Baraonda_NNP Haiku_NNP Review_NNP Is_VBZ there_EX such_PDT a_DT thing_NN as_IN less_JJR than_IN great_JJ Risotto_NNP ?_.
+Not_RB at_IN Baraonda_NNP !_.

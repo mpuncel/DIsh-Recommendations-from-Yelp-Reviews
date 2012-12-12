@@ -1,0 +1,5 @@
+I_PRP 've_VBP had_VBD seafood_NN pasta_NN at_IN possibly_RB over_IN 100_CD restaurants_NNS ._.
+The_DT seafood_NN was_VBD much_JJ fresher_JJR than_IN average_NN -LRB-_-LRB- even_RB the_DT mussels_NNS which_WDT typically_RB restaurants_NNS can_MD never_RB get_VB right_JJ -RRB-_-RRB- ._.
+The_DT pasta_NN noodles_NNS were_VBD very_RB good_JJ as_RB well_RB as_IN the_DT sauce_NN ._.
+I_PRP would_MD have_VB liked_VBN a_DT bit_NN more_RBR flavor_NN with_IN the_DT sauce_NN as_IN it_PRP was_VBD difficult_JJ to_TO taste_VB when_WRB eating_VBG the_DT pasta_NN noodles_NNS ._.
+Complimentary_NNP bread_NN was_VBD basic_JJ ._.

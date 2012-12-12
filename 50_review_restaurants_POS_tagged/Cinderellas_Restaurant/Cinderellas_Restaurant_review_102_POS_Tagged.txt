@@ -1,0 +1,5 @@
+I_PRP LOVE_VBP LOVE_NN LOVE_NN this_DT place_NN ._.
+I_PRP order_VBP from_IN them_PRP about_IN 3_CD times_NNS a_DT week_NN ._.
+Excellent_JJ customer_NN service_NN and_CC great_JJ food_NN ._.
+Try_VB their_PRP$ garden_NN salad_NN and_CC their_PRP$ fried_JJ ravioli_NNS ._.
+absolutely_RB delicious_JJ ._.

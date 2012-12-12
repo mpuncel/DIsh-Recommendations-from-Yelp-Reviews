@@ -1,0 +1,6 @@
+This_DT is_VBZ one_CD of_IN the_DT nicest_JJS restaurants_NNS in_IN the_DT Claremont_NNP village_NN ._.
+The_DT seafood_NN selection_NN is_VBZ fantastic_JJ ._.
+However_RB ,_, the_DT restaurant_NN is_VBZ usually_RB crowded_VBN and_CC is_VBZ pretty_RB dark_JJ ._.
+The_DT vegetarian_JJ options_NNS are_VBP sparse_JJ ,_, and_CC service_NN is_VBZ Meh_NNP because_IN they_PRP are_VBP so_RB busy_JJ ._.
+This_DT is_VBZ a_DT great_JJ place_NN to_TO go_VB to_TO impress_VB a_DT date_NN -_: pricey_JJ ,_, but_CC the_DT classiest_JJS -LRB-_-LRB- in_IN a_DT stereotypical_JJ way_NN -RRB-_-RRB- place_NN in_IN the_DT village_NN ._.
+However_RB ,_, for_IN great_JJ food_NN -LRB-_-LRB- slightly_RB more_RBR limited_JJ menu_NN -RRB-_-RRB- and_CC an_DT even_RB more_RBR intimate_JJ setting_NN ,_, try_VBP La_NNP Piccoletta_NNP ._.

@@ -1,0 +1,7 @@
+Very_NNP East_NNP Coast_NNP style_NN ,_, thin_JJ but_CC packed_JJ with_IN flavor_NN ._.
+If_IN you_PRP like_IN doughey_NN pizza_NN ,_, this_DT place_NN is_VBZ n't_RB your_PRP$ stop_NN ._.
+Pesto_NNP is_VBZ always_RB a_DT favorite_NN of_IN mine_NN ._.
+Azio_NNP special_JJ is_VBZ another_DT favorite_JJ from_IN fellow_JJ SF_NNP travellers_NNS ._.
+Hawaiian_JJ was_VBD okay_JJ and_CC bbq_NN chicken_NN deserves_VBZ a_DT high_JJ 3_CD stars_NNS ._.
+Stayed_VBN in_IN ATL_NNP 4_CD days_NNS and_CC ate_VBD Azio_NNP 3_CD times_NNS ._.
+It_PRP 's_VBZ definitely_RB better_JJR than_IN Z_NN pizza_NN around_IN the_DT corner_NN ._.

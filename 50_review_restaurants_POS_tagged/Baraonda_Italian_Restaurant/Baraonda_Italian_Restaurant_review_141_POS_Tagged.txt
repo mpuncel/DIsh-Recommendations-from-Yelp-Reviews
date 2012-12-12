@@ -1,0 +1,5 @@
+Take_VB it_PRP from_IN this_DT 100_CD %_NN Italian_JJ guy_NN from_IN New_NNP York_NNP ._. ._.
+This_DT is_VBZ the_DT best_JJS italian_JJ food_NN in_IN the_DT city_NN ._.
+Excellent_JJ Pizzas_NNP ,_, pastas_NNS and_CC wine_NN selection_NN ._.
+Great_NNP place_NN to_TO go_VB out_RP with_IN a_DT group_NN ..._: This_DT is_VBZ where_WRB me_PRP and_CC the_DT boys_NNS from_IN the_DT Italian_JJ club_NN meet_VBP ._. ._.
+that_DT should_MD say_VB it_PRP all_DT ._.

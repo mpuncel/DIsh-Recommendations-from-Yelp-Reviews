@@ -1,0 +1,1 @@
+Great_JJ food_NN ,_, great_JJ atmosphere_NN ,_, great_JJ place_NN to_TO get_VB away_RB and_CC a_DT nice_JJ dinner_NN with_IN the_DT wife_NN

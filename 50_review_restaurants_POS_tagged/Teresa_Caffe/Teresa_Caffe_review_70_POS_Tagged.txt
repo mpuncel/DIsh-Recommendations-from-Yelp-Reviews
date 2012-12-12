@@ -1,0 +1,5 @@
+Cute_JJ little_JJ place_NN right_RB off_IN the_DT Princeton_NNP University_NNP campus_NN ._.
+I_PRP was_VBD here_RB one_CD weekend_NN with_IN some_DT colleagues_NNS ._.
+Bread_NN and_CC olive_JJ oil_NN were_VBD delicious_JJ ,_, as_IN was_VBD the_DT chicken_NN salad_NN pizza_NN ._.
+We_PRP arrived_VBD around_IN 11:30_CD on_IN a_DT Saturday_NNP and_CC were_VBD able_JJ to_TO get_VB seats_NNS with_IN no_DT problem_NN ,_, but_CC it_PRP sure_JJ filled_VBN up_RP ._.
+Lots_NNS of_IN families_NNS when_WRB we_PRP were_VBD there_RB ,_, but_CC probably_RB the_DT place_NN probably_RB gets_VBZ lots_NNS of_IN college_NN students_NNS at_IN night_NN ,_, when_WRB reservations_NNS are_VBP highly_RB recommended_VBN ._.

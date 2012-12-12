@@ -1,0 +1,4 @@
+Location_NNP ,_, brick_NN oven_CD pizza_NN and_CC caprese_NN salad_NN are_VBP huge_JJ hits_NNS ._.
+Very_RB cool_JJ atmosphere_NN ..._: big_JJ corner_NN windows_NNS and_CC inviting_VBG decor_NN --_: and_CC VERY_RB FUNNY_JJ shirts_NNS the_DT staff_NN wears_VBZ ..._: make_VB sure_JJ to_TO read_VB the_DT quote_NN on_IN the_DT back_NN ._.
+Goes_VBZ something_NN like_IN this_DT :_: ``_`` HEAVEN_NN is_VBZ where_WRB the_DT police_NNS are_VBP British_JJ ,_, the_DT cooks_NNS Italian_JJ ,_, the_DT mechanics_NNS German_JJ ,_, the_DT Lovers_NNP French_NNP ,_, and_CC it_PRP is_VBZ all_DT organized_VBN by_IN the_DT Swiss_NNP ._.
+HELL_NN is_VBZ wehre_VB the_DT chefs_NNS are_VBP British_JJ ,_, the_DT mechanics_NNS are_VBP French_JJ ,_, the_DT lovers_NNS Swiss_JJ ,_, the_DT police_NN German_JJ ,_, and_CC it_PRP is_VBZ all_DT organized_VBN by_IN the_DT Italians_NNPS ''_'' :_: -RRB-_-RRB-

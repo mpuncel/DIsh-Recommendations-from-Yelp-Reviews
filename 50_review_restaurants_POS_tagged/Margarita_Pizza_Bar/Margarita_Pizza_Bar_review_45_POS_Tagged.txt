@@ -1,0 +1,9 @@
+Probably_RB the_DT nicest_JJS restaurant_NN near_IN USC_NNP campus_NN ._.
+They_PRP stay_VBP open_JJ late_JJ which_WDT is_VBZ convenient_JJ ._.
+On_IN a_DT Saturday_NNP night_NN they_PRP take_VBP their_PRP$ last_JJ food_NN orders_NNS at_IN 11:30_CD pm_NN ._.
+The_DT ambiance_NN is_VBZ nice\/upscale_JJ ._.
+I_PRP ordered_VBD the_DT margarita_NN salad_NN which_WDT was_VBD fresh_JJ ,_, and_CC well_RB prepared_VBN with_IN candied_JJ walnuts_NNS ,_, sundried_VBN tomatoes_NNS ,_, and_CC blue_JJ cheese_NN ._.
+I_PRP also_RB got_VBD the_DT lasagna_NN ,_, which_WDT tasted_VBD pretty_RB good_JJ and_CC it_PRP had_VBD a_DT lot_NN of_IN extra_JJ tomato_NN sauce_NN which_WDT was_VBD gread_NN for_IN dipping_VBG bread_NN ._.
+Speaking_VBG of_IN bread_NN they_PRP serve_VBP complimentary_JJ focaccia_NN bread_NN which_WDT was_VBD delicious_JJ and_CC fresh_JJ ._.
+Overall_RB ,_, the_DT food_NN was_VBD n't_RB bad_JJ ,_, however_RB the_DT prices_NNS were_VBD on_IN the_DT steep_JJ side_NN -LRB-_-LRB- $_$ 10_CD for_IN the_DT salad_NN and_CC $_$ 15_CD for_IN the_DT lasagna_NN -RRB-_-RRB- ._.
+I_PRP had_VBD a_DT discount_NN card_NN for_IN a_DT 10_CD %_NN discount_NN which_WDT helped_VBD though_RB ._.

@@ -1,0 +1,6 @@
+This_DT is_VBZ a_DT nice_JJ quaint_NN Princeton_NNP eatery_NN ._.
+The_DT food_NN is_VBZ great_JJ and_CC the_DT location_NN is_VBZ perfect_JJ ._.
+Great_NNP place_NN to_TO bring_VB your_PRP$ wife_NN -LRB-_-LRB- and_CC if_IN kids_NNS are_VBP with_IN you_PRP ,_, it_PRP still_RB works_VBZ out_RP well_RB ._. -RRB-_-RRB-
+The_DT Pasta_NNP Fagioli_NNP is_VBZ great_JJ ._.
+The_DT thin_JJ pizza_NN is_VBZ great_JJ ._.
+The_DT bread_NN is_VBZ great_JJ ._.

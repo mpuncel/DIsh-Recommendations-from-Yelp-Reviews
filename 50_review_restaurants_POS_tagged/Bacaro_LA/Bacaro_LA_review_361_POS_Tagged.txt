@@ -1,0 +1,9 @@
+Food_NNP :_: Extremely_RB yummy_NN !_.
+everything_NN I_NN have_VBP had_VBN was_VBD absolutely_RB delicious_JJ ._.
+Two_CD of_IN the_DT must_MD try_VB are_VBP the_DT scallops_NNS and_CC the_DT open_JJ face_NN burger_NN ._.
+They_PRP also_RB have_VBP great_JJ wine_NN selections_NNS ._.
+Service_NNP :_: Attentive_JJ ._.
+Although_IN they_PRP were_VBD busy_JJ ,_, they_PRP still_RB took_VBD the_DT time_NN to_TO take_VB care_NN of_IN us_PRP ._.
+Price_NN :_: priced_VBN well_RB for_IN the_DT food_NN ._.
+Other_JJ :_: very_RB tiny_JJ ._.
+Not_RB good_JJ for_IN groups_NNS ._.

@@ -1,0 +1,5 @@
+Great_NNP concept_NN ,_, great_JJ price_NN point_NN ,_, and_CC fresh_JJ ingredients_NNS ._.
+Definitely_RB not_RB the_DT best_JJS pizza_NN in_IN LA_NNP ,_, but_CC you_PRP can_MD get_VB that_DT fancy_JJ pizza_NN you_PRP always_RB wanted_VBD at_IN half_PDT the_DT price_NN ._.
+Normal_JJ people_NNS can_MD probably_RB share_VB one_CD pizza_NN and_CC a_DT salad_NN ._.
+Make_NNP sure_RB you_PRP tell_VBP them_PRP you_PRP want_VBP it_PRP crispy_JJ -_: they_PRP are_VBP stuck_VBN on_IN the_DT idea_NN that_IN it_PRP should_MD come_VB out_RP in_IN a_DT minute_NN ,_, but_CC I_PRP think_VBP it_PRP still_RB needs_VBZ to_TO be_VB in_IN there_EX a_DT bit_RB longer_RBR ._.
+Nobody_NN likes_VBZ soggy_JJ pizza_NN ._.

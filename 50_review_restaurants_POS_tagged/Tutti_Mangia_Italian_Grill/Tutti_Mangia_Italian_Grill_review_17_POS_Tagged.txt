@@ -1,0 +1,5 @@
+This_DT is_VBZ pretty_RB much_RB a_DT 5_CD star_NN restaurant_NN ._.
+I_PRP had_VBD pumpkin_VBN ravioli_NNS with_IN pancetta_NN ,_, leeks_NNS and_CC potato_NN slivers_NNS on_IN top_JJ ,_, a_DT bleu_NN cheese_NN salad_NN and_CC something_NN ridiculous_JJ for_IN dessert_NN like_IN a_DT tiramisu_NN ._.
+The_DT atmosphere_NN is_VBZ very_RB nice_JJ ._.
+I_PRP just_RB feel_VB funny_JJ about_IN the_DT fact_NN that_IN what_WP I_PRP ate_VBD was_VBD billed_VBN at_IN 70_CD bucks_NNS ,_, no_DT drinks_NNS ._.
+Would_MD feel_VB worse_JJR if_IN I_PRP had_VBD n't_RB been_VBN treated_VBN by_IN a_DT friend_NN ._.

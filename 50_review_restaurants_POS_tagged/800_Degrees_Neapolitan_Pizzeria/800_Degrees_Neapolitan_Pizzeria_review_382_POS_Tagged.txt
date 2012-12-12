@@ -1,0 +1,3 @@
+You_PRP get_VBP to_TO customize_VB your_PRP$ pizza_NN ,_, the_DT ingredients_NNS are_VBP all_DT FRESH_NNP and_CC high_JJ quality_NN ,_, you_PRP can_MD watch_VB your_PRP$ pizza_NN get_VB made_VBN ,_, and_CC the_DT crust_NN is_VBZ PERFECT_NNP -_: thin_JJ but_CC still_RB soft_JJ ,_, not_RB crispy_JJ !_.
+-LRB-_-LRB- although_IN if_IN you_PRP like_IN crispy_JJ you_PRP can_MD ask_VB to_TO have_VB them_PRP make_VB it_PRP that_DT way_NN -RRB-_-RRB- ._.
+I_PRP have_VBP only_RB been_VBN once_RB so_IN I_PRP have_VBP n't_RB tried_VBD the_DT salad_NN or_CC gelato_NN or_CC anything_NN else_RB but_CC I_PRP love_VBP it_PRP and_CC will_MD be_VB back_RB ._.

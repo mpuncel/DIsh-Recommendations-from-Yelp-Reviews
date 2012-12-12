@@ -1,0 +1,3 @@
+Great_JJ food_NN in_IN a_DT convenient_JJ Westwood_NNP location_NN ._.
+This_DT place_NN remains_VBZ small_JJ and_CC unassuming_JJ while_IN consistently_RB delivering_VBG some_DT of_IN the_DT best_JJS Italian_JJ food_NN on_IN the_DT west_NN side_NN ._.
+It_PRP is_VBZ certainly_RB more_JJR of_IN a_DT cafe_NN experience_NN than_IN fine_JJ dining_NN ,_, but_CC for_IN quick_JJ ,_, inexpensive_JJ Italian_JJ food_NN ,_, there_EX is_VBZ no_DT one_NN that_WDT can_MD compare_VB ._.

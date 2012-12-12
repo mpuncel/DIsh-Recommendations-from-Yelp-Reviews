@@ -1,0 +1,7 @@
+Yep_NNP ._.
+Great_NNP pie_NN ._.
+Friendly_RB staff_NN ._.
+Super_NNP quick_JJ service_NN ._.
+Not_RB crazy_JJ expensive_JJ ._.
+I_PRP 'm_VBP not_RB sure_JJ if_IN I_PRP like_VBP or_CC do_VBP n't_RB like_VB the_DT lack_NN of_IN seating_NN ._.
+While_IN I_PRP wish_VBP I_PRP could_MD have_VB dug_VBN in_IN a_DT bit_NN sooner_RBR ,_, the_DT take_VB out_RP only_RB concept_NN keeps_VBZ it_PRP casual_JJ ,_, which_WDT is_VBZ a_DT good_JJ thing_NN ._.

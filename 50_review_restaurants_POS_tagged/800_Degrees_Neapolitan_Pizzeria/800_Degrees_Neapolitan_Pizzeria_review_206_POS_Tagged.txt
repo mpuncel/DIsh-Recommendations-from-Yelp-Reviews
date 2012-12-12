@@ -1,0 +1,7 @@
+Place_NNP hits_VBZ the_DT hype_NN for_IN sure_JJ ._.
+Extremely_RB well_RB done_VBN concept_NN ._.
+I_PRP like_VBP the_DT pizza_NN a_DT little_RB more_JJR than_IN the_DT salads_NNS ,_, but_CC I_PRP continue_VBP to_TO order_VB both_DT -LRB-_-LRB- I_PRP usually_RB get_VBP Gorgonzola_NNP salad_NN -RRB-_-RRB- ._.
+Tip_NNP :_: There_EX are_VBP usually_RB lines_NNS out_IN the_DT door_NN ._.
+If_IN you_PRP know_VBP what_WP you_PRP want_VBP ,_, skip_VBP the_DT line_NN and_CC call_VB the_DT order_NN in_IN ._.
+Then_RB you_PRP get_VBP to_TO skip_VB to_TO front_NN of_IN the_DT line_NN whether_IN you_PRP 're_VBP eating_VBG in_IN or_CC out_IN ._.
+Def_NNP one_CD of_IN my_PRP$ faves_NNS ._.

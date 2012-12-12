@@ -1,0 +1,5 @@
+Meh_NNP good_JJ fast_JJ food_NN pasta_NN ._.
+simple_JJ as_IN that_DT ._.
+I_PRP always_RB felt_VBD it_PRP needed_VBD something_NN not_RB sure_JJ what_WP ._.
+Found_JJ myself_PRP adding_VBG a_DT little_JJ bit_NN of_IN salt_NN on_IN my_PRP$ pasta_NN ._.
+Its_PRP$ not_RB bad_JJ but_CC it_PRP needs_VBZ a_DT little_JJ something_NN to_TO give_VB it_PRP some_DT legs_NNS ._.

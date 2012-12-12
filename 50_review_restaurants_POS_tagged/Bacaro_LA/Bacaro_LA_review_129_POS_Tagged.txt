@@ -1,0 +1,9 @@
+yum_NN !_.
+good_JJ steak_NN ._.
+good_JJ potatoes_NNS ._.
+maybe_RB a_DT little_JJ salty_NN ,_, but_CC it_PRP 's_VBZ a_DT good_JJ salty_NN ._.
+tasy_JJ wine_NN ._.
+tasty_JJ beer_NN ._.
+great_JJ service_NN ._.
+romantic_JJ setting_VBG except_IN that_IN the_DT acoustics_NNS make_VBP it_PRP so_IN that_IN it_PRP 's_VBZ very_RB loud_JJ ._.
+for_IN the_DT price_NN of_IN the_DT beefsteak_NN Sunday_NNP ,_, i_FW 'd_MD definitely_RB go_VB back_RB ,_, and_CC i_FW 'm_VBP not_RB even_RB a_DT fan_NN of_IN ayce_NN ._.

@@ -1,0 +1,12 @@
+Great_NNP find_VB in_IN Westwood_NNP ,_, and_CC absolutely_RB a_DT place_NN I_PRP would_MD frequent_JJ had_VBD I_PRP found_VBD it_PRP sooner_RBR !_.
+The_DT menu_NN features_VBZ ``_`` Mediterranean_NNP ,_, ''_'' which_WDT places_VBZ kabobs_NNS alongside_IN paninis_NNS ._.
+I_PRP 'm_VBP not_RB sure_JJ how_WRB I_PRP feel_VBP about_IN this_DT ,_, but_CC I_PRP will_MD say_VB that_IN the_DT portion_NN sizes_NNS are_VBP great_JJ ._.
+I_PRP really_RB love_VBP the_DT options_NNS for_IN sides_NNS :_: Caesar_NNP salad_NN ,_, mediterranean_JJ salad_NN ,_, romaine_NN avocado_NN salad_NN ,_, lentil_NN soup_NN ,_, chicken_NN soup_NN ,_, pasta_NN salad_NN ,_, wheat_NN couscous_NN ,_, fruit_NN cup_NN Honestly_RB ,_, the_DT couscous_NN is_VBZ great_JJ for_IN its_PRP$ texture_NN and_CC lightness_NN paired_VBN with_IN a_DT heavier_JJR panino_NN ._.
+The_DT romaine_NN avocado_NN is_VBZ wonderful_JJ ,_, as_RB well_RB ._.
+The_DT fruit_NN cup_NN is_VBZ a_DT little_JJ lacking_VBG ._.
+A_DT few_JJ personal_JJ favorites_NNS on_IN the_DT panini_NN menu_NN :_: 1_CD ._.
+Panini_NNP Di_NNP Proscuitto_NNP -LRB-_-LRB- proscuitto_NN ,_, artichokes_NNS ,_, tomatoes_NNS ,_, pesto_NN ,_, and_CC fontina_NN on_IN Filone_NNP -RRB-_-RRB- 2_LS ._.
+Caprese_NNP di_NNP Parma_NNP -LRB-_-LRB- prosciutto_NN ,_, mozerlla_NN di_FW buffala_FW ,_, tomatoes_NNS ,_, and_CC basil_NN on_IN filone_NN -RRB-_-RRB- 9_CD ._.
+Chicken_NNP -LRB-_-LRB- grilled_JJ chicken_NN breast_NN ,_, tomatoes_NNS ,_, fresh_JJ basil_NN ,_, and_CC brie_NN on_IN filone_NN -RRB-_-RRB- 11_CD ._.
+Roast_NN beef_NN melt_VB -LRB-_-LRB- grilled_JJ roast_NN beef_NN ,_, onions_NNS ,_, tomatoes_NNS ,_, and_CC provolone_NN on_IN filone_NN -RRB-_-RRB- UCLA_NNP students_NNS =_SYM 20_CD %_NN off_IN !_.
+Finally_RB some_DT Bruin_NNP love_NN !_.

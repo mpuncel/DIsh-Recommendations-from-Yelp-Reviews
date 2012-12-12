@@ -1,0 +1,7 @@
+Very_RB tasty_JJ pizza_NN bread_NN ,_, fresh_JJ ingredients_NNS ,_, though_IN kinda_NN skimpy_JJ but_CC the_DT price_NN is_VBZ cheap_JJ so_RB feel_VB free_JJ to_TO add_VB on_IN an_DT extra_JJ hand_NN or_CC two_CD of_IN your_PRP$ favorite_JJ ingredient_NN ._.
+The_DT mozzarella_NN cooled_VBN down_RP relatively_RB quickly_RB but_CC its_PRP$ probably_RB normal_JJ for_IN that_DT type_NN of_IN cheese_NN and_CC I_PRP did_VBD n't_RB mind_VB gobbling_VBG it_PRP up_RP quickly_RB anyway_RB ._.
+The_DT service_NN is_VBZ fast_RB and_CC it_PRP 's_VBZ subway_NN style_NN ,_, The_DT coolest_JJS part_NN of_IN the_DT restaurant_NN is_VBZ the_DT soda_NN fountain_NN ._.
+Welcome_UH to_TO the_DT future_NN !_.
+It_PRP 's_VBZ the_DT first_JJ time_NN ,_, I_PRP 've_VBP used_VBN a_DT computer_NN based_VBN soda_NN fountain_NN ._.
+A_DT good_JJ pizza_NN for_IN a_DT good_JJ price_NN ._.
+The_DT pizza_NN reminds_VBZ me_PRP of_IN that_DT at_IN Bottega_NNP Louie_NNP 's_POS ._.

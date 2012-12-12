@@ -1,0 +1,3 @@
+It_PRP 's_VBZ a_DT \*_NN little_JJ \*_SYM bit_NN on_IN the_DT pricey_JJ side_NN ,_, but_CC I_PRP have_VBP been_VBN twice_RB now_RB and_CC have_VBP been_VBN very_RB happy_JJ and_CC satisfied_JJ on_IN both_DT trips_NNS ._.
+SUCH_NNP a_DT good_JJ option_NN if_IN you_PRP work_VBP on_IN Stanford_NNP 's_POS Medical_NNP Campus_NNP ,_, where_WRB the_DT offerings_NNS are_VBP pretty_RB limited_VBN ._.
+This_DT is_VBZ great_JJ Italian_JJ food_NN ,_, the_DT homemade_NN focaccia_NN is_VBZ amazing_JJ and_CC the_DT soups_NNS are_VBP awesome_JJ too_RB !_.

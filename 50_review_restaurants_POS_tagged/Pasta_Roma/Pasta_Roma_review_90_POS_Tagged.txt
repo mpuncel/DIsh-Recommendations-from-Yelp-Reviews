@@ -1,0 +1,5 @@
+It_PRP was_VBD ok_RB ._.
+We_PRP ordered_VBD take_VB out_RP for_IN a_DT workshop_NN -_: everyone_NN had_VBD individual_JJ orders_NNS ,_, and_CC they_PRP were_VBD all_DT correct_JJ -_: great_JJ job_NN on_IN that_DT ._.
+The_DT salad_NN was_VBD not_RB fresh_JJ ,_, and_CC even_RB the_DT canned_VBN olives_NNS on_IN it_PRP seemed_VBD off_RP -LRB-_-LRB- is_VBZ it_PRP possible_JJ to_TO be_VB eve_NN less_RBR fresh_JJ than_IN regular_JJ canned_JJ olives_NNS ?_. -RRB-_-RRB- ._.
+Tomatoes_NNS were_VBD flavorless_JJ ._.
+The_DT pasta_NN was_VBD pretty_RB good_JJ ,_, and_CC it_PRP was_VBD packages_NNS into_IN high_JJ quality_NN take_VB out_RP containers_NNS ._.

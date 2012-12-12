@@ -1,0 +1,15 @@
+One_CD of_IN my_PRP$ fav_NN places_NNS for_IN pizza_NN in_IN Westwood_NNP !_.
+You_PRP get_VBP to_TO customize_VB your_PRP$ own_JJ pizza_NN !_.
+It_PRP 's_VBZ like_IN customizing_VBG for_IN subway_NN sandwich_NN ,_, except_IN this_DT is_VBZ your_PRP$ pizza_NN ,_, you_PRP get_VBP to_TO see_VB and_CC pick_VB your_PRP$ ingredients_NNS ,_, see_VBP it_PRP pit-fire_JJ bake_NN right_NN in_IN front_NN of_IN ya_PRP ,_, and_CC ready_JJ in_IN about_IN 5_CD mins_NNS !_.
+You_PRP will_MD always_RB find_VB long_JJ lines_NNS if_IN drive_NN by_IN it_PRP ,_, but_CC do_VBP n't_RB get_VB discourage_VB ,_, it_PRP moves_VBZ relatively_RB quickly_RB ,_, been_VBN there_RB many_JJ times_NNS ,_, never_RB waited_VBD for_IN more_JJR than_IN 30_CD mins_NNS ._.
+Ordered_VBD the_DT followings_NNS :_: 1_LS ._.
+Carni_NNP -_: LOVE_NN !_.
+Great_NNP if_IN you_PRP love_VBP meat_NN ,_, comes_VBZ w_NN \/_NN 3_CD different_JJ types_NNS ,_, great_JJ to_TO taste_VB ._.
+2_LS ._.
+Pollo_NNP -_: balance_NN the_DT usual_JJ red_JJ tomato_NN sauce_NN pizza_NN if_IN ya_PRP like_IN white_JJ sauce_NN ,_, not_RB too_RB creamy_JJ ,_, just_RB right_RB ._.
+3_LS ._.
+Chopped_VBN salad_NN -_: dressing_VBG is_VBZ definitely_RB amazing_JJ ,_, it_PRP came_VBD perfectly_RB mixed_JJ w_NN \/_NN prosciutto_NN ,_, very_RB chewy_JJ w_NN \/_VBD an_DT interesting_JJ taste_NN !_.
+4_LS ._.
+Hazenut_NNP Gelato_NNP -_: absolutely_RB MUST_NNP try_VBP !!!_CD Summary_NNP :_: FOOD_NN -_: Great_NNP Pizza_NNP !_.
+Service_NNP -_: Great_NNP Parking_NNP :_: Street_NNP parking_NN ,_, hard_JJ to_TO find_VB sometimes_RB :_: -LRB-_-LRB- Seating_NN :_: self_NN service_NN ,_, but_CC you_PRP 'll_MD always_RB find_VB a_DT place_NN to_TO eat_VB !_.
+:_: -RRB-_-RRB-

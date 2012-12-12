@@ -1,0 +1,4 @@
+While_IN the_DT location_NN may_MD be_VB a_DT little_JJ odd_JJ ,_, Pasta_NNP Bene_NNP is_VBZ probably_RB the_DT best_JJS affordable_JJ Italian_JJ food_NN in_IN the_DT Berkeley_NNP Campus_NNP area_NN ._.
+The_DT prices_NNS are_VBP comparable_JJ to_TO the_DT other_JJ Italian_JJ places_NNS around_IN town_NN ;_: but_CC with_IN the_DT new_JJ specials_NNS and_CC daily_JJ happy_JJ hour_NN deals_NNS ;_: Pasta_NNP Bene_NNP comes_VBZ out_RP as_IN both_DT the_DT least_RBS expensive_JJ and_CC the_DT best_JJS tasting_NN ._.
+I_PRP had_VBD a_DT pint_NN of_IN Sierra_NNP Nevada_NNP and_CC the_DT Chicken_NNP Parmesan_NNP ;_: for_IN under_IN $_$ 15_CD the_DT meal_NN was_VBD filling_VBG and_CC satisfying_VBG ._.
+I_PRP would_MD recommend_VB the_DT Chicken_NNP Parmesan_NNP as_RB well_RB as_IN their_PRP$ Eggplant_NNP Sandwich_NNP ,_, also_RB try_VBP to_TO snag_NN some_DT Foccacia_NNP bread_NN with_IN your_PRP$ order_NN ._.

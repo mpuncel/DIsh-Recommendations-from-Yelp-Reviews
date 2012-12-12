@@ -1,0 +1,8 @@
+Yummy_NNP ,_, affordable_JJ Italian_JJ take-out_JJ food_NN right_NN next_IN to_TO the_DT UC_NNP campus_NN ._.
+Win_VB !_.
+Gypsy_NNP 's_POS is_VBZ a_DT staple_NN for_IN Cal_JJ students_NNS ._.
+If_IN you_PRP are_VBP in_IN the_DT Berkeley_NNP area_NN ,_, I_PRP definitely_RB recommend_VBP stopping_VBG by_IN Gypsy_NNP 's_POS for_IN lunch_NN ,_, dinner_NN ,_, late_JJ night_NN munchies_NNS ,_, whatever_WDT ._.
+They_PRP have_VBP an_DT extensive_JJ menu_NN and_CC everything_NN is_VBZ pretty_RB good_JJ ._.
+I_PRP usually_RB get_VBP pasta_NN ,_, but_CC the_DT calzones_NNS are_VBP good_JJ too_RB -LRB-_-LRB- MASSIVE_NNP and_CC take_VB about_RB 15_CD min_NN to_TO cook_VB after_IN you_PRP order_NN -RRB-_-RRB- ._.
+You_PRP get_VBP a_DT bang_NN for_IN your_PRP$ buck_NN ,_, food_NN is_VBZ nom_JJ nom_NN ,_, service_NN is_VBZ relatively_RB fast_JJ ._.
+It_PRP might_MD not_RB be_VB worth_JJ taking_VBG a_DT BART_NNP ride_NN over_IN solely_RB for_IN the_DT purpose_NN of_IN eating_VBG here_RB ,_, but_CC you_PRP should_MD definitely_RB try_VB Gypsy_NNP 's_POS if_IN you_PRP 're_VBP close_RB by_IN and_CC looking_VBG for_IN a_DT quick_JJ bite_NN ._.

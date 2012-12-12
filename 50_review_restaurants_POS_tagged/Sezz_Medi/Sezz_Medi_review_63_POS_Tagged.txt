@@ -1,0 +1,5 @@
+My_PRP$ neighborhood_NN fave_NN ._.
+Love_NNP their_PRP$ pizza_NN ,_, especially_RB the_DT stuffed_VBN !_.
+Comfy_NNP ,_, spacious_JJ ,_, woodsy_JJ atmosphere_NN with_IN great_JJ natural_JJ light_NN during_IN the_DT day_NN ._.
+Service_NNP is_VBZ not_RB particularly_RB warm_JJ ,_, but_CC what_WP can_MD ya_PRP do_VB ._.
+Oh_UH ,_, and_CC I_PRP recently_RB had_VBD the_DT most_RBS juicy_JJ delicious_JJ burger_NN there_RB the_DT other_JJ day_NN ,_, first_JJ time_NN seeing_VBG it_PRP on_IN the_DT menu_NN ._.

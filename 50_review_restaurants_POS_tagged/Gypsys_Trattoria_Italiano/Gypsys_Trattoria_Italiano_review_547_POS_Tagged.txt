@@ -1,0 +1,8 @@
+DELIZIOSO_NNP !_.
+&_CC cheap_JJ !_.
+ooh_NN ,_, &_CC i_FW love_VBP the_DT pile_NN of_IN cheese_NN melting_VBG slowly_RB away_RB on_IN top_NN ..._: this_DT is_VBZ such_JJ an_DT amazing_JJ place_NN for_IN a_DT fast_RB ,_, hearty_NN ,_, filling_VBG meal_NN ,_, that_DT 's_VBZ worth_JJ your_PRP$ buck_NN !_.
+Such_JJ a_DT fun_NN ,_, busy_JJ location_NN next_IN to_TO Cal_NNP ._.
+GREAT_JJ value_NN for_IN your_PRP$ money_NN ._.
+i_FW want_VBP to_TO try_VB ALL_NNP the_DT pasta_NN dishes_NNS !_.
+new_JJ college_NN goers_NNS ,_, with_IN deals_NNS like_IN these_DT ,_, beware_NN of_IN the_DT infamous_JJ freshmen_NNS 15_CD !_.
+;_: -RRB-_-RRB-

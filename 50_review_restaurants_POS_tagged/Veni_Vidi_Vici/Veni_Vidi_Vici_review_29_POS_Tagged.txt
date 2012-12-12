@@ -1,0 +1,14 @@
+Veni_NNP Vidi_NNP Vici_NNP is_VBZ about_IN a_DT block_NN from_IN Marriott_NNP and_CC 4Season_NNP in_IN mid-town_JJ Atlanta_NNP ,_, it_PRP 's_VBZ very_RB well_RB talk_VB about_IN in_IN yelp_NN -LRB-_-LRB- recommended_VBN -RRB-_-RRB- and_CC published_VBN in_IN all_DT the_DT tourist_NN magazines_NNS in_IN Atlanta_NNP ._.
+Tonite_NNP I_PRP tried_VBD ,_, it_PRP was_VBD not_RB busy_JJ ,_, about_IN 65_CD ~_CD 70_CD %_NN ._.
+Menu_NN is_VBZ pretty_RB Italian_JJ but_CC menu_NN does_VBZ n't_RB tell_VB everything_NN ._.
+I_PRP only_RB order_VBP a_DT bottle_NN of_IN wine_NN and_CC the_DT osso_NN bucco_NN ._.
+The_DT veal_NN came_VBD out_RP very_RB pretty_RB presented_VBN ,_, I_PRP dove_VBD right_RB into_IN the_DT marow_NN first_RB and_CC it_PRP was_VBD nice_JJ and_CC warm_JJ ,_, only_RB the_DT bottom_NN was_VBD slightly_RB cold_JJ ._.
+The_DT meat_NN was_VBD not_RB overly_RB done_VBN ,_, just_RB slightly_RB ._.
+I_PRP wish_VBP there_EX were_VBD some_DT nice_JJ wild_JJ mushroom_NN to_TO go_VB along_RB ._.
+The_DT whole_JJ thing_NN sat_VBD on_IN a_DT bed_NN of_IN risotto_NN which_WDT was_VBD al-dente_JJ ,_, decent_JJ ._.
+Seaon_NNP was_VBD ok_RB too_RB ,_, not_RB saltly_RB or_CC blend_VB ._.
+However_RB ,_, it_PRP does_VBZ not_RB earn_VB a_DT 5-star_JJ rating_NN ,_, it_PRP 's_VBZ good_JJ but_CC not_RB exceptional_JJ ._.
+Wine_NN was_VBD good_JJ &_CC price_NN was_VBD expected_VBN double_RB ._.
+I_PRP wrap_VBP up_RP begging_VBG for_IN a_DT taste_NN of_IN mango_NN sorbet_NN which_WDT was_VBD very_RB nice_JJ and_CC free_JJ ._.
+Almost_RB like_IN ice_NN cream_NN ._.
+IF_IN you_PRP are_VBP in_IN the_DT area_NN ,_, sure_RB ,_, try_VB it_PRP ..._:

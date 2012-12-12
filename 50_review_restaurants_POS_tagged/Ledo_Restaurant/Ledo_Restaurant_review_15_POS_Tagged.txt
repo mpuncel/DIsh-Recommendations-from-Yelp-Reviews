@@ -1,0 +1,13 @@
+Ledo_NNP 's_POS is_VBZ sort_NN of_IN a_DT DC_NNP icon_NN ,_, I_PRP guess_VBP ._.
+I_PRP 've_VBP had_VBD their_PRP$ pies_NNS before_RB ,_, but_CC never_RB at_IN the_DT original_JJ restaurant_NN -LRB-_-LRB- which_WDT this_DT technically_RB is_VBZ n't_RB ,_, but_CC I_PRP think_VBP they_PRP brought_VBD the_DT oven_NN from_IN the_DT original_JJ location_NN so_IN it_PRP counts_VBZ -RRB-_-RRB- ._.
+I_PRP stopped_VBD in_RP here_RB to_TO get_VB some_DT grub_NN and_CC overall_JJ I_PRP was_VBD satisfied_VBN ._.
+It_PRP 's_VBZ a_DT pretty_RB big_JJ space_NN ,_, with_IN a_DT restaurant_NN area_NN and_CC a_DT bar_NN area_NN ._.
+The_DT bar_NN looked_VBD well-stocked_JJ and_CC had_VBD some_DT good_JJ beers_NNS on_IN tap_VBP -LRB-_-LRB- although_IN obviously_RB I_PRP could_MD n't_RB have_VB any_DT !_. -RRB-_-RRB- ._.
+The_DT bartender_NN was_VBD quick_JJ to_TO attend_VB to_TO me_PRP and_CC was_VBD friendly_JJ ._.
+However_RB ,_, the_DT restaurant_NN did_VBD n't_RB seem_VB that_DT busy_JJ yet_CC it_PRP took_VBD quite_RB a_DT while_NN to_TO get_VB my_PRP$ pizza_NN !_.
+I_PRP ordered_VBD a_DT small_JJ pepperoni_NNS pizza_NN ._.
+Unlike_IN the_DT bigger_JJR pizzas_NNS ,_, this_DT one_CD is_VBZ circular_JJ ,_, but_CC it_PRP 's_VBZ still_RB pretty_RB tasty_JJ !_.
+The_DT crust_NN is_VBZ incredibly_RB buttery_JJ and_CC somewhat_RB flaky_JJ ,_, and_CC the_DT ingredients_NNS all_DT taste_VBP good_JJ ,_, from_IN the_DT gooey_NN cheese_NN to_TO the_DT thick-cut_JJ pepperoni_NNS ._.
+That_DT said_VBD ,_, it_PRP was_VBD n't_RB well-constructed_JJ ._.
+I_PRP had_VBD to_TO fold_VB ,_, bend_VB and_CC stack_VB parts_NNS of_IN each_DT slice_NN so_IN that_IN it_PRP would_MD n't_RB all_RB just_RB fall_VB down_IN onto_IN my_PRP$ plate_NN ._.
+It_PRP made_VBD for_IN a_DT messy_JJ meal_NN ,_, but_CC I_PRP enjoyed_VBD it_PRP overall_JJ ._.

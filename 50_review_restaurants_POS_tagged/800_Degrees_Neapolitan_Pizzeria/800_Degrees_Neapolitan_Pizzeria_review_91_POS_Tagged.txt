@@ -1,0 +1,21 @@
+Cheese_NNP ._.
+Basil_NNP ._.
+Crust_NN ._.
+Caesar_NNP ._.
+2nd_CD 's_POS please_VB !!!_CD Caesar_NNP ._.
+Crust_NN ._.
+Basil_NNP ._.
+Cheese_NNP ._.
+3rds_NNS ._.
+please_VB !!!_NNP Crust_NNP ._.
+Basil_NNP ._.
+Caesar_NNP ._.
+Cheese_NNP ._.
+Okay_UH I_PRP 'm_VBP done_VBN ._.
+The_DT salad_NN was_VBD -LRB-_-LRB- obviously_RB Caesar_NNP cause_NN I_PRP always_RB order_NN that_WDT -RRB-_-RRB- and_CC it_PRP was_VBD Caesar_NNP just_RB the_DT way_NN I_PRP like_VBP it_PRP ._.
+The_DT taste_NN was_VBD n't_RB too_RB powerful_JJ ,_, right_JJ in_IN the_DT middle_NN of_IN bland_NN and_CC powerful_JJ ._.
+The_DT salad_NN was_VBD quite_RB fresh_JJ with_IN a_DT good_JJ crunch_NN to_TO it_PRP ._.
+The_DT Pizza_NNP was_VBD ..._: well_RB interesting_JJ ._.
+The_DT taste_NN was_VBD great_JJ but_CC the_DT cheese_NN ran_VBD away_RB from_IN the_DT crust_NN sometimes_RB ..._: so_RB what_WP I_PRP do_VBP is_VBZ take_VB it_PRP to_TO my_PRP$ house_NN and_CC refrigerate_VB it_PRP for_IN a_DT day_NN ._.
+Then_RB warm_JJ it_PRP up_RB and_CC voila_FW !!_FW Cheese_NNP stays_VBZ on_IN pizza_NN ._.
+Will_MD come_VB back_RB for_IN sure_JJ ._.

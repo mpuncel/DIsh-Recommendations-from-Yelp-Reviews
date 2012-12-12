@@ -1,0 +1,4 @@
+Had_VBD Pagliacci_NNP pizza_NN delivered_VBN last_JJ night_NN ._.
+Phenomenal_JJ !!_NN We_PRP had_VBD the_DT seasonal_JJ butternut_NN squash\/chantrelle_NN mushroom_NN pizza_NN and_CC Salumi_NNP 's_POS spicy_NN salami_NN pizza_NN ._.
+Both_DT were_VBD unforgettable_JJ ._.
+I_PRP 'm_VBP biased_VBN towards_IN thin_JJ crust_NN pizza_NN ,_, especially_RB when_WRB it_PRP 's_VBZ as_IN crisp_JJ and_CC tasty_JJ as_IN Pagliacci_NNP 's_POS ._.

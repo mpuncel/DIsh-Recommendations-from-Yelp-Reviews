@@ -1,0 +1,4 @@
+Viztango_NNP is_VBZ the_DT In_NNP Touch_NNP Weekly_NNP of_IN restaurants_NNS ,_, basically_RB ._.
+It_PRP 's_VBZ a_DT bit_NN embarrassing_JJ to_TO be_VB a_DT die-hard_JJ fan_NN ,_, but_CC you_PRP 're_VBP a_DT total_JJ snob_NN if_IN you_PRP do_VBP n't_RB appreciate_VB the_DT satisfaction_NN of_IN eating_VBG cheap_JJ ,_, tastier-than-expected_JJ pasta_NN in_IN a_DT wholly_RB unpretentious_JJ environment_NN ._.
+I_PRP like_VBP the_DT pasta_NN dish_NN with_IN chicken_NN ,_, mushrooms_NNS ,_, and_CC asparagus_NN and_CC the_DT cappellini_NNS pomodoro_NN ._.
+-LRB-_-LRB- Although_IN ,_, I_PRP 'm_VBP not_RB quite_RB ready_JJ to_TO get_VB one_CD of_IN their_PRP$ frequent_JJ diner_NN cards_NNS ._. -RRB-_-RRB-

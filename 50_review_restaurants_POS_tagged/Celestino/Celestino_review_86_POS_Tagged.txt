@@ -1,0 +1,6 @@
+We_PRP went_VBD there_RB for_IN dinner_NN on_IN a_DT Monday_NNP evening_NN ._.
+There_EX was_VBD only_RB one_CD server_NN in_IN the_DT entire_JJ restaurant_NN taking_VBG orders_NNS ._.
+He_PRP seemed_VBD rushed_VBN ._.
+The_DT food_NN is_VBZ great_JJ ._.
+The_DT server_NN has_VBZ a_DT cold_JJ attitude_NN ._.
+The_DT panna_NN cotta_NN with_IN strawberry_JJ sauce_NN is_VBZ wonderful_JJ !_.

@@ -1,0 +1,9 @@
+Cheap_JJ decent_JJ Italian_JJ food_NN ._.
+Pizzas_NNP ,_, cal_JJ zones_NNS ,_, and_CC pastas_VBZ all_DT have_VBP similar_JJ prices_NNS ,_, which_WDT i_FW love_NN ._.
+The_DT pasta_NN tastes_VBZ good_JJ too_RB ._.
+I_PRP usually_RB get_VBP the_DT Godfather_NNP 's_POS favorite_JJ or_CC the_DT carbonara_NN ._.
+I_PRP tried_VBD the_DT pesto_JJ pizza_NN ,_, but_CC it_PRP was_VBD a_DT little_JJ dry_JJ for_IN me-id_JJ like_IN it_PRP with_IN more_JJR pesto_JJ sauce_NN ._.
+However_RB ,_, i_FW have_VBP gotten_VBN short_JJ black_JJ hair_NN in_IN my_PRP$ food_NN twice_RB ._.
+It_PRP was_VBD always_RB the_DT time_NN whenever_WRB i_FW got_VBD my_PRP$ pasta_NN to-go_NN ._.
+I_PRP would_MD go_VB home_NN ,_, open_VB the_DT container_NN ,_, and_CC see_VB a_DT piece_NN of_IN hair_NN in_IN the_DT sauce_NN ._.
+Besides_IN that_DT ,_, i_FW do_VBP recommend_VB this_DT place_NN if_IN you_PRP 're_VBP hungry_JJ !_.

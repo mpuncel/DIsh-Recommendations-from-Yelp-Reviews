@@ -1,0 +1,4 @@
+Have_NNP been_VBN a_DT regular_JJ for_IN many_JJ years_NNS now_RB ._.
+Food_NNP is_VBZ good_JJ ,_, reasonably_RB priced_VBN ,_, and_CC the_DT atmosphere_NN is_VBZ very_RB friendly_JJ and_CC ,_, in_IN particular_JJ ,_, child_NN friendly_JJ ._.
+My_PRP$ favorite_JJ dish_NN is_VBZ the_DT Chicken_NNP Armando_NNP ._.
+They_PRP are_VBP very_RB good_JJ about_IN doing_VBG substitutions_NNS -LRB-_-LRB- for_IN example_NN subbing_VBG wheat_NN pasta_NN -RRB-_-RRB- and_CC will_MD do_VB half_DT portions_NNS of_IN most_JJS items_NNS ._.

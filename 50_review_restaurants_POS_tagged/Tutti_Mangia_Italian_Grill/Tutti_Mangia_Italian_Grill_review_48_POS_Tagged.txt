@@ -1,0 +1,5 @@
+I_PRP really_RB love_VBP this_DT place_NN ._.
+I_PRP have_VBP never_RB gone_VBN wrong_JJ here_RB ._.
+The_DT atmosphere_NN is_VBZ so_RB pleasant_JJ -LRB-_-LRB- love_VB the_DT twinkle_NN lights_NNS -RRB-_-RRB- and_CC the_DT food_NN is_VBZ delicious_JJ -LRB-_-LRB- usually_RB have_VBP something_NN that_WDT involved_VBD red_JJ meat_NN -RRB-_-RRB- ._.
+Why_WRB go_VBP to_TO a_DT chain_NN Italian_JJ Restaurant_NNP when_WRB this_DT little_JJ gem_NN exists_VBZ ?_.
+The_DT people_NNS that_WDT work_VBP here_RB are_VBP really_RB nice_JJ too_RB ._.

@@ -1,0 +1,9 @@
+this_DT place_NN has_VBZ pretty_RB decent_JJ pizza_NN ._.
+split_NN 3_CD pizza_NN with_IN a_DT couple_NN of_IN pizza_NN ._.
+some_DT of_IN them_PRP were_VBD pretty_RB good_JJ ._.
+i_FW liked_VBD the_DT italian_JJ saugage_NN with_IN spinach_NN one_CD ._.
+others_NNS were_VBD so-so_JJ ._.
+im_NN not_RB a_DT big_JJ fan_NN bc_IN the_DT crusts_NNS were_VBD kind_NN of_IN hard_JJ and_CC a_DT little_JJ burnt_JJ ._.
+they_PRP gave_VBD complementary_JJ bread_NN with_IN olive_JJ oil_NN ._.
+it_PRP was_VBD n't_RB that_IN great_JJ ,_, but_CC i_FW liked_VBD the_DT fact_NN that_IN it_PRP was_VBD free_JJ ._.
+what_WP i_FW found_VBD most_RBS interesting_JJ was_VBD that_IN instead_RB of_IN table_NN cloth_NN ,_, they_PRP covered_VBD each_DT table_NN with_IN butcher_NN paper_NN and_CC gave_VBD crayons_NNS if_IN you_PRP 're_VBP in_IN the_DT mood_NN of_IN coloring_VBG ..._:

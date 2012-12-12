@@ -1,0 +1,6 @@
+This_DT place_NN is_VBZ great_JJ for_IN having_VBG a_DT casual_JJ lunch_NN with_IN only_RB a_DT small_JJ group_NN of_IN friends_NNS and_CC is_VBZ a_DT hidden_JJ gem_NN masked_VBN by_IN the_DT larger_JJR California_NNP Cafe_NNP next_JJ door_NN ._.
+The_DT food_NN is_VBZ pretty_RB yummy_JJ -LRB-_-LRB- recommend_VB the_DT eggplant_NN pannini_NN ,_, the_DT pollone_NN sandwich_NN for_IN the_DT fried_JJ lovers_NNS ,_, and_CC their_PRP$ espresso_NN drinks_NNS -RRB-_-RRB- ._.
+I_PRP would_MD come_VB hungry_JJ otherwise_RB the_DT serving_VBG size_NN is_VBZ too_RB much_JJ and_CC even_RB despite_IN how_WRB good_JJ the_DT food_NN is_VBZ ,_, you_PRP simply_RB ca_MD n't_RB finish_VB it_PRP ._.
+The_DT only_JJ bummer_NN is_VBZ that_IN because_IN everything_NN is_VBZ made_VBN to_TO order_NN and_CC not_RB mass_NN produced_VBD ahead_RB of_IN time_NN ,_, once_RB they_PRP run_VBP out_IN of_IN an_DT item_NN ,_, it_PRP is_VBZ gone_VBN ._.
+For_IN example_NN ,_, they_PRP did_VBD n't_RB have_VB pomegranate_JJ green_JJ tea_NN and_CC their_PRP$ fried_JJ doughballs_NNS after_IN the_DT person_NN in_IN line_NN in_IN front_NN of_IN me_PRP ordered_VBD it_PRP ._.
+BOO_NNP ._.

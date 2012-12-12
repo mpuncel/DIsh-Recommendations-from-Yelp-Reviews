@@ -1,0 +1,7 @@
+I_PRP originally_RB thought_VBD that_IN this_DT place_NN was_VBD an_DT italian_JJ restaurant_NN ._.
+However_RB ,_, this_DT is_VBZ like_IN a_DT cafe_NN ,_, with_IN an_DT italian_JJ twist_NN ._.
+You_PRP order_VBP your_PRP$ food_NN at_IN the_DT cashier_NN and_CC they_PRP bring_VBP it_PRP to_TO you_PRP ._.
+I_PRP had_VBD a_DT chicken_NN breast_NN with_IN a_DT side_NN salad_NN ._.
+It_PRP was_VBD very_RB good_JJ and_CC tasty_JJ and_CC the_DT service_NN was_VBD fast_RB and_CC excellent_JJ ._.
+Nice_JJ location_NN ,_, and_CC very_RB clean_JJ and_CC classy_JJ place_NN ._.
+The_DT owner_NN was_VBD very_RB nice_JJ too_RB ,_, he_PRP thanked_VBD us_PRP while_IN we_PRP walked_VBD out_RP ._.

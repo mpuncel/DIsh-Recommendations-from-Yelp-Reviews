@@ -1,0 +1,1 @@
+Food_NNP was_VBD excellent_JJ ._.

@@ -1,0 +1,10 @@
+I_PRP have_VBP been_VBN to_TO Sagra_NNP several_JJ times_NNS ._.
+The_DT bar_NN food_NN and_CC patio_NN are_VBP the_DT usual_JJ draw_NN ._.
+Dinner_NN has_VBZ been_VBN very_RB good_JJ ._.
+We_PRP recently_RB went_VBD for_IN Brunch_NNP ._.
+It_PRP was_VBD Easter_NNP so_IN you_PRP do_VBP expect_VB it_PRP to_TO be_VB busy_JJ ._.
+They_PRP were_VBD a_DT little_JJ too_RB efficient_JJ at_IN turning_VBG tables_NNS ._.
+We_PRP received_VBD all_PDT our_PRP$ courses_NNS before_IN the_DT previous_JJ course_NN was_VBD done_VBN ._.
+The_DT quality_NN was_VBD good_JJ except_IN for_IN the_DT over-ripe_JJ fruit_NN cup_NN -_: yuck_NN ._.
+I_PRP would_MD return_VB for_IN their_PRP$ happy_JJ hour_NN -_: especially_RB if_IN I_PRP could_MD sit_VB on_IN the_DT patio_NN ._.
+And_CC there_EX is_VBZ always_RB the_DT Dog_NNP and_CC Duck_NN -LRB-_-LRB- Guinness_NNP ,_, fish_NN and_CC chips_NNS -RRB-_-RRB- or_CC the_DT Clay_NNP Pit_NNP -LRB-_-LRB- curry_VB -RRB-_-RRB- near_IN by_IN ._.

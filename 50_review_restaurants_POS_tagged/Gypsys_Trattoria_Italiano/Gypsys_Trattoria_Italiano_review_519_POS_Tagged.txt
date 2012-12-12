@@ -1,0 +1,2 @@
+When_WRB I_PRP 'm_VBP hungry_JJ ,_, I_PRP get_VBP one_CD of_IN their_PRP$ calzones_NNS ._.
+Tasty_JJ ,_, filling_VBG ,_, good_JJ price_NN ._.

@@ -1,0 +1,1 @@
+For_IN the_DT first_JJ time_NN in_IN Atlanta_NNP there_RB 's_POS real_JJ great_JJ ..._: not_RB just_RB good_JJ NY_NN pizza_NN

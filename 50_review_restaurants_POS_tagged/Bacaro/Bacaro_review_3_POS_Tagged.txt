@@ -1,0 +1,9 @@
+Good_JJ place_NN for_IN a_DT leisurely_JJ meal_NN before_IN strolling_VBG over_IN to_TO see_VB the_DT waterfire_NN ._.
+We_PRP had_VBD a_DT reservation_NN and_CC were_VBD promptly_RB seated_VBN in_IN the_DT main_JJ upstairs_NN dining_VBG area_NN ._.
+This_DT is_VBZ a_DT nice_JJ space_NN with_IN high_JJ beamed_VBN ceilings_NNS and_CC an_DT open_JJ kitchen_NN ._.
+Service_NNP was_VBD friendly_JJ and_CC helpful_JJ ._.
+The_DT tapas_NNS were_VBD fun_NN to_TO try_VB and_CC if_IN I_PRP were_VBD dining_VBG here_RB again_RB ,_, I_PRP would_MD probably_RB elect_VB to_TO just_RB do_VB tapas_NNS and_CC not_RB order_VB a_DT main_JJ course_NN just_RB due_RB the_DT variety_NN or_CC textures_NNS ,_, flavors_NNS ,_, and_CC fun_NN involved_VBN with_IN selection_NN ._.
+I_PRP enjoyed_VBD our_PRP$ wine_NN very_RB much_RB and_CC would_MD highly_RB recommend_VB trying_VBG that_IN if_IN you_PRP go_VBP and_CC do_VBP tapas_NNS ._.
+The_DT stone_NN fruit_NN dessert_NN was_VBD also_RB a_DT winner_NN ._.
+Wine_NN :_: lodolaia_NN 2007_CD \/_NN syrah_NN maremma_NN toscana_NN Tapas_NNP :_: Friend_NN stuffed_VBD squash_JJ blossom_NN ,_, cauliflower_NN with_IN truffle_JJ oil_NN ,_, duck_NN break_NN crostini_NNS ,_, scallops_NNS ,_, cheese_NN and_CC meat_NN plate_NN ._.
+Appetizer_NNP :_: Pizza_NNP Blanca_NNP Main_NNP Courses_NNPS :_: Carbonara_NNP ,_, Salad_NNP Dessert_NNP :_: Stone_NNP Fruit_NNP Tart_NNP

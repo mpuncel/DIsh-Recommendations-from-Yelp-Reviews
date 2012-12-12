@@ -1,0 +1,20 @@
+The_DT restaurant_NN has_VBZ no_DT personality_NN ._.
+Everything_NN -_: food_NN ,_, décor_NN ,_, staff_NN -_: was_VBD so_RB muted_JJ and_CC boring_JJ ._.
+The_DT dining_NN room_NN has_VBZ very_RB low_JJ ceilings_NNS ,_, dated_VBN faux-suede_JJ sage_NN booths_NNS ,_, and_CC light_JJ yellow_JJ and_CC white_JJ drapes_NNS on_IN the_DT walls_NNS ..._: neutral_JJ and_CC nothing_NN more_JJR ._.
+The_DT staff_NN was_VBD very_RB amateur_JJ ,_, and_CC our_PRP$ waitress_NN could_MD n't_RB even_RB describe_VB the_DT food_NN ._.
+The_DT only_JJ word_NN she_PRP seemed_VBD to_TO know_VB was_VBD ``_`` beautiful_JJ ''_'' ..._: that_WDT was_VBD her_PRP main_JJ response_NN to_TO our_PRP$ questions_NNS on_IN various_JJ items_NNS on_IN the_DT menu_NN ._.
+Um_NNP ,_, thanks_NNS ._.
+Heirloom_NNP Minestrone_NNP Soup_NNP -_: On_IN the_DT bland_JJ side_NN ._.
+The_DT fresh_JJ ,_, clean_JJ flavor_NN of_IN the_DT peas_NNS were_VBD the_DT only_JJ thing_NN that_WDT stood_VBD out_RP ._.
+Wavy_NNP Black_NNP Ink_NNP Risotto_NNP with_IN Clams_NNP -_: the_DT most_RBS successful_JJ dish_NN of_IN the_DT evening_NN despite_IN the_DT clumsy_JJ presentation_NN ._.
+The_DT razor_NN clam_NN was_VBD fresh_JJ and_CC meaty_JJ ,_, while_IN risotto_NN had_VBD a_DT fantastic_JJ briny_NN ,_, shellfish_JJ flavor_NN and_CC depth_NN ._.
+Seared_NNP Salt_NNP Cod_NNP Gnocchi_NNP -_: the_DT ratatouille_NN was_VBD nice_JJ ,_, but_CC it_PRP did_VBD n't_RB compensate_VB for_IN the_DT extremely_RB dry_JJ gnocchi_NNS ._.
+The_DT cod_NN had_VBD this_DT strange_JJ gummy_NN saltiness_NN to_TO it_PRP ,_, and_CC I_PRP could_MD n't_RB eat_VB anymore_RB after_IN a_DT few_JJ bites_VBZ ._.
+Slow_NNP Braised_NNP Rabbit_NNP Leg_NNP &_CC Grilled_NNP Rack_NNP Over_IN Polenta_NNP -_: the_DT rabbit_NN was_VBD very_RB tender_NN ,_, but_CC there_EX was_VBD a_DT sweetness_NN to_TO sauce_NN that_IN I_PRP found_VBD to_TO be_VB too_RB cloying_JJ ._.
+I_PRP would_MD have_VB much_JJ preferred_VBN a_DT savory_JJ sauce\/preparation_NN ._.
+Pistachio_NNP Olive_NNP Oil_NNP Cake_NNP ,_, Toasted_NNP Almond_NNP Panna_NNP Cotta_NNP ,_, &_CC Chili_NNP Chocolate_NNP Sorbet_NNP -_: I_PRP really_RB enjoyed_VBD the_DT almond_JJ panna_NN cotta_NN and_CC wished_VBN they_PRP would_MD have_VB just_RB served_VBN that_IN for_IN dessert_NN ._.
+The_DT pistachio_NN cake_NN was_VBD topped_VBN with_IN really_RB sour_JJ pistachios_NNS ..._: bleh_NN ._.
+The_DT chili_JJ chocolate_NN sorbet_NN was_VBD interesting_JJ ,_, but_CC did_VBD n't_RB really_RB go_VB with_IN the_DT rest_NN of_IN the_DT plate_NN ._.
+Overall_RB ,_, my_PRP$ experience_NN at_IN Rialto_NNP was_VBD n't_RB particularly_RB good_JJ or_CC bad_JJ ,_, just_RB ho-hum_JJ ._.
+It_PRP received_VBD a_DT few_JJ awards_NNS several_JJ years_NNS ago_RB ,_, but_CC my_PRP$ meal_NN leads_VBZ me_PRP to_TO believe_VB that_IN the_DT restaurant_NN is_VBZ now_RB past_JJ its_PRP$ prime_JJ ._.
+I_PRP was_VBD bored_VBN and_CC uninspired_JJ ._.

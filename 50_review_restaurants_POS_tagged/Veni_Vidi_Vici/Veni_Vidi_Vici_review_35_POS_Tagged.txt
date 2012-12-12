@@ -1,0 +1,10 @@
+first_RB of_IN all_DT ,_, correction_NN to_TO the_DT main_JJ description_NN -_: Wi-Fi_NNP :_: Yes_UH from_IN 4:30_CD -6:30_CD week_NN days_NNS ,_, the_DT apps_NNS at_IN the_DT bar_NN are_VBP only_RB $_$ 4_CD !_.
+if_IN you_PRP make_VBP a_DT reservation_NN ,_, ask_VB for_IN Ivan_NNP as_IN your_PRP$ server_NN ;_: he_PRP 's_VBZ the_DT kind_NN of_IN waiter_NN that_WDT can_MD add_VB a_DT star_NN to_TO a_DT restaurant_NN 's_POS rating_NN ._.
+start_NN with_IN the_DT Calamari_NNP or_CC the_DT Affettati_NNP e_SYM Formaggi_NNP ._.
+the_DT Gamberreti_NNP is_VBZ the_DT best_JJS shrimp_NN i_FW 've_VBP ever_RB had_VBN ;_: it_PRP 's_VBZ not_RB breaded_VBN or_CC battered_VBN ,_, but_CC it_PRP 's_VBZ still_RB so_RB crispy_JJ ,_, light_JJ and_CC tasty_JJ ._.
+the_DT Mezzalune_NNP are_VBP like_IN little_JJ pillows_NNS heaven_NN ._.
+The_DT duck_NN and_CC the_DT suckling_NN pig_NN are_VBP also_RB both_DT first_JJ rate_NN ._.
+and_CC the_DT giant_JJ prawns_NNS are_VBP amazing_JJ ._.
+if_IN you_PRP ca_MD n't_RB decide_VB between_IN the_DT menu_NN and_CC the_DT specials_NNS ,_, whatever_WDT Chef_NNP has_VBZ on_IN the_DT rotisserie_NN is_VBZ what_WP you_PRP should_MD eat_VB ._.
+Sal_JJ ,_, the_DT Brazilian_JJ guitarist_NN on_IN Friday_NNP evenings_VBZ plays_NNS beautifully_RB ._.
+VVV_NNP is_VBZ my_PRP$ favorite_JJ proper_JJ restaurant_NN ._.

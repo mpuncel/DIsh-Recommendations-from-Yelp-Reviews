@@ -1,0 +1,13 @@
+Gypsy_NNP 's_POS Chicken_NNP !_.
+Pollo_NNP Con_NN Pesto_NNP !_.
+Their_PRP$ pasta_NN has_VBZ never_RB failed_VBN me_PRP -LRB-_-LRB- but_CC then_RB again_RB ,_, I_PRP usually_RB order_VBP the_DT same_JJ thing_NN -RRB-_-RRB- ._.
+Whenever_NNP my_PRP$ boyfriend_NN visits_NNS from_IN out_IN of_IN town_NN ,_, THIS_NNP is_VBZ where_WRB he_PRP wants_VBZ to_TO go_VB ._.
+Each_DT ._.
+Time_NNP ._.
+But_CC I_PRP do_VBP n't_RB complain_VB ._.
+My_PRP$ brother_NN said_VBD this_DT one_CD dish_NN called_VBD ..._: linguine_NN something_NN was_VBD n't_RB so_RB great_JJ ,_, but_CC someone_NN else_RB who_WP had_VBD their_PRP$ lasagna_NN said_VBD it_PRP 's_VBZ GREAT_JJ ._.
+Their_PRP$ calzones_NNS are_VBP decent_JJ ,_, too_RB !_.
+I_PRP ABSOLUTELY_RB love_VBP their_PRP$ pizza_NN -_: it_PRP 's_VBZ fresh_JJ ,_, light_JJ -LRB-_-LRB- I_PRP ordered_VBD one_CD with_IN broccoli_NNS ,_, and_CC replaced_VBD chicken_NN with_IN mushrooms_NNS -RRB-_-RRB- ,_, and_CC NOT_RB greasy_NN ._.
+The_DT prices_NNS are_VBP fantastic_JJ ._.
+There_EX 's_VBZ usually_RB a_DT long_JJ line_NN ,_, but_CC the_DT wait_NN is_VBZ really_RB not_RB bad_JJ ._.
+Plus_CC ,_, they_PRP 're_VBP open_JJ til_NN super_JJ late_JJ -LRB-_-LRB- midnight_NN -RRB-_-RRB- ,_, so_RB you_PRP have_VBP a_DT wide_JJ window_NN to_TO fulfill_VB that_DT Gypsy_NNP 's_POS craving_NN ;_: -RRB-_-RRB-

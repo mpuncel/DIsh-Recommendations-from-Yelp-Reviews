@@ -1,0 +1,3 @@
+Their_PRP$ pizza_NN is_VBZ just_RB O-K_SYM -_: but_CC what_WP keeps_VBZ me_PRP coming_VBG back_RB is_VBZ their_PRP$ :_: 1_LS -RRB-_-RRB- Location_NNP --_: on_IN my_PRP$ way_NN home_NN from_IN school_NN ._.
+2_LS -RRB-_-RRB- People_NNS --_: they_PRP 're_VBP always_RB really_RB nice_JJ and_CC friendly_JJ there_EX 3_LS -RRB-_-RRB- Good_JJ deals\/coupons\/gift_NN certificates_NNS --_: they_PRP just_RB keep_VBP sending_VBG me_PRP stuff_NN in_IN the_DT mail_NN !!_NN I_PRP have_VBP a_DT $_$ 5_CD gift_NN card_NN thing_NN they_PRP sent_VBD me_PRP for_IN moving_VBG in_IN to_TO my_PRP$ new_JJ apartment_NN ._.
+Why_WRB cant_JJ other_JJ businesses_NNS do_VBP more_JJR of_IN that_DT ?_.

@@ -1,0 +1,4 @@
+I_PRP had_VBD high_JJ hopes_NNS for_IN Pisticci_NNP and_CC their_PRP$ version_NN of_IN orechiette\/broccoli_NNS rabe\/sausage_NN ,_, but_CC the_DT pasta_NN was_VBD overcooked_VBN ._.
+For_IN a_DT small_JJ ,_, intimate_JJ Italian_JJ restaurant_NN you_PRP 'd_MD think_VB they_PRP would_MD have_VB pasta_NN down_IN to_TO a_DT science_NN ,_, but_CC a_DT perusal_NN of_IN yelp_JJ reviews_NNS seems_VBZ to_TO indicate_VB otherwise_RB ._.
+R_NNP had_VBD high_JJ hopes_NNS for_IN her_PRP$ grilled_JJ shrimp_NN salad_NN special_JJ as_RB well_RB -LRB-_-LRB- another_DT Italian_JJ restaurant_NN standard_NN -RRB-_-RRB- ,_, but_CC it_PRP was_VBD underdressed_JJ and_CC there_EX was_VBD more_RBR red_JJ onion_NN than_IN all_DT the_DT greenery_NN combined_VBN ._.
+We_PRP had_VBD reasonable_JJ expectations_NNS given_VBN their_PRP$ four-star_JJ yelp_NN rating_NN and_CC we_PRP were_VBD let_VB down_RP ._.

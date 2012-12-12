@@ -1,0 +1,5 @@
+For_IN Champaign_NNP ,_, this_DT is_VBZ the_DT best_JJS food_NN around_IN ._.
+I_PRP really_RB appreciate_VBP what_WP this_DT restaurant_NN is_VBZ about_IN :_: good_JJ local_JJ food_NN presented_VBN in_IN a_DT sophisticated_JJ yet_CC approachable_JJ way_NN ._.
+The_DT Monday_NNP arket_NN menu_NN is_VBZ a_DT great_JJ price_NN too_RB ._.
+The_DT staff_NN is_VBZ not_RB pretentious_JJ which_WDT is_VBZ always_RB nice_JJ to_TO see_VB ._.
+This_DT is_VBZ a_DT diamond_NN in_IN the_DT C-U_NNP rough_JJ ._.

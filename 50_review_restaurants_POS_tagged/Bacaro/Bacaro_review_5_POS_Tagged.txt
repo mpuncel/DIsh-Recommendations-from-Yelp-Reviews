@@ -1,0 +1,5 @@
+Foodie_NNP Alert_NNP ..._: ..._: if_IN you_PRP would_MD drive_VB 150_CD miles_NNS for_IN a_DT meal_NN then_RB you_PRP are_VBP a_DT true_JJ foodie_NN ._. ._.
+the_DT entire_JJ experience_NN was_VBD great_JJ from_IN beginning_VBG to_TO end_VB ._.
+Apps_NNS and_CC mains_NNS are_VBP outstanding_JJ ._.
+Wine_NNP menu_NN is_VBZ robust_JJ with_IN some_DT very_RB good_JJ values_NNS and_CC reasonably_RB priced_VBN ._.
+We_PRP are_VBP ``_`` hard_JJ core_NN NY'ers_NNS ''_'' and_CC are_VBP bringing_VBG our_PRP$ peeps_NNS !_.

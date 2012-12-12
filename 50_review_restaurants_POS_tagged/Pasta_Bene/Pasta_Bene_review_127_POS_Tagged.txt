@@ -1,0 +1,4 @@
+Excellent_JJ pasta_NN with_IN vegetables_NNS and_CC chicken_NN dish_NN at_IN an_DT affordable_JJ price_NN !_.
+Very_RB clean_JJ ,_, great_JJ service_NN ,_, just_RB a_DT gem_NN of_IN a_DT place_NN in_IN Berkeley_NNP ._.
+We_PRP were_VBD just_RB passing_VBG through_IN town_NN ,_, and_CC luckily_RB found_VBD this_DT place_NN on_IN Yelp_NNP ._.
+Thanks_NNS !_.

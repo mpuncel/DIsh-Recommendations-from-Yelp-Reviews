@@ -1,0 +1,7 @@
+Yes_UH ,_, this_DT pizza_NN is_VBZ as_RB good_JJ as_IN it_PRP gets_VBZ ._.
+Silvio_NNP 's_POS is_VBZ the_DT best_JJS pizza_NN in_IN town_NN ._.
+There_EX is_VBZ nothing_NN like_IN a_DT margarita_NN pizza_NN hot_JJ out_IN of_IN the_DT oven_NN ._.
+DE-LIC-OUS_NN !_.
+Only_RB complaint_NN is_VBZ that_IN Silvio_NNP 's_POS is_VBZ n't_RB a_DT pizza_NN that_WDT tastes_VBZ good_JJ the_DT next_JJ day_NN ._.
+Since_IN the_DT incidents_NNS are_VBP fresh_JJ &_CC organic_JJ ,_, the_DT taste_NN changes_NNS significantly_RB a_DT few_JJ hours_NNS after_IN it_PRP is_VBZ cooked_VBN ._.
+Of_IN course_NN ,_, it_PRP 's_VBZ hard_JJ to_TO have_VB one_CD of_IN these_DT pizzas_NNS last_JJ that_DT long_JJ anyway_RB !_.

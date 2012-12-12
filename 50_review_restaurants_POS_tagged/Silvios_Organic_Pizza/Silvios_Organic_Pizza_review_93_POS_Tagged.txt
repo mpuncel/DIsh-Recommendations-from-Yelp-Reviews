@@ -1,0 +1,11 @@
+I_PRP am_VBP ready_JJ to_TO give_VB up_RP on_IN every_DT single_JJ restaurant_NN suggested_VBN by_IN Yelpers_NNP in_IN Ann_NNP Arbor_NNP ._.
+I_PRP 'm_VBP sorry_JJ but_CC every_DT place_NN I_PRP 've_VBP tried_VBN that_DT was_VBD recommended_VBN to_TO me_PRP has_VBZ been_VBN a_DT big_JJ failure_NN ._.
+Maybe_RB I_PRP 've_VBP been_VBN spoiled_VBN by_IN Cali_NNP ..._: but_CC most_JJS of_IN the_DT places_NNS I_PRP 've_VBP visited_VBN seems_VBZ to_TO lack_VB flavor_NN ._.
+I_PRP ended_VBD up_RP getting_VBG the_DT homemade_NN gnocchi_NN with_IN pesto_JJ sauce_NN ,_, and_CC was_VBD devastated_VBN that_IN it_PRP did_VBD not_RB taste_VB like_IN the_DT other_JJ gnocchi_NN 's_POS that_IN I_PRP 've_VBP tired_VBN ._.
+The_DT gnocchi_NN tasted_VBD like_IN uncooked_JJ dough_JJ with_IN a_DT poor_JJ excuse_NN for_IN pesto_JJ sauce_NN ._.
+And_CC the_DT portion_NN size_NN did_VBD not_RB match_VB the_DT cost_NN of_IN the_DT food_NN ..._: except_IN what_WP my_PRP$ roommate_NN got_VBD ,_, which_WDT was_VBD a_DT pepperoni_NN and_CC cheese_NN calzone_NN ._.
+However_RB her_PRP$ dish_NN ended_VBD up_RP lacking_VBG cheese_NN and_CC came_VBD in_IN a_DT small_JJ box_NN with_IN grease_NN flowing_VBG out_RP and_CC through_IN the_DT box_NN ._.
+The_DT only_JJ satisfactory_JJ thing_NN about_IN our_PRP$ dinner_NN was_VBD the_DT $_$ 5_CD small_JJ a_DT \*\*_SYM box_NN of_IN garden_NN salad_NN that_WDT came_VBD with_IN a_DT variety_NN of_IN veggies_NNS like_IN artichoke_NN hearts_NNS ,_, onion_NN ,_, black_JJ olives_NNS ,_, asparagus_NN ,_, and_CC mushroom_NN ._.
+Along_IN with_IN a_DT dessert_NN that_WDT was_VBD filled_VBN with_IN homemade_NN custard_NN ._.
+Maybe_RB we_PRP did_VBD n't_RB order_VB the_DT right_JJ thing_NN ,_, but_CC I_PRP 'm_VBP over_IN it_PRP ._. ._.
+and_CC will_MD not_RB return_VB ._.

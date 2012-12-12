@@ -1,0 +1,3 @@
+Improvements_NNP each_DT time_NN I_PRP have_VBP dined_VBN here_RB ._.
+Better_RBR food_NN ,_, improved_VBD service_NN -LRB-_-LRB- most_JJS of_IN the_DT time_NN -RRB-_-RRB- ,_, and_CC very_RB good_JJ pasta_NN specials_NNS !_.
+Keep_VB moving_VBG in_IN this_DT direction_NN --_: and_CC I_PRP will_MD keep_VB coming_VBG back_RB ._.

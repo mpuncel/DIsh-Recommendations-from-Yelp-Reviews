@@ -1,0 +1,4 @@
+Awesome_JJ food_NN ,_, awesome_JJ staff_NN ,_, awesome_JJ coffee_NN ._.
+Also_RB great_JJ atmosphere_NN outside_NN on_IN the_DT patio_NN ._.
+I_PRP go_VBP everyday_JJ and_CC the_DT menu_NN never_RB ceases_VBZ to_TO amaze_VB ._.
+Bravissimo_NN !_.

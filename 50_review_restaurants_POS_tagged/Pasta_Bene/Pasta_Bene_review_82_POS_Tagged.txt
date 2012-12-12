@@ -1,0 +1,5 @@
+Pricy_NNP ,_, small_JJ portions_NNS ,_, and_CC bland_NN ._.
+I_PRP remember_VBP when_WRB I_PRP first_RB tried_VBD Pasta_NNP Bene_NNP many_JJ ,_, many_JJ years_NNS back_RB in_IN San_NNP Francisco_NNP it_PRP was_VBD much_RB better_JJR ._.
+Now_RB the_DT one_CD is_VBZ SF_NNP closed_VBD ._.
+Looks_VBZ like_IN they_PRP have_VBP gone_VBN way_NN downhill_RB since_IN then_RB ._.
+Go_VB to_TO Gypsy_NNP 's_POS for_IN pasta_NN instead_RB ._.

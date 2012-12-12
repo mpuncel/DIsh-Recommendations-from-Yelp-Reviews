@@ -1,0 +1,4 @@
+do_VB not_RB order_NN from_IN this_DT place_NN ._.
+the_DT owner_NN charges_VBZ prices_NNS that_WDT are_VBP above_IN the_DT prices_NNS on_IN the_DT menu_NN ._.
+and_CC the_DT pizza_NN is_VBZ really_RB really_RB thin_JJ and_CC ordinary_JJ ._.
+you_PRP will_MD regret_VB it_PRP if_IN you_PRP order_VBP from_IN here_RB !!!_CD

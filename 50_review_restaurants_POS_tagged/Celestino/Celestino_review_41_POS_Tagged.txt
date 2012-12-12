@@ -1,0 +1,6 @@
+Gosh_NNP ,_, I_PRP love_VBP this_DT place_NN !_.
+The_DT food_NN is_VBZ consistently_RB delicious_JJ !_.
+Sometimes_RB I_PRP 'll_MD just_RB show_VB up_RP and_CC have_VBP them_PRP surprise_VB me_PRP with_IN their_PRP$ specials_NNS !_.
+I_PRP have_VBP never_RB been_VBN disappointed_VBN !_.
+The_DT staff_NN and_CC owner_NN are_VBP so_RB friendly_JJ and_CC helpful_JJ ,_, they_PRP make_VBP you_PRP feel_VB like_IN you_PRP 're_VBP a_DT part_NN of_IN the_DT family_NN !_.
+If_IN you_PRP want_VBP some_DT outstanding_JJ Italian_JJ food_NN ,_, this_DT is_VBZ the_DT place_NN ,_, everything_NN is_VBZ just_RB excellent_JJ !!!_IN

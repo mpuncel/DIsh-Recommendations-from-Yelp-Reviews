@@ -1,0 +1,5 @@
+Dominick_NNP 's_POS is_VBZ a_DT hot_JJ lil_NN joint_NN ._.
+The_DT food_NN is_VBZ good_JJ for_IN group_NN sized_VBD appetizers_NNS ,_, but_CC I_PRP would_MD n't_RB recommend_VB this_DT place_NN for_IN a_DT meal_NN ._.
+Go_VB here_RB for_IN beers_NNS and\/or_CC sangria_NN ._.
+Not_RB regular_JJ wine_NN ,_, the_DT selection_NN is_VBZ terrible_JJ ._.
+But_CC this_DT place_NN rocks_NNS for_IN sangria_NN ._.

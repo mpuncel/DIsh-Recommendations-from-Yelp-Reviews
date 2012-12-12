@@ -1,0 +1,4 @@
+This_DT is_VBZ ,_, hands_NNS down_RB ,_, the_DT best_JJS restaurant_NN in_IN Champaign_NNP right_RB now_RB ._.
+I_PRP go_VBP frequently_RB and_CC will_MD continue_VB to_TO go_VB ._.
+The_DT food_NN is_VBZ consistently_RB good_JJ ,_, the_DT service_NN is_VBZ consistently_RB good_JJ and_CC the_DT atmosphere_NN is_VBZ very_RB pleasant_JJ ._.
+Way_NN to_TO go_VB Bacaro_NN !_.

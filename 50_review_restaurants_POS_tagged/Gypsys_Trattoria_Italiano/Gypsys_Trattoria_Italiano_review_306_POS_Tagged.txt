@@ -1,0 +1,5 @@
+I_PRP 've_VBP been_VBN here_RB a_DT couple_NN times_NNS ,_, and_CC every_DT time_NN ,_, I_PRP 've_VBP ordered_VBN the_DT salad_NN ._.
+And_CC no_DT ,_, it_PRP 's_VBZ not_RB a_DT dainty_JJ little_JJ salad_NN ._.
+It_PRP 's_VBZ in_IN a_DT bowl_NN far_RB larger_JJR than_IN my_PRP$ head_NN ,_, filled_VBN with_IN so_RB many_JJ vegetable_NN goodies_NNS ._.
+The_DT line_NN is_VBZ always_RB long_RB ,_, and_CC seating_NN is_VBZ cramped_VBN ,_, but_CC you_PRP do_VBP n't_RB come_VBN here_RB for_IN the_DT ambiance_NN ._.
+You_PRP come_VBP here_RB for_IN the_DT tasty_JJ ,_, filling_VBG food_NN ,_, and_CC you_PRP leave_VBP satisfied_JJ ._.

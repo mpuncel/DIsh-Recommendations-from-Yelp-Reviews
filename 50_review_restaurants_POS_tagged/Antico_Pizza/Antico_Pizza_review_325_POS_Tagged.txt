@@ -1,0 +1,6 @@
+W-I-N_NNP ._.
+Thought_NNP this_DT place_NN was_VBD all_DT hype_NN ,_, I_PRP mean_VBP the_DT explosion_NN of_IN Yelp_NNP reviews_VBZ alone_RB should_MD have_VB been_VBN a_DT good_JJ a_DT sign_NN ._.
+The_DT pizzas_NNS here_RB are_VBP really_RB better_JJR than_IN anything_NN I_PRP even_RB had_VBD in_IN Italy_NNP ._.
+The_DT margherita_NN d.o.p._NN with_IN pepperoni_NNS was_VBD epic_NN ._.
+Like_IN that_IN they_PRP have_VBP sparkling_JJ water_NN in_IN the_DT giant_JJ liters_NNS and_CC I_PRP was_VBD lucky_JJ enough_JJ to_TO come_VB during_IN a_DT not_RB so_RB busy_JJ time_NN ._.
+Can_MD not_RB wait_VB to_TO come_VB back_RB ,_, mouth_NN is_VBZ watering_VBG and_CC I_PRP left_VBD stuffed_VBN ._.

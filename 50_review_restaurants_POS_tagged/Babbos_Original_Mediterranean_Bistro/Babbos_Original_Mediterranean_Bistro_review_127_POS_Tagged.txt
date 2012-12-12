@@ -1,0 +1,11 @@
+Always_RB read_VB Yelp_NNP reviews_NNS before_IN dining_VBG out_RP ._.
+I_PRP should_MD have_VB followed_VBN my_PRP$ own_JJ advice_NN to_TO avoid_VB this_DT place_NN ._.
+What_WP a_DT consistently_RB horrible_JJ experience_NN ._.
+We_PRP sat_VBD for_IN 10_CD minutes_NNS before_IN the_DT waiter_NN handed_VBD us_PRP a_DT menu_NN ._.
+Then_RB another_DT 15_CD minutes_NNS before_IN our_PRP$ order_NN went_VBD in_IN ._.
+45_CD minutes_NNS after_IN arriving_VBG our_PRP$ cold_JJ and_CC tasteless_JJ pizza_NN arrived_VBD ._.
+My_PRP$ Caesar_NNP salad_NN was_VBD limp_JJ and_CC soggy_JJ ;_: the_DT dressing_VBG consisted_VBN of_IN a_DT cup_NN of_IN a_DT salt_NN and_CC a_DT blob_NN of_IN mayo_NN ._.
+I_PRP was_VBD so_RB thirsty_JJ I_PRP asked_VBD for_IN a_DT refill_NN of_IN the_DT watery_JJ iced_JJ tea_NN and_CC found_VBN later_RB they_PRP charge_VBP for_IN refills_NNS ._.
+My_PRP$ companion_NN had_VBD a_DT glass_NN of_IN wine_NN for_IN $_$ 9.50_CD that_IN he_PRP left_VBD untouched_JJ as_IN it_PRP was_VBD undrinkable_JJ ._.
+The_DT bill_NN came_VBD to_TO $_$ 65_CD for_IN horrid_JJ pizza_NN and_CC a_DT salty_NN salad_NN ._.
+This_DT place_NN only_RB survives_VBZ because_IN people_NNS do_VBP n't_RB want_VB to_TO wait_VB for_IN a_DT table_NN at_IN Max_NNP 's_POS Opera_NNP Café_NNP ._.

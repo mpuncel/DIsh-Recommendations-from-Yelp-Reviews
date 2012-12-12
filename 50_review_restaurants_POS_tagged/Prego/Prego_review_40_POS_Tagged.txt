@@ -1,0 +1,7 @@
+Great_NNP dinner_NN experience_NN ._.
+Attentive_JJ servers_NNS right_RB from_IN our_PRP$ arrival_NN ._.
+Four_CD of_IN us_PRP for_IN dinner_NN -_: ordering_VBG lamb_NN ,_, ravioli_NNS ,_, pasta_NN with_IN veal-beef_JJ meatballs_NNS ,_, and_CC stuffed_VBD chicken_NN ._.
+All_DT reported_VBD excellent_JJ flavor_NN for_IN their_PRP$ dish_NN !_.
+A_DT bottle_NN of_IN California_NNP zinfandel_NN wine_NN ..._: and_CC desserts_VBZ !_.
+We_PRP tried_VBD strawberry_JJ shortcake_NN and_CC chocolate_NN souffle_NN ._.
+..._: and_CC cleaned_VBD our_PRP$ plates_NNS !_.

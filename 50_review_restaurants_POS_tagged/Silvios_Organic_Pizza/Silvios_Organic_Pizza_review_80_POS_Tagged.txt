@@ -1,0 +1,9 @@
+Silvio_NNP 's_POS crust_NN is_VBZ fantastic_JJ ._.
+I_PRP really_RB like_IN the_DT fact_NN that_IN they_PRP make_VBP authentic_JJ Italian_JJ pizza_NN and_CC that_IN they_PRP have_VBP a_DT serious_JJ commitment_NN to_TO organic_JJ ingredients_NNS ._.
+They_PRP always_RB seem_VBP to_TO have_VB an_DT imaginative_JJ flair_NN for_IN toppings_NNS and_CC ingredients_NNS ._.
+Their_PRP$ pizza_NN is_VBZ certainly_RB not_RB the_DT typical_JJ heavy_JJ cheese_NN and_CC grease_NN affair_NN that_WDT adorns_VBZ much_RB of_IN Ann_NNP Arbor_NNP and_CC most_JJS any_DT college_NN town_NN ._.
+Their_PRP$ pizza_NN is_VBZ an_DT experience_NN ._.
+Arugula_NNP ,_, shitake_NN mushrooms_NNS ,_, smoked_VBD mozzarella_NN ,_, zucchini_NNS ,_, fennel_NN -_: just_RB a_DT few_JJ of_IN the_DT unusual_JJ items_NNS you_PRP will_MD find_VB on_IN Silvio_NNP 's_POS pizzas_NNS ._.
+Silvio_NNP 's_POS is_VBZ a_DT family_NN business_NN ,_, a_DT far_JJ cry_NN from_IN the_DT many_JJ chains_NNS that_WDT seem_VBP to_TO be_VB taking_VBG over_RP in_IN Ann_NNP Arbor_NNP ._.
+They_PRP are_VBP doing_VBG well_RB ,_, and_CC they_PRP deserve_VBP it_PRP ,_, because_IN they_PRP take_VBP their_PRP$ pizza_NN very_RB seriously_RB ._.
+Go_VB for_IN the_DT crust_NN ,_, and_CC come_VB back_RB for_IN the_DT rest_NN ._.

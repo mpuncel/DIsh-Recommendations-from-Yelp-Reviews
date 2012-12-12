@@ -1,0 +1,9 @@
+Service_NNP was_VBD ok_RB ._.
+It_PRP was_VBD a_DT busy_JJ night_NN so_IN they_PRP were_VBD a_DT bit_NN rushed_VBD ._.
+I_PRP usually_RB get_VBP pizza_NN at_IN Bertucci_NNP 's_POS which_WDT has_VBZ never_RB failed_VBN me_PRP ,_, but_CC I_PRP wanted_VBD to_TO try_VB their_PRP$ pasta_NN ._.
+BIG_NNP MISTAKE_NNP ._.
+I_PRP had_VBD the_DT chicken_NN fettucine_NN alfredo_NN with_IN asparagus_NN ._.
+To_TO their_PRP$ credit_NN the_DT asparagus_NN was_VBD good_JJ and_CC the_DT pasta_NN was_VBD cooked_VBN al_JJ dente_NN ,_, so_RB thumbs_VBZ up_RP for_IN that_DT ,_, but_CC the_DT sauce_NN was_VBD tasteless_JJ and_CC watery_JJ ..._: And_CC do_VBP n't_RB get_VB me_PRP started_VBN on_IN the_DT chicken_NN ._.
+It_PRP was_VBD clearly_RB frozen_VBN chicken_NN that_WDT had_VBD been_VBN heated_VBN up_RP ,_, not_RB freshly_RB grilled_JJ ._.
+It_PRP was_VBD white_JJ in_IN an_DT unnatural_JJ way_NN if_IN that_DT makes_VBZ sense_NN ..._: It_PRP was_VBD inedible_JJ ._.
+So_IN maybe_RB it_PRP 's_VBZ just_RB this_DT Bertucci_NNP 's_POS ,_, or_CC maybe_RB they_PRP have_VBP n't_RB mastered_VBN pasta_NN yet_RB ,_, but_CC I_PRP wo_MD n't_RB be_VB back_RB to_TO this_DT one_CD ._.

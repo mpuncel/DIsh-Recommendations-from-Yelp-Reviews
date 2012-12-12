@@ -1,0 +1,11 @@
+Sunday_NNP lunch_NN ._.
+Shared_VBN mezze_NN sampler_NN that_WDT was_VBD utterly_RB forgetable_JJ -_: baba_NN ganoush_NN ,_, red_JJ pepper_NN &_CC black_JJ bean_NN hummus_VBZ all_DT sadly_RB lacking_VBG in_IN flavor_NN ._.
+Things_NNS improved_VBD once_RB we_PRP moved_VBD onto_IN our_PRP$ mains_NNS ._.
+Ricotta_NNP Gnocchi_NNP was_VBD delicious_JJ -_: silky_JJ ,_, light_JJ little_JJ pillows_NNS in_IN a_DT cherry_NN tomato_NN &_CC pesto_NN cream_NN sauce_NN ._.
+The_DT Orecchiette_NNP dish_NN was_VBD superb_JJ !_.
+with_IN house_NN made_VBD pork_NN sausage_NN ,_, escarole_NN ,_, garlic_JJ roasted_JJ cherry_NN tomatoes_NNS &_CC Parmigiano_NNP broth_NN ._.
+Service_NNP left_VBD something_NN to_TO be_VB desired_VBN ._.
+We_PRP arrived_VBD @_SYM 11:50_CD am_VBP &_CC were_VBD told_VBN by_IN the_DT tween_CD hostess_NN that_IN it_PRP would_MD be_VB 10_CD minutes_NNS before_IN we_PRP could_MD be_VB seated_VBN ._.
+A_DT couple_NN came_VBD in_IN as_IN we_PRP were_VBD walking_VBG out_RP &_CC got_VBD seated_VBN right_RB away_RB ._.
+Waiter_NNP seemed_VBD surprised_VBN when_WRB I_PRP asked_VBD him_PRP to_TO replace_VB my_PRP$ glass_NN of_IN wine_NN as_IN the_DT one_NN he_PRP brought_VBD had_VBD a_DT ton_NN of_IN floating_VBG cork_NN sediment_NN and_CC was_VBD half_PDT the_DT normal_JJ portion_NN ._.
+Wine_NNP leftovers_NNS from_IN night_NN before_IN ..._: Sloppy_JJ !_.

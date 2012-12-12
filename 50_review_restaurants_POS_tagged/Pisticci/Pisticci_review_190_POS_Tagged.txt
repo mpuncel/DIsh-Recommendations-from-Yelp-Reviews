@@ -1,0 +1,2 @@
+The_DT food_NN here_RB is_VBZ amazing_JJ and_CC reasonably_RB priced_VBN ._.
+Try_VB the_DT eggplant_NN for_IN an_DT appetizer_NN and_CC then_RB the_DT pasta_NN dishes_NNS are_VBP perfect_JJ -LRB-_-LRB- fresh_JJ ravioli_NN is_VBZ great_JJ -RRB-_-RRB- ._.

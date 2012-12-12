@@ -1,0 +1,2 @@
+Great_JJ food_NN ,_, good_JJ atmosphere_NN ,_, good_JJ location_NN ,_, good_JJ service_NN ._.
+The_DT best_JJS Italian_JJ food_NN for_IN the_DT price_NN range_NN ._.

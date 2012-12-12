@@ -1,0 +1,6 @@
+I_PRP grew_VBD up_RP eating_VBG Ledo_NNP 's_POS pizza_NN ,_, so_IN I_PRP am_VBP very_RB biased_VBN ._.
+That_DT said_VBD ,_, the_DT crust_NN is_VBZ wonderfully_RB flakey_JJ with_IN a_DT hint_NN of_IN rosemary_NN and_CC the_DT sauce_NN is_VBZ deliciously_RB sweet_JJ ._.
+For_IN me_PRP ,_, it_PRP is_VBZ the_DT perfect_JJ pizza_NN ,_, the_DT one_CD that_WDT all_DT others_NNS -LRB-_-LRB- including_VBG those_DT in_IN Rome_NNP -RRB-_-RRB- are_VBP measured_VBN against_IN !_.
+I_PRP 've_VBP had_VBD family_NN from_IN back_RB east_JJ bring_VBP it_PRP with_IN them_PRP when_WRB visiting_VBG me_PRP in_IN CA_NNP if_IN that_DT tells_VBZ you_PRP anything_NN ._.
+;_: -_: -RRB-_-RRB- You_PRP go_VBP to_TO Ledo_NNP for_IN the_DT pizza_NN ,_, not_RB the_DT service_NN ,_, the_DT atmosphere_NN or_CC anything_NN else_RB ._.
+It_PRP 's_VBZ all_DT about_IN the_DT pizza_NN !_.

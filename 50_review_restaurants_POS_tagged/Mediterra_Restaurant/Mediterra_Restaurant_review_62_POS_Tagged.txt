@@ -1,0 +1,11 @@
+Had_VBD lunch_NN with_IN wife_NN there_EX today_NN ._.
+Ordered_VBD the_DT fried_JJ calamari_NN ,_, grilled_JJ chicken_NN sandwich_NN -LRB-_-LRB- chicken_NN panino_NN -RRB-_-RRB- ,_, and_CC pasta_NN with_IN prosciutto_NN ,_, mushrooms_NNS ,_, etc._FW -LRB-_-LRB- fusilli_NNS ai_VBP funghi_JJ con_NN panna_NN -RRB-_-RRB- This_DT place_NN is_VBZ known_VBN for_IN its_PRP$ basket_NN bread_NN dipped_VBD in_IN olive_JJ oil_NN ._.
+That_DT never_RB disappoints_VBZ ._.
+The_DT fried_JJ calamari_NN was_VBD also_RB pleasing_VBG in_IN both_DT taste_NN and_CC sight_NN ._.
+I_PRP especially_RB liked_VBD the_DT yellow_JJ sauce_NN -LRB-_-LRB- waiter_NN told_VBD me_PRP it_PRP was_VBD made_VBN by_IN mixing_VBG lemon_NN juice_NN and_CC mayonnaise_NN -RRB-_-RRB- ._.
+Portion_NN and_CC taste_NN wise_JJ I_PRP like_VBP the_DT fried_JJ calamari_NN from_IN the_DT nearby_JJ Witherspoon_NNP Grill_NNP more_RBR ._.
+The_DT grilled_JJ peppers_NNS and_CC balsamic_JJ caramelized_VBN onions_NNS added_VBD interesting_JJ flavors_NNS to_TO the_DT grilled_JJ chicken_NN sandwich_NN my_PRP$ wife_NN ordered_VBN ._.
+For_IN my_PRP$ fusilli_NNS ,_, I_PRP was_VBD expecting_VBG freshly_RB sliced_JJ prosciutto_NN but_CC they_PRP actually_RB tasted_VBD like_IN salty_NN bacon_NN bits_NNS ._.
+The_DT white_JJ wine_NN sauce_NN was_VBD interesting_JJ ._.
+Service_NNP was_VBD prompt_JJ and_CC proper_JJ ._.
+When_WRB I_PRP came_VBD back_RB after_IN using_VBG the_DT bathroom_NN after_IN the_DT meal_NN ,_, I_PRP found_VBD my_PRP$ napkin_NN was_VBD refolded_VBN and_CC placed_VBN back_RB on_IN the_DT table_NN ._.

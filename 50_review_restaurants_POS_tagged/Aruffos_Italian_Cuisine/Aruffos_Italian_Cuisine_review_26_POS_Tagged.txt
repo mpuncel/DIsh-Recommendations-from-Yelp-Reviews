@@ -1,0 +1,7 @@
+Lunch_NN bad_JJ ,_, waiter_NN on_IN phone_NN most_JJS of_IN the_DT time_NN and_CC our_PRP$ meals_NNS arrived_VBD very_RB slowly_RB -_: we_PRP felt_VBD as_IN though_IN we_PRP were_VBD inconveniencing_VBG them_PRP ._.
+These_DT kinds_NNS of_IN things_NNS happen_VB when_WRB management_NN is_VBZ not_RB involved_VBN -_: the_DT same_JJ is_VBZ true_JJ here_RB ._.
+The_DT food_NN was_VBD ok_RB ,_, not_RB great_JJ ._.
+The_DT prices_NNS are_VBP high_JJ and_CC the_DT empty_JJ feeling_NN makes_VBZ you_PRP feel_VBP as_IN though_IN you_PRP are_VBP in_IN a_DT pretentious_JJ place_NN ._.
+There_EX are_VBP too_RB many_JJ options_NNS to_TO spend_VB your_PRP$ money_NN here_RB ._.
+On_IN a_DT positive_JJ note_NN ,_, the_DT kids_NNS really_RB liked_VBD the_DT pizza_NN ._.
+it_PRP looked_VBD like_IN it_PRP was_VBD going_VBG to_TO be_VB a_DT great_JJ place_NN ,_, but_CC it_PRP didnt_JJ deliver_VBP ._.

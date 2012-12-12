@@ -1,0 +1,6 @@
+Gypsy_NNP 's_POS is_VBZ among_IN the_DT elite_NN of_IN Berkeley_NNP Southside_NNP cheap_JJ eats_VBZ ._.
+If_IN you_PRP can_MD stand_VB the_DT long_JJ line_NN during_IN the_DT peak_NN dining_NN hours_NNS you_PRP will_MD be_VB rewarded_VBN with_IN a_DT plate_NN of_IN satisfying_VBG carbs_NNS that_WDT will_MD fill_VB you_PRP up_RB and_CC not_RB empty_JJ your_PRP$ wallet_NN ._.
+The_DT food_NN is_VBZ n't_RB authentic_JJ ,_, nor_CC does_VBZ it_PRP try_VB to_TO be_VB ._.
+They_PRP serve_VBP up_RB good_JJ dishes_NNS of_IN pastas_NNS with_IN nice_JJ sauces_NNS ,_, huge_JJ calzones_NNS ,_, and_CC tasty_JJ thin_JJ crust_NN pizzas_NNS ._.
+In_IN my_PRP$ college_NN days_NNS I_PRP was_VBD a_DT fan_NN of_IN the_DT pesto_JJ calzones_NNS ,_, the_DT chicken_NN gnocci_NN ,_, and_CC the_DT tri-color_JJ tortellini_NNS -LRB-_-LRB- I_PRP 'm_VBP sure_JJ there_EX 's_VBZ another_DT name_NN for_IN this_DT dish_NN ,_, but_CC I_PRP do_VBP n't_RB remember_VB it_PRP -RRB-_-RRB- ._.
+I_PRP celebrated_VBD finishing_VBG finals_NNS here_RB one_CD semester_NN ,_, and_CC after_IN 22_CD hours_NNS without_IN sleep_NN ,_, it_PRP was_VBD still_RB a_DT satisfying_JJ meal_NN ;_: -RRB-_-RRB-

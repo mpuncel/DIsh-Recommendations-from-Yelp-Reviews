@@ -1,0 +1,4 @@
+Excellent_JJ food_NN ._.
+Pleasant_NNP decor_NN ._.
+I_PRP wish_VBP they_PRP had_VBD more_RBR comfortable_JJ seating_NN ,_, but_CC otherwise_RB it_PRP 's_VBZ a_DT really_RB great_JJ restaurant_NN ._.
+And_CC in_IN a_DT part_NN of_IN town_NN where_WRB the_DT next_JJ best_JJS thing_NN is_VBZ Denny_NNP 's_POS ..._:

@@ -1,0 +1,6 @@
+Perfect_NNP place_NN to_TO take_VB the_DT parents_NNS to_TO when_WRB they_PRP are_VBP in_IN town_NN ._.
+Nice_JJ ambiance_NN ,_, great_JJ wine_NN selection_NN and_CC the_DT food_NN was_VBD delicious_JJ ._.
+Expect_VB to_TO pay_VB around_IN $_$ 12-30_CD per_IN entree_FW ._.
+This_DT is_VBZ what_WP we_PRP had_VBD &_CC loved_VBD ._.
+Salads_NNS :_: Baby_NNP mixed_JJ greens_NNS with_IN roasted_JJ tomato_NN and_CC shaved_VBD parmesan_JJ cheese_NN and_CC Artichoke_NNP salad_NN with_IN aged_VBN pecorino_NN cheese_NN ._.
+Entrees_NNS :_: Angel_NNP hair_NN pasta_NN with_IN fresh_JJ tomatoes_NNS ,_, basil_NN and_CC garlic_JJ Ravioli_NNP stuffed_VBD with_IN spinach_NN and_CC ricotta_NN cheese_NN in_IN a_DT tomato_NN and_CC basil_NN sauce_NN Rack_NN of_IN lamb_NN with_IN fine_JJ herb_NN sauce_NN Chicken_NNP scaloppini_NNS

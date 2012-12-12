@@ -1,0 +1,2 @@
+LOVE_NN bucca_NN !_.
+fav_NN dish_NN i_FW always_RB order_NN chicken_NN satimbocca_NN fetecucine_NN alfredo_IN

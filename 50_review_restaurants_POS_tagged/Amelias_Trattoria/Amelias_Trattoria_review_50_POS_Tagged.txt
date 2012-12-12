@@ -1,0 +1,7 @@
+Solid_JJ meal_NN ,_, not_RB fantastic_JJ ,_, but_CC definitely_RB edible_JJ ._.
+Great_NNP location_NN for_IN dinner_NN and_CC a_DT movie_NN with_IN Kendall_NNP Square_NNP Cinema_NNP ._.
+Salmon_VB special_JJ with_IN risotto_NN was_VBD delicious_JJ but_CC parpadellle_NN with_IN mushrooms_NNS was_VBD skippable_JJ ._.
+Great_NNP salad_NN with_IN goat_NN cheese_NN and_CC pancetta_NN -LRB-_-LRB- best_JJS part_NN of_IN the_DT meal_NN -RRB-_-RRB- ._.
+Limited_JJ wine_NN list_NN ._.
+A_DT nice_JJ quiet_JJ find_VBP in_IN a_DT corner_NN of_IN Cambridge_NNP for_IN a_DT romantic_JJ evening_NN ._.
+But_CC not_RB necessarily_RB because_IN of_IN the_DT food_NN ._.

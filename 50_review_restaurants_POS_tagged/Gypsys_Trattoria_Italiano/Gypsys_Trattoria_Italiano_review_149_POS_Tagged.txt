@@ -1,0 +1,4 @@
+Foods_NNP pretty_RB good_JJ ..._: seriously_RB good_JJ prices_NNS Chicken_NNP pesto_NN calzone_NN -LRB-_-LRB- I_PRP added_VBD mushrooms_NNS -RRB-_-RRB- was_VBD the_DT size_NN of_IN my_PRP$ frikin_JJ head_NN !_.
+It_PRP was_VBD pretty_RB good_JJ ..._: a_DT little_JJ too_RB much_JJ ricotta_NN in_IN ,_, ine_NN though_IN ..._: it_PRP was_VBD splurging_VBG out_IN of_IN each_DT bite_NN Crazy_NNP alfredo-pretty_JJ good_JJ ..._: We_PRP both_DT got_VBD the_DT combos_NNS for_IN it_PRP ..._: add_VB salad_NN -LRB-_-LRB- which_WDT the_DT skimped_VBN on_IN the_DT dressing_VBG -RRB-_-RRB- and_CC drink_VBP Service_NNP was_VBD n't_RB that_IN great_JJ ._. ._.
+I_PRP got_VBD togo_NN but_CC he_PRP definitely_RB was_VBD n't_RB friendly_JJ at_IN all_DT ._. ._.
+when_WRB I_PRP called_VBD or_CC came_VBD in_IN ._. ._.

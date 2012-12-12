@@ -1,0 +1,2 @@
+Best_JJS Pizza_NNP in_IN Atlanta_NNP ._.
+Authentic_NNP Cannoli_NNP 's_POS are_VBP a_DT must_MD ._.

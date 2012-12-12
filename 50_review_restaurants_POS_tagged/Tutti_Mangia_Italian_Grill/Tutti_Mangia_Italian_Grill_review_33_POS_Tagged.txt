@@ -1,0 +1,5 @@
+Went_VBD in_IN Saturday_NNP before_IN Valentine_NNP 's_POS Day_NNP ._.
+Worked_VBD us_PRP in_IN without_IN a_DT long_JJ LA_NNP wait_NN ._.
+Service_NNP was_VBD great_JJ and_CC food_NN wonderful_JJ ._.
+Small_JJ plate_NN was_VBD not_RB small_JJ but_CC actually_RB a_DT prefect_JJ size_NN ._.
+Great_JJ way_NN to_TO spend_VB your_PRP$ Valentine_NNP Dinner_NNP ._.

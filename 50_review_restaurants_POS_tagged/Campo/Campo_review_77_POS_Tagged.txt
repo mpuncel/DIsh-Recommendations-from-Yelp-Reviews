@@ -1,0 +1,4 @@
+Way_NNP overpriced_VBD for_IN the_DT quality_NN of_IN food_NN ._.
+The_DT service_NN and_CC environment_NN were_VBD both_DT good_JJ ,_, but_CC my_PRP$ ratings_NNS are_VBP primarily_RB based_VBN on_IN the_DT quality_NN of_IN food_NN ._.
+I_PRP had_VBD the_DT Arugula_NNP salad_NN -LRB-_-LRB- good_JJ -RRB-_-RRB- ,_, and_CC a_DT Broccoli\/Sausage_NNP Roasted_NNP Pizza_NNP -LRB-_-LRB- not_RB very_RB good_JJ -RRB-_-RRB- ._.
+The_DT place_NN seemed_VBD trendy_JJ ,_, and_CC had_VBD a_DT kitchen_NN open_JJ until_IN 11pm_CD ..._: I_PRP would_MD consider_VB going_VBG there_RB again_RB ,_, but_CC for_IN drinks_NNS ,_, not_RB dinner_NN ._.

@@ -1,0 +1,6 @@
+It_PRP 's_VBZ a_DT chain_NN ._.
+Even_RB so_RB ,_, I_PRP have_VBP found_VBN that_IN the_DT pizza_NN is_VBZ great_JJ -_: I_PRP like_VBP the_DT sausage_NN ,_, pepper_NN and_CC mushroom_NN pizza_NN quite_RB a_DT bit_NN ._.
+The_DT rolls_NNS are_VBP good_JJ -LRB-_-LRB- though_IN did_VBD they_PRP used_VBD to_TO be_VB better_JJR ?_. -RRB-_-RRB-
+The_DT sausage_NN soup_NN is_VBZ also_RB definitely_RB worth_JJ trying_VBG ._.
+Overall_RB ,_, I_PRP 'd_MD prefer_VB to_TO try_VB a_DT local_JJ restaurant_NN rather_RB than_IN this_DT when_WRB in_IN cambridge_NN ._.
+Only_RB for_IN the_DT burbs_NNS ._.

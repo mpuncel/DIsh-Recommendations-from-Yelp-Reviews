@@ -1,0 +1,3 @@
+411_CD West_NNP is_VBZ a_DT fantastic_JJ restaurant_NN for_IN us_PRP out-of-towners_NNS to_TO enjoy_VB while_IN in_IN Chapel_NNP Hill_NNP ._.
+The_DT service_NN was_VBD great_JJ and_CC the_DT food_NN was_VBD excellent_JJ ._.
+4_CD out_IN of_IN 5_CD stars_NNS because_IN the_DT wait_NN was_VBD a_DT bit_NN long_JJ and_CC the_DT tables_NNS were_VBD a_DT bit_NN small_JJ ._.

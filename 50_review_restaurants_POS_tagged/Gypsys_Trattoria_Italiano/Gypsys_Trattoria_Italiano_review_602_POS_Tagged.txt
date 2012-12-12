@@ -1,0 +1,5 @@
+I_PRP went_VBD back_RB to_TO Gypsy_NNP 's_POS after_IN trying_VBG Pasta_NNP Bene_NNP and_CC I_PRP realized_VBD how_WRB poor_JJ it_PRP was_VBD in_IN comparison_NN ._.
+The_DT food_NN at_IN Pasta_NNP Bene_NNP is_VBZ so_RB much_RB better_JJR than_IN Gyspy_NNP 's_POS and_CC the_DT prices_NNS are_VBP the_DT same_JJ !_.
+The_DT wait_NN time_NN at_IN Gyspy_NNP 's_POS is_VBZ almost_RB 30mins_NNS guaranteed_VBN while_IN it_PRP 's_VBZ only_RB 10_CD mins_NNS max_FW at_IN Pasta_NNP Bene_NNP ._.
+Gyspy_NNP 's_POS definitely_RB has_VBZ become_VBN the_DT perpetual_JJ second_JJ choice_NN for_IN Italian_JJ food_NN after_IN Pasta_NNP Bene_NNP ._.
+Even_RB the_DT selection_NN is_VBZ smaller_JJR at_IN Gyspy_NNP 's_POS ._.

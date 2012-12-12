@@ -1,0 +1,3 @@
+Another_DT great_JJ eatery_NN near_IN USC_NNP ._.
+Parking_VBG lot_NN is_VBZ sometimes_RB hard_JJ to_TO maneuver_VB around_RB ,_, but_CC the_DT portions_NNS are_VBP hearty_JJ and_CC the_DT price_NN is_VBZ reasonable_JJ ._.
+Restrooms_NNS are_VBP clean_JJ nad_NN staff_NN is_VBZ friendly_JJ ._.

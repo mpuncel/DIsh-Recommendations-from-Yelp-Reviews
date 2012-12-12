@@ -1,0 +1,3 @@
+Great_NNP Food_NNP ,_, service_NN and_CC the_DT owners_NNS are_VBP a_DT delight_NN to_TO talk_VB to_TO ._.
+Went_VBD here_RB with_IN my_PRP$ aunt_NN and_CC uncle_NN and_CC they_PRP are_VBP regulars_NNS at_IN this_DT place_NN for_IN a_DT long_JJ long_JJ time_NN ._.
+Delicious_NNP !!!_NNP ..._:

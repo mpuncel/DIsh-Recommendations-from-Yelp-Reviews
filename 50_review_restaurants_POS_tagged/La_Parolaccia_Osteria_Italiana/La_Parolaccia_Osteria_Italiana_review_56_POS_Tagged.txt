@@ -1,0 +1,3 @@
+The_DT food_NN tonight_NN was_VBD n't_RB really_RB that_IN great_JJ ._.
+The_DT mozzarella_NN in_IN the_DT salad_NN was_VBD n't_RB fresh_JJ ,_, the_DT pasta_NN in_IN our_PRP$ spaghetti_NNS dishes_NNS was_VBD very_RB dry_JJ ._.
+The_DT only_JJ positives_NNS were_VBD the_DT waiters_NNS '_POS great_JJ attitudes_NNS !_.

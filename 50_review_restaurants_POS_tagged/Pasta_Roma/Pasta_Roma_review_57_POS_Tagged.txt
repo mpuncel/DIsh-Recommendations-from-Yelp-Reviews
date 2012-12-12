@@ -1,0 +1,5 @@
+Pasta_NN Roma_NNP is_VBZ my_PRP$ go_VB to_TO restaurant_NN when_WRB I_PRP need_VBP delivery_NN ._.
+It_PRP is_VBZ a_DT great_JJ little_JJ Italian_JJ place_NN ,_, conveniently_RB located_VBN right_NN near_IN USC_NNP ._.
+The_DT food_NN is_VBZ pretty_RB good_JJ especially_RB the_DT garlic_JJ bread_NN ._.
+I_PRP also_RB highly_RB recommend_VB the_DT tiramisu_NN ._.
+The_DT prices_NNS are_VBP good_JJ !_.

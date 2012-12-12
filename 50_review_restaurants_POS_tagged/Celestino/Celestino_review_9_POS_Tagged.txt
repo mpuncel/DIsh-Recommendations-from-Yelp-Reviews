@@ -1,0 +1,1 @@
+Great_NNP restaurant_NN with_IN excellent_JJ service_NN

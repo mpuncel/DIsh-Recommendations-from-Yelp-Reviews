@@ -1,0 +1,8 @@
+The_DT decor_NN is_VBZ romantic_JJ with_IN it_PRP 's_VBZ warm_JJ aged_VBN walls_NNS and_CC woodwork_NN ._.
+Diners_NNS have_VBP the_DT option_NN of_IN sitting_VBG next_JJ to_TO the_DT street_NN on_IN the_DT beautiful_JJ covered_JJ patio_NN that_WDT runs_VBZ along_IN the_DT front_NN of_IN the_DT building_NN and_CC links_VBZ the_DT restaurant_NN and_CC lounge_NN area_NN ._.
+It_PRP 's_VBZ dinner_NN only_RB at_IN this_DT warm_JJ Italian_JJ restaurant_NN offering_VBG a_DT well_RB executed_VBN menu_NN ._.
+Veal_NN chops_NNS and_CC boar_NN chops_NNS share_VBP space_NN with_IN lamb_JJ chops_NNS grilled_JJ with_IN fragrant_JJ rosemary_NN ;_: veal_NN scaloppine_NN perches_VBZ atop_IN a_DT refreshing_JJ salad_NN of_IN peppery_NN arugula_NN ._.
+Filling_VBG pasta_NN dishes_NNS -LRB-_-LRB- the_DT huge_JJ ricotta-stuffed_JJ ravioli_NNS is_VBZ our_PRP$ favorite_JJ -RRB-_-RRB- are_VBP properly_RB prepared_JJ crowd-pleasers_NNS ._.
+Side_NN salads_NNS of_IN field_NN greens_NNS ,_, or_CC arugula_NN and_CC fennel_NN ,_, are_VBP lightly_RB dressed_VBN to_TO let_VB the_DT natural_JJ flavors_NNS shine_VBP ._.
+We_PRP especially_RB appreciate_VBP the_DT wine_NN list_NN ,_, heavy_JJ with_IN unusual_JJ Italian_JJ options_NNS and_CC several_JJ Super_NNP Tuscans_NNPS ._.
+Charming_JJ ,_, dimly_JJ lit_VBD rooms_NNS in_IN this_DT old_JJ house_NN make_VB for_IN a_DT romantic_JJ setting_NN conducive_JJ to_TO sharing_VBG the_DT chocolate_NN mousse_NN for_IN dessert_NN making_VBG for_IN an_DT enchanted_JJ dining_NN experience_NN ._.

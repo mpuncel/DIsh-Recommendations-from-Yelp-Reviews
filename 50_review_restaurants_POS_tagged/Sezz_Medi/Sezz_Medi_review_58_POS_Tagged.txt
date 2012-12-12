@@ -1,0 +1,5 @@
+Brick_NNP oven_CD pizza_NN ..._: tasted_VBD more_JJR like_IN brick_NN than_IN pizza_NN ._.
+Not_RB the_DT best_JJS of_IN brick_NN ovens_NNS ._.
+It_PRP was_VBD just_RB nothing_NN to_TO rave_VB about_RB ._.
+Waitress_NN did_VBD the_DT minimal_JJ on_IN directing_VBG us_PRP through_IN the_DT menu_NN ._.
+No_DT rush_NN to_TO return_VB as_IN there_EX are_VBP so_RB many_JJ other_JJ tastier_JJR options_NNS ._.

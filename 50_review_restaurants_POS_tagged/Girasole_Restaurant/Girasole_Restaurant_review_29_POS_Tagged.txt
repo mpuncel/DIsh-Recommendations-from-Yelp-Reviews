@@ -1,0 +1,4 @@
+Very_RB very_RB nice_JJ small_JJ Italian_JJ restaurant_NN ._.
+Seating_NN is_VBZ very_RB limited_JJ but_CC food_NN and_CC service_NN are_VBP wonderful_JJ ._.
+My_PRP$ only_JJ small_JJ complaint_NN is_VBZ the_DT price_NN for_IN a_DT bottle_NN of_IN wine_NN is_VBZ a_DT little_JJ pricey_JJ ._.
+They_PRP should_MD make_VB at_IN least_JJS several_JJ bottles_NNS a_DT bit_NN more_RBR reasonable_JJ ._.

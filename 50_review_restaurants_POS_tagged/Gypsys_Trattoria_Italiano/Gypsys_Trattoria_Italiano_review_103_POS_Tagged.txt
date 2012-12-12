@@ -1,0 +1,4 @@
+Carbonara_NNP and_CC Gypsy_NNP 's_POS chicken_NN with_IN Nang_NNP ._.
+They_PRP 're_VBP food_NN was_VBD tasty_JJ and_CC made_VBD me_PRP full_JJ right_JJ away_RB since_IN their_PRP$ portions_NNS are_VBP quite_RB big_JJ !_.
+I_PRP do_VBP n't_RB really_RB like_IN to_TO waste_VB but_CC I_PRP was_VBD so_RB full_JJ ._.
+I_PRP enjoyed_VBD their_PRP$ food_NN =_SYM -RRB-_-RRB-

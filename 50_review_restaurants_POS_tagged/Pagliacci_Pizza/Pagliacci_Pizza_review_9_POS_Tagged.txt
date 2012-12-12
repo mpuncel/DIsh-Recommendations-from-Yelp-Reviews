@@ -1,0 +1,5 @@
+The_DT most_RBS delicious_JJ pizza_NN in_IN Seattle_NNP !_.
+I_PRP know_VBP firsthand_RB that_IN the_DT Ave_NNP storefront_NN has_VBZ a_DT great_JJ atmosphere_NN -LRB-_-LRB- after_IN spending_VBG like_IN 2_CD hours_NNS there_RB last_JJ week_NN -RRB-_-RRB- ,_, the_DT walls_NNS are_VBP littered_VBN with_IN movie_NN posters_NNS in_IN Italian_JJ and_CC the_DT staff_NN are_VBP super_JJ friendly_JJ ._.
+The_DT pizza_NN is_VBZ always_RB SO_RB GOOD_JJ !_.
+Although_IN the_DT slices_NNS could_MD 've_VB been_VBN bigger_JJR ,_, -LRB-_-LRB- I_PRP should_MD 've_VB just_RB bought_VBN a_DT whole_JJ pizza_NN -RRB-_-RRB- ._.
+Expect_VB to_TO pay_VB more_JJR for_IN their_PRP$ pizza_NN ,_, but_CC every_DT once_RB and_CC a_DT while_IN you_PRP need_VBP to_TO splurge_VB on_IN quality_NN pizza_NN !_.

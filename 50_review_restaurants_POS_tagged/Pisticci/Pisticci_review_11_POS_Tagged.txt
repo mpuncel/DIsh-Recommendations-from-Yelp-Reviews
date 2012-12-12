@@ -1,0 +1,5 @@
+The_DT Platonic_NNP form_NN of_IN neighborhood_NN Italian_JJ ._.
+Stylish_JJ ._.
+Homey_NNP ._.
+Warm_JJ ._.
+Tasty_JJ !_.

@@ -1,0 +1,17 @@
+This_DT place_NN is_VBZ not_RB a_DT full_JJ service_NN restaurant_NN ._.
+It_PRP 's_VBZ one_CD of_IN those_DT places_NNS where_WRB you_PRP order_NN at_IN the_DT counter_NN ,_, pay_NN and_CC then_RB wait_VB for_IN your_PRP$ number_NN to_TO be_VB called_VBN to_TO pickup_NN your_PRP$ food_NN ._.
+They_PRP do_VBP serve_VB the_DT food_NN on_IN real_JJ plates_NNS and_CC silverware_NN ._.
+The_DT food_NN is_VBZ amazing_JJ though_IN ._.
+The_DT price_NN is_VBZ extremely_RB reasonable_JJ ._.
+We_PRP paid_VBD $_$ 25_CD for_IN 2_CD plates_NNS of_IN pastas_NNS and_CC a_DT pizza_NN ._.
+Ok_NNP then_RB ,_, here_RB 's_VBZ the_DT low_JJ down_RP on_IN the_DT food_NN we_PRP had_VBD ._.
+Linguini_NNP Carbonara_NNP -_: it_PRP was_VBD amazing_JJ ._.
+They_PRP load_VBP it_PRP with_IN lots_NNS of_IN pancetta_NN ._.
+Linguini_NNP with_IN Clams_NNP and_CC Cream_NNP sauce_NN -_: I_PRP 've_VBP never_RB had_VBN it_PRP with_IN cream_NN sauce_NN ._.
+They_PRP give_VBP you_PRP lots_NNS of_IN chopped_VBN clams_NNS and_CC chopped_VBN garlic_NN ._.
+It_PRP was_VBD delicious_JJ ._.
+Pizza_NNP -_: we_PRP had_VBD the_DT Caprese_NNP ._.
+The_DT toppings_NNS were_VBD great_JJ and_CC fresh_JJ ._.
+The_DT thin_JJ crust_NN had_VBD really_RB good_JJ flavor_NN but_CC the_DT center_NN got_VBD really_RB soggy_JJ due_JJ to_TO the_DT juices_NNS from_IN the_DT fresh_JJ tomatoes_NNS ._.
+I_PRP hate_VBP soggy_JJ crust_NN ._.
+The_DT pasta_NN dishes_NNS came_VBD with_IN a_DT piece_NN of_IN roasted_JJ garlic_JJ toast_NN ,_, omg_NN ,_, it_PRP was_VBD so_RB good_JJ ._.

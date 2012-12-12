@@ -1,0 +1,5 @@
+Nice_JJ restaurant_NN that_WDT serves_VBZ local_JJ organic_JJ food_NN ._.
+Everything_NN is_VBZ fresh_JJ ._.
+Small_JJ quantity_NN with_IN high_JJ quality_NN of_IN food_NN ._.
+We_PRP really_RB enjoyed_VBD our_PRP$ food_NN and_CC the_DT waiter_NN was_VBD attentive_JJ and_CC knowledgeable_JJ ._.
+I_PRP only_RB wish_VBP the_DT portion_NN can_MD be_VB bigger_JJR considering_VBG how_WRB much_JJ is_VBZ charged_VBN ._.

@@ -1,0 +1,5 @@
+Take_VB your_PRP$ friends_NNS and_CC family_NN here_RB for_IN pizza_NN !_.
+It_PRP 's_VBZ an_DT adventure_NN just_RB to_TO order_NN and_CC serve_VB your_PRP$ own_JJ soda_NN ._.
+If_IN you_PRP do_VBP n't_RB drink_VB soda_NN ,_, do_VBP it_PRP just_RB to_TO play_VB with_IN the_DT touch-screen_JJ Ferrari_NNP machine_NN ._.
+Their_PRP$ pizza_NN has_VBZ the_DT best_JJS pizza_NN sauce_NN ._.
+I_PRP 'll_MD wait_VB to_TO have_VB pizza_NN here_RB every_DT time_NN ._.

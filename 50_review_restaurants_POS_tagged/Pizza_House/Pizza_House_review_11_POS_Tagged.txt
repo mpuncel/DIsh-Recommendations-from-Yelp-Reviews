@@ -1,0 +1,2 @@
+It_PRP 's_VBZ good_JJ pizza_NN and_CC the_DT only_JJ place_NN with_IN Chicago_NNP style_NN Stuff_NNP and_CC Deep_NNP Dish_NNP pizza_NN ._.
+I_PRP 've_VBP had_VBD their_PRP$ subs_NNS and_CC burgers_NNS as_RB well_RB as_IN there_EX chapatis_VBZ ,_, and_CC they_PRP are_VBP good_JJ !!!_CD The_DT only_JJ thing_NN about_IN Pizza_NNP House_NNP is_VBZ that_IN it_PRP is_VBZ a_DT bit_NN pricey_JJ for_IN good_JJ pizza_NN ._.

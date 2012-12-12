@@ -1,0 +1,17 @@
+As_IN some_DT other_JJ reviews_NNS have_VBP said_VBN ,_, the_DT pizza_NN is_VBZ wet_JJ and_CC soggy_JJ ._.
+I_PRP think_VBP the_DT only_JJ reason_NN they_PRP do_VBP good_JJ business_NN is_VBZ because_IN of_IN the_DT prices_NNS ._.
+A_DT margherita_NN pizza_NN is_VBZ only_RB $_$ 6.45_CD ._.
+Where_WRB else_RB can_MD you_PRP get_VB a_DT whole_JJ pizza_NN for_IN $_$ 6.45_CD ?_.
+All_PDT the_DT college_NN students_NNS go_VBP there_RB because_IN it_PRP is_VBZ so_RB cheap_JJ ._.
+It_PRP 's_VBZ cheap_JJ for_IN a_DT reason_NN ._.
+You_PRP get_VBP what_WP you_PRP pay_VBP for_IN ._.
+The_DT pizza_NN was_VBD awful_JJ ._.
+It_PRP was_VBD one_CD of_IN the_DT worst_JJS pizzas_NNS I_PRP have_VBP ever_RB had_VBN ._.
+There_EX are_VBP plenty_NN of_IN pizza_NN places_NNS in_IN Westwood_NNP ._.
+I_PRP have_VBP been_VBN to_TO most_JJS of_IN them_PRP ._.
+They_PRP are_VBP all_RB better_JJR than_IN this_DT place_NN ._.
+I_PRP like_VBP the_DT pizza_NN at_IN California_NNP Pizza_NNP Kitchen_NN ._.
+The_DT pizza_NN at_IN whole_JJ foods_NNS is_VBZ very_RB good_JJ ._.
+Lamonica_NNP 's_POS is_VBZ mediocre_JJ ._.
+There_EX is_VBZ a_DT Domino_NNP 's_POS and_CC a_DT Papa_NN Jon_NNP 's_POS in_IN Westwood_NNP ._.
+The_DT pizza_NN at_IN any_DT one_CD of_IN those_DT places_NNS is_VBZ much_RB better_JJR than_IN at_IN 800_CD Degrees_NNS ._.

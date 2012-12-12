@@ -1,0 +1,7 @@
+Pagliacci_NNP 's_POS is_VBZ GREAT_JJ pizza_NN ._.
+This_DT location_NN has_VBZ excellent_JJ pizza-by-the-slice_NN and_CC the_DT staff_NN is_VBZ very_RB friendly_JJ ,_, cordial_JJ ,_, efficient_JJ and_CC helpful_JJ ._.
+The_DT interior_NN is_VBZ like_IN a_DT haven_NN from_IN the_DT usual_JJ unfriendly_JJ and_CC too-cool-for-school_JJ attitude_NN and_CC dreck_NN of_IN the_DT U_NNP District_NNP ._.
+I_PRP have_VBP never_RB been_VBN a_DT giant_JJ fan_NN of_IN their_PRP$ crust_NN but_CC slice-for-slice_NN ,_, they_PRP are_VBP one_CD of_IN the_DT best_JJS pizza_NN places_NNS in_IN Seattle_NNP ,_, if_IN not_RB the_DT United_NNP States_NNPS ._.
+-LRB-_-LRB- And_CC can_MD someone_NN please_VB tell_VB me_PRP how_WRB to_TO pronounce_VB this_DT place_NN ?_.
+I_PRP get_VBP PAG-liacci_JJ ,_, I_PRP get_VBP PAH-lacci_JJ ,_, both_DT from_IN employees_NNS and_CC patrons_NNS ._.
+It_PRP 's_VBZ a_DT classic_JJ Seattle_NNP mess_NN -RRB-_-RRB- ._.

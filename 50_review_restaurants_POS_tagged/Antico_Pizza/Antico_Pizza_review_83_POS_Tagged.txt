@@ -1,0 +1,3 @@
+Great_NNP pizza_NN and_CC a_DT unique_JJ atmosphere_NN ._.
+The_DT line_NN moves_VBZ quickly_RB and_CC is_VBZ well_RB worth_JJ the_DT wait_NN ._.
+The_DT sausage_NN and_CC sweet_JJ chili_NNS pizza_NN was_VBD outstanding_JJ ._.

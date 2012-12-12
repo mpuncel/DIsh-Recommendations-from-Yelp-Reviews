@@ -1,0 +1,2 @@
+Unimpressed_NNP ,_, pizza_NN was_VBD gross_JJ ._.
+I_PRP will_MD not_RB be_VB returning_VBG for_IN more_JJR ._.

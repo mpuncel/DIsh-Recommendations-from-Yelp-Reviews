@@ -1,0 +1,13 @@
+Just_RB ate_VBD at_IN Angelino_NNP 's_POS today_NN because_IN of_IN all_PDT the_DT positive_JJ Yelps_NNP ._.
+Very_RB small_JJ and_CC hidden_JJ --_: but_CC that_DT made_VBD it_PRP more_RBR fun_NN ._.
+Liked_VBD the_DT location_NN just_RB off_IN of_IN Westwood_NNP Blvd._NNP -_: so_RB close_RB to_TO the_DT action_NN without_IN being_VBG overrun_VBN with_IN traffic_NN noise_NN ._.
+My_PRP$ Chicken_NNP Parm_NNP ._.
+was_VBD good_JJ -_: not_RB great_JJ ._.
+My_PRP$ favorite_JJ Chicken_NNP Parm_NNP ._.
+in_IN the_DT neighborhood_NN is_VBZ at_IN Palomino_NNP --_: HUGE_NNP portion_NN plus_IN a_DT haystack_NN of_IN garlic_JJ butter_NN pasta_NN ._.
+My_PRP$ buddy_NN had_VBD the_DT ravioli_NNS which_WDT he_PRP said_VBD was_VBD great_JJ ._.
+I_PRP love_VBP the_DT fact_NN that_IN it_PRP is_VBZ a_DT true_JJ mom_NN &_CC pop_NN business_NN ,_, and_CC that_DT makes_VBZ it_PRP more_RBR special_JJ ._.
+I_PRP will_MD be_VB back_RB to_TO try_VB the_DT chopped_VBN salad_NN -LRB-_-LRB- maybe_RB tonight_RB -RRB-_-RRB- ._.
+Also_RB ,_, it_PRP is_VBZ very_RB small_JJ ._.
+A_DT group_NN of_IN 10_CD showed_VBD up_RB and_CC they_PRP just_RB about_IN took_VBD every_DT table_NN available_JJ !_.
+All_DT in_IN all_DT --_: very_RB enjoyable_JJ ._.

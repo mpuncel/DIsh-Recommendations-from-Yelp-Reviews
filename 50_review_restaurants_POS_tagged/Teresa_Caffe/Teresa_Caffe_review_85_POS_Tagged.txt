@@ -1,0 +1,3 @@
+I_PRP had_VBD the_DT conchiglie_NN balsalmico_NN ._.
+I_PRP thought_VBD it_PRP was_VBD excellent_JJ ._.
+Not_RB a_DT great_JJ value_NN at_IN $_$ 16_CD ,_, but_CC worth_IN it_PRP for_IN a_DT special_JJ occasion_NN ._.

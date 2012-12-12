@@ -1,0 +1,8 @@
+Great_NNP calamari_NN appetizer_NN and_CC good_JJ salads_NNS ._.
+OK_JJ house_NN wine_NN ._.
+Generous_JJ portions_NNS ._.
+Canned_VBN mushrooms_NNS used_VBN for_IN chicken_NN Marsala_NNP but_CC fetticini_NNS was_VBD fresh_JJ ._.
+Pasta_NN Bene_NNP dish_NN had_VBD fresh_JJ vegetables_NNS ._.
+Friendly_RB and_CC efficient_JJ staff_NN ._.
+I_PRP will_MD be_VB back_RB ._.
+Crowd_NN seems_VBZ to_TO show_VB up_RP after_IN 7_CD pm_NN on_IN Saturday_NNP ._.

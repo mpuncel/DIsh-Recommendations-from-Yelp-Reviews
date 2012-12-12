@@ -1,0 +1,8 @@
+Babbo_NNP NYC_NNP it_PRP is_VBZ not_RB ,_, but_CC Babbo_NNP SSC_NNP provides_VBZ consistently_RB good_JJ Italian_JJ fare_NN in_IN a_DT cosy_JJ setting_NN ._.
+The_DT outdoor_JJ patio_NN is_VBZ wonderful_JJ on_IN a_DT nice_JJ day_NN and_CC the_DT wait_NN staff_NN is_VBZ always_RB so_RB friendly_JJ I_PRP want_VBP to_TO hug_NN it_PRP ._.
+I_PRP 've_VBP been_VBN a_DT handful_NN of_IN times_NNS and_CC have_VBP tried_VBN most_JJS of_IN the_DT pastas_NNS ._.
+They_PRP 've_VBP all_DT been_VBN tasty_JJ ,_, but_CC the_DT spinach_NN tortellini_NNS in_IN creamy_JJ sauce_NN is_VBZ great_JJ ._.
+This_DT is_VBZ coming_VBG from_IN a_DT marinara_NN maniac_NN -_: I_PRP stray_VBP from_IN my_PRP$ preferences_NNS for_IN that_DT tortellini_NNS ._.
+Also_RB worth_JJ noting_VBG is_VBZ the_DT smoked_JJ salmon_NN appetizer_NN that_WDT comes_VBZ with_IN the_DT standard_JJ Lox_NNP accompaniments_NNS on_IN flat_JJ bread_NN ._.
+For_IN dessert_NN try_VBP the_DT lemon_NN tart_JJ ._.
+Yum_NNP num_NN num_NN ._.

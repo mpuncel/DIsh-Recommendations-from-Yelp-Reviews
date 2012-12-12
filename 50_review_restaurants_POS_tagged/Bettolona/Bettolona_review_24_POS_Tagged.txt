@@ -1,0 +1,6 @@
+Have_NNP eaten_VBN here_RB four_CD times_NNS since_IN the_DT restaurant_NN opened_VBD ._.
+Food_NNP is_VBZ great_JJ ._.
+Love_NNP the_DT brick-oven_JJ pizzas_NNS ._.
+Great_NNP addition_NN to_TO the_DT neighborhood_NN ._.
+-LRB-_-LRB- At_IN the_DT present_JJ time_NN ,_, the_DT restaurant_NN is_VBZ still_RB waiting_VBG for_IN its_PRP$ liquor_NN license_NN ,_, so_IN you_PRP have_VBP to_TO bring_VB your_PRP$ own_JJ wine_NN ._.
+Fortunately_RB ,_, there_EX 's_VBZ a_DT liquor_NN store_NN nearby_RB ._. -RRB-_-RRB-

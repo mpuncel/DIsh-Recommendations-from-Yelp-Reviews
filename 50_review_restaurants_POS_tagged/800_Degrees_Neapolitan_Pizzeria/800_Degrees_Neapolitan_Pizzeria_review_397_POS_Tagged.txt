@@ -1,0 +1,5 @@
+pizza_NN was_VBD good_JJ ._.
+Good_JJ subway_NN style_NN concept_NN for_IN pizza_NN ._.
+Fast_RB turn_VB over_RP time_NN ._.
+It_PRP was_VBD n't_RB the_DT greatest_JJS pizza_NN tasted_VBD ever_RB ,_, but_CC like_IN the_DT freshness_NN and_CC the_DT idea_NN ._.
+I_PRP suggest_VBP you_PRP try_VB it_PRP if_IN you_PRP have_VBP n't_RB already_RB ._.

@@ -1,0 +1,8 @@
+Delicious_NNP food_NN ,_, wonderful_JJ atmosphere_NN ,_, the_DT owner_NN and_CC waitstaff_NN are_VBP great_JJ ._.
+Only_RB problem_NN is_VBZ that_IN it_PRP gets_VBZ very_RB crowded_VBN for_IN dinner_NN sometimes_RB ,_, and_CC they_PRP do_VBP n't_RB take_VB reservations_NNS ._.
+In_IN my_PRP$ experience_NN ,_, the_DT pasta_NN and_CC appetizers_NNS are_VBP wayyy_JJ better_JJR than_IN the_DT fish_NN and_CC meat_NN main_JJ courses_NNS ._.
+Tomato-based_JJ sauces_NNS are_VBP done_VBN extremely_RB well_RB ._.
+They_PRP grow_VBP a_DT lot_NN of_IN food_NN nearby_JJ or_CC on_IN the_DT premises_NNS and_CC you_PRP can_MD tell_VB from_IN the_DT taste_NN of_IN the_DT food_NN ._.
+Also_RB ,_, they_PRP have_VBP an_DT award_NN for_IN being_VBG a_DT green_JJ restaurant_NN ,_, whatever_WDT that_WDT means_VBZ ._.
+This_DT place_NN is_VBZ great_JJ ._.
+It_PRP will_MD please_VB anyone_NN ,_, all-around_JJ ._.

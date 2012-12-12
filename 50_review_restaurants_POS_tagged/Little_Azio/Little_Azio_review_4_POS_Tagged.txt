@@ -1,0 +1,5 @@
+i_FW ordered_VBD the_DT asain_NN chicken_NN salad_NN ._.
+by_IN far_RB the_DT best_JJS salad_NN i_FW have_VBP had_VBN ._.
+a_DT little_JJ pricy_NN but_CC well_RB worth_IN it_PRP ._.
+i_FW add_VB shrimp_NN to_TO it_PRP and_CC tell_VB them_PRP no_DT peppers_NNS which_WDT adds_VBZ another_DT $_$ 4_CD to_TO the_DT price_NN but_CC once_RB again_RB ._.
+well_RB worth_IN it_PRP !!_VBD the_DT amitosa_NN pizza_NN is_VBZ great_JJ as_RB well_RB ._.

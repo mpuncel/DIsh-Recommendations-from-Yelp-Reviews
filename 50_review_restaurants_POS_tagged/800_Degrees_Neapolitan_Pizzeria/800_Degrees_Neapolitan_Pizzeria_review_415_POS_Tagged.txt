@@ -1,0 +1,3 @@
+Genius_NN ,_, this_DT is_VBZ coming_VBG from_IN an_DT anonymous_JJ Chipotle_NNP addict_NN ._.
+Seriously_RB a_DT genius_NN idea_NN ._.
+Awesome_JJ ~_NN !_.

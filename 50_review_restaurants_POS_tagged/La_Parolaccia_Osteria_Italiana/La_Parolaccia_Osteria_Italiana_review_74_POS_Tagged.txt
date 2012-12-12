@@ -1,0 +1,3 @@
+I_PRP personally_RB do_VBP not_RB like_VB any_DT of_IN their_PRP$ food_NN except_IN I_PRP do_VBP LOVE_VB their_PRP$ pizza_NN ._.
+They_PRP have_VBP a_DT wood_NN fired_VBD oven_CD and_CC thin_JJ crust_NN ,_, and_CC that_DT makes_VBZ all_PDT the_DT difference_NN ._.
+We_PRP stick_VBP to_TO the_DT classic_JJ marinara_NN ._.

@@ -1,0 +1,3 @@
+Fast_RB food_NN for_IN the_DT hungry_JJ Columbia_NNP student_NN ._.
+Food_NNP is_VBZ decent_JJ ,_, price_NN is_VBZ affordable_JJ ,_, and_CC reasonably_RB close_JJ by_IN ._.
+I_PRP 'd_MD give_VB it_PRP a_DT 3.5_CD stars_NNS because_IN the_DT garlic_JJ knots_NNS make_VBP me_PRP happy_JJ :_: -RRB-_-RRB- Recommendations_NNPS \*_SYM Garlic_NNP Knots_NNP \*_SYM Calzone_NN with_IN fillings_NNS

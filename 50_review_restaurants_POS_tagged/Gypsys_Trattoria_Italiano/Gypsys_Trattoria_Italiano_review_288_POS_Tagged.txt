@@ -1,0 +1,9 @@
+This_DT is_VBZ seriously_RB the_DT first_JJ Italian_JJ restaurant_NN I_PRP 've_VBP been_VBN to_TO with_IN no_DT waiter_NN service_NN -LRB-_-LRB- i.e._FW my_PRP$ first_JJ visit_NN to_TO a_DT trattoria_NN ._. -RRB-_-RRB-
+Ordered_VBD the_DT Chicken_NNP Parmigiano_NNP which_WDT included_VBD spaghetti_NNS and_CC bread_NN garnished_VBN with_IN a_DT clove_NN of_IN garlic_NN ._.
+The_DT chicken_NN was_VBD okay_JJ ;_: I_PRP was_VBD kind_NN of_IN looking_VBG for_IN more_JJR ._.
+The_DT spaghetti_NNS was_VBD a_DT little_JJ greasy_NN and_CC definitely_RB out-portioned_VBD the_DT chicken_NN ._.
+The_DT cheese_NN was_VBD a_DT strong_JJ mozzarella_NN and_CC distracted_VBN from_IN the_DT taste_NN of_IN the_DT meat_NN ._.
+The_DT sauce_NN used_VBN in_IN this_DT dish_NN was_VBD lacking_VBG in_IN spice_NN ._.
+I_PRP like_VBP how_WRB they_PRP serve_VBP their_PRP$ bread_NN ,_, but_CC I_PRP think_VBP a_DT prepared_JJ garlic_JJ butter_NN would_MD have_VB had_VBD a_DT better_JJR finish_NN ;_: nonetheless_RB ,_, the_DT garlic_JJ clove_NN made_VBN for_IN an_DT interesting_JJ after_IN taste_NN ._.
+Maybe_RB I_PRP 'm_VBP not_RB used_VBN to_TO this_DT type_NN of_IN restaurant_NN ._.
+For_IN now_RB ,_, I_PRP 'll_MD leave_VB it_PRP with_IN two_CD stars_NNS and_CC I_PRP 'll_MD try_VB it_PRP again_RB later_RB ._.

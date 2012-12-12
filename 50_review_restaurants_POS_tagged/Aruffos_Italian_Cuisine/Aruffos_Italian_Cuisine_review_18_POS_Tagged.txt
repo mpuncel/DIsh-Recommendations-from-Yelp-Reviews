@@ -1,0 +1,2 @@
+Great_NNP fresh_JJ bread_NN with_IN a_DT Roasted_NNP Red_NNP Pepper_NNP Pesto_NNP ._.
+An_DT excellent_JJ Salmon_NNP Bisque_NNP and_CC the_DT Calamari_NNP Fritti_NNP was_VBD very_RB good_JJ ._.

@@ -1,0 +1,3 @@
+Great_NNP place_NN ._.
+Excellent_JJ service_NN ,_, decent_JJ food_NN ,_, great_JJ prices_NNS ,_, good_JJ variety_NN in_IN the_DT menu_NN ,_, and_CC clean_JJ ._.
+It_PRP 's_VBZ a_DT pleasure_NN to_TO go_VB to_TO a_DT place_NN where_WRB you_PRP can_MD get_VB a_DT good_JJ meal_NN without_IN getting_VBG stuck_VBN with_IN a_DT big_JJ bill_NN ._.

@@ -1,0 +1,6 @@
+Northern_NNP Italian_NNP -LRB-_-LRB- American_NNP -RRB-_-RRB- feel_VBP is_VBZ a_DT consistent_JJ producer_NN in_IN the_DT Princeton_NNP area_NN ._.
+I_PRP 've_VBP been_VBN there_RB several_JJ times_NNS and_CC enjoy_VB the_DT wine_NN ,_, apps_NNS ,_, and_CC entrees_NNS ._.
+The_DT halibut_NN rocks_NNS ._.
+I_PRP understand_VBP why_WRB people_NNS say_VBP it_PRP is_VBZ a_DT little_JJ pricey_JJ for_IN what_WP it_PRP is_VBZ ._.
+I_PRP get_VBP that_IN comment_NN ,_, but_CC if_IN you_PRP can_MD get_VB past_JJ that_IN ,_, the_DT service_NN and_CC ambience_NN ,_, and_CC food_NN make_VBP up_RP for_IN it_PRP ._.
+I_PRP recommend_VBP ._.

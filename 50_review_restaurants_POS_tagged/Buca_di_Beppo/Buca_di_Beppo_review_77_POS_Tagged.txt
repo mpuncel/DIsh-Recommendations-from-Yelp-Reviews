@@ -1,0 +1,7 @@
+It_PRP 's_VBZ the_DT Olive_NNP Garden_NNP on_IN steroids_NNS !_.
+Atmosphere_NN is_VBZ fun_NN ,_, someone_NN said_VBD romantic_JJ ,_, I_PRP think_VBP not_RB ._.
+Food_NNP is_VBZ standard_JJ Olive_NNP Garden_NNP mediocre_JJ Italian_JJ food_NN ,_, just_RB lots_NNS more_JJR of_IN at_IN ,_, but_CC you_PRP pay_VBP the_DT price_NN for_IN it_PRP ._.
+Service_NNP -_: OK_JJ Wine_NN List_NN -_: large_JJ ,_, but_CC not_RB varied_VBD enough_RB ._.
+Bar_NN -_: drinks_NNS are_VBP good_JJ but_CC over-priced_JJ ._.
+Italian_JJ restaurants_NNS like_IN these_DT are_VBP a_DT dime_NN a_DT dozen_NN and_CC there_EX is_VBZ really_RB nothing_NN special_JJ to_TO make_VB anyone_NN want_VBP to_TO come_VB back_RB ._.
+If_IN you_PRP are_VBP looking_VBG for_IN better_JJR food_NN that_WDT will_MD cost_VB less_JJR try_VB Café_NNP Allegro_NNP 's_POS in_IN Upland_NNP or_CC La_NNP Verne_NNP ._.

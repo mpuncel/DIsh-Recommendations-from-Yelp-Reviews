@@ -1,0 +1,5 @@
+Im_NN from_IN NY_NNP and_CC Ive_NNP been_VBN eating_VBG pizza_NN since_IN I_PRP could_MD walk_VB ,_, probably_RB too_RB much_JJ ,_, lol_NN !_.
+This_DT place_NN is_VBZ hands_NNS down_IN some_DT of_IN the_DT best_JJS pizza_NN I_PRP have_VBP had_VBN ._.
+The_DT owner_NN Giovanni_NNP is_VBZ pretty_RB cool_JJ too_RB ._.
+The_DT sausage_NN is_VBZ excellent_JJ ,_, and_CC the_DT red_JJ peppers_NNS are_VBP sweet_JJ and_CC tangy_JJ ._.
+Try_VB this_DT place_NN if_IN you_PRP get_VBP a_DT chance_NN ,_, caus_NN e_SYM the_DT secret_NN will_MD be_VB out_RB soon_RB ._.

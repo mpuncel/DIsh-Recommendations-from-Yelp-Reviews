@@ -1,0 +1,3 @@
+My_PRP$ pizza_NN list_NN is_VBZ not_RB complete_JJ without_IN Al_NNP Forno_NNP in_IN Providence_NNP ,_, RI_NNP !!_NNP This_DT was_VBD our_PRP$ dining_NN mecca_NN while_IN we_PRP lived_VBD in_IN Boston_NNP ._.
+The_DT grilled_JJ margherita_NN pizza_NN piping_VBG hot_JJ from_IN the_DT wood-fired_JJ oven_NN was_VBD spectacular_JJ !_.
+The_DT rest_NN of_IN the_DT menu_NN is_VBZ equally_RB impressive_JJ ,_, but_CC the_DT memory_NN of_IN the_DT pizza_NN just_RB gets_VBZ me_PRP dreaming_VBG ..._:

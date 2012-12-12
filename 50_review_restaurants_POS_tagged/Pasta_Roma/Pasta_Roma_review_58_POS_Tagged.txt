@@ -1,0 +1,8 @@
+Occasion_NN :_: Lunch_NN between_IN finals_NNS What_WP I_PRP Had_VBD :_: Farfalle_NNP Gustose_NNP with_IN Pesto_NNP Sauce_NNP -LRB-_-LRB- $_$ 7.95_CD -RRB-_-RRB- Food_NNP Review_NNP :_: The_DT farfalle_NN gustose_NN is_VBZ bow_NN tie_NN pasta_NN with_IN mushrooms_NNS ,_, sundried_VBN tomatoes_NNS ,_, baby_NN shrimp_NN ,_, and_CC basil_NN in_IN a_DT light_JJ cream_NN sauce_NN ,_, but_CC I_PRP asked_VBD for_IN the_DT pesto_JJ sauce_NN instead_RB ._.
+The_DT pasta_NN itself_PRP was_VBD a_DT little_JJ overcooked_JJ ,_, and_CC the_DT pesto_JJ sauce_NN was_VBD a_DT bit_NN too_RB viscous_JJ because_IN of_IN too_RB much_JJ oil_NN ,_, but_CC they_PRP have_VBP pretty_RB big_JJ portions_NNS ._.
+Service_NNP Review_NNP :_: The_DT lady_NN behind_IN the_DT counter_NN was_VBD friendly_JJ and_CC willing_JJ to_TO let_VB me_PRP switch_VB up_RP the_DT sauce_NN at_IN no_DT additional_JJ cost_NN ._.
+Venue_NNP Review_NNP :_: There_EX is_VBZ plenty_NN of_IN indoor_JJ seating_NN as_RB well_RB as_IN parking_NN in_IN the_DT lot_NN outside_IN the_DT restaurant_NN ._.
+Lots_NNS of_IN local_JJ people_NNS and_CC USC_NNP students_NNS come_VBP here_RB for_IN cheap_JJ Italian_JJ food_NN ._.
+Overall_JJ Impression_NN :_: It_PRP 's_VBZ decent_JJ for_IN what_WP it_PRP is_VBZ :_: fast_JJ food_NN Italian_JJ ._.
+Their_PRP$ big_JJ plus_CC is_VBZ adequate_JJ to_TO large_JJ portions_NNS for_IN around_IN $_$ 8_CD per_IN pasta_NN order_NN ._.
+I_PRP would_MD n't_RB come_VB here_RB with_IN friends_NNS ,_, but_CC if_IN I_PRP 'm_VBP craving_NN pasta_NN for_IN lunch_NN within_IN walking_VBG distance_NN of_IN campus_NN and_CC at_IN a_DT low_JJ price_NN ,_, Pasta_NNP Roma_NNP fits_VBZ the_DT bill_NN ._.

@@ -1,0 +1,2 @@
+Good_JJ food_NN ,_, decent_JJ location_NN ,_, weakest_JJS of_IN the_DT drago_NN restaurants_NNS and_CC Pasadena_NNP needs_VBZ a_DT strong_JJ Italian_JJ place_NN !_.
+But_CC it_PRP 's_VBZ one_CD of_IN the_DT best_JJS in_IN Pasadena_NNP

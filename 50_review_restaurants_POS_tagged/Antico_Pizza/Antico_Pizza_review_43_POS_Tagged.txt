@@ -1,0 +1,8 @@
+Antico_NNP Pizza_NNP =_SYM Crazy_NNP Good_NNP ._.
+Antico_NNP Pizza_NNP +_NNP 12-pack_NN of_IN Bud_NNP Light_NNP =_SYM Classy_NNP I_PRP really_RB enjoyed_VBD my_PRP$ first_JJ experience_NN ._.
+The_DT atmosphere_NN is_VBZ something_NN like_IN I_PRP 've_VBP never_RB seen_VBN and_CC is_VBZ very_RB inviting_VBG ._.
+Some_DT may_MD think_VB it_PRP 's_VBZ a_DT gimmick_NN but_CC it_PRP 's_VBZ kinda_NN fun_NN ._.
+Unfortunately_RB for_IN me_PRP it_PRP was_VBD lent_VBN and_CC I_PRP was_VBD not_RB able_JJ to_TO experience_VB the_DT pizza_NN 's_POS as_IN they_PRP were_VBD meant_VBN to_TO be_VB eaten_VBN -LRB-_-LRB- i.e._FW ,_, meats_VBZ -RRB-_-RRB- ,_, hence_RB the_DT 4-stars_NNS ._.
+One-half_NN of_IN the_DT pizza_NN was_VBD burnt_JJ and_CC the_DT dough_JJ did_VBD n't_RB blow_VB me_PRP away_RB ._.
+What_WP did_VBD thrill_VB me_PRP away_RB was_VBD the_DT sauce_NN and_CC the_DT cheese_NN ._.
+Here_RB 's_VBZ to_TO going_VBG back_RB and_CC maybe_RB upping_VBG the_DT class_NN a_DT notch_NN to_TO Bud_NNP diesel_NN ._.

@@ -1,0 +1,4 @@
+Gypsy_NNP 's_POS is_VBZ my_PRP$ to_TO go_VB place_NN if_IN I_PRP 'm_VBP ever_RB visiting_VBG UCB_NNP ._.
+the_DT portions_NNS are_VBP big_JJ and_CC it_PRP 's_VBZ cheap_JJ ._.
+The_DT menu_NN is_VBZ a_DT bit_NN limited-but_NN who_WP needs_VBZ a_DT ton_NN of_IN choices_NNS ?_.
+the_DT one_CD downside_NN is_VBZ that_IN there_EX is_VBZ no_DT air_NN conditioning_NN so_IN it_PRP can_MD get_VB really_RB hot_JJ and_CC muggy_JJ inside_IN during_IN the_DT summer_NN -_: but_CC in_IN that_DT case_NN i_FW 'd_MD just_RB to_TO go_VB it_PRP !_.

@@ -1,0 +1,9 @@
+Located_VBN almost_RB right_JJ across_IN UC_NNP Berkeley_NNP 's_POS Unit_NN 3_CD ,_, Gypsy_NNP 's_POS was_VBD so_RB convenient_JJ ,_, so_RB good_JJ ,_, and_CC such_PDT a_DT bargain_NN ,_, we_PRP went_VBD two_CD nights_NNS in_IN a_DT row_NN ._.
+When_WRB I_PRP think_VBP about_IN the_DT size_NN and_CC quality_NN of_IN Gypsy_NNP 's_POS ``_`` side_NN salad_NN ,_, ''_'' it_PRP puts_VBZ some_DT of_IN our_PRP$ local_JJ eateries_NNS in_IN Hawaii_NNP to_TO shame_NN ._.
+Two_CD people_NNS can_MD share_VB one_CD side_NN salad_NN ._.
+-LRB-_-LRB- Yeah_UH ,_, Hawaii_NNP costs_VBZ a_DT lot_NN ,_, but_CC so_RB does_VBZ California_NNP ._. -RRB-_-RRB-
+The_DT pastas_NNS were_VBD delicately_RB seasoned_JJ and_CC al_JJ dente_NN as_IN it_PRP should_MD be_VB ._.
+Thank_VB goodness_NN ,_, The_DT Sherbert_NNP suggested_VBD that_IN we_PRP buy_VBP calzones_NNS to_TO take_VB on_RP the_DT plane_NN ride_NN home_NN ._.
+Gypsy_NNP 's_POS was_VBD nice_JJ enough_JJ to_TO give_VB us_PRP a_DT bunch_NN of_IN foiI_NNP to_TO wrap_VB the_DT calzones_NNS tightly_RB ._.
+I_PRP swear_VBP the_DT other_JJ passengers_NNS were_VBD salivating_VBG as_IN we_PRP ate_VBD our_PRP$ calzones_NNS with_IN cabernet_NN on_IN the_DT flight_NN ._.
+Sure_JJ beat_NN the_DT airline_NN 's_POS unappetizing_JJ dry_JJ turkey_NN sandwich_NN !_.

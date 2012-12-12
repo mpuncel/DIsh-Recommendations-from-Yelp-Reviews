@@ -1,0 +1,3 @@
+Its_PRP$ just_RB ok_RB ._.
+Its_PRP$ a_DT nice_JJ place_NN ,_, they_PRP run_VBP it_PRP very_RB well_RB ,_, etc._FW but_CC hte_NN food_NN is_VBZ just_RB ok_RB ._.
+Definitely_RB a_DT popular_JJ place_NN though_IN -_: always_RB very_RB crowded_VBN ,_, requires_VBZ reservations_NNS ,_, etc._FW ._.

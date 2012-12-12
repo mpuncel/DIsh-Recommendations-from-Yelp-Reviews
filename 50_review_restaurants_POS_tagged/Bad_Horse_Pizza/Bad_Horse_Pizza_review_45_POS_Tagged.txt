@@ -1,0 +1,5 @@
+Great_NNP spot_NN ._.
+Pizza_NNP with_IN a_DT gourmet_NN flair_NN but_CC zero_CD pretense_NN ._.
+Tasty_JJ thin_JJ crust_NN ,_, fresh_JJ toppings_NNS with_IN a_DT bunch_NN of_IN creative_JJ choices_NNS ._.
+Bonus_NN is_VBZ a_DT spacious_JJ room_NN with_IN fine_JJ tunes_NNS playing_VBG ._.
+The_DT only_JJ bad_JJ in_IN bad_JJ horse_NN is_VBZ in_IN the_DT name_NN ._.

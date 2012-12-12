@@ -1,0 +1,7 @@
+I_PRP was_VBD so_RB excited_JJ to_TO see_VB a_DT sit-down_JJ pizza_NN restaurant_NN in_IN Harlem_NNP ._.
+I_PRP love_VBP thin_JJ crust_NN pizza_NN ,_, New_NNP Haven_NNP CT_SYM -_: Pepe_NNP 's_POS has_VBZ the_DT best_JJS to_TO date_NN ._.
+I_PRP ordered_VBD the_DT shrimp_NN and_CC artichoke_NN pizza_NN ._.
+The_DT shrimp_NN were_VBD bland_VBN ,_, no_DT seasoning_NN and_CC were_VBD not_RB sauteed_VBN in_IN garlic_JJ as_IN stated_VBN on_IN the_DT menu_NN ._.
+The_DT crust_NN was_VBD tasteless_JJ ,_, however_RB the_DT tomato_NN sauce_NN was_VBD flavorful_JJ ._.
+I_PRP think_VBP the_DT plain_JJ cheese_NN and_CC pepperoni_NNS are_VBP probably_RB a_DT safe_JJ bet_NN ._.
+Hopefully_RB they_PRP will_MD work_VB out_RP the_DT kinks_NNS ,_, a_DT good_JJ addition_NN to_TO the_DT other_JJ Harlem_NNP restaurants_NNS

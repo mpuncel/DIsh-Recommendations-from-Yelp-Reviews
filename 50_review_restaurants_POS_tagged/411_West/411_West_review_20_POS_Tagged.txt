@@ -1,0 +1,3 @@
+The_DT food_NN was_VBD amazing_JJ !_.
+I_PRP got_VBD a_DT small_JJ plate_NN ,_, which_WDT was_VBD the_DT perfect_JJ amount_NN of_IN food_NN for_IN dinner_NN ._.
+Pretty_NNP nice_JJ restaurant_NN and_CC the_DT prices_NNS were_VBD reasonable_JJ too_RB ._.

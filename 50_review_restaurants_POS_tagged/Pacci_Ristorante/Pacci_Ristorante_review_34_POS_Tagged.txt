@@ -1,0 +1,9 @@
+I_PRP found_VBD Pacci_NNP to_TO be_VB a_DT very_RB nice_JJ ,_, upscale_JJ restaurant_NN with_IN good_JJ service_NN ,_, atmosphere_NN ,_, and_CC overall_JJ good_JJ food_NN ._.
+I_PRP was_VBD not_RB keen_JJ on_IN the_DT gnocchi_NNS ,_, but_CC all_DT else_RB was_VBD very_RB good_JJ ._.
+The_DT restaurant_NN does_VBZ not_RB keep_VB up_RP their_PRP$ website_NN ._.
+I_PRP DO_VBP NOT_RB like_IN this_DT ._.
+Many_JJ of_IN us_PRP use_VBP that_IN in_IN choosing_VBG a_DT restaurant_NN so_RB this_DT is_VBZ a_DT big_JJ disservice_NN to_TO their_PRP$ guests_NNS ._.
+Other_JJ than_IN that_DT though_IN ,_, all_DT was_VBD well_RB and_CC this_DT is_VBZ a_DT high_JJ quality_NN place_NN to_TO go_VB ._.
+An_DT appealing_JJ bar_NN area_NN is_VBZ avail_NN if_IN you_PRP just_RB wanted_VBD to_TO stop_VB in_RP for_IN a_DT drink_NN and_CC have_VB a_DT peek_NN ._.
+It_PRP 's_VBZ located_VBN off_RP the_DT lobby_NN of_IN the_DT Hotel_NNP Palomar_NNP in_IN Atlanta_NNP ,_, and_CC in_IN the_DT hotel_NN lobby_NN ,_, is_VBZ a_DT beautiful_JJ salt_NN water_NN aquarium_NN ._.
+Stop_NN by_IN to_TO watch_VB the_DT colorful_JJ fish_NN !_.

@@ -1,0 +1,4 @@
+Fresh_JJ and_CC delicious_JJ pizza_NN -_: quality_NN ingredients_NNS ._.
+They_PRP serve_VBP beer_NN now_RB -LRB-_-LRB- Peroni_NNP -RRB-_-RRB- but_CC I_PRP 'm_VBP looking_VBG forward_RB to_TO them_PRP offering_VBG some_DT wine_NN !_.
+We_PRP made_VBD some_DT new_JJ friends_NNS while_IN sitting_VBG at_IN the_DT family_NN style_NN tables_NNS and_CC got_VBD a_DT close_NN up_RP view_NN of_IN the_DT other_JJ pizzas_NNS on_IN the_DT tables_NNS and_CC the_DT ones_NNS being_VBG made_VBN ._.
+YUM_NNP ._.

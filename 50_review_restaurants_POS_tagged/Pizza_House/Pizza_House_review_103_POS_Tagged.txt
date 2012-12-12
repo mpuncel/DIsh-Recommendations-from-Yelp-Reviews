@@ -1,0 +1,13 @@
+It_PRP 's_VBZ late_RB ,_, you_PRP are_VBP hungry_JJ ._.
+Pizza_NNP House_NNP is_VBZ open_JJ ._.
+That_DT works_VBZ for_IN me_PRP ._.
+With_IN my_PRP$ husband_NN 's_POS work_NN hours_NNS anything_NN open_JJ late_JJ is_VBZ happy_JJ ._.
+I_PRP sampled_VBD a_DT Michigan_NNP cherry_NN chipati_NNS ,_, a_DT salad_NN stuffed_VBD into_IN a_DT big_JJ pita_NN basically_RB ._.
+Tasty_JJ but_CC way_NN overpriced_VBN ._.
+I_PRP do_VBP love_VB a_DT dried_VBN cherry_NN ,_, walnut_NN and_CC gorgonzola_NN combination_NN ._.
+It_PRP hit_VBD my_PRP$ taste_NN buds_NNS well_RB ._.
+James_NNP had_VBD a_DT calzone_NN ._.
+He_PRP actually_RB wanted_VBD a_DT Chicago_NNP stuffed_VBD but_CC did_VBD not_RB want_VB to_TO wait_VB for_IN it_PRP so_IN he_PRP is_VBZ saving_VBG it_PRP for_IN another_DT time_NN ._.
+The_DT calzone_NN was_VBD decent_JJ and_CC stuffed_VBD pretty_RB full_JJ of_IN three_CD cheeses_NNS ,_, pepperoni_NNS ,_, ham_NN and_CC salami_NN ._.
+Neither_DT of_IN us_PRP were_VBD blown_VBN away_RB but_CC we_PRP liked_VBD it_PRP well_RB enough_RB ._.
+We_PRP will_MD be_VB back_RB to_TO try_VB again_RB ._.

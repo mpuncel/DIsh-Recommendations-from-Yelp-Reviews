@@ -1,0 +1,5 @@
+The_DT place_NN to_TO go_VB for_IN organic_JJ Italian_JJ ._.
+Great_NNP pizza_NN menu_NN ,_, excellent_JJ salads_NNS ,_, and_CC good_JJ pasta_NN options_NNS as_RB well_RB ._.
+They_PRP also_RB have_VBP many_JJ gluten-free_JJ options_NNS ,_, including_VBG pizza_NN crust_NN ._.
+On_IN our_PRP$ visit_NN ,_, the_DT chef_NN made_VBD up_RP some_DT gluten-free_JJ gnocchi_NNS from_IN scratch_NN for_IN my_PRP$ girlfriend_NN ._.
+They_PRP are_VBP also_RB family_NN friendly_JJ -LRB-_-LRB- changing_VBG table_NN in_IN restroom_NN -_: which_WDT I_PRP ,_, having_VBG a_DT diaper_NN wearing_VBG toddler_NN ,_, appreciated_VBN -RRB-_-RRB- ._.

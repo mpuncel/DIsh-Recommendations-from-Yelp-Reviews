@@ -1,0 +1,2 @@
+Yummy_NNP pizza_NN and_CC cool_JJ soda_NN machine_NN !_.
+The_DT line_NN moves_VBZ really_RB fast_JJ so_IN do_VBP n't_RB get_VB discouraged_VBN if_IN there_EX is_VBZ a_DT long_JJ line_NN ._.

@@ -1,0 +1,21 @@
+Viztango_NNP is_VBZ one_CD of_IN my_PRP$ favorite_JJ eateries_NNS around_IN USC_NNP and_CC in_IN Los_NNP Angeles_NNP ._.
+From_IN the_DT food_NN to_TO the_DT price_NN to_TO the_DT service_NN ,_, this_DT place_NN is_VBZ all_DT around_IN a_DT good_JJ deal_NN ._.
+Being_VBG located_VBN walking_VBG distance_NN from_IN the_DT USC_NNP campus_NN and_CC so_RB close_JJ to_TO the_DT Row_NNP and_CC many_JJ student_NN apartments_NNS is_VBZ also_RB a_DT big_JJ bonus_NN for_IN students_NNS ._.
+HAVE_NNP TRIED_VBD :_: -_: Bruschetta_NNP -_: Homemade_NNP ravioli_NNS -_: Fettuccini_NNP alfredo_SYM -_: Farfalle_NNP tequila_NN -_: Aglio_NNP Olio_NNP -_: Carne_NNP asada_NN pizza_NN -_: BBQ_NNP chicken_NN pizza_NN -_: Some_DT type_NN of_IN salad_NN ,_, I_PRP ca_MD n't_RB remember_VB ..._: -_: and_CC probably_RB a_DT few_JJ others_NNS ..._: their_PRP$ menu_NN is_VBZ so_RB big_JJ TASTE_NNP :_: -_: No_UH it_PRP 's_VBZ not_RB gourmet_NN ,_, but_CC pretty_RB decent_JJ and_CC pleasant_JJ as_IN far_RB as_IN taste_NN goes_VBZ ._.
+In_IN my_PRP$ opinion_NN ,_, does_VBZ n't_RB fall_VB short_JJ of_IN most_JJS other_JJ higher_JJR priced_VBN Italian_JJ restaurants_NNS ._.
+-_: Every_DT single_JJ item_NN I_PRP 've_VBP tried_VBN has_VBZ been_VBN a_DT success_NN so_RB far_RB ._.
+QUANTITY_NN :_: -_: Two_CD plates_NNS of_IN pasta_NN would_MD probably_RB feed_VB me_PRP three_CD FULL_NNP meals_NNS ,_, and_CC I_PRP 'm_VBP a_DT big_JJ eater_NN for_IN a_DT girl_NN ._.
+I_PRP usually_RB order_VBP two_CD dishes_NNS with_IN a_DT friend_NN and_CC we_PRP take_VBP the_DT leftover_JJR home_NN ._.
+PRICE_NN :_: -_: So_IN affordable_JJ ._.
+All_DT of_IN their_PRP$ pasta_NN dishes_NNS are_VBP under_IN $_$ 10_CD ._.
+SERVICE_NN :_: -_: You_PRP order_NN and_CC pay_VB up_RP front_JJ and_CC they_PRP give_VBP you_PRP a_DT number_NN tag_NN for_IN your_PRP$ order_NN ._.
+Choose_VB a_DT table_NN to_TO sit_VB down_RP ._.
+They_PRP start_VBP you_PRP off_RP with_IN some_DT bread_NN ,_, and_CC bring_VB your_PRP$ order_NN ._.
+-_: Overall_JJ nothing_NN impressive_JJ ,_, but_CC the_DT staff_NN are_VBP very_RB friendly_JJ and_CC do_VB their_PRP$ job_NN well_RB ._.
+AMBIENCE_NNP :_: -_: Definitely_RB not_RB a_DT place_NN for_IN a_DT romantic_JJ date_NN ._.
+Has_VBZ a_DT local_JJ diner_NN feel_VBP ..._: their_PRP$ interior_JJ design_NN is_VBZ n't_RB superb_VB ,_, but_CC everything_NN else_RB makes_VBZ up_RP for_IN it_PRP ._.
+OTHER_JJ TIPS_NNS :_: -_: Check_VB their_PRP$ menu_NN on_IN their_PRP$ website_NN :_: http:\/\/viztangocafe.com\/menu_SYM -_: They_PRP have_VBP delivery_NN options_NNS ._.
+You_PRP can_MD also_RB order_VB online_JJ or_CC on_IN the_DT phone_NN for_IN pickup_NN ._.
+-_: The_DT parking_NN lot_NN can_MD get_VB crowded_VBN during_IN peak_NN hours_NNS ._.
+You_PRP wo_MD n't_RB have_VB huge_JJ problems_NNS finding_VBG parking_NN ,_, but_CC if_IN possible_JJ ,_, walking_VBG is_VBZ probably_RB the_DT better_JJR option_NN ._.
+BOTTOM_NN LINE_NN :_: a_DT great_JJ place_NN for_IN an_DT affordable_JJ quality_NN meal_NN on_IN school_NN days_NNS ,_, casual_JJ friend_NN dates_NNS ,_, deliveries_NNS ,_, take_VB outs_NNS ,_, and_CC catering_NN ._.

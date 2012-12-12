@@ -1,0 +1,8 @@
+This_DT was_VBD a_DT nice_JJ random_JJ find_VB on_IN a_DT trip_NN to_TO Boston_NNP ._.
+The_DT place_NN is_VBZ small_JJ and_CC cozy_JJ and_CC the_DT noise_NN level_NN is_VBZ just_RB right_RB ._.
+The_DT antipasto_JJ platter_NN contained_VBD a_DT nice_JJ selection_NN of_IN meats_NNS and_CC a_DT fantastic_JJ tangy_JJ goat_NN cheese_NN ._.
+The_DT Caesar_NNP salad_NN here_RB is_VBZ nice_JJ if_IN like_IN bits_NNS of_IN anchovy_NN ._.
+The_DT foccacia_NN bread_NN they_PRP serve_VBP is_VBZ top_JJ notch_NN ._.
+I_PRP had_VBD a_DT the_DT braised_VBN short_JJ rib_NN bolognese_NN which_WDT was_VBD a_DT much_RB bigger_JJR portion_NN than_IN I_PRP imagined_VBD it_PRP would_MD be_VB ._.
+The_DT only_JJ issue_NN is_VBZ that_IN they_PRP do_VBP n't_RB really_RB salt_NN the_DT entrees_NNS ._.
+Salt_NNP aside_RB ,_, the_DT experience_NN was_VBD a_DT nice_JJ one_CD ._.

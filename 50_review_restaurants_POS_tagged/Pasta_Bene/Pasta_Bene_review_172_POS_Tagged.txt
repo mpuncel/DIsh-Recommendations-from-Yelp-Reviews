@@ -1,0 +1,10 @@
+Can_MD we_PRP say_VB AWESOME_NNP ?_.
+Food_NNP is_VBZ tasty_JJ and_CC inexpensive_JJ ._.
+No_DT long_JJ waits_VBZ as_IN you_PRP order_NN at_IN the_DT cash_NN register_NN and_CC the_DT food_NN and_CC drinks_NNS are_VBP brought_VBN to_TO you_PRP ._.
+You_PRP do_VBP n't_RB have_VB to_TO wait_VB for_IN your_PRP$ waiter_NN to_TO bring_VB each_DT item_NN at_IN a_DT time_NN ,_, you_PRP do_VBP n't_RB have_VB to_TO wait_VB for_IN the_DT check_NN ._.
+When_WRB you_PRP 're_VBP done_VBN ,_, you_PRP go_VBP !_.
+Decor_NN is_VBZ pretty_RB nice_JJ in_IN spite_NN of_IN being_VBG in_IN an_DT area_NN trashed_VBN by_IN millions_NNS of_IN dirty_JJ ,_, selfish_JJ ,_, self-entitled_JJ ,_, self-centered_JJ lazy_JJ students_NNS ._.
+Great_NNP place_NN for_IN an_DT inexpensive_JJ meal_NN with_IN the_DT girls_NNS ._.
+If_IN you_PRP sit_VBP outside_RB ,_, beware_VB the_DT homeless_NN and_CC local_JJ students_NNS who_WP will_MD actually_RB ask_VB for_IN a_DT taste_NN of_IN the_DT food_NN you_PRP paid_VBD for_IN with_IN the_DT money_NN you_PRP earned_VBD ._.
+That_DT 's_VBZ right_NN ._.
+Even_RB the_DT students_NNS in_IN the_DT area_NN feel_VBP they_PRP deserve_VBP a_DT piece_NN of_IN your_PRP$ meal_NN despite_IN being_VBG total_JJ strangers_NNS who_WP did_VBD n't_RB in_IN any_DT contribute_VBP to_TO paying_VBG for_IN your_PRP$ meal_NN ._.

@@ -1,0 +1,6 @@
+Pasta_NN if_IN phenomenal_JJ ._.
+The_DT price_NN is_VBZ dirt-cheap_JJ ._.
+They_PRP have_VBP 2_CD prices_NNS -LRB-_-LRB- cash_NN and_CC credit_NN -RRB-_-RRB- :_: .50_CD cent_NN difference_NN ._.
+Refills_NNS are_VBP .50_CD cents_NNS ._.
+Pasta_NN comes_VBZ with_IN garlic_JJ bread_NN -LRB-_-LRB- baked_JJ whole_JJ garlic_NN -RRB-_-RRB- ._.
+Also_RB had_VBD the_DT margarita_NN pizza_NN which_WDT was_VBD nothing_NN to_TO be_VB favored_VBN ._.

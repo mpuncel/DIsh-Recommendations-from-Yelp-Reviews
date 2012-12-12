@@ -1,0 +1,1 @@
+Got_NNP to_TO get_VB their_PRP$ pesto_JJ chicken_NN and_CC calzone_NN ..._: parking_NN here_RB is_VBZ a_DT huge_JJ issue_NN -LRB-_-LRB- right_JJ by_IN the_DT campus_NN -RRB-_-RRB- ..._: if_IN parking_NN was_VBD n't_RB an_DT issue_NN it_PRP 'll_MD easily_RB be_VB a_DT 5_CD star_NN ._. ._.

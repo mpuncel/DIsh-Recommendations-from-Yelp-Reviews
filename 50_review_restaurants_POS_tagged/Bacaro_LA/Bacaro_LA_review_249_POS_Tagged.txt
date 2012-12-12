@@ -1,0 +1,72 @@
+tapas_NNS ?_.
+happy_JJ hour_NN mondays_NNS were_VBD all_DT wine_NN is_VBZ 1\/2_CD off_IN ?_.
+happy_JJ hour_NN were_VBD al_IN the_DT dishes_NNS are_VBP only_RB $_$ 5_CD ?_.
+..._: SIGN_NNP ME_NNP UP_RP !_.
+what_WP i_FW ate_VBD :_: -_: bacaro_NN burger_NN w\/fried_VBD egg_NN :_: whoa_NN ._.
+i_FW think_VB i_FW made_VBD the_DT mistake_NN of_IN having_VBG this_DT last_JJ ._.
+it_PRP was_VBD way_NN too_RB rich_JJ ._.
+the_DT burger_NN meat_NN itself_PRP had_VBD this_DT delicious_JJ crispy_JJ edge_NN from_IN the_DT griddle_NN ._.
+the_DT sauce_NN strangely_RB enough_RB reminded_VBD me_PRP of_IN in_IN n_NN out_IN special_JJ sauce_NN ._.
+the_DT perfectly_RB fried_JJ egg_NN just_RB oozed_VBN over_IN the_DT entire_JJ thing_NN ._.
+this_DT was_VBD heart_NN attach_VB on_IN a_DT tiny_JJ plate_NN ,_, but_CC classier_NN ._.
+while_IN it_PRP was_VBD good_JJ ,_, i_FW think_VB it_PRP was_VBD too_RB rich_JJ ._.
+-_: scallops_NNS :_: two_CD perfectly_RB seared_VBD scallops_NNS lovingly_RB nestled_VBD in_IN a_DT bed_NN of_IN sweet_JJ corn_NN and_CC cherry_NN tomatoes_NNS ._.
+the_DT cherry_NN tomatoes_NNS gave_VBD it_PRP that_IN nice_JJ acidic_JJ zing_NN ._.
+i_FW wish_NN i_FW could_MD have_VB this_DT for_IN dinner_NN every_DT night_NN ._.
+-_: roasted_JJ garlic_JJ pizza_NN :_: roasted_JJ garlic_JJ ,_, i_FW love_NN you_PRP ._.
+as_IN a_DT korean_JJ i_FW am_VBP unashamed_JJ of_IN my_PRP$ intense_JJ love_NN for_IN anything_NN garlic_JJ ._.
+bacaro_NN did_VBD it_PRP right_JJ topping_VBG thin_JJ crispy_JJ pizza_NN with_IN just_RB the_DT right_NN about_IN of_IN cheese\/sauce_NN ,_, and_CC lovingly_RB studded_VBN with_IN roasted_JJ garlic_JJ jewels_NNS ._.
+..._: okay_JJ ,_, so_RB not_RB a_DT first_JJ date_NN kind_NN of_IN dish_NN ,_, but_CC hey_NN ,_, if_IN he_PRP was_VBD really_RB into_IN you_PRP ,_, he_PRP wouldnt_VBD care_NN ,_, right_NN ?_.
+:_: P_SYM -_: burrata_NN cheese_NN -LRB-_-LRB- cold_JJ app_NN -RRB-_-RRB- :_: simple_JJ ._.
+cold_JJ burrata_NN cheese_NN ,_, fresh_JJ cracked_VBN black_JJ pepper_NN ,_, a_DT seductive_JJ splash_NN of_IN olive_JJ oil_NN ._.
+oh_UH lord_NN ,_, im_NN salivating_NN as_IN i_FW write_VB this_DT ._.
+scooping_VBG dollops_NNS on_IN perfectly_RB crusty_JJ bread_NN ?_.
+a_DT marriage_NN made_VBN in_IN heaven_NN ._.
+what_WP is_VBZ bread_NN except_IN a_DT vehicle_NN for_IN cheese_NN ?_.
+i_FW think_VB though_IN this_DT could_MD have_VB been_VBN stepped_VBN up_RP a_DT notch_NN if_IN the_DT bread_NN had_VBD a_DT rub_NN of_IN garlic_NN ._.
+-_: mac_FW n_FW cheese_NN w\/bacon_NN :_: oh_UH cheesy_JJ heaven_NN ._.
+oh_UH ,_, cheesy_JJ cheesy_NN heaven_NN ._.
+the_DT shells_NNS were_VBD perfect_JJ ,_, the_DT penko_NN bread_NN crumbs_VBZ a_DT nice_JJ contrast_NN ._.
+add_VB bacon_NN for_IN a_DT $_$ 1_CD more_JJR ?!_NN yes_RB please_VB !_.
+perfect_JJ amount_NN ._.
+-_: bread_NN pudding_NN w\/ice_VBD cream_NN :_: though_IN tasty_JJ ,_, this_DT was_VBD nothing_NN to_TO write_VB home_NN about_IN ._.
+okay_JJ ,_, okay_JJ ,_, maybe_RB it_PRP was_VBD the_DT fact_NN that_IN i_FW was_VBD STUFFED_VBN that_IN i_FW couldnt_FW appreciate_VB the_DT awesome_JJ deliciousness_NN of_IN the_DT bread_NN pudding_NN ._.
+but_CC it_PRP was_VBD good_JJ !_.
+and_CC we_PRP were_VBD able_JJ to_TO eat_VB half_NN ._.
+-_: house_NN sangria_NN :_: not_RB the_DT best_JJS sangria_NN in_IN the_DT world_NN ,_, but_CC pretty_RB darned_RB good_JJ ._.
+though_RB ,_, i_FW wish_NN i_FW had_VBD a_DT straw_NN -LRB-_-LRB- yea_FW ,_, cause_NN im_NN classy_JJ like_IN that_IN -RRB-_-RRB- ._.
+the_DT sangria_NN was_VBD iced_JJ ,_, and_CC there_EX was_VBD more_RBR ice_NN in_IN my_PRP$ cup_NN ._.
+it_PRP deterred_VBD me_PRP from_IN swigging_VBG that_DT sangria_NN like_IN i_FW meant_VBD it_PRP ._.
+pros_NNS :_: -_: food_NN :_: PERFECTLY_RB portioned_VBN ._.
+i_FW loved_VBD the_DT sizing_VBG ._.
+it_PRP wasnt_VBD too_RB much_RB ,_, it_PRP wasnt_VBD too_RB little_JJ ._.
+i_FW mean_NN ,_, if_IN it_PRP was_VBD too_RB little_JJ ,_, you_PRP didnt_VBP feel_VB that_IN guilty_JJ about_RB just_RB ordering_VBG another_DT dish_NN ._.
+and_CC everything_NN we_PRP ate_VBD was_VBD amazingly_RB delicious_JJ ._.
+the_DT type_NN of_IN food_NN i_FW LOVE_FW eating_NN while_IN drinking_NN ,_, or_CC just_RB while_IN eating_VBG too_RB -_: wine_NN :_: though_IN i_FW got_VBD the_DT sangria_NN ,_, the_DT wine_NN list_NN was_VBD pretty_RB decent_JJ ._.
+everything_NN was_VBD reasonably_RB priced_VBN and_CC there_EX was_VBD definitely_RB something_NN for_IN everyone_NN ._.
+-_: service_NN :_: it_PRP was_VBD a_DT bit_NN of_IN a_DT fumble_JJ early_JJ on_IN because_IN we_PRP came_VBD in_IN at_IN the_DT start_NN of_IN happy_JJ hour_NN to_TO a_DT very_RB empty_JJ bacaro_NN ,_, but_CC i_FW appreciated_VBN that_IN they_PRP were_VBD willing_JJ to_TO change_VB a_DT neighboring_VBG table_NN 's_POS wine_NN when_WRB the_DT neighbor_NN stated_VBD she_PRP didnt_VBD like_IN the_DT glass_NN of_IN wine_NN she_PRP ordered_VBD ._.
+-_: price_NN :_: $_$ 5_CD tapas_NNS plates_VBZ during_IN happy_JJ hour_NN ?_.
+amazing_JJ !_.
+even_RB the_DT glasses_NNS of_IN wine_NN werent_JJ expensive_JJ at_IN all_DT !_.
+definitely_RB affordable_JJ ._.
+Monday_NNP happy_JJ hour_NN :_: 1\/2_CD price_NN wine_NN ._.
+happy_JJ hour_NN mon-thur_NN all_DT plates_NNS are_VBP $_$ 5_CD !_.
+..._: and_CC on_IN Sunday_NNP they_PRP have_VBP AYCE_NNP +_CD drink_NN beefsteak_NN night_NN for_IN $_$ 30_CD ?_.
+wuhht_NN ?_.
+im_NN curious_JJ !_.
+..._: regardless_RB my_PRP$ friend_NN and_CC i_FW ordered_VBN 6_CD dishes_NNS and_CC sangria_NN and_CC it_PRP only_RB came_VBD out_RP to_TO ~_VB $_$ 20\/person_CD !_.
+cons_NNS :_: -_: SMALL_NNP :_: space_NN is_VBZ TIGHT_NNP ._.
+oh_UH so_RB european_JJ of_IN them_PRP i_FW think_VB ._.
+the_DT neighboring_VBG tables_NNS were_VBD a_DT mere_JJ hands-breathe_NN away_RB ._.
+talk_NN about_IN awkward_JJ when_WRB you_PRP try_VBP to_TO squeeze_VB your_PRP$ fat_JJ ass_NN out_IN from_IN between_IN the_DT tables_NNS ,_, cause_NN youre_NN left_VBD with_IN the_DT question_NN ,_, ass_NN or_CC crotch_VB ?_.
+one_CD wall_NN was_VBD lined_VBN with_IN two_CD tops_NNS ,_, while_IN the_DT other_JJ wall_NN had_VBD about_IN 5-6_CD tables_NNS for_IN four_CD tops_NNS ._.
+though_RB ,_, i_FW think_VB the_DT two_CD top_JJ tables_NNS would_MD easily_RB combine_VB to_TO make_VB larger_JJR tables_NNS ._.
+not_RB really_RB the_DT place_NN to_TO bring_VB a_DT group_NN of_IN 20_CD ._.
+unless_IN you_PRP want_VBP to_TO rent_VB the_DT entire_JJ place_NN out_RB ._.
+-_: sorry_JJ to_TO bash_VB on_IN whoever_WP writes_VBZ out_RP the_DT wine_NN list_NN on_IN the_DT chalkboard_NN wall_NN ,_, but_CC help_VB a_DT sister_NN out_IN and_CC make_VB it_PRP more_RBR legible_JJ !_.
+i_FW had_VBD to_TO squint_VB and_CC tilt_VB my_PRP$ head_NN in_IN the_DT romantic_JJ lighting_NN to_TO see_VB what_WP was_VBD on_IN the_DT wall_NN ._.
+-_: location_NN :_: ghetto_NN ._.
+would_MD i_FW go_VB again_RB ?_.
+YES_NNP !_.
+i_FW think_VB more_JJR visits_NNS would_MD bump_VB this_DT place_NN up_RB to_TO 5\/5_CD stars_NNS ._.
+hoping_VBG to_TO go_VB again_RB sooooooon_JJ !_.

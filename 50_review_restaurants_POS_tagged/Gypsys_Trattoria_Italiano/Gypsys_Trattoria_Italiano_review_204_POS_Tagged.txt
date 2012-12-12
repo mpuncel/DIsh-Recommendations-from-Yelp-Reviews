@@ -1,0 +1,3 @@
+Great_NNP place_NN to_TO go_VB on_IN a_DT budget_NN !!_NN this_DT place_NN is_VBZ just_RB ..._: MMM_NNP !!_CD if_IN you_PRP crave_VBP italian_JJ ,_, GO_VB HERE_RB !_.
+pastas_NNS only_RB about_IN 7_CD or_CC 8_CD bucks_NNS a_DT plate_NN and_CC its_PRP$ a_DT great_JJ portion_NN for_IN one_CD person_NN !_.
+you_PRP get_VBP full_JJ and_CC you_PRP save_VBP money_NN !_.

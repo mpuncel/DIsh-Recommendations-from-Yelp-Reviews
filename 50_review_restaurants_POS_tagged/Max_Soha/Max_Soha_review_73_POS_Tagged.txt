@@ -1,0 +1,9 @@
+Let_NNP 's_POS be_VB honest_JJ -_: Morningside_NNP Hts_NNP ._.
+is_VBZ n't_RB exactly_RB chock_VB full_JJ of_IN culinary_JJ gems_NNS ._.
+So_RB Max_NNP Soha_NNP has_VBZ literally_RB been_VBN a_DT saving_NN grace_NN for_IN the_DT past_JJ few_JJ years_NNS ._.
+Reasonable_JJ prices_NNS -LRB-_-LRB- though_IN they_PRP did_VBD recently_RB hike_VB up_RP rates_NNS -RRB-_-RRB- means_VBZ that_IN you_PRP can_MD eat_VB a_DT hearty_NN and_CC delicious_JJ meal_NN for_IN under_IN $_$ 20_CD pp_NN in_IN a_DT great_JJ atmosphere_NN ._.
+Max_NNP Soha_NNP offers_VBZ authentic_JJ Italian_JJ food_NN -_: from_IN lasagna_NN ,_, to_TO ravioli_NNS ,_, to_TO the_DT risotto_NN of_IN the_DT day_NN ,_, they_PRP 've_VBP got_VBD it_PRP all_DT ._.
+My_PRP$ favorite_JJ is_VBZ the_DT pasta_NN with_IN broccoli_NNS rabe_VBP and_CC sausage_VBP ._.
+honestly_RB ,_, Max_NNP Soha_NNP 's_POS is_VBZ the_DT best_JJS version_NN of_IN this_DT dish_NN I_PRP 've_VBP ever_RB had_VBN in_IN the_DT city_NN ._.
+They_PRP also_RB offer_VBP over_IN half_PDT a_DT dozen_NN specials_NNS every_DT day_NN of_IN interesting_JJ pastas_NNS ,_, salads_NNS ,_, soups_NNS ,_, etc._FW ._.
+Definitely_RB check_VB it_PRP out_RP

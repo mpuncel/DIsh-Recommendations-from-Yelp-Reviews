@@ -1,0 +1,2 @@
+The_DT pizza_NN is_VBZ good_JJ ._.
+It_PRP is_VBZ not_RB $_$ 26_CD good_JJ ._.

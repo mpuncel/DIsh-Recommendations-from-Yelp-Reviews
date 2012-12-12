@@ -1,0 +1,4 @@
+This_DT is_VBZ the_DT perfect_JJ example_NN of_IN a_DT place_NN that_IN the_DT students_NNS can_MD walk_VB to_TO and_CC ,_, so_RB ,_, does_VBZ n't_RB have_VB to_TO be_VB very_RB good_JJ ._.
+I_PRP was_VBD a_DT lot_NN disappointed_VBN with_IN the_DT dishes_NNS we_PRP got_VBD here_RB ._.
+I_PRP must_MD say_VB I_PRP did_VBD n't_RB get_VB the_DT cream_NN sauce_NN that_WDT everyone_NN loves_VBZ ,_, but_CC the_DT other_JJ stuff_NN was_VBD a_DT little_JJ canned_JJ --_: not_RB authentic_JJ ._.
+I_PRP guess_VBP since_IN I_PRP am_VBP blessed_VBN with_IN a_DT car_NN I_PRP would_MD prefer_VB pasta_NN pomodoro_NN or_CC even_RB Macaroni_NNP grill_NN !_.

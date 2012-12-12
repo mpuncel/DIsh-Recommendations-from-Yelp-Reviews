@@ -1,0 +1,10 @@
+2.5_CD Stars_NNP We_PRP dined_VBD at_IN Campo_NNP during_IN its_PRP$ first_JJ week_NN in_IN operation_NN ._.
+I_PRP ordered_VBD an_DT arugula_NN salad_NN with_IN shaved_VBN pecorino_NN and_CC the_DT wild_JJ boar_NN bolognese_NN ;_: my_PRP$ wife_NN had_VBD the_DT mushroom_NN pappardelle_NN and_CC a_DT side_NN of_IN broccoli_NNS rabe_VBP ._.
+The_DT good_JJ :_: The_DT restaurant_NN staff_NN was_VBD incredibly_RB courteous_JJ and_CC the_DT food_NN arrived_VBD quickly_RB ,_, despite_IN how_WRB busy_JJ the_DT restaurant_NN was_VBD ._.
+We_PRP also_RB received_VBD a_DT 15_CD %_NN ``_`` grand_JJ opening_NN ''_'' discount_NN ._.
+I_PRP am_VBP not_RB sure_JJ that_IN I_PRP agree_VBP that_IN the_DT food_NN at_IN Campo_NNP is_VBZ better_JJR than_IN its_PRP$ predecessor_NN ,_, but_CC the_DT decorations_NNS are_VBP an_DT improvement_NN and_CC Campo_NNP is_VBZ a_DT welcome_JJ addition_NN to_TO Morningside_NNP Heights_NNP ._.
+Needs_NNS a_DT little_JJ work_NN :_: The_DT -LRB-_-LRB- temporary_JJ -RRB-_-RRB- menu_NN included_VBD some_DT appetizing_JJ dishes_NNS ,_, but_CC I_PRP found_VBD the_DT menu_NN rather_RB limited_JJ -LRB-_-LRB- including_VBG no_DT soup_NN -RRB-_-RRB- ._.
+Food_NNP :_: the_DT somewhat_RB wilted_JJ arugula_NN was_VBD drenched_VBN in_IN balsamic_JJ vinegar_NN an_DT there_EX were_VBD only_RB a_DT few_JJ small_JJ pieces_NNS of_IN -LRB-_-LRB- rubbery_NN -RRB-_-RRB- pecorino_NN ._.
+The_DT modest_JJ helping_VBG of_IN wild_JJ boar_NN bolognese_NN was_VBD tasty_JJ ._.
+The_DT pappardelle_NN was_VBD fresh_JJ and_CC also_RB pretty_RB good_JJ and_CC the_DT broccoli_NNS was_VBD a_DT bit_NN spicier_NN and_CC oilier_JJR than_IN expected_VBN ._.
+Over_IN all_DT ,_, the_DT food_NN was_VBD okay_JJ and_CC the_DT prices_NNS were_VBD a_DT bit_NN high_JJ considering_VBG the_DT small_JJ portions_NNS ._.

@@ -1,0 +1,6 @@
+I_PRP could_MD enjoy_VB this_DT restaurant_NN !_.
+I_PRP tried_VBD Smoked_NNP Salmon_NNP Appetizer_NNP :_: just_RB good_JJ ._.
+Tuna_NNP Crilled_NNP Nicoise_NNP :_: was_VBD awesome_JJ ._.
+Seafood_NN puff_NN pastry_NN looks_VBZ very_RB good_JJ ._.
+It_PRP was_VBD little_JJ noisy_JJ to_TO have_VB good_JJ conversation_NN ._.
+Standford_NNP shopping_NN center_NN is_VBZ always_RB pleasure_NN place_NN to_TO go_VB ._.
