@@ -1,0 +1,76 @@
+6 polipo
+6 gnocchi
+9 caprese
+9 calamari
+12 agnolotti
+7 zuppa di mare
+6 pappardelle
+5 caprese
+-6 calamari
+6 calamari
+9 affettati e formaggi
+20 ossobuco
+10 caprese
+9 funghi
+11 penne
+2 calamari
+4 mezzalune
+-5 calamari
+5 prosciutto
+8 agnolotti
+3 cozze
+4 risotto frutti di mare
+-4 anatra
+4 caprese
+3 bietole
+15 agnello
+-2 spaghetti casalinga
+5 calamari
+2 pesce
+7 calamari
+7 caprese
+-6 calamari
+13 caprese
+9 caprese
+3 zuppa di mare
+12 bruschetta
+6 agnolotti
+5 gnocchi
+12 agnolotti
+14 penne
+8 calamari
+9 linguine
+-4 prosciutto
+3 insalata verde
+7 gnocchi
+8 calamari
+10 bistecca alla pizzaiola
+10 cesare
+11 caprese
+-8 bruschetta
+5 farfalle
+9 farfalle
+7 bruschetta
+12 bruschetta
+0 gnocchi
+4 gnocchi
+4 pappardelle
+10 calamari
+2 pappardelle
+6 calamari
+10 calamari
+-11 quattro formaggi
+16 risotto frutti di mare
+3 lasagna matta
+2 risotto frutti di mare
+2 calamari
+11 calamari
+6 calamari
+-5 bruschetta
+3 calamari
+10 salsiccia
+10 prosciutto
+14 prosciutto
+6 spaghetti casalinga
+16 linguine
+7 agnolotti

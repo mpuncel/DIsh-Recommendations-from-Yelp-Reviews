@@ -1,0 +1,71 @@
+3 gnocchi
+14 salmon
+2 salmon
+18 fish
+12 fish
+-9 short rib bolognese
+21 polenta
+8 polenta
+9 salmon
+2 antipasto
+-11 spaghetti
+7 gnocchi
+3 gnocchi
+3 gnocchi
+10 gnocchi
+9 short rib bolognese
+-8 mussels
+-7 ravioli
+-8 short rib bolognese
+2 arugula salad
+3 ravioli
+6 mussels
+7 ravioli
+8 mussels
+7 ravioli
+1 linguine
+6 gnocchi
+6 salmon
+-11 salmon
+3 ravioli
+-2 ravioli
+1 fish
+3 mussels
+4 fish
+7 salmon
+8 fish
+10 polenta
+6 spinach salad
+3 ravioli
+5 polenta
+6 gnocchi
+5 gnocchi
+-6 calamari
+10 calamari
+10 caesar salad
+4 calamari
+10 salmon
+3 ravioli
+14 ravioli
+14 gnocchi
+12 antipasto
+10 caesar salad
+6 short rib bolognese
+3 antipasto
+21 short rib bolognese
+-8 mussels
+-11 mussels
+2 spinach salad
+-7 ravioli
+4 short rib bolognese
+-13 greens salad
+16 short rib bolognese
+6 spaghetti
+6 gnocchi
+-3 salmon
+6 ravioli
+0 spinach salad
+9 salmon
+0 calamari
+7 polenta
+10 spaghetti

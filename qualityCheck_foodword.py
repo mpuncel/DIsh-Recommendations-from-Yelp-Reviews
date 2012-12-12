@@ -1,6 +1,6 @@
 import os
 
-predictions_base = 'test/predictions2_foodword/'
+predictions_base = 'test/predictions4_foodword/'
 baseline_base = 'test/baselinepredictions/'
 training_snippets_base = 'training/longSnippets2/'
 training_suffix = '_training.txt'

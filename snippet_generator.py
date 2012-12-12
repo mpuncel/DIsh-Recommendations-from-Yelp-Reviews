@@ -4,14 +4,14 @@ import sys
 
 logging.basicConfig(filename='snippet_generator.log', level=logging.DEBUG)
 
-length = 'LONG'
+length = 'NORMAL'
 menu_base = 'Menus/'
 test_output_base = None
 if length == "NORMAL":
 	print "normal"
-	training_output_base = "training/Snippets2foodword/"
-	test_output_base = "test/Snippets2foodword/"
-	NUM_TRAILING_WORDS = 12
+	training_output_base = "training/Snippets4foodword/"
+	test_output_base = "test/Snippets4foodword/"
+	NUM_TRAILING_WORDS = 16
 elif length == "SHORT":
 	print "short"
 	training_output_base = "training/shortSnippets2foodword/"
