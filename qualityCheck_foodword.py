@@ -1,4 +1,5 @@
 import os
+import math
 
 predictions_base = 'test/predictions4_foodword/'
 baseline_base = 'test/baselinepredictions/'
@@ -30,6 +31,8 @@ for dirpath, dirnames, filenames in os.walk(predictions_base):
     sumBRecall = 0
     sumBNPrecision = 0
     sumBNRecall = 0
+    sumMCC = 0
+    sumBMCC = 0
     
     for filename in filenames:
         predictions = file(dirpath + filename).read().split('\n')
@@ -47,6 +50,7 @@ for dirpath, dirnames, filenames in os.walk(predictions_base):
         recall = 0
         negprec = 0
         negrec = 0
+        MCC = 0
         for i in range(len(pred)):
             if sign(pred[i][0]) != actual[i]:
                 wrongCount+=1
@@ -64,6 +68,8 @@ for dirpath, dirnames, filenames in os.walk(predictions_base):
             recall = (truePos)/float(truePos + falseNeg)
             negprec = (trueNeg)/float(trueNeg + falseNeg)
             negrec = (trueNeg)/float(trueNeg + falsePos)
+            MCC = (truePos*trueNeg - falsePos*falseNeg)/math.sqrt((truePos+falsePos)*(truePos+falseNeg)*(trueNeg+falsePos)*(trueNeg+falseNeg))
+
         except:
             pass
         
@@ -105,6 +111,7 @@ for dirpath, dirnames, filenames in os.walk(predictions_base):
             sumRecall += recall
             sumNPrecision += negprec
             sumNRecall += negrec
+            sumMCC += MCC
 
         print "__________________________"
         
@@ -118,6 +125,7 @@ for dirpath, dirnames, filenames in os.walk(predictions_base):
         recall = 0
         negprec = 0
         negrec = 0
+        MCC = 0
         baselines = file(baseline_base + filename).read().split('\n')
         del baselines[-1]
         baseline = [sign(b) for b in baselines]
@@ -138,6 +146,7 @@ for dirpath, dirnames, filenames in os.walk(predictions_base):
             recall = (truePos)/float(truePos + falseNeg)
             negprec = (trueNeg)/float(trueNeg + falseNeg)
             negrec = (trueNeg)/float(trueNeg + falsePos)
+            MCC = (truePos*trueNeg - falsePos*falseNeg)/math.sqrt((truePos+falsePos)*(truePos+falseNeg)*(trueNeg+falsePos)*(trueNeg+falseNeg))
         except:
             pass
         percentage = ((len(actual)-wrongCount)*1.0)/(len(actual)*1.0)
@@ -153,6 +162,7 @@ for dirpath, dirnames, filenames in os.walk(predictions_base):
             sumBRecall += recall
             sumBNPrecision += negprec
             sumBNRecall += negrec
+            sumBMCC += MCC
 
         print "----------------------------------------------------------"
     N = float(len(test_restaurants))
@@ -161,11 +171,13 @@ for dirpath, dirnames, filenames in os.walk(predictions_base):
     print "Average Recall: " + str((sumRecall/N))
     print "Average Neg Precision: " + str((sumNPrecision/N))
     print "Average Neg Recall: " + str((sumNRecall/N))
+    print "Average MCC: " + str((sumMCC/N))
     print "Average Baseline Percentage: " + str((sumBPercentage/N))
     print "Average Baseline Pecision: " + str((sumBPrecision/N))
     print "Average Baseline Recall: " + str((sumBRecall/N))
     print "Average Baseline Neg Precision: " + str((sumBNPrecision/N))
     print "Average Baseline Neg Recall: " + str((sumBNRecall/N))
+    print "Average Baseline MCC: " + str((sumBMCC/N))
 
                 
         

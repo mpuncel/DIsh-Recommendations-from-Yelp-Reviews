@@ -974,8 +974,10 @@ Average Pecision: 0.885744170725
 Average Recall: 0.858753020652
 Average Neg Precision: 0.260887096774
 Average Neg Recall: 0.326984126984
+Average MCC: 0.159743247202
 Average Baseline Percentage: 0.852436639937
 Average Baseline Pecision: 0.900108746782
 Average Baseline Recall: 0.932916946736
 Average Baseline Neg Precision: 0.369444444444
 Average Baseline Neg Recall: 0.324206349206
+Average Baseline MCC: 0.258540014985
