@@ -4,9 +4,9 @@ import re
 
 alpha = 1
 T = 60
-test_snippets_base = 'test/longSnippets2foodword/'
-predictions_base = 'test/longpospredictions/'
-training_snippets_base = 'training/longSnippets2foodword/'
+test_snippets_base = 'test/shortSnippets2foodword/'
+predictions_base = 'test/shortpospredictions/'
+training_snippets_base = 'training/shortSnippets2foodword/'
 adjectives_base = 'training/longposSnippets/'
 training_base = 'training/longSnippets2/'
 training_suffix = '_training.txt'
@@ -185,7 +185,7 @@ for restaurant_name in restaurants:
     try:
         snips = file(adjectives_base + restaurant_name + '.txt', 'r')
         for line in snips:
-            adjectives = adjectives.union(re.findall("[a-zA-Z0-9\-]+(?=_[jj|rb|vb][a-z]{0,1}[\s]*)", line))
+            adjectives = adjectives.union(re.findall("[a-zA-Z0-9\-]+(?=_jj[a-z]{0,1}[\s]*)", line))
         snips.close()
     except:
         pass
@@ -214,7 +214,7 @@ for training_restaurant_name in training_restaurants:
                         vocabWords = re.sub(exclusion_regex, '', line.lower()).split(' ')
                         vocab = vocab.union(set(vocabWords))
                 snips.close()
-        except:
+        except Exception, e:	
                 pass
         
 vocab = vocab.difference(foodVocab)
