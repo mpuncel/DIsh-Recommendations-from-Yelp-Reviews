@@ -4,9 +4,9 @@ import re
 
 alpha = 1
 T = 60
-test_snippets_base = 'test/Snippets4foodword/'
+test_snippets_base = 'test/shortSnippets2foodword/'
 predictions_base = 'test/predictions4_foodword/'
-training_snippets_base = 'training/Snippets4foodword/'
+training_snippets_base = 'training/shortSnippets2foodword/'
 training_base = 'training/longSnippets2/'
 training_suffix = '_training.txt'
 menu_base = 'Menus/'
@@ -204,6 +204,7 @@ for training_restaurant_name in training_restaurants:
                 pass
         
 vocab = vocab.difference(foodVocab)
+print len(vocab)
 vocab = list(vocab)
 weight = [0]*len(vocab)
 

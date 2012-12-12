@@ -4,9 +4,9 @@ import re
 
 alpha = 1
 T = 60
-test_snippets_base = 'test/shortSnippets2foodword/'
-predictions_base = 'test/shortpospredictions/'
-training_snippets_base = 'training/shortSnippets2foodword/'
+test_snippets_base = 'test/longSnippets2foodword/'
+predictions_base = 'test/longpospredictions/'
+training_snippets_base = 'training/longSnippets2foodword/'
 adjectives_base = 'training/longposSnippets/'
 training_base = 'training/longSnippets2/'
 training_suffix = '_training.txt'
@@ -207,6 +207,7 @@ for restaurant_name in restaurants:
         
 ##build vocabulary
 
+'''
 for training_restaurant_name in training_restaurants:
         try:
                 snips = file(training_snippets_base + training_restaurant_name + '.txt', 'r')
@@ -216,8 +217,10 @@ for training_restaurant_name in training_restaurants:
                 snips.close()
         except Exception, e:	
                 pass
+'''
         
 vocab = vocab.difference(foodVocab)
+print len(vocab)
 vocab = list(vocab)
 weight = [0]*len(vocab)
 
